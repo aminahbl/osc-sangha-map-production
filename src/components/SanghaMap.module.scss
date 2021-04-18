@@ -1,0 +1,34 @@
+.infoWindowContainerClass {
+  width: 350px;
+  height: 225px;
+  color: white;
+  background-color: #dfebe8;
+  // background-color: #cfcece;
+  border-radius: 10px;
+}
+
+
+.infoWindowHeaderClass {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(155, 51, 13);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.infoWindowHeadingClass {
+  padding: .5rem;
+}
+
+
+.infoWindowBodyClass {
+  padding: .75rem;
+  font-size: 14px;
+  line-height: 1.2;
+  color: #000000;
+}
