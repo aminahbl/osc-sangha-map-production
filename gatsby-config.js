@@ -14,7 +14,7 @@ module.exports = {
     title: process.env.PROJ_NAME,
     description: process.env.PROJ_DESCRIPTION,
     author: process.env.PROJ_AUTHOR,
-    siteUrl: `${process.env.SITE_URL}`
+    // siteUrl: `${process.env.SITE_URL}`
   },
   /* Your site config here */
   plugins: [
