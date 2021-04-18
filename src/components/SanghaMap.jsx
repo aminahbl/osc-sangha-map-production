@@ -136,7 +136,7 @@ const SanghaMap = () => {
               let placeMarker
               let iconSize = [30, 30]
               switch (verified) {
-                case "verified with lay residents":
+                case "verified accepting lay residents":
                   placeMarker = communityMarker
                   iconSize = [45, 45]
                   break

@@ -51,7 +51,7 @@ Developed for the [Open Sangha Collective](https://opensanghacollective.org/); u
 
 - `"true"`
 - `"tentative"`
-- `"verified with lay residents"`
+- `"verified accepting lay residents"`
 - `"false"`
 
 
