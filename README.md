@@ -132,7 +132,7 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.com/docs/gatsby-config/) for more detail).
 
-7.  **`LICENSE`**:  To the extent possible under law,[OSC Mappers](https://github.com/aminahbl/osc-sangha-map-production) waiv all copyright and related or neighboring rights to <span property="dct:title">Sangha Map</span>. This work is published from: <span property="vcard:Country" datatype="dct:ISO3166"
+7.  **`LICENSE`**:  To the extent possible under law, [OSC Mappers](https://github.com/aminahbl/osc-sangha-map-production) waiv all copyright and related or neighboring rights to <span property="dct:title">Sangha Map</span>. This work is published from: <span property="vcard:Country" datatype="dct:ISO3166"
       content="GB" about="https://github.com/aminahbl/osc-sangha-map-production">
   United Kingdom</span>.
 

@@ -63,9 +63,12 @@ const center = {
   lng: 155.0725,
 }
 
+
+
 const SanghaMap = () => {
+
   const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: process.env.GOOGLE_MAPS_API_KEY,
+    googleMapsApiKey: process.env.GATSBY_GOOGLE_MAPS_API_KEY,
     libraries,
   })
 
