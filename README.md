@@ -1,3 +1,10 @@
+<span xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
+  </a>
+</span>
+
 (Working draft)
 
 # Sangha Map 
@@ -125,17 +132,9 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.com/docs/gatsby-config/) for more detail).
 
-7.  **`LICENSE`**: 
-  <span xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="https://licensebuttons.net/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
-  </a>
-    To the extent possible under law,[OSC Mappers](https://github.com/aminahbl/osc-sangha-map-production) waiv all copyright and related or neighboring rights to <span property="dct:title">Sangha Map</span>. This work is published from:
-    <span property="vcard:Country" datatype="dct:ISO3166"
+7.  **`LICENSE`**:  To the extent possible under law,[OSC Mappers](https://github.com/aminahbl/osc-sangha-map-production) waiv all copyright and related or neighboring rights to <span property="dct:title">Sangha Map</span>. This work is published from: <span property="vcard:Country" datatype="dct:ISO3166"
       content="GB" about="https://github.com/aminahbl/osc-sangha-map-production">
   United Kingdom</span>.
-    </span>
 
 8. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
 
