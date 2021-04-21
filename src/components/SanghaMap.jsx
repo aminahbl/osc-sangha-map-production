@@ -1,5 +1,6 @@
 import React, { useState, useRef, useCallback, useMemo } from "react"
 import { useStaticQuery, graphql } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 import {
   GoogleMap,
   useLoadScript,
@@ -136,7 +137,7 @@ const SanghaMap = () => {
               let placeMarker
               let iconSize = [30, 30]
               switch (verified) {
-                case "verified accepting lay residents":
+                case "verified, accepts lay residents":
                   placeMarker = communityMarker
                   iconSize = [45, 45]
                   break
@@ -183,7 +184,7 @@ const SanghaMap = () => {
                   {selected.properties.name}
                 </h2>
               </header>
-              <div className={infoWindowBodyClass}>
+              {/* <div className={infoWindowBodyClass}>
                 <address>
                   <p>
                     {selected.properties.formatted_address &&
@@ -206,7 +207,8 @@ const SanghaMap = () => {
                     )}
                   </p>
                 </address>
-              </div>
+              </div> */}
+              <StaticImage src="https://lh5.googleusercontent.com/p/AF1QipNSwhhx8ApXsGZpkiN4oSqanx35cpdahPgam0hv=w600-h321-p-k-no" alt />
             </div>
           </InfoWindow>
         )}
