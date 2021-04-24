@@ -44,6 +44,9 @@ export const jsonDataQuery = graphql`
             name
             place_id
             website
+            photos {
+              photo_reference
+            }
           }
           meta {
             verified
