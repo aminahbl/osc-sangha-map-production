@@ -90,9 +90,11 @@ const SanghaMap = () => {
   const getAllPlaces = () => {
     let accumulated = []
 
+    const regex = /(duplicate|false|remove)/i
+
     data.allDataJson.nodes.map(node => {
       node.places.forEach(place => {
-        if (place.meta.verified === "false") {
+        if (place.meta.verified.match(regex)) {
           return
         }
         accumulated.push(place)
