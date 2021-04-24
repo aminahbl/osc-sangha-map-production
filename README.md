@@ -92,7 +92,7 @@ Developed for the [Open Sangha Collective](https://opensanghacollective.org/); u
 - Working map built
 - 3743 records taken from the Places API, of which:
 - 1760 places initially marked as tentatively verified (places with "vihara", "monastery", "wat", "temple", or "hermitage" in the place name)
-- 1xxx places remain tentatively verified following first crude filter (making names including "hindu", "benedictine" and "st" as false + a handful of manual verifications) 
+- 1731 places remain tentatively verified following first crude filter (marking names including "hindu", "christ", "benedictine", "orthodox", "saint" and "st" to be removed + a handful of manual verifications) 
 
 ### Next Steps:
 

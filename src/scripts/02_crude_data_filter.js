@@ -33,13 +33,13 @@ dataFiles.forEach(file => {
     if (err) {
       console.log("Error reading:", err)
     } else {
-
-      const regex = /(\bhindu\b|benedictine|\bst\b)/i
+      
+      const regex = /(\bhindu\b|christ|orthodox|benedictine|saint|\bst\b)/i
       const timestamp = new Date()
 
       data.places.forEach((place, i) => {
         if (place.properties.name.match(regex)) {
-          data.places[i].meta.verified = "marked for removal"
+          data.places[i].meta.verified = "remove"
           data.places[i].meta.last_updated = timestamp.toISOString()
         }
       })
