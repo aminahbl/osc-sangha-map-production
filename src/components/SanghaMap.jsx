@@ -1,6 +1,5 @@
 import React, { useState, useRef, useCallback, useMemo } from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
 import {
   GoogleMap,
   useLoadScript,
@@ -14,11 +13,17 @@ import buddhaMarker from "../images/markers/buddha-marker.png"
 import dhammaMarker from "../images/markers/dhamma-marker.png"
 import sanghaMarker from "../images/markers/sangha-marker.png"
 import communityMarker from "../images/markers/community-marker.png"
+import infoStandinCover from "../images/info-standin-cover.svg"
+import InfoButtonIcon from "../images/icon-info-button.inline.svg"
 import {
   infoWindowContainerClass,
   infoWindowHeaderClass,
   infoWindowBodyClass,
+  infoWindowImageWrapperClass,
+  infoWindowImageClass,
   infoWindowHeadingClass,
+  infoButtonClass,
+  infoButtonIconClass,
 } from "./SanghaMap.module.scss"
 
 export const jsonDataQuery = graphql`
@@ -64,10 +69,7 @@ const center = {
   lng: 155.0725,
 }
 
-
-
 const SanghaMap = () => {
-
   const { isLoaded, loadError } = useLoadScript({
     googleMapsApiKey: process.env.GATSBY_GOOGLE_MAPS_API_KEY,
     libraries,
@@ -99,7 +101,6 @@ const SanghaMap = () => {
   const allPlaces = useMemo(() => {
     return getAllPlaces()
   }, [])
-
 
   function createKey(location) {
     return location.lat + location.lng
@@ -145,6 +146,10 @@ const SanghaMap = () => {
                   placeMarker = sanghaMarker
               }
 
+              const infoCoverImg = place.properties.photos?.length
+                ? `https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=${place.properties.photos[0].photo_reference}&key=${process.env.GATSBY_GOOGLE_MAPS_API_KEY}`
+                : infoStandinCover
+
               return (
                 <Marker
                   key={createKey(place.properties.geometry.location)}
@@ -154,13 +159,19 @@ const SanghaMap = () => {
                   }}
                   clusterer={clusterer}
                   onClick={() => {
-                    setSelected(place)
+                    setSelected({
+                      ...place,
+                      infoCoverImg: infoCoverImg,
+                    })
                   }}
                   icon={{
                     url: placeMarker,
                     origin: new window.google.maps.Point(0, 0),
                     anchor: new window.google.maps.Point(15, 15),
-                    scaledSize: new window.google.maps.Size(iconSize[0], iconSize[1]),
+                    scaledSize: new window.google.maps.Size(
+                      iconSize[0],
+                      iconSize[1]
+                    ),
                   }}
                 ></Marker>
               )
@@ -184,31 +195,20 @@ const SanghaMap = () => {
                   {selected.properties.name}
                 </h2>
               </header>
-              {/* <div className={infoWindowBodyClass}>
-                <address>
-                  <p>
-                    {selected.properties.formatted_address &&
-                      selected.properties.formatted_address.replace(
-                        "/,/g",
-                        "\\n"
-                      )}
-                    <br />
-                    {selected.properties.international_phone_number &&
-                      selected.properties.international_phone_number}
-                    <br />
-                    {selected.properties.website && (
-                      <a
-                        href={selected.properties.website}
-                        target="_blank"
-                        rel="noopener nofollow"
-                      >
-                        {selected.properties.website}
-                      </a>
-                    )}
-                  </p>
-                </address>
-              </div> */}
-              <StaticImage src="https://lh5.googleusercontent.com/p/AF1QipNSwhhx8ApXsGZpkiN4oSqanx35cpdahPgam0hv=w600-h321-p-k-no" alt />
+              <div className={infoWindowImageWrapperClass}>
+                <img
+                  className={infoWindowImageClass}
+                  src={selected.infoCoverImg}
+                  alt={selected.properties.name}
+                />
+                <span
+                  className={infoButtonClass}
+                  role="button"
+                  aria-label="More information"
+                >
+                  <InfoButtonIcon className={infoButtonIconClass} />
+                </span>
+              </div>
             </div>
           </InfoWindow>
         )}

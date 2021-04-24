@@ -1,3 +1,5 @@
 [build]
     functions = "functions/"
     public = "public"
+[dev]
+  autoLaunch = false

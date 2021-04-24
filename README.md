@@ -49,11 +49,11 @@ Developed for the [Open Sangha Collective](https://opensanghacollective.org/); u
 
 #### Verified property values:
 
-- `"true"`
-- `"tentative"`
-- `"verified, accepts lay residents"`
-- `"false"`
-https://osc-sangha-map.netlify.app/
+- `true`
+- `tentative`
+- `verified, accepts lay residents`
+- `duplicate`
+- `false`
 
 
 ### Working Data Schema

@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "osc-sangha-map",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Mapping the Sangha",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -28,7 +28,7 @@
     "gatsby-source-filesystem": "^3.2.0",
     "gatsby-transformer-json": "^3.3.0",
     "google-map-react": "^2.1.9",
-    "netlify-cli": "^3.18.3",
+    "netlify-cli": "^3.21.8",
     "node-sass": "^5.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
