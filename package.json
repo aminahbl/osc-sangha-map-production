@@ -15,6 +15,7 @@
     "netlify": "./node_modules/@netlify"
   },
   "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.1.16",
     "@reach/combobox": "^0.15.0",
     "@react-google-maps/api": "^2.1.1",
     "dotenv": "^8.2.0",
