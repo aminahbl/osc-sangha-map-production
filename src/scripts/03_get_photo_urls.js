@@ -1,6 +1,5 @@
-import {Client} from "@googlemaps/google-maps-services-js"
-
 const fs = require("fs")
+const { Client } = require("@googlemaps/google-maps-services-js")
 
 /*
  * FUNCTIONS
@@ -22,42 +21,53 @@ function jsonReader(filePath, callBack) {
   })
 }
 
-function getPhotoURLs(photos) {
-    // TODO
-    imageUrls = photos.map(photo => {
-        const url = photo.getUrl({
-            maxWidth: 600,
-            maxHeight: 400
-        })
-        return url
+function addImageData(file, data, i, photos) {
+  const mapsClient = new Client({})
+  const timestamp = new Date()
+
+  data.places[i].properties.image_urls = []
+
+  photos.map(async photo => {
+    let params = {
+      key: "",
+      photoreference: photo.photo_reference,
+      maxwidth: 800,
+      maxheight: 800,
+    }
+
+    let url = await mapsClient
+      .placePhoto({
+        params: params,
+        timeout: 3000, // milliseconds
+      })
+      .then(response => {
+        return response.request.res.responseUrl
+      })
+      .catch(error => {
+        console.log(error)
+      })
+
+    data.places[i].properties.image_urls = [
+      ...data.places[i].properties.image_urls,
+      url,
+    ]
+    data.places[i].meta.last_updated = timestamp.toISOString()
+
+    fs.writeFile(`${dataDir}${file}`, JSON.stringify(data, null, 2), err => {
+      if (err) {
+        console.log("Error writing:", err)
+      }
     })
-    return imageUrls
+  })
 }
 
 /*
- * CALLS
+ * RUN
  *
  */
 
-const maps = new Client({})
-
-const dataDir = "./src/data-test/"
+const dataDir = "./src/data/"
 const dataFiles = fs.readdirSync(dataDir)
-
-maps
-  .places({
-    params: {
-      locations: [{ lat: 45, lng: -110 }],
-      key: process.env.GOOGLE_MAPS_API_KEY
-    },
-    timeout: 1000, // milliseconds
-  })
-  .then((r) => {
-    console.log(r.data.results[0].elevation);
-  })
-  .catch((e) => {
-    console.log(e.response.data.error_message);
-  });
 
 dataFiles.forEach(file => {
   jsonReader(`${dataDir}${file}`, (err, data) => {
@@ -65,24 +75,16 @@ dataFiles.forEach(file => {
       console.log("Error reading:", err)
     } else {
       const regex = /(true|tentative|verified, accepts lay residents)/i
-      const timestamp = new Date()
 
       data.places.forEach((place, i) => {
         if (
           place.meta.verified.match(regex) &&
-          place.properties.photos.length
+          place.properties.photos?.length
         ) {
-          /* 
-           1. photoURLs = getPhotoURLs(place.photos)
-           2. data.places[i].properties.image_urls = [...photoURLs]
-           */
-          data.places[i].meta.last_updated = timestamp.toISOString()
-        }
-      })
+          console.log(`Getting photos for: ${place.properties.name}`)
+          addImageData(file, data, i, place.properties.photos)
 
-      fs.writeFile(`${dataDir}${file}`, JSON.stringify(data, null, 2), err => {
-        if (err) {
-          console.log("Error writing:", err)
+          setTimeout(() => {}, 3000)
         }
       })
     }
