@@ -39,6 +39,7 @@ Developed for the [Open Sangha Collective](https://opensanghacollective.org/); u
 
 - The community follows [Vinaya](https://suttacentral.net/pitaka/vinaya) based ordination (see [intro to the Vinaya](https://suttacentral.net/vinaya)).
 - By case by case assesment for boarder cases.
+  - Aligned with the mission to promote a dana culture
 
 #### Verified property values:
 

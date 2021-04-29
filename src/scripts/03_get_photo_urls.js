@@ -27,7 +27,7 @@ function addImageData(file, data, i, photos) {
 
   data.places[i].properties.image_urls = []
 
-  photos.map(async photo => {
+  photos.map(photo => {
     let params = {
       key: "",
       photoreference: photo.photo_reference,
@@ -35,29 +35,29 @@ function addImageData(file, data, i, photos) {
       maxheight: 800,
     }
 
-    let url = await mapsClient
+    mapsClient
       .placePhoto({
         params: params,
         timeout: 3000, // milliseconds
       })
       .then(response => {
-        return response.request.res.responseUrl
+        data.places[i].properties.image_urls = [
+          ...data.places[i].properties.image_urls,
+          response.request.res.responseUrl,
+        ]
+        data.places[i].meta.last_updated = timestamp.toISOString()
+    
+        fs.writeFile(`${dataDir}${file}`, JSON.stringify(data, null, 2), err => {
+          if (err) {
+            console.log("Error writing:", err)
+          }
+        })
       })
       .catch(error => {
         console.log(error)
       })
 
-    data.places[i].properties.image_urls = [
-      ...data.places[i].properties.image_urls,
-      url,
-    ]
-    data.places[i].meta.last_updated = timestamp.toISOString()
-
-    fs.writeFile(`${dataDir}${file}`, JSON.stringify(data, null, 2), err => {
-      if (err) {
-        console.log("Error writing:", err)
-      }
-    })
+    
   })
 }
 
@@ -89,4 +89,5 @@ dataFiles.forEach(file => {
       })
     }
   })
+  setTimeout(() => {}, 3000)
 })
