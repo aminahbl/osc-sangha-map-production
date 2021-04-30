@@ -21,73 +21,97 @@ function jsonReader(filePath, callBack) {
   })
 }
 
-function addImageData(file, data, i, photos) {
+function getURL(photoRef) {
   const mapsClient = new Client({})
-  const timestamp = new Date()
 
-  data.places[i].properties.image_urls = []
+  let params = {
+    key: "",
+    photoreference: photoRef,
+    maxwidth: 800,
+    maxheight: 800,
+  }
 
-  photos.map(photo => {
-    let params = {
-      key: "",
-      photoreference: photo.photo_reference,
-      maxwidth: 800,
-      maxheight: 800,
-    }
+  const result = mapsClient
+    .placePhoto({
+      params: params,
+      timeout: 3000, // milliseconds
+    })
+    .then(response => response.request.res.responseUrl)
+    .catch(error => {
+      console.log(error)
+    })
 
-    mapsClient
-      .placePhoto({
-        params: params,
-        timeout: 3000, // milliseconds
-      })
-      .then(response => {
-        data.places[i].properties.image_urls = [
-          ...data.places[i].properties.image_urls,
-          response.request.res.responseUrl,
-        ]
-        data.places[i].meta.last_updated = timestamp.toISOString()
-    
-        fs.writeFile(`${dataDir}${file}`, JSON.stringify(data, null, 2), err => {
-          if (err) {
-            console.log("Error writing:", err)
-          }
-        })
-      })
-      .catch(error => {
-        console.log(error)
-      })
+  return result
+}
 
-    
-  })
+function getImageData(photos) {
+  let placeImages = []
+
+  for (const photo of photos) {
+    const imageURL = getURL(photo.photo_reference)
+    imageURL.then(url => {
+      console.log(`Current image url: ${url}`)
+      placeImages.push(url)
+    })
+  }
+
+  console.log(`Current place images: ${placeImages}`)
+  return placeImages
 }
 
 /*
- * RUN
+ * MAIN
  *
  */
 
-const dataDir = "./src/data/"
+const dataDir = "./src/data-test/"
 const dataFiles = fs.readdirSync(dataDir)
 
 dataFiles.forEach(file => {
-  jsonReader(`${dataDir}${file}`, (err, data) => {
-    if (err) {
-      console.log("Error reading:", err)
+  jsonReader(`${dataDir}${file}`, (error, data) => {
+    if (error) {
+      console.log("Error reading:", error)
     } else {
+      let updatedData = { ...data }
+      let placeIndex = 0
+      const timestamp = new Date()
       const regex = /(true|tentative|verified, accepts lay residents)/i
 
-      data.places.forEach((place, i) => {
+      for (const place of data.places) {
         if (
           place.meta.verified.match(regex) &&
           place.properties.photos?.length
         ) {
-          console.log(`Getting photos for: ${place.properties.name}`)
-          addImageData(file, data, i, place.properties.photos)
+          console.log(`Processing photos for: ${place.properties.name}`)
+          const placeImages = getImageData(place.properties.photos)
 
-          setTimeout(() => {}, 3000)
+          if (placeImages.length) {
+            updatedData.places[placeIndex].properties.image_urls = [
+              ...placeImages,
+            ]
+          }
+          updatedData.places[
+            placeIndex
+          ].meta.last_updated = timestamp.toISOString()
+
+          console.log(
+            `Writing image_urls for: ${updatedData.places[placeIndex].properties.name}`
+          )
+          fs.writeFile(
+            `${dataDir}${file}`,
+            JSON.stringify(updatedData, null, 2),
+            error => {
+              if (error) {
+                console.log("Error writing:", error)
+              }
+            }
+          )
         }
-      })
+
+        placeIndex += 1
+      }
     }
   })
-  setTimeout(() => {}, 3000)
 })
+
+
