@@ -21,6 +21,12 @@ function jsonReader(filePath, callBack) {
   })
 }
 
+function sleep(time) {
+  return new Promise(resolve => setTimeout(resolve, time))
+}
+
+const zeroPad = (num, places) => String(num).padStart(places, "0")
+
 function getURL(photoRef) {
   const mapsClient = new Client({})
 
@@ -34,7 +40,7 @@ function getURL(photoRef) {
   return mapsClient
     .placePhoto({
       params: params,
-      timeout: 3000, // milliseconds
+      timeout: 60000, // milliseconds
     })
     .then(response => response.request.res.responseUrl)
     .catch(error => {
@@ -53,6 +59,7 @@ async function processPhotoRefs(photos) {
       // if (response.status !== 200) {
       //   throw new Error(`HTTP error status: ${response.status}`)
       // }
+
       placeImages.push(response)
     } catch (err) {
       console.log(`Yikes, processing photo refs failed! ${err}`)
@@ -82,13 +89,9 @@ function writeUpdatedProdData(updateData, fileIndex) {
       }
     )
   } catch (err) {
-    console.log(
-      `Crumbs, writing updated production data failed! ${err}`
-    )
+    console.log(`Crumbs, writing updated production data failed! ${err}`)
   }
 }
-
-const zeroPad = (num, places) => String(num).padStart(places, "0")
 
 /*
  * MAIN
@@ -114,39 +117,44 @@ dataFiles.forEach((file, fileIndex) => {
     if (error) {
       console.log("Error reading:", error)
     } else {
-      data.places.forEach(async (place, placeIndex) => {
-        if (
-          place.meta.verified.match(regex) &&
-          place.properties.photos?.length
-        ) {
-          try {
-            const placeImages = await processPhotoRefs(place.properties.photos)
+      data.places.forEach((place, placeIndex) => {
+        if (place.meta.verified.match(regex)) {
+          let updatedProdPlaceValues = {
+            monastics: [""],
+            images: [""],
+            video: [""],
+            audio: [""],
+          }
 
-            const updatedProdPlaceValues = {
-              monastics: [""],
-              images: [...placeImages],
-              video: [""],
-              audio: [""],
-            }
+          if (place.properties.photos) {
+            sleep(3000).then(async () => {
+              // Do something after the sleep!
+              try {
+                const placeImages = await processPhotoRefs(
+                  place.properties.photos
+                )
+                updatedProdPlaceValues.images = [...placeImages]
+                console.log(`\nfile: ${file}\nplaceIndex: ${placeIndex}\n`)
 
-            console.log(`\nfile: ${file}\nplaceIndex: ${placeIndex}\n`)
+                Object.assign(
+                  updatedProductionData.places[placeIndex].properties,
+                  updatedProdPlaceValues
+                )
 
-            Object.assign(
-              updatedProductionData.places[placeIndex].properties,
-              updatedProdPlaceValues
-            )
+                delete updatedProductionData.places[placeIndex].properties
+                  .photos
 
-            delete updatedProductionData.places[placeIndex].properties.photos
+                updatedProductionData.places[
+                  placeIndex
+                ].meta.last_updated = timestamp.toISOString()
 
-            updatedProductionData.places[
-              placeIndex
-            ].meta.last_updated = timestamp.toISOString()
-
-            writeUpdatedProdData(updatedProductionData, fileIndex)
-          } catch (err) {
-            console.log(
-              `Oh my, something's happened getting place Images! ${err}`
-            )
+                writeUpdatedProdData(updatedProductionData, fileIndex)
+              } catch (err) {
+                console.log(
+                  `Oh my, something's happened looping through places! ${err}`
+                )
+              }
+            })
           }
         } else {
           const updatedStoredPlaceValues = {
