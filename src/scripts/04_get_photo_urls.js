@@ -43,8 +43,8 @@ function getURL(photoRef) {
       timeout: 30000, // milliseconds
     })
     .then(response => response.request.res.responseUrl)
-    .catch(error => {
-      console.log(error)
+    .catch(err => {
+      console.log(err)
     })
 }
 
@@ -73,29 +73,29 @@ async function processPhotoRefs(photos) {
   return placeImages
 }
 
-function writeUpdatedProdData(updateData, fileIndex) {
-  try {
-    const updatedProductionPlaces = updateData.places.filter(place =>
-      place.meta.verified.match(regex)
-    )
-    const updatedProductionData = { places: [...updatedProductionPlaces] }
-    console.log(`Writing prod data in new file ${zeroPad(fileIndex + 1, 2)}`)
-    fs.writeFile(
-      `${rootDir}${productionDir}${productionFile}${zeroPad(
-        fileIndex + 1,
-        2
-      )}${ext}`,
-      JSON.stringify(updatedProductionData, null, 2),
-      error => {
-        if (error) {
-          console.log("Error writing:", error)
-        }
-      }
-    )
-  } catch (err) {
-    console.log(`Crumbs, writing updated production data failed! ${err}`)
-  }
-}
+// function writeUpdatedProdData(updateData, fileIndex) {
+//   try {
+//     const updatedProductionPlaces = updateData.places.filter(place =>
+//       place.meta.verified.match(regex)
+//     )
+//     const updatedProductionData = { places: [...updatedProductionPlaces] }
+//     console.log(`Writing prod data in new file ${zeroPad(fileIndex + 1, 2)}`)
+//     fs.writeFile(
+//       `${rootDir}${productionDir}${productionFile}${zeroPad(
+//         fileIndex + 1,
+//         2
+//       )}${ext}`,
+//       JSON.stringify(updatedProductionData, null, 2),
+//       err => {
+//         if (err) {
+//           console.log("Error writing:", err)
+//         }
+//       }
+//     )
+//   } catch (err) {
+//     console.log(`Crumbs, writing updated production data failed! ${err}`)
+//   }
+// }
 
 /*
  * MAIN
@@ -103,88 +103,48 @@ function writeUpdatedProdData(updateData, fileIndex) {
  */
 
 const rootDir = "./src/"
-const dataSrcDir = "data/initial-data-fetch/"
-const productionDir = "data/production/"
-const productionFile = "production_"
-const storedDir = "data/stored/"
-const storedFile = "stored_"
-const ext = ".json"
+const dataSrcDir = "data/production/"
 const dataFiles = fs.readdirSync(`${rootDir}${dataSrcDir}`)
-const regex = /(true|tentative|verified, accepts lay residents)/i
 const timestamp = new Date()
 
 dataFiles.forEach((file, fileIndex) => {
-  jsonReader(`${rootDir}${dataSrcDir}${file}`, (error, data) => {
-    let updatedProductionData = { ...data }
-    let updatedStoredData = { ...data }
+  jsonReader(`${rootDir}${dataSrcDir}${file}`, (error, fileData) => {
+    let updatedFileData = { ...fileData }
 
     if (error) {
       console.log("Error reading:", error)
     } else {
-      data.places.forEach(async (place, placeIndex) => {
-        if (place.meta.verified.match(regex)) {
-          let updatedProdPlaceValues = {
-            monastics: [""],
-            images: [""],
-            video: [""],
-            audio: [""],
+      fileData.places.forEach(async (place, placeIndex) => {
+        if (place.properties.photos) {
+          try {
+            console.log(`\nfile: ${file}\nplaceIndex: ${placeIndex}\n`)
+
+            const placeImages = await processPhotoRefs(place.properties.photos)
+            updatedFileData.places[placeIndex].properties.images = [
+              ...placeImages,
+            ]
+            delete updatedFileData.places[placeIndex].properties.photos
+
+            updatedFileData.places[
+              placeIndex
+            ].meta.last_updated = timestamp.toISOString()
+
+            fs.writeFile(
+              `${rootDir}${dataSrcDir}${file}`,
+              JSON.stringify(updatedFileData, null, 2),
+              err => {
+                if (err) {
+                  console.log(`Oh my, something happened writing ${rootDir}${dataSrcDir}${file}! ${err}`)
+                }
+              }
+            )
+          } catch (err) {
+            console.log(
+              `Crumbs, something happened looping through places! ${err}`
+            )
           }
-
-          if (place.properties.photos) {
-            try {
-              const placeImages = await processPhotoRefs(
-                place.properties.photos
-              )
-              updatedProdPlaceValues.images = [...placeImages]
-              console.log(`\nfile: ${file}\nplaceIndex: ${placeIndex}\n`)
-
-              Object.assign(
-                updatedProductionData.places[placeIndex].properties,
-                updatedProdPlaceValues
-              )
-
-              delete updatedProductionData.places[placeIndex].properties.photos
-
-              updatedProductionData.places[
-                placeIndex
-              ].meta.last_updated = timestamp.toISOString()
-
-              writeUpdatedProdData(updatedProductionData, fileIndex)
-            } catch (err) {
-              console.log(
-                `Oh my, something's happened looping through places! ${err}`
-              )
-            }
-          }
-        } else {
-          // const updatedStoredPlaceValues = {
-          //   monastics: [""],
-          //   video: [""],
-          //   audio: [""],
-          // }
-          // Object.assign(
-          //   updatedStoredData.places[placeIndex].properties,
-          //   updatedStoredPlaceValues
-          // )
-          // updatedStoredData.places[
-          //   placeIndex
-          // ].meta.last_updated = timestamp.toISOString()
         }
       })
-
-      // updatedStoredPlaces = updatedStoredData.places.filter(
-      //   place => !place.meta.verified.match(regex)
-      // )
-      // updatedStoredData = { places: [...updatedStoredPlaces] }
-      // fs.writeFile(
-      //   `${rootDir}${storedDir}${storedFile}${zeroPad(fileIndex + 1, 2)}${ext}`,
-      //   JSON.stringify(updatedStoredData, null, 2),
-      //   error => {
-      //     if (error) {
-      //       console.log("Error writing:", error)
-      //     }
-      //   }
-      // )
     }
   })
 })
