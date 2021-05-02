@@ -25,7 +25,6 @@ function sleep(time) {
   return new Promise(resolve => setTimeout(resolve, time))
 }
 
-const zeroPad = (num, places) => String(num).padStart(places, "0")
 
 function getURL(photoRef) {
   const mapsClient = new Client({})
@@ -54,6 +53,7 @@ async function processPhotoRefs(photos) {
   for (const photo of photos) {
     sleep(8000).then(async () => {
       // Do something after the sleep!
+      console.log(`\nGetting another photo\n`)
 
       try {
         const response = await getURL(photo.photo_reference)
@@ -128,6 +128,9 @@ dataFiles.forEach((file, fileIndex) => {
             updatedFileData.places[
               placeIndex
             ].meta.last_updated = timestamp.toISOString()
+
+
+            console.log(`\nWriting updated ${rootDir}${dataSrcDir}${file}\n`)
 
             fs.writeFile(
               `${rootDir}${dataSrcDir}${file}`,
