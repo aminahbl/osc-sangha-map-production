@@ -40,7 +40,7 @@ function getURL(photoRef) {
   return mapsClient
     .placePhoto({
       params: params,
-      timeout: 60000, // milliseconds
+      timeout: 30000, // milliseconds
     })
     .then(response => response.request.res.responseUrl)
     .catch(error => {
@@ -52,18 +52,22 @@ async function processPhotoRefs(photos) {
   let placeImages = []
 
   for (const photo of photos) {
-    try {
-      const response = await getURL(photo.photo_reference)
-      //TODO: proper http error handling
-      // console.log(`Response: ${response}`)
-      // if (response.status !== 200) {
-      //   throw new Error(`HTTP error status: ${response.status}`)
-      // }
+    sleep(8000).then(async () => {
+      // Do something after the sleep!
 
-      placeImages.push(response)
-    } catch (err) {
-      console.log(`Yikes, processing photo refs failed! ${err}`)
-    }
+      try {
+        const response = await getURL(photo.photo_reference)
+        //TODO: proper http error handling
+        // console.log(`Response: ${response}`)
+        // if (response.status !== 200) {
+        //   throw new Error(`HTTP error status: ${response.status}`)
+        // }
+
+        placeImages.push(response)
+      } catch (err) {
+        console.log(`Yikes, processing photo refs failed! ${err}`)
+      }
+    })
   }
 
   return placeImages
@@ -117,7 +121,7 @@ dataFiles.forEach((file, fileIndex) => {
     if (error) {
       console.log("Error reading:", error)
     } else {
-      data.places.forEach((place, placeIndex) => {
+      data.places.forEach(async (place, placeIndex) => {
         if (place.meta.verified.match(regex)) {
           let updatedProdPlaceValues = {
             monastics: [""],
@@ -127,34 +131,30 @@ dataFiles.forEach((file, fileIndex) => {
           }
 
           if (place.properties.photos) {
-            sleep(8000).then(async () => {
-              // Do something after the sleep!
-              try {
-                const placeImages = await processPhotoRefs(
-                  place.properties.photos
-                )
-                updatedProdPlaceValues.images = [...placeImages]
-                console.log(`\nfile: ${file}\nplaceIndex: ${placeIndex}\n`)
+            try {
+              const placeImages = await processPhotoRefs(
+                place.properties.photos
+              )
+              updatedProdPlaceValues.images = [...placeImages]
+              console.log(`\nfile: ${file}\nplaceIndex: ${placeIndex}\n`)
 
-                Object.assign(
-                  updatedProductionData.places[placeIndex].properties,
-                  updatedProdPlaceValues
-                )
+              Object.assign(
+                updatedProductionData.places[placeIndex].properties,
+                updatedProdPlaceValues
+              )
 
-                delete updatedProductionData.places[placeIndex].properties
-                  .photos
+              delete updatedProductionData.places[placeIndex].properties.photos
 
-                updatedProductionData.places[
-                  placeIndex
-                ].meta.last_updated = timestamp.toISOString()
+              updatedProductionData.places[
+                placeIndex
+              ].meta.last_updated = timestamp.toISOString()
 
-                writeUpdatedProdData(updatedProductionData, fileIndex)
-              } catch (err) {
-                console.log(
-                  `Oh my, something's happened looping through places! ${err}`
-                )
-              }
-            })
+              writeUpdatedProdData(updatedProductionData, fileIndex)
+            } catch (err) {
+              console.log(
+                `Oh my, something's happened looping through places! ${err}`
+              )
+            }
           }
         } else {
           // const updatedStoredPlaceValues = {
@@ -166,7 +166,6 @@ dataFiles.forEach((file, fileIndex) => {
           //   updatedStoredData.places[placeIndex].properties,
           //   updatedStoredPlaceValues
           // )
-
           // updatedStoredData.places[
           //   placeIndex
           // ].meta.last_updated = timestamp.toISOString()
