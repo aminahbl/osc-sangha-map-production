@@ -24,7 +24,9 @@ function jsonReader(filePath, callBack) {
 function sleep(time) {
   return new Promise(resolve => setTimeout(resolve, time))
 }
-
+// sleep(8000).then(async () => {
+//   Do something after the sleep!
+// })
 
 function getURL(photoRef) {
   const mapsClient = new Client({})
@@ -47,55 +49,52 @@ function getURL(photoRef) {
     })
 }
 
-async function processPhotoRefs(photos) {
+async function processPhotoRefs(file, fileData, placeIndex, placeName, photos) {
+  let updatedFileData = { ...fileData }
   let placeImages = []
 
+  console.log(`\nWorking on ${placeName}\n`)
+
   for (const photo of photos) {
-    sleep(8000).then(async () => {
-      // Do something after the sleep!
-      console.log(`\nGetting another photo\n`)
+    console.log(`\nGetting another photo\n`)
 
-      try {
-        const response = await getURL(photo.photo_reference)
-        //TODO: proper http error handling
-        // console.log(`Response: ${response}`)
-        // if (response.status !== 200) {
-        //   throw new Error(`HTTP error status: ${response.status}`)
-        // }
+    try {
+      const response = await getURL(photo.photo_reference)
+      //TODO: proper http error handling
+      // console.log(`Response: ${response}`)
+      // if (response.status !== 200) {
+      //   throw new Error(`HTTP error status: ${response.status}`)
+      // }
 
-        placeImages.push(response)
-      } catch (err) {
-        console.log(`Yikes, processing photo refs failed! ${err}`)
-      }
-    })
+      placeImages.push(response).then(() => {
+        updatedFileData.places[placeIndex].properties.images = [...placeImages]
+        delete updatedFileData.places[placeIndex].properties.photos
+
+        updatedFileData.places[
+          placeIndex
+        ].meta.last_updated = timestamp.toISOString()
+
+        console.log(`\nWriting updated ${rootDir}${dataSrcDir}${file}\n`)
+
+        fs.writeFile(
+          `${rootDir}${dataSrcDir}${file}`,
+          JSON.stringify(updatedFileData, null, 2),
+          err => {
+            if (err) {
+              console.log(
+                `Oh my, something happened writing ${rootDir}${dataSrcDir}${file}! ${err}`
+              )
+            }
+          }
+        )
+
+        return updatedFileData
+      })
+    } catch (err) {
+      console.log(`Yikes, processing photo refs failed! ${err}`)
+    }
   }
-
-  return placeImages
 }
-
-// function writeUpdatedProdData(updateData, fileIndex) {
-//   try {
-//     const updatedProductionPlaces = updateData.places.filter(place =>
-//       place.meta.verified.match(regex)
-//     )
-//     const updatedProductionData = { places: [...updatedProductionPlaces] }
-//     console.log(`Writing prod data in new file ${zeroPad(fileIndex + 1, 2)}`)
-//     fs.writeFile(
-//       `${rootDir}${productionDir}${productionFile}${zeroPad(
-//         fileIndex + 1,
-//         2
-//       )}${ext}`,
-//       JSON.stringify(updatedProductionData, null, 2),
-//       err => {
-//         if (err) {
-//           console.log("Error writing:", err)
-//         }
-//       }
-//     )
-//   } catch (err) {
-//     console.log(`Crumbs, writing updated production data failed! ${err}`)
-//   }
-// }
 
 /*
  * MAIN
@@ -103,7 +102,7 @@ async function processPhotoRefs(photos) {
  */
 
 const rootDir = "./src/"
-const dataSrcDir = "data/production/"
+const dataSrcDir = "data-test/production/"
 const dataFiles = fs.readdirSync(`${rootDir}${dataSrcDir}`)
 const timestamp = new Date()
 
@@ -119,28 +118,17 @@ dataFiles.forEach((file, fileIndex) => {
           try {
             console.log(`\nfile: ${file}\nplaceIndex: ${placeIndex}\n`)
 
-            const placeImages = await processPhotoRefs(place.properties.photos)
-            updatedFileData.places[placeIndex].properties.images = [
-              ...placeImages,
-            ]
-            delete updatedFileData.places[placeIndex].properties.photos
-
-            updatedFileData.places[
-              placeIndex
-            ].meta.last_updated = timestamp.toISOString()
-
-
-            console.log(`\nWriting updated ${rootDir}${dataSrcDir}${file}\n`)
-
-            fs.writeFile(
-              `${rootDir}${dataSrcDir}${file}`,
-              JSON.stringify(updatedFileData, null, 2),
-              err => {
-                if (err) {
-                  console.log(`Oh my, something happened writing ${rootDir}${dataSrcDir}${file}! ${err}`)
-                }
-              }
+            const updatedData = await processPhotoRefs(
+              file,
+              updatedFileData,
+              placeIndex,
+              place.properties.name,
+              place.properties.photos
             )
+
+            console.log(`\nGot updated data from ${place.properties.name}`)
+
+            updatedFileData = { ...updatedData }
           } catch (err) {
             console.log(
               `Crumbs, something happened looping through places! ${err}`
