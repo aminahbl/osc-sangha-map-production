@@ -99,7 +99,7 @@ function writeUpdatedProdData(updateData, fileIndex) {
  */
 
 const rootDir = "./src/"
-const dataSrcDir = "data-test/"
+const dataSrcDir = "data/initial-data-fetch/"
 const productionDir = "data/production/"
 const productionFile = "production_"
 const storedDir = "data/stored/"
@@ -127,7 +127,7 @@ dataFiles.forEach((file, fileIndex) => {
           }
 
           if (place.properties.photos) {
-            sleep(3000).then(async () => {
+            sleep(8000).then(async () => {
               // Do something after the sleep!
               try {
                 const placeImages = await processPhotoRefs(
@@ -157,35 +157,35 @@ dataFiles.forEach((file, fileIndex) => {
             })
           }
         } else {
-          const updatedStoredPlaceValues = {
-            monastics: [""],
-            video: [""],
-            audio: [""],
-          }
-          Object.assign(
-            updatedStoredData.places[placeIndex].properties,
-            updatedStoredPlaceValues
-          )
+          // const updatedStoredPlaceValues = {
+          //   monastics: [""],
+          //   video: [""],
+          //   audio: [""],
+          // }
+          // Object.assign(
+          //   updatedStoredData.places[placeIndex].properties,
+          //   updatedStoredPlaceValues
+          // )
 
-          updatedStoredData.places[
-            placeIndex
-          ].meta.last_updated = timestamp.toISOString()
+          // updatedStoredData.places[
+          //   placeIndex
+          // ].meta.last_updated = timestamp.toISOString()
         }
       })
 
-      updatedStoredPlaces = updatedStoredData.places.filter(
-        place => !place.meta.verified.match(regex)
-      )
-      updatedStoredData = { places: [...updatedStoredPlaces] }
-      fs.writeFile(
-        `${rootDir}${storedDir}${storedFile}${zeroPad(fileIndex + 1, 2)}${ext}`,
-        JSON.stringify(updatedStoredData, null, 2),
-        error => {
-          if (error) {
-            console.log("Error writing:", error)
-          }
-        }
-      )
+      // updatedStoredPlaces = updatedStoredData.places.filter(
+      //   place => !place.meta.verified.match(regex)
+      // )
+      // updatedStoredData = { places: [...updatedStoredPlaces] }
+      // fs.writeFile(
+      //   `${rootDir}${storedDir}${storedFile}${zeroPad(fileIndex + 1, 2)}${ext}`,
+      //   JSON.stringify(updatedStoredData, null, 2),
+      //   error => {
+      //     if (error) {
+      //       console.log("Error writing:", error)
+      //     }
+      //   }
+      // )
     }
   })
 })
