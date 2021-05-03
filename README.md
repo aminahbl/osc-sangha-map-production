@@ -37,7 +37,7 @@ Developed for the [Open Sangha Collective](https://opensanghacollective.org/); u
 
 ### Place Data
 
-See [data handling docs](https://github.com/aminahbl/osc-sangha-map-production/tree/data/docs/data-refining) for more info. 
+See [data handling docs](https://github.com/aminahbl/osc-sangha-map-production/blob/data/docs/data-refining.md) for more info. 
 
 The core critia for places to be shown on the map are:
 
