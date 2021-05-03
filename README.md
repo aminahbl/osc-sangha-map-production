@@ -67,7 +67,7 @@ Developed for the [Open Sangha Collective](https://opensanghacollective.org/); u
       "telephone": "",
       "website": "",
       "description": "",
-      "photos": [],
+      "images": [],
       "video": [],
       "audio": [],
       "tradition": ""
@@ -87,12 +87,12 @@ Developed for the [Open Sangha Collective](https://opensanghacollective.org/); u
 - 3743 records taken from the Places API, of which:
 - 1760 places initially marked as tentatively verified (places with "vihara", "monastery", "wat", "temple", or "hermitage" in the place name)
 - 1731 places remain tentatively verified following first crude filter (marking names including "hindu", "christ", "benedictine", "orthodox", "saint" and "st" to be removed + a handful of manual verifications) 
+- Image retrieval
 
 ### Next Steps:
 
 - Refine data
 - WP intergration
-- Image retrieval
 - UI/UX improvement (search, full data display, key, location url +)
 - design contribution & maintanence strategy
 

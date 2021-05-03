@@ -27,8 +27,8 @@ import {
 } from "./SanghaMap.module.scss"
 
 export const jsonDataQuery = graphql`
-  query getjsonDataQuery {
-    allDataJson {
+  query geJsonDataQuery {
+    allProductionJson {
       nodes {
         places {
           properties {
@@ -44,9 +44,7 @@ export const jsonDataQuery = graphql`
             name
             place_id
             website
-            # photos {
-            #   photo_reference
-            # }
+            images 
           }
           meta {
             verified
@@ -92,7 +90,7 @@ const SanghaMap = () => {
 
     const regex = /(duplicate|false|remove)/i
 
-    data.allDataJson.nodes.map(node => {
+    data.allProductionJson.nodes.map(node => {
       node.places.forEach(place => {
         if (place.meta.verified.match(regex)) {
           return
@@ -135,6 +133,7 @@ const SanghaMap = () => {
                 properties: {
                   geometry: {
                     location: { lat, lng },
+                    images
                   },
                 },
                 meta: { verified },
@@ -151,9 +150,7 @@ const SanghaMap = () => {
                   placeMarker = sanghaMarker
               }
 
-              const infoCoverImg = place.properties.photos?.length
-                ? `https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=${place.properties.photos[0].photo_reference}&key=${process.env.GATSBY_GOOGLE_MAPS_API_KEY}`
-                : infoStandinCover
+              const infoCoverImg = images[0] ? images[0] : infoStandinCover
 
               return (
                 <Marker
