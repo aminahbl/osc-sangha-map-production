@@ -132,8 +132,7 @@ const SanghaMap = () => {
               const {
                 properties: {
                   geometry: {
-                    location: { lat, lng },
-                    images
+                    location: { lat, lng }
                   },
                 },
                 meta: { verified },
@@ -150,7 +149,7 @@ const SanghaMap = () => {
                   placeMarker = sanghaMarker
               }
 
-              const infoCoverImg = images[0] ? images[0] : infoStandinCover
+              const infoCoverImg = place.properties?.images[0] ? place.properties?.images[0] : infoStandinCover
 
               return (
                 <Marker
