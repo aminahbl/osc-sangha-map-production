@@ -1,10 +1,11 @@
 const fs = require("fs")
 const { Client } = require("@googlemaps/google-maps-services-js")
 
-/*
- * FUNCTIONS
- *
- */
+const rootDir = "./src/"
+const dataSrcDir = "data-test/production/"
+const dataFiles = fs.readdirSync(`${rootDir}${dataSrcDir}`)
+const workingFile = dataFiles[1]
+const timestamp = new Date()
 
 function jsonReader(filePath, callBack) {
   fs.readFile(filePath, "utf-8", (err, dataString) => {
@@ -24,9 +25,6 @@ function jsonReader(filePath, callBack) {
 function sleep(time) {
   return new Promise(resolve => setTimeout(resolve, time))
 }
-// sleep(8000).then(async () => {
-//   Do something after the sleep!
-// })
 
 function getURL(photoRef) {
   const mapsClient = new Client({})
@@ -49,36 +47,70 @@ function getURL(photoRef) {
     })
 }
 
-async function processPhotoRefs(file, fileData, placeIndex, placeName, photos) {
-  let updatedFileData = { ...fileData }
-  let placeImages = []
+function methodThatReturnsAPromise(place) {
+  return new Promise((resolvePlace, reject) => {
+    console.log(`---Processing ${place.properties.name}---`)
+    if (place.properties.photos) {
+      let fetchPlaceImages = new Promise((resolveImgs, reject) => {
+        let images = []
+        async function getImages() {
+          for (const photo of place.properties.photos) {
+            await sleep(3000)
+            console.log(`Getting a photo for ${place.properties.name}`)
 
-  console.log(`\nWorking on ${placeName}\n`)
+            let fetchAnImage = new Promise(async (resolveImg, reject) => {
+              try {
+                const imgURL = await getURL(photo.photo_reference)
 
-  for (const photo of photos) {
-    console.log(`\nGetting another photo\n`)
+                resolveImg(imgURL)
+              } catch (err) {
+                console.log(`Yikes, processing photo refs failed! ${err}`)
+              }
+            })
 
-    try {
-      const response = await getURL(photo.photo_reference)
-      //TODO: proper http error handling
-      // console.log(`Response: ${response}`)
-      // if (response.status !== 200) {
-      //   throw new Error(`HTTP error status: ${response.status}`)
-      // }
+            fetchAnImage
+              .then(image => images.push(image))
+              .catch(err => console.error(err))
+            console.log("Having a nap…")
+          }
+        }
+        getImages()
+          .then(() => resolveImgs(images))
+          .catch(err => console.error(err))
+      })
 
-      placeImages.push(response).then(() => {
-        updatedFileData.places[placeIndex].properties.images = [...placeImages]
-        delete updatedFileData.places[placeIndex].properties.photos
+      fetchPlaceImages.then(placeImages => {
+        console.log(`\nGot images for ${place.properties.name}\n`)
+        console.dir(placeImages)
 
-        updatedFileData.places[
-          placeIndex
-        ].meta.last_updated = timestamp.toISOString()
+        place.properties.images = [...placeImages]
+        delete place.properties.photos
 
-        console.log(`\nWriting updated ${rootDir}${dataSrcDir}${file}\n`)
+        place.meta.last_updated = timestamp.toISOString()
+        resolvePlace(place)
+      })
+    } else {
+      resolvePlace(place)
+    }
+  })
+}
 
+jsonReader(`${rootDir}${dataSrcDir}${workingFile}`, (error, fileData) => {
+  if (error) {
+    console.log("Error reading:", error)
+  } else {
+
+    let result = fileData.places.reduce((accumulatorPromise, place) => {
+      return accumulatorPromise.then(() => {
+        return methodThatReturnsAPromise(place)
+      })
+    }, Promise.resolve())
+
+    result
+      .then(resolution => {
         fs.writeFile(
-          `${rootDir}${dataSrcDir}${file}`,
-          JSON.stringify(updatedFileData, null, 2),
+          `${rootDir}${dataSrcDir}${workingFile}`,
+          JSON.stringify({ places: [resolution] }, null, 2),
           err => {
             if (err) {
               console.log(
@@ -87,55 +119,9 @@ async function processPhotoRefs(file, fileData, placeIndex, placeName, photos) {
             }
           }
         )
-
-        return updatedFileData
       })
-    } catch (err) {
-      console.log(`Yikes, processing photo refs failed! ${err}`)
-    }
+      .catch(err => {
+        console.log(err)
+      })
   }
-}
-
-/*
- * MAIN
- *
- */
-
-const rootDir = "./src/"
-const dataSrcDir = "data-test/production/"
-const dataFiles = fs.readdirSync(`${rootDir}${dataSrcDir}`)
-const timestamp = new Date()
-
-dataFiles.forEach((file, fileIndex) => {
-  jsonReader(`${rootDir}${dataSrcDir}${file}`, (error, fileData) => {
-    let updatedFileData = { ...fileData }
-
-    if (error) {
-      console.log("Error reading:", error)
-    } else {
-      fileData.places.forEach(async (place, placeIndex) => {
-        if (place.properties.photos) {
-          try {
-            console.log(`\nfile: ${file}\nplaceIndex: ${placeIndex}\n`)
-
-            const updatedData = await processPhotoRefs(
-              file,
-              updatedFileData,
-              placeIndex,
-              place.properties.name,
-              place.properties.photos
-            )
-
-            console.log(`\nGot updated data from ${place.properties.name}`)
-
-            updatedFileData = { ...updatedData }
-          } catch (err) {
-            console.log(
-              `Crumbs, something happened looping through places! ${err}`
-            )
-          }
-        }
-      })
-    }
-  })
 })
