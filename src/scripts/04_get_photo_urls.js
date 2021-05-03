@@ -25,7 +25,6 @@ function sleep(time) {
   return new Promise(resolve => setTimeout(resolve, time))
 }
 
-const zeroPad = (num, places) => String(num).padStart(places, "0")
 
 function getURL(photoRef) {
   const mapsClient = new Client({})
@@ -52,7 +51,7 @@ async function processPhotoRefs(photos) {
   let placeImages = []
 
   for (const photo of photos) {
-    // setTimeout(async () => {
+    await sleep(3000)
       try {
         const response = await getURL(photo.photo_reference)
         //TODO: proper http error handling
@@ -65,7 +64,6 @@ async function processPhotoRefs(photos) {
       } catch (err) {
         console.log(`Yikes, processing photo refs failed! ${err}`)
       }
-    // }, 3000)
   }
   console.dir(placeImages)
   return placeImages
@@ -94,7 +92,7 @@ function writeUpdatedProdData(updateData, file) {
  */
 
 const rootDir = "./src/"
-const dataSrcDir = "data-test/production/"
+const dataSrcDir = "data/production/"
 const files = fs.readdirSync(`${rootDir}${dataSrcDir}`)
 const workingFile = files[0]
 
