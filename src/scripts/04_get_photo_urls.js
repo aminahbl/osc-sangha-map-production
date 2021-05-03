@@ -65,13 +65,13 @@ async function processPhotoRefs(photos) {
         console.log(`Yikes, processing photo refs failed! ${err}`)
       }
   }
-  console.dir(placeImages)
+
   return placeImages
 }
 
 function writeUpdatedProdData(updateData, file) {
   try {
-    console.log(`Writing prod data in new file ${file}`)
+    console.log(`Writing data in ${file}`)
     fs.writeFile(
       `${rootDir}${dataSrcDir}${file}`,
       JSON.stringify(updateData, null, 2),
@@ -94,7 +94,7 @@ function writeUpdatedProdData(updateData, file) {
 const rootDir = "./src/"
 const dataSrcDir = "data/production/"
 const files = fs.readdirSync(`${rootDir}${dataSrcDir}`)
-const workingFile = files[0]
+const workingFile = files[44]
 
 const timestamp = new Date()
 
@@ -110,7 +110,7 @@ jsonReader(`${rootDir}${dataSrcDir}${workingFile}`, (error, data) => {
           try {
             const placeImages = await processPhotoRefs(place.properties.photos)
 
-            console.log(`\n--- Place: ${place.properties.name}--- \n`)
+            console.log(`\n--- Place: ${place.properties.name} ---\n`)
             // console.dir(placeImages)
             resolveImgFetch({ imgs: placeImages, placeIndex: i })
           } catch (err) {
@@ -122,7 +122,8 @@ jsonReader(`${rootDir}${dataSrcDir}${workingFile}`, (error, data) => {
       })
       fetchPlaceImages
         .then(resolvedImgs => {
-          console.log(`\nGot images for ${place.properties.name}\n`)
+          console.log(`\nGot images for ${place.properties.name}:\n`)
+          console.dir(resolvedImgs)
 
           workingData.places[resolvedImgs.placeIndex].properties.images = [
             ...resolvedImgs.imgs,
