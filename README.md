@@ -77,6 +77,7 @@ Developed for the [Open Sangha Collective](https://opensanghacollective.org/); u
   "meta": {
       "verified": "false",
       "last_updated": ""
+      "notes": ""
   }
 }
 ```

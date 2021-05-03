@@ -88,11 +88,11 @@ const SanghaMap = () => {
   const getAllPlaces = () => {
     let accumulated = []
 
-    // const regex = /(duplicate|false|remove)/i
+    const regex = /(duplicate|false|remove)/i
 
     data.allProductionJson.nodes.map(node => {
       node.places.forEach(place => {
-        if (place.meta.verified === "duplicate" || place.meta.verified === "remove") {
+        if (place.meta.verified.match(regex)) {
           return
         }
         accumulated.push(place)
