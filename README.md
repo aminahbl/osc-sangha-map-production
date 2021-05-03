@@ -35,52 +35,17 @@ Developed for the [Open Sangha Collective](https://opensanghacollective.org/); u
 - Rinse & repeat: data collection, clean, update & UI/UX development
 
 
-### Place Inclusion Criteria
+### Place Data
+
+See [data handling docs](https://github.com/aminahbl/osc-sangha-map-production/tree/data/docs/data-refining) for more info. 
+
+The core critia for places to be shown on the map are:
 
 - The community follows [Vinaya](https://suttacentral.net/pitaka/vinaya) based ordination (see [intro to the Vinaya](https://suttacentral.net/vinaya)).
 - By case by case assesment for boarder cases.
   - Aligned with the mission to promote a dana culture
 
-#### Verified property values:
 
-- `true`
-- `tentative`
-- `verified, accepts lay residents`
-- `duplicate`
-- `false`
-- `remove`
-
-
-### Working Data Schema
-
-```
-{   
-  "properties": {
-    "geometry": {
-        "location": {
-          longitude,
-          latitude
-        }
-      },
-      "name": "",
-      "address": "",
-      "telephone": "",
-      "website": "",
-      "description": "",
-      "images": [],
-      "video": [],
-      "audio": [],
-      "tradition": ""
-      "monastics": [],
-
-  },
-  "meta": {
-      "verified": "false",
-      "last_updated": ""
-      "notes": ""
-  }
-}
-```
 
 ### So Far:
 
