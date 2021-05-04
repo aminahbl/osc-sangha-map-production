@@ -18,6 +18,8 @@ import infoStandinCover from "../images/info-standin-cover.svg"
 import InfoButtonIcon from "../images/icon-info-button.inline.svg"
 import Arrrow from "../images/icons/icon-right-chevron.inline.svg"
 import mapStyles from "../styles/mapStyles"
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
 import {
   infoWindowContainerClass,
   infoWindowHeaderClass,
