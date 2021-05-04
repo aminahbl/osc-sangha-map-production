@@ -19,6 +19,12 @@
   background-color: rgb(122, 121, 121);
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
+
+  &.popupModClass {
+    background-color: #cfcece;
+    border-radius: 0;
+  }
+
 }
 
 .infoWindowHeadingClass {
@@ -48,16 +54,22 @@
 }
 
 .infoButtonIconClass {
-  
   width: 35px;
   height: 35px;
-
-  
 }
 
-.infoWindowBodyClass {
-  padding: 0.75rem;
+.popupBodyClass {
+  margin: 0 1rem;
+  padding: 0.75rem 1.5rem;
   font-size: 14px;
   line-height: 1.2;
   color: #000000;
+}
+
+
+.popupImageClass {
+  width: 750px;
+  max-height: 550px;
+  object-fit: cover;
+  object-position: center;
 }

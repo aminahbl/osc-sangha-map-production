@@ -1,4 +1,4 @@
-import React, { useState, useRef, useCallback, useMemo } from "react"
+import React, { useState, useEffect, useRef, useCallback, useMemo } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import {
   GoogleMap,
@@ -8,26 +8,31 @@ import {
   MarkerClusterer,
 } from "@react-google-maps/api"
 import "@reach/combobox/styles.css"
-import mapStyles from "../styles/mapStyles"
+import Slider from "react-slick"
+import Popup from "./Popup"
 import buddhaMarker from "../images/markers/buddha-marker.png"
 import dhammaMarker from "../images/markers/dhamma-marker.png"
 import sanghaMarker from "../images/markers/sangha-marker.png"
 import communityMarker from "../images/markers/community-marker.png"
 import infoStandinCover from "../images/info-standin-cover.svg"
 import InfoButtonIcon from "../images/icon-info-button.inline.svg"
+import Arrrow from "../images/icons/icon-right-chevron.inline.svg"
+import mapStyles from "../styles/mapStyles"
 import {
   infoWindowContainerClass,
   infoWindowHeaderClass,
-  infoWindowBodyClass,
   infoWindowImageWrapperClass,
   infoWindowImageClass,
   infoWindowHeadingClass,
   infoButtonClass,
   infoButtonIconClass,
+  popupModClass,
+  popupBodyClass,
+  popupImageClass
 } from "./SanghaMap.module.scss"
 
 export const jsonDataQuery = graphql`
-  query geJsonDataQuery {
+  query getJsonDataQuery {
     allProductionJson {
       nodes {
         places {
@@ -77,6 +82,8 @@ const SanghaMap = () => {
   })
 
   const [selected, setSelected] = useState(null)
+  const [popup, setPopup] = useState(false)
+  const [popupInfo, setPopupInfo] = useState(null)
 
   const mapRef = useRef()
   const onMapLoad = useCallback(map => {
@@ -88,11 +95,11 @@ const SanghaMap = () => {
   const getAllPlaces = () => {
     let accumulated = []
 
-    const regex = /(duplicate|false|remove)/i
+    const regex = /(true|tentative|verified, accepts lay residents)/i
 
     data.allProductionJson.nodes.map(node => {
       node.places.forEach(place => {
-        if (place.meta.verified.match(regex)) {
+        if (!place.meta.verified.match(regex)) {
           return
         }
         accumulated.push(place)
@@ -106,7 +113,45 @@ const SanghaMap = () => {
   }, [])
 
   function createKey(location) {
-    return location.lat + location.lng
+    return `${location.lat}-${location.lng}`
+  }
+
+  const handleInfoClick = () => {
+    setPopupInfo(selected)
+    setPopup(true)
+    setSelected(null)
+  }
+
+  function NextArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+      <Arrrow
+        className={className}
+        style={{ ...style, display: "block", paddingLeft: ".75rem" }}
+        onClick={onClick}
+      />
+    );
+  }
+  
+  function PrevArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+      <Arrrow
+        className={className}
+        style={{ ...style, display: "block", paddingLeft: ".75rem", transform: "rotate(180deg)" }}
+        onClick={onClick}
+      />
+    );
+  }
+
+  const sliderSettings = {
+    dots: false,
+    infinite: true,
+    speed: 500,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    nextArrow: <NextArrow />,
+    prevArrow: <PrevArrow />
   }
 
   if (loadError) {
@@ -132,8 +177,9 @@ const SanghaMap = () => {
               const {
                 properties: {
                   geometry: {
-                    location: { lat, lng }
+                    location: { lat, lng },
                   },
+                  images,
                 },
                 meta: { verified },
               } = place
@@ -149,7 +195,7 @@ const SanghaMap = () => {
                   placeMarker = sanghaMarker
               }
 
-              const infoCoverImg = place.properties?.images[0] ? place.properties?.images[0] : infoStandinCover
+              const infoCoverImg = images[0] ? images[0] : infoStandinCover
 
               return (
                 <Marker
@@ -196,16 +242,20 @@ const SanghaMap = () => {
                   {selected.properties.name}
                 </h2>
               </header>
+              {/* <StaticImage src="https://lh5.googleusercontent.com/p/AF1QipNSwhhx8ApXsGZpkiN4oSqanx35cpdahPgam0hv=w600-h321-p-k-no" alt /> */}
+
               <div className={infoWindowImageWrapperClass}>
                 <img
                   className={infoWindowImageClass}
                   src={selected.infoCoverImg}
                   alt={selected.properties.name}
                 />
+
                 <span
                   className={infoButtonClass}
                   role="button"
                   aria-label="More information"
+                  onClick={() => handleInfoClick()}
                 >
                   <InfoButtonIcon className={infoButtonIconClass} />
                 </span>
@@ -214,6 +264,54 @@ const SanghaMap = () => {
           </InfoWindow>
         )}
       </GoogleMap>
+
+      <Popup trigger={popup} setTrigger={setPopup}>
+        {popupInfo && (
+          <div>
+            <header className={`${infoWindowHeaderClass} ${popupModClass}`}>
+              <h2 className={infoWindowHeadingClass}>
+                {popupInfo.properties.name}
+              </h2>
+            </header>
+            <div className={popupBodyClass}>
+              <address>
+                <p>
+                  {popupInfo.properties.formatted_address &&
+                    popupInfo.properties.formatted_address.replace(
+                      "/,/g",
+                      "\\n"
+                    )}
+                  <br />
+                  {popupInfo.properties.international_phone_number &&
+                    popupInfo.properties.international_phone_number}
+                  <br />
+                  {popupInfo.properties.website && (
+                    <a
+                      href={popupInfo.properties.website}
+                      target="_blank"
+                      rel="noopener nofollow"
+                    >
+                      {popupInfo.properties.website}
+                    </a>
+                  )}
+                </p>
+              </address>
+              {popupInfo.properties.images[0] && (
+                <Slider {...sliderSettings}>
+                  {popupInfo.properties.images.map((image, i) => (
+                    <img
+                      className={popupImageClass}
+                      key={`${popupInfo.properties.place_id.toLowerCase()}-${i}`}
+                      src={image}
+                      alt={popupInfo.properties.name}
+                    />
+                  ))}
+                </Slider>
+              )}
+            </div>
+          </div>
+        )}
+      </Popup>
     </div>
   )
 }

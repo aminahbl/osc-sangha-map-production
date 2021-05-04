@@ -1,0 +1,33 @@
+.popupClass {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.popupInnerClass {
+  position: relative;
+  width: 100%;
+  max-width: 750px;
+
+  background-color: #fff;
+
+  .closeButtonClass {
+    position: absolute;
+    top: -2.5rem;
+    right: 0;
+    fill: white;
+    width: 26px;
+    height: 26px;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
