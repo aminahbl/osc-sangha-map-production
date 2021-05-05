@@ -1,0 +1,23 @@
+@import "../styles/_mixins.scss";
+
+.imageContainerClass {
+  display: flex !important;
+  align-items: center !important;
+  width: calc(320px + (650 - 320) * ((100vw - 320px) / (799 - 320)));
+  height: calc(295px + (450 - 295) * ((100vw - 320px) / (799 - 320)));
+  box-sizing: border-box;
+  border: 1px solid #eee;
+
+  @include largeTablet {
+    width: calc(650px + (750 - 650) * ((100vw - 800px) / (1920 - 800)));
+    height: calc(450px + (550 - 450) * ((100vw - 800px) / (1920 - 800)));
+  }
+}
+
+.imageClass {
+  width: 95%;
+  height: 95%;
+  margin: auto;
+  object-fit: contain;
+  object-position: center;
+}

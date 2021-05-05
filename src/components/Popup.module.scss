@@ -1,4 +1,7 @@
-.popupClass {
+@import "../styles/_mixins.scss";
+
+
+.popupContainerClass {
   position: fixed;
   top: 0;
   left: 0;
@@ -11,23 +14,56 @@
 
   background-color: rgba(0, 0, 0, 0.7);
 }
+
 .popupInnerClass {
   position: relative;
   width: 100%;
-  max-width: 750px;
+  height: 100%;
 
   background-color: #fff;
 
   .closeButtonClass {
     position: absolute;
-    top: -2.5rem;
-    right: 0;
-    fill: white;
-    width: 26px;
-    height: 26px;
+    top: 0.75rem !important;
+    right: 0.75rem !important;
+    fill: rgb(39, 36, 36) !important;
+    width: 22px;
+    height: 22px;
+    z-index: 10;
 
     &:hover {
       cursor: pointer;
     }
   }
 }
+
+.popupBodyClass {
+  padding: 0.75rem 1.5rem;
+  font-size: 14px;
+  line-height: 1.2;
+  color: #000000;
+}
+
+
+@include largeTablet {
+
+  .popupInnerClass {
+    width: 100%;
+    max-width: 750px;
+
+    .closeButtonClass {
+      top: -2.5rem;
+      right: 0;
+      fill: white;
+    }
+  }
+
+  .popupBodyClass {
+    margin: 0 1rem;
+  }
+}
+
+// @include largeTablet {
+//   width: calc(650px + (750 - 650) * ((100vw - 800px) / (1920 - 800)));
+//   height: calc(450px + (550 - 450) * ((100vw - 800px) / (1920 - 800)));
+// }
