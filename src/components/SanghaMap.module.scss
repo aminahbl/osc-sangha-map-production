@@ -6,17 +6,19 @@
   height: 275px;
   color: white;
   border-radius: 15px;
+  
+  @include smallTablet {
+    width: 350px;
+  }
 }
 
-@include smallTablet {
-  width: 350px;
-}
+
 
 .infoWindowHeaderClass {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 38%;
+  height: 43%;
   width: 100%;
   margin: 0;
   padding: 0;
@@ -41,7 +43,7 @@
 
 .infoWindowImageWrapperClass {
   position: relative;
-  height: 60%;
+  height: 55%;
   @include smallTablet {
     height: 70%;
   }

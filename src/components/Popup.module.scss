@@ -1,6 +1,5 @@
 @import "../styles/_mixins.scss";
 
-
 .popupContainerClass {
   position: fixed;
   top: 0;
@@ -44,17 +43,15 @@
   color: #000000;
 }
 
-
 @include largeTablet {
-
   .popupInnerClass {
-    width: 100%;
     max-width: 750px;
+    max-height: 675px;
 
     .closeButtonClass {
-      top: -2.5rem;
-      right: 0;
-      fill: white;
+      top: -2.5rem !important;
+      right: 0 !important;
+      fill: white !important;
     }
   }
 
@@ -63,7 +60,14 @@
   }
 }
 
-// @include largeTablet {
-//   width: calc(650px + (750 - 650) * ((100vw - 800px) / (1920 - 800)));
-//   height: calc(450px + (550 - 450) * ((100vw - 800px) / (1920 - 800)));
-// }
+@include largeLaptop {
+  .popupInnerClass {
+    max-height: 750px;
+  }
+}
+@include desktop {
+  .popupInnerClass {
+    max-height: 850px;
+  }
+}
+

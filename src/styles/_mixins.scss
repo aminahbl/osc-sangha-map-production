@@ -1,25 +1,25 @@
 @mixin desktop {
-    @media screen and (min-width:1440px) {
+    @media screen and (min-width:1441px) {
         @content;
     }
 }
 @mixin largeLaptop {
-    @media screen and (min-width:1280px) {
+    @media screen and (min-width:1281px) {
         @content;
     }
 }
 @mixin smallLaptop {
-    @media screen and (min-width:1024px) {
+    @media screen and (min-width:1025px) {
         @content;
     }
 }
 @mixin largeTablet {
-    @media screen and (min-width:800px) {
+    @media screen and (min-width:801px) {
         @content;
     }
 }
 @mixin smallTablet {
-    @media screen and (min-width:575px) {
+    @media screen and (min-width:576px) {
         @content;
     }
 }
