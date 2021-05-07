@@ -38,7 +38,9 @@ export const jsonDataQuery = graphql`
             name
             place_id
             website
-            images 
+            images
+            monastics
+            tradition
           }
           meta {
             verified

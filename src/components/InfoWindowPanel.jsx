@@ -8,7 +8,7 @@ import {
   infoWindowHeadingClass,
   infoButtonClass,
   infoButtonIconClass,
-} from "./SanghaMap.module.scss"
+} from "./InfoWindowPanel.module.scss"
 
 const InfoWindowPanel = ({ coverImg, properties, handleInfoClick }) => {
   return (
