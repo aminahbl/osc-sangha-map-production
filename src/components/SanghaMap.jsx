@@ -1,5 +1,5 @@
 import React, { useState, useRef, useCallback, useMemo } from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import {
   GoogleMap,
   useLoadScript,
@@ -8,8 +8,12 @@ import {
   MarkerClusterer,
 } from "@react-google-maps/api"
 import "@reach/combobox/styles.css"
+
 import InfoWindowPanel from "./InfoWindowPanel"
 import Popup from "./Popup"
+
+import { GetPlaceData } from "../hooks/dataQuery"
+
 import buddhaMarker from "../images/markers/buddha-marker.png"
 import dhammaMarker from "../images/markers/dhamma-marker.png"
 import sanghaMarker from "../images/markers/sangha-marker.png"
@@ -17,39 +21,7 @@ import communityMarker from "../images/markers/community-marker.png"
 import infoStandinCover from "../images/info-standin-cover.svg"
 
 import mapStyles from "../styles/mapStyles"
-import "slick-carousel/slick/slick.css"
-import "slick-carousel/slick/slick-theme.css"
 
-export const jsonDataQuery = graphql`
-  query getJsonDataQuery {
-    allProductionJson {
-      nodes {
-        places {
-          properties {
-            description
-            formatted_address
-            geometry {
-              location {
-                lat
-                lng
-              }
-            }
-            international_phone_number
-            name
-            place_id
-            website
-            images
-            monastics
-            tradition
-          }
-          meta {
-            verified
-          }
-        }
-      }
-    }
-  }
-`
 
 const libraries = ["places"]
 const mapContainerStyle = {
@@ -81,14 +53,14 @@ const SanghaMap = () => {
     mapRef.current = map
   }, [])
 
-  const data = useStaticQuery(jsonDataQuery)
+  const data = GetPlaceData()
 
   const getAllPlaces = () => {
     let accumulated = []
 
     const regex = /(true|tentative|verified, accepts lay residents)/i
 
-    data.allProductionJson.nodes.map(node => {
+    data.map(node => {
       node.places.forEach(place => {
         if (!place.meta.verified.match(regex)) {
           return
