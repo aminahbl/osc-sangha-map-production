@@ -1,2256 +1,805 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.813562999999999,
-            "lng": 80.9162472
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.814843030291502,
-              "lng": 80.9175614302915
-            },
-            "southwest": {
-              "lat": 6.812145069708498,
-              "lng": 80.91486346970848
-            }
-          }
-        },
-        "international_phone_number": "+94 77 418 3402",
-        "name": "Sri Jananandaramaya",
-        "photos": [
-          {
-            "height": 614,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104117889167668544774\">Ishan U. Wickrama</a>"
-            ],
-            "photo_reference": "ATtYBwIX2peac6PxmtKpJUr5v_b34eDRkNKXLYBzvoi6fH4rlRioy1-hs16AgOjfJxaiT7yLakdUqrJTFKH1Cqi3odbhpQOzaJAC7DRjPnN8u4wT7thjN44TMWvmph8mbvJKCCqRAJ7aj0iqzy-jHToTpZF_v7VJ7nA9n21BskoH8R2lQYHv",
-            "width": 1024
-          },
-          {
-            "height": 3096,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100408553154800192906\">Kamal Dissanayake</a>"
-            ],
-            "photo_reference": "ATtYBwJp3EK1NuJ05WY4U1vdamU0QSFC7O-TPYRg6ITEYdbsSTp8ZDzIItbFRHNtfzNxXl-a8ba813v5HOJD5UEmhJ2ANWgTlJ9HVDt5lC7TwAoHOnff7up-nkKRR6JEL2BREIHZytGMAnHLVrD9CLKlR5AY3YT9lZAf2KnMB52WKhQFSmvo",
-            "width": 4128
-          },
-          {
-            "height": 4128,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100408553154800192906\">Kamal Dissanayake</a>"
-            ],
-            "photo_reference": "ATtYBwI9A6J608d6cI-sO0HPiDNm3qRwmbgFeryI5jNdX0AlJ7AMRkcd86KsAv_5sJwsCf0Kg0aAAunHV2gkk5qEdSUHuenzgSVXXXvICZg4dwSwwQJRySOBfxTKhL66_rXivsqFGbePbOFq0qvez3NAA8O7TSxmM6KQGlL1Br-9kgagPbub",
-            "width": 3096
-          },
-          {
-            "height": 1844,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116891703910480869963\">Charith Dananjaya</a>"
-            ],
-            "photo_reference": "ATtYBwID8YrM-xMq6SsFFi1G0O1mDbLfjuiXgaY0qtXyGDnbjOvpeTp8w0u7WoYodb839o8c8hp1VSojJrc2pv9gMwEQM5CrCaHE51XrGV4vjjpRnPsj3kD71fQWXwizh2vlSOCmTAKsy9dDtC2wUASLMP_re54f3-Zs22rbRlL_m7pZNKnf",
-            "width": 4000
-          },
-          {
-            "height": 1003,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104992751894584761831\">Samitha Samitha</a>"
-            ],
-            "photo_reference": "ATtYBwIcmVvQAj_GEzUzOJL9I8CSSlHwjfOVBiOuOrlRbPVfv-Ops6HalnM3QqPgETqtO2C9XQfKKhwc55LpIW4oCYrdyFHKNuoGQFQFBUc7wPMONw07skQP4BylLlvYP1wFyZHF_fxTJ5PdsPsPUBEbNsMFpoZl0nbj_X6pbXTimxpBJBRj",
-            "width": 714
-          },
-          {
-            "height": 614,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104117889167668544774\">Ishan U. Wickrama</a>"
-            ],
-            "photo_reference": "ATtYBwI_q_kWETNLELKasf3iHwuKK6h-R_kle2aPQ_xTuHZPTLIbpXfqqEQV1oDJ2cR5eGnkvoIFtzq5u0Vdy6xJtGZ44ebInh3hn1vF8zAFcDMYp1iwh0up6iYYLzXaUZcFNvF3RS5TLl4zUXMSGdEHh3eGNG0L9lKzR8hgmDD0vkL2h5If",
-            "width": 1024
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117081505058137640501\">jeewaka ayupala</a>"
-            ],
-            "photo_reference": "ATtYBwJaMYnzKFcCT7R1aH6HKroRBgsiVmj-mB_WD7N3NPJcvmTj6P4KVNT3M9rha9exOi3RvVAQ4eyHVfdjWA17lb-FErNho4TPto2Aku-daGOpSRknYBYLwxC5HHJ4bO57grM9fvKQTKpi8E2Ebs39iSt_7oGWvwcEtSVyc7uoIjbln-X3",
-            "width": 2448
-          },
-          {
-            "height": 1504,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116891703910480869963\">Charith Dananjaya</a>"
-            ],
-            "photo_reference": "ATtYBwKCYp2wKsEtwR5J_-drRigmx6N7qSdaZMdHVMU8Pi1I5mvsnBkmT-W-0DtDOJmxXQPQBilQOgvp_2GVxxxcpPi-BzxQHllmSsy0O-RqeHO17HFhhkW1RmY-OPUpNB0yJzMVqukfmwR72NKrFMEs--J_-XovQ1QZZiwDNJSXIxf85NiY",
-            "width": 3264
-          },
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116891703910480869963\">Charith Dananjaya</a>"
-            ],
-            "photo_reference": "ATtYBwK5H5huHvU3AWHFt_-ldvQl1tjUeU2CrRZuIWr1x4YzGNnkFYZm6Jv4Um9Jtx4vCdVqEZkL8VFmhwm9MI5BuTJkpsqSl-jBrODsRyzjq7gYhG_KK-hVRjeXUrsXwDMcsm6TrJLKgBRThkBriuZQIRLbiSNsYzlkchattfRmjeGADPZo",
-            "width": 1844
-          },
-          {
-            "height": 3096,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100408553154800192906\">Kamal Dissanayake</a>"
-            ],
-            "photo_reference": "ATtYBwJHiu2lrFWOO9coltLrsgggJsd5r-dSQSC9INEIZcV3wS__9QEisAOCYWe-_jKPf5oTL1J7iWL5J1tE0JuD8B8t_MUNlOvEjnxaYX6LXh6vBvz6HsTIEuIfBEU88KNlcI8S9kPd2jtn21RFyYkv5zA2r9pfkAxy36_wD9s7YEgoidXA",
-            "width": 4128
-          }
-        ],
-        "place_id": "ChIJ-wDXpsBw5DoR_gahgFPAeJw",
-        "url": "https://maps.google.com/?cid=11274973131994892030",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Sri Jananandaramaya",
+      "location": {
+        "lat": 6.813562999999999,
+        "lng": 80.9162472
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Sri Lanka",
+      "phone": "+94 77 418 3402",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIX2peac6PxmtKpJUr5v_b34eDRkNKXLYBzvoi6fH4rlRioy1-hs16AgOjfJxaiT7yLakdUqrJTFKH1Cqi3odbhpQOzaJAC7DRjPnN8u4wT7thjN44TMWvmph8mbvJKCCqRAJ7aj0iqzy-jHToTpZF_v7VJ7nA9n21BskoH8R2lQYHv",
+        "ATtYBwJp3EK1NuJ05WY4U1vdamU0QSFC7O-TPYRg6ITEYdbsSTp8ZDzIItbFRHNtfzNxXl-a8ba813v5HOJD5UEmhJ2ANWgTlJ9HVDt5lC7TwAoHOnff7up-nkKRR6JEL2BREIHZytGMAnHLVrD9CLKlR5AY3YT9lZAf2KnMB52WKhQFSmvo",
+        "ATtYBwI9A6J608d6cI-sO0HPiDNm3qRwmbgFeryI5jNdX0AlJ7AMRkcd86KsAv_5sJwsCf0Kg0aAAunHV2gkk5qEdSUHuenzgSVXXXvICZg4dwSwwQJRySOBfxTKhL66_rXivsqFGbePbOFq0qvez3NAA8O7TSxmM6KQGlL1Br-9kgagPbub",
+        "ATtYBwID8YrM-xMq6SsFFi1G0O1mDbLfjuiXgaY0qtXyGDnbjOvpeTp8w0u7WoYodb839o8c8hp1VSojJrc2pv9gMwEQM5CrCaHE51XrGV4vjjpRnPsj3kD71fQWXwizh2vlSOCmTAKsy9dDtC2wUASLMP_re54f3-Zs22rbRlL_m7pZNKnf",
+        "ATtYBwIcmVvQAj_GEzUzOJL9I8CSSlHwjfOVBiOuOrlRbPVfv-Ops6HalnM3QqPgETqtO2C9XQfKKhwc55LpIW4oCYrdyFHKNuoGQFQFBUc7wPMONw07skQP4BylLlvYP1wFyZHF_fxTJ5PdsPsPUBEbNsMFpoZl0nbj_X6pbXTimxpBJBRj",
+        "ATtYBwI_q_kWETNLELKasf3iHwuKK6h-R_kle2aPQ_xTuHZPTLIbpXfqqEQV1oDJ2cR5eGnkvoIFtzq5u0Vdy6xJtGZ44ebInh3hn1vF8zAFcDMYp1iwh0up6iYYLzXaUZcFNvF3RS5TLl4zUXMSGdEHh3eGNG0L9lKzR8hgmDD0vkL2h5If",
+        "ATtYBwJaMYnzKFcCT7R1aH6HKroRBgsiVmj-mB_WD7N3NPJcvmTj6P4KVNT3M9rha9exOi3RvVAQ4eyHVfdjWA17lb-FErNho4TPto2Aku-daGOpSRknYBYLwxC5HHJ4bO57grM9fvKQTKpi8E2Ebs39iSt_7oGWvwcEtSVyc7uoIjbln-X3",
+        "ATtYBwKCYp2wKsEtwR5J_-drRigmx6N7qSdaZMdHVMU8Pi1I5mvsnBkmT-W-0DtDOJmxXQPQBilQOgvp_2GVxxxcpPi-BzxQHllmSsy0O-RqeHO17HFhhkW1RmY-OPUpNB0yJzMVqukfmwR72NKrFMEs--J_-XovQ1QZZiwDNJSXIxf85NiY",
+        "ATtYBwK5H5huHvU3AWHFt_-ldvQl1tjUeU2CrRZuIWr1x4YzGNnkFYZm6Jv4Um9Jtx4vCdVqEZkL8VFmhwm9MI5BuTJkpsqSl-jBrODsRyzjq7gYhG_KK-hVRjeXUrsXwDMcsm6TrJLKgBRThkBriuZQIRLbiSNsYzlkchattfRmjeGADPZo",
+        "ATtYBwJHiu2lrFWOO9coltLrsgggJsd5r-dSQSC9INEIZcV3wS__9QEisAOCYWe-_jKPf5oTL1J7iWL5J1tE0JuD8B8t_MUNlOvEjnxaYX6LXh6vBvz6HsTIEuIfBEU88KNlcI8S9kPd2jtn21RFyYkv5zA2r9pfkAxy36_wD9s7YEgoidXA"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ-wDXpsBw5DoR_gahgFPAeJw",
+      "google_maps_url": "https://maps.google.com/?cid=11274973131994892030",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Colombo, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.798371599999999,
-            "lng": 80.1643246
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.799707280291502,
-              "lng": 80.1656405802915
-            },
-            "southwest": {
-              "lat": 6.797009319708498,
-              "lng": 80.16294261970849
-            }
-          }
-        },
-        "international_phone_number": "+94 77 297 7010",
-        "name": "Dahamkanda arannaya",
-        "photos": [
-          {
-            "height": 1280,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106401289294241143741\">Dilipa Ranjan Dharmasiri</a>"
-            ],
-            "photo_reference": "ATtYBwKdvaOn762dFtPf1nxr-fuBTdVCeVRjwSV2g9-O_y6rJWI-JSs4ozvZDt6TIaGUbewVnBDpf934JSsLV01CNqnPBgcKyqOA-8qJVWI_hsBVPBCRiEnH2Ej8lrL707cDrFp0Xyq3WSulXJbChpuqwMd88nlRjJrucuZ7iEIy6MkMqb8z",
-            "width": 957
-          },
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112178610001990326241\">Bodiyabaduge Jayasuriya</a>"
-            ],
-            "photo_reference": "ATtYBwJYkoO5ScrTK7a2YPS4JLwkJ5lC-9EXfc0Uxx7xFkm-jaHHWRXRw3VhrGCCDbXrNfR1mX9Qyc5i-sum2AjsxUxy8GzGLBJBmtckiE70G5QlWxK3EunBa_fWx4f-8ZzxZsvQ-LRckxz37vayS9MouksyWngYgLPypLZeljoH_KEDZ2Xp",
-            "width": 1280
-          },
-          {
-            "height": 1280,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106401289294241143741\">Dilipa Ranjan Dharmasiri</a>"
-            ],
-            "photo_reference": "ATtYBwL3iQbJqDnwXrXBTiFYY4aoRfHUhdKHoeQ1q6fH-7J-X9O7QuatN3DZPQDR2m8WyuS5YfyYjDGnWSOrN_qv66fC6H5ORmnVo4XluFMLRpfceOEktxKp4VChUkCqgkbHAk3DLqu3cMwtezx4i1GOYvuV8g2CvoKJuakmuyZrF1hpNca4",
-            "width": 957
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111546021411998428768\">Suram Mendis</a>"
-            ],
-            "photo_reference": "ATtYBwLZ_Pz7fXW661kzleScLiYtug503MDjuPljV88sE20ixiz7oTPUpZ3IL1O5F_p79d4yZIhlYgRxqJRWW4icHw4XJjNbE4KkpLsqnVI5MkfVYhmb8ckyLV6g7oYeST0lmaCzkm3gVz4nbB_Q_E6IN7kzBqzwVNxghFiUtHcUK6YTaj32",
-            "width": 4160
-          },
-          {
-            "height": 1280,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106401289294241143741\">Dilipa Ranjan Dharmasiri</a>"
-            ],
-            "photo_reference": "ATtYBwLUFLBtQiFHCDMG5J6UkE-mGlPytiLjXjVEAGPryxPiwRyai1DcBcw65IQGrDhYVO9EijwVZ8xI8SYs_QwFGS-zJTNVrHjjk0_HaiSU4IqPY8NfOYnTxmOLKxvHDs5V9ifmpPI0xLr-nwP5AlJH6QJlYIaBHrNvaRVy8G1pcQMOB9Ab",
-            "width": 957
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111468575598862779932\">Amila Madhu</a>"
-            ],
-            "photo_reference": "ATtYBwJoY1xSSA8CO0akDlgZAGn6AekUR6xt1Aw7FcD-M_KyGvihJUmW30noBSoqi562yPjYCltxfGc0yB7ceeTnVX2_G-ndoUDl7CHzi4VQsSCblmM-Z0kA_uzB4k_W9A73d31_40TVHULxohMm3XH3V0Cl7i8jtOXFNYQyARz5SavZ3Bof",
-            "width": 3264
-          },
-          {
-            "height": 1280,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106401289294241143741\">Dilipa Ranjan Dharmasiri</a>"
-            ],
-            "photo_reference": "ATtYBwLg0fo31FcYbgrsOiSayByLvWjqJW9esNeXgr0PSp_cG3L_fC8kLpOhVbVJTrG0oOuYmq5jTtNPQ3wH5HuPEBYqBTWyWA-jorqUHQBYfz0A1Nt8tfeNvnBvksIYPvcRo9AA3au6aQh860uy5fmvCtpXw2riCIt5EmfQmXidNt9-qTz0",
-            "width": 957
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111468575598862779932\">Amila Madhu</a>"
-            ],
-            "photo_reference": "ATtYBwKmXR69sMtPbK6R8lV1d_d_4g2EHOeieij8QWh3xcuaNffkghfCs9r196LTwbw7DHrlrCBWmX741aTWyu1Sfv77O00ympwvRgto6d_klhipm4mEjOejWjem2JvvPgE_olSRDikGMpw9SC5J-WZcFU-Oyc71tKM_wraeTHuLtYRDkkGK",
-            "width": 3264
-          },
-          {
-            "height": 957,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106401289294241143741\">Dilipa Ranjan Dharmasiri</a>"
-            ],
-            "photo_reference": "ATtYBwIAuqZY6DLh8O-KDqPkB3rWSK0Ie1KP3ExY2vXMyQx3fuRpg2Kmgj2zGH83z7hpfrtM3eopDQ-eH4tV1LZTIbqdugUmNfZOdZunwoAnYasbXKCNHSc86oZteHlqc2pFMRaKvf2jHsQpKAX0MD6SR9sSzGyHplZtRveqdhOQk-xYM2EF",
-            "width": 1280
-          },
-          {
-            "height": 1280,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106401289294241143741\">Dilipa Ranjan Dharmasiri</a>"
-            ],
-            "photo_reference": "ATtYBwICKcdlCKPVrRyFrfZowK9lowf7mawiJH5ZZkXScs4MKJIZHG6wYPtK8VLbmOyGH1BEZ4nk_itKdJGg0bg45_XQoFRJeOoeW7iMoYHRGaPKhS8xFGWjer1j7Px02QlIySda77-pRhtQDuE5CIjk4ty-BWWvweRQ2UWczFxV_oSNnbbD",
-            "width": 957
-          }
-        ],
-        "place_id": "ChIJ8Qgt2ICt4zoRKoiMCJmFtGU",
-        "url": "https://maps.google.com/?cid=7328629385958557738",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dahamkanda arannaya",
+      "location": {
+        "lat": 6.798371599999999,
+        "lng": 80.1643246
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Colombo, Sri Lanka",
+      "phone": "+94 77 297 7010",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKdvaOn762dFtPf1nxr-fuBTdVCeVRjwSV2g9-O_y6rJWI-JSs4ozvZDt6TIaGUbewVnBDpf934JSsLV01CNqnPBgcKyqOA-8qJVWI_hsBVPBCRiEnH2Ej8lrL707cDrFp0Xyq3WSulXJbChpuqwMd88nlRjJrucuZ7iEIy6MkMqb8z",
+        "ATtYBwJYkoO5ScrTK7a2YPS4JLwkJ5lC-9EXfc0Uxx7xFkm-jaHHWRXRw3VhrGCCDbXrNfR1mX9Qyc5i-sum2AjsxUxy8GzGLBJBmtckiE70G5QlWxK3EunBa_fWx4f-8ZzxZsvQ-LRckxz37vayS9MouksyWngYgLPypLZeljoH_KEDZ2Xp",
+        "ATtYBwL3iQbJqDnwXrXBTiFYY4aoRfHUhdKHoeQ1q6fH-7J-X9O7QuatN3DZPQDR2m8WyuS5YfyYjDGnWSOrN_qv66fC6H5ORmnVo4XluFMLRpfceOEktxKp4VChUkCqgkbHAk3DLqu3cMwtezx4i1GOYvuV8g2CvoKJuakmuyZrF1hpNca4",
+        "ATtYBwLZ_Pz7fXW661kzleScLiYtug503MDjuPljV88sE20ixiz7oTPUpZ3IL1O5F_p79d4yZIhlYgRxqJRWW4icHw4XJjNbE4KkpLsqnVI5MkfVYhmb8ckyLV6g7oYeST0lmaCzkm3gVz4nbB_Q_E6IN7kzBqzwVNxghFiUtHcUK6YTaj32",
+        "ATtYBwLUFLBtQiFHCDMG5J6UkE-mGlPytiLjXjVEAGPryxPiwRyai1DcBcw65IQGrDhYVO9EijwVZ8xI8SYs_QwFGS-zJTNVrHjjk0_HaiSU4IqPY8NfOYnTxmOLKxvHDs5V9ifmpPI0xLr-nwP5AlJH6QJlYIaBHrNvaRVy8G1pcQMOB9Ab",
+        "ATtYBwJoY1xSSA8CO0akDlgZAGn6AekUR6xt1Aw7FcD-M_KyGvihJUmW30noBSoqi562yPjYCltxfGc0yB7ceeTnVX2_G-ndoUDl7CHzi4VQsSCblmM-Z0kA_uzB4k_W9A73d31_40TVHULxohMm3XH3V0Cl7i8jtOXFNYQyARz5SavZ3Bof",
+        "ATtYBwLg0fo31FcYbgrsOiSayByLvWjqJW9esNeXgr0PSp_cG3L_fC8kLpOhVbVJTrG0oOuYmq5jTtNPQ3wH5HuPEBYqBTWyWA-jorqUHQBYfz0A1Nt8tfeNvnBvksIYPvcRo9AA3au6aQh860uy5fmvCtpXw2riCIt5EmfQmXidNt9-qTz0",
+        "ATtYBwKmXR69sMtPbK6R8lV1d_d_4g2EHOeieij8QWh3xcuaNffkghfCs9r196LTwbw7DHrlrCBWmX741aTWyu1Sfv77O00ympwvRgto6d_klhipm4mEjOejWjem2JvvPgE_olSRDikGMpw9SC5J-WZcFU-Oyc71tKM_wraeTHuLtYRDkkGK",
+        "ATtYBwIAuqZY6DLh8O-KDqPkB3rWSK0Ie1KP3ExY2vXMyQx3fuRpg2Kmgj2zGH83z7hpfrtM3eopDQ-eH4tV1LZTIbqdugUmNfZOdZunwoAnYasbXKCNHSc86oZteHlqc2pFMRaKvf2jHsQpKAX0MD6SR9sSzGyHplZtRveqdhOQk-xYM2EF",
+        "ATtYBwICKcdlCKPVrRyFrfZowK9lowf7mawiJH5ZZkXScs4MKJIZHG6wYPtK8VLbmOyGH1BEZ4nk_itKdJGg0bg45_XQoFRJeOoeW7iMoYHRGaPKhS8xFGWjer1j7Px02QlIySda77-pRhtQDuE5CIjk4ty-BWWvweRQ2UWczFxV_oSNnbbD"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ8Qgt2ICt4zoRKoiMCJmFtGU",
+      "google_maps_url": "https://maps.google.com/?cid=7328629385958557738",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.1080826,
-            "lng": 80.1386225
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.109461000000001,
-              "lng": 80.1412793
-            },
-            "southwest": {
-              "lat": 6.103947399999999,
-              "lng": 80.13773690000001
-            }
-          }
-        },
-        "name": "Polgasduwa Aranya",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106323372565221440911\">Niluksha Hasaranga</a>"
-            ],
-            "photo_reference": "ATtYBwL6ufpfoV5hv8EWFxERKjHSo1aYx3tKVHbxIA2pL36QQuGkr7Edesp0w8A84Ze2RRCmyDyYdp49sFzPNgJ1_W6GDOhDp3a-999vbhBQeq74Xzg3o5IxNVwKAQMITh7L7MJCJuP04M2D8cMDocSExihtIuY23VUVw676lrzVBe6JtIF4",
-            "width": 4032
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113431817974048033411\">Anuradha ask</a>"
-            ],
-            "photo_reference": "ATtYBwID0_87jYubI1s8f3ZcLd5FGSvZ-aAPT4Ti79GQEWrxKAXHAOKer-pk-5EuQhqwu77DwPaEHwV9M_c8R2pQWesWi_N_irxBntKeOtUa4peLkaAa8_e7RM2nQx8g6GLoAnQ0LSBJd3xMXqe01ZHZ8FqBZgPe7_kgweOG6IzqXA7FraxN",
-            "width": 4160
-          },
-          {
-            "height": 2322,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102803158530267876722\">anuththara mihiravi</a>"
-            ],
-            "photo_reference": "ATtYBwLgUt9rL-vTVA3XFeP_inza1wvCQzPQVyQ-h6T4LhrobkgmOKStPKBOygraeIsWDChUnxZANN7To4nrn3TiQdqo38fHrfo0QfdHvCyMLw-SOtlVbSgKCLxXbYmdm1kXbIsHioqkqdZ6s-Veg3CQXsBnkr2v2j5Ik0Cj61ERHNlMT3kJ",
-            "width": 4128
-          },
-          {
-            "height": 4128,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102803158530267876722\">anuththara mihiravi</a>"
-            ],
-            "photo_reference": "ATtYBwKKE-Kd6y5KcLfzLbYxA_uWer3Kngq9uOeP_0JZOom3UIKX-OUF_f2WccG5rzKqAFAz5vnilcqclkItJEZNm85RXFnID3nLc3B34qBLe-FXtSFnOywNOoetTANRw8abnzCDrE9N3WX3Xk6Kp42XM70489k9kVR-rLuRwl13bAyYh_zg",
-            "width": 2322
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106306753296703342174\">Samindu Gayan</a>"
-            ],
-            "photo_reference": "ATtYBwIhnzs2rKwiTh2bEcFCw1paz8TpubeI3k_JYFljVeCNyeqKqctWvJdhp20Kwhvj1EECsKF_ICackNi9i98ow2EA7PBhNKEzRlMGLixbSxJQ9sWKH28kykCLN6VSIx7PVcwMPKIuEbK3HpeTtljqxi6xc5TWlNT92VX4OPd5a4Kc2KvV",
-            "width": 3120
-          },
-          {
-            "height": 4128,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102803158530267876722\">anuththara mihiravi</a>"
-            ],
-            "photo_reference": "ATtYBwLNcCnlqlVccCx9dsmm21VvwcqqJSsD7gZafgqkQVlFQylXBpBGyAgWS8RPLnQZqfmaAkP7Te-L-aEgyEQ5dPJOzb_5DCjsVtBTrkxlIlP4oBDrcYKWym3f-SLyP8wl8vdBm-maEX8C3tkGfJeqlDu7YycEzOTxMKD-ih01h7uggQu_",
-            "width": 2322
-          },
-          {
-            "height": 2322,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102803158530267876722\">anuththara mihiravi</a>"
-            ],
-            "photo_reference": "ATtYBwLibT827ojXFutibnBW_aMaufUweooOwZTmpMpBhIB6Mz05Hmw_P_87sa4ewvXpR3E2Ks6uD-g757cN6XW1rCiT1P7_SyyIiAnzLGmr8a7T8FqBLnMTfWCOarUstLRpKdyVXL25lx8rO6hyzMbIpvcn7Chh-qRffZkS_ipSkPchvCbu",
-            "width": 4128
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116992151323099171157\">Madhuka Perera</a>"
-            ],
-            "photo_reference": "ATtYBwJJBSfVX82uPeA0pZxvnqbtQPV2vQwcrepfVx2Hjldwo0naHbHw6dXIbx7TIUxTXEqmuwdAO3FK3-FojGa4fjyv6KOHlnv27C_n6gw-aq10IU9w4HXxoUGxxIfsW-i_X_x_vn7GgQcwGjqGzelkWCcdR_L0wkqrzMFSRzFTtd7EfEMX",
-            "width": 1280
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112962610275689467496\">Madura Rukshan</a>"
-            ],
-            "photo_reference": "ATtYBwK4UGBu67tVdHGtJ9tKzJ8meOlbbMKqX9-WMLJuoJqcgNtlW9FPx6aYaTc7jobn8cQxvvgRPjd9BN9ve1y5bKWngF0BKkkfyyhUEUPhaKlIkojC8ntzkHlXDePAqUIBSd12KUf5daUwx_ZPybDo9CNkjd5V4Y_xgrOibYDJhPVAvAjr",
-            "width": 3264
-          },
-          {
-            "height": 2322,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102803158530267876722\">anuththara mihiravi</a>"
-            ],
-            "photo_reference": "ATtYBwK3VBZgyYCidWUJ510q0KONqO7new8-ukIcAyuMbrV1vEWyfVum_Jq90mSuXy81X10yo85EdgmT81mp-1Oww4H1vXCqX2WbW0y8mwW3xRDMZtU_ignLgX_93N-yBuAI98VaB4qKHVPkkcngrY1FBw3h6xET7dHTWwko3w_DjAURmyUg",
-            "width": 4128
-          }
-        ],
-        "place_id": "ChIJKY1wlat34ToR7zBbmao5kqs",
-        "url": "https://maps.google.com/?cid=12363007331965546735",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Polgasduwa Aranya",
+      "location": {
+        "lat": 6.1080826,
+        "lng": 80.1386225
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwL6ufpfoV5hv8EWFxERKjHSo1aYx3tKVHbxIA2pL36QQuGkr7Edesp0w8A84Ze2RRCmyDyYdp49sFzPNgJ1_W6GDOhDp3a-999vbhBQeq74Xzg3o5IxNVwKAQMITh7L7MJCJuP04M2D8cMDocSExihtIuY23VUVw676lrzVBe6JtIF4",
+        "ATtYBwID0_87jYubI1s8f3ZcLd5FGSvZ-aAPT4Ti79GQEWrxKAXHAOKer-pk-5EuQhqwu77DwPaEHwV9M_c8R2pQWesWi_N_irxBntKeOtUa4peLkaAa8_e7RM2nQx8g6GLoAnQ0LSBJd3xMXqe01ZHZ8FqBZgPe7_kgweOG6IzqXA7FraxN",
+        "ATtYBwLgUt9rL-vTVA3XFeP_inza1wvCQzPQVyQ-h6T4LhrobkgmOKStPKBOygraeIsWDChUnxZANN7To4nrn3TiQdqo38fHrfo0QfdHvCyMLw-SOtlVbSgKCLxXbYmdm1kXbIsHioqkqdZ6s-Veg3CQXsBnkr2v2j5Ik0Cj61ERHNlMT3kJ",
+        "ATtYBwKKE-Kd6y5KcLfzLbYxA_uWer3Kngq9uOeP_0JZOom3UIKX-OUF_f2WccG5rzKqAFAz5vnilcqclkItJEZNm85RXFnID3nLc3B34qBLe-FXtSFnOywNOoetTANRw8abnzCDrE9N3WX3Xk6Kp42XM70489k9kVR-rLuRwl13bAyYh_zg",
+        "ATtYBwIhnzs2rKwiTh2bEcFCw1paz8TpubeI3k_JYFljVeCNyeqKqctWvJdhp20Kwhvj1EECsKF_ICackNi9i98ow2EA7PBhNKEzRlMGLixbSxJQ9sWKH28kykCLN6VSIx7PVcwMPKIuEbK3HpeTtljqxi6xc5TWlNT92VX4OPd5a4Kc2KvV",
+        "ATtYBwLNcCnlqlVccCx9dsmm21VvwcqqJSsD7gZafgqkQVlFQylXBpBGyAgWS8RPLnQZqfmaAkP7Te-L-aEgyEQ5dPJOzb_5DCjsVtBTrkxlIlP4oBDrcYKWym3f-SLyP8wl8vdBm-maEX8C3tkGfJeqlDu7YycEzOTxMKD-ih01h7uggQu_",
+        "ATtYBwLibT827ojXFutibnBW_aMaufUweooOwZTmpMpBhIB6Mz05Hmw_P_87sa4ewvXpR3E2Ks6uD-g757cN6XW1rCiT1P7_SyyIiAnzLGmr8a7T8FqBLnMTfWCOarUstLRpKdyVXL25lx8rO6hyzMbIpvcn7Chh-qRffZkS_ipSkPchvCbu",
+        "ATtYBwJJBSfVX82uPeA0pZxvnqbtQPV2vQwcrepfVx2Hjldwo0naHbHw6dXIbx7TIUxTXEqmuwdAO3FK3-FojGa4fjyv6KOHlnv27C_n6gw-aq10IU9w4HXxoUGxxIfsW-i_X_x_vn7GgQcwGjqGzelkWCcdR_L0wkqrzMFSRzFTtd7EfEMX",
+        "ATtYBwK4UGBu67tVdHGtJ9tKzJ8meOlbbMKqX9-WMLJuoJqcgNtlW9FPx6aYaTc7jobn8cQxvvgRPjd9BN9ve1y5bKWngF0BKkkfyyhUEUPhaKlIkojC8ntzkHlXDePAqUIBSd12KUf5daUwx_ZPybDo9CNkjd5V4Y_xgrOibYDJhPVAvAjr",
+        "ATtYBwK3VBZgyYCidWUJ510q0KONqO7new8-ukIcAyuMbrV1vEWyfVum_Jq90mSuXy81X10yo85EdgmT81mp-1Oww4H1vXCqX2WbW0y8mwW3xRDMZtU_ignLgX_93N-yBuAI98VaB4qKHVPkkcngrY1FBw3h6xET7dHTWwko3w_DjAURmyUg"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJKY1wlat34ToR7zBbmao5kqs",
+      "google_maps_url": "https://maps.google.com/?cid=12363007331965546735",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Meethirigala, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.99956,
-            "lng": 80.1727231
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.00072955,
-              "lng": 80.17386068029151
-            },
-            "southwest": {
-              "lat": 6.996051349999999,
-              "lng": 80.17116271970849
-            }
-          }
-        },
-        "international_phone_number": "+94 333 339 193",
-        "name": "Nissarana Wanaya, Meditation Hall",
-        "photos": [
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114736833810776463434\">Chathuka Ayesh</a>"
-            ],
-            "photo_reference": "ATtYBwI9EH34sP-BbIJ7SIJQa4aeg_4XeCxFAQBNUm_L8ExUdsxhCn655J98NkJZJK1zBvGzaMNCGVc0nEYm9ogdUb3saWA75XSMendR5ZWRtXtIQPD41vu3bcU-rWOMiRvvEUnAxfYxiXNiqBHr5KAlSwTfk9AyDLNlYoKzFrfhYsdvMwiq",
-            "width": 4608
-          },
-          {
-            "height": 359,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100210036348756329071\">aruna sumathipala</a>"
-            ],
-            "photo_reference": "ATtYBwJbS9omihLbtNagmOxaK19nmgsSJpl52WxP-xdvCVUxJuSmtXHigD3aYuOujTlyS93ogU0idINIKS6sjjXiuz_QdG9L0SLZ4x0M4Y5z1z1SYic3iCf0It32usozl_8pwJ4xb4_pV43OqCj50PhlIRqf5Po8EaAzC8xEu05VSXvaDI6F",
-            "width": 540
-          },
-          {
-            "height": 1504,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100543462407704054255\">Amila Kariyawasam</a>"
-            ],
-            "photo_reference": "ATtYBwLJYw1ETh1vJqMW4u-Y8ldaXVo2h3R3N47sazQIdGruwQLyugPs0IaMTsqPMMNXZkRKf1Uu86K8WqJHf5COpMvrZhnyij__1jhkDETM_NkKUrXwg3HWQYkKEIxW8Y8IT-l2oWps72AeYzqZPT47ey2yETy7qErqHq3M3KZKmygGt_h6",
-            "width": 3264
-          },
-          {
-            "height": 2304,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102551354983128969465\">Yasitha Danatanarayana</a>"
-            ],
-            "photo_reference": "ATtYBwKTlrBTbunrVHKzO7ceuxkz2UpU8fzSIz5LWvqmIrIwo84TWYeNqsepgVd89popM5YKVKo7TLgBGhaw8HRUkWTprBIByDhS91qyY34vI47i1osWbgkM1h6kZc0L8Qh7lRLIIn3Z6S90U56M_3U2rvTCVocd955MxDTpMWkySR4x1sLW",
-            "width": 4608
-          },
-          {
-            "height": 359,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100210036348756329071\">aruna sumathipala</a>"
-            ],
-            "photo_reference": "ATtYBwJAZf_g35IhxS949fkXaPJ5LtKqWsHfk4DKFtKfRW1mH5MzqBgc-AVLoJ8wcezQsSE7NLlAXgc-kWTjkm-8KQ4pLtdwsttTV8-lM5Hf90pt-x5cmMt4mhJVZcC921h80t1tASFoCyguxKQIxgIYnM0LpZ8g_na9pcnjgn0qepIZkf6g",
-            "width": 540
-          },
-          {
-            "height": 2304,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102551354983128969465\">Yasitha Danatanarayana</a>"
-            ],
-            "photo_reference": "ATtYBwKc8D0wDx3HJNtEjLbu9msdlC2qJ_hCCX9v6GZwGZyRIYv2TP8zzFy9LoqCX26cB-mz4HRJ1IiqIJqX2b6iX5QDHTvQ5wqMeQt5BiO3Fkp2lVwEXDNFg_jrBugP0s9yNLLQ1QbH3PwYoBenCQ36tAmwS16vqzUVoY2lLAEobgYdKRgs",
-            "width": 4608
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114684362241819454243\">Hiran Chandrasena</a>"
-            ],
-            "photo_reference": "ATtYBwKElwRIkJLq5vjofFRtuxV0BKsorbGSaF0WKKSq22WeQpabSNAUgXd6hqUsH1XBc6oFo1cOxH9seLIX8Y0zRak377Aaxr768fRBDP59ceALc4lILNVMpNOfNVPYgLsYC2Px_4zRoT2ShSNP4yUUNSeQjkMnaQAbyAc5Nl_cmn_hjYvI",
-            "width": 3024
-          },
-          {
-            "height": 1504,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100543462407704054255\">Amila Kariyawasam</a>"
-            ],
-            "photo_reference": "ATtYBwJDum2ccavbY0A9dkssC4eiUhRxs382xk5OJZbQPgvlRjx3jub-lf-DFy8SIBSHiVDVGbUAzc5g8ELoZmjGuNjts9Nys3ZBCuo3Lx5GKvAbQCwC6AfgHobkq6bQtSUxce5i5rL2DdK8h2F_L1Pf_BMTvxzkLB7OuVYYPh928zD13Ica",
-            "width": 3264
-          },
-          {
-            "height": 1984,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101108477296185340214\">Sandali Jayawardana</a>"
-            ],
-            "photo_reference": "ATtYBwJS0GBoiU7DYlKF44ixuYof59gkQmOWMsGIMC6S4p9oh0d9cVHhrwg2Oa3IYu3jhrxwuuFEPOEcxNozmPHYOXvP1vbyWk0Ajk3xM9vOOqqz2gW2jmKw8w3xKoklpOPSuoeSXWm3cUXbBI3P_p81wkYP-Zyo2plViqRYr6NBQ81oGEKT",
-            "width": 1488
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100543462407704054255\">Amila Kariyawasam</a>"
-            ],
-            "photo_reference": "ATtYBwJopGBKuz9atzp0BmjMi8RymtUv11dgKo1jY2f_GJ2S3_9sqzrBA3taElNGuI49zYGkXlV-4bcWJZg-uOPdSXgUjt6YvRg7zhhmzM4VPfh8wM17F2XWrdhODCuKFMu8_UXLSxJYpolIsZYKA0cZPdBGDOs-1wb61Iw3vMG9AWS2eJl9",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJxS7aRlkB4zoRD_sZ4rR3eHs",
-        "url": "https://maps.google.com/?cid=8896992682641586959",
-        "website": "http://nissarana.lk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Nissarana Wanaya, Meditation Hall",
+      "location": {
+        "lat": 6.99956,
+        "lng": 80.1727231
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Meethirigala, Sri Lanka",
+      "phone": "+94 333 339 193",
+      "website": "http://nissarana.lk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwI9EH34sP-BbIJ7SIJQa4aeg_4XeCxFAQBNUm_L8ExUdsxhCn655J98NkJZJK1zBvGzaMNCGVc0nEYm9ogdUb3saWA75XSMendR5ZWRtXtIQPD41vu3bcU-rWOMiRvvEUnAxfYxiXNiqBHr5KAlSwTfk9AyDLNlYoKzFrfhYsdvMwiq",
+        "ATtYBwJbS9omihLbtNagmOxaK19nmgsSJpl52WxP-xdvCVUxJuSmtXHigD3aYuOujTlyS93ogU0idINIKS6sjjXiuz_QdG9L0SLZ4x0M4Y5z1z1SYic3iCf0It32usozl_8pwJ4xb4_pV43OqCj50PhlIRqf5Po8EaAzC8xEu05VSXvaDI6F",
+        "ATtYBwLJYw1ETh1vJqMW4u-Y8ldaXVo2h3R3N47sazQIdGruwQLyugPs0IaMTsqPMMNXZkRKf1Uu86K8WqJHf5COpMvrZhnyij__1jhkDETM_NkKUrXwg3HWQYkKEIxW8Y8IT-l2oWps72AeYzqZPT47ey2yETy7qErqHq3M3KZKmygGt_h6",
+        "ATtYBwKTlrBTbunrVHKzO7ceuxkz2UpU8fzSIz5LWvqmIrIwo84TWYeNqsepgVd89popM5YKVKo7TLgBGhaw8HRUkWTprBIByDhS91qyY34vI47i1osWbgkM1h6kZc0L8Qh7lRLIIn3Z6S90U56M_3U2rvTCVocd955MxDTpMWkySR4x1sLW",
+        "ATtYBwJAZf_g35IhxS949fkXaPJ5LtKqWsHfk4DKFtKfRW1mH5MzqBgc-AVLoJ8wcezQsSE7NLlAXgc-kWTjkm-8KQ4pLtdwsttTV8-lM5Hf90pt-x5cmMt4mhJVZcC921h80t1tASFoCyguxKQIxgIYnM0LpZ8g_na9pcnjgn0qepIZkf6g",
+        "ATtYBwKc8D0wDx3HJNtEjLbu9msdlC2qJ_hCCX9v6GZwGZyRIYv2TP8zzFy9LoqCX26cB-mz4HRJ1IiqIJqX2b6iX5QDHTvQ5wqMeQt5BiO3Fkp2lVwEXDNFg_jrBugP0s9yNLLQ1QbH3PwYoBenCQ36tAmwS16vqzUVoY2lLAEobgYdKRgs",
+        "ATtYBwKElwRIkJLq5vjofFRtuxV0BKsorbGSaF0WKKSq22WeQpabSNAUgXd6hqUsH1XBc6oFo1cOxH9seLIX8Y0zRak377Aaxr768fRBDP59ceALc4lILNVMpNOfNVPYgLsYC2Px_4zRoT2ShSNP4yUUNSeQjkMnaQAbyAc5Nl_cmn_hjYvI",
+        "ATtYBwJDum2ccavbY0A9dkssC4eiUhRxs382xk5OJZbQPgvlRjx3jub-lf-DFy8SIBSHiVDVGbUAzc5g8ELoZmjGuNjts9Nys3ZBCuo3Lx5GKvAbQCwC6AfgHobkq6bQtSUxce5i5rL2DdK8h2F_L1Pf_BMTvxzkLB7OuVYYPh928zD13Ica",
+        "ATtYBwJS0GBoiU7DYlKF44ixuYof59gkQmOWMsGIMC6S4p9oh0d9cVHhrwg2Oa3IYu3jhrxwuuFEPOEcxNozmPHYOXvP1vbyWk0Ajk3xM9vOOqqz2gW2jmKw8w3xKoklpOPSuoeSXWm3cUXbBI3P_p81wkYP-Zyo2plViqRYr6NBQ81oGEKT",
+        "ATtYBwJopGBKuz9atzp0BmjMi8RymtUv11dgKo1jY2f_GJ2S3_9sqzrBA3taElNGuI49zYGkXlV-4bcWJZg-uOPdSXgUjt6YvRg7zhhmzM4VPfh8wM17F2XWrdhODCuKFMu8_UXLSxJYpolIsZYKA0cZPdBGDOs-1wb61Iw3vMG9AWS2eJl9"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJxS7aRlkB4zoRD_sZ4rR3eHs",
+      "google_maps_url": "https://maps.google.com/?cid=8896992682641586959",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mitirigala Nissarana Aranya Rd, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.9973647,
-            "lng": 80.1722789
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.998641780291502,
-              "lng": 80.1736694802915
-            },
-            "southwest": {
-              "lat": 6.995943819708497,
-              "lng": 80.17097151970849
-            }
-          }
-        },
-        "international_phone_number": "+94 332 253 295",
-        "name": "Meetirigala Nissarana Vanaya",
-        "photos": [
-          {
-            "height": 270,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105383365165615841267\">Dinesh kumara</a>"
-            ],
-            "photo_reference": "ATtYBwLU9f8OyRgRIwdnvSDYFHIlAKiFriB_uwsTgNwNs2Yfkvr-755E5c0BSn6dilSpfPKEnRTAOj3eNCpBjUCGQksJCRjN26oFSTTgfVLairZYR7MHJiLRz_R7aY9TKKWfqGz0u8CbajOO4fY_9YbcLNOvJifJNwrX44k-22cS54vXbsx1",
-            "width": 270
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114427945950683403081\">gayan gunarathna</a>"
-            ],
-            "photo_reference": "ATtYBwJaXCX7dG9Fll8i-EmPVQYpMsk58ccjFTs4JEj-xV89uuxn1YCMk7x-Um0O76tWt1tiXrSci6t67r38aWhhM_bP0KX0ouUgeoDZGdI9tg_Ze4k-2D8-554dJZfRlZFFDEYPxYq54repjD2IOmBf9DB7NN_cCtjLS2sq6bRhvcLOzhkv",
-            "width": 4608
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107328325031069633753\">Madura Dissanayake</a>"
-            ],
-            "photo_reference": "ATtYBwLXrFGh10ThiB50ilbgl9wA-3oNS61zrvKmDkqM_MOtZ_YP241NXV-Unu1AdU5HksMbySwZMUE3rU1a1YHnhRz0xTfrvBgaM-lVsSHZ01S4rKAaHpY8sjfyZAK34INctzROozl2MX4J0qkrFx2pgNvZO2PEyA48p0qhomn-1xdcyUvp",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107328325031069633753\">Madura Dissanayake</a>"
-            ],
-            "photo_reference": "ATtYBwJeC-Ok3VOZmvI2GlVVPg1fp45IfIjYDYIP9dawJLJbhWUPjDkONEZOt2neq_UhHGe12cLkTkW0e4Fl4q4C34Szcj2nE3ysFLPye-WtBRnsH66PDUxzdhXCX3H1dl4gwBgBSlY0kTVjA0peFWTX8CcojoGiTt_J6t0s29j8ENq-Tw74",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107734766842142013399\">Udara Atapattu</a>"
-            ],
-            "photo_reference": "ATtYBwK2nSZ_2OhY8mcvoaozo9-IxqIMwGn8nWVzC2pvG0bK0SbGbYNUm_kBgkm4Bq3y4NvlCDx0_Sj2XNHGx1H8bt7rXbQaRzLEmKrLhMPmWBS5HS40UDVVyDZyIwuXNUCfu9c5yPEXDHIrW0QP14ce9ZlYrGpmm83G7UjOG0LUF5J8h1vy",
-            "width": 4032
-          },
-          {
-            "height": 4330,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115242363106949701318\">mind meditation</a>"
-            ],
-            "photo_reference": "ATtYBwIWuOYfsFZyaGoqoix-vEK2HsE7nqWsDjv3YzSCyf031Iqn-9ZQaPqkpLkOBZdvaVfo-DlAntKVFPGtNFVSOECKi54gXC_FEMW4JXsYu66HWjo_kjre5qc5hpl5pdqOluyDYp1IkUUqLj_2DJjwBq8Nyh87hdx9hotv-bN1hVGlT5BY",
-            "width": 5773
-          },
-          {
-            "height": 2368,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102746767988979855530\">Thamali P</a>"
-            ],
-            "photo_reference": "ATtYBwIbYvpDq3VFI73iJOVVBwkkg2yYvQccIoGUI14YCmpevqHODUbZCtndWqrHk7bajFnkNeCqh1dclR7z1kOmmm5-1l_Fum7mghBcRy_CDDPXI1UPbRmS3by1CbjVqv2xaTCv9jlPwI1Ofvxr7Q4-rtG6K8eYRl7v8CoeRqVQbCbpcItL",
-            "width": 4208
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103831250532630548355\">Channa Darshana</a>"
-            ],
-            "photo_reference": "ATtYBwI-R60wiLWVMnZNrSh6FJvjTDQzm5P1CEg0KBdgj0uVSmHxreUkX4MZD8LDz-XA94fMuLXFqb3i5ZFctUGUx28Z5BsXO2HIdLHN1JEQNHJbq2UJrf9ztOW3gE_5eK3yapcRSldadSTK7WBqiiaF9yEkV9erjIpoTOquSawCoJIhYM4E",
-            "width": 3120
-          },
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100350479539155863634\">sri lankan funny animals</a>"
-            ],
-            "photo_reference": "ATtYBwKMeufFtsiDI5uWguERocW3dCxk2G2b3Kx8oueqo4onLCwe-IKZwcOLsX9Oj_F4afj2me4z-XAh9G8fLyennt0OCFfLf5I7xcsytXPaqYx4NWeaA363Vewo6gSx-a9mvq_EXZTm9EvfnkR1pY6Bj8yLS1pIN08oKlonLyhto-J-AqcV",
-            "width": 1600
-          },
-          {
-            "height": 2399,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107328325031069633753\">Madura Dissanayake</a>"
-            ],
-            "photo_reference": "ATtYBwKqbtUiKwKWiI-ViqWqtafeUTqIT8tjfC2FgDcNRE2lRaIavZ7YrUW0r_You1wDBoJc_PItofKUJhh5xjbLHlAXbfw7sG9xp4BpWUDMHnj2X6XRaUp6md5ImShSu0-xTRWRkfdrP5c33_oZwDc9TMjgSvbIdP_a7ZBzbl_RujOYepJr",
-            "width": 3185
-          }
-        ],
-        "place_id": "ChIJt_G4XaQA4zoRnuuqiib-Ku0",
-        "url": "https://maps.google.com/?cid=17089751177499437982",
-        "website": "http://www.nissarana.lk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Meetirigala Nissarana Vanaya",
+      "location": {
+        "lat": 6.9973647,
+        "lng": 80.1722789
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Mitirigala Nissarana Aranya Rd, Sri Lanka",
+      "phone": "+94 332 253 295",
+      "website": "http://www.nissarana.lk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLU9f8OyRgRIwdnvSDYFHIlAKiFriB_uwsTgNwNs2Yfkvr-755E5c0BSn6dilSpfPKEnRTAOj3eNCpBjUCGQksJCRjN26oFSTTgfVLairZYR7MHJiLRz_R7aY9TKKWfqGz0u8CbajOO4fY_9YbcLNOvJifJNwrX44k-22cS54vXbsx1",
+        "ATtYBwJaXCX7dG9Fll8i-EmPVQYpMsk58ccjFTs4JEj-xV89uuxn1YCMk7x-Um0O76tWt1tiXrSci6t67r38aWhhM_bP0KX0ouUgeoDZGdI9tg_Ze4k-2D8-554dJZfRlZFFDEYPxYq54repjD2IOmBf9DB7NN_cCtjLS2sq6bRhvcLOzhkv",
+        "ATtYBwLXrFGh10ThiB50ilbgl9wA-3oNS61zrvKmDkqM_MOtZ_YP241NXV-Unu1AdU5HksMbySwZMUE3rU1a1YHnhRz0xTfrvBgaM-lVsSHZ01S4rKAaHpY8sjfyZAK34INctzROozl2MX4J0qkrFx2pgNvZO2PEyA48p0qhomn-1xdcyUvp",
+        "ATtYBwJeC-Ok3VOZmvI2GlVVPg1fp45IfIjYDYIP9dawJLJbhWUPjDkONEZOt2neq_UhHGe12cLkTkW0e4Fl4q4C34Szcj2nE3ysFLPye-WtBRnsH66PDUxzdhXCX3H1dl4gwBgBSlY0kTVjA0peFWTX8CcojoGiTt_J6t0s29j8ENq-Tw74",
+        "ATtYBwK2nSZ_2OhY8mcvoaozo9-IxqIMwGn8nWVzC2pvG0bK0SbGbYNUm_kBgkm4Bq3y4NvlCDx0_Sj2XNHGx1H8bt7rXbQaRzLEmKrLhMPmWBS5HS40UDVVyDZyIwuXNUCfu9c5yPEXDHIrW0QP14ce9ZlYrGpmm83G7UjOG0LUF5J8h1vy",
+        "ATtYBwIWuOYfsFZyaGoqoix-vEK2HsE7nqWsDjv3YzSCyf031Iqn-9ZQaPqkpLkOBZdvaVfo-DlAntKVFPGtNFVSOECKi54gXC_FEMW4JXsYu66HWjo_kjre5qc5hpl5pdqOluyDYp1IkUUqLj_2DJjwBq8Nyh87hdx9hotv-bN1hVGlT5BY",
+        "ATtYBwIbYvpDq3VFI73iJOVVBwkkg2yYvQccIoGUI14YCmpevqHODUbZCtndWqrHk7bajFnkNeCqh1dclR7z1kOmmm5-1l_Fum7mghBcRy_CDDPXI1UPbRmS3by1CbjVqv2xaTCv9jlPwI1Ofvxr7Q4-rtG6K8eYRl7v8CoeRqVQbCbpcItL",
+        "ATtYBwI-R60wiLWVMnZNrSh6FJvjTDQzm5P1CEg0KBdgj0uVSmHxreUkX4MZD8LDz-XA94fMuLXFqb3i5ZFctUGUx28Z5BsXO2HIdLHN1JEQNHJbq2UJrf9ztOW3gE_5eK3yapcRSldadSTK7WBqiiaF9yEkV9erjIpoTOquSawCoJIhYM4E",
+        "ATtYBwKMeufFtsiDI5uWguERocW3dCxk2G2b3Kx8oueqo4onLCwe-IKZwcOLsX9Oj_F4afj2me4z-XAh9G8fLyennt0OCFfLf5I7xcsytXPaqYx4NWeaA363Vewo6gSx-a9mvq_EXZTm9EvfnkR1pY6Bj8yLS1pIN08oKlonLyhto-J-AqcV",
+        "ATtYBwKqbtUiKwKWiI-ViqWqtafeUTqIT8tjfC2FgDcNRE2lRaIavZ7YrUW0r_You1wDBoJc_PItofKUJhh5xjbLHlAXbfw7sG9xp4BpWUDMHnj2X6XRaUp6md5ImShSu0-xTRWRkfdrP5c33_oZwDc9TMjgSvbIdP_a7ZBzbl_RujOYepJr"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJt_G4XaQA4zoRnuuqiib-Ku0",
+      "google_maps_url": "https://maps.google.com/?cid=17089751177499437982",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Madunaagala Forest Monastery, Sooriyawewa, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.246512000000001,
-            "lng": 81.00466349999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.247842080291503,
-              "lng": 81.0060194302915
-            },
-            "southwest": {
-              "lat": 6.245144119708498,
-              "lng": 81.0033214697085
-            }
-          }
-        },
-        "name": "Madunagala Aranya Senasanaya",
-        "photos": [
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109417382254384977817\">Madunagala Aranya Senasanaya</a>"
-            ],
-            "photo_reference": "ATtYBwKmECGOo9nSZmFb7qgknSFiDtuIjWhkoZQX8X13bOHnDoyRVP_174c3mDDd8lteECKKq9NsPpazq5kYsfhaYoUIH-2mZLuUVJ7L34HNxNXkxuztxXvH45xyL6y9EFLooNiI7AAtuzN1EhH-BnnR6aVFAM30eSHYIgf2Ij-hFfKr4CZx",
-            "width": 1280
-          },
-          {
-            "height": 3376,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118093609537636092207\">Lalith Samaraweera</a>"
-            ],
-            "photo_reference": "ATtYBwJ8cliYtBEV9JbfxFug4VzHWPir6PmfODfXxDO6rc5_Mijn-44894sr8CGB4roFUY2oYQHPevdpzLeOQbneI2mTokKEx3Xqe64CeK1YnutBcs6AsT3U0ndzu0T4nwwGVaNxQWXfZhUZROTI17xRwi5htEHZX9axlAiXfKMvZTkLigwX",
-            "width": 5984
-          },
-          {
-            "height": 3376,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103921450953357185623\">Sujatha Samaraweera</a>"
-            ],
-            "photo_reference": "ATtYBwL_7xH_8PkdJhWQ4SeozM2K87eQpX7N3pxD808OAdXhG7Ilm0rDDvghFn1u2gC1qk08MJL21K9ai-wofU4vf28dG5NmE43cXBqCtjjLXY03RsXoAOSFSyMMFPMSBfEyt9ZYAvfXFBsNpSDfXR8pErmduN1R1lI6FSrABwfIiO2CmMnl",
-            "width": 5984
-          },
-          {
-            "height": 3376,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118093609537636092207\">Lalith Samaraweera</a>"
-            ],
-            "photo_reference": "ATtYBwIwMptTVKA4MBhQozySOYFal4O8K3fi8crYVYogbpq-O-d5aSAKPRMQ00VjREuf9Yf-Uv8S-0ZX1Hk7qlzjVkQwJNHvn8mvl0oV8twBRqNUnty0P9KjIslIWdLm7E82nQceY0UXK0pWB6hlF2IV-jzo33EdvpA0FdEeMqg5jTAZjRLn",
-            "width": 5984
-          },
-          {
-            "height": 3376,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103921450953357185623\">Sujatha Samaraweera</a>"
-            ],
-            "photo_reference": "ATtYBwIA0ovs4GiUD2WY1YfgshooWw0s3FiLLvqK_Mm_ADZPRT1_BtMdFJhE26VmcmvKtbdCt9EPf1UBZ8fLtg0hQQI-1-qe7fmdxFi1X2lcOn-4zwrErYNzWWWUiRnr7vAIqLEd1966WdqbwEdCOIsupjYRAqETot8ZzRClmrBXqDC8rCvv",
-            "width": 5984
-          },
-          {
-            "height": 3376,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118093609537636092207\">Lalith Samaraweera</a>"
-            ],
-            "photo_reference": "ATtYBwLkbA6DYexSItxcgPbWKKJe4_ZZ8kwRM1AQPntFIfTL4oZF7rXF23xj3FbJP0XUWbtzYQWngip6pt451znWYT1CFPWY7luV52GWM2KFoOqQs-mss0HQHj69pom6gnY2lBvxLqsdMyyJy749zNNwZuh6s4HVsUnC-PDOsP9zWRRF68SC",
-            "width": 5984
-          },
-          {
-            "height": 675,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109417382254384977817\">Madunagala Aranya Senasanaya</a>"
-            ],
-            "photo_reference": "ATtYBwIr2HsQ-7x4O9pbu3RwPXgpmwwNNpCWw_NdnuYRDLi7p1AHujHAHeXwERZzt67WsdQY_1ZCo7Agox7SRckEqmnT_89n6zKw5Md4iWvPPjP8JHNtQ8adzYmnwAuUgZSBkvp0sSe31rrWWrMOBLBZdYi3tkbs194bnt8UZ6zXEIIDTAl_",
-            "width": 1200
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105798375767234290342\">Supun Tharanga</a>"
-            ],
-            "photo_reference": "ATtYBwIVqwa7f1kCjeEV1HYmRxyUOL0svoTFgiC6RwU7yau4RajSWVn9zVLPoTdDF_IdDg8fTaNnMb4x4ZcCZpszvifStRWyugmK9G3Qg0xFACdXbqUxN-3BYjTrHmtWTwaC8kUR8mZSXPIJUAk2vNHXZSS7vxEVTVl_hUPE8NAohQ5QIGvy",
-            "width": 4032
-          },
-          {
-            "height": 3376,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118093609537636092207\">Lalith Samaraweera</a>"
-            ],
-            "photo_reference": "ATtYBwIpwjFdNuYODVoGJq1Inow1eOQ35EV4odaCC5tvu7zP4j_6VZyRPuoOHQY-_ezLaA-u8u8eQC3lE8wwDePDmOoxFQpySpJxv3ohDgqZUvqcP2v3U7M0HljJJwPeh-_0d-KFBeNvHmjG79PpQz6202Upjvd95qLwxxIyplVDzZNHjTkl",
-            "width": 5984
-          },
-          {
-            "height": 3376,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118093609537636092207\">Lalith Samaraweera</a>"
-            ],
-            "photo_reference": "ATtYBwKJW8JjXp_tHCpvM9au4bOXzVMZOoiNWOViU6TcmliRJ8gLmcUcAc9sNCrcckbxm9FYr0eNY2L7PCuT1TUbt_pktzqej1gTGcsCbbwKOGIg-Fv7G5AfkFW-hozhdHnUF6kEBDYB3HB0i53Mn7G5GJoD7WWWEM6rZlUeY9i00lgtcCTX",
-            "width": 5984
-          }
-        ],
-        "place_id": "ChIJwxoZHQqm5joRkiQbemL1FbQ",
-        "url": "https://maps.google.com/?cid=12976547704642151570",
-        "website": "https://madunagala-aranya-senasanaya.business.site/?utm_source=gmb&utm_medium=referral",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Madunagala Aranya Senasanaya",
+      "location": {
+        "lat": 6.246512000000001,
+        "lng": 81.00466349999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Madunaagala Forest Monastery, Sooriyawewa, Sri Lanka",
+      "website": "https://madunagala-aranya-senasanaya.business.site/?utm_source=gmb&utm_medium=referral",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKmECGOo9nSZmFb7qgknSFiDtuIjWhkoZQX8X13bOHnDoyRVP_174c3mDDd8lteECKKq9NsPpazq5kYsfhaYoUIH-2mZLuUVJ7L34HNxNXkxuztxXvH45xyL6y9EFLooNiI7AAtuzN1EhH-BnnR6aVFAM30eSHYIgf2Ij-hFfKr4CZx",
+        "ATtYBwJ8cliYtBEV9JbfxFug4VzHWPir6PmfODfXxDO6rc5_Mijn-44894sr8CGB4roFUY2oYQHPevdpzLeOQbneI2mTokKEx3Xqe64CeK1YnutBcs6AsT3U0ndzu0T4nwwGVaNxQWXfZhUZROTI17xRwi5htEHZX9axlAiXfKMvZTkLigwX",
+        "ATtYBwL_7xH_8PkdJhWQ4SeozM2K87eQpX7N3pxD808OAdXhG7Ilm0rDDvghFn1u2gC1qk08MJL21K9ai-wofU4vf28dG5NmE43cXBqCtjjLXY03RsXoAOSFSyMMFPMSBfEyt9ZYAvfXFBsNpSDfXR8pErmduN1R1lI6FSrABwfIiO2CmMnl",
+        "ATtYBwIwMptTVKA4MBhQozySOYFal4O8K3fi8crYVYogbpq-O-d5aSAKPRMQ00VjREuf9Yf-Uv8S-0ZX1Hk7qlzjVkQwJNHvn8mvl0oV8twBRqNUnty0P9KjIslIWdLm7E82nQceY0UXK0pWB6hlF2IV-jzo33EdvpA0FdEeMqg5jTAZjRLn",
+        "ATtYBwIA0ovs4GiUD2WY1YfgshooWw0s3FiLLvqK_Mm_ADZPRT1_BtMdFJhE26VmcmvKtbdCt9EPf1UBZ8fLtg0hQQI-1-qe7fmdxFi1X2lcOn-4zwrErYNzWWWUiRnr7vAIqLEd1966WdqbwEdCOIsupjYRAqETot8ZzRClmrBXqDC8rCvv",
+        "ATtYBwLkbA6DYexSItxcgPbWKKJe4_ZZ8kwRM1AQPntFIfTL4oZF7rXF23xj3FbJP0XUWbtzYQWngip6pt451znWYT1CFPWY7luV52GWM2KFoOqQs-mss0HQHj69pom6gnY2lBvxLqsdMyyJy749zNNwZuh6s4HVsUnC-PDOsP9zWRRF68SC",
+        "ATtYBwIr2HsQ-7x4O9pbu3RwPXgpmwwNNpCWw_NdnuYRDLi7p1AHujHAHeXwERZzt67WsdQY_1ZCo7Agox7SRckEqmnT_89n6zKw5Md4iWvPPjP8JHNtQ8adzYmnwAuUgZSBkvp0sSe31rrWWrMOBLBZdYi3tkbs194bnt8UZ6zXEIIDTAl_",
+        "ATtYBwIVqwa7f1kCjeEV1HYmRxyUOL0svoTFgiC6RwU7yau4RajSWVn9zVLPoTdDF_IdDg8fTaNnMb4x4ZcCZpszvifStRWyugmK9G3Qg0xFACdXbqUxN-3BYjTrHmtWTwaC8kUR8mZSXPIJUAk2vNHXZSS7vxEVTVl_hUPE8NAohQ5QIGvy",
+        "ATtYBwIpwjFdNuYODVoGJq1Inow1eOQ35EV4odaCC5tvu7zP4j_6VZyRPuoOHQY-_ezLaA-u8u8eQC3lE8wwDePDmOoxFQpySpJxv3ohDgqZUvqcP2v3U7M0HljJJwPeh-_0d-KFBeNvHmjG79PpQz6202Upjvd95qLwxxIyplVDzZNHjTkl",
+        "ATtYBwKJW8JjXp_tHCpvM9au4bOXzVMZOoiNWOViU6TcmliRJ8gLmcUcAc9sNCrcckbxm9FYr0eNY2L7PCuT1TUbt_pktzqej1gTGcsCbbwKOGIg-Fv7G5AfkFW-hozhdHnUF6kEBDYB3HB0i53Mn7G5GJoD7WWWEM6rZlUeY9i00lgtcCTX"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJwxoZHQqm5joRkiQbemL1FbQ",
+      "google_maps_url": "https://maps.google.com/?cid=12976547704642151570",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ovitiyagala Road Munagama, Horana, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.723791599999999,
-            "lng": 80.06984969999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.725053280291502,
-              "lng": 80.07101533029149
-            },
-            "southwest": {
-              "lat": 6.722355319708497,
-              "lng": 80.06831736970848
-            }
-          }
-        },
-        "international_phone_number": "+94 344 943 924",
-        "name": "Mahamevnawa Bhawana Asapuwa Horana",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102588255868160112240\">Guru Eye</a>"
-            ],
-            "photo_reference": "ATtYBwJjqvz-ilg0Q1N9sx7XlYmvIA2z6lPEE1sOjvTrCOuHIUlbLq_HXPnwnpz-jWNSUxQZGdYl8yA5KMKxrletK5IddAbmS-tGsdXlME5T8k66sfIBMGuwWQJZvb-K6-903pVbTB9-Y6t8QVkq6ARYNp0g3EN0hhNnk0EUoX22-2sRmDm6",
-            "width": 4032
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105107988885215290560\">Thusitha Kumara Perera</a>"
-            ],
-            "photo_reference": "ATtYBwIE3spvXkv576xKdgOVnYRIo1Irj-ln4WSZNLkO2pO25iQZMgA8VA0xNYg64ME5VTxLP0dlmGcgGWo_FHmH1JJofDPU86e4mK2pz_gIrWprvy1e8yimaNtasJHPpyfFcX2fGszKjmTMILwwDO3AYgX-mXJ-hz15SE1w3OpM-73UJotT",
-            "width": 4160
-          },
-          {
-            "height": 1944,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112433717288149521370\">Suranga Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwLvkLFJhPx1E0jBYVa9J0RJD14v3ifjC0w5BdSR9jSBsaqo3slmJADEmV10JFFNm_7tZhBAl582wwJUz27m05WU3D_P7bYej2uxIIH2u-i1PGMaBjOxwTLORFZ0SJpFi1CB41ASo08NTG1XGBfTFd53p3jE-pbDSEgM7q7oTXUSgkln",
-            "width": 2592
-          },
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117698039410222565652\">Tharindu Prathaap</a>"
-            ],
-            "photo_reference": "ATtYBwJz1AFRFAUFypiB5gVzLVKqFxHgPU5emMLoCwRw9FUTJHCkC-9AipEAQmnEubnqA6EmaxlQe3Svk-pwM_GccYht37wl0gVQL_sE-oNK3jXEw4JjKlVqMLN7uZAia5b4OwYJ__wEwzKSJdRsIebAVOce_uuF8wks55d5bJH88w6OKiWu",
-            "width": 1600
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112724789843458936252\">Jayashan Udayanga</a>"
-            ],
-            "photo_reference": "ATtYBwKXciUduuOVEDscOMlO7iz6dqviFz1MpNZm1nN_3eeyB4zMnMy_gym2zr7cR73DhJ3DWWGaeYzSGLyX7SJMsHpTJ_ice3bymlYm8Sl7qP9pWt3NfmDQZIb6poeZp-l6NymOZduFymZ7c4d47HxMOMbdVk0rsPRh88mSPFNWum9vJExT",
-            "width": 4608
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105107988885215290560\">Thusitha Kumara Perera</a>"
-            ],
-            "photo_reference": "ATtYBwIqO0fWhrKUUHb17tES2WjQCljxnahG_46Fa08XIAefitmbZEvcwAY0OgnBVJl0iHbsG7O7rOJwtbgpHUTI-xsIkk2PWotSsLUQCoU5ZIi5ciHTQvjkQu0eGg-pL8n4wniuCc0uQjqNLwQKcHCFdNXh8NyTsYzpOXt-dl9Wt1uMLM1t",
-            "width": 4160
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106303333845565320371\">Rajindra SM Wickramaarachchi</a>"
-            ],
-            "photo_reference": "ATtYBwKcCABjt_9VlbGPbSX5o2Jk-jJA_MDjk4xgtACMVw-f2U5Z2vKiz7fU9si2mJt4VJeYfY1OlkPt1PggLQMcoS15NrjMm9riu2KrQy-kUTCmJSi78hUOmWcbT95dA9SD8gcntdjSi-B8oq8AsxHtBYlm1u6JxqbGwXapiQioJaK1hbOE",
-            "width": 4160
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105107988885215290560\">Thusitha Kumara Perera</a>"
-            ],
-            "photo_reference": "ATtYBwJK4TaSc70_gP-hjDbDN7_FbHIPQexzy3VDfbflSkcdkhHodgg0xGHnAKS91v-ORv3VOsj-2UYdGaVrO9jFQ6vbGopp71NDSs7wFhzvf4O_qrBy4lbhFlbvktIyTLuxQpczC25pM5LrOeUbaC-mSvLwZuKId1ht71TfwCmayxRlQfsF",
-            "width": 4160
-          },
-          {
-            "height": 3000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112433717288149521370\">Suranga Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwIpRVAvq-xTQGHaS8UCG9hKvixeM6wlOnF6bzzgDYDviOncTL2ZcYLGsTPZNApQxh4yyCAOL6WEp39yq0DDHkY_Xr1VtCUOQO71Kl03sGCxcP0zuA8K8Wyp27O_q8dBGOAxXUfu2PWxg0xQlUNLAfrJw05afSzdpTlR9veTBV_2jumP",
-            "width": 4000
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105107988885215290560\">Thusitha Kumara Perera</a>"
-            ],
-            "photo_reference": "ATtYBwI7LicHT9a5ZsIgElqtQ5jsGZ7_pUvpJHR0XXWrKzzpltNb7wQGVK5miSCophInJiPXkJdfsdx1LXISxLGXnlI8uRwROy9LUTM42BEKrciqrWAdBl9JAggm1VFcGzVM19Li21WeXITTkY64H1C5opO5031OJKOvJknFKZ1Nj4nA8S97",
-            "width": 4160
-          }
-        ],
-        "place_id": "ChIJtyG35WVL4joRfg2IJQwgAZ0",
-        "url": "https://maps.google.com/?cid=11313358975472766334",
-        "website": "https://mahamevnawa.lk/mahamevnawa-local-branches/horana/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mahamevnawa Bhawana Asapuwa Horana",
+      "location": {
+        "lat": 6.723791599999999,
+        "lng": 80.06984969999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Ovitiyagala Road Munagama, Horana, Sri Lanka",
+      "phone": "+94 344 943 924",
+      "website": "https://mahamevnawa.lk/mahamevnawa-local-branches/horana/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJjqvz-ilg0Q1N9sx7XlYmvIA2z6lPEE1sOjvTrCOuHIUlbLq_HXPnwnpz-jWNSUxQZGdYl8yA5KMKxrletK5IddAbmS-tGsdXlME5T8k66sfIBMGuwWQJZvb-K6-903pVbTB9-Y6t8QVkq6ARYNp0g3EN0hhNnk0EUoX22-2sRmDm6",
+        "ATtYBwIE3spvXkv576xKdgOVnYRIo1Irj-ln4WSZNLkO2pO25iQZMgA8VA0xNYg64ME5VTxLP0dlmGcgGWo_FHmH1JJofDPU86e4mK2pz_gIrWprvy1e8yimaNtasJHPpyfFcX2fGszKjmTMILwwDO3AYgX-mXJ-hz15SE1w3OpM-73UJotT",
+        "ATtYBwLvkLFJhPx1E0jBYVa9J0RJD14v3ifjC0w5BdSR9jSBsaqo3slmJADEmV10JFFNm_7tZhBAl582wwJUz27m05WU3D_P7bYej2uxIIH2u-i1PGMaBjOxwTLORFZ0SJpFi1CB41ASo08NTG1XGBfTFd53p3jE-pbDSEgM7q7oTXUSgkln",
+        "ATtYBwJz1AFRFAUFypiB5gVzLVKqFxHgPU5emMLoCwRw9FUTJHCkC-9AipEAQmnEubnqA6EmaxlQe3Svk-pwM_GccYht37wl0gVQL_sE-oNK3jXEw4JjKlVqMLN7uZAia5b4OwYJ__wEwzKSJdRsIebAVOce_uuF8wks55d5bJH88w6OKiWu",
+        "ATtYBwKXciUduuOVEDscOMlO7iz6dqviFz1MpNZm1nN_3eeyB4zMnMy_gym2zr7cR73DhJ3DWWGaeYzSGLyX7SJMsHpTJ_ice3bymlYm8Sl7qP9pWt3NfmDQZIb6poeZp-l6NymOZduFymZ7c4d47HxMOMbdVk0rsPRh88mSPFNWum9vJExT",
+        "ATtYBwIqO0fWhrKUUHb17tES2WjQCljxnahG_46Fa08XIAefitmbZEvcwAY0OgnBVJl0iHbsG7O7rOJwtbgpHUTI-xsIkk2PWotSsLUQCoU5ZIi5ciHTQvjkQu0eGg-pL8n4wniuCc0uQjqNLwQKcHCFdNXh8NyTsYzpOXt-dl9Wt1uMLM1t",
+        "ATtYBwKcCABjt_9VlbGPbSX5o2Jk-jJA_MDjk4xgtACMVw-f2U5Z2vKiz7fU9si2mJt4VJeYfY1OlkPt1PggLQMcoS15NrjMm9riu2KrQy-kUTCmJSi78hUOmWcbT95dA9SD8gcntdjSi-B8oq8AsxHtBYlm1u6JxqbGwXapiQioJaK1hbOE",
+        "ATtYBwJK4TaSc70_gP-hjDbDN7_FbHIPQexzy3VDfbflSkcdkhHodgg0xGHnAKS91v-ORv3VOsj-2UYdGaVrO9jFQ6vbGopp71NDSs7wFhzvf4O_qrBy4lbhFlbvktIyTLuxQpczC25pM5LrOeUbaC-mSvLwZuKId1ht71TfwCmayxRlQfsF",
+        "ATtYBwIpRVAvq-xTQGHaS8UCG9hKvixeM6wlOnF6bzzgDYDviOncTL2ZcYLGsTPZNApQxh4yyCAOL6WEp39yq0DDHkY_Xr1VtCUOQO71Kl03sGCxcP0zuA8K8Wyp27O_q8dBGOAxXUfu2PWxg0xQlUNLAfrJw05afSzdpTlR9veTBV_2jumP",
+        "ATtYBwI7LicHT9a5ZsIgElqtQ5jsGZ7_pUvpJHR0XXWrKzzpltNb7wQGVK5miSCophInJiPXkJdfsdx1LXISxLGXnlI8uRwROy9LUTM42BEKrciqrWAdBl9JAggm1VFcGzVM19Li21WeXITTkY64H1C5opO5031OJKOvJknFKZ1Nj4nA8S97"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJtyG35WVL4joRfg2IJQwgAZ0",
+      "google_maps_url": "https://maps.google.com/?cid=11313358975472766334",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Himbutana West, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.925453299999999,
-            "lng": 79.9314085
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.926854030291501,
-              "lng": 79.9327339802915
-            },
-            "southwest": {
-              "lat": 6.924156069708497,
-              "lng": 79.9300360197085
-            }
-          }
-        },
-        "international_phone_number": "+94 112 578 329",
-        "name": "C.B.I",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105842962289295057786\">Mr. Moggallana</a>"
-            ],
-            "photo_reference": "ATtYBwJXSJoSMacUX1q_cEtkFwwJ3y6IL5lz2L-gJpQyYIXsP0i9XRccX5NvyDWZ87hx2zv0Z7Dfd3MRwF868PQLH4KILZrzfd4iaixN-ZFrTtu9GpsCKakmyruQjI76ez_s7Tj81RUMH4SbKWJQGIodSixjJ0MS-FjrzWDjCi9hfbSvOC96",
-            "width": 5376
-          },
-          {
-            "height": 2322,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105842962289295057786\">Mr. Moggallana</a>"
-            ],
-            "photo_reference": "ATtYBwJ4mgboMvSWvIVzkKcdQcH7GVbyGShkOqegSjditbfGD-b5LrZybOoSLFUjAc1X2LrLIp5-8L13p3E-Ii5Is7Sa_h1ZJiKBtXgnRJw3JZJkYDtc1fJ5PmJ2E8JO7ph_nYAqj7fflYUK_Irt6LPT9PB4w6opWw-9UaApnQawTZuXTv-h",
-            "width": 4129
-          }
-        ],
-        "place_id": "ChIJ2ex1vGhX4joRdCT0WJaweEA",
-        "url": "https://maps.google.com/?cid=4645657175416644724",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "C.B.I",
+      "location": {
+        "lat": 6.925453299999999,
+        "lng": 79.9314085
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Himbutana West, Sri Lanka",
+      "phone": "+94 112 578 329",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJXSJoSMacUX1q_cEtkFwwJ3y6IL5lz2L-gJpQyYIXsP0i9XRccX5NvyDWZ87hx2zv0Z7Dfd3MRwF868PQLH4KILZrzfd4iaixN-ZFrTtu9GpsCKakmyruQjI76ez_s7Tj81RUMH4SbKWJQGIodSixjJ0MS-FjrzWDjCi9hfbSvOC96",
+        "ATtYBwJ4mgboMvSWvIVzkKcdQcH7GVbyGShkOqegSjditbfGD-b5LrZybOoSLFUjAc1X2LrLIp5-8L13p3E-Ii5Is7Sa_h1ZJiKBtXgnRJw3JZJkYDtc1fJ5PmJ2E8JO7ph_nYAqj7fflYUK_Irt6LPT9PB4w6opWw-9UaApnQawTZuXTv-h"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ2ex1vGhX4joRdCT0WJaweEA",
+      "google_maps_url": "https://maps.google.com/?cid=4645657175416644724",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mettavalokana Buddhist Publications Centre, \"Mettavalokanaya Bhikkhunis\", No.104/E, Attanagalla Road Walpola Ruggahawila Walpola, 11012, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.1165363,
-            "lng": 80.1220724
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.118070230291502,
-              "lng": 80.1234387802915
-            },
-            "southwest": {
-              "lat": 7.115372269708497,
-              "lng": 80.12074081970849
-            }
-          }
-        },
-        "international_phone_number": "+94 77 755 1666",
-        "name": "Mettavalokana Buddhist Publications Centre",
-        "photos": [
-          {
-            "height": 600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105818209659240272646\">Mettavalokana Buddhist Publications Centre</a>"
-            ],
-            "photo_reference": "ATtYBwJyekH2HQqv7e03hSES3laA-icyj1PbcydMM-6bXHQoNo-MCLqdf8z5jSZAhEA72FAjdzNpqVXjgtDQ2lmT-tHh8Num9QOWL6mdfAVTCAY1g3URCJIDnUwMTi0JOQnTsdOuambAa0iJUyNaolVJFJ-l0uirDVT2cm3r26v2UZV1k-2g",
-            "width": 600
-          },
-          {
-            "height": 747,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105818209659240272646\">Mettavalokana Buddhist Publications Centre</a>"
-            ],
-            "photo_reference": "ATtYBwKSWMiwiSrJR_oWvOA-tQGdXoCFu-TTGOv97iQg_KhUJmmn3GvsitQNwMu6RukBWB15HZQ4wGkmQ56LcsQKq_WHfz3t0wGNguJHCGEeeUx1Xuuxw8pdyBBmxa9NlGL-9tzQquSJUwHcItQxsm3CXReiHo7lm-ZGP3rM-Vu4fYlsAYMw",
-            "width": 2618
-          },
-          {
-            "height": 533,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105580660444678924475\">Mettavalokanaya Magazine</a>"
-            ],
-            "photo_reference": "ATtYBwIM0J92catlFP5K41HCg2d3jsMIN5cocEtZ2lN9liqnnPrYW2nXuIwr88IsaokiMnU3So4x6-Xe16kTsObXZlqO3a4_rBuZChzY_-Gm-FuxYVvvX0ezkvhDGgFz3RFb6GerIVOYw6nkqsOLwi6d4kISe5i3Sn-aJb03sM36wh_OZhlg",
-            "width": 800
-          },
-          {
-            "height": 1600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105818209659240272646\">Mettavalokana Buddhist Publications Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLF1xKTAz0aUrfWTW59d1sPa4xutzvGyNPXl4IEBGJGgM2NSqazenjJu5iFOqW8RQUvf-lBWj1ls5ZIo1XLvITTfyQiRZ59YnXom4JP8su_sCxUIgIGOq3d_egm-DaGtiN_358cDGyNPINrv38lKjWev1SwCTnObyJ51SwsJzctmOlV",
-            "width": 1146
-          },
-          {
-            "height": 1600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105818209659240272646\">Mettavalokana Buddhist Publications Centre</a>"
-            ],
-            "photo_reference": "ATtYBwJxbISRZVajAw5IAxsZarX3Q8-Siur_nZhPkwEkZCR6qCVKJm7NxAFwYJYe8DB5LHObdbToZsxWh4Yh0edmWIfHyZ7kIXa_Y8S6K571wloKSEcY0b4lXocDsCh6C_jP2ECRChpXoEddYPc8BCrojNylZkVqlabi9dUaAxqECL7CFWY3",
-            "width": 1146
-          },
-          {
-            "height": 1600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105818209659240272646\">Mettavalokana Buddhist Publications Centre</a>"
-            ],
-            "photo_reference": "ATtYBwJqX93ary4vioDD_ThU1tRWzLcvEIWUQkukw6gKGgia2l1Vt9xM8s9jE11veZv9363uF9zmN-1JU_VCdUyQMwdzhP0SQOGR_HF_Y1XVLEVt_1Caom60s4aqHiFFGdlmSpHcSawIOWynj-heTRBQRBuqtWTMpqraZE4mRogm44eV6i6k",
-            "width": 1146
-          },
-          {
-            "height": 1724,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105818209659240272646\">Mettavalokana Buddhist Publications Centre</a>"
-            ],
-            "photo_reference": "ATtYBwK-IjovvwnKWzrUz_2dCa7bOyi18HYIjY9TM_O66stH1S1sQDneUGcDbzy-Lf-hkq-kfcKEABPJSe3mjA6GbSVEggEdu7JlrK0ddMAKDPkwFQ-B1V6MCFMKoPRweSoqaEi-RxCQ8t1PO_PeoJf_HfHfgzMiBYrOHrt7DnVwtb325QmH",
-            "width": 1240
-          },
-          {
-            "height": 747,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105818209659240272646\">Mettavalokana Buddhist Publications Centre</a>"
-            ],
-            "photo_reference": "ATtYBwKMnlW7ZsNl7aVwIsR8NIOuc3pYAGo1LYQFy77bSCy9ko4sBkjHC342mjrkDDEmDY0cG19-dg9tttKEkYwc2wBkGGh-XbUmBlvF3x6pOFcN30NAwE9mmH98MzZWXYBxQfvzOjuf1JhLo5svfVQ79-J0YR0P_yEZtHf8HtiXf7mJqX-Q",
-            "width": 2618
-          },
-          {
-            "height": 384,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105818209659240272646\">Mettavalokana Buddhist Publications Centre</a>"
-            ],
-            "photo_reference": "ATtYBwI3uXIk8k0Cc5JW2P9P3p28SbTYTE3HLHgsKPVOEzEpq2RhUiHPDreIcpPnqBL_ciFADwKyJSW3StOoiRsNHgZuEhJ7FBFthfHkhVqh-FqfqhdA2XCe7owCrMxhxZ2lZ3iAC462Ld5xNaUfQwoXrTrdP1LFPBtvMpf7wSLC3X3YAcBB",
-            "width": 512
-          }
-        ],
-        "place_id": "ChIJHYEJZvUC4zoRjR7Q2dojeBc",
-        "url": "https://maps.google.com/?cid=1691141082941759117",
-        "website": "http://www.mettavalokanaya.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mettavalokana Buddhist Publications Centre",
+      "location": {
+        "lat": 7.1165363,
+        "lng": 80.1220724
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Mettavalokana Buddhist Publications Centre, \"Mettavalokanaya Bhikkhunis\", No.104/E, Attanagalla Road Walpola Ruggahawila Walpola, 11012, Sri Lanka",
+      "phone": "+94 77 755 1666",
+      "website": "http://www.mettavalokanaya.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJyekH2HQqv7e03hSES3laA-icyj1PbcydMM-6bXHQoNo-MCLqdf8z5jSZAhEA72FAjdzNpqVXjgtDQ2lmT-tHh8Num9QOWL6mdfAVTCAY1g3URCJIDnUwMTi0JOQnTsdOuambAa0iJUyNaolVJFJ-l0uirDVT2cm3r26v2UZV1k-2g",
+        "ATtYBwKSWMiwiSrJR_oWvOA-tQGdXoCFu-TTGOv97iQg_KhUJmmn3GvsitQNwMu6RukBWB15HZQ4wGkmQ56LcsQKq_WHfz3t0wGNguJHCGEeeUx1Xuuxw8pdyBBmxa9NlGL-9tzQquSJUwHcItQxsm3CXReiHo7lm-ZGP3rM-Vu4fYlsAYMw",
+        "ATtYBwIM0J92catlFP5K41HCg2d3jsMIN5cocEtZ2lN9liqnnPrYW2nXuIwr88IsaokiMnU3So4x6-Xe16kTsObXZlqO3a4_rBuZChzY_-Gm-FuxYVvvX0ezkvhDGgFz3RFb6GerIVOYw6nkqsOLwi6d4kISe5i3Sn-aJb03sM36wh_OZhlg",
+        "ATtYBwLF1xKTAz0aUrfWTW59d1sPa4xutzvGyNPXl4IEBGJGgM2NSqazenjJu5iFOqW8RQUvf-lBWj1ls5ZIo1XLvITTfyQiRZ59YnXom4JP8su_sCxUIgIGOq3d_egm-DaGtiN_358cDGyNPINrv38lKjWev1SwCTnObyJ51SwsJzctmOlV",
+        "ATtYBwJxbISRZVajAw5IAxsZarX3Q8-Siur_nZhPkwEkZCR6qCVKJm7NxAFwYJYe8DB5LHObdbToZsxWh4Yh0edmWIfHyZ7kIXa_Y8S6K571wloKSEcY0b4lXocDsCh6C_jP2ECRChpXoEddYPc8BCrojNylZkVqlabi9dUaAxqECL7CFWY3",
+        "ATtYBwJqX93ary4vioDD_ThU1tRWzLcvEIWUQkukw6gKGgia2l1Vt9xM8s9jE11veZv9363uF9zmN-1JU_VCdUyQMwdzhP0SQOGR_HF_Y1XVLEVt_1Caom60s4aqHiFFGdlmSpHcSawIOWynj-heTRBQRBuqtWTMpqraZE4mRogm44eV6i6k",
+        "ATtYBwK-IjovvwnKWzrUz_2dCa7bOyi18HYIjY9TM_O66stH1S1sQDneUGcDbzy-Lf-hkq-kfcKEABPJSe3mjA6GbSVEggEdu7JlrK0ddMAKDPkwFQ-B1V6MCFMKoPRweSoqaEi-RxCQ8t1PO_PeoJf_HfHfgzMiBYrOHrt7DnVwtb325QmH",
+        "ATtYBwKMnlW7ZsNl7aVwIsR8NIOuc3pYAGo1LYQFy77bSCy9ko4sBkjHC342mjrkDDEmDY0cG19-dg9tttKEkYwc2wBkGGh-XbUmBlvF3x6pOFcN30NAwE9mmH98MzZWXYBxQfvzOjuf1JhLo5svfVQ79-J0YR0P_yEZtHf8HtiXf7mJqX-Q",
+        "ATtYBwI3uXIk8k0Cc5JW2P9P3p28SbTYTE3HLHgsKPVOEzEpq2RhUiHPDreIcpPnqBL_ciFADwKyJSW3StOoiRsNHgZuEhJ7FBFthfHkhVqh-FqfqhdA2XCe7owCrMxhxZ2lZ3iAC462Ld5xNaUfQwoXrTrdP1LFPBtvMpf7wSLC3X3YAcBB"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJHYEJZvUC4zoRjR7Q2dojeBc",
+      "google_maps_url": "https://maps.google.com/?cid=1691141082941759117",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Nelundeniya-Tuntota-Galapitamada Road, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.1226676,
-            "lng": 80.25079889999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.123491630291502,
-              "lng": 80.25205124999998
-            },
-            "southwest": {
-              "lat": 7.120793669708497,
-              "lng": 80.24704184999999
-            }
-          }
-        },
-        "international_phone_number": "+94 353 359 207",
-        "name": "Salgala Aranya Senasanaya - සල්ගල ආරණ්‍ය සේනාසනය",
-        "photos": [
-          {
-            "height": 414,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106145629834179598771\">Janaka Thushara Rathnayake</a>"
-            ],
-            "photo_reference": "ATtYBwJXeptYhueFONfaOatLvUA1s1Nf61-plavz8TQletoI8KsRWNUsBwV9wSX8djBHUi5f3X2ntaKAD52fRA7kSFCtnlh_vmz5p27-oQfrdRV8_OOGGd6UZIUiQF60rBldZ5E90zh3Rjd0pQFQdDU5TQ_s_kv2vN4QB28gKCA7Vs3Pwdsf",
-            "width": 552
-          },
-          {
-            "height": 640,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105788718485468073592\">Jagath Nugadeniya</a>"
-            ],
-            "photo_reference": "ATtYBwKiE5qdPtlDd0cePUsFE881KjHdtuTksK7ovbel_ujaWjOt64p70MF5WQ-UWXd11p0TKPdT86KLTwObZwPC0qKa7oMBrp-BHOe0gJ1FQzGDKf4hxIEt607kgrzBFNx5AQNfs6aL9ZInzDP1Q6WgWXafTbeEktMVsgPYNs9xUdP1xn8q",
-            "width": 960
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116057298089129974447\">Asanga HArshan</a>"
-            ],
-            "photo_reference": "ATtYBwLpepo7xpWRlh1fHcliORK0fch3Bfd1Ayxlz-3GDixq_PcIUWH2w7lbdR78n5P-sQplLTM77gTWrsr9LpySWSytHS6PSY43-KeNPY4dILF6UxqAIT5JmnICqu76NUw5isnFRoOGL_BGhof5KLkWifXnnM0KkWFFwH5VvciI-vWq1GpT",
-            "width": 4032
-          },
-          {
-            "height": 3000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116112719318809920848\">Chandima Samaranayake</a>"
-            ],
-            "photo_reference": "ATtYBwJPDlfikaP_IgcaRO8l1VIQWXqH6mCoCruPf4GVcsD_8kO_Rje2SfwVd7IufPumonWksuarwtRR9pTTRNIyRyevvJ4H3Vra0ISuwEeTloVHlr5TShIRW9X0ccl9YslqYombg5LHzL_lqdbZ1KvDI5yDBOHi1jW5Gsy-264-Cu78klEC",
-            "width": 4000
-          },
-          {
-            "height": 3440,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103661930775193995170\">Chamara Godagamage</a>"
-            ],
-            "photo_reference": "ATtYBwIKukMzsJ9tTjJsEKAUAnb31aqsLuG9JC4oV6LVA_SThU-rwcHzHCsyewtiKXxpgLaIWd8KoIShcMkvS-lwBJvdZd1j_kz3PAOE-79VhbhP81b0SIrNuy0dWpjDtgcJjeQkN5S_qC34a7Ul7L1Nan7Cu1IJe2mJKm9wPq3tZGfFTWTs",
-            "width": 4608
-          },
-          {
-            "height": 3000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116112719318809920848\">Chandima Samaranayake</a>"
-            ],
-            "photo_reference": "ATtYBwIy4HIGN-VmLjL4qeXML_pglz5C98sNfTtgzdHJeDP6RAjJMQoWFcT3U_7cSa6E3bqD8f8l6UZNfsaNANCYRpp3K-HXnP5P-C2t7AzwkOpguqeHSC2DwrYTkkeOJ21zweYCW7-lFk3CcOZ7-9pafSq-lbLC28R8JEe3gwCTlRkSrjJ3",
-            "width": 4000
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100246259521159819180\">Randika Dilshan</a>"
-            ],
-            "photo_reference": "ATtYBwJriAwXh46SM0GasqhgGOyLwbjydoYYGEG2MAXTNt2pCxoQItsl39gqvhNnPmYAztG_cXekRRDF1B6282-Z1tpH0W7OmiB6IT4rDL4l-Z4_nPM7XnlOwOrGB4UNfZgp3SrhAqke_ugJO_grlgl_3PhOLm9iH_BMpv5GlcR1Vd214u0D",
-            "width": 4608
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116112719318809920848\">Chandima Samaranayake</a>"
-            ],
-            "photo_reference": "ATtYBwJtJrGiCB1LIOb-abBaCl1M7yp6JkHL5tsfQ3e1dGoUEXYU9DRL_h-ocnEpr5ZwJuOUszt7vC8QzBudPFZMu8BwBiTksQGwSeWX6qINW7MF0dpQhe0dOpFXmVBQPHLF9eTD1QpFJpirpe08ZIbGao-C1RZ8b_YH6pw24X57fi1Urzgx",
-            "width": 4208
-          },
-          {
-            "height": 1229,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112071207640024254641\">dilshan Shalika</a>"
-            ],
-            "photo_reference": "ATtYBwJN9JhCkTD1qOEPNO9zXwfJZ08o7AFJ5DlLWTadjlehN1RbIErCruvP6dK7UOgOiJMkBzmdUw8GIoVPZ8_DUdp1UYPDM_LL1ilWSyzGqiyxrcOLcjpxiiWE-OW50NwBfChRnm__vqCg3mLeKZTsF55DsQkMQxUxWfVi35zUYArGXj45",
-            "width": 2048
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115316731595646707142\">Island Girl</a>"
-            ],
-            "photo_reference": "ATtYBwJ9MsCWt_3RvU7_O0O_K6ScoJDBW3sQIM732oxewj0BI7iUp5CwZCsbsPhNSx7HbUxwOq6W1t7HI6sorINsSy19ytAhwmZVCPM3Fa2743wKDQTZPV3J8r5nh947varFGrFKKo8i5SUyDCc68WWEZzrrAk0uZ5sACbKPTrT9Pql5myhr",
-            "width": 1280
-          }
-        ],
-        "place_id": "ChIJUTod8BgF4zoR6wsCezpRrDs",
-        "url": "https://maps.google.com/?cid=4299901055845665771",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Salgala Aranya Senasanaya - සල්ගල ආරණ්‍ය සේනාසනය",
+      "location": {
+        "lat": 7.1226676,
+        "lng": 80.25079889999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Nelundeniya-Tuntota-Galapitamada Road, Sri Lanka",
+      "phone": "+94 353 359 207",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJXeptYhueFONfaOatLvUA1s1Nf61-plavz8TQletoI8KsRWNUsBwV9wSX8djBHUi5f3X2ntaKAD52fRA7kSFCtnlh_vmz5p27-oQfrdRV8_OOGGd6UZIUiQF60rBldZ5E90zh3Rjd0pQFQdDU5TQ_s_kv2vN4QB28gKCA7Vs3Pwdsf",
+        "ATtYBwKiE5qdPtlDd0cePUsFE881KjHdtuTksK7ovbel_ujaWjOt64p70MF5WQ-UWXd11p0TKPdT86KLTwObZwPC0qKa7oMBrp-BHOe0gJ1FQzGDKf4hxIEt607kgrzBFNx5AQNfs6aL9ZInzDP1Q6WgWXafTbeEktMVsgPYNs9xUdP1xn8q",
+        "ATtYBwLpepo7xpWRlh1fHcliORK0fch3Bfd1Ayxlz-3GDixq_PcIUWH2w7lbdR78n5P-sQplLTM77gTWrsr9LpySWSytHS6PSY43-KeNPY4dILF6UxqAIT5JmnICqu76NUw5isnFRoOGL_BGhof5KLkWifXnnM0KkWFFwH5VvciI-vWq1GpT",
+        "ATtYBwJPDlfikaP_IgcaRO8l1VIQWXqH6mCoCruPf4GVcsD_8kO_Rje2SfwVd7IufPumonWksuarwtRR9pTTRNIyRyevvJ4H3Vra0ISuwEeTloVHlr5TShIRW9X0ccl9YslqYombg5LHzL_lqdbZ1KvDI5yDBOHi1jW5Gsy-264-Cu78klEC",
+        "ATtYBwIKukMzsJ9tTjJsEKAUAnb31aqsLuG9JC4oV6LVA_SThU-rwcHzHCsyewtiKXxpgLaIWd8KoIShcMkvS-lwBJvdZd1j_kz3PAOE-79VhbhP81b0SIrNuy0dWpjDtgcJjeQkN5S_qC34a7Ul7L1Nan7Cu1IJe2mJKm9wPq3tZGfFTWTs",
+        "ATtYBwIy4HIGN-VmLjL4qeXML_pglz5C98sNfTtgzdHJeDP6RAjJMQoWFcT3U_7cSa6E3bqD8f8l6UZNfsaNANCYRpp3K-HXnP5P-C2t7AzwkOpguqeHSC2DwrYTkkeOJ21zweYCW7-lFk3CcOZ7-9pafSq-lbLC28R8JEe3gwCTlRkSrjJ3",
+        "ATtYBwJriAwXh46SM0GasqhgGOyLwbjydoYYGEG2MAXTNt2pCxoQItsl39gqvhNnPmYAztG_cXekRRDF1B6282-Z1tpH0W7OmiB6IT4rDL4l-Z4_nPM7XnlOwOrGB4UNfZgp3SrhAqke_ugJO_grlgl_3PhOLm9iH_BMpv5GlcR1Vd214u0D",
+        "ATtYBwJtJrGiCB1LIOb-abBaCl1M7yp6JkHL5tsfQ3e1dGoUEXYU9DRL_h-ocnEpr5ZwJuOUszt7vC8QzBudPFZMu8BwBiTksQGwSeWX6qINW7MF0dpQhe0dOpFXmVBQPHLF9eTD1QpFJpirpe08ZIbGao-C1RZ8b_YH6pw24X57fi1Urzgx",
+        "ATtYBwJN9JhCkTD1qOEPNO9zXwfJZ08o7AFJ5DlLWTadjlehN1RbIErCruvP6dK7UOgOiJMkBzmdUw8GIoVPZ8_DUdp1UYPDM_LL1ilWSyzGqiyxrcOLcjpxiiWE-OW50NwBfChRnm__vqCg3mLeKZTsF55DsQkMQxUxWfVi35zUYArGXj45",
+        "ATtYBwJ9MsCWt_3RvU7_O0O_K6ScoJDBW3sQIM732oxewj0BI7iUp5CwZCsbsPhNSx7HbUxwOq6W1t7HI6sorINsSy19ytAhwmZVCPM3Fa2743wKDQTZPV3J8r5nh947varFGrFKKo8i5SUyDCc68WWEZzrrAk0uZ5sACbKPTrT9Pql5myhr"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJUTod8BgF4zoR6wsCezpRrDs",
+      "google_maps_url": "https://maps.google.com/?cid=4299901055845665771",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "35 Vehera Kanda Rd, Via, Baddagana N Rd, Sri Jayawardenepura Kotte 00500, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.8868853,
-            "lng": 79.9138493
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.888234430291501,
-              "lng": 79.9151983802915
-            },
-            "southwest": {
-              "lat": 6.885536469708496,
-              "lng": 79.9125004197085
-            }
-          }
-        },
-        "international_phone_number": "+94 77 970 0001",
-        "name": "Colombo Dhamma Friends of Mahamevnawa",
-        "photos": [
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108530893173545725582\">Colombo Dhamma Friends of Mahamevnawa</a>"
-            ],
-            "photo_reference": "ATtYBwKOaCALFEoqnkI0p7wzIdvdX5mzpXogTLYRjQ4GsseNU0edUWSuLid7PgGpewbzIKrx7FSECUt8LFzG0tVuDPWgXZfws5sMnSCO_OqGdy74PwAmpbEgKJj0CSI79YwZz6VPaas1BKV4NgdcXBJ9jy6tUldHsO0Cf6TNTW1rYbG0liBZ",
-            "width": 5184
-          },
-          {
-            "height": 5069,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108530893173545725582\">Colombo Dhamma Friends of Mahamevnawa</a>"
-            ],
-            "photo_reference": "ATtYBwKiuFZRIeiwqXuWIjGvgne2W957FZeNFklgueaW5eZA9AbsXsrPU56o667JCWByrLmSP6rX0q928Rgw3S7bCDuhmz6wCZKqtfYhDhYDs3XQ8l-gL2-QrY_Ps6_Atp8IfM59NTB95v9EEBjw_NZr9llNWjVCwQIggFmIaPux_cRbMhAb",
-            "width": 7588
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106906948364616825683\">Ruhappy longlife</a>"
-            ],
-            "photo_reference": "ATtYBwJIi3LvPqC1YnWECRN0QB0Iu1rLf-Ycdnsg9t__AjcgW5zb-p_Apx51e3fzS9moceq9dliLZSszGgOU6T1YBzrm63kewA0JSOgMLjlMtgpyl1JsF9IRLYBn7xPZCuyDn3yRyQwesC3RCmp79exIuZqbPrwOB9H-418Qly7zuF7ilJ1E",
-            "width": 1280
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108530893173545725582\">Colombo Dhamma Friends of Mahamevnawa</a>"
-            ],
-            "photo_reference": "ATtYBwIeEKfjoXmr1YjgY7aUgKaST0d6ZMFBy5UuTr9TkmFmt4aTQBwfdKkcFYzi3U-YCRV-gj0fTas5ZI3LTWAHDsjpREMkhB75cRQAzaOYffABrV8qB7hedPM2LsYK63K3VVhVmTEPdAAcwgVE64Yhpaihvir03m30MmEnqqqI_RChy8gt",
-            "width": 4032
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108530893173545725582\">Colombo Dhamma Friends of Mahamevnawa</a>"
-            ],
-            "photo_reference": "ATtYBwIvWdotjH70oe3E8YZ7zZpJb9K-4HwbjeSNE2D8z3tre-FTkEALMpB1iQ3BbwglNikKH2_ept9-CfVxgBsv9T_pG_FdSBaoTAIvRz3J_GEG8oeicUviOar3mHXvLnV4NX6lvMka0HqvbVxXS9GgnN14THXpEydvTmYc2jeLh4E5Q559",
-            "width": 2048
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108530893173545725582\">Colombo Dhamma Friends of Mahamevnawa</a>"
-            ],
-            "photo_reference": "ATtYBwITZuSFVyxdYj8E4Hf7aHU31lkha51Cj-ikH1xezJKdArFWZpKYC92MSe9U3SWXmq1_TZVMLZu7-q0u7acJGQqsTACzepE_g5dJE85z1k11ngfVDQ09KEmovbrUV8s1DoEunUDBCd3I0ys7WDhkIjgYPvJPgCCH0sZ7zHhr9yWjEUO7",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108530893173545725582\">Colombo Dhamma Friends of Mahamevnawa</a>"
-            ],
-            "photo_reference": "ATtYBwJtZ8F2062MQA9WilLVy5JgrsMxEus7hu4uSB23Lo3RdVuVn8xMIklt1bkITGzcQMR0M9nD05nZETbxMojXra_Mh0DQBLOKDV8ejIXsckAmCA2tVekF3zz-vfaqCb7L6jHTsanRn94hRdZXEIH6EghqgR4xl0u905mDZ3n42sUjzneL",
-            "width": 4032
-          },
-          {
-            "height": 2848,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108530893173545725582\">Colombo Dhamma Friends of Mahamevnawa</a>"
-            ],
-            "photo_reference": "ATtYBwLYXwmBcw2-vo92R3Iy-gJtmGh2hvPGvpwuuZt0dB98FCww8Gm2DRGFpvLiCH1sBOwT7WUh-eUDbonO5Q9C0Q-zNLAVSOgxMAPu8F3vOYVt2FlrVs4lkOg6iy86WQ9mxJsHFvLd2GdC7oRLiE__V3P_2atqZV5YT-41NpQpsemyUwvP",
-            "width": 4288
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108530893173545725582\">Colombo Dhamma Friends of Mahamevnawa</a>"
-            ],
-            "photo_reference": "ATtYBwInBsbzb7gMaJYlnh5F6J19PLubikYzmLHvr7ByEQ1uSAPnpWm_VCcAIxOxzit9gTa2iz1iHllUlyuiWkwaSyA7bauiELZ_MbetoVu5yCOluesG5PqKWnr04AzuZyCibypdjUSMiGTpLx3NEnIwbUBW6m_rfhQ5MC2K_HCMaf5b19nN",
-            "width": 3024
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108530893173545725582\">Colombo Dhamma Friends of Mahamevnawa</a>"
-            ],
-            "photo_reference": "ATtYBwITg4vvSDOqiQQ3RPKlH2DIBnMYdZRW-wfEqL9YNbEbMrZAbpWE2aWyHD5YsrG1xSmDrPUWIXoDYKFKoCBm8llpYf_uBpdjpnKPW0DVto32mYlglT-EaVy7YJb5Em_Cf8RXbgiuoB7rDPzwHT4PqyCcfEu8krhdPXkBxGlUroTcF65p",
-            "width": 5184
-          }
-        ],
-        "place_id": "ChIJUV_i-DJa4joR_2FIZWcJQDk",
-        "url": "https://maps.google.com/?cid=4125307598356898303",
-        "website": "https://serenecolombo.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Colombo Dhamma Friends of Mahamevnawa",
+      "location": {
+        "lat": 6.8868853,
+        "lng": 79.9138493
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "35 Vehera Kanda Rd, Via, Baddagana N Rd, Sri Jayawardenepura Kotte 00500, Sri Lanka",
+      "phone": "+94 77 970 0001",
+      "website": "https://serenecolombo.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKOaCALFEoqnkI0p7wzIdvdX5mzpXogTLYRjQ4GsseNU0edUWSuLid7PgGpewbzIKrx7FSECUt8LFzG0tVuDPWgXZfws5sMnSCO_OqGdy74PwAmpbEgKJj0CSI79YwZz6VPaas1BKV4NgdcXBJ9jy6tUldHsO0Cf6TNTW1rYbG0liBZ",
+        "ATtYBwKiuFZRIeiwqXuWIjGvgne2W957FZeNFklgueaW5eZA9AbsXsrPU56o667JCWByrLmSP6rX0q928Rgw3S7bCDuhmz6wCZKqtfYhDhYDs3XQ8l-gL2-QrY_Ps6_Atp8IfM59NTB95v9EEBjw_NZr9llNWjVCwQIggFmIaPux_cRbMhAb",
+        "ATtYBwJIi3LvPqC1YnWECRN0QB0Iu1rLf-Ycdnsg9t__AjcgW5zb-p_Apx51e3fzS9moceq9dliLZSszGgOU6T1YBzrm63kewA0JSOgMLjlMtgpyl1JsF9IRLYBn7xPZCuyDn3yRyQwesC3RCmp79exIuZqbPrwOB9H-418Qly7zuF7ilJ1E",
+        "ATtYBwIeEKfjoXmr1YjgY7aUgKaST0d6ZMFBy5UuTr9TkmFmt4aTQBwfdKkcFYzi3U-YCRV-gj0fTas5ZI3LTWAHDsjpREMkhB75cRQAzaOYffABrV8qB7hedPM2LsYK63K3VVhVmTEPdAAcwgVE64Yhpaihvir03m30MmEnqqqI_RChy8gt",
+        "ATtYBwIvWdotjH70oe3E8YZ7zZpJb9K-4HwbjeSNE2D8z3tre-FTkEALMpB1iQ3BbwglNikKH2_ept9-CfVxgBsv9T_pG_FdSBaoTAIvRz3J_GEG8oeicUviOar3mHXvLnV4NX6lvMka0HqvbVxXS9GgnN14THXpEydvTmYc2jeLh4E5Q559",
+        "ATtYBwITZuSFVyxdYj8E4Hf7aHU31lkha51Cj-ikH1xezJKdArFWZpKYC92MSe9U3SWXmq1_TZVMLZu7-q0u7acJGQqsTACzepE_g5dJE85z1k11ngfVDQ09KEmovbrUV8s1DoEunUDBCd3I0ys7WDhkIjgYPvJPgCCH0sZ7zHhr9yWjEUO7",
+        "ATtYBwJtZ8F2062MQA9WilLVy5JgrsMxEus7hu4uSB23Lo3RdVuVn8xMIklt1bkITGzcQMR0M9nD05nZETbxMojXra_Mh0DQBLOKDV8ejIXsckAmCA2tVekF3zz-vfaqCb7L6jHTsanRn94hRdZXEIH6EghqgR4xl0u905mDZ3n42sUjzneL",
+        "ATtYBwLYXwmBcw2-vo92R3Iy-gJtmGh2hvPGvpwuuZt0dB98FCww8Gm2DRGFpvLiCH1sBOwT7WUh-eUDbonO5Q9C0Q-zNLAVSOgxMAPu8F3vOYVt2FlrVs4lkOg6iy86WQ9mxJsHFvLd2GdC7oRLiE__V3P_2atqZV5YT-41NpQpsemyUwvP",
+        "ATtYBwInBsbzb7gMaJYlnh5F6J19PLubikYzmLHvr7ByEQ1uSAPnpWm_VCcAIxOxzit9gTa2iz1iHllUlyuiWkwaSyA7bauiELZ_MbetoVu5yCOluesG5PqKWnr04AzuZyCibypdjUSMiGTpLx3NEnIwbUBW6m_rfhQ5MC2K_HCMaf5b19nN",
+        "ATtYBwITg4vvSDOqiQQ3RPKlH2DIBnMYdZRW-wfEqL9YNbEbMrZAbpWE2aWyHD5YsrG1xSmDrPUWIXoDYKFKoCBm8llpYf_uBpdjpnKPW0DVto32mYlglT-EaVy7YJb5Em_Cf8RXbgiuoB7rDPzwHT4PqyCcfEu8krhdPXkBxGlUroTcF65p"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJUV_i-DJa4joR_2FIZWcJQDk",
+      "google_maps_url": "https://maps.google.com/?cid=4125307598356898303",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Colombo 00700, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.911822099999999,
-            "lng": 79.8535477
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.913234980291502,
-              "lng": 79.8548964802915
-            },
-            "southwest": {
-              "lat": 6.910537019708498,
-              "lng": 79.8521985197085
-            }
-          }
-        },
-        "name": "Buddhist Information Centre",
-        "photos": [
-          {
-            "height": 1694,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107067508685543663401\">Wazeer Nisthar</a>"
-            ],
-            "photo_reference": "ATtYBwLinHhE06uqS-e3xnqQrne5defRdVfxNldPlw2tq8EFoekMDqpPDIiNb-gS_1As3DB5dDYlUxgLyPZwELd7Eb9ERRoBiQJlKN2FCS60NGOVhf0Bsqnuiokd8Ak3MMWNoqhjhQuMODuS-OgNQ1fvV13hmmuHcsGH2Mv9_iBugR5GFHxF",
-            "width": 2666
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109088237021167811802\">Imesh Galappaththi</a>"
-            ],
-            "photo_reference": "ATtYBwLvg8J_UWnUCV_oVJiZm1YQQpanl3nXqXXGeX9u1vGMxGMDQAVSM5mgv0n6M2E2I6ZsN415j3qmUVy-ZkfGfsFyC9ixYbjMxG5ekTy0Gt_qiQXpn0k-QoGIEVKzimpSPXSQHl77vWbu7W6ees2I9WuQGk8NRBCpCMrPaBzrI7prk2DV",
-            "width": 3024
-          }
-        ],
-        "place_id": "ChIJp8eQtWlZ4joR8Y8vaVl1tpY",
-        "url": "https://maps.google.com/?cid=10859996578327793649",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddhist Information Centre",
+      "location": {
+        "lat": 6.911822099999999,
+        "lng": 79.8535477
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Colombo 00700, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLinHhE06uqS-e3xnqQrne5defRdVfxNldPlw2tq8EFoekMDqpPDIiNb-gS_1As3DB5dDYlUxgLyPZwELd7Eb9ERRoBiQJlKN2FCS60NGOVhf0Bsqnuiokd8Ak3MMWNoqhjhQuMODuS-OgNQ1fvV13hmmuHcsGH2Mv9_iBugR5GFHxF",
+        "ATtYBwLvg8J_UWnUCV_oVJiZm1YQQpanl3nXqXXGeX9u1vGMxGMDQAVSM5mgv0n6M2E2I6ZsN415j3qmUVy-ZkfGfsFyC9ixYbjMxG5ekTy0Gt_qiQXpn0k-QoGIEVKzimpSPXSQHl77vWbu7W6ees2I9WuQGk8NRBCpCMrPaBzrI7prk2DV"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJp8eQtWlZ4joR8Y8vaVl1tpY",
+      "google_maps_url": "https://maps.google.com/?cid=10859996578327793649",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Udugama Rd, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.987642099999999,
-            "lng": 80.152334
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.989044330291502,
-              "lng": 80.15373593029149
-            },
-            "southwest": {
-              "lat": 6.986346369708497,
-              "lng": 80.15103796970848
-            }
-          }
-        },
-        "name": "Gauthama Puthra Aranya Meditation Center",
-        "photos": [
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114307329500068888512\">Hiranya Perera</a>"
-            ],
-            "photo_reference": "ATtYBwLHRgltrLH8VOZvp_3SFYJLmoK04zIOgjDsVv7cVYk25G3F8hGUIqpDSZEK5ES4a3tC7GHmVdew2Y51KwUqI-PpIRtAjVzujrJgYjnUyZr8vEKk42NfGwsPMGblTAEauvrNb4bnqaZd5ZJp7o_e1hE8SySXkE4PhXwUwzWwiCQJEvEa",
-            "width": 3024
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107012487243681604010\">Kalawane Sangamaji</a>"
-            ],
-            "photo_reference": "ATtYBwJZGrbzt6-VVwHmZEGQfGNgTOeM-EyVk6e-jGREgYwWI_qarodp-6IVAaGKSqSXtrzIyHRoRkFIg3WIPUEjraijlZiXsa9yYvPfvLTxuumRd-HhwkOoxPtUgXYhuxTR8eV3HTBO1VSXInfB3YAXrUeDwqmkrH8Qxzybv3GdQjzGK4Lk",
-            "width": 1280
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110314611825393545435\">Mahesh Abeyratne</a>"
-            ],
-            "photo_reference": "ATtYBwKGhRoQiBUf6ar_Si8ZYw8Hdte3AWsK8EgqTOyNCHQNgpW5jl8kl270ZEMv76A1LI0_38WO2ljQPbnNQ8LFHGhk95CdiwlN4B39uS3WJ3Hgm-Mvx7FIJgxaVnWISgfZy_UtCs_bnWw3N-J-dLOse-0Am-BiR1dOx_UWh2KCYTX2fEZR",
-            "width": 3264
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114307329500068888512\">Hiranya Perera</a>"
-            ],
-            "photo_reference": "ATtYBwK1SMjNMQ8ZPnB4XeABS9oFuP6tMUvovV5eHr1c7ihUo7XwWxe1qNCPkjEd2JK8uQfub6oIUaJkho0gKxTeD53WwnM5x_SmZlcBPxDTGRZVW_KGpzComkhn8le3n0ABCunKA9G5CQGeqdxO_2UPnNylGhhYGPQZTOarPhrQTYZWjOyK",
-            "width": 3024
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114307329500068888512\">Hiranya Perera</a>"
-            ],
-            "photo_reference": "ATtYBwLJi0w1NwUBZp6ln_hCwMp44tLdBvWjrwRlAm-_Y2JZWi4J4hm3yGSquVUHB9rX2ndq0BL6EWhEYmON85AO34Sz4eN5lZQxMrCP2hcuFLeh00BUI7AI283hRKWYhJGBwylN4NZktSHphc5Xvb2qwLcyDOc-sVgUUXOPDEfPBM98vEKH",
-            "width": 4608
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114307329500068888512\">Hiranya Perera</a>"
-            ],
-            "photo_reference": "ATtYBwJhFsx01qjpfh_GE5NZadek_i-SRGgJbU_ZbULfUBiK3-QU_Qf8ALLhu97QSz9rhsC6eZsvI5XWHZQG9Gc5csG2ncwzG2vArzhl0KjOsIxzzVR5wYj3B23P3Qfm5AZulD6z4NrgDMSk9829o23EA5hrn7xEfhT_eHbSyuO6FE-pwkHz",
-            "width": 3024
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114307329500068888512\">Hiranya Perera</a>"
-            ],
-            "photo_reference": "ATtYBwIiNzLm9UGEjARQlDJuiXw1zz81OBAJ1GwXbfUswn-c72jz_iZpzR7QsMBDZXn3r7gFuo3NGwBmxqIzNttvDg8UszgvhVe3JjPbLZCRf7RjLEF0b_wvS_gN7Rsd6kV4A7AeoW9peQYGCANCj7ik9P9KOLn8Uju7NjmPQYOgyOLHERYx",
-            "width": 4608
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110314611825393545435\">Mahesh Abeyratne</a>"
-            ],
-            "photo_reference": "ATtYBwL459rB6vB9Aqx5ePJCkosjkHXhdflQJKZCkMeFCWTYIy_UZL78ND_KneRHqWOQQx1eo2Che8682fTZHHRbWUaTxE6QkNzhSUBJeo4_sVb0sJ8H3GZKlwwhb7GYAzjVuS3MYR0f04KHJa1qPgsqzKcFoMGBpvp8Mvsv80TdMpE0aL5Z",
-            "width": 3264
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101641979700316361179\">Kasun Prabhash</a>"
-            ],
-            "photo_reference": "ATtYBwLitcgMZXFvUi3j7jPtBnPyFefKzSlJVAqzgzEzvG1I3kNouzFW0BcRF1GYO-Vq9zx-7WGb8uhx0pHiEn4I7dib5BbFa4NFo-Pwdere9Eb9VRDR8xF2NV6USS_a-gUImVGxNj8hW3xhhYOmvNC0HGQnwSfnjgs5pnLVnWw4I97xOqwP",
-            "width": 3264
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114307329500068888512\">Hiranya Perera</a>"
-            ],
-            "photo_reference": "ATtYBwL2yUzPp0guM6rRp4kuYu4NZt5jxHF4DOPt1w3SsIV-uafRU9x57qh01l-hxFBRND49pSvLl0-RGR-l-qQYXa66ZGtJMTWrrJDaOlBdRf-28IK8_6yeUOVcVr4HhbsQQC8Ms78JcZLbbNOZuoa88upoXFdh2lyeMHDSp2ZjMZl7o2vw",
-            "width": 4608
-          }
-        ],
-        "place_id": "ChIJgwORRniq4zoRAfuxDuCuFmw",
-        "url": "https://maps.google.com/?cid=7788604882926304001",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Gauthama Puthra Aranya Meditation Center",
+      "location": {
+        "lat": 6.987642099999999,
+        "lng": 80.152334
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Udugama Rd, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLHRgltrLH8VOZvp_3SFYJLmoK04zIOgjDsVv7cVYk25G3F8hGUIqpDSZEK5ES4a3tC7GHmVdew2Y51KwUqI-PpIRtAjVzujrJgYjnUyZr8vEKk42NfGwsPMGblTAEauvrNb4bnqaZd5ZJp7o_e1hE8SySXkE4PhXwUwzWwiCQJEvEa",
+        "ATtYBwJZGrbzt6-VVwHmZEGQfGNgTOeM-EyVk6e-jGREgYwWI_qarodp-6IVAaGKSqSXtrzIyHRoRkFIg3WIPUEjraijlZiXsa9yYvPfvLTxuumRd-HhwkOoxPtUgXYhuxTR8eV3HTBO1VSXInfB3YAXrUeDwqmkrH8Qxzybv3GdQjzGK4Lk",
+        "ATtYBwKGhRoQiBUf6ar_Si8ZYw8Hdte3AWsK8EgqTOyNCHQNgpW5jl8kl270ZEMv76A1LI0_38WO2ljQPbnNQ8LFHGhk95CdiwlN4B39uS3WJ3Hgm-Mvx7FIJgxaVnWISgfZy_UtCs_bnWw3N-J-dLOse-0Am-BiR1dOx_UWh2KCYTX2fEZR",
+        "ATtYBwK1SMjNMQ8ZPnB4XeABS9oFuP6tMUvovV5eHr1c7ihUo7XwWxe1qNCPkjEd2JK8uQfub6oIUaJkho0gKxTeD53WwnM5x_SmZlcBPxDTGRZVW_KGpzComkhn8le3n0ABCunKA9G5CQGeqdxO_2UPnNylGhhYGPQZTOarPhrQTYZWjOyK",
+        "ATtYBwLJi0w1NwUBZp6ln_hCwMp44tLdBvWjrwRlAm-_Y2JZWi4J4hm3yGSquVUHB9rX2ndq0BL6EWhEYmON85AO34Sz4eN5lZQxMrCP2hcuFLeh00BUI7AI283hRKWYhJGBwylN4NZktSHphc5Xvb2qwLcyDOc-sVgUUXOPDEfPBM98vEKH",
+        "ATtYBwJhFsx01qjpfh_GE5NZadek_i-SRGgJbU_ZbULfUBiK3-QU_Qf8ALLhu97QSz9rhsC6eZsvI5XWHZQG9Gc5csG2ncwzG2vArzhl0KjOsIxzzVR5wYj3B23P3Qfm5AZulD6z4NrgDMSk9829o23EA5hrn7xEfhT_eHbSyuO6FE-pwkHz",
+        "ATtYBwIiNzLm9UGEjARQlDJuiXw1zz81OBAJ1GwXbfUswn-c72jz_iZpzR7QsMBDZXn3r7gFuo3NGwBmxqIzNttvDg8UszgvhVe3JjPbLZCRf7RjLEF0b_wvS_gN7Rsd6kV4A7AeoW9peQYGCANCj7ik9P9KOLn8Uju7NjmPQYOgyOLHERYx",
+        "ATtYBwL459rB6vB9Aqx5ePJCkosjkHXhdflQJKZCkMeFCWTYIy_UZL78ND_KneRHqWOQQx1eo2Che8682fTZHHRbWUaTxE6QkNzhSUBJeo4_sVb0sJ8H3GZKlwwhb7GYAzjVuS3MYR0f04KHJa1qPgsqzKcFoMGBpvp8Mvsv80TdMpE0aL5Z",
+        "ATtYBwLitcgMZXFvUi3j7jPtBnPyFefKzSlJVAqzgzEzvG1I3kNouzFW0BcRF1GYO-Vq9zx-7WGb8uhx0pHiEn4I7dib5BbFa4NFo-Pwdere9Eb9VRDR8xF2NV6USS_a-gUImVGxNj8hW3xhhYOmvNC0HGQnwSfnjgs5pnLVnWw4I97xOqwP",
+        "ATtYBwL2yUzPp0guM6rRp4kuYu4NZt5jxHF4DOPt1w3SsIV-uafRU9x57qh01l-hxFBRND49pSvLl0-RGR-l-qQYXa66ZGtJMTWrrJDaOlBdRf-28IK8_6yeUOVcVr4HhbsQQC8Ms78JcZLbbNOZuoa88upoXFdh2lyeMHDSp2ZjMZl7o2vw"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJgwORRniq4zoRAfuxDuCuFmw",
+      "google_maps_url": "https://maps.google.com/?cid=7788604882926304001",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Akkara 07, Ingiriya, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.758214799999998,
-            "lng": 80.1620969
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.7596117802915,
-              "lng": 80.1635194802915
-            },
-            "southwest": {
-              "lat": 6.756913819708497,
-              "lng": 80.16082151970849
-            }
-          }
-        },
-        "name": "Sri Dhamma Vishakaramaya",
-        "photos": [
-          {
-            "height": 1844,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116280557328892178516\">Thilina Media Solution</a>"
-            ],
-            "photo_reference": "ATtYBwLi6ROb22ikf5wYNRmZ-auIG3fA17eXUqi_bmOkaK76EuAzeGKJDAtNK3tkih8zdAUAUTZd30bs_l_84n9ZYH-8jsR8S1Ykm9qoCPp_TAmyLbQSWBn8DOB94-C9Bia1rMxKKLWLd3bs1Jxp6GJ5nr1QQ-vXRk9r5hj0DEY0gwNfQSMo",
-            "width": 4000
-          },
-          {
-            "height": 1844,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116280557328892178516\">Thilina Media Solution</a>"
-            ],
-            "photo_reference": "ATtYBwKatBvpIB8XqDAvjXkco2OeQf7kaB6bihEkJsvZN2IfxuY_QtxwPe4RZsGpQDRsP-V53dkb35MeUrlvh7LvbbWFjRPCekxAke_mv4MNQJFQC1lgXSDviWvQ_XUR1_w4kYJNjlZ9XxYcMAm-r5NxFk3OJxLwjs1jOI2BdSrT3hBfPfOK",
-            "width": 4000
-          },
-          {
-            "height": 1844,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116280557328892178516\">Thilina Media Solution</a>"
-            ],
-            "photo_reference": "ATtYBwIjPpdj9yLE-g45o5N_TB9X78S_qLNQir8TRRBjMMg9Y-3csiB9XURGmaq5dODtintRbw7o_QKMDfOZQojT6zBQFQ85xFzLiI1hZCAhRstVyn9qkzb5E5LOI_zB9v7ldh5-1iRBMm95EUyl-QFvz8H1MnBuyYypnXEoyH-5MXcgjtQq",
-            "width": 4000
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101683892074192102922\">Varuna Dhananjaya</a>"
-            ],
-            "photo_reference": "ATtYBwIq-h0IAJrek-xFH2hflV32YcMuD5cgmP3esgfaMbAVt4nP9bCcINf_7QY2LccqhRbyIyIVSjt_tb0F0TCCglHRG7qgvb79_TTco9RXec9t_AmsNj8RxDNCKx8ZeQZTa31DgWkua2fLQZ6h7k2JEJalZxxqt_IMGdA0hdCpxKU8ZxY",
-            "width": 4032
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101683892074192102922\">Varuna Dhananjaya</a>"
-            ],
-            "photo_reference": "ATtYBwJX_i86eOTADzv9X2qOXVk-QoQ1KtA1ib_s8iaDNMRDaKjn4L8z_Du_isCF6GRz5_z9D6jRTb0VZHMdZ_X9xEbQfAO7Uo-N8iiAnfjzpcl5ACRZI6Duq_7KDW-XQ1Q3r2Hh3RltTpytAtIXfQaKl3um9PKDR_CxaaCB7zhQ1VbR4tM",
-            "width": 4032
-          },
-          {
-            "height": 598,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116280557328892178516\">Thilina Media Solution</a>"
-            ],
-            "photo_reference": "ATtYBwLI1xPqI2DNesxPf2KC9CwJX_T_bwhWFthZn0NwRlbbckZGvtgUbmUNkn1wynIIYFZGV3rdX1k_n3jIWV5F8OkSoqupaUTMje8-NmP1O9-uabEQLPzzOVAzo-mak4fat5NgyOdk6oOWPAiW6zczW7GbE5S-1sD5Q11dB8Yw7IaVNoHp",
-            "width": 1004
-          }
-        ],
-        "place_id": "ChIJhwC5i9yz4zoR1g5TwjfFcpY",
-        "url": "https://maps.google.com/?cid=10840944096308301526",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Sri Dhamma Vishakaramaya",
+      "location": {
+        "lat": 6.758214799999998,
+        "lng": 80.1620969
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Akkara 07, Ingiriya, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLi6ROb22ikf5wYNRmZ-auIG3fA17eXUqi_bmOkaK76EuAzeGKJDAtNK3tkih8zdAUAUTZd30bs_l_84n9ZYH-8jsR8S1Ykm9qoCPp_TAmyLbQSWBn8DOB94-C9Bia1rMxKKLWLd3bs1Jxp6GJ5nr1QQ-vXRk9r5hj0DEY0gwNfQSMo",
+        "ATtYBwKatBvpIB8XqDAvjXkco2OeQf7kaB6bihEkJsvZN2IfxuY_QtxwPe4RZsGpQDRsP-V53dkb35MeUrlvh7LvbbWFjRPCekxAke_mv4MNQJFQC1lgXSDviWvQ_XUR1_w4kYJNjlZ9XxYcMAm-r5NxFk3OJxLwjs1jOI2BdSrT3hBfPfOK",
+        "ATtYBwIjPpdj9yLE-g45o5N_TB9X78S_qLNQir8TRRBjMMg9Y-3csiB9XURGmaq5dODtintRbw7o_QKMDfOZQojT6zBQFQ85xFzLiI1hZCAhRstVyn9qkzb5E5LOI_zB9v7ldh5-1iRBMm95EUyl-QFvz8H1MnBuyYypnXEoyH-5MXcgjtQq",
+        "ATtYBwIq-h0IAJrek-xFH2hflV32YcMuD5cgmP3esgfaMbAVt4nP9bCcINf_7QY2LccqhRbyIyIVSjt_tb0F0TCCglHRG7qgvb79_TTco9RXec9t_AmsNj8RxDNCKx8ZeQZTa31DgWkua2fLQZ6h7k2JEJalZxxqt_IMGdA0hdCpxKU8ZxY",
+        "ATtYBwJX_i86eOTADzv9X2qOXVk-QoQ1KtA1ib_s8iaDNMRDaKjn4L8z_Du_isCF6GRz5_z9D6jRTb0VZHMdZ_X9xEbQfAO7Uo-N8iiAnfjzpcl5ACRZI6Duq_7KDW-XQ1Q3r2Hh3RltTpytAtIXfQaKl3um9PKDR_CxaaCB7zhQ1VbR4tM",
+        "ATtYBwLI1xPqI2DNesxPf2KC9CwJX_T_bwhWFthZn0NwRlbbckZGvtgUbmUNkn1wynIIYFZGV3rdX1k_n3jIWV5F8OkSoqupaUTMje8-NmP1O9-uabEQLPzzOVAzo-mak4fat5NgyOdk6oOWPAiW6zczW7GbE5S-1sD5Q11dB8Yw7IaVNoHp"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJhwC5i9yz4zoR1g5TwjfFcpY",
+      "google_maps_url": "https://maps.google.com/?cid=10840944096308301526",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kalutara, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.3866773,
-            "lng": 80.1631191
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.388026280291502,
-              "lng": 80.16446808029151
-            },
-            "southwest": {
-              "lat": 6.385328319708497,
-              "lng": 80.16177011970849
-            }
-          }
-        },
-        "international_phone_number": "+94 345 682 642",
-        "name": "Weligalpoththa Arannaya",
-        "photos": [
-          {
-            "height": 6944,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112530639306530619365\">VGN Prasanna</a>"
-            ],
-            "photo_reference": "ATtYBwIjaRBOWRK9rtXODb0aZFAix1gZSdEj79LnZyl0rEHE1vlqWgwnhu7oL-g7lnAE5nvlQ5yNGTkJqRP3ftr32w8rLHYS_rdvf55ANJ-bAWDBn-iFaQBjmCSWQGNGqN-QJDPEjJVLSUIfmjLWekNLOW6VxYSrVRD-Y9jYohUJ6bjd8FOb",
-            "width": 9280
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103591978496212378426\">Sahan Dias</a>"
-            ],
-            "photo_reference": "ATtYBwIMoSq__zjiy9KN2c3LcupimIit71vBnPPX6swV2edO7_q78jH5d-09b97M7vCYWTZQbJy-Lzpc6fDIMkvbwVwDoNfpelC8qRr971d1_rdBUKABdFMSUr5LikD_bxcVy-ep6qxQIc-jXIanRnpMTjwiq0GqqiUN2AXAE_7EpXP5Gdzv",
-            "width": 4608
-          },
-          {
-            "height": 6944,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112530639306530619365\">VGN Prasanna</a>"
-            ],
-            "photo_reference": "ATtYBwJP1ZRSy3ecFzt4Oxerngk1XiEOC3bCxnv-2oulmKNfGHHcNWwyM8BYpRe5BfjFDOWeSmmUXBbgAOK2ZvbJeKFup6xj6eRMoGH4Ys3PC5-PNZk7UHs_OnvW0lViq-ixty65WbSOh49dPMc0F5Hi10IEMoIqJk1zI6ObP1fWNzWfghsy",
-            "width": 9280
-          },
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116359925838615244345\">CL Jayawardena</a>"
-            ],
-            "photo_reference": "ATtYBwJUVXMJ_lRc2LmuPNX1FE-Mwojd-MR-FkhdISeYfeH_TFIflMflvcl8LJ0vFAP1AFZkBsthROuVPRSmDfQnuz8oZWjmMlFNQbZmUUoNzryc8bzhRaXyzpQww_SG-YhXBiFXfs8-G0PEaRuetJLaZrFBIKVL2Iqcb33l-deYwfDsHepf",
-            "width": 3000
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108689359741363340396\">Chamath Maduranga</a>"
-            ],
-            "photo_reference": "ATtYBwKnmG-4iWq65005TSmFgHTrgHPgb2ihK-lLRGiE4YwJBcLGwqbFIdzLGTJ6D2GCBBB9OqdddDgzePa8vYASnYa3A958oEOE7HCXg9cMbmRBZ9QpaeLXWxzFywVetlDMVCh2lgFmhlYJugSS79XPnRbTDOBThamMaWhxM3VyVRiU75xZ",
-            "width": 5312
-          },
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111714186428823832675\">Brian Defosse</a>"
-            ],
-            "photo_reference": "ATtYBwKlSZkQXaWwsn7kQ4U943JB5kOM05XH9PftoH4q-H7alu_lD9P_jswFDkKcpuXCGgBTwLCzdf2Jdf7Osdom1nmbFTGg-6btZghytl319RYHRfKk6UyPOrQrIjCYqyIW5mgrB_Tg5XM5mJ6hqrE2mrFqvwtsGvoF-ZH3g1Q4T8wRCGh_",
-            "width": 3000
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108689359741363340396\">Chamath Maduranga</a>"
-            ],
-            "photo_reference": "ATtYBwKjS0cYyYc34uZ-qGS5lPuIpu8hzxwbqWR281ODEMmGJgB3MicciaqYw2ofGOyqI8DwMZ1voeVrcyWYIv0gaHlqbtXcsjfzXDV8Wj1nuvJK3o8jiq7yr9lV8DYNUCR3IOjtP604Slq37baW668O0z2goo91F6qqp3qSf5E6cmflEQF_",
-            "width": 5312
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108689359741363340396\">Chamath Maduranga</a>"
-            ],
-            "photo_reference": "ATtYBwI6SPl9gs_Nlfu2AGt4O9zx_5ydvcb9OdgUWXNoCVXlpjM5FU62pzg-xO5lX5OcUN7eW3uOj0QuzrF-yw8hhOb7JWqGyOrY-i6YvJhhpxT4OdGLOqnsYKNauYoAFooFvw3sfpqorYBHsZ0MANl6PG8F8OCW1gLbKr9qoOkCkgSAL2Kg",
-            "width": 5312
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103591978496212378426\">Sahan Dias</a>"
-            ],
-            "photo_reference": "ATtYBwIreYvJa-q3YTp8usu0Cv7bH9SNI3hQ4796EF1zJjyzHzDfHmREmnNUf4Zikt84kthFGJnplSBuGbF8UgcFwvfdslVhB32riKfVYgUl9Zeu83KIegROw3iqrGiTckCw6cih--qTEfLg9tmefOS93TccsNxlKuWqCsRIb7dMoLijHH15",
-            "width": 4608
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110525479908552536971\">Neranju Chathumina</a>"
-            ],
-            "photo_reference": "ATtYBwIpury9GddZKXBoqkkr2vF9POceLdjkEOD27AVmDWl5fwVV2eKkmpT1Vh52p_ls2uSRmKib7blIeLL8YDMc9EhRzDPF95U_m9Tc3eZ9ftvIt9lwjWVcCJ9nHcAbIMGEYlDfAPKN8CnLNxa-eVNY-uC6-KPoSU73GvcnGQjLHz0qlTCF",
-            "width": 4160
-          }
-        ],
-        "place_id": "ChIJW-uCbG3U4zoRHDrIV4yfZ8I",
-        "url": "https://maps.google.com/?cid=14008340591076194844",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Weligalpoththa Arannaya",
+      "location": {
+        "lat": 6.3866773,
+        "lng": 80.1631191
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Kalutara, Sri Lanka",
+      "phone": "+94 345 682 642",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIjaRBOWRK9rtXODb0aZFAix1gZSdEj79LnZyl0rEHE1vlqWgwnhu7oL-g7lnAE5nvlQ5yNGTkJqRP3ftr32w8rLHYS_rdvf55ANJ-bAWDBn-iFaQBjmCSWQGNGqN-QJDPEjJVLSUIfmjLWekNLOW6VxYSrVRD-Y9jYohUJ6bjd8FOb",
+        "ATtYBwIMoSq__zjiy9KN2c3LcupimIit71vBnPPX6swV2edO7_q78jH5d-09b97M7vCYWTZQbJy-Lzpc6fDIMkvbwVwDoNfpelC8qRr971d1_rdBUKABdFMSUr5LikD_bxcVy-ep6qxQIc-jXIanRnpMTjwiq0GqqiUN2AXAE_7EpXP5Gdzv",
+        "ATtYBwJP1ZRSy3ecFzt4Oxerngk1XiEOC3bCxnv-2oulmKNfGHHcNWwyM8BYpRe5BfjFDOWeSmmUXBbgAOK2ZvbJeKFup6xj6eRMoGH4Ys3PC5-PNZk7UHs_OnvW0lViq-ixty65WbSOh49dPMc0F5Hi10IEMoIqJk1zI6ObP1fWNzWfghsy",
+        "ATtYBwJUVXMJ_lRc2LmuPNX1FE-Mwojd-MR-FkhdISeYfeH_TFIflMflvcl8LJ0vFAP1AFZkBsthROuVPRSmDfQnuz8oZWjmMlFNQbZmUUoNzryc8bzhRaXyzpQww_SG-YhXBiFXfs8-G0PEaRuetJLaZrFBIKVL2Iqcb33l-deYwfDsHepf",
+        "ATtYBwKnmG-4iWq65005TSmFgHTrgHPgb2ihK-lLRGiE4YwJBcLGwqbFIdzLGTJ6D2GCBBB9OqdddDgzePa8vYASnYa3A958oEOE7HCXg9cMbmRBZ9QpaeLXWxzFywVetlDMVCh2lgFmhlYJugSS79XPnRbTDOBThamMaWhxM3VyVRiU75xZ",
+        "ATtYBwKlSZkQXaWwsn7kQ4U943JB5kOM05XH9PftoH4q-H7alu_lD9P_jswFDkKcpuXCGgBTwLCzdf2Jdf7Osdom1nmbFTGg-6btZghytl319RYHRfKk6UyPOrQrIjCYqyIW5mgrB_Tg5XM5mJ6hqrE2mrFqvwtsGvoF-ZH3g1Q4T8wRCGh_",
+        "ATtYBwKjS0cYyYc34uZ-qGS5lPuIpu8hzxwbqWR281ODEMmGJgB3MicciaqYw2ofGOyqI8DwMZ1voeVrcyWYIv0gaHlqbtXcsjfzXDV8Wj1nuvJK3o8jiq7yr9lV8DYNUCR3IOjtP604Slq37baW668O0z2goo91F6qqp3qSf5E6cmflEQF_",
+        "ATtYBwI6SPl9gs_Nlfu2AGt4O9zx_5ydvcb9OdgUWXNoCVXlpjM5FU62pzg-xO5lX5OcUN7eW3uOj0QuzrF-yw8hhOb7JWqGyOrY-i6YvJhhpxT4OdGLOqnsYKNauYoAFooFvw3sfpqorYBHsZ0MANl6PG8F8OCW1gLbKr9qoOkCkgSAL2Kg",
+        "ATtYBwIreYvJa-q3YTp8usu0Cv7bH9SNI3hQ4796EF1zJjyzHzDfHmREmnNUf4Zikt84kthFGJnplSBuGbF8UgcFwvfdslVhB32riKfVYgUl9Zeu83KIegROw3iqrGiTckCw6cih--qTEfLg9tmefOS93TccsNxlKuWqCsRIb7dMoLijHH15",
+        "ATtYBwIpury9GddZKXBoqkkr2vF9POceLdjkEOD27AVmDWl5fwVV2eKkmpT1Vh52p_ls2uSRmKib7blIeLL8YDMc9EhRzDPF95U_m9Tc3eZ9ftvIt9lwjWVcCJ9nHcAbIMGEYlDfAPKN8CnLNxa-eVNY-uC6-KPoSU73GvcnGQjLHz0qlTCF"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJW-uCbG3U4zoRHDrIV4yfZ8I",
+      "google_maps_url": "https://maps.google.com/?cid=14008340591076194844",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mahamevnawa Monastery Waduwawa, Yatigaloluwa, Polgahawela 60314, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.341584099999999,
-            "lng": 80.25397099999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.3430623302915,
-              "lng": 80.25532333029149
-            },
-            "southwest": {
-              "lat": 7.340364369708495,
-              "lng": 80.25262536970848
-            }
-          }
-        },
-        "international_phone_number": "+94 372 244 602",
-        "name": "Siri Gautama Sambuddharaja Maligawa",
-        "photos": [
-          {
-            "height": 1123,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115037980152732737056\">Siri Gautama Sambuddharaja Maligawa</a>"
-            ],
-            "photo_reference": "ATtYBwInMS6ASIBGyoOr9ISrb31kQww-fkuTS4fjDGvGE6gSp5MonCpEptM9gHDFAvx_FcF8u3ZINYAuRNGBn_qVxvyDShuYEhvf-Ty8INzXshIFjXALbitsYdPdDkdK1_7irsvQee1UolsrfmLIQSN4XHVLviMvghLjtDLty1RCkoxXg8g-",
-            "width": 1685
-          },
-          {
-            "height": 1271,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115037980152732737056\">Siri Gautama Sambuddharaja Maligawa</a>"
-            ],
-            "photo_reference": "ATtYBwJ1tl-vBPq0WZyJrhmu0ebMTAGwYDj7j54FgpJ0OOY0AwsRzOuEMufA4idCjbcna0aJDHE02KC9PVMFYixjYIRyS2vPRIiAmWaHRdY3r7WQttQ4v58M-J11hl04DURfv3jirlZXNlFjCR-U2AKdK9r_3QLrWg8VdacpNfuIPS4XeM4v",
-            "width": 1920
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114431512701796530357\">Pubudu Chamika</a>"
-            ],
-            "photo_reference": "ATtYBwK2YpGlCU3pE47Z480ZLycWmb7HN2URFRsq-wezic_jCPXHAR1miJz84S8JcLX6MjwNrK4PxKMsODig1QCAwmiOrs_ZAXjerLhG_o-VYq7unH_EPeHFOiPpDeidsOlYMS5y5zZ0h9ysZiEoo8MvYJb6JM4XrJKdwlbqdkI465NDMC3z",
-            "width": 4608
-          },
-          {
-            "height": 4128,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115764982307410431447\">Руслан Завацкий</a>"
-            ],
-            "photo_reference": "ATtYBwLdU1MgCeiINdLWVRxnK7Zjy7l9i3nRyrA5HNPKgJKcOcwAjmuE9LN7ZJ5YWKMIWZwHZ5_BxSpkgiK6klhIFLWfYpMUg6ORp396Adm7xEqv-oC51AiYa9eURponrP58O4fx0JTUSMe8Q_aLpMscw911U2O0sVsiF9DyeoQHMuX0_dWE",
-            "width": 3096
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100015079655231933329\">Anoma Jayaratne</a>"
-            ],
-            "photo_reference": "ATtYBwL9U6foc9eEj2seXIWkLF9_H0QYFPudC2_8f2W2wkHC3chwnBOJQbLYIae2jWjxGenALU1lxsBjFiiYfGEohJKFyFAZYWRRE69VZ3qZM2qcT-xLgtU7fYVnf1P8kZM-3HpAWBhEdPXbFw2i-Avbg_0ntSVrCfFSSHV_QR3gWxROFk_R",
-            "width": 720
-          },
-          {
-            "height": 1152,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103643299572337432100\">Sanjaya Thisara</a>"
-            ],
-            "photo_reference": "ATtYBwKA1NzN_jYAc7Wt1SHZuZ5kkX8173puURgx7ccnwOzPTacTVBBMKRW4B2_Nx6KWSfMFni7TJZmj5v9FIR3hQb4igTJKxU7RWLZOeXhfDoSrtFY6jfdcgNt_FA1VRHPr7KyXdnOoLNgnUYgkgdx1jfPqagDqCQ-QrnQXes0THLrQAuL6",
-            "width": 2048
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107296001070447264729\">Chakma R A</a>"
-            ],
-            "photo_reference": "ATtYBwKTjRaogzQ7zgffK2hK5NPvInPkAUjZAA3AJVJuYFDKm0nvaoGprzvUxtwgEGEo3AdxR4CizWEpLgcn-Hg6ROX-Wjfm4kOiqlBf34zuL6NsdaOAmc2-gElJAjYQ8h7MVN0Pa6N3PK0Zt6zA4CvDN86kjz3_xwE4omE7llPu0dm-xKqh",
-            "width": 3264
-          },
-          {
-            "height": 1024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102453404453583717412\">Prasanna Kariyawasam</a>"
-            ],
-            "photo_reference": "ATtYBwKTCJzmS02eUyedolQ4DEUn2T6FybFdx56da6Y87frFo-YvG98FTxwC_FZKeQSov-8hQedK5cWO7jPRAuwD0DuGohSEehKIhKQVXNjAk5ZPPmWYseMEfWMSBVk2IM0Al34pkvbkUYZoAXtH466WAr5VrJ4iJnDkHLB4Xexd5ZYnyORF",
-            "width": 768
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117698039410222565652\">Tharindu Prathaap</a>"
-            ],
-            "photo_reference": "ATtYBwL0eAEZi-JngXh8FlNxpqCzhM3CIOpp94Fy-HmRTe7hHHJSfpVvlw3bfW7_hw5kAO0MoPr4nLSFkWasGQPImAjVuDSE1Np-5KF27hyaHMXlld7EuQ9hJPe6M0YKNamIQqJ5QiR5koDP_ZeWSVCt_hWU7GDVASvaW9d5a5OJNZFX_TIh",
-            "width": 3264
-          },
-          {
-            "height": 768,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102453404453583717412\">Prasanna Kariyawasam</a>"
-            ],
-            "photo_reference": "ATtYBwK4ncnpdzL2JNm9V2Vq-M33OYWCxleX6CLOt6xETHIqNLyzsrXgszUIxEvtnnQr8wYOCKmo8sW4eqM_nF2jfUJhA5D6EQ_WCpK_-MHUB6xTaUCTg55joU8bBkfk_JrAeylGJZw5TiAaZ2EEgx4hWwsSpyV2X4hUqcHjgCpH2PtUmCV9",
-            "width": 1024
-          }
-        ],
-        "place_id": "ChIJVYF0DJgi4zoRP0dfuuG9QIs",
-        "url": "https://maps.google.com/?cid=10034228746973562687",
-        "website": "http://sambuddharajamaligawa.lk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Siri Gautama Sambuddharaja Maligawa",
+      "location": {
+        "lat": 7.341584099999999,
+        "lng": 80.25397099999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Mahamevnawa Monastery Waduwawa, Yatigaloluwa, Polgahawela 60314, Sri Lanka",
+      "phone": "+94 372 244 602",
+      "website": "http://sambuddharajamaligawa.lk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwInMS6ASIBGyoOr9ISrb31kQww-fkuTS4fjDGvGE6gSp5MonCpEptM9gHDFAvx_FcF8u3ZINYAuRNGBn_qVxvyDShuYEhvf-Ty8INzXshIFjXALbitsYdPdDkdK1_7irsvQee1UolsrfmLIQSN4XHVLviMvghLjtDLty1RCkoxXg8g-",
+        "ATtYBwJ1tl-vBPq0WZyJrhmu0ebMTAGwYDj7j54FgpJ0OOY0AwsRzOuEMufA4idCjbcna0aJDHE02KC9PVMFYixjYIRyS2vPRIiAmWaHRdY3r7WQttQ4v58M-J11hl04DURfv3jirlZXNlFjCR-U2AKdK9r_3QLrWg8VdacpNfuIPS4XeM4v",
+        "ATtYBwK2YpGlCU3pE47Z480ZLycWmb7HN2URFRsq-wezic_jCPXHAR1miJz84S8JcLX6MjwNrK4PxKMsODig1QCAwmiOrs_ZAXjerLhG_o-VYq7unH_EPeHFOiPpDeidsOlYMS5y5zZ0h9ysZiEoo8MvYJb6JM4XrJKdwlbqdkI465NDMC3z",
+        "ATtYBwLdU1MgCeiINdLWVRxnK7Zjy7l9i3nRyrA5HNPKgJKcOcwAjmuE9LN7ZJ5YWKMIWZwHZ5_BxSpkgiK6klhIFLWfYpMUg6ORp396Adm7xEqv-oC51AiYa9eURponrP58O4fx0JTUSMe8Q_aLpMscw911U2O0sVsiF9DyeoQHMuX0_dWE",
+        "ATtYBwL9U6foc9eEj2seXIWkLF9_H0QYFPudC2_8f2W2wkHC3chwnBOJQbLYIae2jWjxGenALU1lxsBjFiiYfGEohJKFyFAZYWRRE69VZ3qZM2qcT-xLgtU7fYVnf1P8kZM-3HpAWBhEdPXbFw2i-Avbg_0ntSVrCfFSSHV_QR3gWxROFk_R",
+        "ATtYBwKA1NzN_jYAc7Wt1SHZuZ5kkX8173puURgx7ccnwOzPTacTVBBMKRW4B2_Nx6KWSfMFni7TJZmj5v9FIR3hQb4igTJKxU7RWLZOeXhfDoSrtFY6jfdcgNt_FA1VRHPr7KyXdnOoLNgnUYgkgdx1jfPqagDqCQ-QrnQXes0THLrQAuL6",
+        "ATtYBwKTjRaogzQ7zgffK2hK5NPvInPkAUjZAA3AJVJuYFDKm0nvaoGprzvUxtwgEGEo3AdxR4CizWEpLgcn-Hg6ROX-Wjfm4kOiqlBf34zuL6NsdaOAmc2-gElJAjYQ8h7MVN0Pa6N3PK0Zt6zA4CvDN86kjz3_xwE4omE7llPu0dm-xKqh",
+        "ATtYBwKTCJzmS02eUyedolQ4DEUn2T6FybFdx56da6Y87frFo-YvG98FTxwC_FZKeQSov-8hQedK5cWO7jPRAuwD0DuGohSEehKIhKQVXNjAk5ZPPmWYseMEfWMSBVk2IM0Al34pkvbkUYZoAXtH466WAr5VrJ4iJnDkHLB4Xexd5ZYnyORF",
+        "ATtYBwL0eAEZi-JngXh8FlNxpqCzhM3CIOpp94Fy-HmRTe7hHHJSfpVvlw3bfW7_hw5kAO0MoPr4nLSFkWasGQPImAjVuDSE1Np-5KF27hyaHMXlld7EuQ9hJPe6M0YKNamIQqJ5QiR5koDP_ZeWSVCt_hWU7GDVASvaW9d5a5OJNZFX_TIh",
+        "ATtYBwK4ncnpdzL2JNm9V2Vq-M33OYWCxleX6CLOt6xETHIqNLyzsrXgszUIxEvtnnQr8wYOCKmo8sW4eqM_nF2jfUJhA5D6EQ_WCpK_-MHUB6xTaUCTg55joU8bBkfk_JrAeylGJZw5TiAaZ2EEgx4hWwsSpyV2X4hUqcHjgCpH2PtUmCV9"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVYF0DJgi4zoRP0dfuuG9QIs",
+      "google_maps_url": "https://maps.google.com/?cid=10034228746973562687",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Colombo - Kandy Rd, Mawanella, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.250221700000001,
-            "lng": 80.4197617
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.251433880291502,
-              "lng": 80.4212048302915
-            },
-            "southwest": {
-              "lat": 7.248735919708498,
-              "lng": 80.41850686970848
-            }
-          }
-        },
-        "international_phone_number": "+94 71 703 0804",
-        "name": "Dhammadhuta Buddhist Center ධර්මදූත විහාරය",
-        "photos": [
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwLUJf-vOJg4oulslB63pNri9BknYabkjHC4nGt0mcQMlvWsEhxoFISVayJWilPKs8TO7BuqhMYn-j9CAnTKY-TFxMjGqQ9m02lX59OASvBGYGARhO-adI-fJpP3Ilu5uNff5Em1fZAy5jvfjKWiTkDilYSPnaJcnAT3o6gtRAvphKNi",
-            "width": 4032
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwLFJiu-LGnrZMJkM7pMJccGqY2ITXcRQi9MRhL0RvcWToKie1DpbMTf_wszTBXVF-Ds_CRL9ed7EzyR1PbphRK9ixXkV0n-1rX33CKpXgYI7kb385kQXKTdeJc7UboQwOUl8fg8Lt8rb45KIfJhcbKg8sFnsNkwXrpxYQQ51VLcF3zK",
-            "width": 2268
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwLrF1Cry9nLa96Ii1LuAwPdsOqI-3LHINxQvfqbSY-tSh9wWDw1s-HIKMb4KR4iTVRC9_3FMcffwg-3ehYAbXh0tjrFv3u8MHRrpqDllb1A9bfS88Vriuciype2_7wqWw-154TFMjIS4A5sHeje1XJU3AeYwz_uLme4g_fAulC3LLJJ",
-            "width": 4032
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwIPcIYPhbLGPx0zIjNlUNXZrnKFUbFx-WShlu7D8HBgeEpXE6EkxdRBcXCyupn8gHefJbY0dL6qGkRQIWwklZXV_iqEynKjlLB3sEqFgk0-lAEVxFRw2gz21A8RwoquNUDxX44PyuFdueQb3TdbpKsTCg1FEfB_ymlu9gzKC--tatEg",
-            "width": 4032
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105798717254369347192\">roshan karunathilaka</a>"
-            ],
-            "photo_reference": "ATtYBwKERJdeFDTl05n3dNHU9zR6QcXcARMSJVLaWWKwSuZJfF1-iGHp1me4kb6ULL3EJEmmcFiqGo5W06EY4LQYOYbdgp7mxmkCspEXsHq7_Hv5MCgaH_XdLBsbwPnnovlYdxWG_KUDXr9WFmeJKzErfZvHwUOewWbGvwFlKzoujBm_d6-Z",
-            "width": 4160
-          },
-          {
-            "height": 3472,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102605602822680808184\">Dhamma discover emb</a>"
-            ],
-            "photo_reference": "ATtYBwJVv8Hpx8yw0r-OPdBmLVuHbnzNk9HUJjVbABg9t1ZOolKJRIt02mAe5M9f4fK0ttF88nYeo6XTZTeQsWmo3qG0GWf6ZiB2dUOdHTm0K4-UNvWmYuV38bczd9nUU5MluzTHPvmHwTd_TplWFQTPtOQ-E4QlKE8DraEOYzS7v_am-q1u",
-            "width": 4624
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwIjawR7lb81BaH2sYQzyQ4Fwr_IS6aSvIWB33Ou2V00S7duJ6IDh7414J2bfURG2cQq8fwz_XeFs03LRdfGQIEAbC2BS83yTiXgTLi-3rr2iOHHe3zxTQogE_MvhTBebxl4Imm7redpBbdyW2xdwYRYFrTT20ukuEKVQJWOv6z0uR5O",
-            "width": 4032
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwJU8CjMpbvxY2uYupN-5klyLxBQmUO-8pfBiRkz26nxUdoCeL0JxKqzr_2SFRhM-APy2R_CP51ifn0LeoOPyAyXfLksbleauoNW4BGz6mqX9yDAO2B1KIP32PdPWMjE7yzyGMoylKkV8JjjF6_bX_qJatkBFtVz_ZNHcgYsLxkiFytl",
-            "width": 4032
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwJqvNx5HJIKjyhgZ9dbY9hGImQTBSDAoAeHSlUrfSraxLTQ5kyt3OloQham2PEaVBkYdQCZp0YaCqWfA_CSM1F0iLJjfCAqEel7jRBy8odtjgJ1_ytinwPXsSVcYWYiQDvIt_i_vroZq292Iu5Tbr3I6q0nxFrhKOUc35pjd7i55qVY",
-            "width": 4032
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110980684488387417089\">Senanayaka Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwLNu2FitpHbv0LreScEI2ALlQcoxI5KrRacDCfZiRyOXhL4l82fp2knGhabGliqgiCihEyT_Grw8llrqozCqv-5vaVbJSsvUbk6BTMR4eL2ynQhWx2dpQ4wVXhTAPKu0tJNh790XCEdXMWMCh5kI9nPMU2wGcapfuklSgkP4Xhaf3-A",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJ6U8HYn0T4zoRddxbDqW0N38",
-        "url": "https://maps.google.com/?cid=9166994187539438709",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dhammadhuta Buddhist Center ධර්මදූත විහාරය",
+      "location": {
+        "lat": 7.250221700000001,
+        "lng": 80.4197617
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Colombo - Kandy Rd, Mawanella, Sri Lanka",
+      "phone": "+94 71 703 0804",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLUJf-vOJg4oulslB63pNri9BknYabkjHC4nGt0mcQMlvWsEhxoFISVayJWilPKs8TO7BuqhMYn-j9CAnTKY-TFxMjGqQ9m02lX59OASvBGYGARhO-adI-fJpP3Ilu5uNff5Em1fZAy5jvfjKWiTkDilYSPnaJcnAT3o6gtRAvphKNi",
+        "ATtYBwLFJiu-LGnrZMJkM7pMJccGqY2ITXcRQi9MRhL0RvcWToKie1DpbMTf_wszTBXVF-Ds_CRL9ed7EzyR1PbphRK9ixXkV0n-1rX33CKpXgYI7kb385kQXKTdeJc7UboQwOUl8fg8Lt8rb45KIfJhcbKg8sFnsNkwXrpxYQQ51VLcF3zK",
+        "ATtYBwLrF1Cry9nLa96Ii1LuAwPdsOqI-3LHINxQvfqbSY-tSh9wWDw1s-HIKMb4KR4iTVRC9_3FMcffwg-3ehYAbXh0tjrFv3u8MHRrpqDllb1A9bfS88Vriuciype2_7wqWw-154TFMjIS4A5sHeje1XJU3AeYwz_uLme4g_fAulC3LLJJ",
+        "ATtYBwIPcIYPhbLGPx0zIjNlUNXZrnKFUbFx-WShlu7D8HBgeEpXE6EkxdRBcXCyupn8gHefJbY0dL6qGkRQIWwklZXV_iqEynKjlLB3sEqFgk0-lAEVxFRw2gz21A8RwoquNUDxX44PyuFdueQb3TdbpKsTCg1FEfB_ymlu9gzKC--tatEg",
+        "ATtYBwKERJdeFDTl05n3dNHU9zR6QcXcARMSJVLaWWKwSuZJfF1-iGHp1me4kb6ULL3EJEmmcFiqGo5W06EY4LQYOYbdgp7mxmkCspEXsHq7_Hv5MCgaH_XdLBsbwPnnovlYdxWG_KUDXr9WFmeJKzErfZvHwUOewWbGvwFlKzoujBm_d6-Z",
+        "ATtYBwJVv8Hpx8yw0r-OPdBmLVuHbnzNk9HUJjVbABg9t1ZOolKJRIt02mAe5M9f4fK0ttF88nYeo6XTZTeQsWmo3qG0GWf6ZiB2dUOdHTm0K4-UNvWmYuV38bczd9nUU5MluzTHPvmHwTd_TplWFQTPtOQ-E4QlKE8DraEOYzS7v_am-q1u",
+        "ATtYBwIjawR7lb81BaH2sYQzyQ4Fwr_IS6aSvIWB33Ou2V00S7duJ6IDh7414J2bfURG2cQq8fwz_XeFs03LRdfGQIEAbC2BS83yTiXgTLi-3rr2iOHHe3zxTQogE_MvhTBebxl4Imm7redpBbdyW2xdwYRYFrTT20ukuEKVQJWOv6z0uR5O",
+        "ATtYBwJU8CjMpbvxY2uYupN-5klyLxBQmUO-8pfBiRkz26nxUdoCeL0JxKqzr_2SFRhM-APy2R_CP51ifn0LeoOPyAyXfLksbleauoNW4BGz6mqX9yDAO2B1KIP32PdPWMjE7yzyGMoylKkV8JjjF6_bX_qJatkBFtVz_ZNHcgYsLxkiFytl",
+        "ATtYBwJqvNx5HJIKjyhgZ9dbY9hGImQTBSDAoAeHSlUrfSraxLTQ5kyt3OloQham2PEaVBkYdQCZp0YaCqWfA_CSM1F0iLJjfCAqEel7jRBy8odtjgJ1_ytinwPXsSVcYWYiQDvIt_i_vroZq292Iu5Tbr3I6q0nxFrhKOUc35pjd7i55qVY",
+        "ATtYBwLNu2FitpHbv0LreScEI2ALlQcoxI5KrRacDCfZiRyOXhL4l82fp2knGhabGliqgiCihEyT_Grw8llrqozCqv-5vaVbJSsvUbk6BTMR4eL2ynQhWx2dpQ4wVXhTAPKu0tJNh790XCEdXMWMCh5kI9nPMU2wGcapfuklSgkP4Xhaf3-A"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ6U8HYn0T4zoRddxbDqW0N38",
+      "google_maps_url": "https://maps.google.com/?cid=9166994187539438709",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Polpithigama, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.8113876,
-            "lng": 80.4091686
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.812757530291502,
-              "lng": 80.4103047802915
-            },
-            "southwest": {
-              "lat": 7.810059569708498,
-              "lng": 80.40760681970849
-            }
-          }
-        },
-        "name": "Mahamewnawa",
-        "place_id": "ChIJ06pGD_PI_DoRl1-u8STOA8U",
-        "url": "https://maps.google.com/?cid=14196417108470816663",
-        "website": "http://www.mahamevnawa.lk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mahamewnawa",
+      "location": {
+        "lat": 7.8113876,
+        "lng": 80.4091686
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Polpithigama, Sri Lanka",
+      "website": "http://www.mahamevnawa.lk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ06pGD_PI_DoRl1-u8STOA8U",
+      "google_maps_url": "https://maps.google.com/?cid=14196417108470816663",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kurunegala, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.954134900000001,
-            "lng": 80.374788
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.955704580291503,
-              "lng": 80.37698934999999
-            },
-            "southwest": {
-              "lat": 7.953006619708498,
-              "lng": 80.36818395000002
-            }
-          }
-        },
-        "name": "ධර්මරාජගල ආරණ්‍ය සේනාසනය",
-        "photos": [
-          {
-            "height": 3096,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102701367150827296514\">Ramindu Viratne</a>"
-            ],
-            "photo_reference": "ATtYBwJZxalqvBiiXlgzDsZe25MGyyLTXG8BR6hi1RWxRBgaa1blBQoZj8E-p65F_z019-rmHs-oQrBIc_wkXvFhxXS_QKMLlk3cwVa8zynkdua9kLD4ZZYsTVrmyNgwP_I83BcVdbWlwuqTPhEf41iFvOOREbucR_ozgy8-zuR-yG1WfBPE",
-            "width": 4128
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103278589073626958123\">Prabhath Hettiarachchi</a>"
-            ],
-            "photo_reference": "ATtYBwKW0rLvJKdTg6J3CGj6Ysxc31R79WNgG8evmoOi_zx_sAvFWoXE-q3kK4RK2MiUHGbABvTvIcYH6gLmcqMBVQbmT4sSDRQyFjOS6h8XmpX0wjRW9Cl5a3ejkwxBJ7m38qHbBBML9hR_HwhwyHjBL0mo1b6oO4gt4iDQ1UVLtjwG7E_V",
-            "width": 3264
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103278589073626958123\">Prabhath Hettiarachchi</a>"
-            ],
-            "photo_reference": "ATtYBwIRtp7NC7yB_z96iQS-ebJSJ8gLthGgIrVD1S6qjE22Eu9LZPFUA8IHfWC3JAZQqvF1Lg8m2pPaCBVkjv49-fDW9IboAgQEV5qXx5jOsY_wTwOWDUUOeYBtLam1P8ssvvAbX9hmDvqlBa4rxqyqoI8gkO9vMfy9uaO1DpuZX_EdILa2",
-            "width": 3264
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103278589073626958123\">Prabhath Hettiarachchi</a>"
-            ],
-            "photo_reference": "ATtYBwKxCjmOn-ieQKCFqKyep_Jv1ojwNzr2J369oaKC7athe9ZACFnHsA6eikg1xyahQbBaXu0aNjKyj8SLzM8QjWeutFXOcyxGPbhQtKJvwUm2vJpx-rOWXHExqL7F82HhPS6X34fnGEfqmNTg5SL8nwxvl3HRJmtiogsS6nUXMaXTpubj",
-            "width": 3264
-          },
-          {
-            "height": 4096,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102701367150827296514\">Ramindu Viratne</a>"
-            ],
-            "photo_reference": "ATtYBwLl6DT1vNgmHdruSj5jyxvU1dRxJtInwSmFp9FOtjVmlFw0ciMfMbEwQBgk9z6HjfJLXTvyJSPEWlJtyHAxe9MChZZSCD1jtKaiSOVQH448jcQMVv1dyXGTV_oNqcWssY-2N1Cj0ydVPVPybOk43HVrvt86W7jZF5rlll7ls9flG-PY",
-            "width": 3072
-          },
-          {
-            "height": 3072,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102701367150827296514\">Ramindu Viratne</a>"
-            ],
-            "photo_reference": "ATtYBwLxgexXYCcLlB6kyjvE84qMY1kEFtoU2mAPlJY9M8pyk5Fgy3j1bxMfdtJMRQneA5EU1OozaK5M5_OrOYAzmvfasxzvL3ErfJXpFV-d-AuN44eSUg8gkLfXQmPQy9yF_e2_LZz1N7FDGUkYPYwe2IVDCFP0RrMqht9BI7NlCi5xZ0ti",
-            "width": 4096
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103278589073626958123\">Prabhath Hettiarachchi</a>"
-            ],
-            "photo_reference": "ATtYBwLFz8TaVmg5wxKJpC81JuD5ZLacAceqeUbax9oU-MvRIcYAdd59DtJnu5-MNTMQRF7ZIt7JyG1MHp1Q6ZULVrQGeWLoNmWCxq9rIZ2WzKP8gN5pEMO0zGXId9ve_u2Vpf6G0p_G7__9uqXYOYbxM1I_SmGliuC9_lRms_92wr5ciP7-",
-            "width": 2448
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103278589073626958123\">Prabhath Hettiarachchi</a>"
-            ],
-            "photo_reference": "ATtYBwJkAHDGPPm_-c1VEl4Dhg96cuf9jQXjadFPPSRArKQL4PCgUdXjNXI4385XtfAoMApb3S6MUFlDIaSJLKBhAEL1g4UbsRLEHqAbcnHpuqbyZJCYWhnF0mW6JS_EDNPI3McOl3sdCxUQaGU-IA-ghR5zJ44baw3Sng5TQCT3oFan7lsw",
-            "width": 3264
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103278589073626958123\">Prabhath Hettiarachchi</a>"
-            ],
-            "photo_reference": "ATtYBwId6l100Y-RjaLUVytyYLtTKxUNaQjy0Jwr3TfHvQL0VdsIfNgEWKAdgYHuDKLE6MibiuhiZUUFXmg_gh3pctlMXaIVLrZoxI9N_1wJ37mnvO863wc3_SHnZaaLUiQqSZFVL5BeUQivnNDiBsJJC1-JvtUCd_vnOxyLh08jMp4TTn-D",
-            "width": 3264
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103278589073626958123\">Prabhath Hettiarachchi</a>"
-            ],
-            "photo_reference": "ATtYBwJv4y9l-EEP5NVqAy4RNUGi-YfFW7EFdVGuM_oS1Gfd24WKelR7k77zE0oQJM1qxaHY1bOXqgfWQrqmax_KbeH_3m85ayYrJ3ZVqN1zAtCRFMcbRPu9wg7n-iFZRAnyzbz7js20DNPOdkzmPQaLIWlObC1nTJogm55ohfSPoMlhvysU",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJb6FtBV3B_DoRW0wSU8_2bgo",
-        "url": "https://maps.google.com/?cid=751809558129822811",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "ධර්මරාජගල ආරණ්‍ය සේනාසනය",
+      "location": {
+        "lat": 7.954134900000001,
+        "lng": 80.374788
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Kurunegala, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJZxalqvBiiXlgzDsZe25MGyyLTXG8BR6hi1RWxRBgaa1blBQoZj8E-p65F_z019-rmHs-oQrBIc_wkXvFhxXS_QKMLlk3cwVa8zynkdua9kLD4ZZYsTVrmyNgwP_I83BcVdbWlwuqTPhEf41iFvOOREbucR_ozgy8-zuR-yG1WfBPE",
+        "ATtYBwKW0rLvJKdTg6J3CGj6Ysxc31R79WNgG8evmoOi_zx_sAvFWoXE-q3kK4RK2MiUHGbABvTvIcYH6gLmcqMBVQbmT4sSDRQyFjOS6h8XmpX0wjRW9Cl5a3ejkwxBJ7m38qHbBBML9hR_HwhwyHjBL0mo1b6oO4gt4iDQ1UVLtjwG7E_V",
+        "ATtYBwIRtp7NC7yB_z96iQS-ebJSJ8gLthGgIrVD1S6qjE22Eu9LZPFUA8IHfWC3JAZQqvF1Lg8m2pPaCBVkjv49-fDW9IboAgQEV5qXx5jOsY_wTwOWDUUOeYBtLam1P8ssvvAbX9hmDvqlBa4rxqyqoI8gkO9vMfy9uaO1DpuZX_EdILa2",
+        "ATtYBwKxCjmOn-ieQKCFqKyep_Jv1ojwNzr2J369oaKC7athe9ZACFnHsA6eikg1xyahQbBaXu0aNjKyj8SLzM8QjWeutFXOcyxGPbhQtKJvwUm2vJpx-rOWXHExqL7F82HhPS6X34fnGEfqmNTg5SL8nwxvl3HRJmtiogsS6nUXMaXTpubj",
+        "ATtYBwLl6DT1vNgmHdruSj5jyxvU1dRxJtInwSmFp9FOtjVmlFw0ciMfMbEwQBgk9z6HjfJLXTvyJSPEWlJtyHAxe9MChZZSCD1jtKaiSOVQH448jcQMVv1dyXGTV_oNqcWssY-2N1Cj0ydVPVPybOk43HVrvt86W7jZF5rlll7ls9flG-PY",
+        "ATtYBwLxgexXYCcLlB6kyjvE84qMY1kEFtoU2mAPlJY9M8pyk5Fgy3j1bxMfdtJMRQneA5EU1OozaK5M5_OrOYAzmvfasxzvL3ErfJXpFV-d-AuN44eSUg8gkLfXQmPQy9yF_e2_LZz1N7FDGUkYPYwe2IVDCFP0RrMqht9BI7NlCi5xZ0ti",
+        "ATtYBwLFz8TaVmg5wxKJpC81JuD5ZLacAceqeUbax9oU-MvRIcYAdd59DtJnu5-MNTMQRF7ZIt7JyG1MHp1Q6ZULVrQGeWLoNmWCxq9rIZ2WzKP8gN5pEMO0zGXId9ve_u2Vpf6G0p_G7__9uqXYOYbxM1I_SmGliuC9_lRms_92wr5ciP7-",
+        "ATtYBwJkAHDGPPm_-c1VEl4Dhg96cuf9jQXjadFPPSRArKQL4PCgUdXjNXI4385XtfAoMApb3S6MUFlDIaSJLKBhAEL1g4UbsRLEHqAbcnHpuqbyZJCYWhnF0mW6JS_EDNPI3McOl3sdCxUQaGU-IA-ghR5zJ44baw3Sng5TQCT3oFan7lsw",
+        "ATtYBwId6l100Y-RjaLUVytyYLtTKxUNaQjy0Jwr3TfHvQL0VdsIfNgEWKAdgYHuDKLE6MibiuhiZUUFXmg_gh3pctlMXaIVLrZoxI9N_1wJ37mnvO863wc3_SHnZaaLUiQqSZFVL5BeUQivnNDiBsJJC1-JvtUCd_vnOxyLh08jMp4TTn-D",
+        "ATtYBwJv4y9l-EEP5NVqAy4RNUGi-YfFW7EFdVGuM_oS1Gfd24WKelR7k77zE0oQJM1qxaHY1bOXqgfWQrqmax_KbeH_3m85ayYrJ3ZVqN1zAtCRFMcbRPu9wg7n-iFZRAnyzbz7js20DNPOdkzmPQaLIWlObC1nTJogm55ohfSPoMlhvysU"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJb6FtBV3B_DoRW0wSU8_2bgo",
+      "google_maps_url": "https://maps.google.com/?cid=751809558129822811",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Weheralagala Bathalayaya, Mahiyanganaya, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.420038300000001,
-            "lng": 81.0002366
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.423381499999999,
-              "lng": 81.0018496302915
-            },
-            "southwest": {
-              "lat": 7.418923900000003,
-              "lng": 80.99915166970848
-            }
-          }
-        },
-        "international_phone_number": "+94 553 053 839",
-        "name": "Sri Mahasumana Mahamevnawa Buddhist Monastrary Bathalayaya Mahiyangana",
-        "photos": [
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108235914794072177351\">Pubudu Mihiran</a>"
-            ],
-            "photo_reference": "ATtYBwIMAOyFNeKbymz9H6q-QWHLJRVz9dXDRKCmoM7yJ0-Lu1qQVsTjlxwQhIVKNnwBlzcdQd-apPwG_pqTRDTKVkASrli1U2G3F4TaqoXfrlT2tjiAorHyFsyKujNB9UXEFX37KVBKP1-CA_kWN0-fMCeZe0cIBzJZDqQHNa69-TyPuDyG",
-            "width": 4160
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110027339903688980010\">Dinesh Chamara</a>"
-            ],
-            "photo_reference": "ATtYBwKyF3JZqgy5RonHp7VWIJsu-Dsie1kOClnP84lUMAlElTYiHr1uHH2i2jSuB_V4-n3osxB5a8tV9QdxIrHE1vUxcTlI3QEky2nF30ufqXo6uTaDH0H-Itx7M7HeKC6MzYTMuH5FbaDNbUqmNn89UN-4keX5bYI86bWelOx0GoYdqP07",
-            "width": 4032
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100015079655231933329\">Anoma Jayaratne</a>"
-            ],
-            "photo_reference": "ATtYBwIjJeB6XiiimfogViRPEkiNxMQvCm1T4iqsA35ZVaC3z2ALwvV2OJhvOa9gDpvfc5U46UevuyGpdZ2XHFXdgk_sLnMdHTRiU9oxC3wgqzqKz0iNrWNbjnPUYLxfVoZtKiVSLQzV4yBTkK3Tl3vAPTpjhIh9DITY53wh2GTYSxMLboru",
-            "width": 1280
-          },
-          {
-            "height": 2560,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115954619202708139973\">Tharuka Jayathilaka</a>"
-            ],
-            "photo_reference": "ATtYBwLkgSD9xZ7Uq_HA5e7MU2qe8jXjcIZneZQxVIKAlgfr9PlN0jD5UcE9kUGmjMokJ-Pfya9NNkN81ZqEJax9CypjO4nITzybCpvfxRX64hbXH1pj62VQhm1roy1muq7qC1QOhke3i7dCYMDV5YI9038C8EM2Pv7NXY83w5gGlY0dqefV",
-            "width": 1536
-          },
-          {
-            "height": 774,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108235914794072177351\">Pubudu Mihiran</a>"
-            ],
-            "photo_reference": "ATtYBwK-nw1JYWBdQvtTNHBsSIeK6kHFGsoHVvRJcftqvAqdnVHyaVrv2RXClT9cwk1lZ6Z2NaXonPHR7_si9mHuTJx4gs3X4NIJKIuuibnNzYTB0VBiHyPUWKkRzQm77U9fWllNijqiyDr_gf8nCp2kYvoDreRnOR6SoFKFuFsLy5ZbDApq",
-            "width": 1032
-          },
-          {
-            "height": 4624,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115269640918016699753\">sooriyabandara suresh</a>"
-            ],
-            "photo_reference": "ATtYBwI3GNn8xQuhlYFhjJHAFh--cLvj2gZGOFvbLLlhxogwe7Y21val1sbNIRR8h0bWcPHS9GlsC1hvSvlxEzC9OaYnIDptzs2jgw024v7QkGv1ZXa54N98RrnzNFf4avM7I7H7Y9f363r-Eizp94TfqsRumLcQMFNge5F98GLWgTr_RZsN",
-            "width": 2136
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108235914794072177351\">Pubudu Mihiran</a>"
-            ],
-            "photo_reference": "ATtYBwJdXIbDTdC4jEe6Ophb5Sv2Of4Rw8qjmCRlFse06v7fH0vkF5rcY7gNEUcMoeB8TU8NfWUXylSgh6HirE9KU66bMVmq8F4humJ478M44Twjcj4KPYwPXO09jmqJP6Z0VoHHUeBztQScbuidFDyF8f8GzFBHjxqw8q2Wp4qL1H1rIiP1",
-            "width": 4160
-          },
-          {
-            "height": 3096,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111645419736928995033\">Pathma Mangala</a>"
-            ],
-            "photo_reference": "ATtYBwLV-9x_XdHQfCAPKnIPiz1oZIFjIQLMAc29vjspL7ppt2d0YPMPCkhpS4acfW-oX3YV0WyIWzhe29jGdAGopU2D9ipZk9ns4FwuEkDmO82I5KjgMIVk1E2z0ADUiSnlGMvKczz0CaMZO6JZdpOfDit0lgnyK81p_3WefQisbY-uQDI",
-            "width": 4128
-          },
-          {
-            "height": 1040,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111645419736928995033\">Pathma Mangala</a>"
-            ],
-            "photo_reference": "ATtYBwK__vbFEZC2aoX9zuwrjPi1zXxpS5E2ylBRQ5kdMVSmw2ISOujpRWkBA33w2QxhM2EZpt8j96phzrKNaxzdeBvB2hgbSb_YBG2ScXu5u_ByS5naG_-I6kP_24P_61hYhAuQgQvlyAKQ6pm6y3grAEZb9FjABVVZdYPQNWzVO0MXypA",
-            "width": 780
-          },
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100015079655231933329\">Anoma Jayaratne</a>"
-            ],
-            "photo_reference": "ATtYBwIGVnHIpCCs1buJBVqHajAct4TEHof0-ptaXd4zYf-9lYWEe0Bl-G2oC7zSO7VJTqBdR7AOvtY7JB1a0tVWRytCx8YUELHiL8uEnA3X8eGF2At3HTpat3liWXNudB_5Q5Lan3gt-4_I_paolpbdUERBjjztA33JkDxyXmhEi378y-Rk",
-            "width": 1536
-          }
-        ],
-        "place_id": "ChIJHXroQ7u85DoRBpwh-oy6ZXI",
-        "url": "https://maps.google.com/?cid=8243199807626255366",
-        "website": "http://www.mahamevnawa.lk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Sri Mahasumana Mahamevnawa Buddhist Monastrary Bathalayaya Mahiyangana",
+      "location": {
+        "lat": 7.420038300000001,
+        "lng": 81.0002366
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Weheralagala Bathalayaya, Mahiyanganaya, Sri Lanka",
+      "phone": "+94 553 053 839",
+      "website": "http://www.mahamevnawa.lk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIMAOyFNeKbymz9H6q-QWHLJRVz9dXDRKCmoM7yJ0-Lu1qQVsTjlxwQhIVKNnwBlzcdQd-apPwG_pqTRDTKVkASrli1U2G3F4TaqoXfrlT2tjiAorHyFsyKujNB9UXEFX37KVBKP1-CA_kWN0-fMCeZe0cIBzJZDqQHNa69-TyPuDyG",
+        "ATtYBwKyF3JZqgy5RonHp7VWIJsu-Dsie1kOClnP84lUMAlElTYiHr1uHH2i2jSuB_V4-n3osxB5a8tV9QdxIrHE1vUxcTlI3QEky2nF30ufqXo6uTaDH0H-Itx7M7HeKC6MzYTMuH5FbaDNbUqmNn89UN-4keX5bYI86bWelOx0GoYdqP07",
+        "ATtYBwIjJeB6XiiimfogViRPEkiNxMQvCm1T4iqsA35ZVaC3z2ALwvV2OJhvOa9gDpvfc5U46UevuyGpdZ2XHFXdgk_sLnMdHTRiU9oxC3wgqzqKz0iNrWNbjnPUYLxfVoZtKiVSLQzV4yBTkK3Tl3vAPTpjhIh9DITY53wh2GTYSxMLboru",
+        "ATtYBwLkgSD9xZ7Uq_HA5e7MU2qe8jXjcIZneZQxVIKAlgfr9PlN0jD5UcE9kUGmjMokJ-Pfya9NNkN81ZqEJax9CypjO4nITzybCpvfxRX64hbXH1pj62VQhm1roy1muq7qC1QOhke3i7dCYMDV5YI9038C8EM2Pv7NXY83w5gGlY0dqefV",
+        "ATtYBwK-nw1JYWBdQvtTNHBsSIeK6kHFGsoHVvRJcftqvAqdnVHyaVrv2RXClT9cwk1lZ6Z2NaXonPHR7_si9mHuTJx4gs3X4NIJKIuuibnNzYTB0VBiHyPUWKkRzQm77U9fWllNijqiyDr_gf8nCp2kYvoDreRnOR6SoFKFuFsLy5ZbDApq",
+        "ATtYBwI3GNn8xQuhlYFhjJHAFh--cLvj2gZGOFvbLLlhxogwe7Y21val1sbNIRR8h0bWcPHS9GlsC1hvSvlxEzC9OaYnIDptzs2jgw024v7QkGv1ZXa54N98RrnzNFf4avM7I7H7Y9f363r-Eizp94TfqsRumLcQMFNge5F98GLWgTr_RZsN",
+        "ATtYBwJdXIbDTdC4jEe6Ophb5Sv2Of4Rw8qjmCRlFse06v7fH0vkF5rcY7gNEUcMoeB8TU8NfWUXylSgh6HirE9KU66bMVmq8F4humJ478M44Twjcj4KPYwPXO09jmqJP6Z0VoHHUeBztQScbuidFDyF8f8GzFBHjxqw8q2Wp4qL1H1rIiP1",
+        "ATtYBwLV-9x_XdHQfCAPKnIPiz1oZIFjIQLMAc29vjspL7ppt2d0YPMPCkhpS4acfW-oX3YV0WyIWzhe29jGdAGopU2D9ipZk9ns4FwuEkDmO82I5KjgMIVk1E2z0ADUiSnlGMvKczz0CaMZO6JZdpOfDit0lgnyK81p_3WefQisbY-uQDI",
+        "ATtYBwK__vbFEZC2aoX9zuwrjPi1zXxpS5E2ylBRQ5kdMVSmw2ISOujpRWkBA33w2QxhM2EZpt8j96phzrKNaxzdeBvB2hgbSb_YBG2ScXu5u_ByS5naG_-I6kP_24P_61hYhAuQgQvlyAKQ6pm6y3grAEZb9FjABVVZdYPQNWzVO0MXypA",
+        "ATtYBwIGVnHIpCCs1buJBVqHajAct4TEHof0-ptaXd4zYf-9lYWEe0Bl-G2oC7zSO7VJTqBdR7AOvtY7JB1a0tVWRytCx8YUELHiL8uEnA3X8eGF2At3HTpat3liWXNudB_5Q5Lan3gt-4_I_paolpbdUERBjjztA33JkDxyXmhEi378y-Rk"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJHXroQ7u85DoRBpwh-oy6ZXI",
+      "google_maps_url": "https://maps.google.com/?cid=8243199807626255366",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

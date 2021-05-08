@@ -1,1298 +1,576 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Don Kaeo, Mae Rim District, Chiang Mai 50180, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.854417,
-            "lng": 98.973975
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.85583613029151,
-              "lng": 98.9752978302915
-            },
-            "southwest": {
-              "lat": 18.8531381697085,
-              "lng": 98.97259986970847
-            }
-          }
-        },
-        "international_phone_number": "+66 53 121 534",
-        "name": "Sanmuang Pracharam Bureau of Monks",
-        "photos": [
-          {
-            "height": 1920,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118439257445568721846\">Jiraporn Sangkoom</a>"
-            ],
-            "photo_reference": "ATtYBwKiU1CwbCUUQ4vAC6Qp9IAWGIdurKKgj-tB5XAYTx6FA3PRtjzp4i1bkCYwRTvnZJuJuxIrEsBn3-GmhD4vQcP3M1rTT7o9qQ6N6BIyT4VW1_fZBQUgx_eSRFbdhVMgyDzT1ISqSJmaT_7PEWVxG2JzYieOI_CXNIG0gTXsyXhxTZLx",
-            "width": 2560
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118228709539442987562\">Chatpong Panya</a>"
-            ],
-            "photo_reference": "ATtYBwKrkOA8IEljToXNKT6PmhwGdhO989zl1UJ1VfuDs5hSTCYC8p2f-Zm0C4EP7iZoGmf15TRy3P8QXkZypvQ3YbI94xp608rXA95hCgI0-M2PgiN6pLMnJmvZE7p9q1a8DOLogX8P9rfsGz1DBtDJSsK-TFK9X_SkZ3CgwRL42_uQETxR",
-            "width": 4608
-          },
-          {
-            "height": 1920,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118439257445568721846\">Jiraporn Sangkoom</a>"
-            ],
-            "photo_reference": "ATtYBwI3suzETmliFS_jLPS4BgSyUj4b4O0lgrMYUi-1V8Umi2bPmRttZM4IKnmDvwwNmdtGM_7XGCZgc9iN7arn0myVgHphvHzGbosP3kCp6qXqEVKN6XuQAmK8cHt5IoWjQRXjUc8_10H5tPRJE2Lwo7GqnI3i0gK_AHGnPo7uVZSH5B-k",
-            "width": 2560
-          },
-          {
-            "height": 1920,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118439257445568721846\">Jiraporn Sangkoom</a>"
-            ],
-            "photo_reference": "ATtYBwIL4ZgsIl5HBen10GEPLDY8PNjynXQtQb1cvAuRgyHFKPOPW8GgJvST8J_D7OG1-ZLianhu80QSFtWlFJCnY1729mjIqqMP26diKuwpZxdDNLYX2aJGmCTKrNGncOC5zeCX4ZEhsGycuixOYavk_gxSC7kJPi1qHUpawu__HIAE99TE",
-            "width": 2560
-          },
-          {
-            "height": 1920,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118439257445568721846\">Jiraporn Sangkoom</a>"
-            ],
-            "photo_reference": "ATtYBwJ4fLypWIq17Y1kHWAeqIIRgzeuW3sUCHszwI5pQHg1AYCKF8cvVd8qM5utPJHt-fhkWgf0hi2iYfV3YnFyFQ_rIjab9L6qWOsqdOHkG3wI0vl8R4sXysOp-PhzOTn0YIaIZq3rapvqYvr3pmGY7v6Z5WqJH2nLjfbCAeiax-44Omt-",
-            "width": 2560
-          },
-          {
-            "height": 1920,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118439257445568721846\">Jiraporn Sangkoom</a>"
-            ],
-            "photo_reference": "ATtYBwLr16RtELBr1Vo2vs-syWlaeDOmUsAcTxILCu3IK28pM7AFZbtw3rOqbmwoVPNCtaGHYW44HJrwWvD9SQsfkY4wMYaiiIIxW1zQz232ecLvWbyzm30ASZuWoLeYah7lPpvdZ6YwhLhVyrT6ww9aEJSU3ITL6kUZHXKBykYFXh4E_CNc",
-            "width": 2560
-          },
-          {
-            "height": 1920,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118439257445568721846\">Jiraporn Sangkoom</a>"
-            ],
-            "photo_reference": "ATtYBwLQdqIFWmzKTDfPqNS69aIVrRHDNn8U5FD4h9D1jWpwH24YiUjlW3R88kmBy29RSjo51fjO3GF__jOzi02r0_g7NsxnOTNjXaIy3x7Ot5PRKxTubK3CZ08MiUJ5wQcFynOrI9gaUg4mO4eY7b1FGIG1BVKk_umSOJchn-cdthuDcx8s",
-            "width": 2560
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114134777445021004027\">การเหว่า ณ บางเพลง</a>"
-            ],
-            "photo_reference": "ATtYBwKDxoAEKOsVIvfyzR3ACtBAsch2RgGHA1PrMR0aYwfhGlnA5hOeP2j6bc66vCVQ0W4fVXsww6IZkC_fikFPRsW-VLv1ZqzWqs7--mFJbG6rPZ9e7FFTvy-Da1-7g6qHqgC4627bwLEY7gSCeIYNi42VEF3x6weisc0ToHIG9ou7E8ZS",
-            "width": 3120
-          },
-          {
-            "height": 2560,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103758308585351089025\">ลุง ตุ้ย</a>"
-            ],
-            "photo_reference": "ATtYBwIU_LG3i0nGoQ0FXNrH28gqztN25o0gzOhUsBnMtgUi_bp3PivS_BnHQXe2ybCTH3nLLn-y_6OyBuygGEQGDhChzGsMKoVvat1i9At-GrKgY_WLYXaWKJE4GQfONhgXl0kASWoHZEwej9S1n0yUm43MnW9zrebOOZKi8u0eZFXC445z",
-            "width": 1920
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102590352335616474268\">Auu Lungtar</a>"
-            ],
-            "photo_reference": "ATtYBwL02A4Ktl0vZGa0wZfDTVVhMY2AUGN_oqHkvV1rH_4CnP7zwXFjAWhX1dg5dtt7zz-pSI0oGlF47NxlsvEQ2v4jmtltsQSpi4yFxTQMwQPqWFwcWxhnY4bnEggZuiK0uQqO6aemqWamkb8gOakQQZSYAGdRUXJ2aMbu6dqzTzb36ZGi",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJv4HEnHQ72jAR7iwlJjBUO6A",
-        "url": "https://maps.google.com/?cid=11545914635469532398",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Sanmuang Pracharam Bureau of Monks",
+      "location": {
+        "lat": 18.854417,
+        "lng": 98.973975
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Don Kaeo, Mae Rim District, Chiang Mai 50180, Thailand",
+      "phone": "+66 53 121 534",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKiU1CwbCUUQ4vAC6Qp9IAWGIdurKKgj-tB5XAYTx6FA3PRtjzp4i1bkCYwRTvnZJuJuxIrEsBn3-GmhD4vQcP3M1rTT7o9qQ6N6BIyT4VW1_fZBQUgx_eSRFbdhVMgyDzT1ISqSJmaT_7PEWVxG2JzYieOI_CXNIG0gTXsyXhxTZLx",
+        "ATtYBwKrkOA8IEljToXNKT6PmhwGdhO989zl1UJ1VfuDs5hSTCYC8p2f-Zm0C4EP7iZoGmf15TRy3P8QXkZypvQ3YbI94xp608rXA95hCgI0-M2PgiN6pLMnJmvZE7p9q1a8DOLogX8P9rfsGz1DBtDJSsK-TFK9X_SkZ3CgwRL42_uQETxR",
+        "ATtYBwI3suzETmliFS_jLPS4BgSyUj4b4O0lgrMYUi-1V8Umi2bPmRttZM4IKnmDvwwNmdtGM_7XGCZgc9iN7arn0myVgHphvHzGbosP3kCp6qXqEVKN6XuQAmK8cHt5IoWjQRXjUc8_10H5tPRJE2Lwo7GqnI3i0gK_AHGnPo7uVZSH5B-k",
+        "ATtYBwIL4ZgsIl5HBen10GEPLDY8PNjynXQtQb1cvAuRgyHFKPOPW8GgJvST8J_D7OG1-ZLianhu80QSFtWlFJCnY1729mjIqqMP26diKuwpZxdDNLYX2aJGmCTKrNGncOC5zeCX4ZEhsGycuixOYavk_gxSC7kJPi1qHUpawu__HIAE99TE",
+        "ATtYBwJ4fLypWIq17Y1kHWAeqIIRgzeuW3sUCHszwI5pQHg1AYCKF8cvVd8qM5utPJHt-fhkWgf0hi2iYfV3YnFyFQ_rIjab9L6qWOsqdOHkG3wI0vl8R4sXysOp-PhzOTn0YIaIZq3rapvqYvr3pmGY7v6Z5WqJH2nLjfbCAeiax-44Omt-",
+        "ATtYBwLr16RtELBr1Vo2vs-syWlaeDOmUsAcTxILCu3IK28pM7AFZbtw3rOqbmwoVPNCtaGHYW44HJrwWvD9SQsfkY4wMYaiiIIxW1zQz232ecLvWbyzm30ASZuWoLeYah7lPpvdZ6YwhLhVyrT6ww9aEJSU3ITL6kUZHXKBykYFXh4E_CNc",
+        "ATtYBwLQdqIFWmzKTDfPqNS69aIVrRHDNn8U5FD4h9D1jWpwH24YiUjlW3R88kmBy29RSjo51fjO3GF__jOzi02r0_g7NsxnOTNjXaIy3x7Ot5PRKxTubK3CZ08MiUJ5wQcFynOrI9gaUg4mO4eY7b1FGIG1BVKk_umSOJchn-cdthuDcx8s",
+        "ATtYBwKDxoAEKOsVIvfyzR3ACtBAsch2RgGHA1PrMR0aYwfhGlnA5hOeP2j6bc66vCVQ0W4fVXsww6IZkC_fikFPRsW-VLv1ZqzWqs7--mFJbG6rPZ9e7FFTvy-Da1-7g6qHqgC4627bwLEY7gSCeIYNi42VEF3x6weisc0ToHIG9ou7E8ZS",
+        "ATtYBwIU_LG3i0nGoQ0FXNrH28gqztN25o0gzOhUsBnMtgUi_bp3PivS_BnHQXe2ybCTH3nLLn-y_6OyBuygGEQGDhChzGsMKoVvat1i9At-GrKgY_WLYXaWKJE4GQfONhgXl0kASWoHZEwej9S1n0yUm43MnW9zrebOOZKi8u0eZFXC445z",
+        "ATtYBwL02A4Ktl0vZGa0wZfDTVVhMY2AUGN_oqHkvV1rH_4CnP7zwXFjAWhX1dg5dtt7zz-pSI0oGlF47NxlsvEQ2v4jmtltsQSpi4yFxTQMwQPqWFwcWxhnY4bnEggZuiK0uQqO6aemqWamkb8gOakQQZSYAGdRUXJ2aMbu6dqzTzb36ZGi"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJv4HEnHQ72jAR7iwlJjBUO6A",
+      "google_maps_url": "https://maps.google.com/?cid=11545914635469532398",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "On Tai, San Kamphaeng District, Chiang Mai 50130, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7176422,
-            "lng": 99.18086319999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7190049802915,
-              "lng": 99.18219008029149
-            },
-            "southwest": {
-              "lat": 18.71630701970849,
-              "lng": 99.17949211970848
-            }
-          }
-        },
-        "international_phone_number": "+66 95 686 9229",
-        "name": "Avalokiteshvara Buddhist Center",
-        "photos": [
-          {
-            "height": 2766,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106167052409700142805\">Duc Nguyen Hoang</a>"
-            ],
-            "photo_reference": "ATtYBwLb4XSmQvuzxZpLUYSpldkGyzZw_GNzHA9w2aKAn5PWpOM4ivbEsRr5voX446gq0bBoSyHllBk3U4IM6XYIYl8irx7xIfMSKEs96UEctzmPfZck_95NJHzbhx62jwNM2WliRpYtuxV1ZOQJlw6gTZJkWUJILEhROrY6O5jev6VV5lNE",
-            "width": 5954
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106167052409700142805\">Duc Nguyen Hoang</a>"
-            ],
-            "photo_reference": "ATtYBwK1ysWj06Q2csYed1aWXkiTIBq5haNsFoIW5z5_g9DQTi55un36DwDcudl193YMie7TLmaS9sK7jjLXMmUqghBhhsj01FKQI5fWEJz7cqEL34lOGe-IxDHTTQpiQW_lZNKZthrXHT0Vns0TZJCOmDCZ39hxWxqzX4yCLgry0pnL_J4a",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJE4ePkNEp2jAReu9sRQYVmwk",
-        "url": "https://maps.google.com/?cid=692170084410257274",
-        "website": "http://www.avalokiteshvara.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Avalokiteshvara Buddhist Center",
+      "location": {
+        "lat": 18.7176422,
+        "lng": 99.18086319999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "On Tai, San Kamphaeng District, Chiang Mai 50130, Thailand",
+      "phone": "+66 95 686 9229",
+      "website": "http://www.avalokiteshvara.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLb4XSmQvuzxZpLUYSpldkGyzZw_GNzHA9w2aKAn5PWpOM4ivbEsRr5voX446gq0bBoSyHllBk3U4IM6XYIYl8irx7xIfMSKEs96UEctzmPfZck_95NJHzbhx62jwNM2WliRpYtuxV1ZOQJlw6gTZJkWUJILEhROrY6O5jev6VV5lNE",
+        "ATtYBwK1ysWj06Q2csYed1aWXkiTIBq5haNsFoIW5z5_g9DQTi55un36DwDcudl193YMie7TLmaS9sK7jjLXMmUqghBhhsj01FKQI5fWEJz7cqEL34lOGe-IxDHTTQpiQW_lZNKZthrXHT0Vns0TZJCOmDCZ39hxWxqzX4yCLgry0pnL_J4a"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJE4ePkNEp2jAReu9sRQYVmwk",
+      "google_maps_url": "https://maps.google.com/?cid=692170084410257274",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Chiang, Pakokku, Magwe, ตำบลสุเทพ อำเภอเมืองเชียงใหม่ เชียงใหม่ 50200, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7952876,
-            "lng": 98.96200019999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7966547802915,
-              "lng": 98.96335578029152
-            },
-            "southwest": {
-              "lat": 18.79395681970849,
-              "lng": 98.96065781970852
-            }
-          }
-        },
-        "name": "အောင်မင်္ဂလာကျောင်းတိုက်",
-        "place_id": "ChIJAw4C_IQ72jARykb9Z0dhCtU",
-        "url": "https://maps.google.com/?cid=15351189239160981194",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "အောင်မင်္ဂလာကျောင်းတိုက်",
+      "location": {
+        "lat": 18.7952876,
+        "lng": 98.96200019999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Chiang, Pakokku, Magwe, ตำบลสุเทพ อำเภอเมืองเชียงใหม่ เชียงใหม่ 50200, Thailand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJAw4C_IQ72jARykb9Z0dhCtU",
+      "google_maps_url": "https://maps.google.com/?cid=15351189239160981194",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bhim Nagar, Old City, Akola, Maharashtra 444002, India",
-        "geometry": {
-          "location": {
-            "lat": 20.7116864,
-            "lng": 76.9885561
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 20.7129713302915,
-              "lng": 76.98988568029151
-            },
-            "southwest": {
-              "lat": 20.7102733697085,
-              "lng": 76.9871877197085
-            }
-          }
-        },
-        "name": "Bouddha Vihar",
-        "photos": [
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109267456886628324512\">shyam Khotre</a>"
-            ],
-            "photo_reference": "ATtYBwIalzqyMpfWOiQOU7eUTlMrR3VUNg22ht-TXl3laujfuhNdLfzMedcDklPpej2JjKe2eBxqANL2Vb-JOF5TYB3gcOMlfSq_wR9HsfkShVNtVVVFFHMreFCERyMCZ1OX0-tctwBb3YPC8GNzbS4HGTjNOuZQSZW_64tc7uyfrd3C0SG8",
-            "width": 3264
-          },
-          {
-            "height": 1280,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113522947544116267701\">Yogesh Jadhav</a>"
-            ],
-            "photo_reference": "ATtYBwJuEcwGd-mfoVD1D9barTThBv8EEz5yJUFqsUVkBLacjltJTUHl0vXQ2jD_kErqQUxwnJ5Ap2UPJRWBBgtHrl-mm1h7F5bdayIxhUVWnEWen8nfD-VU2EOyWW5RY0wjE5X51kGkTsiHSV1RHeN3eNKEH0MCDr4hdkQ1_eH0eGFtb_LU",
-            "width": 959
-          }
-        ],
-        "place_id": "ChIJM3nDI-sx1zsR2fPKTQPaeZA",
-        "url": "https://maps.google.com/?cid=10410591721368515545",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Bouddha Vihar",
+      "location": {
+        "lat": 20.7116864,
+        "lng": 76.9885561
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Bhim Nagar, Old City, Akola, Maharashtra 444002, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIalzqyMpfWOiQOU7eUTlMrR3VUNg22ht-TXl3laujfuhNdLfzMedcDklPpej2JjKe2eBxqANL2Vb-JOF5TYB3gcOMlfSq_wR9HsfkShVNtVVVFFHMreFCERyMCZ1OX0-tctwBb3YPC8GNzbS4HGTjNOuZQSZW_64tc7uyfrd3C0SG8",
+        "ATtYBwJuEcwGd-mfoVD1D9barTThBv8EEz5yJUFqsUVkBLacjltJTUHl0vXQ2jD_kErqQUxwnJ5Ap2UPJRWBBgtHrl-mm1h7F5bdayIxhUVWnEWen8nfD-VU2EOyWW5RY0wjE5X51kGkTsiHSV1RHeN3eNKEH0MCDr4hdkQ1_eH0eGFtb_LU"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJM3nDI-sx1zsR2fPKTQPaeZA",
+      "google_maps_url": "https://maps.google.com/?cid=10410591721368515545",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Unnamed Road, Guruchhaya Colony, Sai Nagar, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607, India",
-        "geometry": {
-          "location": {
-            "lat": 20.8890329,
-            "lng": 77.7419563
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 20.8903942802915,
-              "lng": 77.7432485802915
-            },
-            "southwest": {
-              "lat": 20.8876963197085,
-              "lng": 77.7405506197085
-            }
-          }
-        },
-        "name": "Nalanda Buddha Vihar",
-        "photos": [
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112445412333601357887\">Zeenat Akhtar</a>"
-            ],
-            "photo_reference": "ATtYBwLPrdzPWwjy-PZZo3zujv67WUbmjDqLKq0YblG5-UfEyobpHSnqah6YRP3JhDBX8DcxedKWZsUd2uYbaMcFiho7vIXkdnBBMdUh0_UPCG7nKjQU6kZdmJizgZKR2GPB2fDS-3RxDPNapAz3yMtUrSL2l2ms_R8tkTi7LkI7Mtpd-lC5",
-            "width": 4608
-          }
-        ],
-        "place_id": "ChIJ_5ikZCq71jsRCb1PkBAtk3o",
-        "url": "https://maps.google.com/?cid=8832452843367546121",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Nalanda Buddha Vihar",
+      "location": {
+        "lat": 20.8890329,
+        "lng": 77.7419563
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Unnamed Road, Guruchhaya Colony, Sai Nagar, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLPrdzPWwjy-PZZo3zujv67WUbmjDqLKq0YblG5-UfEyobpHSnqah6YRP3JhDBX8DcxedKWZsUd2uYbaMcFiho7vIXkdnBBMdUh0_UPCG7nKjQU6kZdmJizgZKR2GPB2fDS-3RxDPNapAz3yMtUrSL2l2ms_R8tkTi7LkI7Mtpd-lC5"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_5ikZCq71jsRCb1PkBAtk3o",
+      "google_maps_url": "https://maps.google.com/?cid=8832452843367546121",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2354/114, New Thaware Colony, Nagpur, Maharashtra 440002, India",
-        "geometry": {
-          "location": {
-            "lat": 21.1817429,
-            "lng": 79.0959522
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 21.1830916302915,
-              "lng": 79.09722623029151
-            },
-            "southwest": {
-              "lat": 21.1803936697085,
-              "lng": 79.0945282697085
-            }
-          }
-        },
-        "name": "Dhammakuti Buddha Vihar",
-        "place_id": "ChIJU2os2jrB1DsRWOx6ORI26ms",
-        "url": "https://maps.google.com/?cid=7776087158510251096",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dhammakuti Buddha Vihar",
+      "location": {
+        "lat": 21.1817429,
+        "lng": 79.0959522
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "2354/114, New Thaware Colony, Nagpur, Maharashtra 440002, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJU2os2jrB1DsRWOx6ORI26ms",
+      "google_maps_url": "https://maps.google.com/?cid=7776087158510251096",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kundanlal Gupta Nagar, Binaki, Nagpur, Maharashtra 440017, India",
-        "geometry": {
-          "location": {
-            "lat": 21.1692587,
-            "lng": 79.12876179999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 21.1706388802915,
-              "lng": 79.13011948029151
-            },
-            "southwest": {
-              "lat": 21.1679409197085,
-              "lng": 79.12742151970849
-            }
-          }
-        },
-        "name": "Shraddha Buddha Vihar",
-        "photos": [
-          {
-            "height": 1440,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100640336475888797572\">Bhadnth pradnyasheel</a>"
-            ],
-            "photo_reference": "ATtYBwIxmoF-hufXWdHpHUFnxu4Ys_u26OdMxl_JT7C2vwrLc26gzCyWEDvU6PBCoZ_zXOa1c8HINCHSkf8Ad24dnlx4b29gjOlOXgL8sMVcPOpMG2O3O0r4wNWG4JsILRGtDbzDbrljwdbuOuezIXyhXsg0FewMfjxjPZZs8IvB5O-v-VyZ",
-            "width": 682
-          },
-          {
-            "height": 1440,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100640336475888797572\">Bhadnth pradnyasheel</a>"
-            ],
-            "photo_reference": "ATtYBwK_i070UV4PL3Ze3hQqm4HT-eD8GBnxWAOpx1a6YwEat8mYkfc9y1dTeRxrQmAN8yuTc9qSh1p_xS8xZo0pH4_Xgm9qccaLCU3X3-rPZEkqUtvNYrXnYpi0WpFiz6gBD0AS7HI0ifpe2iazsJmkPwr6qoYOYGBMAbr_QbCSNm_Vldh0",
-            "width": 883
-          },
-          {
-            "height": 1440,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100640336475888797572\">Bhadnth pradnyasheel</a>"
-            ],
-            "photo_reference": "ATtYBwLXkBONMaY6ldsO7WtfF1MwoRSd7ePtIJaPbMH0QKsoMjEP7p8PxBfSFNBrR5nZS_vyRHDl3nHnx0H2rbbgQQ0flXdzl5DaiEzRxZ5bVme0Dz5UrMdSJwMqC_YSnCvRD57HV15prTt9uL3UIvMOscXmCOrv-viNlivEB2IT1WpkVI7V",
-            "width": 682
-          },
-          {
-            "height": 353,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114746237230115276031\">PR Jatt</a>"
-            ],
-            "photo_reference": "ATtYBwIr8bFzvx9skpSxLh9lezxybOoV-l0uXZZDIcUSAF8dQw5dPF5sLXkR5kVQF_DAgNDJCJ163kJ3wu7XLA01WQrZICw9x6MMsYyyTWK1lW5gGST13h8IiCvOi4soLF6lwddSnqbHVrnojoPqMVb8MfY-htu80_SaNk8_48ofv-Ubbxiz",
-            "width": 470
-          },
-          {
-            "height": 1920,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111937811290722466798\">Ashish Bhange</a>"
-            ],
-            "photo_reference": "ATtYBwKA47NpHV6Lq-MX-L7rYY2nN3pK09YCj5htb4-gbG084Ij6r-V1aqmw59bt2-bdPWcMjIYCHz_hHRO9HAXoCTbtOBD_MXw_p-7z5czOVRN80kI0ZXDC6flS9__lGq3paYv7EmWvVeLf4MTOV8woQABgg4Pf2DZkg5u1DM4a5OmldUDw",
-            "width": 1080
-          },
-          {
-            "height": 1440,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100640336475888797572\">Bhadnth pradnyasheel</a>"
-            ],
-            "photo_reference": "ATtYBwJ4vpS5brJE3kiqEV0hbLHfQB8Ij4CTzJstzsIZNSMw34rvfN-mTbztHGwCZIXkqSqsX91ElN7DoPmppqoXDaNIq-Sy3PBGuQSm-r8VqflYC8Kzi_O98KZLbxK290p93NfvBAwHM8v_jBLJdBMc_hGTiubElVluyPtmtRCH1eHqygMG",
-            "width": 682
-          },
-          {
-            "height": 2252,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100640336475888797572\">Bhadnth pradnyasheel</a>"
-            ],
-            "photo_reference": "ATtYBwLiHhAl1WCqHAjgtNRtJ9moql447gr9tWx-KmMV5p_xTvh1hP4WVSsWO7i-jukfzS8MbJqPBfjgt6LS-3zKm2W6e9l5sZ2kWMHPvFlicAhbXXIx6DkctJkf7XLJ2a8Tre6lzH7w0ArOFe5QEOI64pysixtLM_XEvon1bPfIH9BwNWWM",
-            "width": 1296
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110245377539128886782\">Rahul Kunte</a>"
-            ],
-            "photo_reference": "ATtYBwIEcTzJDFt1SsofQIEjpLo4IK0Mx-AlrvXCjIv_WpGSku9d66xpLCxcNvyOg3-EL_EmXR01BUyMQkFZFzPK_NRNfEXjPVi9NylZ4M0n4O_RByzez_9brr5TE1s35K7pL8bhve8ETcY_8qYoLqBfRS_FlIwXhc7cbY3Z_0D-vjCBxIX5",
-            "width": 1908
-          },
-          {
-            "height": 1440,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100640336475888797572\">Bhadnth pradnyasheel</a>"
-            ],
-            "photo_reference": "ATtYBwI9ihUAxCL9jZCWv5scMFhcHNwQhuRqC4ipC43lji2E0wurtACopmiFnGVyPW36DcoG61UFi_RVcLYbbnU-h3wZh_kTZ7IQ5vEyyjmJwJRzE_-W62VpPPZvqGxoZabFe1rDBy8jOA8zmCoR8IcR2OZsD96RvkeKHp33dI6S7PLNS3Rq",
-            "width": 682
-          },
-          {
-            "height": 1440,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100640336475888797572\">Bhadnth pradnyasheel</a>"
-            ],
-            "photo_reference": "ATtYBwJI-_ecjG4Fwk-zvw-_474R7P_GAPVMzoRQJMN2J_J-Y8Zpc8VnRIKy_HTFNEFPRS6awyMb-53yftQtJo3PUKGqy3Aqkyp492FADz5YseDuU-D80toO7QZ4zVEG2N5Ubc3Wie5OMdR8HPML2CuQ0MXtWrPCogMwIZZpxQXRuR9af_uD",
-            "width": 682
-          }
-        ],
-        "place_id": "ChIJV17e8SDH1DsR8-X4hm9jMKQ",
-        "url": "https://maps.google.com/?cid=11831065551759271411",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Shraddha Buddha Vihar",
+      "location": {
+        "lat": 21.1692587,
+        "lng": 79.12876179999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Kundanlal Gupta Nagar, Binaki, Nagpur, Maharashtra 440017, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIxmoF-hufXWdHpHUFnxu4Ys_u26OdMxl_JT7C2vwrLc26gzCyWEDvU6PBCoZ_zXOa1c8HINCHSkf8Ad24dnlx4b29gjOlOXgL8sMVcPOpMG2O3O0r4wNWG4JsILRGtDbzDbrljwdbuOuezIXyhXsg0FewMfjxjPZZs8IvB5O-v-VyZ",
+        "ATtYBwK_i070UV4PL3Ze3hQqm4HT-eD8GBnxWAOpx1a6YwEat8mYkfc9y1dTeRxrQmAN8yuTc9qSh1p_xS8xZo0pH4_Xgm9qccaLCU3X3-rPZEkqUtvNYrXnYpi0WpFiz6gBD0AS7HI0ifpe2iazsJmkPwr6qoYOYGBMAbr_QbCSNm_Vldh0",
+        "ATtYBwLXkBONMaY6ldsO7WtfF1MwoRSd7ePtIJaPbMH0QKsoMjEP7p8PxBfSFNBrR5nZS_vyRHDl3nHnx0H2rbbgQQ0flXdzl5DaiEzRxZ5bVme0Dz5UrMdSJwMqC_YSnCvRD57HV15prTt9uL3UIvMOscXmCOrv-viNlivEB2IT1WpkVI7V",
+        "ATtYBwIr8bFzvx9skpSxLh9lezxybOoV-l0uXZZDIcUSAF8dQw5dPF5sLXkR5kVQF_DAgNDJCJ163kJ3wu7XLA01WQrZICw9x6MMsYyyTWK1lW5gGST13h8IiCvOi4soLF6lwddSnqbHVrnojoPqMVb8MfY-htu80_SaNk8_48ofv-Ubbxiz",
+        "ATtYBwKA47NpHV6Lq-MX-L7rYY2nN3pK09YCj5htb4-gbG084Ij6r-V1aqmw59bt2-bdPWcMjIYCHz_hHRO9HAXoCTbtOBD_MXw_p-7z5czOVRN80kI0ZXDC6flS9__lGq3paYv7EmWvVeLf4MTOV8woQABgg4Pf2DZkg5u1DM4a5OmldUDw",
+        "ATtYBwJ4vpS5brJE3kiqEV0hbLHfQB8Ij4CTzJstzsIZNSMw34rvfN-mTbztHGwCZIXkqSqsX91ElN7DoPmppqoXDaNIq-Sy3PBGuQSm-r8VqflYC8Kzi_O98KZLbxK290p93NfvBAwHM8v_jBLJdBMc_hGTiubElVluyPtmtRCH1eHqygMG",
+        "ATtYBwLiHhAl1WCqHAjgtNRtJ9moql447gr9tWx-KmMV5p_xTvh1hP4WVSsWO7i-jukfzS8MbJqPBfjgt6LS-3zKm2W6e9l5sZ2kWMHPvFlicAhbXXIx6DkctJkf7XLJ2a8Tre6lzH7w0ArOFe5QEOI64pysixtLM_XEvon1bPfIH9BwNWWM",
+        "ATtYBwIEcTzJDFt1SsofQIEjpLo4IK0Mx-AlrvXCjIv_WpGSku9d66xpLCxcNvyOg3-EL_EmXR01BUyMQkFZFzPK_NRNfEXjPVi9NylZ4M0n4O_RByzez_9brr5TE1s35K7pL8bhve8ETcY_8qYoLqBfRS_FlIwXhc7cbY3Z_0D-vjCBxIX5",
+        "ATtYBwI9ihUAxCL9jZCWv5scMFhcHNwQhuRqC4ipC43lji2E0wurtACopmiFnGVyPW36DcoG61UFi_RVcLYbbnU-h3wZh_kTZ7IQ5vEyyjmJwJRzE_-W62VpPPZvqGxoZabFe1rDBy8jOA8zmCoR8IcR2OZsD96RvkeKHp33dI6S7PLNS3Rq",
+        "ATtYBwJI-_ecjG4Fwk-zvw-_474R7P_GAPVMzoRQJMN2J_J-Y8Zpc8VnRIKy_HTFNEFPRS6awyMb-53yftQtJo3PUKGqy3Aqkyp492FADz5YseDuU-D80toO7QZ4zVEG2N5Ubc3Wie5OMdR8HPML2CuQ0MXtWrPCogMwIZZpxQXRuR9af_uD"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJV17e8SDH1DsR8-X4hm9jMKQ",
+      "google_maps_url": "https://maps.google.com/?cid=11831065551759271411",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bheemsari Rd, Jai Jawan Nagar, Gandhi Nagar, Adilabad(U), Telangana 504001, India",
-        "geometry": {
-          "location": {
-            "lat": 19.6867823,
-            "lng": 78.53626849999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 19.6880645802915,
-              "lng": 78.5375985302915
-            },
-            "southwest": {
-              "lat": 19.6853666197085,
-              "lng": 78.5349005697085
-            }
-          }
-        },
-        "name": "DhammaKrithi Buddha Vihar",
-        "photos": [
-          {
-            "height": 3000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101193998066998182150\">Rushikesh Narwade</a>"
-            ],
-            "photo_reference": "ATtYBwIjUpR1aZDQoSGt_U6_ET9LPeW1hSJEsDLg3qB5an8C9B8XweNlJ3XcmpU_ircnFQHKwH5UiVu5oQm-WPYqWZtaK0kbLhsUmYeP6KQYWx7QeXNwDG-_SAXyj6fKB3QV26gPYAniikuoF0lFx3aCTLrNxiE5qnHZKGA_yhjUz1mIPdYJ",
-            "width": 4000
-          },
-          {
-            "height": 3000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101193998066998182150\">Rushikesh Narwade</a>"
-            ],
-            "photo_reference": "ATtYBwLcBBRe3S-TW5c4V7nAil1_yjl1aN1D8Llmb1OsqcegfgB49xsEwLNrTMXBzepMk2QFzV740x_TGKVbTuYj8u2bC3myensyIoJHBxm5c2M3YFpey8WEHVt_TWZxNUdkGsGAInUZKeOnHo-uINkg5yVzGSai0aC5eP1jJM4nyjHlbjvq",
-            "width": 4000
-          }
-        ],
-        "place_id": "ChIJNfNjQTlb0jsR9BIZRrdFPGw",
-        "url": "https://maps.google.com/?cid=7799185308156236532",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "DhammaKrithi Buddha Vihar",
+      "location": {
+        "lat": 19.6867823,
+        "lng": 78.53626849999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Bheemsari Rd, Jai Jawan Nagar, Gandhi Nagar, Adilabad(U), Telangana 504001, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIjUpR1aZDQoSGt_U6_ET9LPeW1hSJEsDLg3qB5an8C9B8XweNlJ3XcmpU_ircnFQHKwH5UiVu5oQm-WPYqWZtaK0kbLhsUmYeP6KQYWx7QeXNwDG-_SAXyj6fKB3QV26gPYAniikuoF0lFx3aCTLrNxiE5qnHZKGA_yhjUz1mIPdYJ",
+        "ATtYBwLcBBRe3S-TW5c4V7nAil1_yjl1aN1D8Llmb1OsqcegfgB49xsEwLNrTMXBzepMk2QFzV740x_TGKVbTuYj8u2bC3myensyIoJHBxm5c2M3YFpey8WEHVt_TWZxNUdkGsGAInUZKeOnHo-uINkg5yVzGSai0aC5eP1jJM4nyjHlbjvq"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJNfNjQTlb0jsR9BIZRrdFPGw",
+      "google_maps_url": "https://maps.google.com/?cid=7799185308156236532",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Wangi Rd, Kushi Nagar, Ambika Nagar, Parbhani, Maharashtra 431401, India",
-        "geometry": {
-          "location": {
-            "lat": 19.273083,
-            "lng": 76.79406639999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 19.2745063802915,
-              "lng": 76.79539803029151
-            },
-            "southwest": {
-              "lat": 19.2718084197085,
-              "lng": 76.79270006970849
-            }
-          }
-        },
-        "international_phone_number": "+91 99300 63211",
-        "name": "Triratna Buddha Vihar",
-        "photos": [
-          {
-            "height": 1044,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100295751747989883761\">Akash Sadawarte</a>"
-            ],
-            "photo_reference": "ATtYBwKIWoY3IGqDUBN90LY6ZwfbhtW3T_2jkIlJ4lVZmubH0IxP_UhuGQ04YjdA9tz0zT8wSvTF5oOGYLpnK5fAwoL8LBbnBv8pxKBoGbPyndAovcvUhOpgBmyXqXkMlZXC1PMuP_s8-xjFLjIiHb5E_-nbH_rDSSUs0d5aU4qilxqnLlaU",
-            "width": 987
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108329902032991347166\">Sachin Pagare</a>"
-            ],
-            "photo_reference": "ATtYBwJp-FtxOfmwvPpi6E9uWbfMp76lOaGzgznxfFtbdxzdnzXMz1sVJ1zj-4ZmyQYZkAXS6m_LjuFujuq_YqZsjSTv39lXnsNfA19HJkjsUy-sToVoGdHQGgN4oPCL_ShLJAQomr7izNzn7Q8ajny6aOGZVapqxWmDhmuA1NEAIGIxtXYC",
-            "width": 4160
-          },
-          {
-            "height": 692,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103110967866719301755\">ASHISH VAIRAT</a>"
-            ],
-            "photo_reference": "ATtYBwKptEwAGpvVsKgqN9fvFImZvgcRAJ3ymMsvGuEVKxg68_t1u_rUR7doOL2oj5B5up2oM5ssNmpPjExeGspakktQyl68fH3wHH7d3wUIxZvqSPwQuxonF4Xs2UmPUQ2nMYfUxFGyBbr1xlMOArOWRIv2bNjy8v95uLbJnjIuFWED0PIP",
-            "width": 443
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117270624149906258592\">Pramod Yengade</a>"
-            ],
-            "photo_reference": "ATtYBwKFwmlLNCi9_ESA5S5734HHkWFDNlDVbSz9EnNVcNEybb49IJ1Puupbk1BnQ9Mv0_QxjnHilECW_2yeLVBL0e6t7BkTkEWaJgG9gyi_cBL3jhoZid1YDQ_3dveYYszCypKnyoctpG8asvN-PUpY6pI-GXVZxirMTDvHUV6Ml9aEhw1z",
-            "width": 1836
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117270624149906258592\">Pramod Yengade</a>"
-            ],
-            "photo_reference": "ATtYBwJIl-JKr2IGMqMqwmu1UNNMkLlLYQJ3LXqToDo_t2IZuqBY-x0kGVdYFrsRMOBVNK4Ji9kvllAVp472_n-gD3ZW_QDxcoSOZMvKkTABCsgxPwGfXVfQj3dtICSnFTLwkpPRydCZxIP1BcnCCJwTqkx5n1ju04cC4wmVL2ksGlzB35cR",
-            "width": 1836
-          },
-          {
-            "height": 2560,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117723985991849940008\">Vijay Shinde</a>"
-            ],
-            "photo_reference": "ATtYBwIwvXFPRwEtYJRmrU2lPFX_tsHm-cktBqTjV1p4X4m1YOuvmkmqFYWznuYG6arnJLLvuAV2J0IfiJxHjLhfGi-wrnDKtMthSBh56qfHZ6kdzYCK_fSju8B3Aqs36JTrT1CEPXGqOE7u_ObztcXDkMb1x-k4N9kPIY8MgJhTsE39AOsm",
-            "width": 1440
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108329902032991347166\">Sachin Pagare</a>"
-            ],
-            "photo_reference": "ATtYBwIN8d3iDH9gWHrf9HsDEHCoKQNHP_B8HsqC6KIKK06mu844Veu7SP7nlPR_iawYry8ECInPatNw1W5rtFlJgGYV7DHGd0ipNw5UzIP_2ZMMo6YdOMN1m6jnYN9GLsHHAYQ-wVn6bkyTzNHp0zc7xHIm2M9jXoSkpWotjyCsk0_xU62k",
-            "width": 4160
-          },
-          {
-            "height": 2560,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117723985991849940008\">Vijay Shinde</a>"
-            ],
-            "photo_reference": "ATtYBwKgK_uippVfAHW0fNDuWBDLmZmdk9bkF3sGXeo2oYC15PkuFsqouZ-x0oKeEGCkQfFaOWhAJZixQSWuD71vF1xs1tkKwwCH_24r6vcTwIaSa9P61Gv948Wmd9IS0uIq19P3KBAbgVSL2nw14y61hH0ol27z_UpnY6tmP6V07TqnyeMN",
-            "width": 1440
-          },
-          {
-            "height": 2560,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117723985991849940008\">Vijay Shinde</a>"
-            ],
-            "photo_reference": "ATtYBwKdN2uypci5gljzKIAckA8a0_hRvDU-LAtOd3HU3BoLoRTHRLB7QHf33AmzNHbYPwRqnF7cNvkZng364Q6YbaMynDAqaJzNwM967_hT2VirzFTdfsrVLlFdbwLVNzjaHcieNdRcHe0QLKrJIuDyLSSKkFYhlBvlSRF4BXxBLdzdCPbJ",
-            "width": 1440
-          },
-          {
-            "height": 3096,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117131713564087074766\">Triratna Buddha Vihar</a>"
-            ],
-            "photo_reference": "ATtYBwLcg8pEChhut3r3PzwmyY04JzQmZNXS6mTlZYknjb-4VkwYbCitv5WrDz9vifBqt0JcxKnHbSqidCJLOqpqIqX90Vw1hPeYFpyRRWxCBvhdLWTZfPIJ4PHuiXjhihRxG9mccW-cGP35g-9jLPDR9R9eekb2JeaV_MLcghTNGGjtswer",
-            "width": 4128
-          }
-        ],
-        "place_id": "ChIJp5h3qScY0DsRSv1BC6O3sN8",
-        "url": "https://maps.google.com/?cid=16118584977255431498",
-        "website": "https://business.google.com/website/triratna-buddha-vihar",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Triratna Buddha Vihar",
+      "location": {
+        "lat": 19.273083,
+        "lng": 76.79406639999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Wangi Rd, Kushi Nagar, Ambika Nagar, Parbhani, Maharashtra 431401, India",
+      "phone": "+91 99300 63211",
+      "website": "https://business.google.com/website/triratna-buddha-vihar",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKIWoY3IGqDUBN90LY6ZwfbhtW3T_2jkIlJ4lVZmubH0IxP_UhuGQ04YjdA9tz0zT8wSvTF5oOGYLpnK5fAwoL8LBbnBv8pxKBoGbPyndAovcvUhOpgBmyXqXkMlZXC1PMuP_s8-xjFLjIiHb5E_-nbH_rDSSUs0d5aU4qilxqnLlaU",
+        "ATtYBwJp-FtxOfmwvPpi6E9uWbfMp76lOaGzgznxfFtbdxzdnzXMz1sVJ1zj-4ZmyQYZkAXS6m_LjuFujuq_YqZsjSTv39lXnsNfA19HJkjsUy-sToVoGdHQGgN4oPCL_ShLJAQomr7izNzn7Q8ajny6aOGZVapqxWmDhmuA1NEAIGIxtXYC",
+        "ATtYBwKptEwAGpvVsKgqN9fvFImZvgcRAJ3ymMsvGuEVKxg68_t1u_rUR7doOL2oj5B5up2oM5ssNmpPjExeGspakktQyl68fH3wHH7d3wUIxZvqSPwQuxonF4Xs2UmPUQ2nMYfUxFGyBbr1xlMOArOWRIv2bNjy8v95uLbJnjIuFWED0PIP",
+        "ATtYBwKFwmlLNCi9_ESA5S5734HHkWFDNlDVbSz9EnNVcNEybb49IJ1Puupbk1BnQ9Mv0_QxjnHilECW_2yeLVBL0e6t7BkTkEWaJgG9gyi_cBL3jhoZid1YDQ_3dveYYszCypKnyoctpG8asvN-PUpY6pI-GXVZxirMTDvHUV6Ml9aEhw1z",
+        "ATtYBwJIl-JKr2IGMqMqwmu1UNNMkLlLYQJ3LXqToDo_t2IZuqBY-x0kGVdYFrsRMOBVNK4Ji9kvllAVp472_n-gD3ZW_QDxcoSOZMvKkTABCsgxPwGfXVfQj3dtICSnFTLwkpPRydCZxIP1BcnCCJwTqkx5n1ju04cC4wmVL2ksGlzB35cR",
+        "ATtYBwIwvXFPRwEtYJRmrU2lPFX_tsHm-cktBqTjV1p4X4m1YOuvmkmqFYWznuYG6arnJLLvuAV2J0IfiJxHjLhfGi-wrnDKtMthSBh56qfHZ6kdzYCK_fSju8B3Aqs36JTrT1CEPXGqOE7u_ObztcXDkMb1x-k4N9kPIY8MgJhTsE39AOsm",
+        "ATtYBwIN8d3iDH9gWHrf9HsDEHCoKQNHP_B8HsqC6KIKK06mu844Veu7SP7nlPR_iawYry8ECInPatNw1W5rtFlJgGYV7DHGd0ipNw5UzIP_2ZMMo6YdOMN1m6jnYN9GLsHHAYQ-wVn6bkyTzNHp0zc7xHIm2M9jXoSkpWotjyCsk0_xU62k",
+        "ATtYBwKgK_uippVfAHW0fNDuWBDLmZmdk9bkF3sGXeo2oYC15PkuFsqouZ-x0oKeEGCkQfFaOWhAJZixQSWuD71vF1xs1tkKwwCH_24r6vcTwIaSa9P61Gv948Wmd9IS0uIq19P3KBAbgVSL2nw14y61hH0ol27z_UpnY6tmP6V07TqnyeMN",
+        "ATtYBwKdN2uypci5gljzKIAckA8a0_hRvDU-LAtOd3HU3BoLoRTHRLB7QHf33AmzNHbYPwRqnF7cNvkZng364Q6YbaMynDAqaJzNwM967_hT2VirzFTdfsrVLlFdbwLVNzjaHcieNdRcHe0QLKrJIuDyLSSKkFYhlBvlSRF4BXxBLdzdCPbJ",
+        "ATtYBwLcg8pEChhut3r3PzwmyY04JzQmZNXS6mTlZYknjb-4VkwYbCitv5WrDz9vifBqt0JcxKnHbSqidCJLOqpqIqX90Vw1hPeYFpyRRWxCBvhdLWTZfPIJ4PHuiXjhihRxG9mccW-cGP35g-9jLPDR9R9eekb2JeaV_MLcghTNGGjtswer"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJp5h3qScY0DsRSv1BC6O3sN8",
+      "google_maps_url": "https://maps.google.com/?cid=16118584977255431498",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Buddha Vihar, SH260, Kabir Nagar, Nari Village, Nagpur, Maharashtra 440026, India",
-        "geometry": {
-          "location": {
-            "lat": 21.19281669999999,
-            "lng": 79.10310249999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 21.1942087302915,
-              "lng": 79.1044556802915
-            },
-            "southwest": {
-              "lat": 21.19151076970849,
-              "lng": 79.10175771970849
-            }
-          }
-        },
-        "name": "Dhammadutt Yuva Vikas Samiti",
-        "photos": [
-          {
-            "height": 2304,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111943973253817752889\">Ukharda Adhale</a>"
-            ],
-            "photo_reference": "ATtYBwJ5fR92fqH3uqa9TNNxpS689X8mNns9H0NGPYMpYnwliUSf3CB5bYSBNTb-ERcLoQcme-vRVvPqf1iYc92kn1cwe1ofGMTEUV5nfKguvRzuA8CG9P4YMhbu3AjYk9msq0po8bHr1G8biMmrQO3wATnkeBFwqSwhdaarsUGwqt6nMCi3",
-            "width": 4096
-          },
-          {
-            "height": 3840,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104293868570119684848\">shubham jamgade</a>"
-            ],
-            "photo_reference": "ATtYBwLbj8NQtigpt_UT9yWoPyfLnmSg1OLtaki-YM07s1llyBFGCwnDd70HV_w4QV45gS4mgILEPk8SFRc1b16XN_2VBjUuRM3aw4TI3KvhV6E1p5kl7zuLfcKtjtkH6zbeQdWNmauu5EQ2MnwDCmR39_u5pc9_NAKD6pSpHtW_UMklGO-E",
-            "width": 2160
-          },
-          {
-            "height": 3000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109216439455572622171\">Prasanna Pazare</a>"
-            ],
-            "photo_reference": "ATtYBwL7AjSG4Fbcii5XeW4dvtTlFXVhfRvu5EN33id8H0dnBmUfdVezeKVRSsPHahHgc2GQ85x5hUKjF1e9sfzDdYUY09acxI8LPfYhQEtCOOCExs0gtAJMSPKu2qzZerRlbg7UyJXekSMk9XSrHicIVeTkWiXN5Fp_Hu51DvSuq3SJxPzd",
-            "width": 4000
-          },
-          {
-            "height": 4096,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111943973253817752889\">Ukharda Adhale</a>"
-            ],
-            "photo_reference": "ATtYBwJXBdrUhJOF0QcXj-ZU_QQFTq1HQqcG4TyvBQZfRrLybSjBnk3_WM1lGcqiAX7NXgmseLcSWv0naYYHlILbDU1bF6Y8QruTQdeeg38qfbF24f1GjHhJIGbBVfDjA27szO2xg0PDbgTZagTUW27-7-7Z7yXLv60FdBKYpCIGUXKJ48Ty",
-            "width": 3072
-          },
-          {
-            "height": 2304,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111943973253817752889\">Ukharda Adhale</a>"
-            ],
-            "photo_reference": "ATtYBwI6sk6vNj0c3fOxS8ZHHkRSqIv0m86anbx2z5FGkIC2YnY6x0r2fSZNWv2877qr0WmcFButfeY1NgLW2Lc8VgU4y0BKBhJI2Tud7-dWR_42-vZbt2Tu2ab9q9QrdBtpaISjvn6DLQHr4nYGbbQSddxyImhDc5bRclJXLm6kS9IFr3f1",
-            "width": 4096
-          }
-        ],
-        "place_id": "ChIJqwJPHDbB1DsRpb9Hv1cQ6_A",
-        "url": "https://maps.google.com/?cid=17359987157687058341",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dhammadutt Yuva Vikas Samiti",
+      "location": {
+        "lat": 21.19281669999999,
+        "lng": 79.10310249999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Buddha Vihar, SH260, Kabir Nagar, Nari Village, Nagpur, Maharashtra 440026, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJ5fR92fqH3uqa9TNNxpS689X8mNns9H0NGPYMpYnwliUSf3CB5bYSBNTb-ERcLoQcme-vRVvPqf1iYc92kn1cwe1ofGMTEUV5nfKguvRzuA8CG9P4YMhbu3AjYk9msq0po8bHr1G8biMmrQO3wATnkeBFwqSwhdaarsUGwqt6nMCi3",
+        "ATtYBwLbj8NQtigpt_UT9yWoPyfLnmSg1OLtaki-YM07s1llyBFGCwnDd70HV_w4QV45gS4mgILEPk8SFRc1b16XN_2VBjUuRM3aw4TI3KvhV6E1p5kl7zuLfcKtjtkH6zbeQdWNmauu5EQ2MnwDCmR39_u5pc9_NAKD6pSpHtW_UMklGO-E",
+        "ATtYBwL7AjSG4Fbcii5XeW4dvtTlFXVhfRvu5EN33id8H0dnBmUfdVezeKVRSsPHahHgc2GQ85x5hUKjF1e9sfzDdYUY09acxI8LPfYhQEtCOOCExs0gtAJMSPKu2qzZerRlbg7UyJXekSMk9XSrHicIVeTkWiXN5Fp_Hu51DvSuq3SJxPzd",
+        "ATtYBwJXBdrUhJOF0QcXj-ZU_QQFTq1HQqcG4TyvBQZfRrLybSjBnk3_WM1lGcqiAX7NXgmseLcSWv0naYYHlILbDU1bF6Y8QruTQdeeg38qfbF24f1GjHhJIGbBVfDjA27szO2xg0PDbgTZagTUW27-7-7Z7yXLv60FdBKYpCIGUXKJ48Ty",
+        "ATtYBwI6sk6vNj0c3fOxS8ZHHkRSqIv0m86anbx2z5FGkIC2YnY6x0r2fSZNWv2877qr0WmcFButfeY1NgLW2Lc8VgU4y0BKBhJI2Tud7-dWR_42-vZbt2Tu2ab9q9QrdBtpaISjvn6DLQHr4nYGbbQSddxyImhDc5bRclJXLm6kS9IFr3f1"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqwJPHDbB1DsRpb9Hv1cQ6_A",
+      "google_maps_url": "https://maps.google.com/?cid=17359987157687058341",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "J-98, Chapru Nagar, Shashtri Nagar, Nagpur, Maharashtra 440008, India",
-        "geometry": {
-          "location": {
-            "lat": 21.14644,
-            "lng": 79.1257138
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 21.1477858802915,
-              "lng": 79.1269949802915
-            },
-            "southwest": {
-              "lat": 21.1450879197085,
-              "lng": 79.1242970197085
-            }
-          }
-        },
-        "name": "Nagbodhi Prabuddha Buddha Vihar",
-        "photos": [
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111560857838635319075\">Vijay Wankhede</a>"
-            ],
-            "photo_reference": "ATtYBwKI0Ygi13nnW3MIyWfPWe0_nqNpQDYfqcAn1CdfYAVHk48-rU4mO246-dE1npcnPAXYsG_MGNTmUwlGQAl5gEz6RRK4EZlCIIFRhPZtkA2lQ1QN4-j2U4gt_OI48_zKP3l5LYWFA26b_egGeNp0YF7GzW8VMDbyYMnsaeSNLJ1Bi_Dm",
-            "width": 3264
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111560857838635319075\">Vijay Wankhede</a>"
-            ],
-            "photo_reference": "ATtYBwLxgRZ8qEvBtimwDW2kpSsgn0FYABTX20qoA26kt1eDQ3Qg5LgQxB096KFu97akR32Gpq85BgAqWKx9V8nwwAyrrNiFrHpu0rtyupEIrqNDmdZAcmoEVJUvbI_7biZaSzaIi2RP1woovHXcKdw2pdysBdhJ6l-RspawKJfhr2DDtrA5",
-            "width": 3264
-          },
-          {
-            "height": 1944,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111560857838635319075\">Vijay Wankhede</a>"
-            ],
-            "photo_reference": "ATtYBwLGPwUXILMfa8b8Tg2npApN6USEndOxpTHrRBmwoJ1UabRBxzfpXG50VrGBUapjnwnGh1RSUuEZqjfhcnWBtJhfbohUcKW67nW0V6n3nfpMPtqHwRTCmBD7JxSRfNdan-x-2Q_YVGi9QfjHDAQV8Dw_VE5dWl1WN4bi9h-xJeK2XZJM",
-            "width": 2592
-          },
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111560857838635319075\">Vijay Wankhede</a>"
-            ],
-            "photo_reference": "ATtYBwLj0yQ-M2JOV86xd32Q9TZr-6W88_RsM6LGp0AN2Mu6sPDrGc_y36XzCvELV60u-JqB0nMKTnA_3dl_SqWGJkvTYm4WREJ1f-EbIpdXP1jp7ent_NolyeAYwYJ7jWdFDGD_b0HN5a8QweFayC-y3qLu5MkpN4TGHg-njcgamUI95er1",
-            "width": 1536
-          },
-          {
-            "height": 472,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111560857838635319075\">Vijay Wankhede</a>"
-            ],
-            "photo_reference": "ATtYBwIE4-jnqYfaWSg1jbcBML4bHffGaKO1VTvCd--ETxcen9EZgsU4pu3q1HqGuX0-iur8z0U3HvXAZ0a_Z6NgkdExQHn3kcDFj3thJNVDNw54zL2tqIGdAdwc5l9bTHiBFp5qMXB9jo6fQlzT898qp427IBAc1HnPbXJiSeH50a5c1Smd",
-            "width": 640
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111560857838635319075\">Vijay Wankhede</a>"
-            ],
-            "photo_reference": "ATtYBwKVjX1VNT5bQ3bvfEWFrpfzH_7IC7VyVh8V9muUITDX_ubk_2SKwkaEzQq9M20MDxbeR9VFdjB9_FAZpzEXODOVfSLgcCQzG91PSvIVbALvW_yg1FY2p68fAGKTsN6HPujGDBcEboB-LsYIdUEQCqtBTiJe9-RGqIzmXK6sqsykMhdM",
-            "width": 2048
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111560857838635319075\">Vijay Wankhede</a>"
-            ],
-            "photo_reference": "ATtYBwIqyRl9KaKiEy7ivOMCyO3_bY5yvuuJLq57FqaCsB22Y6iumTP1ZuxTM1qmbTJdGH086ThvT0aY4kEUH38wmwQ_5V2SEacDUolBVoh_qra7LjaVN3AI7ORmPWCliaEKbajNhTpuvdshflNsoVbxvcMZ85sQ5qDnzngg7j7nJVVs5gCv",
-            "width": 3264
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111560857838635319075\">Vijay Wankhede</a>"
-            ],
-            "photo_reference": "ATtYBwKzFtUBSbu4WrnozeDHjjNvtpyAPRHNsEYd4HTfaGlX30neTos9C2ZjhA3vH5dFbOCcC74JO2Ag4rizoi4rJOe4PjG3gbzJ8I_REweJGhPws07gH3976CAwvDoav1RoIAPJx4aXnOEDryGHSRtJcFYgU_2THRUVUYhZrMeNCjKP_nS1",
-            "width": 2448
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111560857838635319075\">Vijay Wankhede</a>"
-            ],
-            "photo_reference": "ATtYBwIJE4EU_jCfS8tJuI4xgPhAC50dxn2UE0qULERY6yKhkuLg1g8d6u0GJYa-B0VQ05keCJqe3GSHHeZ9tH2qJyuhmfRiK0mr8aN8xWravOG9y2wIwrAYxrx8M8boxRq7hp1FJjyt6mJ-sVSG1jqSicdJuyV2VW44l9ll2fNhR_nHvisL",
-            "width": 3264
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111560857838635319075\">Vijay Wankhede</a>"
-            ],
-            "photo_reference": "ATtYBwI2b4q5lKDzaspZSDSqhTyXpiPxnpR3kr08fIggSY7_CzCExA7XRSjAby6Z2bok8G4JGjz0N3UBmJaCKh64iS9u9jqVMS5kATbYN1M-U4MBRUTVyBydNSyy73teGjCWKJ05oW96cpGtUasQt1pyXqVLsQMbDHJR2lwLOw-JVPW91xQD",
-            "width": 2448
-          }
-        ],
-        "place_id": "ChIJWea3RUfH1DsRXN_wBSy8iy8",
-        "url": "https://maps.google.com/?cid=3426038838809648988",
-        "website": "http://www.myvihara.com/places/ngp/nagbodhi-prabuddha-buddha-vihar-nagpur/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Nagbodhi Prabuddha Buddha Vihar",
+      "location": {
+        "lat": 21.14644,
+        "lng": 79.1257138
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "J-98, Chapru Nagar, Shashtri Nagar, Nagpur, Maharashtra 440008, India",
+      "website": "http://www.myvihara.com/places/ngp/nagbodhi-prabuddha-buddha-vihar-nagpur/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKI0Ygi13nnW3MIyWfPWe0_nqNpQDYfqcAn1CdfYAVHk48-rU4mO246-dE1npcnPAXYsG_MGNTmUwlGQAl5gEz6RRK4EZlCIIFRhPZtkA2lQ1QN4-j2U4gt_OI48_zKP3l5LYWFA26b_egGeNp0YF7GzW8VMDbyYMnsaeSNLJ1Bi_Dm",
+        "ATtYBwLxgRZ8qEvBtimwDW2kpSsgn0FYABTX20qoA26kt1eDQ3Qg5LgQxB096KFu97akR32Gpq85BgAqWKx9V8nwwAyrrNiFrHpu0rtyupEIrqNDmdZAcmoEVJUvbI_7biZaSzaIi2RP1woovHXcKdw2pdysBdhJ6l-RspawKJfhr2DDtrA5",
+        "ATtYBwLGPwUXILMfa8b8Tg2npApN6USEndOxpTHrRBmwoJ1UabRBxzfpXG50VrGBUapjnwnGh1RSUuEZqjfhcnWBtJhfbohUcKW67nW0V6n3nfpMPtqHwRTCmBD7JxSRfNdan-x-2Q_YVGi9QfjHDAQV8Dw_VE5dWl1WN4bi9h-xJeK2XZJM",
+        "ATtYBwLj0yQ-M2JOV86xd32Q9TZr-6W88_RsM6LGp0AN2Mu6sPDrGc_y36XzCvELV60u-JqB0nMKTnA_3dl_SqWGJkvTYm4WREJ1f-EbIpdXP1jp7ent_NolyeAYwYJ7jWdFDGD_b0HN5a8QweFayC-y3qLu5MkpN4TGHg-njcgamUI95er1",
+        "ATtYBwIE4-jnqYfaWSg1jbcBML4bHffGaKO1VTvCd--ETxcen9EZgsU4pu3q1HqGuX0-iur8z0U3HvXAZ0a_Z6NgkdExQHn3kcDFj3thJNVDNw54zL2tqIGdAdwc5l9bTHiBFp5qMXB9jo6fQlzT898qp427IBAc1HnPbXJiSeH50a5c1Smd",
+        "ATtYBwKVjX1VNT5bQ3bvfEWFrpfzH_7IC7VyVh8V9muUITDX_ubk_2SKwkaEzQq9M20MDxbeR9VFdjB9_FAZpzEXODOVfSLgcCQzG91PSvIVbALvW_yg1FY2p68fAGKTsN6HPujGDBcEboB-LsYIdUEQCqtBTiJe9-RGqIzmXK6sqsykMhdM",
+        "ATtYBwIqyRl9KaKiEy7ivOMCyO3_bY5yvuuJLq57FqaCsB22Y6iumTP1ZuxTM1qmbTJdGH086ThvT0aY4kEUH38wmwQ_5V2SEacDUolBVoh_qra7LjaVN3AI7ORmPWCliaEKbajNhTpuvdshflNsoVbxvcMZ85sQ5qDnzngg7j7nJVVs5gCv",
+        "ATtYBwKzFtUBSbu4WrnozeDHjjNvtpyAPRHNsEYd4HTfaGlX30neTos9C2ZjhA3vH5dFbOCcC74JO2Ag4rizoi4rJOe4PjG3gbzJ8I_REweJGhPws07gH3976CAwvDoav1RoIAPJx4aXnOEDryGHSRtJcFYgU_2THRUVUYhZrMeNCjKP_nS1",
+        "ATtYBwIJE4EU_jCfS8tJuI4xgPhAC50dxn2UE0qULERY6yKhkuLg1g8d6u0GJYa-B0VQ05keCJqe3GSHHeZ9tH2qJyuhmfRiK0mr8aN8xWravOG9y2wIwrAYxrx8M8boxRq7hp1FJjyt6mJ-sVSG1jqSicdJuyV2VW44l9ll2fNhR_nHvisL",
+        "ATtYBwI2b4q5lKDzaspZSDSqhTyXpiPxnpR3kr08fIggSY7_CzCExA7XRSjAby6Z2bok8G4JGjz0N3UBmJaCKh64iS9u9jqVMS5kATbYN1M-U4MBRUTVyBydNSyy73teGjCWKJ05oW96cpGtUasQt1pyXqVLsQMbDHJR2lwLOw-JVPW91xQD"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJWea3RUfH1DsRXN_wBSy8iy8",
+      "google_maps_url": "https://maps.google.com/?cid=3426038838809648988",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kolar Rd, Chuna Bhatti, Bhopal, Madhya Pradesh 462007, India",
-        "geometry": {
-          "location": {
-            "lat": 23.2128621,
-            "lng": 77.4184147
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 23.2142429302915,
-              "lng": 77.4196580802915
-            },
-            "southwest": {
-              "lat": 23.21154496970849,
-              "lng": 77.41696011970849
-            }
-          }
-        },
-        "international_phone_number": "+91 755 242 4724",
-        "name": "Golden Buddha Statue",
-        "photos": [
-          {
-            "height": 1837,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112641938204707148901\">Vikki Meshram</a>"
-            ],
-            "photo_reference": "ATtYBwLJvKlTuL0PAsfc97SAzYhnFKths9boQ5lTk4oZosJRWRuNpCBv2vOHegPMfvr1NBZEdvi3Lw-Pw_CbPsqQBvcMTZrea3cnyx4OAQu57AuduglHESophfvUEHPWkl2OfR1_vKimlqTwj7d6Pbl2Uu_aUd9lGOVwn2eqxaGZ0zAWOVvm",
-            "width": 1827
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116324653408786355720\">DHAMMADOOT- Messenger of buddha</a>"
-            ],
-            "photo_reference": "ATtYBwIZ1p81QtojjFaLWLa5z-Of9MFe862naskWy3dPN4fTtXIlAVQ0IPwLiZG--mXq5sjgUFSXQuv5RU-gGjbr1bYhmYkPbMtP_RQwvibq0hc0BfLm6h2C99PJQViqjMIo54ADjFC73VHv35gFaxfA_f4TvK6DCL4ty4UH4hJXXnnt3NRW",
-            "width": 4608
-          },
-          {
-            "height": 1628,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103973524423266271896\">Prasad Kothari</a>"
-            ],
-            "photo_reference": "ATtYBwJs0jU4xc2CM1mjDdAcKxFHufLrZsjaZMxm_d2uB0ReMtfs4vggpDkAA8cruGNw3iRTSsenDPqlsyNUNiE8P_sDGi8X-zgO_VQOyf1q9U0PdXGzkW27a3Ac1zf48zVZurdh4futKuNgnNZTxwDsysDFK4kVJllCxAvB2KIk48-2QS8L",
-            "width": 1275
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112884763768684950665\">Manmohan Raja</a>"
-            ],
-            "photo_reference": "ATtYBwIyd3btPpdPAb2-vd-yEfoQNZarJPcX2aIRiZK_HIvbzltMksbRjnbBJGUh6nvGoSqWiqy0aIwyFydnPH1gLdV2wEsWoHAJXLHOxtzz2szJg8mHSWSS1_Kk6wZy-L6ZcffOnesYTPLPDaAUgJxhA4iL9xkdi-GeajMiKudJaG6Ky37H",
-            "width": 3120
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116324653408786355720\">DHAMMADOOT- Messenger of buddha</a>"
-            ],
-            "photo_reference": "ATtYBwIPTjMJVD-6OSuHicJC2DAMIwD2_WlVeMsxrt6_qOVLfc0K8kqzh4Gntj60vmhISRY3PVwI46Zw0Dlx9HX75Qlg-Kns7pwy9V84NJmeySJ8GoECZjAG4ShJlj6f99bgptbuC1ZatsR84x-E5v52duSzHnG1QY12nTD4Q4d331P-it5z",
-            "width": 4608
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116324653408786355720\">DHAMMADOOT- Messenger of buddha</a>"
-            ],
-            "photo_reference": "ATtYBwJyrqk0p1VcaO_4t6Von4tmVqNBbCaFpTfrvvCBjWO7SaDmoP86_UeZUXKWWE3Y6hL3kX4waM7Hnk6qxc9tQUzGTPe9RAd54s_Hw3Sn_yr4gmM617-Y67vAxysXPqz1MCBOwW3qP8bTVCuoTTYn10cLQZqTOPDyOqcLCwVHQTvUeeBR",
-            "width": 4608
-          },
-          {
-            "height": 2250,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101655959911285108131\">Aasif Khan</a>"
-            ],
-            "photo_reference": "ATtYBwLjlvbUDoVK92y-_uC4arUl3A1a94KO25VGM6y80PStb2jMZ4k2YyU2NAgULz_Nt9ROyDT7hwQn2-j-D14WDhPMddIC7rADZtQC1HxppxQu7O73Os6HDe2U7c016aZpp5lKz72Cm3mBh-llsuNJwp24wHkvpvyvxwtaBqOegtwP8gNM",
-            "width": 4000
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112884763768684950665\">Manmohan Raja</a>"
-            ],
-            "photo_reference": "ATtYBwLTWHUq5qjspdwx3kgEuNilhiKrqZH0ZhK4nnNCvwzKM4DvB372mUNupGwpR2gILIAftX-pfLsIYXm_LUmfC7JKAYTXnHrWsvPucL1GiMQ1gW-v_kOPnukFuZ6fXIG3A2hfEkulV1Hdrq8RPyzS777FX-ivwgBsEvxrYEN2ssGA7qWB",
-            "width": 4160
-          },
-          {
-            "height": 2610,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101431325439786707424\">sarvoday deepak</a>"
-            ],
-            "photo_reference": "ATtYBwIvnZ3oAfgXzC6G4wjutkmt2wnq_oljwVThMoQHGruuSmz7saf7DBBCq2MwzJ8j3qdr_rroF3HQboAA1Y2j5cYsIofBsMpLwPcEJe0SnxqQhWXgNh_sP7cCfwKccPu43jgStuFvcoArZEl-OU8evLpv4HHmmumP1g9IXDsEuzYEqmHE",
-            "width": 4640
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116324653408786355720\">DHAMMADOOT- Messenger of buddha</a>"
-            ],
-            "photo_reference": "ATtYBwJ6GOv_Xhv1hYSvI2Q8qmj5_iuIaMMUjZa6dggHnluMxtIlDk864Mefugmcd7SMHV_NGI8Bfmz7D2sPlAiLjpeRoXHzNlcdUt3TNdt4LZ6S-1wmPidyVqZrPUqJLYgw7zFP-fsOi0628NC_uddxV6X_4hwLVL4NTssWacxTyDad9jws",
-            "width": 4608
-          }
-        ],
-        "place_id": "ChIJX6daAPxCfDkR-7GQZMm3qL0",
-        "url": "https://maps.google.com/?cid=13666375144859283963",
-        "website": "http://www.buddhadoot.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Golden Buddha Statue",
+      "location": {
+        "lat": 23.2128621,
+        "lng": 77.4184147
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Kolar Rd, Chuna Bhatti, Bhopal, Madhya Pradesh 462007, India",
+      "phone": "+91 755 242 4724",
+      "website": "http://www.buddhadoot.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLJvKlTuL0PAsfc97SAzYhnFKths9boQ5lTk4oZosJRWRuNpCBv2vOHegPMfvr1NBZEdvi3Lw-Pw_CbPsqQBvcMTZrea3cnyx4OAQu57AuduglHESophfvUEHPWkl2OfR1_vKimlqTwj7d6Pbl2Uu_aUd9lGOVwn2eqxaGZ0zAWOVvm",
+        "ATtYBwIZ1p81QtojjFaLWLa5z-Of9MFe862naskWy3dPN4fTtXIlAVQ0IPwLiZG--mXq5sjgUFSXQuv5RU-gGjbr1bYhmYkPbMtP_RQwvibq0hc0BfLm6h2C99PJQViqjMIo54ADjFC73VHv35gFaxfA_f4TvK6DCL4ty4UH4hJXXnnt3NRW",
+        "ATtYBwJs0jU4xc2CM1mjDdAcKxFHufLrZsjaZMxm_d2uB0ReMtfs4vggpDkAA8cruGNw3iRTSsenDPqlsyNUNiE8P_sDGi8X-zgO_VQOyf1q9U0PdXGzkW27a3Ac1zf48zVZurdh4futKuNgnNZTxwDsysDFK4kVJllCxAvB2KIk48-2QS8L",
+        "ATtYBwIyd3btPpdPAb2-vd-yEfoQNZarJPcX2aIRiZK_HIvbzltMksbRjnbBJGUh6nvGoSqWiqy0aIwyFydnPH1gLdV2wEsWoHAJXLHOxtzz2szJg8mHSWSS1_Kk6wZy-L6ZcffOnesYTPLPDaAUgJxhA4iL9xkdi-GeajMiKudJaG6Ky37H",
+        "ATtYBwIPTjMJVD-6OSuHicJC2DAMIwD2_WlVeMsxrt6_qOVLfc0K8kqzh4Gntj60vmhISRY3PVwI46Zw0Dlx9HX75Qlg-Kns7pwy9V84NJmeySJ8GoECZjAG4ShJlj6f99bgptbuC1ZatsR84x-E5v52duSzHnG1QY12nTD4Q4d331P-it5z",
+        "ATtYBwJyrqk0p1VcaO_4t6Von4tmVqNBbCaFpTfrvvCBjWO7SaDmoP86_UeZUXKWWE3Y6hL3kX4waM7Hnk6qxc9tQUzGTPe9RAd54s_Hw3Sn_yr4gmM617-Y67vAxysXPqz1MCBOwW3qP8bTVCuoTTYn10cLQZqTOPDyOqcLCwVHQTvUeeBR",
+        "ATtYBwLjlvbUDoVK92y-_uC4arUl3A1a94KO25VGM6y80PStb2jMZ4k2YyU2NAgULz_Nt9ROyDT7hwQn2-j-D14WDhPMddIC7rADZtQC1HxppxQu7O73Os6HDe2U7c016aZpp5lKz72Cm3mBh-llsuNJwp24wHkvpvyvxwtaBqOegtwP8gNM",
+        "ATtYBwLTWHUq5qjspdwx3kgEuNilhiKrqZH0ZhK4nnNCvwzKM4DvB372mUNupGwpR2gILIAftX-pfLsIYXm_LUmfC7JKAYTXnHrWsvPucL1GiMQ1gW-v_kOPnukFuZ6fXIG3A2hfEkulV1Hdrq8RPyzS777FX-ivwgBsEvxrYEN2ssGA7qWB",
+        "ATtYBwIvnZ3oAfgXzC6G4wjutkmt2wnq_oljwVThMoQHGruuSmz7saf7DBBCq2MwzJ8j3qdr_rroF3HQboAA1Y2j5cYsIofBsMpLwPcEJe0SnxqQhWXgNh_sP7cCfwKccPu43jgStuFvcoArZEl-OU8evLpv4HHmmumP1g9IXDsEuzYEqmHE",
+        "ATtYBwJ6GOv_Xhv1hYSvI2Q8qmj5_iuIaMMUjZa6dggHnluMxtIlDk864Mefugmcd7SMHV_NGI8Bfmz7D2sPlAiLjpeRoXHzNlcdUt3TNdt4LZ6S-1wmPidyVqZrPUqJLYgw7zFP-fsOi0628NC_uddxV6X_4hwLVL4NTssWacxTyDad9jws"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJX6daAPxCfDkR-7GQZMm3qL0",
+      "google_maps_url": "https://maps.google.com/?cid=13666375144859283963",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "ATAM DARSHAN BHAWAN VITHABAI NAGAR, Pusad, Maharashtra 445204, India",
-        "geometry": {
-          "location": {
-            "lat": 19.9141935,
-            "lng": 77.5639131
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 19.9154973802915,
-              "lng": 77.56521548029151
-            },
-            "southwest": {
-              "lat": 19.9127994197085,
-              "lng": 77.5625175197085
-            }
-          }
-        },
-        "international_phone_number": "+91 95457 47702",
-        "name": "Brahma Kumaris Pusad Vithabai Nagar",
-        "photos": [
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114148108001325690706\">B D RATHOD</a>"
-            ],
-            "photo_reference": "ATtYBwLN8h3tvEtVSqbJsi4yecEHsrMYRMfZBaFhaMRWfyzvdsBeAt2GgVJlrHKVJenzV5WhWcYsFJ3v-zTzFjAru3dyJX24eOeQGsOc_AZkVGlBHTvZ1ZfR3_Q-NCVW6xsodC0KtTFihxSCwGoQxxOK1gA74Rv77vlVY1ScLRZpP6BCFWZP",
-            "width": 1920
-          }
-        ],
-        "place_id": "ChIJtQQ0Tax10TsRClv_zjXyMm4",
-        "url": "https://maps.google.com/?cid=7940675405927635722",
-        "website": "http://brahmakumaris.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Brahma Kumaris Pusad Vithabai Nagar",
+      "location": {
+        "lat": 19.9141935,
+        "lng": 77.5639131
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "ATAM DARSHAN BHAWAN VITHABAI NAGAR, Pusad, Maharashtra 445204, India",
+      "phone": "+91 95457 47702",
+      "website": "http://brahmakumaris.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLN8h3tvEtVSqbJsi4yecEHsrMYRMfZBaFhaMRWfyzvdsBeAt2GgVJlrHKVJenzV5WhWcYsFJ3v-zTzFjAru3dyJX24eOeQGsOc_AZkVGlBHTvZ1ZfR3_Q-NCVW6xsodC0KtTFihxSCwGoQxxOK1gA74Rv77vlVY1ScLRZpP6BCFWZP"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJtQQ0Tax10TsRClv_zjXyMm4",
+      "google_maps_url": "https://maps.google.com/?cid=7940675405927635722",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "GANDEWAR BUILDING, IST FLOOR JANKILAL RATHI CHOWK MAIN ROAD, Hadgaon, Maharashtra 431712, India",
-        "geometry": {
-          "location": {
-            "lat": 19.4998356,
-            "lng": 77.65831159999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 19.5010854302915,
-              "lng": 77.65961633029151
-            },
-            "southwest": {
-              "lat": 19.4983874697085,
-              "lng": 77.65691836970849
-            }
-          }
-        },
-        "international_phone_number": "+91 81808 21578",
-        "name": "Brahma Kumaris Hadgaon",
-        "place_id": "ChIJi_8rITnt0TsRkVMYJaNcRXk",
-        "url": "https://maps.google.com/?cid=8738492507754091409",
-        "website": "http://brahmakumaris.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Brahma Kumaris Hadgaon",
+      "location": {
+        "lat": 19.4998356,
+        "lng": 77.65831159999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "GANDEWAR BUILDING, IST FLOOR JANKILAL RATHI CHOWK MAIN ROAD, Hadgaon, Maharashtra 431712, India",
+      "phone": "+91 81808 21578",
+      "website": "http://brahmakumaris.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJi_8rITnt0TsRkVMYJaNcRXk",
+      "google_maps_url": "https://maps.google.com/?cid=8738492507754091409",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Yavatmal, Maharashtra 445105, India",
-        "geometry": {
-          "location": {
-            "lat": 20.2681696,
-            "lng": 78.0462534
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 20.2695784802915,
-              "lng": 78.04717183029152
-            },
-            "southwest": {
-              "lat": 20.2668805197085,
-              "lng": 78.0444738697085
-            }
-          }
-        },
-        "international_phone_number": "+91 99224 56955",
-        "name": "Jetwan Monestry",
-        "photos": [
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117285222711657898311\">Rahul Raut</a>"
-            ],
-            "photo_reference": "ATtYBwIAxVG-gi58gcpfOLXzKU4_2ZmqKeWTH-bg0Armv9273MhWIELDqLH6Y7vvKX8W4JecgmIQVeeEgLATs21itwe_qo-vom_GtZDahlUwN9MeDJNjR2ppJYDuiAPYRiu8MCm9C5TF9UVuV8KTflQpHAVj07fS6sp2cUubE3N1luUyRyPP",
-            "width": 4427
-          },
-          {
-            "height": 3113,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117285222711657898311\">Rahul Raut</a>"
-            ],
-            "photo_reference": "ATtYBwIN6IFHDsMxiMnPiRBsBxXdAf2X-xVfbYBriOw3IDF6wTkXm_XY5boRzxtq8v_UkbPrsplqr6UbuGQk9TWA-xEDsXZ7KWII82oC1vEjxmd5dU883uLlaqNHncNy3XBCn4ATIqufZUy3v4guJ7BTfimCToW8GgudL15QoeFqRb9DgtXP",
-            "width": 4169
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117285222711657898311\">Rahul Raut</a>"
-            ],
-            "photo_reference": "ATtYBwLvHHjmOa8elQUQ2J_eniNPH3Al1gr4hadDakNlXHw9qMhEOSqpvw4tgCn3pOOK64ugps8-yCoZWRfI2STYc-0CWsW0rM00iZKKLEQ85H9i6WbHdnxU_BUo_aTh-z-P-xM1JfCmZFqS_vyxJZh57Ch4GFYkePogP74wXGoE5PwDSzjB",
-            "width": 2994
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113581070222503874501\">sachin sonwane</a>"
-            ],
-            "photo_reference": "ATtYBwImjJ8-moYy2SiVm8nYysECr3ApSjARrZ020Jc_KzWWx-oF5JY4NHG31yVklBSnqvj9mpnbd8Jcq-UqtzWyyHVjvWl2SV7K_yGeboJNIgqkylXJYPa9pDrR0P6p4C5r3yOl1TrQHvCF6yy26mRL--WEtjfO0o_BUwO59Tk3Z2wGDBCz",
-            "width": 4608
-          },
-          {
-            "height": 1931,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117285222711657898311\">Rahul Raut</a>"
-            ],
-            "photo_reference": "ATtYBwJeBczl_L7-O0o8Iq5HDrpWgfr1dOIcXNVrzrO-ROL9wrcRoDZNb_dSY9sAbLI9p-b1CE-3cxE-8xdk5nIb1ePiBjkWAIbWsgdTAQyY6gSbgXFX5oqw7aFlU7Nh-Yt_9TRLM-CuIuZv3734BWN9AD0X2G-s2F3k3fManLqhP64xk8m0",
-            "width": 2584
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113581070222503874501\">sachin sonwane</a>"
-            ],
-            "photo_reference": "ATtYBwLgF9ta2PAgsXFpKJys6u3GXuwJigru0AzdyJQngG4YlKLF5L6vjdCbjIjSDRWpZJSIpE2Svl7fjm0JSUBrGB792OWx_uSByT0Avsm8BkFyibZAOmLWEEmGCjKq1DOGUDQnq_N54BYRScquwwKF1UmOfwHTvag8wJb9yWANle1HecKI",
-            "width": 4608
-          },
-          {
-            "height": 1152,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101642524219675309207\">SuhaS</a>"
-            ],
-            "photo_reference": "ATtYBwKPnNohpCLB7UZEGiK755vVjSY1snYiiY7uMOym74cdCbgDee2H3be6vwNbsmpnYZgV-oQKT3biFWxtvu9pNjsK54W8f6cj7CXr_cr8dQHiWHMHt9qP471kQe1PiJ_cWegjlgntInn607WhlgSebE1KNGLbBNcIDmD4jmeRk14LR1J1",
-            "width": 864
-          },
-          {
-            "height": 1152,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101642524219675309207\">SuhaS</a>"
-            ],
-            "photo_reference": "ATtYBwLtRgO9xBmXUbBZVhvcz1Obgp5m6bEgXNY3w_QjW1CI3yeXMUi1Elzlr201m9Px56F3F7mSBfd1JcD8_cMqAOi0rGszVhjg4GQD-rWvx0jr1pIUvY3kor2N5PCZFahV6i-qr36n78adoLqIqa77sxm6NkBke6wQGpjAwip3ET6qkV46",
-            "width": 864
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101902689153117360158\">Sanjog Bahade</a>"
-            ],
-            "photo_reference": "ATtYBwK-6JWJgACzJ8QfLHH5t3SJNCmTXQyc1P4P9RQ-utRU3QpYLewM8GimybwyEM_9BUWa-qVyozYUJ7EMdytfeWWvdnNkJMCr6KkUPxJjejKQL6nBdsFJHRxhZp_gzDkxfc6m--KcXRxdt-uxY9OiwUuSn1hevJgojIXrcXLXXjHNaqrm",
-            "width": 720
-          },
-          {
-            "height": 864,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101642524219675309207\">SuhaS</a>"
-            ],
-            "photo_reference": "ATtYBwLl7NHOas8GkRRsI8M7afuJreInwnOtAddwuGN8aGMvUthhXsxbcCf1JkG5Zcor2Ie-eiN2zwl5u3DCXtYsz93H_86qVDuemlnt412l2C9iTeNARQSQp87aX31fG9aja6ygQvyCz8XZOZjJpEZu7zaHuHaW8iXO8xoKJyWQFz4GT5JZ",
-            "width": 1152
-          }
-        ],
-        "place_id": "ChIJtWFbCbnd0zsRny3h7lbleyE",
-        "url": "https://maps.google.com/?cid=2412774186924715423",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Jetwan Monestry",
+      "location": {
+        "lat": 20.2681696,
+        "lng": 78.0462534
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Yavatmal, Maharashtra 445105, India",
+      "phone": "+91 99224 56955",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIAxVG-gi58gcpfOLXzKU4_2ZmqKeWTH-bg0Armv9273MhWIELDqLH6Y7vvKX8W4JecgmIQVeeEgLATs21itwe_qo-vom_GtZDahlUwN9MeDJNjR2ppJYDuiAPYRiu8MCm9C5TF9UVuV8KTflQpHAVj07fS6sp2cUubE3N1luUyRyPP",
+        "ATtYBwIN6IFHDsMxiMnPiRBsBxXdAf2X-xVfbYBriOw3IDF6wTkXm_XY5boRzxtq8v_UkbPrsplqr6UbuGQk9TWA-xEDsXZ7KWII82oC1vEjxmd5dU883uLlaqNHncNy3XBCn4ATIqufZUy3v4guJ7BTfimCToW8GgudL15QoeFqRb9DgtXP",
+        "ATtYBwLvHHjmOa8elQUQ2J_eniNPH3Al1gr4hadDakNlXHw9qMhEOSqpvw4tgCn3pOOK64ugps8-yCoZWRfI2STYc-0CWsW0rM00iZKKLEQ85H9i6WbHdnxU_BUo_aTh-z-P-xM1JfCmZFqS_vyxJZh57Ch4GFYkePogP74wXGoE5PwDSzjB",
+        "ATtYBwImjJ8-moYy2SiVm8nYysECr3ApSjARrZ020Jc_KzWWx-oF5JY4NHG31yVklBSnqvj9mpnbd8Jcq-UqtzWyyHVjvWl2SV7K_yGeboJNIgqkylXJYPa9pDrR0P6p4C5r3yOl1TrQHvCF6yy26mRL--WEtjfO0o_BUwO59Tk3Z2wGDBCz",
+        "ATtYBwJeBczl_L7-O0o8Iq5HDrpWgfr1dOIcXNVrzrO-ROL9wrcRoDZNb_dSY9sAbLI9p-b1CE-3cxE-8xdk5nIb1ePiBjkWAIbWsgdTAQyY6gSbgXFX5oqw7aFlU7Nh-Yt_9TRLM-CuIuZv3734BWN9AD0X2G-s2F3k3fManLqhP64xk8m0",
+        "ATtYBwLgF9ta2PAgsXFpKJys6u3GXuwJigru0AzdyJQngG4YlKLF5L6vjdCbjIjSDRWpZJSIpE2Svl7fjm0JSUBrGB792OWx_uSByT0Avsm8BkFyibZAOmLWEEmGCjKq1DOGUDQnq_N54BYRScquwwKF1UmOfwHTvag8wJb9yWANle1HecKI",
+        "ATtYBwKPnNohpCLB7UZEGiK755vVjSY1snYiiY7uMOym74cdCbgDee2H3be6vwNbsmpnYZgV-oQKT3biFWxtvu9pNjsK54W8f6cj7CXr_cr8dQHiWHMHt9qP471kQe1PiJ_cWegjlgntInn607WhlgSebE1KNGLbBNcIDmD4jmeRk14LR1J1",
+        "ATtYBwLtRgO9xBmXUbBZVhvcz1Obgp5m6bEgXNY3w_QjW1CI3yeXMUi1Elzlr201m9Px56F3F7mSBfd1JcD8_cMqAOi0rGszVhjg4GQD-rWvx0jr1pIUvY3kor2N5PCZFahV6i-qr36n78adoLqIqa77sxm6NkBke6wQGpjAwip3ET6qkV46",
+        "ATtYBwK-6JWJgACzJ8QfLHH5t3SJNCmTXQyc1P4P9RQ-utRU3QpYLewM8GimybwyEM_9BUWa-qVyozYUJ7EMdytfeWWvdnNkJMCr6KkUPxJjejKQL6nBdsFJHRxhZp_gzDkxfc6m--KcXRxdt-uxY9OiwUuSn1hevJgojIXrcXLXXjHNaqrm",
+        "ATtYBwLl7NHOas8GkRRsI8M7afuJreInwnOtAddwuGN8aGMvUthhXsxbcCf1JkG5Zcor2Ie-eiN2zwl5u3DCXtYsz93H_86qVDuemlnt412l2C9iTeNARQSQp87aX31fG9aja6ygQvyCz8XZOZjJpEZu7zaHuHaW8iXO8xoKJyWQFz4GT5JZ"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJtWFbCbnd0zsRny3h7lbleyE",
+      "google_maps_url": "https://maps.google.com/?cid=2412774186924715423",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "GYAN KIRAN BHAVAN, Vivekanand Colony, Nathnagar, Umarkhed, Maharashtra 445206, India",
-        "geometry": {
-          "location": {
-            "lat": 19.60400169999999,
-            "lng": 77.6910071
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 19.6053461802915,
-              "lng": 77.69235588029152
-            },
-            "southwest": {
-              "lat": 19.6026482197085,
-              "lng": 77.6896579197085
-            }
-          }
-        },
-        "name": "Brahma Kumaris Umarkhed",
-        "place_id": "ChIJLWmlbKGT0TsR9-ZoXJ8X0MM",
-        "url": "https://maps.google.com/?cid=14109803605769381623",
-        "website": "http://brahmakumaris.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Brahma Kumaris Umarkhed",
+      "location": {
+        "lat": 19.60400169999999,
+        "lng": 77.6910071
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "GYAN KIRAN BHAVAN, Vivekanand Colony, Nathnagar, Umarkhed, Maharashtra 445206, India",
+      "website": "http://brahmakumaris.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJLWmlbKGT0TsR9-ZoXJ8X0MM",
+      "google_maps_url": "https://maps.google.com/?cid=14109803605769381623",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

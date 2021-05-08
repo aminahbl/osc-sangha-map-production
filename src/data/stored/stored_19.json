@@ -1,2215 +1,823 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Fish Lake, Florida 32736, USA",
-        "geometry": {
-          "location": {
-            "lat": 28.9212427,
-            "lng": -81.4254946
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.92276275093113,
-              "lng": -81.42193376770467
-            },
-            "southwest": {
-              "lat": 28.91939575802314,
-              "lng": -81.42916968674714
-            }
-          }
-        },
-        "name": "Fish Lake",
-        "place_id": "ChIJA1vMAy0P54gRdZtbvc1HQK0",
-        "url": "https://maps.google.com/?q=Fish+Lake&ftid=0x88e70f2d03cc5b03:0xad4047cdbd5b9b75",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Fish Lake",
+      "location": {
+        "lat": 28.9212427,
+        "lng": -81.4254946
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Fish Lake, Florida 32736, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA1vMAy0P54gRdZtbvc1HQK0",
+      "google_maps_url": "https://maps.google.com/?q=Fish+Lake&ftid=0x88e70f2d03cc5b03:0xad4047cdbd5b9b75",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "116 S Clara Ave, DeLand, FL 32720, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.0273832,
-            "lng": -81.3078298
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.02873578029149,
-              "lng": -81.30632956970848
-            },
-            "southwest": {
-              "lat": 29.0260378197085,
-              "lng": -81.30902753029149
-            }
-          }
-        },
-        "international_phone_number": "+1 386-738-3715",
-        "name": "Volusia Buddhist Fellowship",
-        "place_id": "ChIJJRQoFm4b54gRLmgg8hTOsZI",
-        "url": "https://maps.google.com/?cid=10570456389772142638",
-        "website": "http://www.volusiabuddhist.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Volusia Buddhist Fellowship",
+      "location": {
+        "lat": 29.0273832,
+        "lng": -81.3078298
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "116 S Clara Ave, DeLand, FL 32720, USA",
+      "phone": "+1 386-738-3715",
+      "website": "http://www.volusiabuddhist.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJJRQoFm4b54gRLmgg8hTOsZI",
+      "google_maps_url": "https://maps.google.com/?cid=10570456389772142638",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1180 Seven Seas Drive, Lake Buena Vista, FL 32836, USA",
-        "geometry": {
-          "location": {
-            "lat": 28.417663,
-            "lng": -81.581212
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.42761735,
-              "lng": -81.5713933
-            },
-            "southwest": {
-              "lat": 28.38779994999999,
-              "lng": -81.58448489999999
-            }
-          }
-        },
-        "international_phone_number": "+1 407-939-5277",
-        "name": "Magic Kingdom Park",
-        "photos": [
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104965949914698657897\">Rickey James</a>"
-            ],
-            "photo_reference": "ATtYBwIBOMLUzk0H9DQgUyFRL9NeDQCRVkktV3ccrWDu6yqU9A-SMOFujFjf6bpBeyfRUn9ggu8vJpo2XV6OecqdAD0LjHoqzltdYFrolG3NPFu0EANuLBQRCOPWwxn0ADD4wOecuzUGVHpGzQdDUWAkTReRwX2K734gzE5Oh76yzVIVATU",
-            "width": 3456
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111069266755201258266\">Hector Murillo</a>"
-            ],
-            "photo_reference": "ATtYBwIatBKoZbyT40451oJGX9F3w4Lrp6SA8Eb2msR7KfOue0Jjg1cfbEJcQO-81AQbDn_9YN0obi4DQf3Kb3SCYOD4b2WdYbAyor6ZYcB5LUReKOXE96WoYElFesxbuHM76O5Ai0B2AURgvfWAVuy8bJpV3imSBCMEgkIQV-c90X9iQzBT",
-            "width": 1920
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103714960145069846888\">Mike Rampy</a>"
-            ],
-            "photo_reference": "ATtYBwLWvW8MHc6729p3wUJACgjktnSffILyZsTQiEpQM2AsayTuSYYqE4x25twUIKewhAXI5EDXmCk8LCIwxQnBM1GcTOZst07nMpjEFTrX3b7HR-qfEcAlt0_UhAT4oYG7Hy4b8tk9htRtnoXG5qeRHrtdBa-PgM0L83-TdsU9PKPECvr2",
-            "width": 4032
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113979715510205876904\">Mtr. Diego Ricardo Fior - Doctor Cand</a>"
-            ],
-            "photo_reference": "ATtYBwLWxa7TadNRW9aslfWvSRHWfqHZ6S4J2g8Mgj79Dr7nY8cB5b1442As1J-pdm0UYz--SiBdIgEjYmOMv1vBKDKuk7U4ObSd7R8P199WdEBH4y5wofXLYFHoV5HvUFJrbbk0D890Ibc1ognezAg4K4NuJzu-aN1N2uNVzep2IRHxW1PV",
-            "width": 3024
-          },
-          {
-            "height": 600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102718852006624104903\">Juan Galvan</a>"
-            ],
-            "photo_reference": "ATtYBwIoBRbvRfG7AOVz8Ko-MP1G-5mgFUCmgG3aXxaW0Gj1-3fa_wqqB2GYCnVdYCqq24sde1LEbpRxE7ABogHBKC0aY1Eov8kTznLUxoUE--UFhlTiStPUlWYPah553j28lRoHR35ga9n49dVxAIoBpzy0KGRpvKIb-yKvPVoTUe7HUByx",
-            "width": 800
-          },
-          {
-            "height": 3722,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100303116494834348145\">rachna banik</a>"
-            ],
-            "photo_reference": "ATtYBwJNT7mTg_MZuQwK4AYD0ody_kY9WoqjboaisrmQmzj08o6pMzqOeEy1YNSuZdw4zcbYP14GRiJsudrpCS_oTdwiPEX__drsoLVwvvOjZca7bmr_aeLeH4raawMFxSk77IQKhZztGdQ2w1_cn2Wmjtl4m1d4wEnFFBAdDaPRRcHb8ozs",
-            "width": 2977
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105265426292639745949\">Jim Pellerito</a>"
-            ],
-            "photo_reference": "ATtYBwJupps5Lk1IEyeeh7cqP3sMtdZp97olaUAlhsWfL0amcFsQ8OZnaFnmqlY8f4SnpMMuJ8b9hqY37cfNqivLQXAkWm57oMOx_Mqg2TVn2kGPdxCnV4LPegJFon7L6FpOC4oDdh4y1T339cfF3LUvIBXkABT-fyK6-9GeDUROQyyKmuGM",
-            "width": 4608
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111564483569774919718\">Dave Amhof</a>"
-            ],
-            "photo_reference": "ATtYBwI7N3EOdrMe8gKFzq5_qM9h5JyqjSXdOzwZYpakgpSL9Ij_8e1V6J977hF5z33dDkOZK3fAHbcm5OzYsiZZvb9d1KnIMXSx--pkdP2Vv4IfE1Eq3nnCPR08FuY0OnKDzb3wbqSwPKa3eZ5AGvoS-NXU0PJ-T639BHhQIF64Pu0zBGPf",
-            "width": 4032
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109242876963545131781\">Kara Fung</a>"
-            ],
-            "photo_reference": "ATtYBwLB1a7ntbPGhra2QjoTgBWcRfWr6O9_CBaA63OerK4n3rp2_0DQ3H5rARmTRHZaUH_WcChNI2smtgeGnv4hak4Y6nMdGRNc-14s4m0yaSqtIfN8lFRQP0EnGIbk6KgujWBfNyHqc9M8CjqgR3m3nfmK4vNSpMmKBeNYCIarM2SOjbPi",
-            "width": 4608
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110723243250340657130\">Alysson de Miranda Ferreira</a>"
-            ],
-            "photo_reference": "ATtYBwJ8WBpzIrRlJxfks3P1DIOjkLeA7RNKXnDOafxt8ZQAeKyTacc94XJjAKRc_hsqonCoZgipSg2WYduTNsUwLK31muYj9jYyq4N7KsZpkBqiTS1YojEd3MC8jvkuNaArah_byeQCSy30rvJ5TQ78aCpsUmqyqpOS_pqTunsCL_mh_MuR",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJgUulalN-3YgRGoTaWM2LawY",
-        "url": "https://maps.google.com/?cid=462617100810880026",
-        "website": "https://disneyworld.disney.go.com/destinations/magic-kingdom/?CMP=OKC-80007944_GM_WDW_destination_magickingdompark_NA",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Magic Kingdom Park",
+      "location": {
+        "lat": 28.417663,
+        "lng": -81.581212
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "1180 Seven Seas Drive, Lake Buena Vista, FL 32836, USA",
+      "phone": "+1 407-939-5277",
+      "website": "https://disneyworld.disney.go.com/destinations/magic-kingdom/?CMP=OKC-80007944_GM_WDW_destination_magickingdompark_NA",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIBOMLUzk0H9DQgUyFRL9NeDQCRVkktV3ccrWDu6yqU9A-SMOFujFjf6bpBeyfRUn9ggu8vJpo2XV6OecqdAD0LjHoqzltdYFrolG3NPFu0EANuLBQRCOPWwxn0ADD4wOecuzUGVHpGzQdDUWAkTReRwX2K734gzE5Oh76yzVIVATU",
+        "ATtYBwIatBKoZbyT40451oJGX9F3w4Lrp6SA8Eb2msR7KfOue0Jjg1cfbEJcQO-81AQbDn_9YN0obi4DQf3Kb3SCYOD4b2WdYbAyor6ZYcB5LUReKOXE96WoYElFesxbuHM76O5Ai0B2AURgvfWAVuy8bJpV3imSBCMEgkIQV-c90X9iQzBT",
+        "ATtYBwLWvW8MHc6729p3wUJACgjktnSffILyZsTQiEpQM2AsayTuSYYqE4x25twUIKewhAXI5EDXmCk8LCIwxQnBM1GcTOZst07nMpjEFTrX3b7HR-qfEcAlt0_UhAT4oYG7Hy4b8tk9htRtnoXG5qeRHrtdBa-PgM0L83-TdsU9PKPECvr2",
+        "ATtYBwLWxa7TadNRW9aslfWvSRHWfqHZ6S4J2g8Mgj79Dr7nY8cB5b1442As1J-pdm0UYz--SiBdIgEjYmOMv1vBKDKuk7U4ObSd7R8P199WdEBH4y5wofXLYFHoV5HvUFJrbbk0D890Ibc1ognezAg4K4NuJzu-aN1N2uNVzep2IRHxW1PV",
+        "ATtYBwIoBRbvRfG7AOVz8Ko-MP1G-5mgFUCmgG3aXxaW0Gj1-3fa_wqqB2GYCnVdYCqq24sde1LEbpRxE7ABogHBKC0aY1Eov8kTznLUxoUE--UFhlTiStPUlWYPah553j28lRoHR35ga9n49dVxAIoBpzy0KGRpvKIb-yKvPVoTUe7HUByx",
+        "ATtYBwJNT7mTg_MZuQwK4AYD0ody_kY9WoqjboaisrmQmzj08o6pMzqOeEy1YNSuZdw4zcbYP14GRiJsudrpCS_oTdwiPEX__drsoLVwvvOjZca7bmr_aeLeH4raawMFxSk77IQKhZztGdQ2w1_cn2Wmjtl4m1d4wEnFFBAdDaPRRcHb8ozs",
+        "ATtYBwJupps5Lk1IEyeeh7cqP3sMtdZp97olaUAlhsWfL0amcFsQ8OZnaFnmqlY8f4SnpMMuJ8b9hqY37cfNqivLQXAkWm57oMOx_Mqg2TVn2kGPdxCnV4LPegJFon7L6FpOC4oDdh4y1T339cfF3LUvIBXkABT-fyK6-9GeDUROQyyKmuGM",
+        "ATtYBwI7N3EOdrMe8gKFzq5_qM9h5JyqjSXdOzwZYpakgpSL9Ij_8e1V6J977hF5z33dDkOZK3fAHbcm5OzYsiZZvb9d1KnIMXSx--pkdP2Vv4IfE1Eq3nnCPR08FuY0OnKDzb3wbqSwPKa3eZ5AGvoS-NXU0PJ-T639BHhQIF64Pu0zBGPf",
+        "ATtYBwLB1a7ntbPGhra2QjoTgBWcRfWr6O9_CBaA63OerK4n3rp2_0DQ3H5rARmTRHZaUH_WcChNI2smtgeGnv4hak4Y6nMdGRNc-14s4m0yaSqtIfN8lFRQP0EnGIbk6KgujWBfNyHqc9M8CjqgR3m3nfmK4vNSpMmKBeNYCIarM2SOjbPi",
+        "ATtYBwJ8WBpzIrRlJxfks3P1DIOjkLeA7RNKXnDOafxt8ZQAeKyTacc94XJjAKRc_hsqonCoZgipSg2WYduTNsUwLK31muYj9jYyq4N7KsZpkBqiTS1YojEd3MC8jvkuNaArah_byeQCSy30rvJ5TQ78aCpsUmqyqpOS_pqTunsCL_mh_MuR"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJgUulalN-3YgRGoTaWM2LawY",
+      "google_maps_url": "https://maps.google.com/?cid=462617100810880026",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "421 17th St NW, Atlanta, GA 30363, USA",
-        "geometry": {
-          "location": {
-            "lat": 33.790035,
-            "lng": -84.403409
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.7914868302915,
-              "lng": -84.40209991970849
-            },
-            "southwest": {
-              "lat": 33.7887888697085,
-              "lng": -84.4047978802915
-            }
-          }
-        },
-        "international_phone_number": "+1 404-817-8100",
-        "name": "SGI-USA Atlanta Buddhist Center",
-        "photos": [
-          {
-            "height": 2292,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111160531212215284440\">Jin Zou</a>"
-            ],
-            "photo_reference": "ATtYBwJnte67P1h7yrcMjPdVwvoW_0u6yvB_-PqFwfGRqTYduEzQbtGbY_ErM1jNNEvN7WWWkGYBt4CBGSjbn1_oMNJfcHEpcUE1x9DvDFSBRVZXS8RH52QFAnBnC6dlv668piq5kdKSEZjVxCwHVja0_VJUfkzHAFrw8K2h4dZBqF2EaNae",
-            "width": 3057
-          },
-          {
-            "height": 682,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101204824828953150865\">SGI-USA Atlanta Buddhist Center</a>"
-            ],
-            "photo_reference": "ATtYBwLv639jnlSy7NlycCfYK2tjS1AS2Iif-zrTz9lqg7wpBDgLueWl0RBm7HnJ1KMJ-QPKguTXauEh4bX4nFYuFMeOAKWGiEYPV8y__e-lz8nM14SeYAW0ATnXpXhyAo3Y5MN3RnGs_rK7w8PrXZE9tarMb9eeLaUhHXjeFJ8DirC_dMNG",
-            "width": 1024
-          },
-          {
-            "height": 2340,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117695285330459680980\">C. Elaine Payne</a>"
-            ],
-            "photo_reference": "ATtYBwLn2rJOWH7Ix55ddvRVGpBR7RONP7etcGwC1JtEyX9l--RBn7a-vLW9KIvba5QrZtOdVtmOeTnVrpdNu2qZypKkQs-sXWJfgR74JTyRMXOzTM16k0SyA5KKUcPiw-Lex-UkSDhtX9xHCu2p0yGXDQ0CIp4wkp06N5MYooDLzgaqrQAK",
-            "width": 4160
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113595789114106630465\">Edward Miller</a>"
-            ],
-            "photo_reference": "ATtYBwJuBkngfM-gwV9D9mr2f2JFLT9Sa_Vb72qbTQeLOlMcRdxZIZXZ46pxn05mR_loiMJeFhP0cEUlBRk7T7UV3VL49svvJgBLoNfpX_gpxOvtmuQ1h24yDTOBsvgPxCjbCa-nSryCwmOB_36GFVQmQWIaxkNfQK_4d3IPQoTaF6LaXNvP",
-            "width": 3120
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102204445458025306470\">Lorenna Garcia-Bochas</a>"
-            ],
-            "photo_reference": "ATtYBwJyQco9Ld5stnYysE2UdH3SMzFd9ooXkJdc1gHywQZB7NYZapya9tLKHoAFextmbwQxqubVqP7eFfEYoTdww42x7tRf8fXPt5PHynsAShvbHEMvBeUGVLiSrukI3OASnTyFHhsgYUKYXIK2qA9uBJSebIdoAYwma6UkXDkrKpyt6idF",
-            "width": 3024
-          },
-          {
-            "height": 2560,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117695285330459680980\">C. Elaine Payne</a>"
-            ],
-            "photo_reference": "ATtYBwI8J9QdHABRJ7orQSPwFC39_VEbNBEA5q1oieSp0z8aj5YPNqEVf9vfYaJHe35wgdncw-cDk17at4HEtbbZw6E7iAZYrolXBWIM_jGb1NYzzUsRNC_7qjMjQo9TAHOsEQH6fzcccJpPfMu6d4N1ETWV6v7HzrnZ-pOFDE0TW9lIeQS6",
-            "width": 1440
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113595789114106630465\">Edward Miller</a>"
-            ],
-            "photo_reference": "ATtYBwIwe1BYyWGUbsFwUivouRV7y-fz3eNVXjfk1ad8m1y0jxzI0V7V--Uyve2naFm0IRZQvyrU3sPnMSAnjto311eaVyEUTolV_L5R2ZL9LdzY4-rsqdhvDLm83FMdtgT6zx9SAXh-SkQEFTYqFPB-cRyrgnA26Edzqb3_MWzCotzGU8LK",
-            "width": 3120
-          },
-          {
-            "height": 2340,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117695285330459680980\">C. Elaine Payne</a>"
-            ],
-            "photo_reference": "ATtYBwLZsoUXWRj9aghp_DpJq6qTlXcjHt14R6sSXAcgks6g7b7uJ0pjjCaN_am0B5zd4uwhXnVDUeZ_2vx1YK7VOvudPNMW8CnhP0yjrlVyhof-FiFa0-F4aRPmYU5QBunPOKTw7OxvYst_LXVjfoZhSA5gpr3FgV7QaaVAm9FZp3frbbmX",
-            "width": 4160
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112261567848762742146\">Deepak Kumar</a>"
-            ],
-            "photo_reference": "ATtYBwK5mMMcXQp6vIlkjX88KVzqnyBX3mrl05IN8Vvt8Kraf7ri_BDXd8JH0xwXJ6Yzzk9LyxADMDrg_GgCaaYWmY9A03wNoVYHYhpZLcSzLPCrkYTkfjV-xLzSJXTR9flv-w5DMTIWJTi8s_Z8ZKDwDpTBtzyBTlnCspCPZ1dFAOoeYLDS",
-            "width": 3456
-          },
-          {
-            "height": 2560,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117695285330459680980\">C. Elaine Payne</a>"
-            ],
-            "photo_reference": "ATtYBwLus78ZRWNZKom_a3L-1tRQ3DnNPCqEtb6sXc3Z5rNrtiuzOJHwVAGoRI07aeuZA85pDNF7yxFnYYVdSRk-jFuAmz6UfpI2UlQvlEXog59M-EfOErtftrC3zkbHDEjypBpK0jzXoxF17vHdE-g-5GyZbUn9UXklfEuzagXZ1wxhSKxn",
-            "width": 1440
-          }
-        ],
-        "place_id": "ChIJ_0Q84_AE9YgRm3KiXDF4KFs",
-        "url": "https://maps.google.com/?cid=6568632209922749083",
-        "website": "http://www.sgi-atlanta.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "SGI-USA Atlanta Buddhist Center",
+      "location": {
+        "lat": 33.790035,
+        "lng": -84.403409
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "421 17th St NW, Atlanta, GA 30363, USA",
+      "phone": "+1 404-817-8100",
+      "website": "http://www.sgi-atlanta.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJnte67P1h7yrcMjPdVwvoW_0u6yvB_-PqFwfGRqTYduEzQbtGbY_ErM1jNNEvN7WWWkGYBt4CBGSjbn1_oMNJfcHEpcUE1x9DvDFSBRVZXS8RH52QFAnBnC6dlv668piq5kdKSEZjVxCwHVja0_VJUfkzHAFrw8K2h4dZBqF2EaNae",
+        "ATtYBwLv639jnlSy7NlycCfYK2tjS1AS2Iif-zrTz9lqg7wpBDgLueWl0RBm7HnJ1KMJ-QPKguTXauEh4bX4nFYuFMeOAKWGiEYPV8y__e-lz8nM14SeYAW0ATnXpXhyAo3Y5MN3RnGs_rK7w8PrXZE9tarMb9eeLaUhHXjeFJ8DirC_dMNG",
+        "ATtYBwLn2rJOWH7Ix55ddvRVGpBR7RONP7etcGwC1JtEyX9l--RBn7a-vLW9KIvba5QrZtOdVtmOeTnVrpdNu2qZypKkQs-sXWJfgR74JTyRMXOzTM16k0SyA5KKUcPiw-Lex-UkSDhtX9xHCu2p0yGXDQ0CIp4wkp06N5MYooDLzgaqrQAK",
+        "ATtYBwJuBkngfM-gwV9D9mr2f2JFLT9Sa_Vb72qbTQeLOlMcRdxZIZXZ46pxn05mR_loiMJeFhP0cEUlBRk7T7UV3VL49svvJgBLoNfpX_gpxOvtmuQ1h24yDTOBsvgPxCjbCa-nSryCwmOB_36GFVQmQWIaxkNfQK_4d3IPQoTaF6LaXNvP",
+        "ATtYBwJyQco9Ld5stnYysE2UdH3SMzFd9ooXkJdc1gHywQZB7NYZapya9tLKHoAFextmbwQxqubVqP7eFfEYoTdww42x7tRf8fXPt5PHynsAShvbHEMvBeUGVLiSrukI3OASnTyFHhsgYUKYXIK2qA9uBJSebIdoAYwma6UkXDkrKpyt6idF",
+        "ATtYBwI8J9QdHABRJ7orQSPwFC39_VEbNBEA5q1oieSp0z8aj5YPNqEVf9vfYaJHe35wgdncw-cDk17at4HEtbbZw6E7iAZYrolXBWIM_jGb1NYzzUsRNC_7qjMjQo9TAHOsEQH6fzcccJpPfMu6d4N1ETWV6v7HzrnZ-pOFDE0TW9lIeQS6",
+        "ATtYBwIwe1BYyWGUbsFwUivouRV7y-fz3eNVXjfk1ad8m1y0jxzI0V7V--Uyve2naFm0IRZQvyrU3sPnMSAnjto311eaVyEUTolV_L5R2ZL9LdzY4-rsqdhvDLm83FMdtgT6zx9SAXh-SkQEFTYqFPB-cRyrgnA26Edzqb3_MWzCotzGU8LK",
+        "ATtYBwLZsoUXWRj9aghp_DpJq6qTlXcjHt14R6sSXAcgks6g7b7uJ0pjjCaN_am0B5zd4uwhXnVDUeZ_2vx1YK7VOvudPNMW8CnhP0yjrlVyhof-FiFa0-F4aRPmYU5QBunPOKTw7OxvYst_LXVjfoZhSA5gpr3FgV7QaaVAm9FZp3frbbmX",
+        "ATtYBwK5mMMcXQp6vIlkjX88KVzqnyBX3mrl05IN8Vvt8Kraf7ri_BDXd8JH0xwXJ6Yzzk9LyxADMDrg_GgCaaYWmY9A03wNoVYHYhpZLcSzLPCrkYTkfjV-xLzSJXTR9flv-w5DMTIWJTi8s_Z8ZKDwDpTBtzyBTlnCspCPZ1dFAOoeYLDS",
+        "ATtYBwLus78ZRWNZKom_a3L-1tRQ3DnNPCqEtb6sXc3Z5rNrtiuzOJHwVAGoRI07aeuZA85pDNF7yxFnYYVdSRk-jFuAmz6UfpI2UlQvlEXog59M-EfOErtftrC3zkbHDEjypBpK0jzXoxF17vHdE-g-5GyZbUn9UXklfEuzagXZ1wxhSKxn"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_0Q84_AE9YgRm3KiXDF4KFs",
+      "google_maps_url": "https://maps.google.com/?cid=6568632209922749083",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2412 Tomoka Farms Rd, Port Orange, FL 32128, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.0921964,
-            "lng": -81.06940709999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.0935506302915,
-              "lng": -81.06765536970849
-            },
-            "southwest": {
-              "lat": 29.0908526697085,
-              "lng": -81.0703533302915
-            }
-          }
-        },
-        "international_phone_number": "+1 407-680-8383",
-        "name": "Ni Vien Pho Hien",
-        "place_id": "ChIJ__9zozYn54gRwPJ6fy_bYFw",
-        "url": "https://maps.google.com/?cid=6656561246302302912",
-        "website": "https://nivienphohien.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Ni Vien Pho Hien",
+      "location": {
+        "lat": 29.0921964,
+        "lng": -81.06940709999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "2412 Tomoka Farms Rd, Port Orange, FL 32128, USA",
+      "phone": "+1 407-680-8383",
+      "website": "https://nivienphohien.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ__9zozYn54gRwPJ6fy_bYFw",
+      "google_maps_url": "https://maps.google.com/?cid=6656561246302302912",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "148 Madison Ave, Daytona Beach, FL 32114, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.2248429,
-            "lng": -81.02687710000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.2260780802915,
-              "lng": -81.02546766970849
-            },
-            "southwest": {
-              "lat": 29.22338011970851,
-              "lng": -81.02816563029151
-            }
-          }
-        },
-        "international_phone_number": "+1 386-254-8881",
-        "name": "Hindu Mandir Of Daytona Beach",
-        "photos": [
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103111134045476246835\">Traveling Traveler</a>"
-            ],
-            "photo_reference": "ATtYBwIPS2WdhZsMlRts_RQq9af3jiZhzt50MUwJ8RvHPJW4cX3XfSrQX3SNVq2eHZycL9SD9skGgVkCrtDHDMRIGEDAz1dNjI7KieCwnqHwhsuBFJi6u6hCvfS6dYw5p3S-dWb3wUHJCROh2li9lA8jyfuQYyNvY0PF3EZXiFilCTAW_rYn",
-            "width": 3000
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107296424458831210519\">Minesh Mehta</a>"
-            ],
-            "photo_reference": "ATtYBwLhfgDhHOQD16GG4bMdKXLpFYSQRG4JL63xzO9mN7nWxSemGHV4KP8TNVVnlqqjKn9Hm8hUKOmVn8Zl_moMD2p2Fnl5Ek4QPUK0DLMt-sFPH66cQZ-seXhNXBaK-YSpGFyDO87NUjLx5xi0F4CUqRvbDc_IkFnTyy0Tswcc3IXJtgNP",
-            "width": 3120
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107296424458831210519\">Minesh Mehta</a>"
-            ],
-            "photo_reference": "ATtYBwKVutZ_-gpXHTQmQn0DgEtRApwG4MWnx3wg0vJOnfjiAREFFdQFnYgBsTfgI_Q9AkED_PROAs21TemylzWJvoOP75Q4fEwevXU1kfKs-ZRp05YzAKyN6YFnUkF-8ChMCinQC1ILjBiSafPX9gD_0xwFA_bSU1A0CZNUU0vUZakQCawX",
-            "width": 3120
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107296424458831210519\">Minesh Mehta</a>"
-            ],
-            "photo_reference": "ATtYBwJZSmKEfOLchWfa8BDHJmZot53KuHoyWltVW3Lv4jb-heP0EFCPBIKcOwER3dy_dRIsJ4tUX7CgDX7XWuZR1pE99jA3qHhdUNWaHwqknPhNq_EXZYFTxJUUnY7nCGYJzofuTufzwpos8y1ex_9sENWUQ_HmrLRI6G9NFT3knbLS-Mro",
-            "width": 3120
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113777983511445020706\">Jayesh Thacker</a>"
-            ],
-            "photo_reference": "ATtYBwI0POPfkpSOndcFWJq8qdiW3CcWXUHS_cSSEZS4UigxyURtgUYB5--yws5gmuZJArVCTlXssk8qqn3am05shM1OvpEHwi0tBI2npmcI03gYoE2JnmdIXxz61v1YJkaHIphtPZNbnewKKdeFmWMF0ta9LzhiVsQs00ijAbDJJ_khutJy",
-            "width": 2592
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107296424458831210519\">Minesh Mehta</a>"
-            ],
-            "photo_reference": "ATtYBwJz-GnYdaqq0Wxq7_He2taEEF502al-IHaSsQuY43HkbUru_U6oxP9IEiORoqDYzafVDeFdyufs21lUl_9ZuUKw6V2kPjxEiO9nAN-m5TdpUHFd4ioR-hEqaiQ5piWmIJr6D3jQMXpzcZrDVdy3f5qnbQW2ZBHJwNvp10ybAyRUg731",
-            "width": 3120
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107296424458831210519\">Minesh Mehta</a>"
-            ],
-            "photo_reference": "ATtYBwJoGOH7DECeKxKND_AlvRwjr1AUwjPs3gRcpr8dxBnKG3ISAqu6Jk-8oFHUYjV16aSz2C-oQ-jiZpjjY1eMbXWZoR3kkk2BX00pxXzQTxBhSk91B6FF5297eA5kuaZaPpYMOxmjKmNExc_5GdT7j9QtoRGRXZ0gW3NLalaFJ8wfgcbT",
-            "width": 3120
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109798970534631165395\">Sara Fellows</a>"
-            ],
-            "photo_reference": "ATtYBwKdmXSJe3IrFP5X8eThaLdEtPMjg2TE8pDUZHFgmX-OEAVgad8qfjLwTyxadsSIOun2Uzmapk26V6yp8ypZDhU8GPGPwA6dFqgOBcN27YSzYLEZuXphN-Ug7IebNGGbHnsBMrpKDuDix0sBqODaq4RxQdhbOkimIUq9byJg4iQFt_VI",
-            "width": 5312
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109798970534631165395\">Sara Fellows</a>"
-            ],
-            "photo_reference": "ATtYBwL7IbvD_s-ra6wXBTaS7Z8kKqB68HM_1PSO-nquttwlzZnpGJuLizxIb3HJFJ1Tb2JoQJ1ciddS4X7FywGZYlmH34RMxC0tmuSm7BymIBrMdY_nMrou7iuky68OD6eiPgaItX66XBLkJbVhv9VLHEXt4JxZxwY8Sb49__z-BFS_aZ3J",
-            "width": 5312
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109798970534631165395\">Sara Fellows</a>"
-            ],
-            "photo_reference": "ATtYBwJ5Me5Ycakci7yPJiUsH9L2u8ctLtXgUIirYs_Dzo6JQaOik00VjKtTZ00ycdPNBkR1wc8412urLWAcBpkkhm6UzbKj_9nj2iMjjF414bGOYrY4dpxRzdUAZLcJDDDJ-bQxC82v2z1LO3HDqBXyAzJflVLTvrJTI8r9XzUVvcA2sYi4",
-            "width": 5312
-          }
-        ],
-        "place_id": "ChIJm5NPwTPa5ogRJW5SkLNdW9M",
-        "url": "https://maps.google.com/?cid=15229869590685314597",
-        "website": "http://hindu-mandir-of.jany.io/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Hindu Mandir Of Daytona Beach",
+      "location": {
+        "lat": 29.2248429,
+        "lng": -81.02687710000001
       },
-      "meta": {
-        "category": "marked for removal",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "148 Madison Ave, Daytona Beach, FL 32114, USA",
+      "phone": "+1 386-254-8881",
+      "website": "http://hindu-mandir-of.jany.io/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIPS2WdhZsMlRts_RQq9af3jiZhzt50MUwJ8RvHPJW4cX3XfSrQX3SNVq2eHZycL9SD9skGgVkCrtDHDMRIGEDAz1dNjI7KieCwnqHwhsuBFJi6u6hCvfS6dYw5p3S-dWb3wUHJCROh2li9lA8jyfuQYyNvY0PF3EZXiFilCTAW_rYn",
+        "ATtYBwLhfgDhHOQD16GG4bMdKXLpFYSQRG4JL63xzO9mN7nWxSemGHV4KP8TNVVnlqqjKn9Hm8hUKOmVn8Zl_moMD2p2Fnl5Ek4QPUK0DLMt-sFPH66cQZ-seXhNXBaK-YSpGFyDO87NUjLx5xi0F4CUqRvbDc_IkFnTyy0Tswcc3IXJtgNP",
+        "ATtYBwKVutZ_-gpXHTQmQn0DgEtRApwG4MWnx3wg0vJOnfjiAREFFdQFnYgBsTfgI_Q9AkED_PROAs21TemylzWJvoOP75Q4fEwevXU1kfKs-ZRp05YzAKyN6YFnUkF-8ChMCinQC1ILjBiSafPX9gD_0xwFA_bSU1A0CZNUU0vUZakQCawX",
+        "ATtYBwJZSmKEfOLchWfa8BDHJmZot53KuHoyWltVW3Lv4jb-heP0EFCPBIKcOwER3dy_dRIsJ4tUX7CgDX7XWuZR1pE99jA3qHhdUNWaHwqknPhNq_EXZYFTxJUUnY7nCGYJzofuTufzwpos8y1ex_9sENWUQ_HmrLRI6G9NFT3knbLS-Mro",
+        "ATtYBwI0POPfkpSOndcFWJq8qdiW3CcWXUHS_cSSEZS4UigxyURtgUYB5--yws5gmuZJArVCTlXssk8qqn3am05shM1OvpEHwi0tBI2npmcI03gYoE2JnmdIXxz61v1YJkaHIphtPZNbnewKKdeFmWMF0ta9LzhiVsQs00ijAbDJJ_khutJy",
+        "ATtYBwJz-GnYdaqq0Wxq7_He2taEEF502al-IHaSsQuY43HkbUru_U6oxP9IEiORoqDYzafVDeFdyufs21lUl_9ZuUKw6V2kPjxEiO9nAN-m5TdpUHFd4ioR-hEqaiQ5piWmIJr6D3jQMXpzcZrDVdy3f5qnbQW2ZBHJwNvp10ybAyRUg731",
+        "ATtYBwJoGOH7DECeKxKND_AlvRwjr1AUwjPs3gRcpr8dxBnKG3ISAqu6Jk-8oFHUYjV16aSz2C-oQ-jiZpjjY1eMbXWZoR3kkk2BX00pxXzQTxBhSk91B6FF5297eA5kuaZaPpYMOxmjKmNExc_5GdT7j9QtoRGRXZ0gW3NLalaFJ8wfgcbT",
+        "ATtYBwKdmXSJe3IrFP5X8eThaLdEtPMjg2TE8pDUZHFgmX-OEAVgad8qfjLwTyxadsSIOun2Uzmapk26V6yp8ypZDhU8GPGPwA6dFqgOBcN27YSzYLEZuXphN-Ug7IebNGGbHnsBMrpKDuDix0sBqODaq4RxQdhbOkimIUq9byJg4iQFt_VI",
+        "ATtYBwL7IbvD_s-ra6wXBTaS7Z8kKqB68HM_1PSO-nquttwlzZnpGJuLizxIb3HJFJ1Tb2JoQJ1ciddS4X7FywGZYlmH34RMxC0tmuSm7BymIBrMdY_nMrou7iuky68OD6eiPgaItX66XBLkJbVhv9VLHEXt4JxZxwY8Sb49__z-BFS_aZ3J",
+        "ATtYBwJ5Me5Ycakci7yPJiUsH9L2u8ctLtXgUIirYs_Dzo6JQaOik00VjKtTZ00ycdPNBkR1wc8412urLWAcBpkkhm6UzbKj_9nj2iMjjF414bGOYrY4dpxRzdUAZLcJDDDJ-bQxC82v2z1LO3HDqBXyAzJflVLTvrJTI8r9XzUVvcA2sYi4"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJm5NPwTPa5ogRJW5SkLNdW9M",
+      "google_maps_url": "https://maps.google.com/?cid=15229869590685314597",
+      "category": "marked for removal",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Chandannath 21200, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.2774267,
-            "lng": 82.17711109999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.2787851802915,
-              "lng": 82.17827818029151
-            },
-            "southwest": {
-              "lat": 29.2760872197085,
-              "lng": 82.1755802197085
-            }
-          }
-        },
-        "name": "Jumlang Chorten",
-        "photos": [
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112703989321466321938\">sonamlama vlog</a>"
-            ],
-            "photo_reference": "ATtYBwKWDznOwjPe_Q8PMzRfZzcm5uEq0fl5SN6pxOMPkmeUWYwJonTzmgf5Z-k23zLZmPNq8NI6Dxbz8ZbGJFeihRtSrOGI7s8Nr7y0yxVttY8mioALfpybwMNdCpiTaE_hkQ_HYTIv-wjp54uZzpJOO7fa-0EXUYty3EvWy1vbnme_uwXd",
-            "width": 3264
-          },
-          {
-            "height": 4480,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109534788365194494618\">Ram Binay</a>"
-            ],
-            "photo_reference": "ATtYBwJl-6QJO5xU7GHAsR9vm3W46r9QrnIVwsD67aPRvbhHG6zhKrXtdRIf7FxsUJIEqER4bigUFcOWmlTh2dMaoYmRRprI4MhsamTt85SoBrmWhCdbedDrcC3yEKackdbHgiH-yDFS6gAuejokaIzVfCz6cMBYJVO-gtmevusrbiYmcMJ_",
-            "width": 2016
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112703989321466321938\">sonamlama vlog</a>"
-            ],
-            "photo_reference": "ATtYBwI441RDt8kPNKE59NwQa6lKz2seCCMEPrF8MAKfJLe9bs_92IgPYHAurpC32JAjlGQn_FKc0r21DZFNLwdPzJLY0r1eUc1nwksAINyTUbcqFZB5wf-croCEuc8OdqoZ42qXxXZODghhC-_HO3rUROsoLYDt09vt_O65AhX-4oIjeVyi",
-            "width": 3264
-          },
-          {
-            "height": 306,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112703989321466321938\">sonamlama vlog</a>"
-            ],
-            "photo_reference": "ATtYBwI_PiZmA6vf8d9M7JKWXknAv7lg25o_Ku0gbUvrmRZSHiuzgs8ia_T4dF1lhEo-31vMSDWx4klt-4P4aNkA_3B4wbRPEvkNLqp6aEGis1RBH_nsufCB2ex5cnnFdI6hKKg0PaJQ_X-lbCHF5n7Oc7cebvy5KTPeHpOBXBYPI81qhFSb",
-            "width": 408
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112703989321466321938\">sonamlama vlog</a>"
-            ],
-            "photo_reference": "ATtYBwJlsEc0NQbe5_QQCXW1ivjDXbHRQRnxtqB42kX6z50GG7rR6SgWb6LJNKr9v6gFoRDA0gAd517HYy0faUNlw6xQf1e-9mq1oQleROlyUGsHLsxSIJ1MxzLEHfG0tTMySyKjXJD3FZzqv0_rNk0SROkZHufMZ7NKtBj_0f1wEVXLFa03",
-            "width": 3264
-          },
-          {
-            "height": 4480,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109534788365194494618\">Ram Binay</a>"
-            ],
-            "photo_reference": "ATtYBwKJ3cRUcrn9Be9jua-mVpnZE9Tt42LgSjQKCo-G0w9pqJfvO5arERI2HQ3lsg9Q_iTwU9831iPj96qus34zeNaB4dOYwoQJc6QtkVa7xDMjN73YbrizPry5pem7ppi44BFO52jdk6q1wH9A43Yht0zcP2RAwmGxB2E5n3IKfQ32VK41",
-            "width": 2016
-          },
-          {
-            "height": 1842,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109534788365194494618\">Ram Binay</a>"
-            ],
-            "photo_reference": "ATtYBwIx1DYrk9gHWpJZLRlP-2D_RhzTecbqfYyHDgymamV5bWBJK9WHK6KaLWuBS5PcRoTmBxiBOLbxrnq7bOj4wIS8zM4-4YxSB0zRpKJ_A4kaUxIhAAU3sT9lwm9DPIUroGMjI34eMMWO_qkAq9RBxv-egL8o7q4FSrRoyi_85V2Bao2E",
-            "width": 2457
-          },
-          {
-            "height": 3200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109534788365194494618\">Ram Binay</a>"
-            ],
-            "photo_reference": "ATtYBwLiFSGv0wjl-iCUiYDxRRN4vZAgGNdVzsJS0P1qxldp_jbPtuYfUjwC848b9tUpep4e9idevMJYNRpZkWMPmvcL7mvW2WkFviTV-ELw3FPMTGACRKJFG1k2Uu89QJJSKn2w1ZMjhhW0jv532r5hh5Bl6ybDwrTIEVfQN6kWBamKfoKT",
-            "width": 1440
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112703989321466321938\">sonamlama vlog</a>"
-            ],
-            "photo_reference": "ATtYBwJ0aUco3q0iuoH0wriNjRnG7ll_7bgYYPvDw0EO2WItnmm8IRmKGTYYyuhk7gICtJnw8rPyRBLmFly6Oa9fLl6xXlm-R6JFCGVBU8n8Nd40fLJ89gZDG37ha9SDBon3Llsde8y77TPa7Y1iG47-INQF0XUzxfFuNhwzsrJFXy1Em9J4",
-            "width": 2448
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112703989321466321938\">sonamlama vlog</a>"
-            ],
-            "photo_reference": "ATtYBwJa-ptJBLaxeYrZpU82C07fk7SU4m9Yzp-xU46TOTkOrACdUYuUBPptiUCO12jzcWD4fM_axqEngMQaqkHzpa3gLywacjoh2R0PWkSHlM5RSGp5lh02xeIDAl7mXa9b7LwdwylVbTS0JmLUfJHEtAbCBt2w2S-Iw8UwRMWs78QNY0nt",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJdxzzIXwrozkR31PnaAT0j3k",
-        "url": "https://maps.google.com/?cid=8759488100035941343",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Jumlang Chorten",
+      "location": {
+        "lat": 29.2774267,
+        "lng": 82.17711109999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Chandannath 21200, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKWDznOwjPe_Q8PMzRfZzcm5uEq0fl5SN6pxOMPkmeUWYwJonTzmgf5Z-k23zLZmPNq8NI6Dxbz8ZbGJFeihRtSrOGI7s8Nr7y0yxVttY8mioALfpybwMNdCpiTaE_hkQ_HYTIv-wjp54uZzpJOO7fa-0EXUYty3EvWy1vbnme_uwXd",
+        "ATtYBwJl-6QJO5xU7GHAsR9vm3W46r9QrnIVwsD67aPRvbhHG6zhKrXtdRIf7FxsUJIEqER4bigUFcOWmlTh2dMaoYmRRprI4MhsamTt85SoBrmWhCdbedDrcC3yEKackdbHgiH-yDFS6gAuejokaIzVfCz6cMBYJVO-gtmevusrbiYmcMJ_",
+        "ATtYBwI441RDt8kPNKE59NwQa6lKz2seCCMEPrF8MAKfJLe9bs_92IgPYHAurpC32JAjlGQn_FKc0r21DZFNLwdPzJLY0r1eUc1nwksAINyTUbcqFZB5wf-croCEuc8OdqoZ42qXxXZODghhC-_HO3rUROsoLYDt09vt_O65AhX-4oIjeVyi",
+        "ATtYBwI_PiZmA6vf8d9M7JKWXknAv7lg25o_Ku0gbUvrmRZSHiuzgs8ia_T4dF1lhEo-31vMSDWx4klt-4P4aNkA_3B4wbRPEvkNLqp6aEGis1RBH_nsufCB2ex5cnnFdI6hKKg0PaJQ_X-lbCHF5n7Oc7cebvy5KTPeHpOBXBYPI81qhFSb",
+        "ATtYBwJlsEc0NQbe5_QQCXW1ivjDXbHRQRnxtqB42kX6z50GG7rR6SgWb6LJNKr9v6gFoRDA0gAd517HYy0faUNlw6xQf1e-9mq1oQleROlyUGsHLsxSIJ1MxzLEHfG0tTMySyKjXJD3FZzqv0_rNk0SROkZHufMZ7NKtBj_0f1wEVXLFa03",
+        "ATtYBwKJ3cRUcrn9Be9jua-mVpnZE9Tt42LgSjQKCo-G0w9pqJfvO5arERI2HQ3lsg9Q_iTwU9831iPj96qus34zeNaB4dOYwoQJc6QtkVa7xDMjN73YbrizPry5pem7ppi44BFO52jdk6q1wH9A43Yht0zcP2RAwmGxB2E5n3IKfQ32VK41",
+        "ATtYBwIx1DYrk9gHWpJZLRlP-2D_RhzTecbqfYyHDgymamV5bWBJK9WHK6KaLWuBS5PcRoTmBxiBOLbxrnq7bOj4wIS8zM4-4YxSB0zRpKJ_A4kaUxIhAAU3sT9lwm9DPIUroGMjI34eMMWO_qkAq9RBxv-egL8o7q4FSrRoyi_85V2Bao2E",
+        "ATtYBwLiFSGv0wjl-iCUiYDxRRN4vZAgGNdVzsJS0P1qxldp_jbPtuYfUjwC848b9tUpep4e9idevMJYNRpZkWMPmvcL7mvW2WkFviTV-ELw3FPMTGACRKJFG1k2Uu89QJJSKn2w1ZMjhhW0jv532r5hh5Bl6ybDwrTIEVfQN6kWBamKfoKT",
+        "ATtYBwJ0aUco3q0iuoH0wriNjRnG7ll_7bgYYPvDw0EO2WItnmm8IRmKGTYYyuhk7gICtJnw8rPyRBLmFly6Oa9fLl6xXlm-R6JFCGVBU8n8Nd40fLJ89gZDG37ha9SDBon3Llsde8y77TPa7Y1iG47-INQF0XUzxfFuNhwzsrJFXy1Em9J4",
+        "ATtYBwJa-ptJBLaxeYrZpU82C07fk7SU4m9Yzp-xU46TOTkOrACdUYuUBPptiUCO12jzcWD4fM_axqEngMQaqkHzpa3gLywacjoh2R0PWkSHlM5RSGp5lh02xeIDAl7mXa9b7LwdwylVbTS0JmLUfJHEtAbCBt2w2S-Iw8UwRMWs78QNY0nt"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJdxzzIXwrozkR31PnaAT0j3k",
+      "google_maps_url": "https://maps.google.com/?cid=8759488100035941343",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Pokhara 33700, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.2188366,
-            "lng": 83.9608032
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.2201378802915,
-              "lng": 83.96199523029152
-            },
-            "southwest": {
-              "lat": 28.2174399197085,
-              "lng": 83.9592972697085
-            }
-          }
-        },
-        "name": "Pema Dechan Ling (Buddha Statue)",
-        "photos": [
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103863570424254018199\">Baman Chalise</a>"
-            ],
-            "photo_reference": "ATtYBwI9HP5KEC7N2MW8wlYQNhJS0mM8MF-j0LGfGPlaM4Xb-dIgVCnGJ5h-sDVjqhIiVJ1uvYvjUd2-rTMSMqKzo6fWoi0bUzdXJVWMB0pPuQVXZDXAR4YcFG4zbUEnW9E3hAFJHcvEkjlnvtCPIc9s4jgwGpjRzSWOYTnFNuAVj3bAea8n",
-            "width": 3000
-          },
-          {
-            "height": 1641,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101095032224191265402\">Visek Parajuli</a>"
-            ],
-            "photo_reference": "ATtYBwK4zhtK-A4-wJN4ahExaMP3XWFfUxbG8GybHTaCj9m_r0A2LztfiDUIJnjUbIjQBq5MOo2l0oj_pZMyQ_s7lIpJ_t8_Z_Ps2l76t0J7GB_ePQ1tkG_xsRAcXTQJFpC-80Fd0DkccVxWXcQ-lzjrPiSuIuNkSxP9KExRfyo0eDns01vr",
-            "width": 1242
-          },
-          {
-            "height": 1629,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101095032224191265402\">Visek Parajuli</a>"
-            ],
-            "photo_reference": "ATtYBwKDsO0hR5nsD6ux5PbSFiOr6IgyG5a9yWWiqhgaFiBplJ06q5vwhBVAl6oN10Aom9YnK2FXJmx1j-ycfEdybLBblwGM9akU5I621S8YtrIBCrsJQ-3SHBT-dnn-c5t0BYNxMIdTOhJbnhAgC3bPtu9xxlW4LhiEt-w9GjMPwkDoWpCO",
-            "width": 1242
-          },
-          {
-            "height": 1631,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101095032224191265402\">Visek Parajuli</a>"
-            ],
-            "photo_reference": "ATtYBwJ3IQdQ5cB5nzb7Jbb2VB0zH9EYYr6AQEOdhfeon6HAPKxbnjdD8-rKIIeQ3aoVOXRsgQpmALg1nuV7a2_0eyd3_1EdWWyyR9DXYubyQzpABNXL4FWtxcsuop-zj9RUuZon9EAfLqokIgu4LQ5yDsdysZgLXU3kVaXX2N4mVsAmbRqU",
-            "width": 1242
-          },
-          {
-            "height": 1593,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101095032224191265402\">Visek Parajuli</a>"
-            ],
-            "photo_reference": "ATtYBwILmHIDA_FvE5OdoOfHtSJnFu9Sjai9JheTG0aFbtqd8qwgbh5LWU7HUt7TmnlJYMiwkQgd3PE8Kog8QVXeV8VuiAdvxMmRWovaH5X4eoq2qV4xYy5RMx_LT_KTVe783ZLzwtVGFqIMjqoa5HAXn0_9Bbe56BrFeytVcNFEYaLg8i8O",
-            "width": 1135
-          },
-          {
-            "height": 1792,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101095032224191265402\">Visek Parajuli</a>"
-            ],
-            "photo_reference": "ATtYBwK7rJMUbc6Iz2zRGmC8dVP_K9tN0F4HJHeksxM7DdQaFI0I6HYLjOwcLnTfn0mPMQGajuGD9SWrW14waK9pQZyxuaEc4rn76VCX4CuKD5I83T_kamt88d0eCU5ISj11T1f1iU4Budwbi6h8Y4s5wzsUDrp1-EYpSOsQX-Wx4RrHDhBi",
-            "width": 1197
-          },
-          {
-            "height": 1280,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105512220490091704943\">Sabin</a>"
-            ],
-            "photo_reference": "ATtYBwK8m17fXBTE8obATMOuGunWZR3w9jnd7cA4XIH9G2T-q5iIk-eUAKVpQXVl8tHYAIGTf_CHDE7fcqcb_FlJQuWNiupAFeRnz8KMyad_kpQDH0K_MeZoMAOlBkkuyrjxR8FzaU5XVSZGXZYle4p-edUZ4VZ8LKfP8Mp93NkBhsZUOv3S",
-            "width": 960
-          },
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103863570424254018199\">Baman Chalise</a>"
-            ],
-            "photo_reference": "ATtYBwJhegmshjMf5P4POPcDLsQH11ysYvxkSOq3h1pjoi1xyq_ZOEPMrmHWGq8hiCkimJJkiV-OZqv6aTW-yPhQj7IShdSYDDXL35e5FREsYBQ26sAwvUrenJwxBgFCAme9RKDFWaRFgR2C5fqx0F7fxnLRrgkZNLMCM7NV6kh0MevIfjQT",
-            "width": 3000
-          }
-        ],
-        "place_id": "ChIJffwB4ZSVlTkR8kpte-wb30M",
-        "url": "https://maps.google.com/?cid=4890658422844639986",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Pema Dechan Ling (Buddha Statue)",
+      "location": {
+        "lat": 28.2188366,
+        "lng": 83.9608032
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Pokhara 33700, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwI9HP5KEC7N2MW8wlYQNhJS0mM8MF-j0LGfGPlaM4Xb-dIgVCnGJ5h-sDVjqhIiVJ1uvYvjUd2-rTMSMqKzo6fWoi0bUzdXJVWMB0pPuQVXZDXAR4YcFG4zbUEnW9E3hAFJHcvEkjlnvtCPIc9s4jgwGpjRzSWOYTnFNuAVj3bAea8n",
+        "ATtYBwK4zhtK-A4-wJN4ahExaMP3XWFfUxbG8GybHTaCj9m_r0A2LztfiDUIJnjUbIjQBq5MOo2l0oj_pZMyQ_s7lIpJ_t8_Z_Ps2l76t0J7GB_ePQ1tkG_xsRAcXTQJFpC-80Fd0DkccVxWXcQ-lzjrPiSuIuNkSxP9KExRfyo0eDns01vr",
+        "ATtYBwKDsO0hR5nsD6ux5PbSFiOr6IgyG5a9yWWiqhgaFiBplJ06q5vwhBVAl6oN10Aom9YnK2FXJmx1j-ycfEdybLBblwGM9akU5I621S8YtrIBCrsJQ-3SHBT-dnn-c5t0BYNxMIdTOhJbnhAgC3bPtu9xxlW4LhiEt-w9GjMPwkDoWpCO",
+        "ATtYBwJ3IQdQ5cB5nzb7Jbb2VB0zH9EYYr6AQEOdhfeon6HAPKxbnjdD8-rKIIeQ3aoVOXRsgQpmALg1nuV7a2_0eyd3_1EdWWyyR9DXYubyQzpABNXL4FWtxcsuop-zj9RUuZon9EAfLqokIgu4LQ5yDsdysZgLXU3kVaXX2N4mVsAmbRqU",
+        "ATtYBwILmHIDA_FvE5OdoOfHtSJnFu9Sjai9JheTG0aFbtqd8qwgbh5LWU7HUt7TmnlJYMiwkQgd3PE8Kog8QVXeV8VuiAdvxMmRWovaH5X4eoq2qV4xYy5RMx_LT_KTVe783ZLzwtVGFqIMjqoa5HAXn0_9Bbe56BrFeytVcNFEYaLg8i8O",
+        "ATtYBwK7rJMUbc6Iz2zRGmC8dVP_K9tN0F4HJHeksxM7DdQaFI0I6HYLjOwcLnTfn0mPMQGajuGD9SWrW14waK9pQZyxuaEc4rn76VCX4CuKD5I83T_kamt88d0eCU5ISj11T1f1iU4Budwbi6h8Y4s5wzsUDrp1-EYpSOsQX-Wx4RrHDhBi",
+        "ATtYBwK8m17fXBTE8obATMOuGunWZR3w9jnd7cA4XIH9G2T-q5iIk-eUAKVpQXVl8tHYAIGTf_CHDE7fcqcb_FlJQuWNiupAFeRnz8KMyad_kpQDH0K_MeZoMAOlBkkuyrjxR8FzaU5XVSZGXZYle4p-edUZ4VZ8LKfP8Mp93NkBhsZUOv3S",
+        "ATtYBwJhegmshjMf5P4POPcDLsQH11ysYvxkSOq3h1pjoi1xyq_ZOEPMrmHWGq8hiCkimJJkiV-OZqv6aTW-yPhQj7IShdSYDDXL35e5FREsYBQ26sAwvUrenJwxBgFCAme9RKDFWaRFgR2C5fqx0F7fxnLRrgkZNLMCM7NV6kh0MevIfjQT"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJffwB4ZSVlTkR8kpte-wb30M",
+      "google_maps_url": "https://maps.google.com/?cid=4890658422844639986",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Chandragiri 44600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.6900017,
-            "lng": 85.2440843
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.69126958029151,
-              "lng": 85.2455171302915
-            },
-            "southwest": {
-              "lat": 27.6885716197085,
-              "lng": 85.2428191697085
-            }
-          }
-        },
-        "international_phone_number": "+977 984-1247600",
-        "name": "Shree Pranidhi Purna Maha Vihar",
-        "photos": [
-          {
-            "height": 3932,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113050649093026604931\">Sukha bhante Thero</a>"
-            ],
-            "photo_reference": "ATtYBwIW8chinADN6MbYi5IYNaeEkzsgtlez5DcBF7z1B5exeex0U3rymdAFfWjw9L8BGZNr_VwYwLDXnx9e6Vc_WUFKnA6cJuHl3S8RVhIC7LK95bRSL7ziQR3eqg5ieWLCt-aWzXnybxA0_eb1gBijk1hUU5_OfdXDKPZoAnGwWxxxiN7_",
-            "width": 6938
-          },
-          {
-            "height": 2592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113050649093026604931\">Sukha bhante Thero</a>"
-            ],
-            "photo_reference": "ATtYBwLpXxr6ygdgx5OouAcExMP3IvFZQ_iMYJ_Tiic8SndeuIj2LGBb0WXVplMTvNtlUxBzAjzgsSPvGfPZTGdu-DYgXzi1yUG0h180IjpvpsjUPvCXuyHSOLTUAhUCnBsoU97oWoi5FUrXxPUqDcWyMMXhM0uHVwE0ST-Z_qdcCp0aVNlq",
-            "width": 1936
-          },
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113050649093026604931\">Sukha bhante Thero</a>"
-            ],
-            "photo_reference": "ATtYBwLu6BQ4lfi1TW0yXnmz28EDWTjgj8syafM0-7boF6exJzCeFiPcED6Q4K81o1s0kpSCWYNfybObuFEfYjtE6fE48N0UdzemXIm6RZjBl_ce2vRd0Yas0-GJI-XoJAGKvAkaVtcNVx_wxWfQ3D4a-TY1w1Rj6bBALXJSjbW6rhcc7719",
-            "width": 1280
-          },
-          {
-            "height": 1152,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113050649093026604931\">Sukha bhante Thero</a>"
-            ],
-            "photo_reference": "ATtYBwL_tFCschScKdfJlE8OYkNalgtcgJMgrX_U5HIC8juXXXbAXnGlE6WSICGqzzB3Lc0Mf1lAKx2QqjBQglw8iNUPpnJeSJQxIpqbwowmkONgPwdjWMrEZI5poSqZWINfm5o7M5sbpmsB_92h7rXgDICizZff7TpxgSfsb4hiqVx1AFpG",
-            "width": 2048
-          },
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113050649093026604931\">Sukha bhante Thero</a>"
-            ],
-            "photo_reference": "ATtYBwI2lXIm_M2GssTVlG9oiKkR2Xc1X8HSZ0xupQqYkl3wSng9aQP46Re3vknAdsDXjUHBAP5hC3do4_h4W0p5vIQ21BG3JEp9vLbLwIe_3I7wuO-dO7TYBlaTbGRWf_uuzO_Y2YcYflR9uCcY4igD832qC2Zw88DLmzr5EGOXazMAGm-d",
-            "width": 1600
-          },
-          {
-            "height": 1195,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113050649093026604931\">Sukha bhante Thero</a>"
-            ],
-            "photo_reference": "ATtYBwKJIBSDI9HIEPzE1R1gkrSi8JSFvJ5LwUlhzTyvF97nEArNMqY0Qir38g9X584eLsoIxYqlgE7U9ZlljGLviOsRo5sADr2WhFeainSA_qU0hBNcekRh_c0ZVLKkJsRgX8ikkJlWYBugBIJn8HGInLC8QDHsEmYODUaMFhIQYtAVeL43",
-            "width": 1600
-          },
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113050649093026604931\">Sukha bhante Thero</a>"
-            ],
-            "photo_reference": "ATtYBwLx2zQG23WQ5T_58zgV3kN9yiKL9iFjVLoIwpdvxNBF3sX5yUJcv4SaSPQDtPPEONXwk2dheVYRMxSbbGdYNKxEUdv2X60hoMvKW1AX7Op4YxVTJYTweYgu8oRVK1rtfvWrin7yRVnQSDLLsbPkA-Xd3695PfTQqzi3HE_hXDZSyEw2",
-            "width": 1600
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110821199617017702964\">Keshav Maharjan</a>"
-            ],
-            "photo_reference": "ATtYBwK4KnxQThTK4_xRfXijKsGM5x1xcqneHBmUvjSAcGXwzvKoiMfJq-fSApuLfOSSkIjQt-TiaqfvW85ZWQglpiMVck4J-hhDjW8l7qYZ3hc8VvUlm1uGnridethEBOYK3n9VOHbPQoUdYkhtW0wI5qPwKeHX1d8lvscGgfd-7yCdlIJ9",
-            "width": 4160
-          },
-          {
-            "height": 2592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113050649093026604931\">Sukha bhante Thero</a>"
-            ],
-            "photo_reference": "ATtYBwKfh7v8fnTG9MrM0Kpx0IDAlCiEiEZyimI3g89WuICk3QFPgElNcTxYmdTE6rrJ3uswEExVoUBzEYqloxcpcruTVgC8vSblRS-QU1oijh2HkhGXIgBi1y2L2vPQ_PzIeRLOnTsIwBxYvqnUvNQuBTY9jjeLz5itM9FiUtjJEYV0vUcp",
-            "width": 1936
-          },
-          {
-            "height": 374,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113050649093026604931\">Sukha bhante Thero</a>"
-            ],
-            "photo_reference": "ATtYBwLXXJoSmFqV4INILz9YmgtnNBZDQJuHdK5IKhNO_v2pFEIvhmsxbu0uitAqmSxU6fzT-iJ2N-ypxcrabr8DY5hHJGnJTactV4u-JNP4ifG6pOyKj9b70HS6jGAmNU7gXUANpiBE0M_6CqtbOYiZOE2NueCJUNML8mCq9U_bUX2k-ygE",
-            "width": 500
-          }
-        ],
-        "place_id": "ChIJRelmMe4i6zkRxslVI0wZ60A",
-        "url": "https://maps.google.com/?cid=4677860452755425734",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Shree Pranidhi Purna Maha Vihar",
+      "location": {
+        "lat": 27.6900017,
+        "lng": 85.2440843
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Chandragiri 44600, Nepal",
+      "phone": "+977 984-1247600",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIW8chinADN6MbYi5IYNaeEkzsgtlez5DcBF7z1B5exeex0U3rymdAFfWjw9L8BGZNr_VwYwLDXnx9e6Vc_WUFKnA6cJuHl3S8RVhIC7LK95bRSL7ziQR3eqg5ieWLCt-aWzXnybxA0_eb1gBijk1hUU5_OfdXDKPZoAnGwWxxxiN7_",
+        "ATtYBwLpXxr6ygdgx5OouAcExMP3IvFZQ_iMYJ_Tiic8SndeuIj2LGBb0WXVplMTvNtlUxBzAjzgsSPvGfPZTGdu-DYgXzi1yUG0h180IjpvpsjUPvCXuyHSOLTUAhUCnBsoU97oWoi5FUrXxPUqDcWyMMXhM0uHVwE0ST-Z_qdcCp0aVNlq",
+        "ATtYBwLu6BQ4lfi1TW0yXnmz28EDWTjgj8syafM0-7boF6exJzCeFiPcED6Q4K81o1s0kpSCWYNfybObuFEfYjtE6fE48N0UdzemXIm6RZjBl_ce2vRd0Yas0-GJI-XoJAGKvAkaVtcNVx_wxWfQ3D4a-TY1w1Rj6bBALXJSjbW6rhcc7719",
+        "ATtYBwL_tFCschScKdfJlE8OYkNalgtcgJMgrX_U5HIC8juXXXbAXnGlE6WSICGqzzB3Lc0Mf1lAKx2QqjBQglw8iNUPpnJeSJQxIpqbwowmkONgPwdjWMrEZI5poSqZWINfm5o7M5sbpmsB_92h7rXgDICizZff7TpxgSfsb4hiqVx1AFpG",
+        "ATtYBwI2lXIm_M2GssTVlG9oiKkR2Xc1X8HSZ0xupQqYkl3wSng9aQP46Re3vknAdsDXjUHBAP5hC3do4_h4W0p5vIQ21BG3JEp9vLbLwIe_3I7wuO-dO7TYBlaTbGRWf_uuzO_Y2YcYflR9uCcY4igD832qC2Zw88DLmzr5EGOXazMAGm-d",
+        "ATtYBwKJIBSDI9HIEPzE1R1gkrSi8JSFvJ5LwUlhzTyvF97nEArNMqY0Qir38g9X584eLsoIxYqlgE7U9ZlljGLviOsRo5sADr2WhFeainSA_qU0hBNcekRh_c0ZVLKkJsRgX8ikkJlWYBugBIJn8HGInLC8QDHsEmYODUaMFhIQYtAVeL43",
+        "ATtYBwLx2zQG23WQ5T_58zgV3kN9yiKL9iFjVLoIwpdvxNBF3sX5yUJcv4SaSPQDtPPEONXwk2dheVYRMxSbbGdYNKxEUdv2X60hoMvKW1AX7Op4YxVTJYTweYgu8oRVK1rtfvWrin7yRVnQSDLLsbPkA-Xd3695PfTQqzi3HE_hXDZSyEw2",
+        "ATtYBwK4KnxQThTK4_xRfXijKsGM5x1xcqneHBmUvjSAcGXwzvKoiMfJq-fSApuLfOSSkIjQt-TiaqfvW85ZWQglpiMVck4J-hhDjW8l7qYZ3hc8VvUlm1uGnridethEBOYK3n9VOHbPQoUdYkhtW0wI5qPwKeHX1d8lvscGgfd-7yCdlIJ9",
+        "ATtYBwKfh7v8fnTG9MrM0Kpx0IDAlCiEiEZyimI3g89WuICk3QFPgElNcTxYmdTE6rrJ3uswEExVoUBzEYqloxcpcruTVgC8vSblRS-QU1oijh2HkhGXIgBi1y2L2vPQ_PzIeRLOnTsIwBxYvqnUvNQuBTY9jjeLz5itM9FiUtjJEYV0vUcp",
+        "ATtYBwLXXJoSmFqV4INILz9YmgtnNBZDQJuHdK5IKhNO_v2pFEIvhmsxbu0uitAqmSxU6fzT-iJ2N-ypxcrabr8DY5hHJGnJTactV4u-JNP4ifG6pOyKj9b70HS6jGAmNU7gXUANpiBE0M_6CqtbOYiZOE2NueCJUNML8mCq9U_bUX2k-ygE"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJRelmMe4i6zkRxslVI0wZ60A",
+      "google_maps_url": "https://maps.google.com/?cid=4677860452755425734",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kagbeni 33100, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.8375888,
-            "lng": 83.7837172
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.83850105,
-              "lng": 83.78650615
-            },
-            "southwest": {
-              "lat": 28.83485205,
-              "lng": 83.78278755000001
-            }
-          }
-        },
-        "international_phone_number": "+977 985-7650400",
-        "name": "Kag Chode",
-        "photos": [
-          {
-            "height": 1367,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113308495711178518080\">Unsik Jang</a>"
-            ],
-            "photo_reference": "ATtYBwJI1DfGLk8XHUVHnMf42EDVS9wdgez5eahIYLr9_n6bUA-7dxcWsGGEBcuSQ7GtgRbrSiNpVL_67XzepNpnLnv97RBQnNrPycKuJqBMMLxsRyViG7e0-7D329Rx2Sk82oFjfiHVQ28RDzTMdT2X4XnHg5WTDtEbjuY9rRmuuZQyL0Gx",
-            "width": 2048
-          },
-          {
-            "height": 3302,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114785036111330242624\">Bijay chaurasia</a>"
-            ],
-            "photo_reference": "ATtYBwITW7CPvfJ-Db9uijSlWyMzboKPNuXH9D2I8VEPqv1JYSYEe_e1b_un2e4oY71a2MXhMmYItOBIAknotaCvLRhIkzJrogf6-SEK9_-0-XBKXr9ZRS-mweTz6MmOBZf89ocBg4mJLz4W1P2mWnxDkFfM98FP9PcJ4qeWJ9RNcj_L3LxS",
-            "width": 4953
-          },
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103392369957813876673\">Duni Chand</a>"
-            ],
-            "photo_reference": "ATtYBwI61cG_lALp0fxfOsDC5wZ4vzrquL8Qr4nC0NejqyMSAGJ-J_y79BbTWKjnM07JJApsrsSqRxEaWCzguZBzAbHd1AvNVefVR7uURKnDM-BSyiFmFrwFkVChzcmbYlgjTP6kkpCxYyRd_wZVDNXOHmf9RA7ize_-ktQmYjjw8CwoGO1n",
-            "width": 6000
-          },
-          {
-            "height": 3378,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105345962416868409861\">Marc Morac</a>"
-            ],
-            "photo_reference": "ATtYBwIzh5TdWgJjuG_YzRwGUqdXJgzG8lzoDsQ98d5uZqsxdMzVgVuYiNilMIoeaDvbQfPLDs56Haf4hO8mdJMjmOslxv897ohahEb8iZnzyrZabCj0A2seYdDpZb2MjVbFzjTC_SA57rEbIPqQLlYGPROdTZjOFDFq2W-0UZ8IcgyjRWxG",
-            "width": 5067
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110127371963942150706\">Aakrish Adhikari</a>"
-            ],
-            "photo_reference": "ATtYBwI_PQGgwawkM75HbnFyhffZ1VVeMAivNaPoyKGl16wY_Psd3CXZ8lDfsRkMRz6yqN5p7KRJWUyus4PgY_oWYGw-OWGzrfHn1y8t5lymoF-y417vgVbd-fX_NPPoClAnk3fvOTUHosDl0UcLxEMNmqH72B12OVn4cNZFjAcItDboVlYI",
-            "width": 3120
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112588280095396208666\">wang HUA</a>"
-            ],
-            "photo_reference": "ATtYBwLWsUjrUQYdUvNMGW3X4Jxqx8xLQL59Z8m_pDRG8m6Aw1tuCTHLlOEnXjJF8hkQ4X3FQkBomKDTYsE9vykkoSik1AQSzI2PXJbMc_RiJqBbuXTzZ1WwSm-KiPgJR4xhqyiL8XrTYOu58qsgBWJ2iOlA07_53bqB9EUqppabSvFlK3D0",
-            "width": 3024
-          },
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103392369957813876673\">Duni Chand</a>"
-            ],
-            "photo_reference": "ATtYBwL05noFXvc1LZUzCbbiG2RXB3cCZRbmqD0Y4RHCaGO_Z3ABAdPiC2RpJLIa8AYTn1HAqyz-ZkCCDG6Z8qEdJmG-h6Ly5WWU0Is3ihz_0l2qgpacwUtoaX1CqLMs6BsX5PmXUdmEFz1ZzqCiSBAW4UtyNM5taDiU28pkal3siW16Wl1p",
-            "width": 6000
-          },
-          {
-            "height": 2976,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117122638561299465604\">Pradip Pokhrel</a>"
-            ],
-            "photo_reference": "ATtYBwIpE54XBRcI3Z3WIAb9XOYIXeMbDlUcsXIIHQ04tOovjBSdDTh9Xjgwh2p4oIcWsSqvjS8nenrNmlIfu29GfBBeEbOcSkB10YV_EVtzLiug8rMeXHh8lzpRgtaXg75swdTy5qgb6CcRcnXIdvmr_knhgklYPyMaDKZfBpKzl9EyWsvR",
-            "width": 3968
-          },
-          {
-            "height": 2856,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101094137791966739897\">Andrei Pilbert</a>"
-            ],
-            "photo_reference": "ATtYBwIZ4zl-7aYtlzyEcYmWKkMb4YqNSTjfG-YAsUJbGedYYI1cPHu4V--_nxc2FwccCw3wPv1TKFUoO4tiM1CfvNlUmmnG5x0RgUoM2eG6Ox8E7kRDfzKpkY1lAFTLpjpyRtkuWefi4haRx3JuDz3wc60NU9SbIgUNdEE4UDhJWX6dQKwO",
-            "width": 4120
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101094137791966739897\">Andrei Pilbert</a>"
-            ],
-            "photo_reference": "ATtYBwJmHHpLP-BcEQZraK0wlMcLkPQfM0KWZrAjbLq4KwvMzC332MGnlWBFgMV16aQOLFZ5aRCy5zEsWWpcjYtu1RXIJaAifRUIBZEkXT3RPHXfCMox98kZi1s0w0VeS34T_kSUf7NlwSuEKR4dG9-AuJ8MnTQF0u3XO2GbBrpfxxvIRnx9",
-            "width": 4928
-          }
-        ],
-        "place_id": "ChIJxeYS4EESvjkR-T-Ievbl0o8",
-        "url": "https://maps.google.com/?cid=10363598539313397753",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Kag Chode",
+      "location": {
+        "lat": 28.8375888,
+        "lng": 83.7837172
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Kagbeni 33100, Nepal",
+      "phone": "+977 985-7650400",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJI1DfGLk8XHUVHnMf42EDVS9wdgez5eahIYLr9_n6bUA-7dxcWsGGEBcuSQ7GtgRbrSiNpVL_67XzepNpnLnv97RBQnNrPycKuJqBMMLxsRyViG7e0-7D329Rx2Sk82oFjfiHVQ28RDzTMdT2X4XnHg5WTDtEbjuY9rRmuuZQyL0Gx",
+        "ATtYBwITW7CPvfJ-Db9uijSlWyMzboKPNuXH9D2I8VEPqv1JYSYEe_e1b_un2e4oY71a2MXhMmYItOBIAknotaCvLRhIkzJrogf6-SEK9_-0-XBKXr9ZRS-mweTz6MmOBZf89ocBg4mJLz4W1P2mWnxDkFfM98FP9PcJ4qeWJ9RNcj_L3LxS",
+        "ATtYBwI61cG_lALp0fxfOsDC5wZ4vzrquL8Qr4nC0NejqyMSAGJ-J_y79BbTWKjnM07JJApsrsSqRxEaWCzguZBzAbHd1AvNVefVR7uURKnDM-BSyiFmFrwFkVChzcmbYlgjTP6kkpCxYyRd_wZVDNXOHmf9RA7ize_-ktQmYjjw8CwoGO1n",
+        "ATtYBwIzh5TdWgJjuG_YzRwGUqdXJgzG8lzoDsQ98d5uZqsxdMzVgVuYiNilMIoeaDvbQfPLDs56Haf4hO8mdJMjmOslxv897ohahEb8iZnzyrZabCj0A2seYdDpZb2MjVbFzjTC_SA57rEbIPqQLlYGPROdTZjOFDFq2W-0UZ8IcgyjRWxG",
+        "ATtYBwI_PQGgwawkM75HbnFyhffZ1VVeMAivNaPoyKGl16wY_Psd3CXZ8lDfsRkMRz6yqN5p7KRJWUyus4PgY_oWYGw-OWGzrfHn1y8t5lymoF-y417vgVbd-fX_NPPoClAnk3fvOTUHosDl0UcLxEMNmqH72B12OVn4cNZFjAcItDboVlYI",
+        "ATtYBwLWsUjrUQYdUvNMGW3X4Jxqx8xLQL59Z8m_pDRG8m6Aw1tuCTHLlOEnXjJF8hkQ4X3FQkBomKDTYsE9vykkoSik1AQSzI2PXJbMc_RiJqBbuXTzZ1WwSm-KiPgJR4xhqyiL8XrTYOu58qsgBWJ2iOlA07_53bqB9EUqppabSvFlK3D0",
+        "ATtYBwL05noFXvc1LZUzCbbiG2RXB3cCZRbmqD0Y4RHCaGO_Z3ABAdPiC2RpJLIa8AYTn1HAqyz-ZkCCDG6Z8qEdJmG-h6Ly5WWU0Is3ihz_0l2qgpacwUtoaX1CqLMs6BsX5PmXUdmEFz1ZzqCiSBAW4UtyNM5taDiU28pkal3siW16Wl1p",
+        "ATtYBwIpE54XBRcI3Z3WIAb9XOYIXeMbDlUcsXIIHQ04tOovjBSdDTh9Xjgwh2p4oIcWsSqvjS8nenrNmlIfu29GfBBeEbOcSkB10YV_EVtzLiug8rMeXHh8lzpRgtaXg75swdTy5qgb6CcRcnXIdvmr_knhgklYPyMaDKZfBpKzl9EyWsvR",
+        "ATtYBwIZ4zl-7aYtlzyEcYmWKkMb4YqNSTjfG-YAsUJbGedYYI1cPHu4V--_nxc2FwccCw3wPv1TKFUoO4tiM1CfvNlUmmnG5x0RgUoM2eG6Ox8E7kRDfzKpkY1lAFTLpjpyRtkuWefi4haRx3JuDz3wc60NU9SbIgUNdEE4UDhJWX6dQKwO",
+        "ATtYBwJmHHpLP-BcEQZraK0wlMcLkPQfM0KWZrAjbLq4KwvMzC332MGnlWBFgMV16aQOLFZ5aRCy5zEsWWpcjYtu1RXIJaAifRUIBZEkXT3RPHXfCMox98kZi1s0w0VeS34T_kSUf7NlwSuEKR4dG9-AuJ8MnTQF0u3XO2GbBrpfxxvIRnx9"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJxeYS4EESvjkR-T-Ievbl0o8",
+      "google_maps_url": "https://maps.google.com/?cid=10363598539313397753",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jetavana, Katra, Shravasti, Uttar Pradesh 271805, India",
-        "geometry": {
-          "location": {
-            "lat": 27.5085584,
-            "lng": 82.0393943
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.5113223,
-              "lng": 82.0413763802915
-            },
-            "southwest": {
-              "lat": 27.5076371,
-              "lng": 82.03867841970849
-            }
-          }
-        },
-        "name": "Jetavana",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112493136767264304423\">Polsant Plussind</a>"
-            ],
-            "photo_reference": "ATtYBwITNFuLQl0mHM37UqZfMXRn2-nmh-3iza0Xoxk3Nrv_kSDBT8h4fRTX31i1P7A-ORFGzRYvKIy64kxsXrKZxT6z6LOSeFh36PBMfaHuCvbDJjjsqq5L8i7MkS88-QrXGre-m6XfmhdEBqXgHrMTA6ekvOGxxBQ1k3-e_wSaECj4h6G8",
-            "width": 4032
-          },
-          {
-            "height": 2736,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114051745046536300126\">สุวรรณ์ จันทะสิงห์</a>"
-            ],
-            "photo_reference": "ATtYBwJ4S6Cge9VToXqfyHhrpBsxfUXVEA7QgEd6yQiV3xVb7znXPsXtRm9Cs1iXKkawMQsE7lN2JjWk4_s2zOFJXzOaTHfPiYT6B2cgsJL7I36iaAt84UTp9kbTD-RYV9aQKDVtoGUxoBzpjiBH7Q313GIUjrlfUgFzNaVoMwXcCVzi-HJ2",
-            "width": 3648
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115643668564976921595\">อำนาจ บุญสวัสดิ์</a>"
-            ],
-            "photo_reference": "ATtYBwIqrmN7Qxr2DObJS0atF99iwPY6OMYZCywcqT0KbEPCDaX04BrTrikBx2b6mJNHDUPiMIcv7L3o-Je9K_Fy-Jx3WX696qIk0KN-OoGU5dK_eyX8zZ5KXlc24p_08AzDUU5SGgt5UsFKlSutCUleLd0_SJdrymk3svwZkicDR7b6qiX-",
-            "width": 4032
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111783391565933669237\">Sarath Alwis</a>"
-            ],
-            "photo_reference": "ATtYBwL6CNpEirNQcp0vnQV34NMMe-AEAz9wgW2I6n9UlqyF4uCwKqQXIwkYwHBp3t6QYt4q9sLJIN_76rkPIrLjxZRQcvVt56xFsNNZpwEZa80J8sMYb3XqysZ_z1RzsAPBD9u8MzYnl6F1e0Yomk6IQ-ueCHevXrz-VczT1VDrtIk4OJuZ",
-            "width": 2240
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109180219061407331662\">Tanapon Chern</a>"
-            ],
-            "photo_reference": "ATtYBwL8D17KZoYfIkcB237S7cZW_-9KCoK08tIzGL1Xv0NNNNDlKQNCE2gbcya28CJPkVlmDQwLnMm_R1coI7L84GagO_jFpMZAW-pHTHKajAUaT_8G2gF3SbKBa1UWCGmA4RYw68anykPLEYEJC5pMZgSXBaLKn-SjeSmWt-IN4_W7WAMg",
-            "width": 4608
-          },
-          {
-            "height": 4128,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106631890911782172087\">Jai Srivastava</a>"
-            ],
-            "photo_reference": "ATtYBwIc2nMnea69OURRqrEIo_Rha-v3a2Ep8q-D-GyyVTkHp33Yk88L1Z6m90UKAiu4hYsaN1IyVSBmT9UenZ4_sfnxjYphEnUC4t9JjaCYHblHpw6ph3Zk5ynYEei7pkZ_uXBaXszVN-_UrVaVbm-nXXvaMGw5F1TWCEZNMHKxRtsLu_-Z",
-            "width": 2322
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118280824049233396585\">Moe ThawKaung</a>"
-            ],
-            "photo_reference": "ATtYBwLBUTdGXs7SZv2Baeqi4aacuxvhHs0_DJ_KVMSp6OfTaxmTPQNrSjD1niukUQR7pMIsYYFYXX3O5NBT-cmOB_WRljLqB16FFKZm1eJbb-pwYIX3z5Ttu5kiXzbXT2qsP5qsxnW8Ju3BUZRTBC-U7pZZnkSJwDW255KnTCmFMJmD-wjH",
-            "width": 4032
-          },
-          {
-            "height": 3096,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105933777455796668452\">Ong Poh Wat</a>"
-            ],
-            "photo_reference": "ATtYBwLC6DIcwWhfm8cR_ef7TJoGsb3dH335-3_c_RSx8QQ1pZ_-KM0B9oPZ-7ZvVzro3Nn4HNXEfmrbjrOxAenHwwZRIytZgZEUn-Z6ODzeP8yKYk0ocVkyiePYywswcSIIyZP1-RsOVbKkeBwoXBLpavCY8YqZ0l8MlBtvXr0T6DcMa0aJ",
-            "width": 4128
-          },
-          {
-            "height": 1728,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114851838759203867210\">MR Trawat RitD</a>"
-            ],
-            "photo_reference": "ATtYBwJ3HlVn_zIYWOTcyvpYBJe_x1YvPSzMAAzfdodkCqMziy5_3fIxOGbesUiTes_F0iJFGlQijxYaXbz1WCZIkom2Hi6GryYaREp2EkyilZv8tdi-xUc7gjjFlLT6tLkMfGfuyGVlyKmtR2lkKiGQ-9FcndzUeKd4BVUtJJNn9C3tuvpT",
-            "width": 2592
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113548193396723144924\">Joy Bose</a>"
-            ],
-            "photo_reference": "ATtYBwIYolnVtopLWT-tPOh3VzyyffDbcQmkm5Inj8yn35jctjyXB1_NtmH-Fj0IcPT1CSCiLs47kOhMaSzKWrOOcIU-6bTfjf3dHP-v2u_C-HioEB1PJOVLW8ETny8ESADiJna6JiYEZAKKejfPc2DvGrBZSLVOqBliAY-9gr_joZdHp84A",
-            "width": 4160
-          }
-        ],
-        "place_id": "ChIJ62ehWFXFmTkRtfespJeaq24",
-        "url": "https://maps.google.com/?cid=7974637541283133365",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Jetavana",
+      "location": {
+        "lat": 27.5085584,
+        "lng": 82.0393943
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Jetavana, Katra, Shravasti, Uttar Pradesh 271805, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwITNFuLQl0mHM37UqZfMXRn2-nmh-3iza0Xoxk3Nrv_kSDBT8h4fRTX31i1P7A-ORFGzRYvKIy64kxsXrKZxT6z6LOSeFh36PBMfaHuCvbDJjjsqq5L8i7MkS88-QrXGre-m6XfmhdEBqXgHrMTA6ekvOGxxBQ1k3-e_wSaECj4h6G8",
+        "ATtYBwJ4S6Cge9VToXqfyHhrpBsxfUXVEA7QgEd6yQiV3xVb7znXPsXtRm9Cs1iXKkawMQsE7lN2JjWk4_s2zOFJXzOaTHfPiYT6B2cgsJL7I36iaAt84UTp9kbTD-RYV9aQKDVtoGUxoBzpjiBH7Q313GIUjrlfUgFzNaVoMwXcCVzi-HJ2",
+        "ATtYBwIqrmN7Qxr2DObJS0atF99iwPY6OMYZCywcqT0KbEPCDaX04BrTrikBx2b6mJNHDUPiMIcv7L3o-Je9K_Fy-Jx3WX696qIk0KN-OoGU5dK_eyX8zZ5KXlc24p_08AzDUU5SGgt5UsFKlSutCUleLd0_SJdrymk3svwZkicDR7b6qiX-",
+        "ATtYBwL6CNpEirNQcp0vnQV34NMMe-AEAz9wgW2I6n9UlqyF4uCwKqQXIwkYwHBp3t6QYt4q9sLJIN_76rkPIrLjxZRQcvVt56xFsNNZpwEZa80J8sMYb3XqysZ_z1RzsAPBD9u8MzYnl6F1e0Yomk6IQ-ueCHevXrz-VczT1VDrtIk4OJuZ",
+        "ATtYBwL8D17KZoYfIkcB237S7cZW_-9KCoK08tIzGL1Xv0NNNNDlKQNCE2gbcya28CJPkVlmDQwLnMm_R1coI7L84GagO_jFpMZAW-pHTHKajAUaT_8G2gF3SbKBa1UWCGmA4RYw68anykPLEYEJC5pMZgSXBaLKn-SjeSmWt-IN4_W7WAMg",
+        "ATtYBwIc2nMnea69OURRqrEIo_Rha-v3a2Ep8q-D-GyyVTkHp33Yk88L1Z6m90UKAiu4hYsaN1IyVSBmT9UenZ4_sfnxjYphEnUC4t9JjaCYHblHpw6ph3Zk5ynYEei7pkZ_uXBaXszVN-_UrVaVbm-nXXvaMGw5F1TWCEZNMHKxRtsLu_-Z",
+        "ATtYBwLBUTdGXs7SZv2Baeqi4aacuxvhHs0_DJ_KVMSp6OfTaxmTPQNrSjD1niukUQR7pMIsYYFYXX3O5NBT-cmOB_WRljLqB16FFKZm1eJbb-pwYIX3z5Ttu5kiXzbXT2qsP5qsxnW8Ju3BUZRTBC-U7pZZnkSJwDW255KnTCmFMJmD-wjH",
+        "ATtYBwLC6DIcwWhfm8cR_ef7TJoGsb3dH335-3_c_RSx8QQ1pZ_-KM0B9oPZ-7ZvVzro3Nn4HNXEfmrbjrOxAenHwwZRIytZgZEUn-Z6ODzeP8yKYk0ocVkyiePYywswcSIIyZP1-RsOVbKkeBwoXBLpavCY8YqZ0l8MlBtvXr0T6DcMa0aJ",
+        "ATtYBwJ3HlVn_zIYWOTcyvpYBJe_x1YvPSzMAAzfdodkCqMziy5_3fIxOGbesUiTes_F0iJFGlQijxYaXbz1WCZIkom2Hi6GryYaREp2EkyilZv8tdi-xUc7gjjFlLT6tLkMfGfuyGVlyKmtR2lkKiGQ-9FcndzUeKd4BVUtJJNn9C3tuvpT",
+        "ATtYBwIYolnVtopLWT-tPOh3VzyyffDbcQmkm5Inj8yn35jctjyXB1_NtmH-Fj0IcPT1CSCiLs47kOhMaSzKWrOOcIU-6bTfjf3dHP-v2u_C-HioEB1PJOVLW8ETny8ESADiJna6JiYEZAKKejfPc2DvGrBZSLVOqBliAY-9gr_joZdHp84A"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ62ehWFXFmTkRtfespJeaq24",
+      "google_maps_url": "https://maps.google.com/?cid=7974637541283133365",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Muchu 21000, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 30.0804479,
-            "lng": 81.5206001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.0814972302915,
-              "lng": 81.5216841302915
-            },
-            "southwest": {
-              "lat": 30.0787992697085,
-              "lng": 81.5189861697085
-            }
-          }
-        },
-        "name": "Pal Saghon Dhungkar Choezom Monastrery",
-        "photos": [
-          {
-            "height": 1704,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116116402363657427871\">Claus Lutterbeck</a>"
-            ],
-            "photo_reference": "ATtYBwKdIcENmIalwfRWoY_GSwNc5RfRGFtfmFQZu0Y79u-stzA9QNMj4XMPBkPTzHRYSKwOIWW0BATNwGE6y-DyVE5Aj0u61ZdlcR3TEEFKe-sMA322MhpZ4bTUMs78RWCKwglM6Scmn7WCamfA8PRst52n8W2QrHOlh4nRo29vC9B2ic5O",
-            "width": 2272
-          }
-        ],
-        "place_id": "ChIJ-cAIUAOIpDkRoNbI2KwfNcY",
-        "url": "https://maps.google.com/?cid=14282356620507272864",
-        "website": "http://dhungkarchoezom.blogspot.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Pal Saghon Dhungkar Choezom Monastrery",
+      "location": {
+        "lat": 30.0804479,
+        "lng": 81.5206001
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Muchu 21000, Nepal",
+      "website": "http://dhungkarchoezom.blogspot.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKdIcENmIalwfRWoY_GSwNc5RfRGFtfmFQZu0Y79u-stzA9QNMj4XMPBkPTzHRYSKwOIWW0BATNwGE6y-DyVE5Aj0u61ZdlcR3TEEFKe-sMA322MhpZ4bTUMs78RWCKwglM6Scmn7WCamfA8PRst52n8W2QrHOlh4nRo29vC9B2ic5O"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ-cAIUAOIpDkRoNbI2KwfNcY",
+      "google_maps_url": "https://maps.google.com/?cid=14282356620507272864",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Unnamed Road, Old Manali, Manali, Himachal Pradesh 175131, India",
-        "geometry": {
-          "location": {
-            "lat": 32.252337,
-            "lng": 77.1801195
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.25368598029149,
-              "lng": 77.18146848029151
-            },
-            "southwest": {
-              "lat": 32.25098801970849,
-              "lng": 77.17877051970851
-            }
-          }
-        },
-        "name": "Buddhist Shrine",
-        "photos": [
-          {
-            "height": 1600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116823585055763237823\">Dhruv Narayan Bhargava</a>"
-            ],
-            "photo_reference": "ATtYBwIR8VU07koDkIPzbj6ZG6M_eERqAcPXKlTXuOziTz2HkyzG7mxpx0R7fwBTe7SjZqDC--vJAV-lOM-28heZF5lsrs5hx4oKUZvfxMwvYiGcjOg9LU4haYxy4DnAmkh5UNXWI3HfN5hW8T1IuO_Ou9Jo-XHxIDPEGqAfZsQWQP3aGRRN",
-            "width": 1200
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105505315185561459920\">Tapash Jyoti Hazarika</a>"
-            ],
-            "photo_reference": "ATtYBwKHaS4PCqFNk3m8kaaWTRp1Y0T10AooafSFNF-UjGMQOzCFf9BDdjir0OtTSmxuvmg6LC8CL5XqVExw70LUFujyQthNIj3d2CrmPSA22v1fRAcUDtmlSNI96zN40jBF5H55G68EDvE3O16vJ8i5pRzEDl34Tk0Er41BBbBdLKzwWfh8",
-            "width": 1620
-          },
-          {
-            "height": 1808,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108300897801946226459\">GUDDU SINGH</a>"
-            ],
-            "photo_reference": "ATtYBwLhT6DTvZTP4d5R-JshdRORcAKs_8vrkSPfa1ImwFMdP73R9aq0q541eo12jFKDpwVSrM289IrN_k65UDUbVPqjxKWnSnjyaVbVpWOsvkT7O5xt7A4hCqzWAF78F87qXqCxutsUUcZbxbKhn1wbFxcqyO7EB5MlZJSc79PBb7AVpVFQ",
-            "width": 4000
-          },
-          {
-            "height": 1600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116823585055763237823\">Dhruv Narayan Bhargava</a>"
-            ],
-            "photo_reference": "ATtYBwKiYIJb0mPXUFDA87jBkaNaEEz6QpXVi5GnJlywIc7Kq7fP0jzWneMQgBKtOEFAFiepNUJl4HwWNzY8MVWuUL-nb_KJ2JH3yu0D7XOcJWxSSK5_boBlpVeA2jR_rYHSFslpgd2IeRV8xLrYnfjJ1NXyNGlQPH-U4_W4YCEYfxPjWNjj",
-            "width": 1200
-          },
-          {
-            "height": 3000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112848431099290052304\">Sarthak Sirari</a>"
-            ],
-            "photo_reference": "ATtYBwLXdJbVCD-AlmZO05sPf4I9fe9i-EBB_dVD4cgEp5xy5naEgvCdnU9wlAiT2hM-BhA4kZNtkbctBXNwr2ydZKn1jTnMwX25WH1iXx0cAf6mj-Ao9Fxu5OdVbB9zquGg3lgf3YmWV87vaO3bEFBE-Dcm1trbvRD7egRFxqxYGcLLjboi",
-            "width": 4496
-          },
-          {
-            "height": 1620,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105505315185561459920\">Tapash Jyoti Hazarika</a>"
-            ],
-            "photo_reference": "ATtYBwJT4-a7dm0woU9E2fy1kBKaYpAKatc3FLDe4Rr94h3-DE1lDzcRBJwfKiRWut_bKl5odU7y8WZKmFvmm0upsiGoRlq4Gn6IxSbVuWt8I0oYEV2ddyAmt5y1RwmuWnHR29gpo0bsXurEunkXlhoOiLRM6g1Yox0rWpM7GhXCvt-P7sXM",
-            "width": 1080
-          },
-          {
-            "height": 1600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116823585055763237823\">Dhruv Narayan Bhargava</a>"
-            ],
-            "photo_reference": "ATtYBwLB28aLgX4s61xxHedoeDnskdpZKcMOk5tqGZnNXQ_Vj6E0Cw8rZqNrXg-jKLZYSqAK9d5ntcZDUrSfEa1-nhvi4zejSxKfFq0wcHYDFJaethNrdXQjsDKvscFdjmRgLUkTFhnQUlPQNCmpiZbDotp5JHdH-IQHHJN8nhQdJgPBeH0w",
-            "width": 1200
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105505315185561459920\">Tapash Jyoti Hazarika</a>"
-            ],
-            "photo_reference": "ATtYBwK7_q3zmAOZRYI97GgLrHmq90Dkxk6Nw1qGEKWwfbr6puHWAyCrK29tPZ_f5SQRTSFGbbNz7qvHEonuXF-sE6SZhNcx1hHgUgJOF_WGjlISxp5ETx6GDpEvc585yjJmselYnhQHYcC3oWGhHEwK4ZdfaJqD0e47gIqkuhir217YhBtm",
-            "width": 1620
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105505315185561459920\">Tapash Jyoti Hazarika</a>"
-            ],
-            "photo_reference": "ATtYBwJwtnMhuwI9rMwyAH_dLaNjQFSrkmAvuzoSEQwy9oOwY6m8vkgluVtTRJRlzFUPN3P6kq3b053grZ98KjuBVnBA6A2CMZejd-S1H2sZUBRK91QmTkXCwY6NTxpQzS6fbe03GvssSY8U5VLqGDyV6RsK0uKIM798o6m4RKGjwNjYrhLC",
-            "width": 1620
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105505315185561459920\">Tapash Jyoti Hazarika</a>"
-            ],
-            "photo_reference": "ATtYBwI3jUNeALh8mQvz9c3Qy9chX_poASu8X6ow4T5pM3mXQ1rkUXwglqqFx3GdOtgEm39aKdWjhphjWue4xgF3L_N7-YJUj3pper5DVo6Ul0nlHVe6fEjc08k_M-RQBvI4OeEgeVUbUWiUkgf-Ps78sSeaHtChoBbxwPAw05HZRcDKEAjG",
-            "width": 1620
-          }
-        ],
-        "place_id": "ChIJC8zkn-WHBDkRzSATX7Q0fEI",
-        "url": "https://maps.google.com/?cid=4790762052909211853",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddhist Shrine",
+      "location": {
+        "lat": 32.252337,
+        "lng": 77.1801195
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Unnamed Road, Old Manali, Manali, Himachal Pradesh 175131, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIR8VU07koDkIPzbj6ZG6M_eERqAcPXKlTXuOziTz2HkyzG7mxpx0R7fwBTe7SjZqDC--vJAV-lOM-28heZF5lsrs5hx4oKUZvfxMwvYiGcjOg9LU4haYxy4DnAmkh5UNXWI3HfN5hW8T1IuO_Ou9Jo-XHxIDPEGqAfZsQWQP3aGRRN",
+        "ATtYBwKHaS4PCqFNk3m8kaaWTRp1Y0T10AooafSFNF-UjGMQOzCFf9BDdjir0OtTSmxuvmg6LC8CL5XqVExw70LUFujyQthNIj3d2CrmPSA22v1fRAcUDtmlSNI96zN40jBF5H55G68EDvE3O16vJ8i5pRzEDl34Tk0Er41BBbBdLKzwWfh8",
+        "ATtYBwLhT6DTvZTP4d5R-JshdRORcAKs_8vrkSPfa1ImwFMdP73R9aq0q541eo12jFKDpwVSrM289IrN_k65UDUbVPqjxKWnSnjyaVbVpWOsvkT7O5xt7A4hCqzWAF78F87qXqCxutsUUcZbxbKhn1wbFxcqyO7EB5MlZJSc79PBb7AVpVFQ",
+        "ATtYBwKiYIJb0mPXUFDA87jBkaNaEEz6QpXVi5GnJlywIc7Kq7fP0jzWneMQgBKtOEFAFiepNUJl4HwWNzY8MVWuUL-nb_KJ2JH3yu0D7XOcJWxSSK5_boBlpVeA2jR_rYHSFslpgd2IeRV8xLrYnfjJ1NXyNGlQPH-U4_W4YCEYfxPjWNjj",
+        "ATtYBwLXdJbVCD-AlmZO05sPf4I9fe9i-EBB_dVD4cgEp5xy5naEgvCdnU9wlAiT2hM-BhA4kZNtkbctBXNwr2ydZKn1jTnMwX25WH1iXx0cAf6mj-Ao9Fxu5OdVbB9zquGg3lgf3YmWV87vaO3bEFBE-Dcm1trbvRD7egRFxqxYGcLLjboi",
+        "ATtYBwJT4-a7dm0woU9E2fy1kBKaYpAKatc3FLDe4Rr94h3-DE1lDzcRBJwfKiRWut_bKl5odU7y8WZKmFvmm0upsiGoRlq4Gn6IxSbVuWt8I0oYEV2ddyAmt5y1RwmuWnHR29gpo0bsXurEunkXlhoOiLRM6g1Yox0rWpM7GhXCvt-P7sXM",
+        "ATtYBwLB28aLgX4s61xxHedoeDnskdpZKcMOk5tqGZnNXQ_Vj6E0Cw8rZqNrXg-jKLZYSqAK9d5ntcZDUrSfEa1-nhvi4zejSxKfFq0wcHYDFJaethNrdXQjsDKvscFdjmRgLUkTFhnQUlPQNCmpiZbDotp5JHdH-IQHHJN8nhQdJgPBeH0w",
+        "ATtYBwK7_q3zmAOZRYI97GgLrHmq90Dkxk6Nw1qGEKWwfbr6puHWAyCrK29tPZ_f5SQRTSFGbbNz7qvHEonuXF-sE6SZhNcx1hHgUgJOF_WGjlISxp5ETx6GDpEvc585yjJmselYnhQHYcC3oWGhHEwK4ZdfaJqD0e47gIqkuhir217YhBtm",
+        "ATtYBwJwtnMhuwI9rMwyAH_dLaNjQFSrkmAvuzoSEQwy9oOwY6m8vkgluVtTRJRlzFUPN3P6kq3b053grZ98KjuBVnBA6A2CMZejd-S1H2sZUBRK91QmTkXCwY6NTxpQzS6fbe03GvssSY8U5VLqGDyV6RsK0uKIM798o6m4RKGjwNjYrhLC",
+        "ATtYBwI3jUNeALh8mQvz9c3Qy9chX_poASu8X6ow4T5pM3mXQ1rkUXwglqqFx3GdOtgEm39aKdWjhphjWue4xgF3L_N7-YJUj3pper5DVo6Ul0nlHVe6fEjc08k_M-RQBvI4OeEgeVUbUWiUkgf-Ps78sSeaHtChoBbxwPAw05HZRcDKEAjG"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJC8zkn-WHBDkRzSATX7Q0fEI",
+      "google_maps_url": "https://maps.google.com/?cid=4790762052909211853",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bela Road, ISBT Kashmere Gate, Ladakh Buddhist Vihar, Railway Colony, Civil Lines, New Delhi, Delhi 110054, India",
-        "geometry": {
-          "location": {
-            "lat": 28.6730556,
-            "lng": 77.23166669999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.6743670802915,
-              "lng": 77.23272358029149
-            },
-            "southwest": {
-              "lat": 28.6716691197085,
-              "lng": 77.23002561970848
-            }
-          }
-        },
-        "international_phone_number": "+91 98735 23073",
-        "name": "Ladakh Budh Vihar",
-        "photos": [
-          {
-            "height": 450,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101453868560679813542\">Ladakh Budh Vihar</a>"
-            ],
-            "photo_reference": "ATtYBwJrUIqcb4yOBXOMbO9e7zuKLt0ULM-npTiivUcvxuT5Lw9H1AJ9RAjho0_z8uw9COsz8OMWUjBquZOsnaElZT0Qzkx7tSfaWYoG39RQUCmk7uss2uA1CPTU-m7_hgHjxBP4-IPUXUpiq3TJBHilCWfckO1bTLRz9R89XDZIK7I-6Tiu",
-            "width": 800
-          },
-          {
-            "height": 6000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108758682447910644096\">Ayush Shishodia</a>"
-            ],
-            "photo_reference": "ATtYBwIzLACLcnpMsPPnKpzT4Jx0ZLyVl5YF3MDj-xeqqg6RSVeH9MRn9CFerz3iMSa9AOq9VQr0D0qD61krB5NdVLIwSo4F0i3isOwDi7PO4SSvLgtrCx0-3Z972KkGkS10xu4X_OZiVVnqh0EZiHlq8FcfVMZMSufzjAnsG713mMcaTlDC",
-            "width": 8000
-          },
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113145052263877517613\">FRANK SH LEE</a>"
-            ],
-            "photo_reference": "ATtYBwJfyWS0fA71z0Vw1bWqNeRaLifq9EjBNKdlfIkWGgrlqvK_jLdTQOE0Y2y7ha3JCjxugv5UpA7nZduqkANJ6JHzFLE-dfEpf-ICqY0sDt2oXnP6ERuz-JyDD-oyAUwPEhs54YffFBcfUkVddNGnEbar36jLfxqVNHSSUBnwfQza_P35",
-            "width": 1536
-          },
-          {
-            "height": 2240,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114754091124761744850\">Rippy Bedi</a>"
-            ],
-            "photo_reference": "ATtYBwI05jT_QeGp3V3-wswl0epZd6yCc7x88ad3oQrpHiodbfEEaGgF1l__K0mpwNr89sCOVepicjiv-XhybY671lCHQsQY3oOWttD22p2_OkN3aOoIiZHG3I0Yl-CZR9rnOzvz_bG79X5QTGcApetw6E__vDrgwelcu3fwfLxxmDSTKtYU",
-            "width": 3968
-          },
-          {
-            "height": 3672,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113749824796566318749\">KANU PRIYA GREWAL</a>"
-            ],
-            "photo_reference": "ATtYBwISA52C12PD2AlVeYHX-d2pzSOFO2VIYdCQWMexQYdzzmDKc421962G5fEBHWwniLtW1r-2brlQwfXgn69NH0mDnvT-M1zwNd4GfFU_ix6DsXWG430uCuqokgfC5O3Iusyr1VcFa6IbDQp3QnIh_5hBSJnamY2rPTgVSwgPvEZ--bNJ",
-            "width": 4896
-          },
-          {
-            "height": 4096,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101571684536872782548\">Shashank Srivastava</a>"
-            ],
-            "photo_reference": "ATtYBwJ7XT8ZMggJi3YVaifus3eTL4wf8Pe5u0qWtFxsKZZRq6RHGqFnXpVyHsCAAOBPQowOxmbvNeslrTZ7l_vszRYdSlOSHwNNRDsgIhn1d0tHjbawkvddxl9P0-Iv-dYMofACk5vJf1kdu0Euxc92Y7kSg5xOCZMBLuH-mI44GE6zs0GS",
-            "width": 2304
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114474704591058019996\">Subhashis Sadhukhan</a>"
-            ],
-            "photo_reference": "ATtYBwIAsZMJAzjbUfSK_hrD3a6ew5s7G0GrIE1UCWKXUloplA5ItaqS7U6PHo0ag78h5kX_7FGSrDO_eNNUm2I1K6pUCUeglfvCKMQWubAr9vKWiPwkVhBKMwedNOnfFTjWZO4B62UB31W63BSRzDrmj58xLfo3WfDq__CVyw4JoA2bnbdh",
-            "width": 2048
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103684113473062821067\">Beeinks Inks</a>"
-            ],
-            "photo_reference": "ATtYBwL6BfqZTuGL3ZDuayBUdOkq8sIQt3Kx4HP0NFNQ8NTLSjRdZH1T7ZuDOFHY60EGk-hg9bNLxLJf-j8SWRImjH8ZMz7LqDK5KOx9MXI1oBtU7fjQPXjwtuHilG5zyusFReKp040BG_LbxJ_kaL1NThGIZZjeWkHv0crnzoY6Hqo7Tzy7",
-            "width": 4608
-          },
-          {
-            "height": 3672,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113749824796566318749\">KANU PRIYA GREWAL</a>"
-            ],
-            "photo_reference": "ATtYBwK-dQ8Vu33zCVyCk0ai4oz4Sd9gfdEaO-OFtKMlrY_RP27kW64A5ckVZ31jy8WIkWpn4Ka0eiMBpoMnmAHQQZ0tEqLRJmpsVMcSf62mMn-SAMq3F-1FKtUlS_9eJPSKGmi4hrpfPeDPlJaIU3WbiPaiFAGbLcPNTYkd29gw8SrP0bxG",
-            "width": 4896
-          },
-          {
-            "height": 1152,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107693922062742889586\">Amit Sah</a>"
-            ],
-            "photo_reference": "ATtYBwJCPPb4DvkuJwiO1VuOnqk4MVx2XyajRgd_rs8tdC_D8_rB68CzEqv-RROm1BfPahVGMtSSr37eYSsBC9ZHSa2srntEEnnlflrwoV4qZsEpPMPiVvZb3NdDXI8UziiJzpZZnC3HgxJ11gtcpniiHf8yRekPwQmZwZy5BojT_phzYSZo",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJUbMJVKj9DDkRwah69aDfQDo",
-        "url": "https://maps.google.com/?cid=4197600735115520193",
-        "website": "http://www.ladakhbuddhistassociation.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Ladakh Budh Vihar",
+      "location": {
+        "lat": 28.6730556,
+        "lng": 77.23166669999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Bela Road, ISBT Kashmere Gate, Ladakh Buddhist Vihar, Railway Colony, Civil Lines, New Delhi, Delhi 110054, India",
+      "phone": "+91 98735 23073",
+      "website": "http://www.ladakhbuddhistassociation.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJrUIqcb4yOBXOMbO9e7zuKLt0ULM-npTiivUcvxuT5Lw9H1AJ9RAjho0_z8uw9COsz8OMWUjBquZOsnaElZT0Qzkx7tSfaWYoG39RQUCmk7uss2uA1CPTU-m7_hgHjxBP4-IPUXUpiq3TJBHilCWfckO1bTLRz9R89XDZIK7I-6Tiu",
+        "ATtYBwIzLACLcnpMsPPnKpzT4Jx0ZLyVl5YF3MDj-xeqqg6RSVeH9MRn9CFerz3iMSa9AOq9VQr0D0qD61krB5NdVLIwSo4F0i3isOwDi7PO4SSvLgtrCx0-3Z972KkGkS10xu4X_OZiVVnqh0EZiHlq8FcfVMZMSufzjAnsG713mMcaTlDC",
+        "ATtYBwJfyWS0fA71z0Vw1bWqNeRaLifq9EjBNKdlfIkWGgrlqvK_jLdTQOE0Y2y7ha3JCjxugv5UpA7nZduqkANJ6JHzFLE-dfEpf-ICqY0sDt2oXnP6ERuz-JyDD-oyAUwPEhs54YffFBcfUkVddNGnEbar36jLfxqVNHSSUBnwfQza_P35",
+        "ATtYBwI05jT_QeGp3V3-wswl0epZd6yCc7x88ad3oQrpHiodbfEEaGgF1l__K0mpwNr89sCOVepicjiv-XhybY671lCHQsQY3oOWttD22p2_OkN3aOoIiZHG3I0Yl-CZR9rnOzvz_bG79X5QTGcApetw6E__vDrgwelcu3fwfLxxmDSTKtYU",
+        "ATtYBwISA52C12PD2AlVeYHX-d2pzSOFO2VIYdCQWMexQYdzzmDKc421962G5fEBHWwniLtW1r-2brlQwfXgn69NH0mDnvT-M1zwNd4GfFU_ix6DsXWG430uCuqokgfC5O3Iusyr1VcFa6IbDQp3QnIh_5hBSJnamY2rPTgVSwgPvEZ--bNJ",
+        "ATtYBwJ7XT8ZMggJi3YVaifus3eTL4wf8Pe5u0qWtFxsKZZRq6RHGqFnXpVyHsCAAOBPQowOxmbvNeslrTZ7l_vszRYdSlOSHwNNRDsgIhn1d0tHjbawkvddxl9P0-Iv-dYMofACk5vJf1kdu0Euxc92Y7kSg5xOCZMBLuH-mI44GE6zs0GS",
+        "ATtYBwIAsZMJAzjbUfSK_hrD3a6ew5s7G0GrIE1UCWKXUloplA5ItaqS7U6PHo0ag78h5kX_7FGSrDO_eNNUm2I1K6pUCUeglfvCKMQWubAr9vKWiPwkVhBKMwedNOnfFTjWZO4B62UB31W63BSRzDrmj58xLfo3WfDq__CVyw4JoA2bnbdh",
+        "ATtYBwL6BfqZTuGL3ZDuayBUdOkq8sIQt3Kx4HP0NFNQ8NTLSjRdZH1T7ZuDOFHY60EGk-hg9bNLxLJf-j8SWRImjH8ZMz7LqDK5KOx9MXI1oBtU7fjQPXjwtuHilG5zyusFReKp040BG_LbxJ_kaL1NThGIZZjeWkHv0crnzoY6Hqo7Tzy7",
+        "ATtYBwK-dQ8Vu33zCVyCk0ai4oz4Sd9gfdEaO-OFtKMlrY_RP27kW64A5ckVZ31jy8WIkWpn4Ka0eiMBpoMnmAHQQZ0tEqLRJmpsVMcSf62mMn-SAMq3F-1FKtUlS_9eJPSKGmi4hrpfPeDPlJaIU3WbiPaiFAGbLcPNTYkd29gw8SrP0bxG",
+        "ATtYBwJCPPb4DvkuJwiO1VuOnqk4MVx2XyajRgd_rs8tdC_D8_rB68CzEqv-RROm1BfPahVGMtSSr37eYSsBC9ZHSa2srntEEnnlflrwoV4qZsEpPMPiVvZb3NdDXI8UziiJzpZZnC3HgxJ11gtcpniiHf8yRekPwQmZwZy5BojT_phzYSZo"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJUbMJVKj9DDkRwah69aDfQDo",
+      "google_maps_url": "https://maps.google.com/?cid=4197600735115520193",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Block A, Sector 23, Sanjay Nagar, Ghaziabad, Uttar Pradesh 201002, India",
-        "geometry": {
-          "location": {
-            "lat": 28.6917923,
-            "lng": 77.44732619999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.6930834302915,
-              "lng": 77.4487506302915
-            },
-            "southwest": {
-              "lat": 28.6903854697085,
-              "lng": 77.4460526697085
-            }
-          }
-        },
-        "name": "Maitreya Buddha Vihar",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108357453706134763629\">Aludeniye Subodhi Thero</a>"
-            ],
-            "photo_reference": "ATtYBwJ14BXJ_wvM996756wZ-oPr9VSKuClK46Zry1fGZFlx2ZUFCXJNnU9_zzKc1jc03WD8HDlpQjTYnlY4v1df0jSZZiHjPg1qxzY5AXSuBqbZ5V_CjZvAE0Ph7UYCC4s6vBsyKbcPVn9VU8rihrJwKvvM5Xm6who3tQKzwxHIJgEcU-gj",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108357453706134763629\">Aludeniye Subodhi Thero</a>"
-            ],
-            "photo_reference": "ATtYBwK1q8lPxfnPFnIzSjwfv_f8jJF-Ch-pkg1N3zesy5TW7MNmF81Ao8eFAga6NYC3tO283bxKaN9eZE7cQwu4LyHubVekNVtZKhI3JLne0WUAxtFJeDM5kPfx_jsZVCPpMWHhUGqSiXKazpGuAUUEOwxmrNsy-pHxtM-uk7LIzHry60G0",
-            "width": 4032
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100733391509491306906\">SUSHEEL KUMAR BHIRAM</a>"
-            ],
-            "photo_reference": "ATtYBwJa_5fGeI8b3CxpsjKez90HDCgtymS9l8f-FNnzQ4dFvxRXiyaz7wSIJu46IR4Rzd3ohj8Vm7NnuuIdAd1RQP5aSL3BMsNQW9KYt3lIpwfyFNC5pQrSOHfXOQM7QQH4uLcaZgHH6X5A_K7P0rdQf3dEZ22y8-9hVr3rJ9XayGOkbjJf",
-            "width": 4608
-          },
-          {
-            "height": 1920,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111474817388015215594\">Bodhendra Kumar</a>"
-            ],
-            "photo_reference": "ATtYBwJOxCZ6WoxBxm8WnNxjTTXLMQT7gS2aN21gVtZxVC9rq8KV7R_O68K4nwteN1S3gzJ5U8S592ZByGFrgPOKaPDPvOKRZkc3hYjpFth2SkjtBELVrMAoyPp3LqpkYN9_VzlcoFYeHDreoqUW0_Ngd0UWV47m1HDIjnEQwen2R6Ns-vIf",
-            "width": 2560
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108357453706134763629\">Aludeniye Subodhi Thero</a>"
-            ],
-            "photo_reference": "ATtYBwIQFjDd_fEepC8y77f_u7lawOAuXfh1ubkM9X3P0fdC5woVZvtMhxIn5qKNgP2QHLHSBFHj8tK2jI7ix-HhJNfHEpD94rJzI0eUPdbIGktYco-RcfLNyhPDr3MQt-w3iYdp7k7BKUvSN-OAW_UIsKqmBkVggdy0ua-8gKebc44AYuMa",
-            "width": 1280
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108357453706134763629\">Aludeniye Subodhi Thero</a>"
-            ],
-            "photo_reference": "ATtYBwJf_M70k3EXGSB789S2prjtm1iHUumk0p-3MugI6s7CWcj-TaFFQOY0BCc44Sbos4o6sINuOU6NO3CzdHBFHMkwgqLc3HKGivBaAx3INFW4lI2vqSTbljXr5uH9wDn5-A_XY4ey1-m0aLaAeIFJdWr-7OUbOAFP72xLtpqdVLl3sN3H",
-            "width": 1280
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108357453706134763629\">Aludeniye Subodhi Thero</a>"
-            ],
-            "photo_reference": "ATtYBwLBODViVy-PsKLow2SGNa_7hRgkWahseKCJinrEE9pnilfured7AzvmClVovleMeyC7lEA_FwhkNrd8B_mYJk0ZSKJsddZdx3J5nQPiHYOw3OKvofBHoT81nSr0-6FD6OdqG-gI5WDXzz-wXgbF772OpQvDXUMbjMFHJIbBCtGPV0O3",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108357453706134763629\">Aludeniye Subodhi Thero</a>"
-            ],
-            "photo_reference": "ATtYBwIQHmovPDWG1GFBm-hVN2gnkBjO35BGbOyxR8_6RXQPEj8HMJAfyLqdY5UJcmZs7fQcrEtCD5fcguI5Dacub5FjbzWqthm2Ok2uGLjaFPNdtNwM6575x1A69ClHb_mqdo7vnXA-hCCwAydndT32mAl26utzXiQqpp7G4_EzI8AWe1Io",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108357453706134763629\">Aludeniye Subodhi Thero</a>"
-            ],
-            "photo_reference": "ATtYBwLVUopIYyABwEr39lpWkUo1_HEBHHpecQqCwASKxOlNAPCHjZgYF1QXtFQoVZmG11zWFNGb-1qw09MeQpTeXD1VyJ4cdWSmLM8gDnYDAV27O-SSjdCEu2aDvGTu5R7crhYq0ivDi7XzlJ2WXlCP2Qz7FjqsJwyZBi1cY6RIGX71dUNs",
-            "width": 4032
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108357453706134763629\">Aludeniye Subodhi Thero</a>"
-            ],
-            "photo_reference": "ATtYBwKZ__NYSOP__ahkQdwHBAfkuMzObzJBgst7e49-S0vynzPsqluXLFfElcfmr7q-7tP7iacMNqLrax74YujYZCas7w3zovliaCQm4j_Z1ycvZBDoZ2e5vyq6xgcY-UOwCqpK8Wfzdtj6yTDqih8SMoYYJ0IzSD5QJ-jk-0mUlBQTq9sa",
-            "width": 1280
-          }
-        ],
-        "place_id": "ChIJx_1ATXXxDDkRgNlI3xKIk6k",
-        "url": "https://maps.google.com/?cid=12219259828623169920",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Maitreya Buddha Vihar",
+      "location": {
+        "lat": 28.6917923,
+        "lng": 77.44732619999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Block A, Sector 23, Sanjay Nagar, Ghaziabad, Uttar Pradesh 201002, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJ14BXJ_wvM996756wZ-oPr9VSKuClK46Zry1fGZFlx2ZUFCXJNnU9_zzKc1jc03WD8HDlpQjTYnlY4v1df0jSZZiHjPg1qxzY5AXSuBqbZ5V_CjZvAE0Ph7UYCC4s6vBsyKbcPVn9VU8rihrJwKvvM5Xm6who3tQKzwxHIJgEcU-gj",
+        "ATtYBwK1q8lPxfnPFnIzSjwfv_f8jJF-Ch-pkg1N3zesy5TW7MNmF81Ao8eFAga6NYC3tO283bxKaN9eZE7cQwu4LyHubVekNVtZKhI3JLne0WUAxtFJeDM5kPfx_jsZVCPpMWHhUGqSiXKazpGuAUUEOwxmrNsy-pHxtM-uk7LIzHry60G0",
+        "ATtYBwJa_5fGeI8b3CxpsjKez90HDCgtymS9l8f-FNnzQ4dFvxRXiyaz7wSIJu46IR4Rzd3ohj8Vm7NnuuIdAd1RQP5aSL3BMsNQW9KYt3lIpwfyFNC5pQrSOHfXOQM7QQH4uLcaZgHH6X5A_K7P0rdQf3dEZ22y8-9hVr3rJ9XayGOkbjJf",
+        "ATtYBwJOxCZ6WoxBxm8WnNxjTTXLMQT7gS2aN21gVtZxVC9rq8KV7R_O68K4nwteN1S3gzJ5U8S592ZByGFrgPOKaPDPvOKRZkc3hYjpFth2SkjtBELVrMAoyPp3LqpkYN9_VzlcoFYeHDreoqUW0_Ngd0UWV47m1HDIjnEQwen2R6Ns-vIf",
+        "ATtYBwIQFjDd_fEepC8y77f_u7lawOAuXfh1ubkM9X3P0fdC5woVZvtMhxIn5qKNgP2QHLHSBFHj8tK2jI7ix-HhJNfHEpD94rJzI0eUPdbIGktYco-RcfLNyhPDr3MQt-w3iYdp7k7BKUvSN-OAW_UIsKqmBkVggdy0ua-8gKebc44AYuMa",
+        "ATtYBwJf_M70k3EXGSB789S2prjtm1iHUumk0p-3MugI6s7CWcj-TaFFQOY0BCc44Sbos4o6sINuOU6NO3CzdHBFHMkwgqLc3HKGivBaAx3INFW4lI2vqSTbljXr5uH9wDn5-A_XY4ey1-m0aLaAeIFJdWr-7OUbOAFP72xLtpqdVLl3sN3H",
+        "ATtYBwLBODViVy-PsKLow2SGNa_7hRgkWahseKCJinrEE9pnilfured7AzvmClVovleMeyC7lEA_FwhkNrd8B_mYJk0ZSKJsddZdx3J5nQPiHYOw3OKvofBHoT81nSr0-6FD6OdqG-gI5WDXzz-wXgbF772OpQvDXUMbjMFHJIbBCtGPV0O3",
+        "ATtYBwIQHmovPDWG1GFBm-hVN2gnkBjO35BGbOyxR8_6RXQPEj8HMJAfyLqdY5UJcmZs7fQcrEtCD5fcguI5Dacub5FjbzWqthm2Ok2uGLjaFPNdtNwM6575x1A69ClHb_mqdo7vnXA-hCCwAydndT32mAl26utzXiQqpp7G4_EzI8AWe1Io",
+        "ATtYBwLVUopIYyABwEr39lpWkUo1_HEBHHpecQqCwASKxOlNAPCHjZgYF1QXtFQoVZmG11zWFNGb-1qw09MeQpTeXD1VyJ4cdWSmLM8gDnYDAV27O-SSjdCEu2aDvGTu5R7crhYq0ivDi7XzlJ2WXlCP2Qz7FjqsJwyZBi1cY6RIGX71dUNs",
+        "ATtYBwKZ__NYSOP__ahkQdwHBAfkuMzObzJBgst7e49-S0vynzPsqluXLFfElcfmr7q-7tP7iacMNqLrax74YujYZCas7w3zovliaCQm4j_Z1ycvZBDoZ2e5vyq6xgcY-UOwCqpK8Wfzdtj6yTDqih8SMoYYJ0IzSD5QJ-jk-0mUlBQTq9sa"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJx_1ATXXxDDkRgNlI3xKIk6k",
+      "google_maps_url": "https://maps.google.com/?cid=12219259828623169920",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Martadi, Badimalika 10600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.4582731,
-            "lng": 81.5520994
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.4596220802915,
-              "lng": 81.5534483802915
-            },
-            "southwest": {
-              "lat": 29.4569241197085,
-              "lng": 81.55075041970849
-            }
-          }
-        },
-        "name": "Shyorshing Gomba - श्योर्शिङ गोम्बा",
-        "place_id": "ChIJ1_N3Ze8LozkRqEmaiz0zXxA",
-        "url": "https://maps.google.com/?cid=1179717966822525352",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Shyorshing Gomba - श्योर्शिङ गोम्बा",
+      "location": {
+        "lat": 29.4582731,
+        "lng": 81.5520994
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Martadi, Badimalika 10600, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1_N3Ze8LozkRqEmaiz0zXxA",
+      "google_maps_url": "https://maps.google.com/?cid=1179717966822525352",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tibetan Colony P.O, 2, Budha Temple Rd, New Basti, Clement Town, Dehradun, Uttarakhand 248002, India",
-        "geometry": {
-          "location": {
-            "lat": 30.25975369999999,
-            "lng": 77.9966235
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.2611635302915,
-              "lng": 77.9978830302915
-            },
-            "southwest": {
-              "lat": 30.2584655697085,
-              "lng": 77.9951850697085
-            }
-          }
-        },
-        "international_phone_number": "+91 70579 93071",
-        "name": "Mahabodhi Statue of Buddha",
-        "photos": [
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107911804032791946407\">Barun Dhiman</a>"
-            ],
-            "photo_reference": "ATtYBwI0J4UWQTIb00XrLHZ5e9nlMVCAPBCukkwO7XyfOT2_ZqqKnny8HNuy1MuKObOMAKIRHCvAEJ-t5m3KR9d3o5QOMgA2TTGctNr5nSFh7WiUzy1Efi--AIOhUxIVku_Qim_JDTYydqkaZLRQWy0ur4v0-VJ5OyhoIBOaL5i8qRBmrFTv",
-            "width": 3456
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112885742830475856162\">Vishal Lathe</a>"
-            ],
-            "photo_reference": "ATtYBwKxHuqNEBsMOn6Tl6jwbCf56NiifnX6R-IbrEc-2JgLvYEuue3z3OHDLMZKCXyIJ_sSMEgoYrfVmiTdf7RsFt7nR9wqvZUQqwXnX4XIVMJL8qgruUbxpEdjihwzHeiN30MpZjYdnPzECSiviGFIs7Lwryp9Rz2ZTHiSuEp4l4oeOhrv",
-            "width": 3264
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105959748585221859237\">Deepak Sharma</a>"
-            ],
-            "photo_reference": "ATtYBwIVz0IgaCC70bV2KTq7lk-ee8YKRG1SKuIPdFl4AP5HsUkI4ou5C6ryV6Y8uUvwl5uoc-yL4z8S5S9e3V9kdvGTjzv_WtvC0u6Kimj3LQ7Eqlqp8AU368WEkfKcT1pr0nDuyG_Jhpd1EcujnvFBWWuXl8Q-GCnbk3SiNOx6Nap2Ojt4",
-            "width": 4160
-          },
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106576319576792241487\">Valeriia Samoilenko</a>"
-            ],
-            "photo_reference": "ATtYBwIChPHPjHFvTjPAl7IMGB_MwSXSEGqN1Nz2LUS-pAUC7xXAdXkGOXu0nsdXnCAOjbYhsyUhb5DwR5LdqCTD0Y9vuW9e25cH7PGOOoTc3d6fQTVmF6cWcZngAB_VyijoT4VDG_gl-voHlV1tJSyxmIu31roD1ySSZiKdO29Sfb8BnAE4",
-            "width": 1600
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101015262744982781838\">Baljinder Singh</a>"
-            ],
-            "photo_reference": "ATtYBwIoQBPgu0Z1o1Ejl_BewnoYtGiEcgxSAS6UIRqIW4DPECcLq07pgHNr661Ca6xi26P8PH7iWArpKTpAFM35CR7OuU4FdRp-4fyuWXTeeBmRaVRgb0DESXdE-IF1YxwV-a6IYBegHYFqpFCqwpbqyOJa5esQwN65A8tvzwNI5bYER3Yk",
-            "width": 2448
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116253752345787779085\">Anki Kkc</a>"
-            ],
-            "photo_reference": "ATtYBwLTe47r9vRRkZ_DXWF2Y__7-63JztA6NwYBXKVySIG0KRg5egJwrW2HiIu8bngRJ2ksdpCTsmu3HORUaKTSxnp9KqbFziGedr5-6cgzMQPcXf8RqjVk2X8Abe1IfPUdxmYeieMRM-0fmVf-YEMxk4bxiKTnvlhMBSiukv-oKwXkgDz5",
-            "width": 4160
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115823062004429330404\">Abhie</a>"
-            ],
-            "photo_reference": "ATtYBwKDTw8qVfzVAh8D1F3rnJ7u4VcBaPs39GzYqNXw8rxxb4LhhQR2XWbYTEecejXsha3T1reFJN5Glp6araGNm_WSRBbr0Sw4fi3GWoyctPA7Pu20ChfJ61U4RfsWDEuwq-aoOtEcCyd5sFuNmDo-JItZjyl4LmHN0uhDEZ2p5aAHA0zs",
-            "width": 785
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107165091567644195980\">Vikram Verma</a>"
-            ],
-            "photo_reference": "ATtYBwJXuJCvxxXQ5Z3jV6m04Z7eVTlie04Fhyx5zSdJqs2ybRSUA-7LhqA574Nh_6_s4auPfSbuf_z1DxZuinN3k_cyQVd77TaMDZZxFlMqTtsNsay21HcED1YgiDObJ5dujGQ3ccRGPk62uAoSxDC2GcHaSfRYrsotJjhVc9N7AiJ4kSM4",
-            "width": 2048
-          },
-          {
-            "height": 2864,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114611797409521875837\">Sonal Rawat</a>"
-            ],
-            "photo_reference": "ATtYBwIczIy66ghaziULfPhNRiHX6MlFhtEVB-qseDyJnlADTP3lGiU-nSpJD6DsCGwbUlj-erJJmzHxwnZXR9XEhX0pCVVBIWtDIGvu_6rWwNpx1cJb4uO2c_mnx3FyfVAEmPfYBKbu9ZhNV9ODRYvUS0opfKYse-HBijSNot8GToaO7PaG",
-            "width": 4160
-          },
-          {
-            "height": 1872,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102700286117861734541\">anuraj v</a>"
-            ],
-            "photo_reference": "ATtYBwKIy6on9nUxaE23kW7CtzoPtoL8A9qqf3wV9E6KDz7qhAeN23MxsNsUUngRG4YdaLmzAQo2q8fD4V9b0hEnMhcu24jF9EyZ_geH-4UDMWMNbxDN5NVCxP0QSKnQxJwVIGQveanUM5XzBJnwhBiFZS_QX2miU_dTPPVGvOoF6OBXpytt",
-            "width": 3328
-          }
-        ],
-        "place_id": "ChIJqxG0So0rCTkRXxtNrb_LVWc",
-        "url": "https://maps.google.com/?cid=7446081583033686879",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mahabodhi Statue of Buddha",
+      "location": {
+        "lat": 30.25975369999999,
+        "lng": 77.9966235
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Tibetan Colony P.O, 2, Budha Temple Rd, New Basti, Clement Town, Dehradun, Uttarakhand 248002, India",
+      "phone": "+91 70579 93071",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwI0J4UWQTIb00XrLHZ5e9nlMVCAPBCukkwO7XyfOT2_ZqqKnny8HNuy1MuKObOMAKIRHCvAEJ-t5m3KR9d3o5QOMgA2TTGctNr5nSFh7WiUzy1Efi--AIOhUxIVku_Qim_JDTYydqkaZLRQWy0ur4v0-VJ5OyhoIBOaL5i8qRBmrFTv",
+        "ATtYBwKxHuqNEBsMOn6Tl6jwbCf56NiifnX6R-IbrEc-2JgLvYEuue3z3OHDLMZKCXyIJ_sSMEgoYrfVmiTdf7RsFt7nR9wqvZUQqwXnX4XIVMJL8qgruUbxpEdjihwzHeiN30MpZjYdnPzECSiviGFIs7Lwryp9Rz2ZTHiSuEp4l4oeOhrv",
+        "ATtYBwIVz0IgaCC70bV2KTq7lk-ee8YKRG1SKuIPdFl4AP5HsUkI4ou5C6ryV6Y8uUvwl5uoc-yL4z8S5S9e3V9kdvGTjzv_WtvC0u6Kimj3LQ7Eqlqp8AU368WEkfKcT1pr0nDuyG_Jhpd1EcujnvFBWWuXl8Q-GCnbk3SiNOx6Nap2Ojt4",
+        "ATtYBwIChPHPjHFvTjPAl7IMGB_MwSXSEGqN1Nz2LUS-pAUC7xXAdXkGOXu0nsdXnCAOjbYhsyUhb5DwR5LdqCTD0Y9vuW9e25cH7PGOOoTc3d6fQTVmF6cWcZngAB_VyijoT4VDG_gl-voHlV1tJSyxmIu31roD1ySSZiKdO29Sfb8BnAE4",
+        "ATtYBwIoQBPgu0Z1o1Ejl_BewnoYtGiEcgxSAS6UIRqIW4DPECcLq07pgHNr661Ca6xi26P8PH7iWArpKTpAFM35CR7OuU4FdRp-4fyuWXTeeBmRaVRgb0DESXdE-IF1YxwV-a6IYBegHYFqpFCqwpbqyOJa5esQwN65A8tvzwNI5bYER3Yk",
+        "ATtYBwLTe47r9vRRkZ_DXWF2Y__7-63JztA6NwYBXKVySIG0KRg5egJwrW2HiIu8bngRJ2ksdpCTsmu3HORUaKTSxnp9KqbFziGedr5-6cgzMQPcXf8RqjVk2X8Abe1IfPUdxmYeieMRM-0fmVf-YEMxk4bxiKTnvlhMBSiukv-oKwXkgDz5",
+        "ATtYBwKDTw8qVfzVAh8D1F3rnJ7u4VcBaPs39GzYqNXw8rxxb4LhhQR2XWbYTEecejXsha3T1reFJN5Glp6araGNm_WSRBbr0Sw4fi3GWoyctPA7Pu20ChfJ61U4RfsWDEuwq-aoOtEcCyd5sFuNmDo-JItZjyl4LmHN0uhDEZ2p5aAHA0zs",
+        "ATtYBwJXuJCvxxXQ5Z3jV6m04Z7eVTlie04Fhyx5zSdJqs2ybRSUA-7LhqA574Nh_6_s4auPfSbuf_z1DxZuinN3k_cyQVd77TaMDZZxFlMqTtsNsay21HcED1YgiDObJ5dujGQ3ccRGPk62uAoSxDC2GcHaSfRYrsotJjhVc9N7AiJ4kSM4",
+        "ATtYBwIczIy66ghaziULfPhNRiHX6MlFhtEVB-qseDyJnlADTP3lGiU-nSpJD6DsCGwbUlj-erJJmzHxwnZXR9XEhX0pCVVBIWtDIGvu_6rWwNpx1cJb4uO2c_mnx3FyfVAEmPfYBKbu9ZhNV9ODRYvUS0opfKYse-HBijSNot8GToaO7PaG",
+        "ATtYBwKIy6on9nUxaE23kW7CtzoPtoL8A9qqf3wV9E6KDz7qhAeN23MxsNsUUngRG4YdaLmzAQo2q8fD4V9b0hEnMhcu24jF9EyZ_geH-4UDMWMNbxDN5NVCxP0QSKnQxJwVIGQveanUM5XzBJnwhBiFZS_QX2miU_dTPPVGvOoF6OBXpytt"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqxG0So0rCTkRXxtNrb_LVWc",
+      "google_maps_url": "https://maps.google.com/?cid=7446081583033686879",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "PO 48, Sahastradhara Rd, Kulhan, Dehradun, Uttarakhand 248001, India",
-        "geometry": {
-          "location": {
-            "lat": 30.38037690000001,
-            "lng": 78.1019776
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.3816787302915,
-              "lng": 78.1035213302915
-            },
-            "southwest": {
-              "lat": 30.3789807697085,
-              "lng": 78.1008233697085
-            }
-          }
-        },
-        "international_phone_number": "+91 135 260 7310",
-        "name": "Drikung Kagyu Institute",
-        "photos": [
-          {
-            "height": 2248,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104179593992805651768\">Jigmet Namgial</a>"
-            ],
-            "photo_reference": "ATtYBwLPH9A5fvP5btcviZP7yWsNpCArv6AUOvxg7zP2EVfS1r-VnHOh0W-ZT3z9OPynay_RCdQHaMXPbQiTm1lzsZQhKHVE7rqd1xZXx6QrehUiiR6JLvqZyRLP05cQNQAREVlzX7LidZmgfuS-gi711lF3EyDGx-YI0w5wOB544hIRkqeX",
-            "width": 4000
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104172337693199465354\">Pankaj GOEL</a>"
-            ],
-            "photo_reference": "ATtYBwJ5ByJweVDRBkLqqcDXExf3iP1p_Eu9xcT5vFpQa53fdnXrPvIdRdM9PN-AJw8xtcuIk4see_78dUZpTDIR91OBcqv51bpcNb__xcrucC-6XQn80hIchjELkY-IGlsy6PSFewSYpGZZ2inE4LO0U_JewYcvla1yKZkZ6EZ-0K5rhM1G",
-            "width": 4160
-          },
-          {
-            "height": 5846,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104179593992805651768\">Jigmet Namgial</a>"
-            ],
-            "photo_reference": "ATtYBwL5hXDJDUAkFNV2ceUXXklR-O1AMooh_nohg_N5-sXqTOq8qcpP45PyiisKTjW-np3go2QR3H3zslwBe5nsh8_y1_ULveRYEFXia8nerqvA4ZMGFwSKhHlNE4hR6fWmCFFMsmp-etPUL0mFKwkhyKVhEePOCmRGtdeBo3ac7Y6wgXBY",
-            "width": 5558
-          },
-          {
-            "height": 2160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112925367109059122640\">tenzin sheyden</a>"
-            ],
-            "photo_reference": "ATtYBwKFolbkzC8DdrmxnTbytaAkxzch4ubg3dhDriJCzCp63ifJZ9GbMh9Tm3zfBcFP8S4fEwBD9Y-2ZkWgyQTEcg2Ktb59Oxl40DM05xv8Pf8WPmNMP5Cfy8BqkuJ-3tYddfbgIdLrTSGvLFiU82tsbWyDFkgqFQYfJ_XHJSkJIiag_YZL",
-            "width": 3840
-          },
-          {
-            "height": 2160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112925367109059122640\">tenzin sheyden</a>"
-            ],
-            "photo_reference": "ATtYBwIbZtvop7rBNPXbGvMLdLUlfWcnR3ptfTNHT-RbCeWL0sFVx6r4mFwAYEPVVNmvc7f8Arwk5j6CUlT-oAlUc8E8aYFBTXKl3qGcSif7iDWEJ4k2jZwizR5n2kBIT90HSEE-MF8V7GkuOmYItdcndmEqQLNOnmnCf53Lcv-ohtYTsUKQ",
-            "width": 3840
-          },
-          {
-            "height": 2400,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108179782854570068888\">Vadim Lazar</a>"
-            ],
-            "photo_reference": "ATtYBwI3gJzOfGDAoIFec7O3QAgO0KLCHrNwBJWdFOhl2yNP4bJiGWQOpO_XZ3wZk-VeugOhgrr0EgzEG1I-orOSXeQY1-6JFPRwIdxJCHp87rht93MBqWO91nAgNXdEMpwbD_um2h1rhFDSQxb5KMK00TplFOJk08Wbxh0TbGq58PqiSOFb",
-            "width": 3200
-          },
-          {
-            "height": 2400,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108179782854570068888\">Vadim Lazar</a>"
-            ],
-            "photo_reference": "ATtYBwL28UoDG93FjwlmFiJ2hor68AWAf1kc8eVIrv3jlLBJE9w8cpnAxeWSygwA-L7J0LxOQXzMtOqSsfj2hDNIM3ylzOqHCMkd4cB-mo9vYBB_GTdv8CETkfRzXAlc8lCDZ_LIxLyPaUJhwm0UwORRQbO0jtYLkW_UCNhHpFOcLmxbPsW4",
-            "width": 3200
-          },
-          {
-            "height": 3480,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113245785759163977180\">stanzin norbu ck</a>"
-            ],
-            "photo_reference": "ATtYBwJNq6ApWaQwSlGMdnzZhBOluLoFG1Alt29M2pBZKYXhOrORw4pxmQeJU20G9J2Q489xl7pYmSyjm7ewXAHTS5PPnoqaX-ewvnY4ITzaPgZK1ZlBsNZq5i2FOp6imwHQ_R1VpLRPhvnNxYH0eNscIw29Ve9GDezSIBr85SolunNI92Kd",
-            "width": 4640
-          },
-          {
-            "height": 2400,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108179782854570068888\">Vadim Lazar</a>"
-            ],
-            "photo_reference": "ATtYBwKmgYuRTh-4tg97CjJKtoDtqwjVLf5k5eS3J7vZLnHH_Hg2LYMDCo041fA7Y5GnqZEP0f4djKgLIhScZQMw-FreuxIHV3CkKxR1lvZuXzdCiIZGeytUjkFIEP6bndyoNT5LUB7tqQ-76QelSTPLrY_3Tom9YyBAAbECwjrp6QQ1R2ny",
-            "width": 3200
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100079135239507317565\">Tenzin Paljor</a>"
-            ],
-            "photo_reference": "ATtYBwL5xYHE7nI7HSVc2sJMMMB2P0Wd3qElq2udGS0R1nhEpmRIMYVnX8QiSZaDmwLkdYdPrupqAFqE3GsY9gGs2oegVuQ00QBzURjNujWpBOMK6UfKo1VuQerpE3dTQyjExe9K0XMTZIonIVfwlT26ysUNvHygHSUoXyk-Z-wlDyD3UXqG",
-            "width": 1623
-          }
-        ],
-        "place_id": "ChIJ12IPUdnXCDkREaPjw0l6-4U",
-        "url": "https://maps.google.com/?cid=9654444683436466961",
-        "website": "http://www.drikung.org/contact",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Drikung Kagyu Institute",
+      "location": {
+        "lat": 30.38037690000001,
+        "lng": 78.1019776
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "PO 48, Sahastradhara Rd, Kulhan, Dehradun, Uttarakhand 248001, India",
+      "phone": "+91 135 260 7310",
+      "website": "http://www.drikung.org/contact",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLPH9A5fvP5btcviZP7yWsNpCArv6AUOvxg7zP2EVfS1r-VnHOh0W-ZT3z9OPynay_RCdQHaMXPbQiTm1lzsZQhKHVE7rqd1xZXx6QrehUiiR6JLvqZyRLP05cQNQAREVlzX7LidZmgfuS-gi711lF3EyDGx-YI0w5wOB544hIRkqeX",
+        "ATtYBwJ5ByJweVDRBkLqqcDXExf3iP1p_Eu9xcT5vFpQa53fdnXrPvIdRdM9PN-AJw8xtcuIk4see_78dUZpTDIR91OBcqv51bpcNb__xcrucC-6XQn80hIchjELkY-IGlsy6PSFewSYpGZZ2inE4LO0U_JewYcvla1yKZkZ6EZ-0K5rhM1G",
+        "ATtYBwL5hXDJDUAkFNV2ceUXXklR-O1AMooh_nohg_N5-sXqTOq8qcpP45PyiisKTjW-np3go2QR3H3zslwBe5nsh8_y1_ULveRYEFXia8nerqvA4ZMGFwSKhHlNE4hR6fWmCFFMsmp-etPUL0mFKwkhyKVhEePOCmRGtdeBo3ac7Y6wgXBY",
+        "ATtYBwKFolbkzC8DdrmxnTbytaAkxzch4ubg3dhDriJCzCp63ifJZ9GbMh9Tm3zfBcFP8S4fEwBD9Y-2ZkWgyQTEcg2Ktb59Oxl40DM05xv8Pf8WPmNMP5Cfy8BqkuJ-3tYddfbgIdLrTSGvLFiU82tsbWyDFkgqFQYfJ_XHJSkJIiag_YZL",
+        "ATtYBwIbZtvop7rBNPXbGvMLdLUlfWcnR3ptfTNHT-RbCeWL0sFVx6r4mFwAYEPVVNmvc7f8Arwk5j6CUlT-oAlUc8E8aYFBTXKl3qGcSif7iDWEJ4k2jZwizR5n2kBIT90HSEE-MF8V7GkuOmYItdcndmEqQLNOnmnCf53Lcv-ohtYTsUKQ",
+        "ATtYBwI3gJzOfGDAoIFec7O3QAgO0KLCHrNwBJWdFOhl2yNP4bJiGWQOpO_XZ3wZk-VeugOhgrr0EgzEG1I-orOSXeQY1-6JFPRwIdxJCHp87rht93MBqWO91nAgNXdEMpwbD_um2h1rhFDSQxb5KMK00TplFOJk08Wbxh0TbGq58PqiSOFb",
+        "ATtYBwL28UoDG93FjwlmFiJ2hor68AWAf1kc8eVIrv3jlLBJE9w8cpnAxeWSygwA-L7J0LxOQXzMtOqSsfj2hDNIM3ylzOqHCMkd4cB-mo9vYBB_GTdv8CETkfRzXAlc8lCDZ_LIxLyPaUJhwm0UwORRQbO0jtYLkW_UCNhHpFOcLmxbPsW4",
+        "ATtYBwJNq6ApWaQwSlGMdnzZhBOluLoFG1Alt29M2pBZKYXhOrORw4pxmQeJU20G9J2Q489xl7pYmSyjm7ewXAHTS5PPnoqaX-ewvnY4ITzaPgZK1ZlBsNZq5i2FOp6imwHQ_R1VpLRPhvnNxYH0eNscIw29Ve9GDezSIBr85SolunNI92Kd",
+        "ATtYBwKmgYuRTh-4tg97CjJKtoDtqwjVLf5k5eS3J7vZLnHH_Hg2LYMDCo041fA7Y5GnqZEP0f4djKgLIhScZQMw-FreuxIHV3CkKxR1lvZuXzdCiIZGeytUjkFIEP6bndyoNT5LUB7tqQ-76QelSTPLrY_3Tom9YyBAAbECwjrp6QQ1R2ny",
+        "ATtYBwL5xYHE7nI7HSVc2sJMMMB2P0Wd3qElq2udGS0R1nhEpmRIMYVnX8QiSZaDmwLkdYdPrupqAFqE3GsY9gGs2oegVuQ00QBzURjNujWpBOMK6UfKo1VuQerpE3dTQyjExe9K0XMTZIonIVfwlT26ysUNvHygHSUoXyk-Z-wlDyD3UXqG"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ12IPUdnXCDkREaPjw0l6-4U",
+      "google_maps_url": "https://maps.google.com/?cid=9654444683436466961",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "P.O. Mayavati, Via- Lohaghat, Dt. Champawat, Mayawati, Uttarakhand 262524, India",
-        "geometry": {
-          "location": {
-            "lat": 29.3732966,
-            "lng": 80.06102489999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.3747690302915,
-              "lng": 80.0629534302915
-            },
-            "southwest": {
-              "lat": 29.3720710697085,
-              "lng": 80.06025546970848
-            }
-          }
-        },
-        "international_phone_number": "+91 5965 234 233",
-        "name": "Advaita Ashrama, Mayavati",
-        "photos": [
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111513064106748111273\">Sohaib Akhtar</a>"
-            ],
-            "photo_reference": "ATtYBwJuEEmQwh1XGs4TkSu523xSNkUzVUvkdoojBKTCQoW1mocWDZs0K1-0B3G8I5jAgE4_cY3Njf14-StuLBfYfSvhZqHP3WMMZcq6eVOsqKNbxjrFN47iQiKf1lByNMKnt9v7yq8fGC16LdjeFz1N_UMU4CNEuQ-np7RnJxlHl6nLZAof",
-            "width": 4160
-          },
-          {
-            "height": 1366,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106937845898253430259\">Swami Vidishananda</a>"
-            ],
-            "photo_reference": "ATtYBwKHg_yVduMtQnCvw3x5C6f4iiyyfteEp_1lYQBSzWZTG_7_81U1yTLfKPKV2BNmTyF_moEnULRxA4YKMvogPywI8TgBKm1CVPlDqaBHeakKs7TD0REzxAXCbcMANX3m7bOo_vZoTI2CWYDnlD-TrvGL73CvJlCDZ7iK3WnaWg0qk_UC",
-            "width": 2048
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114792152280303567550\">Amalesh Guha</a>"
-            ],
-            "photo_reference": "ATtYBwK832JTp0zgBObDSCFduB_Tb5aIISd7AmXs83R1u3mexiuxT7b9JPTT2BuKNABSOBv9no9eLnxkzQVV7CYwjUYMd4yEYeFKTIupInI28WP6DFqbx74sgx0trkABUQNTDpMuoPgpbpbxBrDOVuEQEz5MeehOSIzJpB1dXs3KVcEfMQlt",
-            "width": 2048
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116153503375019227136\">Deep Joshi</a>"
-            ],
-            "photo_reference": "ATtYBwJ1nZ07ynE0E58xhl1coRrbrLhJu_HBPU2gCL3qQ-dxEvKk7iQIdFRrjjG-_sXgdRga-CuzoR_82fc2h385rIo1zrbD5LgjSGJTTJMxUcuuv7dMtwZADcScfRmQHQ8RxM3N_bjfMWQrCV6A3wvixlJXxmrLQiKMuLwqobDY2sjUl9nC",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101731037371183750680\">Anshuman Chauhan</a>"
-            ],
-            "photo_reference": "ATtYBwIcM3tbeHIiLGcpygwvSIVtOLWpEJ1vL820TQ2hZUEoDXFofo7cDH9QMCWuZXCecL47AttX1LwcW53YmZtKKR8Dr6xwZ1ozn75bWtiXYZhJRIFAFHn7S_tc3PWtqcVFwVLia-vozqxGybWWJYcKY4OeO8QtjHQBdBW4uOwowXhDJazC",
-            "width": 4032
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115956193468493015968\">Shyam T</a>"
-            ],
-            "photo_reference": "ATtYBwJCcQqeKbhmJyp0jgBk2j51Ps2zml_2urFfw_I98iEeENR9KoVBysYY39rPFUnpJXNWcoFPxI_Z6Ov_BsqR8pmo2-4EkcD0WAeMSQqTK8WpKzDQ6UTVdOPSlFB2a73wnUnmMVam8fn13yN_9XOuYupI6hviFEazErKKwImjim-h65PQ",
-            "width": 4160
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105264997350042401239\">Yogesh Pachauli</a>"
-            ],
-            "photo_reference": "ATtYBwIbGE2aPeUMYwbHz19olPV7aHZbJvycCpVlM_EYsYbvR3KIlnH9Lsvtc5p-t2-9k1eMI_bnTfvhZfnsrfEkmBXTe71c7LWuiBxqPC3A2SQoZX5ea5O5i6fNe32LCbhfOfr97-tzj54ZIxkxid8dOqy7VQ6YYObI_Gvy7dAmMMCZGVwS",
-            "width": 3456
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114792152280303567550\">Amalesh Guha</a>"
-            ],
-            "photo_reference": "ATtYBwLDuGoP22yWJVhBmLAG72858hTU6uhPbBhOH0e2UWTaeAoIyyVf8Nw_QTfgbssJVkBmRGmzd2msCT498GNLG6NwFu8DjEqWHKSYsNjfpBTX45qMZOI3gnSffxgeJ5MqL0exCfABUdk8JVlwY_EJSALFOdVk6ASegCfG0j3c71sw--wX",
-            "width": 2048
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101731037371183750680\">Anshuman Chauhan</a>"
-            ],
-            "photo_reference": "ATtYBwLeOYN8GpHIeVCsM5rucBGLawyn3wbsMyWeYqD8rJJJaknDyZTLhAX9gph4dmuX2lHV-hTYK9EUDfqZ1-kkytkjkRbJ_N9R_ULMxVHSrLSEeLBUBwdfYX4IaruXLzfE2JADjExcCIsDvYjkHCZxfl97liUPB5u9XdTvDCvXwdQdnxqe",
-            "width": 4032
-          },
-          {
-            "height": 3000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101731037371183750680\">Anshuman Chauhan</a>"
-            ],
-            "photo_reference": "ATtYBwItWRnem_FW5JDkDeEsClZQpZdaNpLBUxmDLOkvOErTYYBgBJjsaOhR4jQkHfj54L4sS_K05pWENO5HFYyzMKFSzN693ZWtQa8nyF2_8Prmq874gIM3eDuw7hvGKttizwpD5SuB9htKFXJHaB_lCaghiJbNJDJjNz5pfAE8w8KhVgdY",
-            "width": 4000
-          }
-        ],
-        "place_id": "ChIJV6FrA1PgoDkRpTAj_FG68T8",
-        "url": "https://maps.google.com/?cid=4607668755062010021",
-        "website": "http://www.advaitaashrama.org/mayavati",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Advaita Ashrama, Mayavati",
+      "location": {
+        "lat": 29.3732966,
+        "lng": 80.06102489999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "P.O. Mayavati, Via- Lohaghat, Dt. Champawat, Mayawati, Uttarakhand 262524, India",
+      "phone": "+91 5965 234 233",
+      "website": "http://www.advaitaashrama.org/mayavati",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJuEEmQwh1XGs4TkSu523xSNkUzVUvkdoojBKTCQoW1mocWDZs0K1-0B3G8I5jAgE4_cY3Njf14-StuLBfYfSvhZqHP3WMMZcq6eVOsqKNbxjrFN47iQiKf1lByNMKnt9v7yq8fGC16LdjeFz1N_UMU4CNEuQ-np7RnJxlHl6nLZAof",
+        "ATtYBwKHg_yVduMtQnCvw3x5C6f4iiyyfteEp_1lYQBSzWZTG_7_81U1yTLfKPKV2BNmTyF_moEnULRxA4YKMvogPywI8TgBKm1CVPlDqaBHeakKs7TD0REzxAXCbcMANX3m7bOo_vZoTI2CWYDnlD-TrvGL73CvJlCDZ7iK3WnaWg0qk_UC",
+        "ATtYBwK832JTp0zgBObDSCFduB_Tb5aIISd7AmXs83R1u3mexiuxT7b9JPTT2BuKNABSOBv9no9eLnxkzQVV7CYwjUYMd4yEYeFKTIupInI28WP6DFqbx74sgx0trkABUQNTDpMuoPgpbpbxBrDOVuEQEz5MeehOSIzJpB1dXs3KVcEfMQlt",
+        "ATtYBwJ1nZ07ynE0E58xhl1coRrbrLhJu_HBPU2gCL3qQ-dxEvKk7iQIdFRrjjG-_sXgdRga-CuzoR_82fc2h385rIo1zrbD5LgjSGJTTJMxUcuuv7dMtwZADcScfRmQHQ8RxM3N_bjfMWQrCV6A3wvixlJXxmrLQiKMuLwqobDY2sjUl9nC",
+        "ATtYBwIcM3tbeHIiLGcpygwvSIVtOLWpEJ1vL820TQ2hZUEoDXFofo7cDH9QMCWuZXCecL47AttX1LwcW53YmZtKKR8Dr6xwZ1ozn75bWtiXYZhJRIFAFHn7S_tc3PWtqcVFwVLia-vozqxGybWWJYcKY4OeO8QtjHQBdBW4uOwowXhDJazC",
+        "ATtYBwJCcQqeKbhmJyp0jgBk2j51Ps2zml_2urFfw_I98iEeENR9KoVBysYY39rPFUnpJXNWcoFPxI_Z6Ov_BsqR8pmo2-4EkcD0WAeMSQqTK8WpKzDQ6UTVdOPSlFB2a73wnUnmMVam8fn13yN_9XOuYupI6hviFEazErKKwImjim-h65PQ",
+        "ATtYBwIbGE2aPeUMYwbHz19olPV7aHZbJvycCpVlM_EYsYbvR3KIlnH9Lsvtc5p-t2-9k1eMI_bnTfvhZfnsrfEkmBXTe71c7LWuiBxqPC3A2SQoZX5ea5O5i6fNe32LCbhfOfr97-tzj54ZIxkxid8dOqy7VQ6YYObI_Gvy7dAmMMCZGVwS",
+        "ATtYBwLDuGoP22yWJVhBmLAG72858hTU6uhPbBhOH0e2UWTaeAoIyyVf8Nw_QTfgbssJVkBmRGmzd2msCT498GNLG6NwFu8DjEqWHKSYsNjfpBTX45qMZOI3gnSffxgeJ5MqL0exCfABUdk8JVlwY_EJSALFOdVk6ASegCfG0j3c71sw--wX",
+        "ATtYBwLeOYN8GpHIeVCsM5rucBGLawyn3wbsMyWeYqD8rJJJaknDyZTLhAX9gph4dmuX2lHV-hTYK9EUDfqZ1-kkytkjkRbJ_N9R_ULMxVHSrLSEeLBUBwdfYX4IaruXLzfE2JADjExcCIsDvYjkHCZxfl97liUPB5u9XdTvDCvXwdQdnxqe",
+        "ATtYBwItWRnem_FW5JDkDeEsClZQpZdaNpLBUxmDLOkvOErTYYBgBJjsaOhR4jQkHfj54L4sS_K05pWENO5HFYyzMKFSzN693ZWtQa8nyF2_8Prmq874gIM3eDuw7hvGKttizwpD5SuB9htKFXJHaB_lCaghiJbNJDJjNz5pfAE8w8KhVgdY"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJV6FrA1PgoDkRpTAj_FG68T8",
+      "google_maps_url": "https://maps.google.com/?cid=4607668755062010021",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Baijnath - Bhattu- Palpung Sherabling Monastery Rd, Bhattu Samula, Bhattu Uparla, Himachal Pradesh 175032, India",
-        "geometry": {
-          "location": {
-            "lat": 32.0520442,
-            "lng": 76.68441779999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.05336288029149,
-              "lng": 76.6857565802915
-            },
-            "southwest": {
-              "lat": 32.0506649197085,
-              "lng": 76.68305861970849
-            }
-          }
-        },
-        "international_phone_number": "+91 2956862",
-        "name": "Palpung Sherabling Monastic Seat",
-        "photos": [
-          {
-            "height": 6912,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114640219686417717921\">Vipul Anand</a>"
-            ],
-            "photo_reference": "ATtYBwK0X3DQz5T0IP9qnl9YhFS72WnEvEU4ZyYncKim9gcX6Nmbe0X6mVT0eLygIFhbbklkF1DLTJNKgrS19Iv-32NNIkCtWaStCi1Rb17lZ7DwMZANYxIYPYQTSFAZ5tOL2PH_AGclMCtsdGYNlp9-wNXKeCXleI4D8kYGC33C-VlBjB8I",
-            "width": 9216
-          },
-          {
-            "height": 3265,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104417314688608757680\">Shiv Nair</a>"
-            ],
-            "photo_reference": "ATtYBwKpVPrbNP4iuz6WwGMLZrQ-i05C-tzhkzD_h748a7m4uOgzDPKo-2qMD4iI7Y_t9coGenj5AwYGzZ22acoHLhPcC3__maMFa29MXxSjey82wF1tL4v7bdL4PM0AQm6R3lp87HV4U6RFbn0TJLtulqqswW6Jh0x3_ijBYsK5Dtl2xABw",
-            "width": 4898
-          },
-          {
-            "height": 2592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112147899379281302439\">Harshita Srivastava</a>"
-            ],
-            "photo_reference": "ATtYBwLP_J9RcujFkJJ5TUFrqUjxgjxx7HZ9NoBh83MIF1qu1kwjits4tRxDKj6jAp8l2xCQZhneVWlmm7azgc6mWYa_NtQjrKgnHw8H81etUXqsUT6D0JCBJnPowiF06Ap6lVq5UVGMOEh9ADzTcyGKwqAMfkeOhEEzF2b4hlWoFqKw24C6",
-            "width": 4608
-          },
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102580647662709366040\">Ankur Nayak</a>"
-            ],
-            "photo_reference": "ATtYBwLVQoo4-r94PQ9-AOrCbDaLAOmhwGB-46LOKkaNXvzrYzJo-EbbrRYH1_O2o-s0EHHx0rxP7iTqlWb0YcgQf6-hMmoht2ECny-6VR4ZCLqfwj6eR-bnonKo3PmUR_Xmm9NIgt-QfrWm6ri4c7UJjeVMxVyaZH22VnrewOq_iJnzExAn",
-            "width": 6000
-          },
-          {
-            "height": 2610,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116513940204904432539\">Passang Tsering</a>"
-            ],
-            "photo_reference": "ATtYBwKZ_gWk4JQ_LZyrdXAwyxqfYT0zklWu7oEI06EuHdRKkHTyad_77t3x_4zIa7M3rR4HmxgdGqZ7tYq5lvGOT2ItC9r5PkYf6fhSKMiM7fm1sQk8RHLLi9RxZuEzXEKNnIBiNGk18lts0LTEiAr5NPN5Ht4oZ6_9QjymPtBgfvUOjWOZ",
-            "width": 4640
-          },
-          {
-            "height": 3880,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113396472721902745346\">Varun Kaul</a>"
-            ],
-            "photo_reference": "ATtYBwKOgjFzuNoxZjFZmx3QIflFczzq5gvpjsgIgolpLcj88FpDEwAqeFFveC2BMZ9ucYsDh2gYysf6lO8ueatmP-AnJtzkBFl2isX6dIKumbC8uerop10FNIPSp9kD1JyRe2iOojyoHhJRro6XCF-cP3qSwrFhqFNx10lKzGP-d9F7jmhS",
-            "width": 5184
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102454314295145381358\">Karna Punj</a>"
-            ],
-            "photo_reference": "ATtYBwK2s0NJfLjinrXOrFD_TDOBimftCcjQTSKZMM74dLSAhh0L5mfnW3GM1si5ZNbCWa7Km-RGhuBuZiDpEzBgpomfh6gCBN28eiWgU5bGDNLwOuej6j7t3ePdzY9jmhBYfzU6_i-95fT1vKk5xQqCqXZe0T8p_E28BlCxmoWUSbzjM8Pi",
-            "width": 2448
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106936729591412126020\">Sourav Balgotra</a>"
-            ],
-            "photo_reference": "ATtYBwIGgqO9jTqNmmVs0y32KprPkQulzp9ntcG1quqPedyVivIy0HxQAgLrI4I1wiprpRSXN6_bZqXrfmG6Sul0OOv3UXJQLm0Tn9D1sDMOblfTXMBi2tn5lYJ-7X_AOMfG8nzJ0JQAwo3YWW2938W8OPo48UdjpAAVf4Ha3w6IeYH9ED29",
-            "width": 4608
-          },
-          {
-            "height": 2450,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114323819801478102958\">Максим Дуняшин</a>"
-            ],
-            "photo_reference": "ATtYBwIwu5zZRaT6tyzbDfcqMda9Rug1whNA4PWq0270trcBkK9CLA6_1vPuhADyMXvFflIWgqj0VYpV71j0-FqM-X4Pw7_ydjz_HXkC6iX6uJK8OA0aeSqui2WFVQwXpOSn4IaIYujfjVJoK5F_Abd8DvvYQc8KmJ8L0iE2ZNfjt8uOIAfd",
-            "width": 1960
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104028864047965549475\">karuna murdaya</a>"
-            ],
-            "photo_reference": "ATtYBwJGzkeQrv9YoKaEtu4Ala8t8HNqYiuLBm29ew9Cs7ppC3oq7QB_R3dwUd_ylbAVVC4mhk4BUu9oRGO8hX58YFFBQCL0NVUwEo2zpqlf7LuYtVktuAU90yucH22Uvy3fYtg3v-EOPK0bVJNiB6MNFv97KXrJLg7B5BJ8sWqlBzAiWs5_",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJXzC2Mv-4BDkRy28ZBs04Bfc",
-        "url": "https://maps.google.com/?cid=17799695555473534923",
-        "website": "http://www.palpung.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Palpung Sherabling Monastic Seat",
+      "location": {
+        "lat": 32.0520442,
+        "lng": 76.68441779999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Baijnath - Bhattu- Palpung Sherabling Monastery Rd, Bhattu Samula, Bhattu Uparla, Himachal Pradesh 175032, India",
+      "phone": "+91 2956862",
+      "website": "http://www.palpung.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwK0X3DQz5T0IP9qnl9YhFS72WnEvEU4ZyYncKim9gcX6Nmbe0X6mVT0eLygIFhbbklkF1DLTJNKgrS19Iv-32NNIkCtWaStCi1Rb17lZ7DwMZANYxIYPYQTSFAZ5tOL2PH_AGclMCtsdGYNlp9-wNXKeCXleI4D8kYGC33C-VlBjB8I",
+        "ATtYBwKpVPrbNP4iuz6WwGMLZrQ-i05C-tzhkzD_h748a7m4uOgzDPKo-2qMD4iI7Y_t9coGenj5AwYGzZ22acoHLhPcC3__maMFa29MXxSjey82wF1tL4v7bdL4PM0AQm6R3lp87HV4U6RFbn0TJLtulqqswW6Jh0x3_ijBYsK5Dtl2xABw",
+        "ATtYBwLP_J9RcujFkJJ5TUFrqUjxgjxx7HZ9NoBh83MIF1qu1kwjits4tRxDKj6jAp8l2xCQZhneVWlmm7azgc6mWYa_NtQjrKgnHw8H81etUXqsUT6D0JCBJnPowiF06Ap6lVq5UVGMOEh9ADzTcyGKwqAMfkeOhEEzF2b4hlWoFqKw24C6",
+        "ATtYBwLVQoo4-r94PQ9-AOrCbDaLAOmhwGB-46LOKkaNXvzrYzJo-EbbrRYH1_O2o-s0EHHx0rxP7iTqlWb0YcgQf6-hMmoht2ECny-6VR4ZCLqfwj6eR-bnonKo3PmUR_Xmm9NIgt-QfrWm6ri4c7UJjeVMxVyaZH22VnrewOq_iJnzExAn",
+        "ATtYBwKZ_gWk4JQ_LZyrdXAwyxqfYT0zklWu7oEI06EuHdRKkHTyad_77t3x_4zIa7M3rR4HmxgdGqZ7tYq5lvGOT2ItC9r5PkYf6fhSKMiM7fm1sQk8RHLLi9RxZuEzXEKNnIBiNGk18lts0LTEiAr5NPN5Ht4oZ6_9QjymPtBgfvUOjWOZ",
+        "ATtYBwKOgjFzuNoxZjFZmx3QIflFczzq5gvpjsgIgolpLcj88FpDEwAqeFFveC2BMZ9ucYsDh2gYysf6lO8ueatmP-AnJtzkBFl2isX6dIKumbC8uerop10FNIPSp9kD1JyRe2iOojyoHhJRro6XCF-cP3qSwrFhqFNx10lKzGP-d9F7jmhS",
+        "ATtYBwK2s0NJfLjinrXOrFD_TDOBimftCcjQTSKZMM74dLSAhh0L5mfnW3GM1si5ZNbCWa7Km-RGhuBuZiDpEzBgpomfh6gCBN28eiWgU5bGDNLwOuej6j7t3ePdzY9jmhBYfzU6_i-95fT1vKk5xQqCqXZe0T8p_E28BlCxmoWUSbzjM8Pi",
+        "ATtYBwIGgqO9jTqNmmVs0y32KprPkQulzp9ntcG1quqPedyVivIy0HxQAgLrI4I1wiprpRSXN6_bZqXrfmG6Sul0OOv3UXJQLm0Tn9D1sDMOblfTXMBi2tn5lYJ-7X_AOMfG8nzJ0JQAwo3YWW2938W8OPo48UdjpAAVf4Ha3w6IeYH9ED29",
+        "ATtYBwIwu5zZRaT6tyzbDfcqMda9Rug1whNA4PWq0270trcBkK9CLA6_1vPuhADyMXvFflIWgqj0VYpV71j0-FqM-X4Pw7_ydjz_HXkC6iX6uJK8OA0aeSqui2WFVQwXpOSn4IaIYujfjVJoK5F_Abd8DvvYQc8KmJ8L0iE2ZNfjt8uOIAfd",
+        "ATtYBwJGzkeQrv9YoKaEtu4Ala8t8HNqYiuLBm29ew9Cs7ppC3oq7QB_R3dwUd_ylbAVVC4mhk4BUu9oRGO8hX58YFFBQCL0NVUwEo2zpqlf7LuYtVktuAU90yucH22Uvy3fYtg3v-EOPK0bVJNiB6MNFv97KXrJLg7B5BJ8sWqlBzAiWs5_"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJXzC2Mv-4BDkRy28ZBs04Bfc",
+      "google_maps_url": "https://maps.google.com/?cid=17799695555473534923",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Camel Track Road, McLeod Ganj, Dharamsala, McLeod Ganj, Himachal Pradesh 176219, India",
-        "geometry": {
-          "location": {
-            "lat": 32.23788039999999,
-            "lng": 76.3220466
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.2390840302915,
-              "lng": 76.3242738
-            },
-            "southwest": {
-              "lat": 32.23638606970851,
-              "lng": 76.3213042
-            }
-          }
-        },
-        "international_phone_number": "+91 189 222 1726",
-        "name": "Dip Tse Chok Ling",
-        "photos": [
-          {
-            "height": 2340,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106569376355238723748\">Hemanshu gohil</a>"
-            ],
-            "photo_reference": "ATtYBwJMMzDAOyvuVWhbc2LuEXaYmIv56wcBa55XyGDTs24GYJrI66UbOf3urmS1frFvalKYX11-35y7644Aa7utlwY4IZfI-lBjg4xV7RpPjjZ7LyRPTpMAwrxIQtotIzWVNyoX1vKrqIeGGxMV3NCJJ_f0nZ8Crg70g-Cgl9o7IDRj4geP",
-            "width": 4160
-          },
-          {
-            "height": 2250,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114640619791526419663\">shivam</a>"
-            ],
-            "photo_reference": "ATtYBwKe3Oz8I95arfnsgKpDi460olbyhu9YUw1AxIuthGqtRDKf3ROqtCrEoFWWm8zjTerfbknbqHsHUwpJEo1XLyFh03Y6Yv6u4Z2SxJL1UiZGu5uUATcATStRhXctLLwkYirR9D8D0Ax1ccw5NvrrhV-hxtyvydDTLWYmqIu11Xey2Svj",
-            "width": 4000
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105041312359988542796\">Rahul Anand</a>"
-            ],
-            "photo_reference": "ATtYBwKnLoUYbUyrV4N1788u5MtKulrZ_Cf347uN2tIzNsjsGG_FrJEIhsse6H9KXqlKRmnqM111NVRTlFgbXy1t2VKVLV7vEoAL4aLAlRe-h9YaNtgmpvt_qcRQp07Yyxwh47tpTrfZtxPlOYO8NLWnPyAdupct6JwhBHsHqt-2BpBWdqgH",
-            "width": 4032
-          },
-          {
-            "height": 1446,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111951526427433634163\">Michael Edelstone</a>"
-            ],
-            "photo_reference": "ATtYBwLune1Dm7lapy-QtFKs6rhAmqXsM-feK5o9HnZnm8xSsWKJTMllQIuVeGtxEWFOLYvWyP_a0v9eYJr7at2BlnwWGMdkReTDCpr23ZHesNGEv2DaP5lTww5HfrZsdhyQdmTYQOiDrbbG4sJf3Gh9XY2uxPwWtYwdhv628UHIDicGXKUs",
-            "width": 1928
-          },
-          {
-            "height": 1071,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111081551155669424266\">David Taylor</a>"
-            ],
-            "photo_reference": "ATtYBwLyX7g4egM64bGXveEimoCbN5GN38SjhzD4-6-papCinzHxR7_69BqG5XlpygQ-LfubyG8iDB4x8kmI78ZSmjaaycw0lIM_CwsPS9MLTG_3hk6DlaxEyS7eH6snKMRCSnsIwkI0GvX2D0RjJ2LY4PWx3SyMwkGVnWJXxfB6nVFpCxeB",
-            "width": 1600
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115058665115596652834\">Suresh Bhandari</a>"
-            ],
-            "photo_reference": "ATtYBwJaDVHcI4PfgQDik-cCFjXSdgSDFHPMl0Ni9z-6klRlsWothRAYTPTkmtz449if7LW-BTxYKuSoJTnrLdY2X0x-G7g3jAvSpnluIvQYiEw0uCM5FpKjFoLnd8fU0skoDXfG1CAY4ifmyziyZXWBlxxyAhI-5_cBfVCoLji1220UGsII",
-            "width": 2448
-          },
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117613394401536047738\">Raman Kaith</a>"
-            ],
-            "photo_reference": "ATtYBwLWF1lF0d34MZUcr7jS3CnkCYMxmCs2SJgWWE_Rh81AG0TuxQZI6sCSWYQy6ThTBxDjxtDenp4A4ve2Fk4Mf2nLZNIM76r24WlWn5l2Z3eB-BHfiAGNSJLjIiSNWwxuZek0AFt8iBLq5qHbJXzCdo3X86UKdw9-sNjIeTVBWUwcHUP6",
-            "width": 3000
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115615475156373455380\">Rohit jindal</a>"
-            ],
-            "photo_reference": "ATtYBwJCOpV5IffKuqprUP8YGdZ1E4DpnCE8EbdeJZsyWg3wIj9bjg51zVNOCnif5_OG6NZxxSt9-876jSZ22taVnC8UiXUAbMP2XIt0faSdBlfTIv3qmeicGY88a2y_qdwA3aI-Tc3nedYNFBWeRoKnb8faLla7Vrs30I9QxNJBFO9pHFXS",
-            "width": 4032
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108397002431895016141\">Anand Puniya</a>"
-            ],
-            "photo_reference": "ATtYBwLjDMFMDTnDaVKtbJk7aOQM9CViNPr12AVAmUns7mfqUObKxUZNp-iLRs3pKgoRO2MOD3-ccg0vXJkKye5USxHdJnJfhnMUzMMZaAM7Av4LLPD5qSKM0CP_HDxCpBkbZy4wAochv9VflYDwkAPZ7TDQP-NaBIyq9KA8rdfU23s3Cxxx",
-            "width": 3456
-          },
-          {
-            "height": 1071,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111081551155669424266\">David Taylor</a>"
-            ],
-            "photo_reference": "ATtYBwJFBdZ-h0_CN_8DFhw8FNzq2dufGO6rvnOjroS4wggtMl6jBJyMexjVQU3mcNZ3IJ41OL91FQ6HdKQCaMpJCulu1Xoa6osrkkLSLQtot_1ALSCKHk1K7i5YuCrRgr4fOsGvR6nPUIBwqromLTAfxYdzTjoXKKVcFupv5hcWsSjeqld-",
-            "width": 1600
-          }
-        ],
-        "place_id": "ChIJqZDLdStRGzkRg72ygv2RoPc",
-        "url": "https://maps.google.com/?cid=17843422241647410563",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dip Tse Chok Ling",
+      "location": {
+        "lat": 32.23788039999999,
+        "lng": 76.3220466
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Camel Track Road, McLeod Ganj, Dharamsala, McLeod Ganj, Himachal Pradesh 176219, India",
+      "phone": "+91 189 222 1726",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJMMzDAOyvuVWhbc2LuEXaYmIv56wcBa55XyGDTs24GYJrI66UbOf3urmS1frFvalKYX11-35y7644Aa7utlwY4IZfI-lBjg4xV7RpPjjZ7LyRPTpMAwrxIQtotIzWVNyoX1vKrqIeGGxMV3NCJJ_f0nZ8Crg70g-Cgl9o7IDRj4geP",
+        "ATtYBwKe3Oz8I95arfnsgKpDi460olbyhu9YUw1AxIuthGqtRDKf3ROqtCrEoFWWm8zjTerfbknbqHsHUwpJEo1XLyFh03Y6Yv6u4Z2SxJL1UiZGu5uUATcATStRhXctLLwkYirR9D8D0Ax1ccw5NvrrhV-hxtyvydDTLWYmqIu11Xey2Svj",
+        "ATtYBwKnLoUYbUyrV4N1788u5MtKulrZ_Cf347uN2tIzNsjsGG_FrJEIhsse6H9KXqlKRmnqM111NVRTlFgbXy1t2VKVLV7vEoAL4aLAlRe-h9YaNtgmpvt_qcRQp07Yyxwh47tpTrfZtxPlOYO8NLWnPyAdupct6JwhBHsHqt-2BpBWdqgH",
+        "ATtYBwLune1Dm7lapy-QtFKs6rhAmqXsM-feK5o9HnZnm8xSsWKJTMllQIuVeGtxEWFOLYvWyP_a0v9eYJr7at2BlnwWGMdkReTDCpr23ZHesNGEv2DaP5lTww5HfrZsdhyQdmTYQOiDrbbG4sJf3Gh9XY2uxPwWtYwdhv628UHIDicGXKUs",
+        "ATtYBwLyX7g4egM64bGXveEimoCbN5GN38SjhzD4-6-papCinzHxR7_69BqG5XlpygQ-LfubyG8iDB4x8kmI78ZSmjaaycw0lIM_CwsPS9MLTG_3hk6DlaxEyS7eH6snKMRCSnsIwkI0GvX2D0RjJ2LY4PWx3SyMwkGVnWJXxfB6nVFpCxeB",
+        "ATtYBwJaDVHcI4PfgQDik-cCFjXSdgSDFHPMl0Ni9z-6klRlsWothRAYTPTkmtz449if7LW-BTxYKuSoJTnrLdY2X0x-G7g3jAvSpnluIvQYiEw0uCM5FpKjFoLnd8fU0skoDXfG1CAY4ifmyziyZXWBlxxyAhI-5_cBfVCoLji1220UGsII",
+        "ATtYBwLWF1lF0d34MZUcr7jS3CnkCYMxmCs2SJgWWE_Rh81AG0TuxQZI6sCSWYQy6ThTBxDjxtDenp4A4ve2Fk4Mf2nLZNIM76r24WlWn5l2Z3eB-BHfiAGNSJLjIiSNWwxuZek0AFt8iBLq5qHbJXzCdo3X86UKdw9-sNjIeTVBWUwcHUP6",
+        "ATtYBwJCOpV5IffKuqprUP8YGdZ1E4DpnCE8EbdeJZsyWg3wIj9bjg51zVNOCnif5_OG6NZxxSt9-876jSZ22taVnC8UiXUAbMP2XIt0faSdBlfTIv3qmeicGY88a2y_qdwA3aI-Tc3nedYNFBWeRoKnb8faLla7Vrs30I9QxNJBFO9pHFXS",
+        "ATtYBwLjDMFMDTnDaVKtbJk7aOQM9CViNPr12AVAmUns7mfqUObKxUZNp-iLRs3pKgoRO2MOD3-ccg0vXJkKye5USxHdJnJfhnMUzMMZaAM7Av4LLPD5qSKM0CP_HDxCpBkbZy4wAochv9VflYDwkAPZ7TDQP-NaBIyq9KA8rdfU23s3Cxxx",
+        "ATtYBwJFBdZ-h0_CN_8DFhw8FNzq2dufGO6rvnOjroS4wggtMl6jBJyMexjVQU3mcNZ3IJ41OL91FQ6HdKQCaMpJCulu1Xoa6osrkkLSLQtot_1ALSCKHk1K7i5YuCrRgr4fOsGvR6nPUIBwqromLTAfxYdzTjoXKKVcFupv5hcWsSjeqld-"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqZDLdStRGzkRg72ygv2RoPc",
+      "google_maps_url": "https://maps.google.com/?cid=17843422241647410563",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

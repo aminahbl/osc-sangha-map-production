@@ -1,917 +1,325 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Unnamed Road, Myanmar (Burma)",
-        "geometry": {
-          "location": {
-            "lat": 21.9726474,
-            "lng": 96.5201696
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 21.9736728802915,
-              "lng": 96.5213197802915
-            },
-            "southwest": {
-              "lat": 21.9709749197085,
-              "lng": 96.5186218197085
-            }
-          }
-        },
-        "name": "ကံ့ကော်တစ်ထောင်ဘုရား",
-        "photos": [
-          {
-            "height": 5664,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103918487032985478148\">Burma Page</a>"
-            ],
-            "photo_reference": "ATtYBwIIjanB4CNhlZ4qAJM8o8_2T2Ohha26inJ5daAPaNbeqvoM0_IE58-QTv7K3abQeFpwZWT-HbrygGkI6oXAofpUV1t-GTX7rY6AWPtyCXSoCzBWBFJLdwrqDuCbH2Tj9mrd3iAH3MjzO8lErd0guVi9Wrwk5mqTdKvG2ja4NmAQh7aV",
-            "width": 3184
-          },
-          {
-            "height": 3184,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103918487032985478148\">Burma Page</a>"
-            ],
-            "photo_reference": "ATtYBwKB88L11_ZrfxHK-FHS5EyYjRQrjkuwtabJrbpzK3RQxK7EhWO9Xs9qLSW6Tb8tFdof6vFPHP4JsttEmfjeXQdQLA7euYZvtKGepk8YoQm8hDiR4TbfMEcj3zWgklfd1IQ_zGkxE8rS70fVeG3KaN9hQX4lDSgxc17B5Yzy2Cxm1CFc",
-            "width": 5664
-          },
-          {
-            "height": 641,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106797537914237639151\">Mr. Roman</a>"
-            ],
-            "photo_reference": "ATtYBwIDe_aQIRvc7DAwsAnpYCnwjIUXwbKsu_q1U3FYc5RSruYxUgb0TkdHrE_e2hZu-Eu79ZwjITIJfeCNOtzo69DaJWWVfhg6hIiT00SHYeA7_lEr6QnWWRqzqetONSG6eSfJIQFDuKEMsQ1S9H7hvuSlJAqL7PBg_eENXttps_ED39nI",
-            "width": 854
-          },
-          {
-            "height": 3184,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103918487032985478148\">Burma Page</a>"
-            ],
-            "photo_reference": "ATtYBwK7ftldQRVYky4e9gRXyxOoOY4PrCSj3O49gyHpz1jHNA9g2xaShL1i1oA5tQqVRUrhcpD_zVMfiK9FE2I5P8nRAnKiNQcygqndssUeHQmiIGxTG73He7yMNJh3CuTY4hI-Cm4UI567r86htvoESCwYndubQILZazd5T0FQO4IVXjju",
-            "width": 5664
-          },
-          {
-            "height": 3184,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103918487032985478148\">Burma Page</a>"
-            ],
-            "photo_reference": "ATtYBwKdlUHwrU2YwtLj7rEiDY0-Tlpl6qKvQ1YJMuHG-tSoalEsq44Smbu_gpZe0_RcE8M4BGcv-morumK0xwUtLlBHLTnpuALM_WFmviB043wcLCRy7dvW11FN70VVLZBDESPX55Z0Yul5Rq2QH0ya1S_pjL5DJCJlYEEGMR-0Sh7VlXCs",
-            "width": 5664
-          },
-          {
-            "height": 3184,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103918487032985478148\">Burma Page</a>"
-            ],
-            "photo_reference": "ATtYBwI4_m1iKyg_LxICiJQnlOaLJX5iJ9oyc8RaG98XiKt4GN8xpVvsnNKt8unA4hoF-ajBMRnFpllTwQgJQlr3X1bNuIowBjZ71AhjiMPdgJps-WfOwd8xBBiH-JcmZiB0D_n0qp2_HJtVUMkE4JU5QHHh9gXaY0uVDKDMbfi95oMhzZa6",
-            "width": 5664
-          },
-          {
-            "height": 5664,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103918487032985478148\">Burma Page</a>"
-            ],
-            "photo_reference": "ATtYBwJxDvhCs4Ha50shVQRpgXfLbLoI9bEA6rQCV7ZbnBkLq_Szi4nJMT_dz99MU6h26zRSbIWCPx38CvLkwScn_oilC0do0VBAnARCVCm8ZRajAcRto0eLVbYEVGPN8v-QjNPh4TPvS9Okqsg91hU0OCizoyG1cbYYoCpT6v7n-MEox1qx",
-            "width": 3184
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103918487032985478148\">Burma Page</a>"
-            ],
-            "photo_reference": "ATtYBwKkdq73aB3ACvToWjWsPJ0DT-LMxfnzarzEIr3QloJteXjPZ3xRqdaSQUrK2-LTduNxJe7vGCWY67xdIybkgogQvNowrJPcHm6J-6_KL3WB945vAgSHmmSYuPhUt3dOWPtL391G6yxZCwTmjmodaS5A_Cqz79GmVh3ggg_nqQwgrP25",
-            "width": 1836
-          }
-        ],
-        "place_id": "ChIJVw5ilcabzDARpb8tk6N7eBg",
-        "url": "https://maps.google.com/?cid=1763295196594683813",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "ကံ့ကော်တစ်ထောင်ဘုရား",
+      "location": {
+        "lat": 21.9726474,
+        "lng": 96.5201696
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Unnamed Road, Myanmar (Burma)",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIIjanB4CNhlZ4qAJM8o8_2T2Ohha26inJ5daAPaNbeqvoM0_IE58-QTv7K3abQeFpwZWT-HbrygGkI6oXAofpUV1t-GTX7rY6AWPtyCXSoCzBWBFJLdwrqDuCbH2Tj9mrd3iAH3MjzO8lErd0guVi9Wrwk5mqTdKvG2ja4NmAQh7aV",
+        "ATtYBwKB88L11_ZrfxHK-FHS5EyYjRQrjkuwtabJrbpzK3RQxK7EhWO9Xs9qLSW6Tb8tFdof6vFPHP4JsttEmfjeXQdQLA7euYZvtKGepk8YoQm8hDiR4TbfMEcj3zWgklfd1IQ_zGkxE8rS70fVeG3KaN9hQX4lDSgxc17B5Yzy2Cxm1CFc",
+        "ATtYBwIDe_aQIRvc7DAwsAnpYCnwjIUXwbKsu_q1U3FYc5RSruYxUgb0TkdHrE_e2hZu-Eu79ZwjITIJfeCNOtzo69DaJWWVfhg6hIiT00SHYeA7_lEr6QnWWRqzqetONSG6eSfJIQFDuKEMsQ1S9H7hvuSlJAqL7PBg_eENXttps_ED39nI",
+        "ATtYBwK7ftldQRVYky4e9gRXyxOoOY4PrCSj3O49gyHpz1jHNA9g2xaShL1i1oA5tQqVRUrhcpD_zVMfiK9FE2I5P8nRAnKiNQcygqndssUeHQmiIGxTG73He7yMNJh3CuTY4hI-Cm4UI567r86htvoESCwYndubQILZazd5T0FQO4IVXjju",
+        "ATtYBwKdlUHwrU2YwtLj7rEiDY0-Tlpl6qKvQ1YJMuHG-tSoalEsq44Smbu_gpZe0_RcE8M4BGcv-morumK0xwUtLlBHLTnpuALM_WFmviB043wcLCRy7dvW11FN70VVLZBDESPX55Z0Yul5Rq2QH0ya1S_pjL5DJCJlYEEGMR-0Sh7VlXCs",
+        "ATtYBwI4_m1iKyg_LxICiJQnlOaLJX5iJ9oyc8RaG98XiKt4GN8xpVvsnNKt8unA4hoF-ajBMRnFpllTwQgJQlr3X1bNuIowBjZ71AhjiMPdgJps-WfOwd8xBBiH-JcmZiB0D_n0qp2_HJtVUMkE4JU5QHHh9gXaY0uVDKDMbfi95oMhzZa6",
+        "ATtYBwJxDvhCs4Ha50shVQRpgXfLbLoI9bEA6rQCV7ZbnBkLq_Szi4nJMT_dz99MU6h26zRSbIWCPx38CvLkwScn_oilC0do0VBAnARCVCm8ZRajAcRto0eLVbYEVGPN8v-QjNPh4TPvS9Okqsg91hU0OCizoyG1cbYYoCpT6v7n-MEox1qx",
+        "ATtYBwKkdq73aB3ACvToWjWsPJ0DT-LMxfnzarzEIr3QloJteXjPZ3xRqdaSQUrK2-LTduNxJe7vGCWY67xdIybkgogQvNowrJPcHm6J-6_KL3WB945vAgSHmmSYuPhUt3dOWPtL391G6yxZCwTmjmodaS5A_Cqz79GmVh3ggg_nqQwgrP25"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVw5ilcabzDARpb8tk6N7eBg",
+      "google_maps_url": "https://maps.google.com/?cid=1763295196594683813",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Hong Kong, Ha Tsuen, HK New Territories",
-        "geometry": {
-          "location": {
-            "lat": 22.4407228,
-            "lng": 113.9794759
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.4421307302915,
-              "lng": 113.9808748302915
-            },
-            "southwest": {
-              "lat": 22.4394327697085,
-              "lng": 113.9781768697085
-            }
-          }
-        },
-        "international_phone_number": "+852 2447 1778",
-        "name": "Ling To Tsz",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101128802406417663941\">Alka Lee</a>"
-            ],
-            "photo_reference": "ATtYBwJkFGTzFjir6_YLDMlVoAUlP6j8k0xzhK9jdfO627a5Klc6PeCXhKjF1qG9KcypVgPDsH1uxM0QX7piJJyqh5V8X0lIUp0Q8ox8fAzHx38VbJnT-NaMWPwk084-cMTF_SkeDvzcGFzhfWKN9gLuy6OtF7mKZW-M6roQo_iHvIRaZCSA",
-            "width": 4032
-          },
-          {
-            "height": 3000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103671803112182551703\">Sam Liu</a>"
-            ],
-            "photo_reference": "ATtYBwJn7AzchUUaq5lREdagTaRFc9JmFcGzmu8BcExJKiE1wkxdc4prnUIqi1O_MJrdMgeuSYaGH-TkqB9dlorKmVx2dcA4QujWelllbhqyLw4V54ujtE6jbYyZrCU-NO9p4EOYORlGcKvpyO5_9cNcUmXUgdSRtQ0ROn0RMeR_SxiVMXIF",
-            "width": 4000
-          },
-          {
-            "height": 8000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117320960990951771102\">Ian Pawlik</a>"
-            ],
-            "photo_reference": "ATtYBwItLiF5NqmevGWyRIsuSCQ3q20kpvDL9zIBrG2TZil0tjf3h001cB6DV8dFTeerJhVfAlf0FaTH7m52NZpzLunvy6yPvmVm62oKopM1qOa6qMcv4UEc_pJt16fx1O6_DL8GtcqV-PA0p3jJNOKAfWPIv0UMQEMjZbxOTOMjcdJb25OA",
-            "width": 6000
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103178049184437521568\">Manes Wan</a>"
-            ],
-            "photo_reference": "ATtYBwKGixf7LwV1Sky7888r1jd-lwKHBFgf9ZmJ-0n6IRyy1sdrfIhv9vJFAVZA3sd464PG_I09aS3B1rGQ-p64HOCiUyYyZme9e9FWMahmOh7hwMy1jKQEO_nNfh_m-R9-1OV_rw_poXNt7nogikc7Liy48Icy187dN-HoSWilWGTprXqa",
-            "width": 3456
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114266001404439928825\">Sunfai Chung</a>"
-            ],
-            "photo_reference": "ATtYBwJoPDi5Z7vSASR3FFSHx3mLJHHl-UnU679ldFGPVKiDwspSAP_NbzYPfHPsntVqm8sCH0quwGpVmaFGJzCHrHjmBPDxe4SoHw1h7GcD8rHdE5UiLYK6oFHuid7eiMsPfR2voXWIcRW4bzWDaVQjnwavcl6R63FfhxaD0bXHnMaqk7nQ",
-            "width": 4032
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103178049184437521568\">Manes Wan</a>"
-            ],
-            "photo_reference": "ATtYBwJkBAXWV42VXw4NHzr2zRPt_DFxKj2crRh3Qao1yehUhwkKTBY0ss0MxQcGwqzu6okbHDBEPiw7DZFjQRfBMBRMKcX5nSN2reTx_ffONK7XxyLdSHYYiHv4YHpIZnRexDV6eguEF8pmZh_ZSWIHEjPPSoT-bvTqhsg7YWyb8drjV4-r",
-            "width": 3456
-          },
-          {
-            "height": 3000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104637307942046474429\">kingtat wong</a>"
-            ],
-            "photo_reference": "ATtYBwKlpHH334LxxRKpaMQ5FP1eEb3A_vRWrmO2ZjZvANOrGQoBFKYN-TBHN6NvhzcMr_8_H2QUf3CWiPqRrV3KrFicIYp5LzFeZyeBIzqI8McjM11anlrlPHOprpUUdfftCidsImGE17IEo3oyFuJDvWRWrVdRYgUKfWINfbr4hzetAHrS",
-            "width": 4000
-          },
-          {
-            "height": 3140,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103178049184437521568\">Manes Wan</a>"
-            ],
-            "photo_reference": "ATtYBwLeS8ERC0CkKI7y-wT0hr82dLrjtfuZiAXlWA5xr9bNbN3kIKMW4f7rQ26vTX0LFmQmG6OjqHl9E-jmW4vIRgqn0tj93_IaknRX-8ncbiBwRUWYTwZWN5m0_54b7wCTBzTSNeIkUFFhUw8YK2Ha1wvLn8hsiWUt8uirfjEDqls_eS1m",
-            "width": 2354
-          },
-          {
-            "height": 3968,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106082966942626693287\">Ming CHAN</a>"
-            ],
-            "photo_reference": "ATtYBwKuCNWGyL9y0-cMbqLzROS_M4fwF3dNcu08O9LRhe4cmP-8PUk1YFjlboh9XdLWzxs0xwhvhLTD8lDDWOykyGUVDWoXgrHQ7hTVj11Rr6GdkSY_RhAd7cXK6PPeAZBI-e0xV796jyfe4pAzestI15EmZE0aQD3Hjab-X_qYs-1yqquG",
-            "width": 2976
-          },
-          {
-            "height": 3968,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106082966942626693287\">Ming CHAN</a>"
-            ],
-            "photo_reference": "ATtYBwL88Wz_61RbMuYcbsrGhqsDB3MNe6z2yJXDD70x6be0UI53CxEEsD9bVis6IOldVTRbCFhC5xmz9deYA8NxaVuy-BKb5P1FnVhQKrH917LGt9teSHHHpaCmE_zqzvKSiyoeXOYQAJqQ2hR8_8vfLLZUef5QkKM8INlWWN9TlIheui14",
-            "width": 2976
-          }
-        ],
-        "place_id": "ChIJvwNdOJj6AzQRQ1BE5dyxHVI",
-        "url": "https://maps.google.com/?cid=5917081047732080707",
-        "website": "http://www.hatsuenrc.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Ling To Tsz",
+      "location": {
+        "lat": 22.4407228,
+        "lng": 113.9794759
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Hong Kong, Ha Tsuen, HK New Territories",
+      "phone": "+852 2447 1778",
+      "website": "http://www.hatsuenrc.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJkFGTzFjir6_YLDMlVoAUlP6j8k0xzhK9jdfO627a5Klc6PeCXhKjF1qG9KcypVgPDsH1uxM0QX7piJJyqh5V8X0lIUp0Q8ox8fAzHx38VbJnT-NaMWPwk084-cMTF_SkeDvzcGFzhfWKN9gLuy6OtF7mKZW-M6roQo_iHvIRaZCSA",
+        "ATtYBwJn7AzchUUaq5lREdagTaRFc9JmFcGzmu8BcExJKiE1wkxdc4prnUIqi1O_MJrdMgeuSYaGH-TkqB9dlorKmVx2dcA4QujWelllbhqyLw4V54ujtE6jbYyZrCU-NO9p4EOYORlGcKvpyO5_9cNcUmXUgdSRtQ0ROn0RMeR_SxiVMXIF",
+        "ATtYBwItLiF5NqmevGWyRIsuSCQ3q20kpvDL9zIBrG2TZil0tjf3h001cB6DV8dFTeerJhVfAlf0FaTH7m52NZpzLunvy6yPvmVm62oKopM1qOa6qMcv4UEc_pJt16fx1O6_DL8GtcqV-PA0p3jJNOKAfWPIv0UMQEMjZbxOTOMjcdJb25OA",
+        "ATtYBwKGixf7LwV1Sky7888r1jd-lwKHBFgf9ZmJ-0n6IRyy1sdrfIhv9vJFAVZA3sd464PG_I09aS3B1rGQ-p64HOCiUyYyZme9e9FWMahmOh7hwMy1jKQEO_nNfh_m-R9-1OV_rw_poXNt7nogikc7Liy48Icy187dN-HoSWilWGTprXqa",
+        "ATtYBwJoPDi5Z7vSASR3FFSHx3mLJHHl-UnU679ldFGPVKiDwspSAP_NbzYPfHPsntVqm8sCH0quwGpVmaFGJzCHrHjmBPDxe4SoHw1h7GcD8rHdE5UiLYK6oFHuid7eiMsPfR2voXWIcRW4bzWDaVQjnwavcl6R63FfhxaD0bXHnMaqk7nQ",
+        "ATtYBwJkBAXWV42VXw4NHzr2zRPt_DFxKj2crRh3Qao1yehUhwkKTBY0ss0MxQcGwqzu6okbHDBEPiw7DZFjQRfBMBRMKcX5nSN2reTx_ffONK7XxyLdSHYYiHv4YHpIZnRexDV6eguEF8pmZh_ZSWIHEjPPSoT-bvTqhsg7YWyb8drjV4-r",
+        "ATtYBwKlpHH334LxxRKpaMQ5FP1eEb3A_vRWrmO2ZjZvANOrGQoBFKYN-TBHN6NvhzcMr_8_H2QUf3CWiPqRrV3KrFicIYp5LzFeZyeBIzqI8McjM11anlrlPHOprpUUdfftCidsImGE17IEo3oyFuJDvWRWrVdRYgUKfWINfbr4hzetAHrS",
+        "ATtYBwLeS8ERC0CkKI7y-wT0hr82dLrjtfuZiAXlWA5xr9bNbN3kIKMW4f7rQ26vTX0LFmQmG6OjqHl9E-jmW4vIRgqn0tj93_IaknRX-8ncbiBwRUWYTwZWN5m0_54b7wCTBzTSNeIkUFFhUw8YK2Ha1wvLn8hsiWUt8uirfjEDqls_eS1m",
+        "ATtYBwKuCNWGyL9y0-cMbqLzROS_M4fwF3dNcu08O9LRhe4cmP-8PUk1YFjlboh9XdLWzxs0xwhvhLTD8lDDWOykyGUVDWoXgrHQ7hTVj11Rr6GdkSY_RhAd7cXK6PPeAZBI-e0xV796jyfe4pAzestI15EmZE0aQD3Hjab-X_qYs-1yqquG",
+        "ATtYBwL88Wz_61RbMuYcbsrGhqsDB3MNe6z2yJXDD70x6be0UI53CxEEsD9bVis6IOldVTRbCFhC5xmz9deYA8NxaVuy-BKb5P1FnVhQKrH917LGt9teSHHHpaCmE_zqzvKSiyoeXOYQAJqQ2hR8_8vfLLZUef5QkKM8INlWWN9TlIheui14"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJvwNdOJj6AzQRQ1BE5dyxHVI",
+      "google_maps_url": "https://maps.google.com/?cid=5917081047732080707",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "303, Kiu Fung Mansion, 18 Austin Ave, Tsim Sha Tsui, Hong Kong",
-        "geometry": {
-          "location": {
-            "lat": 22.30260879999999,
-            "lng": 114.1754722
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.3038901302915,
-              "lng": 114.1767738302915
-            },
-            "southwest": {
-              "lat": 22.3011921697085,
-              "lng": 114.1740758697085
-            }
-          }
-        },
-        "international_phone_number": "+852 2721 0115",
-        "name": "香港密宗寧瑪派白玉佛法中心 Penor Rinpoche Charity Foundation (白玉中心 Palyul Center)",
-        "photos": [
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102506193876356146708\">Gary Chin</a>"
-            ],
-            "photo_reference": "ATtYBwLIfdyCNPdYTdQqcJeIw7z3Lsol7JgLgLjSW8SSOEXQKDvZxPgbJBaodj3Mng79a272lhVcCYaB7Q7QHliR0G6DAdipHO_3geX6H1gt-Ie933piD-vHmL7dDKZ_QC7aapCH8lpEsJkdvqYSQd1E_Nk500SMxVo_vJCK5-e278wfj0_a",
-            "width": 3000
-          },
-          {
-            "height": 2592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102506193876356146708\">Gary Chin</a>"
-            ],
-            "photo_reference": "ATtYBwJurC5iCpmi_lnc8p_Kg51axgTDgYz-dnWdnZiWdWaPuEz2SJJKE9Hq0gRtbZ5wMZOoL0QVrxnMUaZQbA_hr5oGSs0tlDDZbUKsBpmWyUJvjf00k_nUgv6GZh2C2SfmGaE9l0cpw6IoganpNu2YqNlHc4eBAx9DwEnG2-xLkD4QIAHU",
-            "width": 4608
-          },
-          {
-            "height": 1242,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102506193876356146708\">Gary Chin</a>"
-            ],
-            "photo_reference": "ATtYBwLWhfk5YrHlIKCd3opAKdDaPGBcYa3rRTyNFlx6XVTEq38uOc9_4SYiE471c2Bzg6if7Eq94FONOeHEI05hJApcCH5-VPW4bNR3fyuGzRDQY_Vid8R7C5dXwDAdCYeNfjG1WTzuv4e-ijj0Avn-pnJDUGsTEuJZ6XZtLC1t5HEtAn6a",
-            "width": 1080
-          },
-          {
-            "height": 2592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102506193876356146708\">Gary Chin</a>"
-            ],
-            "photo_reference": "ATtYBwIk63kFnZb_0SY4A55HHByHT3uoqf8OYCoR2ssH1mjX97g581EpIA5ubGiugaTBIPMnqHpGMRpMudluB1ryXFluojqVYgX_6vvxf2NBF0tiRDyjRO4Yd5mOPt90v6jwEO06AlOd1qcKrf-MkUDdbbd3oIBYRlPsmTYkJx6DNqEBK-me",
-            "width": 4608
-          }
-        ],
-        "place_id": "ChIJsQ8bZqEBBDQROhjSZReUBYk",
-        "url": "https://maps.google.com/?cid=9873460586293106746",
-        "website": "http://www.palyulhk.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "香港密宗寧瑪派白玉佛法中心 Penor Rinpoche Charity Foundation (白玉中心 Palyul Center)",
+      "location": {
+        "lat": 22.30260879999999,
+        "lng": 114.1754722
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "303, Kiu Fung Mansion, 18 Austin Ave, Tsim Sha Tsui, Hong Kong",
+      "phone": "+852 2721 0115",
+      "website": "http://www.palyulhk.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLIfdyCNPdYTdQqcJeIw7z3Lsol7JgLgLjSW8SSOEXQKDvZxPgbJBaodj3Mng79a272lhVcCYaB7Q7QHliR0G6DAdipHO_3geX6H1gt-Ie933piD-vHmL7dDKZ_QC7aapCH8lpEsJkdvqYSQd1E_Nk500SMxVo_vJCK5-e278wfj0_a",
+        "ATtYBwJurC5iCpmi_lnc8p_Kg51axgTDgYz-dnWdnZiWdWaPuEz2SJJKE9Hq0gRtbZ5wMZOoL0QVrxnMUaZQbA_hr5oGSs0tlDDZbUKsBpmWyUJvjf00k_nUgv6GZh2C2SfmGaE9l0cpw6IoganpNu2YqNlHc4eBAx9DwEnG2-xLkD4QIAHU",
+        "ATtYBwLWhfk5YrHlIKCd3opAKdDaPGBcYa3rRTyNFlx6XVTEq38uOc9_4SYiE471c2Bzg6if7Eq94FONOeHEI05hJApcCH5-VPW4bNR3fyuGzRDQY_Vid8R7C5dXwDAdCYeNfjG1WTzuv4e-ijj0Avn-pnJDUGsTEuJZ6XZtLC1t5HEtAn6a",
+        "ATtYBwIk63kFnZb_0SY4A55HHByHT3uoqf8OYCoR2ssH1mjX97g581EpIA5ubGiugaTBIPMnqHpGMRpMudluB1ryXFluojqVYgX_6vvxf2NBF0tiRDyjRO4Yd5mOPt90v6jwEO06AlOd1qcKrf-MkUDdbbd3oIBYRlPsmTYkJx6DNqEBK-me"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJsQ8bZqEBBDQROhjSZReUBYk",
+      "google_maps_url": "https://maps.google.com/?cid=9873460586293106746",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sheung Yuen Leng, Hong Kong",
-        "geometry": {
-          "location": {
-            "lat": 22.340829,
-            "lng": 114.2052909
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.3421779802915,
-              "lng": 114.2066398802915
-            },
-            "southwest": {
-              "lat": 22.3394800197085,
-              "lng": 114.2039419197085
-            }
-          }
-        },
-        "name": "Chi Lin Nunnery Main Hall",
-        "photos": [
-          {
-            "height": 3168,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116654227885610218029\">Sengmui Tan</a>"
-            ],
-            "photo_reference": "ATtYBwKYr8ywUmrkKplIIGLgc2Rhe9TZmfKIph3hEZjWT-w3dzOkACFzPnWhf8E-L7gYJjtOM5ouDU6a6IWj1g_AJef03JhiZphwuelLShl8BF4q0FW2ngCWeUgacIBDwAqlUubUt3zfNMziONJzOx8sC_CzwEduqWzxiX7i8yWPWum1bVwC",
-            "width": 4752
-          },
-          {
-            "height": 3000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115537310895474665685\">Wong Lawrence0421</a>"
-            ],
-            "photo_reference": "ATtYBwLFOk71Q4wTlR0Zx-QhNgy2rdYpaeBupxEl3ULf1cLg3WRjz889NhaV63kT2ENea3chqwloIaMYV85iPhbjykTmC5cUoq5igzxY8MSL9FY2SB_RhprTQBLq8_r_I_zHnVfxpm5ulMAPdpI_KBvMysyGcOrqpleNaW6snIhgxcZbfMZT",
-            "width": 4000
-          },
-          {
-            "height": 5240,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103192584346691355774\">David Halsey</a>"
-            ],
-            "photo_reference": "ATtYBwJsN5mrhiRgtPI-9tavHkujcfGH2q8AZYwcndUtJ4WXeSmWxXVrk-6B-nJEMsDxiaLHbWf9d2X4ODpew6BbbTN5Y1l2vkTF-Cw5KBl041BVxMzVyUcyyKw6nOk5a8Y527a9Sn0Ly1e-6xYoI4l1-IvtMJzfDk9MnyRxGOMicZ8FmVfi",
-            "width": 3912
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105309408027291332730\">Ruben Alicea</a>"
-            ],
-            "photo_reference": "ATtYBwJAfk7772tmlOjXOFUfEy4lroHWmM9vv29Zj-ydBBXeXeCGPY47JVLhfsNPzri8zT0l1waKFk_xM8nzkpkQgr-fNXW6ske4NPdmiSNzjUJG-5rhDR--bFiZLYX0j0mThvRGabGCX4g6T__kWGZn5i4mylb0lFglmckPOvoS8jXASECW",
-            "width": 2048
-          },
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109745003827797388307\">Roman Soldier</a>"
-            ],
-            "photo_reference": "ATtYBwLmIwjd-2f9JMYpSn-dLEfMbqvfwSUBTb5vWB1tk68a78z-ys_v1aE067KnB9ldnHzEiLRbma9eLu9PpJKy0ixKpK1jNf2tbw-ja9uBHtZJBmmlrertMdh4_0r05eijJ5jc-PKMxdbPafky4SVihME_4-EX7eP0OhKll_7ED-SCVlvD",
-            "width": 6000
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105309408027291332730\">Ruben Alicea</a>"
-            ],
-            "photo_reference": "ATtYBwLde-Hk_GTpB44P4oy0L6tbZYPFbW2UNric5gcTcu8iHBIB99pfuHDMctjVuL0kTCtI8dLHoegkKP1F4H1gaeCvO6OkjYSJy9wwj1xssC5gdA1md-inY40mB0O4NMwCGJlkYp19eBFw3vZV4GQg7BdwNx8vHl45UjRhyM_FUYzwnGhZ",
-            "width": 2048
-          },
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105309408027291332730\">Ruben Alicea</a>"
-            ],
-            "photo_reference": "ATtYBwJapWF_ZLFy2GtscgG6ooSThg3zOUzwGPPYnvbupDsRrgrLuR_uli4V5GXylhR1aPSr4Zv2nDfPfs01W9XRJQet5yOkSrIwgqSD1JyKBaZng_sLk0JEJeW6ttsgwWnvwI1zrBTTUuo4TIRuGUOZ0ESZ8X5Wlam_O2zS54ngwddVTbyT",
-            "width": 1536
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104801086592855740257\">Bus KMB 2</a>"
-            ],
-            "photo_reference": "ATtYBwLG1XDgE84fzTxe1wtaN4EJxqqEoPxiIC-GfLYIMIov4K7ttxaFTnpa6YuuuJdfrygV6mLaDNUjEoMY8pLu2JOH2FzeXbikF8Ya5wtXqPf4CXvwDFK9OWktt7YCgz1RrnkqeXOC4Zp8EMQX0cw98fMCfP67BK5bnYzbKmSTdR9gxXGm",
-            "width": 3456
-          },
-          {
-            "height": 4634,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103192584346691355774\">David Halsey</a>"
-            ],
-            "photo_reference": "ATtYBwIWAuJeDM4Q5ddDb1guJpnOROZrqEd1RV4cSzQpxLyJGeceJBCxt_e1fz2VVsfQWbA572ycO5CVC7EjfT2x_dD59eFgyBXH4rWbM3W6Mf8J4cROvumLoYPPAj0_kmYxEvcbWtPhg49523BievHlks77Z0YNhIY3M8hVNjul_Q8aa9SM",
-            "width": 9996
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105309408027291332730\">Ruben Alicea</a>"
-            ],
-            "photo_reference": "ATtYBwLJKLsYbaQshR338ok4YONfYdAsI0yHzTRhC0faE_w5dymr7ogA_dicq0SgAaCNqvbe7qAXpZN1bzXzb_KnopMBMM7g-7_bvuaXVcVKi_MSc5oPFP0LmRmaqi5pZiEk__NtSOhzSY23NeXL_1q_IIHzO7R0cbw6DK6ljD8MfmOyCZzv",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJoy9j7MQGBDQR7DLU19hmA_c",
-        "url": "https://maps.google.com/?cid=17799183233818309356",
-        "website": "http://www.chilin.org/index.html",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Chi Lin Nunnery Main Hall",
+      "location": {
+        "lat": 22.340829,
+        "lng": 114.2052909
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Sheung Yuen Leng, Hong Kong",
+      "website": "http://www.chilin.org/index.html",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKYr8ywUmrkKplIIGLgc2Rhe9TZmfKIph3hEZjWT-w3dzOkACFzPnWhf8E-L7gYJjtOM5ouDU6a6IWj1g_AJef03JhiZphwuelLShl8BF4q0FW2ngCWeUgacIBDwAqlUubUt3zfNMziONJzOx8sC_CzwEduqWzxiX7i8yWPWum1bVwC",
+        "ATtYBwLFOk71Q4wTlR0Zx-QhNgy2rdYpaeBupxEl3ULf1cLg3WRjz889NhaV63kT2ENea3chqwloIaMYV85iPhbjykTmC5cUoq5igzxY8MSL9FY2SB_RhprTQBLq8_r_I_zHnVfxpm5ulMAPdpI_KBvMysyGcOrqpleNaW6snIhgxcZbfMZT",
+        "ATtYBwJsN5mrhiRgtPI-9tavHkujcfGH2q8AZYwcndUtJ4WXeSmWxXVrk-6B-nJEMsDxiaLHbWf9d2X4ODpew6BbbTN5Y1l2vkTF-Cw5KBl041BVxMzVyUcyyKw6nOk5a8Y527a9Sn0Ly1e-6xYoI4l1-IvtMJzfDk9MnyRxGOMicZ8FmVfi",
+        "ATtYBwJAfk7772tmlOjXOFUfEy4lroHWmM9vv29Zj-ydBBXeXeCGPY47JVLhfsNPzri8zT0l1waKFk_xM8nzkpkQgr-fNXW6ske4NPdmiSNzjUJG-5rhDR--bFiZLYX0j0mThvRGabGCX4g6T__kWGZn5i4mylb0lFglmckPOvoS8jXASECW",
+        "ATtYBwLmIwjd-2f9JMYpSn-dLEfMbqvfwSUBTb5vWB1tk68a78z-ys_v1aE067KnB9ldnHzEiLRbma9eLu9PpJKy0ixKpK1jNf2tbw-ja9uBHtZJBmmlrertMdh4_0r05eijJ5jc-PKMxdbPafky4SVihME_4-EX7eP0OhKll_7ED-SCVlvD",
+        "ATtYBwLde-Hk_GTpB44P4oy0L6tbZYPFbW2UNric5gcTcu8iHBIB99pfuHDMctjVuL0kTCtI8dLHoegkKP1F4H1gaeCvO6OkjYSJy9wwj1xssC5gdA1md-inY40mB0O4NMwCGJlkYp19eBFw3vZV4GQg7BdwNx8vHl45UjRhyM_FUYzwnGhZ",
+        "ATtYBwJapWF_ZLFy2GtscgG6ooSThg3zOUzwGPPYnvbupDsRrgrLuR_uli4V5GXylhR1aPSr4Zv2nDfPfs01W9XRJQet5yOkSrIwgqSD1JyKBaZng_sLk0JEJeW6ttsgwWnvwI1zrBTTUuo4TIRuGUOZ0ESZ8X5Wlam_O2zS54ngwddVTbyT",
+        "ATtYBwLG1XDgE84fzTxe1wtaN4EJxqqEoPxiIC-GfLYIMIov4K7ttxaFTnpa6YuuuJdfrygV6mLaDNUjEoMY8pLu2JOH2FzeXbikF8Ya5wtXqPf4CXvwDFK9OWktt7YCgz1RrnkqeXOC4Zp8EMQX0cw98fMCfP67BK5bnYzbKmSTdR9gxXGm",
+        "ATtYBwIWAuJeDM4Q5ddDb1guJpnOROZrqEd1RV4cSzQpxLyJGeceJBCxt_e1fz2VVsfQWbA572ycO5CVC7EjfT2x_dD59eFgyBXH4rWbM3W6Mf8J4cROvumLoYPPAj0_kmYxEvcbWtPhg49523BievHlks77Z0YNhIY3M8hVNjul_Q8aa9SM",
+        "ATtYBwLJKLsYbaQshR338ok4YONfYdAsI0yHzTRhC0faE_w5dymr7ogA_dicq0SgAaCNqvbe7qAXpZN1bzXzb_KnopMBMM7g-7_bvuaXVcVKi_MSc5oPFP0LmRmaqi5pZiEk__NtSOhzSY23NeXL_1q_IIHzO7R0cbw6DK6ljD8MfmOyCZzv"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJoy9j7MQGBDQR7DLU19hmA_c",
+      "google_maps_url": "https://maps.google.com/?cid=17799183233818309356",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tsz Shan Monastery, Ting Kok, Hong Kong",
-        "geometry": {
-          "location": {
-            "lat": 22.4753196,
-            "lng": 114.2059498
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.4766685802915,
-              "lng": 114.2072987802915
-            },
-            "southwest": {
-              "lat": 22.4739706197085,
-              "lng": 114.2046008197085
-            }
-          }
-        },
-        "international_phone_number": "+852 2123 3666",
-        "name": "Avalokitesvara (Guan Yin) Statue",
-        "photos": [
-          {
-            "height": 2340,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117909336185613802582\">William Kan</a>"
-            ],
-            "photo_reference": "ATtYBwJxyd3acMw2lJ4yKx3op_On9wwR2IasIw9wtxuCYcMuC4kzucjhVj3fSH3YAceCfC8Z4QMrHs2_yAufqixg_GSwOCzYSHv0gl_qQyQBPy4ukcqII4jFrsY2LppuNK86gfKQB7Zhfz778eIBGbIHGawrFbY2M4yMyXJrSBeZKpqshYQ",
-            "width": 1536
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102471740934346960104\">yim wai Chan</a>"
-            ],
-            "photo_reference": "ATtYBwIejBUWTbjAHdadqkZIZtuSO_Ko2hlDTBOW_-dAJ9ua7l22P3G0D757NtKJqlQPrYyV0Z36k0JGY7mEM0-31mXks2TVmVFj4c63Teaj19Uj3gKm6Nd8-TdXXAF8lMAoKXIImmcXWHYSqC3-gzT0UOiu3-kldvrC1_m6mPPbNKABLlB2",
-            "width": 3264
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102471740934346960104\">yim wai Chan</a>"
-            ],
-            "photo_reference": "ATtYBwIDsXTXKnkYGZIFfUOveeFUidMUvgYibVg3nXxFecCpq845O1OCkbVm4p14n2ggeAq1rvb5Hno0_IfaV9lKzQUGbR7vX_VTLywe1y4Cz1rZcYQ68hOd3NpgAK1YZq0vbO5kVT_he7-CxO7SdLZiAugFWQuQ3GW87Bjx-qg66dv9ZOQZ",
-            "width": 3264
-          },
-          {
-            "height": 7494,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102027556538834101707\">PHILIP WANG</a>"
-            ],
-            "photo_reference": "ATtYBwIMVvZ38kP0rmjt0KNmxmdc2IlJrqbzpcnGyftFsADMoUSWd8eH3htZgtbcobKPNa71MLtwEgpizUsUNQm2jQp0ZiEekphMUr8lsVPJV1iGe7w4uTlbZoEVReVChr4SPabLTlHoh6pU2nLmzGcYjs30d8P471qJJjCksHMf2LRqS9g5",
-            "width": 5005
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105642693922744401949\">Bsbuster</a>"
-            ],
-            "photo_reference": "ATtYBwK0bL7RRGWLrVBkvL3FyfOn-lNl5qjHJlPAJSJJPYLFFbcK4S8pJR9ABRX_UHUhvN-NOcCTHzt1FAPl8uowC31inoKFVwLtw6hal43M0pzaB9FxrdJn_-eW4jQjN0DJBrHHMr-Z7MO0XIaeLUelg7D1ub7PGfwRgGTh59DjXE3iT54c",
-            "width": 4032
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102471740934346960104\">yim wai Chan</a>"
-            ],
-            "photo_reference": "ATtYBwLm1MVaFTYH3k-DPE2PdopAQ9BB-LHwLj0FiXT3hz1D7qLMIwAKqBOmUzCzpbzGma_jUsEbDv-nHIwbmAFFFupGFTEe0-1WDUU5XMGMgOtfQuOGVFwdWY8ISjwPn_JTskb9YxfReO-xy5hQ93Q1MaqKuVlBM1aW8ZMrTratPOUmoGu_",
-            "width": 3264
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101015297117442938836\">lai chun sally chan</a>"
-            ],
-            "photo_reference": "ATtYBwKMmFUDcR9FRGyrZi9pAmcmY67ztsX-jTVjcfTXtRz5WU-0NNs4B8ga67SZctZL7ePwKi7grQynmRX3EYuqYuSWKLp6dlIao_T3yevmI2JekighVKyAO8sNe4evgAu5cFW2zFdBiAH7UnlQ_ZqP2bqv7kPLsuGFrBfRbyhOJ0_2I9Dq",
-            "width": 4608
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102471740934346960104\">yim wai Chan</a>"
-            ],
-            "photo_reference": "ATtYBwJ1g7XF0CA2Obk7-CA2Po1rWH2EXiWTsdFCkzpSPpuvkj4lBwhD6NuhoapUm0ZWgmVtbcIB3gkigo4wpu4pi2iwzvhS7Pd8uuFhoikQZH21hSd2pxzQAGnlHcPKJtn24IwntcHH0TSvHGdagQOMbkDOzqH-uMuqUkhV7-xHnNuitIu9",
-            "width": 3264
-          },
-          {
-            "height": 503,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106826545847963986786\">Siddhārtha Gautama Buddha釋迦牟尼佛</a>"
-            ],
-            "photo_reference": "ATtYBwJggwKUgooVn9iLKI2b3dR2kkw-UBN2Srkfz4G-uVphx4LztBqrx8CQX27Lie4BttSLSWSztipN90Yz7kuudIRtcTTq2VfC1cBWIbUh8ou4CsRzC3SAglmjXjpmguYt5hbcypAW2_7AkKVN6XiQ461UcBV3YMicZ9rSyXS9rQ5MYNde",
-            "width": 720
-          },
-          {
-            "height": 2272,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107746714379534471733\">Jose luis Rosales</a>"
-            ],
-            "photo_reference": "ATtYBwKZyLCqcOgKdtVjQevGF-Ikd2tm21pFhd9BONKDINO5gc9_L8hRDLNB5DXOJpe4rZyqHMZ9gHH2jatkpE8T9ZWG4p3f0yJ2E9oBvn4Z5zZnrMyXZWEzwZX74TUC_1BxdQ6d9oEMGeqPsfkODLRnFrsrRS0EFVmdZZT1zqaHtrhjr8ad",
-            "width": 4048
-          }
-        ],
-        "place_id": "ChIJf0OfmxEJBDQRxuWrz2WHor0",
-        "url": "https://maps.google.com/?cid=13664633090741102022",
-        "website": "http://www.tszshan.org/home/new/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Avalokitesvara (Guan Yin) Statue",
+      "location": {
+        "lat": 22.4753196,
+        "lng": 114.2059498
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Tsz Shan Monastery, Ting Kok, Hong Kong",
+      "phone": "+852 2123 3666",
+      "website": "http://www.tszshan.org/home/new/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJxyd3acMw2lJ4yKx3op_On9wwR2IasIw9wtxuCYcMuC4kzucjhVj3fSH3YAceCfC8Z4QMrHs2_yAufqixg_GSwOCzYSHv0gl_qQyQBPy4ukcqII4jFrsY2LppuNK86gfKQB7Zhfz778eIBGbIHGawrFbY2M4yMyXJrSBeZKpqshYQ",
+        "ATtYBwIejBUWTbjAHdadqkZIZtuSO_Ko2hlDTBOW_-dAJ9ua7l22P3G0D757NtKJqlQPrYyV0Z36k0JGY7mEM0-31mXks2TVmVFj4c63Teaj19Uj3gKm6Nd8-TdXXAF8lMAoKXIImmcXWHYSqC3-gzT0UOiu3-kldvrC1_m6mPPbNKABLlB2",
+        "ATtYBwIDsXTXKnkYGZIFfUOveeFUidMUvgYibVg3nXxFecCpq845O1OCkbVm4p14n2ggeAq1rvb5Hno0_IfaV9lKzQUGbR7vX_VTLywe1y4Cz1rZcYQ68hOd3NpgAK1YZq0vbO5kVT_he7-CxO7SdLZiAugFWQuQ3GW87Bjx-qg66dv9ZOQZ",
+        "ATtYBwIMVvZ38kP0rmjt0KNmxmdc2IlJrqbzpcnGyftFsADMoUSWd8eH3htZgtbcobKPNa71MLtwEgpizUsUNQm2jQp0ZiEekphMUr8lsVPJV1iGe7w4uTlbZoEVReVChr4SPabLTlHoh6pU2nLmzGcYjs30d8P471qJJjCksHMf2LRqS9g5",
+        "ATtYBwK0bL7RRGWLrVBkvL3FyfOn-lNl5qjHJlPAJSJJPYLFFbcK4S8pJR9ABRX_UHUhvN-NOcCTHzt1FAPl8uowC31inoKFVwLtw6hal43M0pzaB9FxrdJn_-eW4jQjN0DJBrHHMr-Z7MO0XIaeLUelg7D1ub7PGfwRgGTh59DjXE3iT54c",
+        "ATtYBwLm1MVaFTYH3k-DPE2PdopAQ9BB-LHwLj0FiXT3hz1D7qLMIwAKqBOmUzCzpbzGma_jUsEbDv-nHIwbmAFFFupGFTEe0-1WDUU5XMGMgOtfQuOGVFwdWY8ISjwPn_JTskb9YxfReO-xy5hQ93Q1MaqKuVlBM1aW8ZMrTratPOUmoGu_",
+        "ATtYBwKMmFUDcR9FRGyrZi9pAmcmY67ztsX-jTVjcfTXtRz5WU-0NNs4B8ga67SZctZL7ePwKi7grQynmRX3EYuqYuSWKLp6dlIao_T3yevmI2JekighVKyAO8sNe4evgAu5cFW2zFdBiAH7UnlQ_ZqP2bqv7kPLsuGFrBfRbyhOJ0_2I9Dq",
+        "ATtYBwJ1g7XF0CA2Obk7-CA2Po1rWH2EXiWTsdFCkzpSPpuvkj4lBwhD6NuhoapUm0ZWgmVtbcIB3gkigo4wpu4pi2iwzvhS7Pd8uuFhoikQZH21hSd2pxzQAGnlHcPKJtn24IwntcHH0TSvHGdagQOMbkDOzqH-uMuqUkhV7-xHnNuitIu9",
+        "ATtYBwJggwKUgooVn9iLKI2b3dR2kkw-UBN2Srkfz4G-uVphx4LztBqrx8CQX27Lie4BttSLSWSztipN90Yz7kuudIRtcTTq2VfC1cBWIbUh8ou4CsRzC3SAglmjXjpmguYt5hbcypAW2_7AkKVN6XiQ461UcBV3YMicZ9rSyXS9rQ5MYNde",
+        "ATtYBwKZyLCqcOgKdtVjQevGF-Ikd2tm21pFhd9BONKDINO5gc9_L8hRDLNB5DXOJpe4rZyqHMZ9gHH2jatkpE8T9ZWG4p3f0yJ2E9oBvn4Z5zZnrMyXZWEzwZX74TUC_1BxdQ6d9oEMGeqPsfkODLRnFrsrRS0EFVmdZZT1zqaHtrhjr8ad"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJf0OfmxEJBDQRxuWrz2WHor0",
+      "google_maps_url": "https://maps.google.com/?cid=13664633090741102022",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "上姜山 Lantau Island, Lantau Island, Hong Kong",
-        "geometry": {
-          "location": {
-            "lat": 22.250389,
-            "lng": 113.885514
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.2516819802915,
-              "lng": 113.8869297802915
-            },
-            "southwest": {
-              "lat": 22.2489840197085,
-              "lng": 113.8842318197085
-            }
-          }
-        },
-        "name": "Gak Su Zen Retreat Center",
-        "photos": [
-          {
-            "height": 3036,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117100445694785889305\">Yat Yeung</a>"
-            ],
-            "photo_reference": "ATtYBwLuAurfH_57Kp92UO9R1RBcvZWoQVU-iODqxFt5odW6zqTYG0oeMBcfu0eHRQ812KVXwgJByPWCtYe7xbuD_WHt4sRLzqR1pAVxhIsoTrN3KtDmxmGOaQKYj8dbVsISzdbu-_bfQ1vfQFCRR9RhlQoBGjS3RZocsCZ5DLPsw08qX1wd",
-            "width": 4048
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102227708189763507354\">Veronica Acosta</a>"
-            ],
-            "photo_reference": "ATtYBwKFwYdZR4tRbedjPG9I_CJjWFSfOS7eFpfExJN0e1r4LHof4W-srg-jHT9BD7llhq6Jgn7RwXY9LbyqgY90CORI9AWjs8TcRevG_OgP3KL7PmBxItZzt7t-gEP5pVfRl-oz_9lbtZeYixcEd4x4Lv2O3a6EsfZFxIsrfNAysnO7w2Lj",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102227708189763507354\">Veronica Acosta</a>"
-            ],
-            "photo_reference": "ATtYBwIuueJW-PqSAKoA3NI9vmwwjFTj_GmkzH7iWwfJZVCV8oRDuTc9b8G814JUgy0pmgT-BGihA9_PoPW5lbq4jbOZwA7vYafdyIrF5I0-fiVLS_RPaLqUAiZ8r6_pOdna1w2ywbRb7LhspOPlQWZox21-DFG4HV2DGGQd_nQhL8QmCrMd",
-            "width": 4032
-          },
-          {
-            "height": 3036,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117100445694785889305\">Yat Yeung</a>"
-            ],
-            "photo_reference": "ATtYBwKUGj1J18m_Vemus6N2VH_M8ARADF3W3FOpy5MruJDB-35kTOOT6PinM_uD22C-OIZDPsgurAu97v-Un7BhdrUe7YUbyznSjqC9VmCsdctQJNays82atH5MT_27WxAfh8Hc9wjvhpZ2CI6lAmmfi_jd4cgrXy8-jTgh7uairy3Xxdnv",
-            "width": 4048
-          },
-          {
-            "height": 1944,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117100445694785889305\">Yat Yeung</a>"
-            ],
-            "photo_reference": "ATtYBwJ5KPwP7gn8YXMsGU2VDyN-EjhSFKOjIHeQc4uYGnNRD6WIGW7t6s26Ivb3S4n3fbB8kujXyqJ1zMIO86ohA98BxCZRK69EU2ARu9lMiQEeuDw-FgLjy6rqW53Hxa5n8iVEQbAGDftFA9SwA22268RvoaH1I2Bg6CV606pynbXA76dr",
-            "width": 2592
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102227708189763507354\">Veronica Acosta</a>"
-            ],
-            "photo_reference": "ATtYBwJhbiSwSam7txdovqaIB_25Mmqbqj5LaHUn8qTKQ3s7aMQe5kCzy0TnpInhQ0yt-Cz2tcKSrmWf8sAKJueukaSGpzC0cHY68BUZWCPhKKz_6m41FOlsTpSa_mfs-NMX9sbNuHyNjWCPQl-lQdN9On0Iq1_PZnBeBzym7QTquwBLmCaq",
-            "width": 4032
-          },
-          {
-            "height": 1976,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102641242310153993194\">Martin Law</a>"
-            ],
-            "photo_reference": "ATtYBwJsqKFyks2tBJ91zO4CgN4C2D7gO2GDfQemX3S72UAk9eD5PVzrbIpjFgq0pHTYCcAZbvvBFxAwtALw0-P4v-HevBjYXNjUAqlBPmU2ZpBq89jnC4C1dfBBK9uOExk9_rkS5-yqayL-SEAz6a7TFsdLKJhyGZxw3ybR7pZOrGWtJtCW",
-            "width": 4168
-          }
-        ],
-        "place_id": "ChIJhbwWVOZYATQRfrRrLfelx6E",
-        "url": "https://maps.google.com/?cid=11657468641509356670",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Gak Su Zen Retreat Center",
+      "location": {
+        "lat": 22.250389,
+        "lng": 113.885514
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "上姜山 Lantau Island, Lantau Island, Hong Kong",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLuAurfH_57Kp92UO9R1RBcvZWoQVU-iODqxFt5odW6zqTYG0oeMBcfu0eHRQ812KVXwgJByPWCtYe7xbuD_WHt4sRLzqR1pAVxhIsoTrN3KtDmxmGOaQKYj8dbVsISzdbu-_bfQ1vfQFCRR9RhlQoBGjS3RZocsCZ5DLPsw08qX1wd",
+        "ATtYBwKFwYdZR4tRbedjPG9I_CJjWFSfOS7eFpfExJN0e1r4LHof4W-srg-jHT9BD7llhq6Jgn7RwXY9LbyqgY90CORI9AWjs8TcRevG_OgP3KL7PmBxItZzt7t-gEP5pVfRl-oz_9lbtZeYixcEd4x4Lv2O3a6EsfZFxIsrfNAysnO7w2Lj",
+        "ATtYBwIuueJW-PqSAKoA3NI9vmwwjFTj_GmkzH7iWwfJZVCV8oRDuTc9b8G814JUgy0pmgT-BGihA9_PoPW5lbq4jbOZwA7vYafdyIrF5I0-fiVLS_RPaLqUAiZ8r6_pOdna1w2ywbRb7LhspOPlQWZox21-DFG4HV2DGGQd_nQhL8QmCrMd",
+        "ATtYBwKUGj1J18m_Vemus6N2VH_M8ARADF3W3FOpy5MruJDB-35kTOOT6PinM_uD22C-OIZDPsgurAu97v-Un7BhdrUe7YUbyznSjqC9VmCsdctQJNays82atH5MT_27WxAfh8Hc9wjvhpZ2CI6lAmmfi_jd4cgrXy8-jTgh7uairy3Xxdnv",
+        "ATtYBwJ5KPwP7gn8YXMsGU2VDyN-EjhSFKOjIHeQc4uYGnNRD6WIGW7t6s26Ivb3S4n3fbB8kujXyqJ1zMIO86ohA98BxCZRK69EU2ARu9lMiQEeuDw-FgLjy6rqW53Hxa5n8iVEQbAGDftFA9SwA22268RvoaH1I2Bg6CV606pynbXA76dr",
+        "ATtYBwJhbiSwSam7txdovqaIB_25Mmqbqj5LaHUn8qTKQ3s7aMQe5kCzy0TnpInhQ0yt-Cz2tcKSrmWf8sAKJueukaSGpzC0cHY68BUZWCPhKKz_6m41FOlsTpSa_mfs-NMX9sbNuHyNjWCPQl-lQdN9On0Iq1_PZnBeBzym7QTquwBLmCaq",
+        "ATtYBwJsqKFyks2tBJ91zO4CgN4C2D7gO2GDfQemX3S72UAk9eD5PVzrbIpjFgq0pHTYCcAZbvvBFxAwtALw0-P4v-HevBjYXNjUAqlBPmU2ZpBq89jnC4C1dfBBK9uOExk9_rkS5-yqayL-SEAz6a7TFsdLKJhyGZxw3ybR7pZOrGWtJtCW"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJhbwWVOZYATQRfrRrLfelx6E",
+      "google_maps_url": "https://maps.google.com/?cid=11657468641509356670",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lantau Island, Hong Kong",
-        "geometry": {
-          "location": {
-            "lat": 22.2583129,
-            "lng": 113.9243076
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.2596856802915,
-              "lng": 113.9255709302915
-            },
-            "southwest": {
-              "lat": 22.25698771970849,
-              "lng": 113.9228729697085
-            }
-          }
-        },
-        "name": "寶林寺",
-        "photos": [
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105177571022228226629\">William Tam</a>"
-            ],
-            "photo_reference": "ATtYBwKYEC1pTSpO6D7SQtLXs_kJSi1CsRgRf10ghFQKmADcV-Kbn-9M-iBx4kyNw1E6C8_yIi4m9FU31ShKmSF5FivD3vaePF1nl6PSUBKKEUbxkZPzyJOqGGuP2gOJtCZQuaoD7JXs-i5J0rXqqeYpO21s050caiI_bcOIAz-SMfhKokAB",
-            "width": 4608
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101841749613910152318\">Pui Kei So</a>"
-            ],
-            "photo_reference": "ATtYBwKumwGEQq57sFVF-3QTgbGTZ2qvQehg6dwYnCQQ18UF3L9yYYU5MecIf5irHVcc01ITWd7oMtJnJdZZTkE-MQ5RjM6VX1caFC9t-XyQ-eXSmqfoEy61E8WqWvvlLpMKliHMHtK6z3BohwCRsaiCwE5Ak6cpF0ex08N2oXv0mFusNkIl",
-            "width": 4032
-          },
-          {
-            "height": 2150,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115854882027671446831\">ANDY YUE</a>"
-            ],
-            "photo_reference": "ATtYBwLj83dNJXO-bu5jpeRTkypglZht42rKqaIv4iTd1ssBv6c0eh0Zs1WVpY_0lTYTJD-34ISHIJdwHAMVydulD2zfg4QCk0AEZP_W_9j9PzAxEpWowKo80OrO2AB6CyXxIHq1Qkuq3-Kl4whIPRbt8aOxVG56kPe9gKUJZIdhTYzkwjmH",
-            "width": 3224
-          },
-          {
-            "height": 2560,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102621006009444608327\">Frank Kung</a>"
-            ],
-            "photo_reference": "ATtYBwIt7P1kdLIenrIud-wUzVaedbNzy-ReAPWMV0Kr6JG_MdgrF3xLZbjGmccKeSMeIlhepong-W-OuMIYeZM0esizqFG6DCfhD8TvkRkxgVhAd3TOHT3uvhAo213H_brWJCv_fRTdobJ6JWyLsPyXiLrjSCUHjXXDqX2uVHnego5BLSTj",
-            "width": 1440
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106865395272966417166\">chan Jame</a>"
-            ],
-            "photo_reference": "ATtYBwLwssBRgU9wNjDHMOP7p4ojvS2x0yfwYQ1SUYMDvOQ_cjR65sw1WfySJPRwGurdxx1b_0MYVTkZmU0UkEf9Ci4CpPhav_O0mh5GSbibDv8y8efbfIza4lDmhIuqIxaH6gcALfHoCkS3hm0edYs7Gaihz-OjrGG4jIpG_3LCdaip9wjt",
-            "width": 3456
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101841749613910152318\">Pui Kei So</a>"
-            ],
-            "photo_reference": "ATtYBwLQ8VPUMRvaCaIeH61DhFX2fXw6NV7-Yb7DO8HP5GX2UxC7eFolvK8nZZtWvomK9j7PLotSlBwGkUNYWfkhcV5Nvf-UNoTsX1RY6vfGyeOB2Zxz3iePYw6_peAuswLxNoYRiIgpJ5YDdOfBxt0yYePcINRdmlJ0amG16m_3ztH07j9W",
-            "width": 3024
-          },
-          {
-            "height": 1152,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103658428730609947339\">kam-ling CHIU</a>"
-            ],
-            "photo_reference": "ATtYBwIxdNn0N0QWHCmHkn8qb0X8Z2WvQCJT1nn_j_dywtMDCnnDCfzB1P1VWZtnI2wZdRpqdD-gTblifIGB-GWO1xEKsX42IjV27y8NtMsLErAfu9ysr_zZ1-iuyiB1yWQHdT_HYkPHef1fC8wYXPH-EZv2aqplc94HgmXasKFkLAm1Ie8c",
-            "width": 2048
-          },
-          {
-            "height": 3648,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114529486766081212747\">007 Sze</a>"
-            ],
-            "photo_reference": "ATtYBwJn3y_RcFciF1Z1QJO-8OZCPowniNwUwUmHhjj-d84Hfhfzf1K9pTpMMW2hp0Qibkla_6J_BYx7b3Sz-ii8a8ZdspdOJaAGRutIaDoXp8R0XN46zGXcUzSSUBPN46dcabtxSy5kM4Bu6IgUQO2P9Mzh8kt6oYK1pXzD9O0s597d419l",
-            "width": 2736
-          },
-          {
-            "height": 2736,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114529486766081212747\">007 Sze</a>"
-            ],
-            "photo_reference": "ATtYBwJblJwitM9XiJ0gfBqRH-ljoVXut0tfw4dzS5ovFvbIFNrJLPt4oPiOMlfrok3k7vCrX4Op6i7Mvkrn6cotzU5VM67Yzeab-ZIYWHZvd1dxQOazqSC-VPyVqFglD54vzb9hs6dzpzgRHCWfWf7ntT8kaQA7RfMqax8wPVhtidJvanwq",
-            "width": 3648
-          },
-          {
-            "height": 2736,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103539963643291679178\">CHI KONG NIP</a>"
-            ],
-            "photo_reference": "ATtYBwLb91vzDti1T6WBsj2z2TKadh-dBuXjM-XVlnvSe9c_0k-34NXPnQ5xzQP3iroAZoznfofvnjk-rY6MMzZkNooEYjYq_qjKSI938q3NCWLnjpxK56T-gEmj7Noq3K1-eW82QPB-p1YsJ9QH_iM_rLe-yY-f8dZehRRIlLjHhlebfjUf",
-            "width": 3648
-          }
-        ],
-        "place_id": "ChIJiUC0DmpYATQRRgJXxOyFe2U",
-        "url": "https://maps.google.com/?cid=7312585671918944838",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "寶林寺",
+      "location": {
+        "lat": 22.2583129,
+        "lng": 113.9243076
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Lantau Island, Hong Kong",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKYEC1pTSpO6D7SQtLXs_kJSi1CsRgRf10ghFQKmADcV-Kbn-9M-iBx4kyNw1E6C8_yIi4m9FU31ShKmSF5FivD3vaePF1nl6PSUBKKEUbxkZPzyJOqGGuP2gOJtCZQuaoD7JXs-i5J0rXqqeYpO21s050caiI_bcOIAz-SMfhKokAB",
+        "ATtYBwKumwGEQq57sFVF-3QTgbGTZ2qvQehg6dwYnCQQ18UF3L9yYYU5MecIf5irHVcc01ITWd7oMtJnJdZZTkE-MQ5RjM6VX1caFC9t-XyQ-eXSmqfoEy61E8WqWvvlLpMKliHMHtK6z3BohwCRsaiCwE5Ak6cpF0ex08N2oXv0mFusNkIl",
+        "ATtYBwLj83dNJXO-bu5jpeRTkypglZht42rKqaIv4iTd1ssBv6c0eh0Zs1WVpY_0lTYTJD-34ISHIJdwHAMVydulD2zfg4QCk0AEZP_W_9j9PzAxEpWowKo80OrO2AB6CyXxIHq1Qkuq3-Kl4whIPRbt8aOxVG56kPe9gKUJZIdhTYzkwjmH",
+        "ATtYBwIt7P1kdLIenrIud-wUzVaedbNzy-ReAPWMV0Kr6JG_MdgrF3xLZbjGmccKeSMeIlhepong-W-OuMIYeZM0esizqFG6DCfhD8TvkRkxgVhAd3TOHT3uvhAo213H_brWJCv_fRTdobJ6JWyLsPyXiLrjSCUHjXXDqX2uVHnego5BLSTj",
+        "ATtYBwLwssBRgU9wNjDHMOP7p4ojvS2x0yfwYQ1SUYMDvOQ_cjR65sw1WfySJPRwGurdxx1b_0MYVTkZmU0UkEf9Ci4CpPhav_O0mh5GSbibDv8y8efbfIza4lDmhIuqIxaH6gcALfHoCkS3hm0edYs7Gaihz-OjrGG4jIpG_3LCdaip9wjt",
+        "ATtYBwLQ8VPUMRvaCaIeH61DhFX2fXw6NV7-Yb7DO8HP5GX2UxC7eFolvK8nZZtWvomK9j7PLotSlBwGkUNYWfkhcV5Nvf-UNoTsX1RY6vfGyeOB2Zxz3iePYw6_peAuswLxNoYRiIgpJ5YDdOfBxt0yYePcINRdmlJ0amG16m_3ztH07j9W",
+        "ATtYBwIxdNn0N0QWHCmHkn8qb0X8Z2WvQCJT1nn_j_dywtMDCnnDCfzB1P1VWZtnI2wZdRpqdD-gTblifIGB-GWO1xEKsX42IjV27y8NtMsLErAfu9ysr_zZ1-iuyiB1yWQHdT_HYkPHef1fC8wYXPH-EZv2aqplc94HgmXasKFkLAm1Ie8c",
+        "ATtYBwJn3y_RcFciF1Z1QJO-8OZCPowniNwUwUmHhjj-d84Hfhfzf1K9pTpMMW2hp0Qibkla_6J_BYx7b3Sz-ii8a8ZdspdOJaAGRutIaDoXp8R0XN46zGXcUzSSUBPN46dcabtxSy5kM4Bu6IgUQO2P9Mzh8kt6oYK1pXzD9O0s597d419l",
+        "ATtYBwJblJwitM9XiJ0gfBqRH-ljoVXut0tfw4dzS5ovFvbIFNrJLPt4oPiOMlfrok3k7vCrX4Op6i7Mvkrn6cotzU5VM67Yzeab-ZIYWHZvd1dxQOazqSC-VPyVqFglD54vzb9hs6dzpzgRHCWfWf7ntT8kaQA7RfMqax8wPVhtidJvanwq",
+        "ATtYBwLb91vzDti1T6WBsj2z2TKadh-dBuXjM-XVlnvSe9c_0k-34NXPnQ5xzQP3iroAZoznfofvnjk-rY6MMzZkNooEYjYq_qjKSI938q3NCWLnjpxK56T-gEmj7Noq3K1-eW82QPB-p1YsJ9QH_iM_rLe-yY-f8dZehRRIlLjHhlebfjUf"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJiUC0DmpYATQRRgJXxOyFe2U",
+      "google_maps_url": "https://maps.google.com/?cid=7312585671918944838",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "新界 大 埔 普 門路 88 號 慈 山寺 Tsz Shan Monastery, 88, Universal Gate Rd, Ting Kok, Hong Kong",
-        "geometry": {
-          "location": {
-            "lat": 22.4736387,
-            "lng": 114.2062702
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.47498768029151,
-              "lng": 114.2076191802915
-            },
-            "southwest": {
-              "lat": 22.4722897197085,
-              "lng": 114.2049212197085
-            }
-          }
-        },
-        "international_phone_number": "+852 2123 8666",
-        "name": "Maitreya Hall",
-        "photos": [
-          {
-            "height": 2248,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115908039448705231508\">Hoon Kim</a>"
-            ],
-            "photo_reference": "ATtYBwJTM072i3BB36KBqFy1XG_trpeH9AhLbGHtsTj1fqJaKTm1mBx3VpNvRctKJ_yACn5gXNfAoCG0R32X_hDGVHPHsLe_KbUkx7-PWBoa0Tc-0EmKNtbA537w7Av_BTjUx4vOfVWXSc3M9GGBDcB_kWYagR4poXQ7gUxgzkzxxhNgzDtp",
-            "width": 4000
-          },
-          {
-            "height": 1368,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114544671396162571597\">Toby Lo</a>"
-            ],
-            "photo_reference": "ATtYBwJJL7urDOSgMeNNjJ1Lus62s1BlyEtnLY9ofk0fA5MInqFMz49Vs3gSUwStZry2GCxBeOgh9xfGtzQEzm4LoiJJ8XQSONLVYVIZ-L3HGMc3k8zfm8kHn285RUFdSMMQIcJ6z6OFKG0q9pEmt7CWiB7jt7Hlbphpl4TPj-a-2B9glMDo",
-            "width": 2048
-          },
-          {
-            "height": 2160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107671754990046841779\">Gaver Love</a>"
-            ],
-            "photo_reference": "ATtYBwKWB5bymQD81t1hnXyAzwy-KvSq4bK4OxXAjYbc4Ywz0whKlKOKHU_SpSK2XAfoiivocTjvapV9IhHD1cWgFujLX4XHlBXHptCHn1QwKXWKNA20sMFhgugETZZxvNL3VR439JD_S5H8nX5NLdusdAn_gO37qP4SXe7yUuT-SmGtu-Oh",
-            "width": 3840
-          },
-          {
-            "height": 2160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107671754990046841779\">Gaver Love</a>"
-            ],
-            "photo_reference": "ATtYBwJ6GwqoChRt8Oj1W6mYPQ1_zEcI2q1jXIH1V0wJFM72l42zJ7tm2k1SztuacRQX6ykibwAi7GL7EbXR5stVUO8-WE0J24tnRJNpXKeDPJEJjRgdmzMK7q3pTyd_-2gIx4J_wUjmZy-wTID4FYd0FVI4MOvsXSeBraDhsYs4-_cGJkPL",
-            "width": 3840
-          },
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114544671396162571597\">Toby Lo</a>"
-            ],
-            "photo_reference": "ATtYBwJtGS6rwLNTm5MRR3XTlbDxCKDMaZe9ae58L6GAkER0itvWGBPj1Ljbc1j6HxCwRpr8rOUjJi_Kz_quHJn0pkLW4CIG7_DOIQA_YJDWDIKqWudo_C_S9I30V1axQpuo-f-lebxGUqrI6ZXJwS5sO7stIMZWIM94u2LGbERJWKehCmZf",
-            "width": 2048
-          },
-          {
-            "height": 2160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107671754990046841779\">Gaver Love</a>"
-            ],
-            "photo_reference": "ATtYBwLXp8256bkmvm1GMXDUCzjmcYuRTMJqRJAkWuW3BQMhKZdbOZRLerl49BebImQS6NVlxx6glT4fvZqYShkY59nMlOthIOTuEx_tVxC9K5JvllLR_bCuty5DwwEIcMOVyHfhESaXEvq5sNj-Y_YWPQbdzwSB_ZS6olIVDE7WDYP68h9c",
-            "width": 3840
-          },
-          {
-            "height": 2248,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115908039448705231508\">Hoon Kim</a>"
-            ],
-            "photo_reference": "ATtYBwKxInPQVKHc-0hfTgS0oUV3TXZi5bHc-B0PuoM6XsjzOioD41NDGiVRCxXsd1eJMjMkxvFu0B4BbyORW22QkTzpjRiwefWaS6RvAuftANvx-zaYa6WcxjQbFtGFdVK7LnwHKqadOkDXlwkDhW01xqNfO5G2TGLuhNhZvII33GvrqKJD",
-            "width": 4000
-          },
-          {
-            "height": 2160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107671754990046841779\">Gaver Love</a>"
-            ],
-            "photo_reference": "ATtYBwJ66t0xO_-ttKb9sM_wqobL-2tBJwdzANrNT75jJSwJG5J9qaLPNTWJ85kNxyxDGj6gg0gkS5QMZ4J8G8dat97e32tBYWhLs_a5ECqoUQYYQXhNNW8XHpIMdJCxBZXgjD5HLCinwkGNFPh1ZnjKKV1wE1VrOIKzn5Sjv7siFXPTrX7G",
-            "width": 3840
-          },
-          {
-            "height": 2248,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115908039448705231508\">Hoon Kim</a>"
-            ],
-            "photo_reference": "ATtYBwKiLtY6cnlv-C7aH5Oa-lzeUPovdt7flUUerr85K3WD6VAOd8_FCq3BDk1dVSZZl4BLE2NHbGTmxfrQE9HgFVCfwYtvtqyXiiBiGIz8nJKebTjNW4IX-_zOV9_t1l0aydWvxI4glVAF_vnX3JYXI0cUtYe9yfqdq06eDI-31vKWeFzf",
-            "width": 4000
-          },
-          {
-            "height": 3840,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107671754990046841779\">Gaver Love</a>"
-            ],
-            "photo_reference": "ATtYBwKj89U9jx3-K6ivOxOnUabenYtxYoKbgxynIRY67ALph79jUwfMmHoVLb6zcvpqA_b8Axlr3tBBaMv1OaGP_47JzM7UtDbvt5W2Vq-mw7vsVSJNDj8J1hRmHJOgWf94avM_R93VqTXd3aVUhXfyFwwFts7FEAEEml_U0CUheZ0ZM319",
-            "width": 2160
-          }
-        ],
-        "place_id": "ChIJ1T4VqhEJBDQRiX7UdADPcoM",
-        "url": "https://maps.google.com/?cid=9471860567180607113",
-        "website": "http://www.tszshan.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Maitreya Hall",
+      "location": {
+        "lat": 22.4736387,
+        "lng": 114.2062702
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "新界 大 埔 普 門路 88 號 慈 山寺 Tsz Shan Monastery, 88, Universal Gate Rd, Ting Kok, Hong Kong",
+      "phone": "+852 2123 8666",
+      "website": "http://www.tszshan.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJTM072i3BB36KBqFy1XG_trpeH9AhLbGHtsTj1fqJaKTm1mBx3VpNvRctKJ_yACn5gXNfAoCG0R32X_hDGVHPHsLe_KbUkx7-PWBoa0Tc-0EmKNtbA537w7Av_BTjUx4vOfVWXSc3M9GGBDcB_kWYagR4poXQ7gUxgzkzxxhNgzDtp",
+        "ATtYBwJJL7urDOSgMeNNjJ1Lus62s1BlyEtnLY9ofk0fA5MInqFMz49Vs3gSUwStZry2GCxBeOgh9xfGtzQEzm4LoiJJ8XQSONLVYVIZ-L3HGMc3k8zfm8kHn285RUFdSMMQIcJ6z6OFKG0q9pEmt7CWiB7jt7Hlbphpl4TPj-a-2B9glMDo",
+        "ATtYBwKWB5bymQD81t1hnXyAzwy-KvSq4bK4OxXAjYbc4Ywz0whKlKOKHU_SpSK2XAfoiivocTjvapV9IhHD1cWgFujLX4XHlBXHptCHn1QwKXWKNA20sMFhgugETZZxvNL3VR439JD_S5H8nX5NLdusdAn_gO37qP4SXe7yUuT-SmGtu-Oh",
+        "ATtYBwJ6GwqoChRt8Oj1W6mYPQ1_zEcI2q1jXIH1V0wJFM72l42zJ7tm2k1SztuacRQX6ykibwAi7GL7EbXR5stVUO8-WE0J24tnRJNpXKeDPJEJjRgdmzMK7q3pTyd_-2gIx4J_wUjmZy-wTID4FYd0FVI4MOvsXSeBraDhsYs4-_cGJkPL",
+        "ATtYBwJtGS6rwLNTm5MRR3XTlbDxCKDMaZe9ae58L6GAkER0itvWGBPj1Ljbc1j6HxCwRpr8rOUjJi_Kz_quHJn0pkLW4CIG7_DOIQA_YJDWDIKqWudo_C_S9I30V1axQpuo-f-lebxGUqrI6ZXJwS5sO7stIMZWIM94u2LGbERJWKehCmZf",
+        "ATtYBwLXp8256bkmvm1GMXDUCzjmcYuRTMJqRJAkWuW3BQMhKZdbOZRLerl49BebImQS6NVlxx6glT4fvZqYShkY59nMlOthIOTuEx_tVxC9K5JvllLR_bCuty5DwwEIcMOVyHfhESaXEvq5sNj-Y_YWPQbdzwSB_ZS6olIVDE7WDYP68h9c",
+        "ATtYBwKxInPQVKHc-0hfTgS0oUV3TXZi5bHc-B0PuoM6XsjzOioD41NDGiVRCxXsd1eJMjMkxvFu0B4BbyORW22QkTzpjRiwefWaS6RvAuftANvx-zaYa6WcxjQbFtGFdVK7LnwHKqadOkDXlwkDhW01xqNfO5G2TGLuhNhZvII33GvrqKJD",
+        "ATtYBwJ66t0xO_-ttKb9sM_wqobL-2tBJwdzANrNT75jJSwJG5J9qaLPNTWJ85kNxyxDGj6gg0gkS5QMZ4J8G8dat97e32tBYWhLs_a5ECqoUQYYQXhNNW8XHpIMdJCxBZXgjD5HLCinwkGNFPh1ZnjKKV1wE1VrOIKzn5Sjv7siFXPTrX7G",
+        "ATtYBwKiLtY6cnlv-C7aH5Oa-lzeUPovdt7flUUerr85K3WD6VAOd8_FCq3BDk1dVSZZl4BLE2NHbGTmxfrQE9HgFVCfwYtvtqyXiiBiGIz8nJKebTjNW4IX-_zOV9_t1l0aydWvxI4glVAF_vnX3JYXI0cUtYe9yfqdq06eDI-31vKWeFzf",
+        "ATtYBwKj89U9jx3-K6ivOxOnUabenYtxYoKbgxynIRY67ALph79jUwfMmHoVLb6zcvpqA_b8Axlr3tBBaMv1OaGP_47JzM7UtDbvt5W2Vq-mw7vsVSJNDj8J1hRmHJOgWf94avM_R93VqTXd3aVUhXfyFwwFts7FEAEEml_U0CUheZ0ZM319"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1T4VqhEJBDQRiX7UdADPcoM",
+      "google_maps_url": "https://maps.google.com/?cid=9471860567180607113",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

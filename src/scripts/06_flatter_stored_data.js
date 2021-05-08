@@ -57,7 +57,7 @@ dataSrcFiles.forEach(file => {
           meta: {category , notes = [""]}
         } = place
 
-        const photorefs = photos.map(photo => photo.photo_reference)
+        const photorefs = photos ? photos.map(photo => photo.photo_reference) : null
 
         let newPlaceObject = {
           name: name,

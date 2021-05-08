@@ -1,3060 +1,1191 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "15 Spa Rd, Bermondsey, London SE16 3SA, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.49565440000001,
-            "lng": -0.0745869
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.4969194302915,
-              "lng": -0.07319131970849796
-            },
-            "southwest": {
-              "lat": 51.4942214697085,
-              "lng": -0.07588928029150203
-            }
-          }
-        },
-        "international_phone_number": "+44 20 3327 1650",
-        "name": "Kagyu Samye Dzong London Tibetan Buddhist Meditation Centre",
-        "photos": [
-          {
-            "height": 1372,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103304833101711804414\">Kagyu Samye Dzong London Tibetan Buddhist Meditation Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLbI6X26a0NyonCY5iBAfUzP-8b43U6TCsJqqO6hvdnNRrux6k8DkmMA_78FjhnUoYtr01dc_uqPVl-w5Xel0EEno2n5jNygdxo1bIN7fKXTSUn6Hmt6Im4IiTAneCdKvTeOIeUOg6lzSEwxgUwRlvUbHHDW8UnMAax1aRGR6FrIifG",
-            "width": 2048
-          },
-          {
-            "height": 1280,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115834225333801531119\">Kagyu Samye Dzong London</a>"
-            ],
-            "photo_reference": "ATtYBwLxdzO3S623lNPd6vXWLekBQdn8jD2Aayb8EQ_EdJMwPKFDKqZsfWBhiLvGB0-8R2wJp2QHhHFQLrnx3o18wfhiXzdzHwzgwcF7HSKcDQJtH86czSLp7remv15exWvnoTjUM3lSqodKdNnURrbQVmD5mO4CtABD9nFFZGi3TVy1pVsU",
-            "width": 835
-          },
-          {
-            "height": 611,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103304833101711804414\">Kagyu Samye Dzong London Tibetan Buddhist Meditation Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLtNlwIGTXGwmF4_FAbh4dDoBofky6vsVr0mkKOhvciidqhOm0BBKnCdnyj1E2b9JLtKWyFjJ96keLXhvATCfDfsc6giGxdguDRHV4dtWDoUsYTWdGXHGK6w1elkW_z80o8-KVkZ9sfyIQcrJ1Gur9bQ8JxSeSXBLHNB6fvQMZ74vPx",
-            "width": 900
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113826057888895263707\">Tanuja Shukla</a>"
-            ],
-            "photo_reference": "ATtYBwLL8Mq5Q1Wje_fiSM0cFv0z-_xyxF5RzMma6mQDdiyg_x6B6ka-MwoWfjiNVdv0n1mU0_x81F5Mt5m3zQLMDzUE9vPDPyXvx8qObY6D2doShYEnZupscTAZka9PbDrPJKt9_jy606lR3olS6Yc2Dh9bFG7nnU-LaU5IWduCohs6BrRM",
-            "width": 4032
-          },
-          {
-            "height": 800,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115834225333801531119\">Kagyu Samye Dzong London</a>"
-            ],
-            "photo_reference": "ATtYBwKR14WeEGDyPGVBb7gzdBnPoAijvDQYAio5me_213l2g7RBX7h4Ugg_wqADEnGK05cjsaq2KOJinUcbEnz79-OBORIMCll-f_8WnY_o3pguet6YbbVmOgg43AfvK16T59jD6xLnwu8MJwfHHKa8SfWSfzuucRo5xqxxlrXd_h46r2hD",
-            "width": 533
-          },
-          {
-            "height": 2592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115970046952517760215\">Kat Sou</a>"
-            ],
-            "photo_reference": "ATtYBwLxYFStkR2mRIgCCYCZN7QDigdhK-MaC8bJ_5UdAZ3yiGNbWXmDpKTDla7VwxY_k3ysRcQiVRme36-39BC5dE84AnyYDD-q9BChsRtLzvZgZjCRTyIw2Si8B4sXWn9kCCb5B1WNHOM5q70GI0pOsyewfBViHAGv3OHd9KuKKJNJsTlo",
-            "width": 4608
-          },
-          {
-            "height": 1278,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115834225333801531119\">Kagyu Samye Dzong London</a>"
-            ],
-            "photo_reference": "ATtYBwLeoU3WkhyiBlTMgxrOiyNC7-an71t8TzPUul3oGMZdHnEfLcFOOvcJ2zSVJwFqUZ9HGDp-sxZ02L6XexLvHxGUdX6_sXb_tEGwKCDH8zhkhgwVdXBehTp6GSW03GSp_jmcOjxYlMMA_TGKYX1tABu-N-9kyV538eYcgeXm5WzT55iU",
-            "width": 842
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117334048058131060704\">Vince Cullen</a>"
-            ],
-            "photo_reference": "ATtYBwLC5BfuaCukP2leZLgCk2rWgrsiPtDJR-x7ySWAu_WS0fZw6YDTs8Jd1x86plYHZB1PXZjE_O5feiMh5CuQkC8lWPL6T_rqymGPCNc3MN_Su6xXqQt-Q_YI5hFxd0qCkT-piyvK9z0b5SpRGqHBITHzjUq8vc7un4GPG3kgI7UAgxqk",
-            "width": 4032
-          },
-          {
-            "height": 2907,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108412699714476363297\">Marina Vladimirovna</a>"
-            ],
-            "photo_reference": "ATtYBwLa9Q55oyijIwSmPsiyuR0rBMWWk_Bz3fB38_Jv7tVfoOCXmvgV_7dnYEnaD8d0pnTiDotnFt4sJX8er0aHaw4ADNzT8WGj4m81977V10CVD8sxecX-MmsdxBITJ2jLoTpo0DDfLauAScaY7bnT2fIXQYbJURwNImeCvq72AalPw3E2",
-            "width": 3786
-          },
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115834225333801531119\">Kagyu Samye Dzong London</a>"
-            ],
-            "photo_reference": "ATtYBwJLZ_CM8kfa0TPC33iQOm29z4pB86rkQ_xfISX4MIodap4-69Fi7Aypn7w5mlnTUfMYeJdeBmktGTvas6RAqQyfQrR3hmpB2ZNAyMzWIqAe287TFfgnou76WZoKj_Cr_Ps9VOujW4mbRUz_4GiOpMFxIFBBDcB04-04u-RtXIhvBxjQ",
-            "width": 2048
-          }
-        ],
-        "place_id": "ChIJH546vEEDdkgRjSl1zEn34OQ",
-        "url": "https://maps.google.com/?cid=16492453731765660045",
-        "website": "http://london.samye.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Kagyu Samye Dzong London Tibetan Buddhist Meditation Centre",
+      "location": {
+        "lat": 51.49565440000001,
+        "lng": -0.0745869
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "15 Spa Rd, Bermondsey, London SE16 3SA, UK",
+      "phone": "+44 20 3327 1650",
+      "website": "http://london.samye.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLbI6X26a0NyonCY5iBAfUzP-8b43U6TCsJqqO6hvdnNRrux6k8DkmMA_78FjhnUoYtr01dc_uqPVl-w5Xel0EEno2n5jNygdxo1bIN7fKXTSUn6Hmt6Im4IiTAneCdKvTeOIeUOg6lzSEwxgUwRlvUbHHDW8UnMAax1aRGR6FrIifG",
+        "ATtYBwLxdzO3S623lNPd6vXWLekBQdn8jD2Aayb8EQ_EdJMwPKFDKqZsfWBhiLvGB0-8R2wJp2QHhHFQLrnx3o18wfhiXzdzHwzgwcF7HSKcDQJtH86czSLp7remv15exWvnoTjUM3lSqodKdNnURrbQVmD5mO4CtABD9nFFZGi3TVy1pVsU",
+        "ATtYBwLtNlwIGTXGwmF4_FAbh4dDoBofky6vsVr0mkKOhvciidqhOm0BBKnCdnyj1E2b9JLtKWyFjJ96keLXhvATCfDfsc6giGxdguDRHV4dtWDoUsYTWdGXHGK6w1elkW_z80o8-KVkZ9sfyIQcrJ1Gur9bQ8JxSeSXBLHNB6fvQMZ74vPx",
+        "ATtYBwLL8Mq5Q1Wje_fiSM0cFv0z-_xyxF5RzMma6mQDdiyg_x6B6ka-MwoWfjiNVdv0n1mU0_x81F5Mt5m3zQLMDzUE9vPDPyXvx8qObY6D2doShYEnZupscTAZka9PbDrPJKt9_jy606lR3olS6Yc2Dh9bFG7nnU-LaU5IWduCohs6BrRM",
+        "ATtYBwKR14WeEGDyPGVBb7gzdBnPoAijvDQYAio5me_213l2g7RBX7h4Ugg_wqADEnGK05cjsaq2KOJinUcbEnz79-OBORIMCll-f_8WnY_o3pguet6YbbVmOgg43AfvK16T59jD6xLnwu8MJwfHHKa8SfWSfzuucRo5xqxxlrXd_h46r2hD",
+        "ATtYBwLxYFStkR2mRIgCCYCZN7QDigdhK-MaC8bJ_5UdAZ3yiGNbWXmDpKTDla7VwxY_k3ysRcQiVRme36-39BC5dE84AnyYDD-q9BChsRtLzvZgZjCRTyIw2Si8B4sXWn9kCCb5B1WNHOM5q70GI0pOsyewfBViHAGv3OHd9KuKKJNJsTlo",
+        "ATtYBwLeoU3WkhyiBlTMgxrOiyNC7-an71t8TzPUul3oGMZdHnEfLcFOOvcJ2zSVJwFqUZ9HGDp-sxZ02L6XexLvHxGUdX6_sXb_tEGwKCDH8zhkhgwVdXBehTp6GSW03GSp_jmcOjxYlMMA_TGKYX1tABu-N-9kyV538eYcgeXm5WzT55iU",
+        "ATtYBwLC5BfuaCukP2leZLgCk2rWgrsiPtDJR-x7ySWAu_WS0fZw6YDTs8Jd1x86plYHZB1PXZjE_O5feiMh5CuQkC8lWPL6T_rqymGPCNc3MN_Su6xXqQt-Q_YI5hFxd0qCkT-piyvK9z0b5SpRGqHBITHzjUq8vc7un4GPG3kgI7UAgxqk",
+        "ATtYBwLa9Q55oyijIwSmPsiyuR0rBMWWk_Bz3fB38_Jv7tVfoOCXmvgV_7dnYEnaD8d0pnTiDotnFt4sJX8er0aHaw4ADNzT8WGj4m81977V10CVD8sxecX-MmsdxBITJ2jLoTpo0DDfLauAScaY7bnT2fIXQYbJURwNImeCvq72AalPw3E2",
+        "ATtYBwJLZ_CM8kfa0TPC33iQOm29z4pB86rkQ_xfISX4MIodap4-69Fi7Aypn7w5mlnTUfMYeJdeBmktGTvas6RAqQyfQrR3hmpB2ZNAyMzWIqAe287TFfgnou76WZoKj_Cr_Ps9VOujW4mbRUz_4GiOpMFxIFBBDcB04-04u-RtXIhvBxjQ"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJH546vEEDdkgRjSl1zEn34OQ",
+      "google_maps_url": "https://maps.google.com/?cid=16492453731765660045",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "postal contact address only, 30A Brook St, Mayfair, London W1K 5DJ, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.5131491,
-            "lng": -0.1463555
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.51446043029151,
-              "lng": -0.144985169708498
-            },
-            "southwest": {
-              "lat": 51.51176246970851,
-              "lng": -0.147683130291502
-            }
-          }
-        },
-        "name": "Martsang Kagyu London Buddhist Centre",
-        "photos": [
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117814932025858560985\">Martsang Kagyu London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLiDW2w7vSnEK_GVRzk2Sb0r_6hcs79HB9qqUY7_rjMbdpR-F8ddnWIfYvupUKYYtE15xg8fJkl1i8F5w6U7f-gKJcBpG9tMtqw79ZBnqgzAvgSTjhNvu6_ve6vdeAdWyE14GPuYI6oromFnLZ7u_-dBZBFfGUEqR06utJRB6vEg0-w",
-            "width": 1620
-          },
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110117687681930842123\">Jenny Bryston</a>"
-            ],
-            "photo_reference": "ATtYBwIKuGMjYOW9k6L7lfRv7i1FqKefhL2bH17e5iZx_RepY0nJFf19xb8X2TXOIQCa4BaMzeSM1WOVj4pAY9MYzrGIUsLQUEQY6sZ4FOTwYLWUTN4MfIj3pera6X9GMIK1r2hIE9HLFzvYx7ZHfL2RD6STmh3H4SvzP2nJ2IWixpQHvbJn",
-            "width": 2048
-          },
-          {
-            "height": 1134,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109892389147727585927\">Martsang Kagyu London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLMQS6NUGW88C63FMwbRZKjirFWMfvNQ1Hqw4AoOJx0rqkhApFaMwSwx2ivBUkjWbzmtGWTBkYbHvjcRSeNqrfO8xh2zNdZUChwrSbZTNyXfoY16-ec9CetyG4vrK_odO01J0VLXENrFXwcjhGiw4kUIehuNV_NdE4t9QnS6fbtZdMk",
-            "width": 850
-          },
-          {
-            "height": 1527,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109892389147727585927\">Martsang Kagyu London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwJYJchi99ILKufFZGou_F12F-qRt_tPL2PTpEnVdRE0CI4OCbWucNnnVI6tw2x6kVQ8JBm_6euCGXqfPX_UAasHg4iNpnvsIAdV3IOqPBb01TQt4aTVoylXN64fDuMNeAOzV4TSt9qqgl9OHd_FFiZwEUfLegYlK-XaShiYFyCYX5Qu",
-            "width": 1080
-          },
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117814932025858560985\">Martsang Kagyu London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwJJciqdTKms-E36fd1ocgkDdacJaKVHbFkXBVNgSXPkZSUkiZaJwXuXB5awacCKC3CB_Ior5UOdPfTGbwTGFE0_Y2SYc4si2TAIFn9ZO8RWxHGJBVXYFDxC9PorNyzgYsmM_m6--AptUJb1hAYaVE6Qk0SJ5G6d28vrlDLRPnNQJBod",
-            "width": 2048
-          },
-          {
-            "height": 1375,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103323018832529387323\">Spencer Kings</a>"
-            ],
-            "photo_reference": "ATtYBwIgYZ4l_sy2scs46Npv-NixlHwAVEj7Q2qw2ZaQr63jKpKePgB3D_QZWutSo2QfCL6RPgLtbSXmBmX9k8jJD2kQ-Z8NgRTmiqi4WgwXbHNeThbztQhsPR7NOdi538vC7sOtvvxii_LCBbDxoqOwaxklOliWC756xSTlH2yqceucvJ_l",
-            "width": 2048
-          },
-          {
-            "height": 370,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117814932025858560985\">Martsang Kagyu London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwKb0pR999fJFq7_K5oojgt12Ft3FVNdnz-wFAyO1lwWDtDJWnxyfw_ZROiDhsUWPWdyUR3VSsGx-OeRLhv38qIdrsjQ6sF68Xxz-6s1B4NC2GxmxthF8krn5u_OoqsbDErpy-yW2W00xqBG95BdSzlSYFpeaudVL-nVliHZ2b43nflr",
-            "width": 800
-          },
-          {
-            "height": 1512,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116765159826834316996\">Jake Frances</a>"
-            ],
-            "photo_reference": "ATtYBwKY4TpXFUcQEFLhW5E4SuULlXqsnxwJMAvOcG4nSep009An_ffrgpArOz7l_a7xS6_oO-pg5zpeFMrLKaVlR_8Y4CmP0OKwhtwHxtbLsLzqqg9srqaYQqjNdqshFKCSZrPHfnUwFlSsO4LnXJrY0qfjgbTeNAYe8fgCCj9Z9QrnBYaw",
-            "width": 2016
-          },
-          {
-            "height": 352,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102590939496959191875\">mai chen</a>"
-            ],
-            "photo_reference": "ATtYBwJr6sNBGgWNkc3u7njE_yT_FSjRV_2-jIDZfw-oP5apfKtC1wQM0CMQk5GpLOMbUzVqGK6mn2tkGKA8rSHe5SkJY6QngoDZlnPV_0hQqTLmDgUchaOlFmyd-3Ck9R-lfxLRNM27xyTZ_r9qsONGrssgyvvlBpNws09DGUzqS_UiJp8X",
-            "width": 760
-          },
-          {
-            "height": 1134,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109892389147727585927\">Martsang Kagyu London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwKy6tEcFUPoz3qQisTtzkpAEygeZD22GehKLoPHQhZXlqNm0gx6N_tzkCgTbIrtdwBUt1am_aMH7OTWlO_Dul2JVf41PvUPJ_TcEiyKEP66bUlq_ZCews6vxvEnAMfngnxHSmc2_MqI24Qutf8AZp4riqg9mz64qv6jlf0HqAlOgjoc",
-            "width": 850
-          }
-        ],
-        "place_id": "ChIJeU6yg4MadkgRyaGkD-m9NzU",
-        "url": "https://maps.google.com/?cid=3834742416416743881",
-        "website": "https://www.martsangkagyu.co.uk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Martsang Kagyu London Buddhist Centre",
+      "location": {
+        "lat": 51.5131491,
+        "lng": -0.1463555
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "postal contact address only, 30A Brook St, Mayfair, London W1K 5DJ, UK",
+      "website": "https://www.martsangkagyu.co.uk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLiDW2w7vSnEK_GVRzk2Sb0r_6hcs79HB9qqUY7_rjMbdpR-F8ddnWIfYvupUKYYtE15xg8fJkl1i8F5w6U7f-gKJcBpG9tMtqw79ZBnqgzAvgSTjhNvu6_ve6vdeAdWyE14GPuYI6oromFnLZ7u_-dBZBFfGUEqR06utJRB6vEg0-w",
+        "ATtYBwIKuGMjYOW9k6L7lfRv7i1FqKefhL2bH17e5iZx_RepY0nJFf19xb8X2TXOIQCa4BaMzeSM1WOVj4pAY9MYzrGIUsLQUEQY6sZ4FOTwYLWUTN4MfIj3pera6X9GMIK1r2hIE9HLFzvYx7ZHfL2RD6STmh3H4SvzP2nJ2IWixpQHvbJn",
+        "ATtYBwLMQS6NUGW88C63FMwbRZKjirFWMfvNQ1Hqw4AoOJx0rqkhApFaMwSwx2ivBUkjWbzmtGWTBkYbHvjcRSeNqrfO8xh2zNdZUChwrSbZTNyXfoY16-ec9CetyG4vrK_odO01J0VLXENrFXwcjhGiw4kUIehuNV_NdE4t9QnS6fbtZdMk",
+        "ATtYBwJYJchi99ILKufFZGou_F12F-qRt_tPL2PTpEnVdRE0CI4OCbWucNnnVI6tw2x6kVQ8JBm_6euCGXqfPX_UAasHg4iNpnvsIAdV3IOqPBb01TQt4aTVoylXN64fDuMNeAOzV4TSt9qqgl9OHd_FFiZwEUfLegYlK-XaShiYFyCYX5Qu",
+        "ATtYBwJJciqdTKms-E36fd1ocgkDdacJaKVHbFkXBVNgSXPkZSUkiZaJwXuXB5awacCKC3CB_Ior5UOdPfTGbwTGFE0_Y2SYc4si2TAIFn9ZO8RWxHGJBVXYFDxC9PorNyzgYsmM_m6--AptUJb1hAYaVE6Qk0SJ5G6d28vrlDLRPnNQJBod",
+        "ATtYBwIgYZ4l_sy2scs46Npv-NixlHwAVEj7Q2qw2ZaQr63jKpKePgB3D_QZWutSo2QfCL6RPgLtbSXmBmX9k8jJD2kQ-Z8NgRTmiqi4WgwXbHNeThbztQhsPR7NOdi538vC7sOtvvxii_LCBbDxoqOwaxklOliWC756xSTlH2yqceucvJ_l",
+        "ATtYBwKb0pR999fJFq7_K5oojgt12Ft3FVNdnz-wFAyO1lwWDtDJWnxyfw_ZROiDhsUWPWdyUR3VSsGx-OeRLhv38qIdrsjQ6sF68Xxz-6s1B4NC2GxmxthF8krn5u_OoqsbDErpy-yW2W00xqBG95BdSzlSYFpeaudVL-nVliHZ2b43nflr",
+        "ATtYBwKY4TpXFUcQEFLhW5E4SuULlXqsnxwJMAvOcG4nSep009An_ffrgpArOz7l_a7xS6_oO-pg5zpeFMrLKaVlR_8Y4CmP0OKwhtwHxtbLsLzqqg9srqaYQqjNdqshFKCSZrPHfnUwFlSsO4LnXJrY0qfjgbTeNAYe8fgCCj9Z9QrnBYaw",
+        "ATtYBwJr6sNBGgWNkc3u7njE_yT_FSjRV_2-jIDZfw-oP5apfKtC1wQM0CMQk5GpLOMbUzVqGK6mn2tkGKA8rSHe5SkJY6QngoDZlnPV_0hQqTLmDgUchaOlFmyd-3Ck9R-lfxLRNM27xyTZ_r9qsONGrssgyvvlBpNws09DGUzqS_UiJp8X",
+        "ATtYBwKy6tEcFUPoz3qQisTtzkpAEygeZD22GehKLoPHQhZXlqNm0gx6N_tzkCgTbIrtdwBUt1am_aMH7OTWlO_Dul2JVf41PvUPJ_TcEiyKEP66bUlq_ZCews6vxvEnAMfngnxHSmc2_MqI24Qutf8AZp4riqg9mz64qv6jlf0HqAlOgjoc"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJeU6yg4MadkgRyaGkD-m9NzU",
+      "google_maps_url": "https://maps.google.com/?cid=3834742416416743881",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "58 Marlborough Pl, London NW8 0P, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.53389139999999,
-            "lng": -0.1825116
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.5351781802915,
-              "lng": -0.181086069708498
-            },
-            "southwest": {
-              "lat": 51.5324802197085,
-              "lng": -0.183784030291502
-            }
-          }
-        },
-        "name": "Zen Centre",
-        "place_id": "ChIJi4MvhqEadkgR3hVf4SAfh8I",
-        "url": "https://maps.google.com/?cid=14017206591294477790",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Zen Centre",
+      "location": {
+        "lat": 51.53389139999999,
+        "lng": -0.1825116
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "58 Marlborough Pl, London NW8 0P, UK",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJi4MvhqEadkgR3hVf4SAfh8I",
+      "google_maps_url": "https://maps.google.com/?cid=14017206591294477790",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "24 Canfield Dr, South Ruislip, Ruislip HA4 6QW, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.5561393,
-            "lng": -0.4019245
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.5574510302915,
-              "lng": -0.400678519708498
-            },
-            "southwest": {
-              "lat": 51.5547530697085,
-              "lng": -0.4033764802915021
-            }
-          }
-        },
-        "name": "Byoma Kusuma Buddhadharma Sangha UK",
-        "photos": [
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104266181006696804012\">Norma West</a>"
-            ],
-            "photo_reference": "ATtYBwIQSjlJTGMVgQBvZhdOGWdnyxgUAezhNsywGrVmrpSfhPdqePZt8rMFS9Bkfg0Si9FZI8Htil54Rd2hsymNCYg83xiwW-rLWCMdR28t89oQS3yr6Owil3L257abjL1N-T8UGVln2b9lWHyilNeSxU9CGRVNuXBG7ViqxEu4m1ozsKYg",
-            "width": 1836
-          },
-          {
-            "height": 3264,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104266181006696804012\">Norma West</a>"
-            ],
-            "photo_reference": "ATtYBwJ5Yh-0ErkWYhqRpILT-Pg61iJU5MOdCmrNfb2H00NoCzwHqSp0-qD41pa4X956QY_HtI5j6pszVlt-xRCL1mSRExOLQU07ibmZOqDBlgCOOXi78OoFdRHgClLFnRCPS7lNdow-KxTejcqSaYU9orn6B7ZxDgnFtMjKSbsRY40qguCH",
-            "width": 1836
-          }
-        ],
-        "place_id": "ChIJw1Jr4x9tdkgRMzGQWhNcxiw",
-        "url": "https://maps.google.com/?cid=3226367421251072307",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Byoma Kusuma Buddhadharma Sangha UK",
+      "location": {
+        "lat": 51.5561393,
+        "lng": -0.4019245
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "24 Canfield Dr, South Ruislip, Ruislip HA4 6QW, UK",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIQSjlJTGMVgQBvZhdOGWdnyxgUAezhNsywGrVmrpSfhPdqePZt8rMFS9Bkfg0Si9FZI8Htil54Rd2hsymNCYg83xiwW-rLWCMdR28t89oQS3yr6Owil3L257abjL1N-T8UGVln2b9lWHyilNeSxU9CGRVNuXBG7ViqxEu4m1ozsKYg",
+        "ATtYBwJ5Yh-0ErkWYhqRpILT-Pg61iJU5MOdCmrNfb2H00NoCzwHqSp0-qD41pa4X956QY_HtI5j6pszVlt-xRCL1mSRExOLQU07ibmZOqDBlgCOOXi78OoFdRHgClLFnRCPS7lNdow-KxTejcqSaYU9orn6B7ZxDgnFtMjKSbsRY40qguCH"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJw1Jr4x9tdkgRMzGQWhNcxiw",
+      "google_maps_url": "https://maps.google.com/?cid=3226367421251072307",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "The Old Courthouse, 43 Renfrew Rd, Prince's, London SE11 4NA, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.4917623,
-            "lng": -0.1053691
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.4930790802915,
-              "lng": -0.1041600197084979
-            },
-            "southwest": {
-              "lat": 51.4903811197085,
-              "lng": -0.106857980291502
-            }
-          }
-        },
-        "international_phone_number": "+44 20 7820 8787",
-        "name": "Jamyang London Buddhist Centre",
-        "photos": [
-          {
-            "height": 1440,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115187445605169574182\">Jamyang London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLIbvcXs6bfRdiefJ2Wc3LyWgbNPgJvvAaSts-f0-pUXQY_75NA1a-GAYYZ6SlnRmPpPhDeXwbuIHdoeQoJptISn5Ku4bVqzvOU5vKBkN2_s970XIfsnFPuJENjkfSkhdAQ7wFp3dMrYzY4_KV8khXf0g0pbfYS-ADyljj15SwU0FES",
-            "width": 2560
-          },
-          {
-            "height": 1456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103248373496869095544\">Fernando Barbella</a>"
-            ],
-            "photo_reference": "ATtYBwKt8DX_jFrzpyznPCYWp1fCEkvQuwqmLQqllyRGFcEzLko7E_VYxDdG7m8BWDXXI3yG3xQUnrmLFDC_s1PSibpalxX-L3swf9IWleyNULZ1VmVK5RYT3GDu8lf54U65A6sqe7CN4cc-mE0-xdHV1oZE-FoOEdz7sxv_O5zBJ6N08h-T",
-            "width": 2592
-          },
-          {
-            "height": 844,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115187445605169574182\">Jamyang London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLt7lyjDJMdD-iXvKhesvi-AI-kavmlVHqmAj8vy87NyWk4v8h-9OwQwqSE-JT_mWLAhWyHzzQamPtPtRnuXKDWt4-zKDdIJDo7XYDCYC2r6oxCLBBL7BoghNdSOLeP-6AdoMNqDJ40ynB8Bd-qHjMy-rXzmJFmU8exwyhDQHfnI0_R",
-            "width": 1500
-          },
-          {
-            "height": 3457,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115187445605169574182\">Jamyang London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwIUMKmq91WYzgysIfFW7ZOLKVNz03mLDmNoGBA9oxBlyAdQ80BAEonGr5Hz_tTInq8f3PS5LQTf8vwrYGPmapwIxs2K8ZGwf5YNzR19zK1gjckbVb1h0c6Mk-KZXDO5oZRcNjiOgRvWe3y-zV6Xp6hQHnhiIcbWSJDlUBOBTlAjDHAz",
-            "width": 5388
-          },
-          {
-            "height": 1872,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115187445605169574182\">Jamyang London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwJyKQUsu2_y7E9W6wZPh6D7Kt2ayWGYwjAeGKKz-rYcbRAv6rESFvH_V0abrHjTnsWK0aLlsUBqka0hSx0ddHkwC57U1GpPJzlZCP-rD_0xMkYEinh72M9MuS9Tv9Hqg577ZraIZI3llvcruWni1hcupEPj479FhVvJ4p8xE0wdlWZR",
-            "width": 2808
-          },
-          {
-            "height": 576,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115187445605169574182\">Jamyang London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwJDxV5K71Aqu1QWQEF5EqxQ4T3Zs5aYhiIf0HV1_oDp2fxsLugcvfMbnAevB3t970XH_AdKYTpUMKKlzfApWGnQ7mRMb8486d3pzFJVMETrOv89zA3jQngOIZdQ7Fp-wcJWIZQ9nTreHEeGtuOXY0iOcZhcgdIYKSPVFNSeberTR5cJ",
-            "width": 864
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115187445605169574182\">Jamyang London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwJ6AYZXvMFj-mBG-HiVUkRGynBmVjK_shcieEuw9IJpB-E1ZA_-KvQnGG7f7dq9AovQr5jjm_540ekKJhNHeY13ay4efTkCFTrdoDzJe8gB0PjeLbUve7z_taqytw0xb3cIumBTxn-R2a4NzCvOkiQ2wbVpNF-FqXuSSeefIBS33fR6",
-            "width": 720
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109136306073548456521\">Sabrina Chang</a>"
-            ],
-            "photo_reference": "ATtYBwIAAIxdkatTHyG3TYVkjaDPJqutmVxSCsnQoyb1sUDsvp1auO7E8BxLR4hLsl-sCn6_n8w2jdAiqHl9zEZr32abWWTBianxjjSWVbHrzysyDJcWEueNVDcS896pKgEwLJYwfr9rPkmA-KFKtL_bWOpBJc3lAg4k25kUowhcKtrTFV04",
-            "width": 4032
-          },
-          {
-            "height": 700,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115187445605169574182\">Jamyang London Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwJpuYsFVPzkqaH22NLT87aQBsFxPg-kbQI5pH3C5cmwLB8Zxs4tjd-r-gXQkbGwpGEQ2NwzJ0Be-mhMZ33GW1Ni05WalCtvgU0ve_rxaFV18dzhtLHfwiN2JJOpvnJTieznCuz6TVum4kti6eBEjD0Mm6-I7MDJrKLtG_23_tdHtMno",
-            "width": 1240
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100555502204576989804\">Jerry Clooney</a>"
-            ],
-            "photo_reference": "ATtYBwKfHrKS8ek5HkfBWfiZ7kW2Ab5Dr8Znq7bGWfE8Kl6uDaJchOCiEsVNjjan3ZI-djVSLjDM47BXWYVoL7hJtvA09yJMxaTKZLzXnOqtTq6mQS5uyIl8w98spk0kVFZn2VnW202KVbZxw1_sBW6xeQUkxDGx0A0VGq0YyxEP3OZmLfE-",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJMVMh1ZkEdkgR1w0PPUbTdxM",
-        "url": "https://maps.google.com/?cid=1402822107574767063",
-        "website": "http://www.jamyang.co.uk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Jamyang London Buddhist Centre",
+      "location": {
+        "lat": 51.4917623,
+        "lng": -0.1053691
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "The Old Courthouse, 43 Renfrew Rd, Prince's, London SE11 4NA, UK",
+      "phone": "+44 20 7820 8787",
+      "website": "http://www.jamyang.co.uk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLIbvcXs6bfRdiefJ2Wc3LyWgbNPgJvvAaSts-f0-pUXQY_75NA1a-GAYYZ6SlnRmPpPhDeXwbuIHdoeQoJptISn5Ku4bVqzvOU5vKBkN2_s970XIfsnFPuJENjkfSkhdAQ7wFp3dMrYzY4_KV8khXf0g0pbfYS-ADyljj15SwU0FES",
+        "ATtYBwKt8DX_jFrzpyznPCYWp1fCEkvQuwqmLQqllyRGFcEzLko7E_VYxDdG7m8BWDXXI3yG3xQUnrmLFDC_s1PSibpalxX-L3swf9IWleyNULZ1VmVK5RYT3GDu8lf54U65A6sqe7CN4cc-mE0-xdHV1oZE-FoOEdz7sxv_O5zBJ6N08h-T",
+        "ATtYBwLt7lyjDJMdD-iXvKhesvi-AI-kavmlVHqmAj8vy87NyWk4v8h-9OwQwqSE-JT_mWLAhWyHzzQamPtPtRnuXKDWt4-zKDdIJDo7XYDCYC2r6oxCLBBL7BoghNdSOLeP-6AdoMNqDJ40ynB8Bd-qHjMy-rXzmJFmU8exwyhDQHfnI0_R",
+        "ATtYBwIUMKmq91WYzgysIfFW7ZOLKVNz03mLDmNoGBA9oxBlyAdQ80BAEonGr5Hz_tTInq8f3PS5LQTf8vwrYGPmapwIxs2K8ZGwf5YNzR19zK1gjckbVb1h0c6Mk-KZXDO5oZRcNjiOgRvWe3y-zV6Xp6hQHnhiIcbWSJDlUBOBTlAjDHAz",
+        "ATtYBwJyKQUsu2_y7E9W6wZPh6D7Kt2ayWGYwjAeGKKz-rYcbRAv6rESFvH_V0abrHjTnsWK0aLlsUBqka0hSx0ddHkwC57U1GpPJzlZCP-rD_0xMkYEinh72M9MuS9Tv9Hqg577ZraIZI3llvcruWni1hcupEPj479FhVvJ4p8xE0wdlWZR",
+        "ATtYBwJDxV5K71Aqu1QWQEF5EqxQ4T3Zs5aYhiIf0HV1_oDp2fxsLugcvfMbnAevB3t970XH_AdKYTpUMKKlzfApWGnQ7mRMb8486d3pzFJVMETrOv89zA3jQngOIZdQ7Fp-wcJWIZQ9nTreHEeGtuOXY0iOcZhcgdIYKSPVFNSeberTR5cJ",
+        "ATtYBwJ6AYZXvMFj-mBG-HiVUkRGynBmVjK_shcieEuw9IJpB-E1ZA_-KvQnGG7f7dq9AovQr5jjm_540ekKJhNHeY13ay4efTkCFTrdoDzJe8gB0PjeLbUve7z_taqytw0xb3cIumBTxn-R2a4NzCvOkiQ2wbVpNF-FqXuSSeefIBS33fR6",
+        "ATtYBwIAAIxdkatTHyG3TYVkjaDPJqutmVxSCsnQoyb1sUDsvp1auO7E8BxLR4hLsl-sCn6_n8w2jdAiqHl9zEZr32abWWTBianxjjSWVbHrzysyDJcWEueNVDcS896pKgEwLJYwfr9rPkmA-KFKtL_bWOpBJc3lAg4k25kUowhcKtrTFV04",
+        "ATtYBwJpuYsFVPzkqaH22NLT87aQBsFxPg-kbQI5pH3C5cmwLB8Zxs4tjd-r-gXQkbGwpGEQ2NwzJ0Be-mhMZ33GW1Ni05WalCtvgU0ve_rxaFV18dzhtLHfwiN2JJOpvnJTieznCuz6TVum4kti6eBEjD0Mm6-I7MDJrKLtG_23_tdHtMno",
+        "ATtYBwKfHrKS8ek5HkfBWfiZ7kW2Ab5Dr8Znq7bGWfE8Kl6uDaJchOCiEsVNjjan3ZI-djVSLjDM47BXWYVoL7hJtvA09yJMxaTKZLzXnOqtTq6mQS5uyIl8w98spk0kVFZn2VnW202KVbZxw1_sBW6xeQUkxDGx0A0VGq0YyxEP3OZmLfE-"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJMVMh1ZkEdkgR1w0PPUbTdxM",
+      "google_maps_url": "https://maps.google.com/?cid=1402822107574767063",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8 High St, Aldershot GU11 1TW, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.2486316,
-            "lng": -0.7562755999999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.2498935302915,
-              "lng": -0.7550838197084979
-            },
-            "southwest": {
-              "lat": 51.2471955697085,
-              "lng": -0.757781780291502
-            }
-          }
-        },
-        "international_phone_number": "+44 1252 338765",
-        "name": "The Buddhist Community Centre",
-        "photos": [
-          {
-            "height": 901,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105693159173443652582\">The Buddhist Community Centre</a>"
-            ],
-            "photo_reference": "ATtYBwKct2Nn9G3I1-FztdCrRkT3t3_hpds3IPAWac1W3vlWgtyZRkeTnUU2y0-dNOyZk36Qf8Ji7W9nBA_kfZs-luEBZxsu5C8CkGHTJ7ukCjcygMv_B7NpXaNHlyUnFRVPAPoOcSc0JO245EPoBJsptgtC1kQcDCzl-KVcsk4Ojv_7c7Je",
-            "width": 1600
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105693159173443652582\">The Buddhist Community Centre</a>"
-            ],
-            "photo_reference": "ATtYBwK4njzwJKyp_SCG3Zfcr1LoLrapdIBEBevZplADfLjmGozB6vaQ3zhQYbZWfsnjFO5AeNlvUeNRhmgXk4_yqL8WZD4ObUlvBH3vriRpOZDqdaCDIcvGBWwEMHbV8ILVb1ZWhif82X6rRQa_I-ntVdXBNdlo1_acIImORV0cHY5zpzga",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105693159173443652582\">The Buddhist Community Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLkcEfOo8iwPzQsJp_IoFybhmU3UEPIG8obTzlwZjBhhvBTi8AxqLMHS1bmuxeqdAisiiTdb3z_xRQ9W3Vbnm9E0jnaBvUVnJmPKP4dq2IYBAR8NcVWlTHTy-sYw622mUdtNb4TZ7pEjkULrR9mAjK1kGDViRiL4LxgMWOB9NTJDPEQ",
-            "width": 4032
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109249217171177600919\">Hum Gurung</a>"
-            ],
-            "photo_reference": "ATtYBwLvg_DPhDRtk9ETzr-mbQyBLI3_5Ec_TpKuDKn0VqhiWZJe1i2HOmCSlw6dZO_mgqSivpbE4FxPw3lB5hAOYAOyWt6HUOguPa8EKscXpevWLV6mkJ4nt_Vwb0A0CW-jfTtumcoXHsiVo907Smn8JAF3Cf7xl2Sh9BgdKt9xHuxf56eC",
-            "width": 3264
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105693159173443652582\">The Buddhist Community Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLolyD3z21s8u0SrZYvyIVI_fx8jJabe3fzORPhlEKuBJA0ox06y2Hq5aLHC2ZW1RAMa79F2bifuw3ioAMKfYUf3JOAsVYxFmENZq_0UuZlvIcB3N5WRFiZYjH4LaW-buUkK8A9BheCFrSk6OyujwUmVl7vBXLqowQ9zM97QUxElBWn",
-            "width": 681
-          },
-          {
-            "height": 1313,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105693159173443652582\">The Buddhist Community Centre</a>"
-            ],
-            "photo_reference": "ATtYBwL-tV4s_escx8gdffOplDwwkHnP7DHQXNv-U31dgiJ-fxKI8cKyVoRM3RerB4NgtlpwnTuX9Te7-yWNtd2Ccc_GpG7hjhb2wPYpvtu1jfXAZ8Xag_Cz5GBvWtBUYVMXQ5p9dkeF0ojVHxOynXxmnzOZeoHOIpDK9Y79R1-QyAMVKPbI",
-            "width": 1080
-          },
-          {
-            "height": 960,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105693159173443652582\">The Buddhist Community Centre</a>"
-            ],
-            "photo_reference": "ATtYBwK6zDtNbiOhL1te-3D6cvPoLTadRTMpJ72dmsD5h_x-HGGhLi19BujPZTz0rCBXx-MNBReyTLubwg-eAH8xj2XO_Ixs1yrOq6xr9BlKEl6LP1RFNdRsOQAsQ4buGsVF9hRxUa7qk3usVh5reVYroRFlk_22TpmucIuYpeoV7zG_QvOu",
-            "width": 640
-          },
-          {
-            "height": 719,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105693159173443652582\">The Buddhist Community Centre</a>"
-            ],
-            "photo_reference": "ATtYBwKvOdWSy0LThw7PPS56BgyZkQFAnxT-xPNI4T9qRTOvFPV_zIawK_RR8XH8ilB7jMN1FZsIBJjKSsX1ubK3BX7gaDtWl4w1R6ZcGPYDZZD5T76gRJjyS_LQBgZ4eLlrPpCtYB92ztWgSAP4_eay05yl19DJNajO-eP3SqmQQWjeoy47",
-            "width": 960
-          },
-          {
-            "height": 768,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109966414863551046337\">Enikö Papp</a>"
-            ],
-            "photo_reference": "ATtYBwLtbeEp3I3GfYtF3HqBgqyuYIrslCNphs_3XZc7VxcNUO45e0CHeeutVGmojZ5GJ9pgyWOWFXruO8W5Xorh9UB8qIFwMlWwVhrQEE9cHp_vk9o26Y0wNT5ULAgul-PV_zb4afSl3ADIIWFIy2ZuddBNVJeBJXjANeGMVqv_vRoQ-lfx",
-            "width": 1024
-          },
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105693159173443652582\">The Buddhist Community Centre</a>"
-            ],
-            "photo_reference": "ATtYBwKPMqiely9gLXCXfR4JKahGEvaoSMKgJxiPTtG-chM2zoRpUqYvBnj0wMAh_PX8d6gM6eHePMJpd5XU-lZAumPyPa85IRCFi-vnR2PDhDH0R_HS0vzQVrWl3oMTdOdSS29YenyunJt_D92a3ENA5dFN6zqMUvdzbkeMSn2I5PEm6qhE",
-            "width": 960
-          }
-        ],
-        "place_id": "ChIJkaf6prwsdEgR5h6VqkIyjuc",
-        "url": "https://maps.google.com/?cid=16685328931365396198",
-        "website": "http://www.bccuk.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "The Buddhist Community Centre",
+      "location": {
+        "lat": 51.2486316,
+        "lng": -0.7562755999999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "8 High St, Aldershot GU11 1TW, UK",
+      "phone": "+44 1252 338765",
+      "website": "http://www.bccuk.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKct2Nn9G3I1-FztdCrRkT3t3_hpds3IPAWac1W3vlWgtyZRkeTnUU2y0-dNOyZk36Qf8Ji7W9nBA_kfZs-luEBZxsu5C8CkGHTJ7ukCjcygMv_B7NpXaNHlyUnFRVPAPoOcSc0JO245EPoBJsptgtC1kQcDCzl-KVcsk4Ojv_7c7Je",
+        "ATtYBwK4njzwJKyp_SCG3Zfcr1LoLrapdIBEBevZplADfLjmGozB6vaQ3zhQYbZWfsnjFO5AeNlvUeNRhmgXk4_yqL8WZD4ObUlvBH3vriRpOZDqdaCDIcvGBWwEMHbV8ILVb1ZWhif82X6rRQa_I-ntVdXBNdlo1_acIImORV0cHY5zpzga",
+        "ATtYBwLkcEfOo8iwPzQsJp_IoFybhmU3UEPIG8obTzlwZjBhhvBTi8AxqLMHS1bmuxeqdAisiiTdb3z_xRQ9W3Vbnm9E0jnaBvUVnJmPKP4dq2IYBAR8NcVWlTHTy-sYw622mUdtNb4TZ7pEjkULrR9mAjK1kGDViRiL4LxgMWOB9NTJDPEQ",
+        "ATtYBwLvg_DPhDRtk9ETzr-mbQyBLI3_5Ec_TpKuDKn0VqhiWZJe1i2HOmCSlw6dZO_mgqSivpbE4FxPw3lB5hAOYAOyWt6HUOguPa8EKscXpevWLV6mkJ4nt_Vwb0A0CW-jfTtumcoXHsiVo907Smn8JAF3Cf7xl2Sh9BgdKt9xHuxf56eC",
+        "ATtYBwLolyD3z21s8u0SrZYvyIVI_fx8jJabe3fzORPhlEKuBJA0ox06y2Hq5aLHC2ZW1RAMa79F2bifuw3ioAMKfYUf3JOAsVYxFmENZq_0UuZlvIcB3N5WRFiZYjH4LaW-buUkK8A9BheCFrSk6OyujwUmVl7vBXLqowQ9zM97QUxElBWn",
+        "ATtYBwL-tV4s_escx8gdffOplDwwkHnP7DHQXNv-U31dgiJ-fxKI8cKyVoRM3RerB4NgtlpwnTuX9Te7-yWNtd2Ccc_GpG7hjhb2wPYpvtu1jfXAZ8Xag_Cz5GBvWtBUYVMXQ5p9dkeF0ojVHxOynXxmnzOZeoHOIpDK9Y79R1-QyAMVKPbI",
+        "ATtYBwK6zDtNbiOhL1te-3D6cvPoLTadRTMpJ72dmsD5h_x-HGGhLi19BujPZTz0rCBXx-MNBReyTLubwg-eAH8xj2XO_Ixs1yrOq6xr9BlKEl6LP1RFNdRsOQAsQ4buGsVF9hRxUa7qk3usVh5reVYroRFlk_22TpmucIuYpeoV7zG_QvOu",
+        "ATtYBwKvOdWSy0LThw7PPS56BgyZkQFAnxT-xPNI4T9qRTOvFPV_zIawK_RR8XH8ilB7jMN1FZsIBJjKSsX1ubK3BX7gaDtWl4w1R6ZcGPYDZZD5T76gRJjyS_LQBgZ4eLlrPpCtYB92ztWgSAP4_eay05yl19DJNajO-eP3SqmQQWjeoy47",
+        "ATtYBwLtbeEp3I3GfYtF3HqBgqyuYIrslCNphs_3XZc7VxcNUO45e0CHeeutVGmojZ5GJ9pgyWOWFXruO8W5Xorh9UB8qIFwMlWwVhrQEE9cHp_vk9o26Y0wNT5ULAgul-PV_zb4afSl3ADIIWFIy2ZuddBNVJeBJXjANeGMVqv_vRoQ-lfx",
+        "ATtYBwKPMqiely9gLXCXfR4JKahGEvaoSMKgJxiPTtG-chM2zoRpUqYvBnj0wMAh_PX8d6gM6eHePMJpd5XU-lZAumPyPa85IRCFi-vnR2PDhDH0R_HS0vzQVrWl3oMTdOdSS29YenyunJt_D92a3ENA5dFN6zqMUvdzbkeMSn2I5PEm6qhE"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJkaf6prwsdEgR5h6VqkIyjuc",
+      "google_maps_url": "https://maps.google.com/?cid=16685328931365396198",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "94 Stradbroke Grove, Ilford IG5 0DL, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.59064550000001,
-            "lng": 0.05812270000000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.59207518029151,
-              "lng": 0.05947993029150203
-            },
-            "southwest": {
-              "lat": 51.58937721970851,
-              "lng": 0.05678196970849797
-            }
-          }
-        },
-        "international_phone_number": "+44 20 8503 9552",
-        "name": "Thuwanna Thingi Mogok Yeiktha",
-        "photos": [
-          {
-            "height": 3648,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112081571429229889006\">Min Hein</a>"
-            ],
-            "photo_reference": "ATtYBwKfVfM3JEca31BlZhYZseIIAqTeVw6AsiotN7Y7HS-cu2IFRr9pBAXZFEphveWBqFC9OExmksWz_fDxKaSMDo20O62nN1ywuD3fJwGM2N2gxtOb1eMUP_p87SnKopuK0LeIBKaUrZnycnZfcNRSBN6c5ljhvyRgmhGqvWLQ2LwIE9ZM",
-            "width": 5472
-          },
-          {
-            "height": 956,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106806405774225820020\">Ven vara2012</a>"
-            ],
-            "photo_reference": "ATtYBwLbO1x-0t8CiHYOAJfxJtBk67Nn81Rg17bTuNlfkIVxRfto5TT8WyejpLu6p8jS1EBGhLJSo3ccKlC5G3GzyRJ2tyVMfMBSAkvvl5rUeMNOjiQoHLMwpt2lHIIZGVVLymW4u2N0pMabVJXosGaZDn2ohQLT-w6RnEloMnSP68TTeo0l",
-            "width": 1280
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116234332506007665634\">Austin Tan</a>"
-            ],
-            "photo_reference": "ATtYBwJIoi8RC43bD0aH4_2D2cmUw1CE07Q6aCQQb7g3OBp49y2Y5Xzqe2ApVZjPpfr6q0piff5seae2PBCX8PpzPQncqo1uil3mbbybMeRCQo13QKRSSus4N08ferGoxe_wJA1nUP32534w8NWAXC53l6IKU6nc-CAC-Z21bAkXvozwwDrh",
-            "width": 3264
-          },
-          {
-            "height": 956,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106806405774225820020\">Ven vara2012</a>"
-            ],
-            "photo_reference": "ATtYBwJzpl9w61TnkdziPHtYqMNePPelt5BOJYaAJKcQff-V8iGGNg94gdE9QipwZ7Twdfe7IFyW4T-Pk7BCqch64vh6zhbUZefmG35SulKExmr_nXJAUIIPqXfTg7hA39bj3yKHTsSXR1WvlAVrn22IumW5YNqOiyIvcHYBxbEPcx34Ws0X",
-            "width": 1280
-          },
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106806405774225820020\">Ven vara2012</a>"
-            ],
-            "photo_reference": "ATtYBwJJrtOzX8vMsiMk8t9asqiCM9dE0JF_urosTVMhQ3ASJBRLyjRumDuS23LsYSQHBiRYjPzZoLjL_SNP-aJl36xI3TS-jEwiZE0VotBxuP_Mh_SxYv9BJVt-7KCP6IB46RRJpRUoJRnfmpEmko7AlfIWoSwdwYY7Rs2LVx33t95Qj0O-",
-            "width": 1280
-          },
-          {
-            "height": 1280,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106806405774225820020\">Ven vara2012</a>"
-            ],
-            "photo_reference": "ATtYBwJ_ZchGWcyrMsN-5NjVXh4QOkgIoD5JIWGfFbK6Sd1ne5qjFgAZn4shy2HJ2LGnWVFXHyES6dBikTHBJ0K4AqGS60NVM_ACrQStBGra-zsHSl11-C-WXA1zvhgOyPgrkmH4OlZ3EoBIFNEQ-lYZ9sTHZCUPtoUg-ioLyQUyqRTtctI_",
-            "width": 956
-          },
-          {
-            "height": 1280,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106806405774225820020\">Ven vara2012</a>"
-            ],
-            "photo_reference": "ATtYBwJSyi1-x4TI-_5Ha2tYgMl01QocpbwrrnnbM5gFbj5emBKFrxbmZR2Y1vPDaEbImsOD1ARQPBxkyHxJJprLhK5q-Q41Gs7RLtJJ_odvK20RE-sEelIYBNAFzMXTQhDVaoOUGumMxxYTuH23r7sKoY5HC2vkHjcwjzxCNsJ4JbPcJ7bY",
-            "width": 720
-          },
-          {
-            "height": 5312,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106806405774225820020\">Ven vara2012</a>"
-            ],
-            "photo_reference": "ATtYBwKWTljCdhAwkWfzC6nMJgtkPuFgaeP8zUFwxyXX6S7mfy4hQ7shQ-sEss9d0oSqkECnf6WtdLVaZaYHOf4KUCpdowY-WO10_LraQFrRw-0SnWeLdJKPpyFSXfFYWDhGEgLXcgzlk-suUBT1YC4UxYIrHLHfQ36Fc0lHZwS8N9C_saVZ",
-            "width": 2988
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106806405774225820020\">Ven vara2012</a>"
-            ],
-            "photo_reference": "ATtYBwIrDTrIZvVYI6a-HQYeWfwYapu7YqEGJfSPBReMuyrtHyBVqzmvcAI91Kc6gW5jvzmHEpTC7pBO0NosqoCd3CxWwTm2nSORAxrz6vMpBlhG1yUbsBDnbvCNUMlcEGgnwLjoatPoFzUHrjIoYsJ-ODUTQC-grJOWzFPA6sf8313jKWP2",
-            "width": 5312
-          },
-          {
-            "height": 5312,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106806405774225820020\">Ven vara2012</a>"
-            ],
-            "photo_reference": "ATtYBwKPO6eHbrL0zAzu-US0dByd1T8okrzqT6RVF0DiI3gk0VYrY7jHu1aoE8SL1ccNoxaXqZ68PHbTj5wjQwLMZ-eaCQp2CL7WbCO7dWaj3bp3Lcz8MJ4jQrCSi_4Q6TzVpub3tKTookr5IJcrYcFpUI8ZXwvQoBigjFFBPusTkhLHxkQo",
-            "width": 2988
-          }
-        ],
-        "place_id": "ChIJ3xvjL9Cm2EcRvz_K0eY1Mq4",
-        "url": "https://maps.google.com/?cid=12552154376913436607",
-        "website": "http://www.mogokdhamma.co.uk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Thuwanna Thingi Mogok Yeiktha",
+      "location": {
+        "lat": 51.59064550000001,
+        "lng": 0.05812270000000001
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "94 Stradbroke Grove, Ilford IG5 0DL, UK",
+      "phone": "+44 20 8503 9552",
+      "website": "http://www.mogokdhamma.co.uk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKfVfM3JEca31BlZhYZseIIAqTeVw6AsiotN7Y7HS-cu2IFRr9pBAXZFEphveWBqFC9OExmksWz_fDxKaSMDo20O62nN1ywuD3fJwGM2N2gxtOb1eMUP_p87SnKopuK0LeIBKaUrZnycnZfcNRSBN6c5ljhvyRgmhGqvWLQ2LwIE9ZM",
+        "ATtYBwLbO1x-0t8CiHYOAJfxJtBk67Nn81Rg17bTuNlfkIVxRfto5TT8WyejpLu6p8jS1EBGhLJSo3ccKlC5G3GzyRJ2tyVMfMBSAkvvl5rUeMNOjiQoHLMwpt2lHIIZGVVLymW4u2N0pMabVJXosGaZDn2ohQLT-w6RnEloMnSP68TTeo0l",
+        "ATtYBwJIoi8RC43bD0aH4_2D2cmUw1CE07Q6aCQQb7g3OBp49y2Y5Xzqe2ApVZjPpfr6q0piff5seae2PBCX8PpzPQncqo1uil3mbbybMeRCQo13QKRSSus4N08ferGoxe_wJA1nUP32534w8NWAXC53l6IKU6nc-CAC-Z21bAkXvozwwDrh",
+        "ATtYBwJzpl9w61TnkdziPHtYqMNePPelt5BOJYaAJKcQff-V8iGGNg94gdE9QipwZ7Twdfe7IFyW4T-Pk7BCqch64vh6zhbUZefmG35SulKExmr_nXJAUIIPqXfTg7hA39bj3yKHTsSXR1WvlAVrn22IumW5YNqOiyIvcHYBxbEPcx34Ws0X",
+        "ATtYBwJJrtOzX8vMsiMk8t9asqiCM9dE0JF_urosTVMhQ3ASJBRLyjRumDuS23LsYSQHBiRYjPzZoLjL_SNP-aJl36xI3TS-jEwiZE0VotBxuP_Mh_SxYv9BJVt-7KCP6IB46RRJpRUoJRnfmpEmko7AlfIWoSwdwYY7Rs2LVx33t95Qj0O-",
+        "ATtYBwJ_ZchGWcyrMsN-5NjVXh4QOkgIoD5JIWGfFbK6Sd1ne5qjFgAZn4shy2HJ2LGnWVFXHyES6dBikTHBJ0K4AqGS60NVM_ACrQStBGra-zsHSl11-C-WXA1zvhgOyPgrkmH4OlZ3EoBIFNEQ-lYZ9sTHZCUPtoUg-ioLyQUyqRTtctI_",
+        "ATtYBwJSyi1-x4TI-_5Ha2tYgMl01QocpbwrrnnbM5gFbj5emBKFrxbmZR2Y1vPDaEbImsOD1ARQPBxkyHxJJprLhK5q-Q41Gs7RLtJJ_odvK20RE-sEelIYBNAFzMXTQhDVaoOUGumMxxYTuH23r7sKoY5HC2vkHjcwjzxCNsJ4JbPcJ7bY",
+        "ATtYBwKWTljCdhAwkWfzC6nMJgtkPuFgaeP8zUFwxyXX6S7mfy4hQ7shQ-sEss9d0oSqkECnf6WtdLVaZaYHOf4KUCpdowY-WO10_LraQFrRw-0SnWeLdJKPpyFSXfFYWDhGEgLXcgzlk-suUBT1YC4UxYIrHLHfQ36Fc0lHZwS8N9C_saVZ",
+        "ATtYBwIrDTrIZvVYI6a-HQYeWfwYapu7YqEGJfSPBReMuyrtHyBVqzmvcAI91Kc6gW5jvzmHEpTC7pBO0NosqoCd3CxWwTm2nSORAxrz6vMpBlhG1yUbsBDnbvCNUMlcEGgnwLjoatPoFzUHrjIoYsJ-ODUTQC-grJOWzFPA6sf8313jKWP2",
+        "ATtYBwKPO6eHbrL0zAzu-US0dByd1T8okrzqT6RVF0DiI3gk0VYrY7jHu1aoE8SL1ccNoxaXqZ68PHbTj5wjQwLMZ-eaCQp2CL7WbCO7dWaj3bp3Lcz8MJ4jQrCSi_4Q6TzVpub3tKTookr5IJcrYcFpUI8ZXwvQoBigjFFBPusTkhLHxkQo"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ3xvjL9Cm2EcRvz_K0eY1Mq4",
+      "google_maps_url": "https://maps.google.com/?cid=12552154376913436607",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "39 Black Prince Rd, Vauxhall, London SE11 6JJ, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.4905133,
-            "lng": -0.1161727
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.4919057802915,
-              "lng": -0.114779619708498
-            },
-            "southwest": {
-              "lat": 51.4892078197085,
-              "lng": -0.117477580291502
-            }
-          }
-        },
-        "international_phone_number": "+44 20 7587 1718",
-        "name": "London Diamond Way Buddhist Centre",
-        "photos": [
-          {
-            "height": 581,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113877877266185396145\">London Diamond Way Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwI_5Ujx8a9nqhr_miBtXF13sTy1MepVi88K4AbiH_nkymHfshbVblwbcciE2SJtcRc2Y-Y0YT3i4Aw0McvqQvOWbyUbfXJouLlTGxmbQHz1qxDnuuRq31ONRWTz5fgWm5gdRNhW5K99WGlkXjsNtwpBM9fdMKabZ-pF_69LnfF2c0Zc",
-            "width": 1000
-          },
-          {
-            "height": 479,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113877877266185396145\">London Diamond Way Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwKizTc-Ct-hB_UvkQn47gxTviw0sW_VaD8Cq8DufgydZESfaxFL6FKVnekjEaUfHYxBJKRARp6BfSDz_uohlpn8zFEQDTf9cpEVeBOKL_3SCc1rvfM2SBx8vf4iqcEbvoUCFFHr0_n2bm8YKysRWiLITbkYAiDTwRSsXyHa-daaWsRR",
-            "width": 640
-          },
-          {
-            "height": 1000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113877877266185396145\">London Diamond Way Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwI9KFjfRsWtcHkNQtmoFi8tUTZ3xVXsbtvOBOKqUATsSXIoF7ckcQU-hh6YZ9pr1xDxwEG6Sfmh9KA0DoLSqmze6-JnpxnLF_D8cXqHxs-B3sG-W97BMdA_o_3U_uYa8sUoVK5if7bPfLZA7obgjZzakPrZTg1pPXMBJ594EY9U8ngg",
-            "width": 665
-          },
-          {
-            "height": 758,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113877877266185396145\">London Diamond Way Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLW9qHKxcJU7J7vlTRMHzmO_d-LYL1xueULXq4CR7jq-E82NKEhcZwzPhenVB2qQ9ZsE_IKkPdc62nngPEfhxrtuVP83ol0Rg1qPRnN9VdvsPOeYsl83Q3EEqAKo3VfbTLNCkA8FRi0AjGc4V2P3ygTbAWTKO9M-GDo8d0mepsdm5ad",
-            "width": 1280
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110175263085663438221\">Infoexpert X</a>"
-            ],
-            "photo_reference": "ATtYBwLkDGZLf9XwpdyO1R3D-fDnUAXqd0UgNF40zlXyDmWWF3DbTHPzjE8QKXMI0SKfQ3PjX1JLhL6ImAwqq-ny270F_v5eVbbgbYilyr5EtCULl8Mw9UpdMzJ3jBDhKoaj-eLbgYUnuVkN10EFPGncC_ipn7BnH5ZDt-x9Y-AD6UY8OjSm",
-            "width": 3264
-          },
-          {
-            "height": 852,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113877877266185396145\">London Diamond Way Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLb3hR0WjzGQmHDoDYB_ThPHyVly1hHJvBaLOmtr5pnj4oxKjw8z3HrNMDEFR_g4hI-DrsYeJ4GEj7Y7blIxgvWcBjoZjCTST8gYqq6E81LBbokqcXJgDe-maLWnHbF1BfUuh1jNyKHTs05jFaB5DeFYxXVMdFfahKhS-g-ecYqJjBh",
-            "width": 1280
-          },
-          {
-            "height": 1000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113877877266185396145\">London Diamond Way Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLKURGN0_OHFKIfDiqwVAx0KGEwzfFM8L3rVfK6JKq1IxXrYHynOZy6MA2MCWqyc4xM6tNuYJgB2RwzMXIwPrT-RvYbJbtXBPsO28Yo0kKNPQKStRAUFS338GEp-iv7B6-4HDPpqoAZIAo9aa9yxgqukgjjsmhLLwA7bfuTW208sntJ",
-            "width": 667
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110175263085663438221\">Infoexpert X</a>"
-            ],
-            "photo_reference": "ATtYBwKepSjX2_F-n5VoxEI4Z9sF45VGtb8Rk2VAn87Co1od8hHAkY5dlNECJK8jUeV57Z9fcztbiMjBo4Loy7rhnnNSges5FQ_SjQ2xBpOJJO-Ww-fddv2FiQ07PO-6kQ4FexhZLFltXc2MX7FdrUfKHUN4PuuebrzjW_MMDUS7hv-iDRm6",
-            "width": 3264
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117929187337576685832\">Bart Mazur</a>"
-            ],
-            "photo_reference": "ATtYBwJy8en4hcBF5u3lfvLlzuZenm5RgQ73aXb3MDmmAUDfRZ4AETv5nm6jsRWz2tyD-2jprf53oko8e6D8LofhEhWlsenJx-0tSCRlxmSXaORDO1OiXhyigU-5_KBD_DJN9m_2zW95f8y9nWjfgHp7JDfW-ExjwaG0et3ijT5kfnHH5b4Z",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJ74pxw5QEdkgRuiW0imIoSwo",
-        "url": "https://maps.google.com/?cid=741730967331546554",
-        "website": "https://www.buddhism-london.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "London Diamond Way Buddhist Centre",
+      "location": {
+        "lat": 51.4905133,
+        "lng": -0.1161727
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "39 Black Prince Rd, Vauxhall, London SE11 6JJ, UK",
+      "phone": "+44 20 7587 1718",
+      "website": "https://www.buddhism-london.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwI_5Ujx8a9nqhr_miBtXF13sTy1MepVi88K4AbiH_nkymHfshbVblwbcciE2SJtcRc2Y-Y0YT3i4Aw0McvqQvOWbyUbfXJouLlTGxmbQHz1qxDnuuRq31ONRWTz5fgWm5gdRNhW5K99WGlkXjsNtwpBM9fdMKabZ-pF_69LnfF2c0Zc",
+        "ATtYBwKizTc-Ct-hB_UvkQn47gxTviw0sW_VaD8Cq8DufgydZESfaxFL6FKVnekjEaUfHYxBJKRARp6BfSDz_uohlpn8zFEQDTf9cpEVeBOKL_3SCc1rvfM2SBx8vf4iqcEbvoUCFFHr0_n2bm8YKysRWiLITbkYAiDTwRSsXyHa-daaWsRR",
+        "ATtYBwI9KFjfRsWtcHkNQtmoFi8tUTZ3xVXsbtvOBOKqUATsSXIoF7ckcQU-hh6YZ9pr1xDxwEG6Sfmh9KA0DoLSqmze6-JnpxnLF_D8cXqHxs-B3sG-W97BMdA_o_3U_uYa8sUoVK5if7bPfLZA7obgjZzakPrZTg1pPXMBJ594EY9U8ngg",
+        "ATtYBwLW9qHKxcJU7J7vlTRMHzmO_d-LYL1xueULXq4CR7jq-E82NKEhcZwzPhenVB2qQ9ZsE_IKkPdc62nngPEfhxrtuVP83ol0Rg1qPRnN9VdvsPOeYsl83Q3EEqAKo3VfbTLNCkA8FRi0AjGc4V2P3ygTbAWTKO9M-GDo8d0mepsdm5ad",
+        "ATtYBwLkDGZLf9XwpdyO1R3D-fDnUAXqd0UgNF40zlXyDmWWF3DbTHPzjE8QKXMI0SKfQ3PjX1JLhL6ImAwqq-ny270F_v5eVbbgbYilyr5EtCULl8Mw9UpdMzJ3jBDhKoaj-eLbgYUnuVkN10EFPGncC_ipn7BnH5ZDt-x9Y-AD6UY8OjSm",
+        "ATtYBwLb3hR0WjzGQmHDoDYB_ThPHyVly1hHJvBaLOmtr5pnj4oxKjw8z3HrNMDEFR_g4hI-DrsYeJ4GEj7Y7blIxgvWcBjoZjCTST8gYqq6E81LBbokqcXJgDe-maLWnHbF1BfUuh1jNyKHTs05jFaB5DeFYxXVMdFfahKhS-g-ecYqJjBh",
+        "ATtYBwLKURGN0_OHFKIfDiqwVAx0KGEwzfFM8L3rVfK6JKq1IxXrYHynOZy6MA2MCWqyc4xM6tNuYJgB2RwzMXIwPrT-RvYbJbtXBPsO28Yo0kKNPQKStRAUFS338GEp-iv7B6-4HDPpqoAZIAo9aa9yxgqukgjjsmhLLwA7bfuTW208sntJ",
+        "ATtYBwKepSjX2_F-n5VoxEI4Z9sF45VGtb8Rk2VAn87Co1od8hHAkY5dlNECJK8jUeV57Z9fcztbiMjBo4Loy7rhnnNSges5FQ_SjQ2xBpOJJO-Ww-fddv2FiQ07PO-6kQ4FexhZLFltXc2MX7FdrUfKHUN4PuuebrzjW_MMDUS7hv-iDRm6",
+        "ATtYBwJy8en4hcBF5u3lfvLlzuZenm5RgQ73aXb3MDmmAUDfRZ4AETv5nm6jsRWz2tyD-2jprf53oko8e6D8LofhEhWlsenJx-0tSCRlxmSXaORDO1OiXhyigU-5_KBD_DJN9m_2zW95f8y9nWjfgHp7JDfW-ExjwaG0et3ijT5kfnHH5b4Z"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ74pxw5QEdkgRuiW0imIoSwo",
+      "google_maps_url": "https://maps.google.com/?cid=741730967331546554",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "33 Maybury Rd, London E13 8RZ, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.5202633,
-            "lng": 0.0342223
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.5215555802915,
-              "lng": 0.03556708029150202
-            },
-            "southwest": {
-              "lat": 51.5188576197085,
-              "lng": 0.03286911970849796
-            }
-          }
-        },
-        "international_phone_number": "+44 20 7476 0681",
-        "name": "East London Buddhist Cultural Centre",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105002793717887033226\">Chanel B</a>"
-            ],
-            "photo_reference": "ATtYBwJESqLEJBA8JpzVQIo7iQ72_IanVVzcdXG2z-EtEqXKwfw0ELB7P1mqU45XGyVsJoWPyuVzXAfj53-YBlJz6YBW7yvSEr86qLvu5Ug_84HvH-4nlTMnzFxtqwX1clwvCOmLWSWT0Doak17oC2X0AnWLO5d9fNp1RBJYCSPueZoC42QE",
-            "width": 4032
-          },
-          {
-            "height": 2322,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109405933606178896865\">SUSHIL MORE</a>"
-            ],
-            "photo_reference": "ATtYBwLI5tuTctLCYeiDX4mYbNEWZznOTKs3EZz0b3l5x7tDyG6lNllZi6LjEPoHZzGz-TYnkrEYyqCv30ySSo-srTEiyq_GtHbOtxn5BCY6juahvnNC3g7y03D0FGGdDFEVf1YNPgOR2NfNlkJodiX6suR5nmvdMBqWJC296XqFPhsmwwWI",
-            "width": 4128
-          },
-          {
-            "height": 2322,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109405933606178896865\">SUSHIL MORE</a>"
-            ],
-            "photo_reference": "ATtYBwL2VjmwdpzESa46HjTgyoJSTmliRgw3WFBm5yvBA-pzc7abLlyTrMIsjnFOhdq6GuyFJOU3oEsgvHlafyMfNJWVTyUqib_DCZy_8SLrU8Ij3qIo3QV7dzzaxgeNrvvDgjbtnzQ6kWoMLATO1-ownYykuPTV69jVIkabuv53DUuweYiK",
-            "width": 4128
-          },
-          {
-            "height": 4128,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109405933606178896865\">SUSHIL MORE</a>"
-            ],
-            "photo_reference": "ATtYBwItG1b1zd4eOO4nYYBGucHz4rttDh1C_xqypSg_OdQq6QPIL3ufqT_1gTKwklGe9BCfFH9IVRoUs-bV9J9ANvwP8_jrDkhwzG38MGsfj-2RdoUijlRBUtURDDi6pHxPOgOJa1y8FsCeSKpBwtK79AQnZ8PirW4CN8hmkBXQE1NGtWWN",
-            "width": 2322
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102233647058252150031\">Debashis Mutsuddy</a>"
-            ],
-            "photo_reference": "ATtYBwJ8_UORjZXtuyTAnWbw5Dyc-p7rYFdPFt1POYC4oEeC-P9T2D0w8skrSEDwdRcouRlKkdJKi4F2TPlFX7QOhULlUme4_-DDRWWUc-0VkKNLrBEFzLHH_hFA7DVF7FkUvEd3ovP3fkoHaeMv1hKE50wDx2JcHHw6W6o0UISps-UTzPhT",
-            "width": 3024
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109405378574237580609\">Sanjay Barua</a>"
-            ],
-            "photo_reference": "ATtYBwLMG5LLmlAww7bL-DHZN5ewKO_OrcR1ExA0FRs-2avPx6GCFPcAR36-un4yYNd1d6UQpGPuNdJ8zRS_-SqXODItJ8mI-NkwZ35fplfdWopz-3yEuNlYeSoyIfAad45XQClPrblVQ9E6H3yN16H8SXZF85Ku8PV1-kD6QuxzzpOhAZrj",
-            "width": 4032
-          },
-          {
-            "height": 1365,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102233647058252150031\">Debashis Mutsuddy</a>"
-            ],
-            "photo_reference": "ATtYBwLc68j-eYbwFTFrJWZbwA1UpdfcBVbfJWF8ljY7JaoKRA2Azmqiu9sTK5mDx3F0a6rsnC8_3FTD1jiWzEyBYpilek3ywAmTbW9BZBbNGXaBwf2AhWd-ucujC12yAMS0hR8PEghpLB1tSmQjYOaTqY31OBOuxBrMuXDrls6-pEG6qX1T",
-            "width": 2048
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101210028109711644799\">Avijit BARUA</a>"
-            ],
-            "photo_reference": "ATtYBwJ6RHI6AKJKodSIXWDzvPMADRPCJ-PJUkwjDGH10-OsX-dr6GRy3Bh1Z-Egnv-24ivDaKqxwgdRfdLBvqSwnBOfCRAtGdtE_0Rlf8V-OOkCLiwRH9KTu0DWprru1NE6OLcYcnWSNvqHosyva3V12TKw9MZvSG8R4oVrnRmO-ruthLqv",
-            "width": 4032
-          },
-          {
-            "height": 4128,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109405933606178896865\">SUSHIL MORE</a>"
-            ],
-            "photo_reference": "ATtYBwKwdPJgnaJnSBIA6cWOasz2onQQ6Hjo-gp8MiKBiY2kyskQg6Fmm1MnByxPCGFhctTW4IfOGpb2ffgL-pjHuGR2Zzx3Ft1jdUxexC-Bdf6IytWeVnPBSXUSIyF4jqWZv4tMOrvxSNBuA74xb2jnqDE7ljhidWGePLUA6S_T8XMkCg1n",
-            "width": 2322
-          }
-        ],
-        "place_id": "ChIJ9-mJHdqn2EcRnhvsYmJgyQQ",
-        "url": "https://maps.google.com/?cid=344912822153255838",
-        "website": "http://www.elbcc.org.uk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "East London Buddhist Cultural Centre",
+      "location": {
+        "lat": 51.5202633,
+        "lng": 0.0342223
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "33 Maybury Rd, London E13 8RZ, UK",
+      "phone": "+44 20 7476 0681",
+      "website": "http://www.elbcc.org.uk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJESqLEJBA8JpzVQIo7iQ72_IanVVzcdXG2z-EtEqXKwfw0ELB7P1mqU45XGyVsJoWPyuVzXAfj53-YBlJz6YBW7yvSEr86qLvu5Ug_84HvH-4nlTMnzFxtqwX1clwvCOmLWSWT0Doak17oC2X0AnWLO5d9fNp1RBJYCSPueZoC42QE",
+        "ATtYBwLI5tuTctLCYeiDX4mYbNEWZznOTKs3EZz0b3l5x7tDyG6lNllZi6LjEPoHZzGz-TYnkrEYyqCv30ySSo-srTEiyq_GtHbOtxn5BCY6juahvnNC3g7y03D0FGGdDFEVf1YNPgOR2NfNlkJodiX6suR5nmvdMBqWJC296XqFPhsmwwWI",
+        "ATtYBwL2VjmwdpzESa46HjTgyoJSTmliRgw3WFBm5yvBA-pzc7abLlyTrMIsjnFOhdq6GuyFJOU3oEsgvHlafyMfNJWVTyUqib_DCZy_8SLrU8Ij3qIo3QV7dzzaxgeNrvvDgjbtnzQ6kWoMLATO1-ownYykuPTV69jVIkabuv53DUuweYiK",
+        "ATtYBwItG1b1zd4eOO4nYYBGucHz4rttDh1C_xqypSg_OdQq6QPIL3ufqT_1gTKwklGe9BCfFH9IVRoUs-bV9J9ANvwP8_jrDkhwzG38MGsfj-2RdoUijlRBUtURDDi6pHxPOgOJa1y8FsCeSKpBwtK79AQnZ8PirW4CN8hmkBXQE1NGtWWN",
+        "ATtYBwJ8_UORjZXtuyTAnWbw5Dyc-p7rYFdPFt1POYC4oEeC-P9T2D0w8skrSEDwdRcouRlKkdJKi4F2TPlFX7QOhULlUme4_-DDRWWUc-0VkKNLrBEFzLHH_hFA7DVF7FkUvEd3ovP3fkoHaeMv1hKE50wDx2JcHHw6W6o0UISps-UTzPhT",
+        "ATtYBwLMG5LLmlAww7bL-DHZN5ewKO_OrcR1ExA0FRs-2avPx6GCFPcAR36-un4yYNd1d6UQpGPuNdJ8zRS_-SqXODItJ8mI-NkwZ35fplfdWopz-3yEuNlYeSoyIfAad45XQClPrblVQ9E6H3yN16H8SXZF85Ku8PV1-kD6QuxzzpOhAZrj",
+        "ATtYBwLc68j-eYbwFTFrJWZbwA1UpdfcBVbfJWF8ljY7JaoKRA2Azmqiu9sTK5mDx3F0a6rsnC8_3FTD1jiWzEyBYpilek3ywAmTbW9BZBbNGXaBwf2AhWd-ucujC12yAMS0hR8PEghpLB1tSmQjYOaTqY31OBOuxBrMuXDrls6-pEG6qX1T",
+        "ATtYBwJ6RHI6AKJKodSIXWDzvPMADRPCJ-PJUkwjDGH10-OsX-dr6GRy3Bh1Z-Egnv-24ivDaKqxwgdRfdLBvqSwnBOfCRAtGdtE_0Rlf8V-OOkCLiwRH9KTu0DWprru1NE6OLcYcnWSNvqHosyva3V12TKw9MZvSG8R4oVrnRmO-ruthLqv",
+        "ATtYBwKwdPJgnaJnSBIA6cWOasz2onQQ6Hjo-gp8MiKBiY2kyskQg6Fmm1MnByxPCGFhctTW4IfOGpb2ffgL-pjHuGR2Zzx3Ft1jdUxexC-Bdf6IytWeVnPBSXUSIyF4jqWZv4tMOrvxSNBuA74xb2jnqDE7ljhidWGePLUA6S_T8XMkCg1n"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9-mJHdqn2EcRnhvsYmJgyQQ",
+      "google_maps_url": "https://maps.google.com/?cid=344912822153255838",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "72 Holloway Rd, Highbury East, London N7 8JG, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.5494423,
-            "lng": -0.1077251
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.55073828029149,
-              "lng": -0.106491169708498
-            },
-            "southwest": {
-              "lat": 51.5480403197085,
-              "lng": -0.109189130291502
-            }
-          }
-        },
-        "international_phone_number": "+44 20 7700 3434",
-        "name": "Indo-Tibetan Buddhist Cultural Institute",
-        "place_id": "ChIJr86A-nAbdkgRrF4tEphVcXE",
-        "url": "https://maps.google.com/?cid=8174408910282514092",
-        "website": "http://www.itbci.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Indo-Tibetan Buddhist Cultural Institute",
+      "location": {
+        "lat": 51.5494423,
+        "lng": -0.1077251
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "72 Holloway Rd, Highbury East, London N7 8JG, UK",
+      "phone": "+44 20 7700 3434",
+      "website": "http://www.itbci.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJr86A-nAbdkgRrF4tEphVcXE",
+      "google_maps_url": "https://maps.google.com/?cid=8174408910282514092",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "58 Eccleston Square, Pimlico, London SW1V 1PH, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.49159419999999,
-            "lng": -0.144002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.49295188029149,
-              "lng": -0.142671569708498
-            },
-            "southwest": {
-              "lat": 51.49025391970849,
-              "lng": -0.145369530291502
-            }
-          }
-        },
-        "international_phone_number": "+44 20 7834 5858",
-        "name": "The Buddhist Society",
-        "photos": [
-          {
-            "height": 1152,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106872326905059183676\">The Buddhist Society</a>"
-            ],
-            "photo_reference": "ATtYBwJqqLzdh5VOujGt0-gpUue2zKnwcHwFP4D_LUJnyfY9EX5sNOaUJA9XBlDngWE4_q7fod2Efl1lpkvaeCe4otk1RNKHVOg1FQb-jL1qmNAvlwh09Dda9nP0bV9i7ErUTXLMAmzWzWm5HizxmlaY0ZdKxG3K7Lj1WQjMjao5QuUo751v",
-            "width": 2048
-          },
-          {
-            "height": 360,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106872326905059183676\">The Buddhist Society</a>"
-            ],
-            "photo_reference": "ATtYBwInXJEfGnU8wr_xhd7q7xhl-JWgpO_DphtJwAuV7_ou1YLYFYIWKKAoBrp3sElbV9eBKHMCMf1V3ZgmgdeF_c-Jd4R6V14TqEhzB4ybPJqNGNlJdTD1OMKFJ9Io5TyEQPctDzI7jx1L2M9--txIVV6G1OwvjQPKZOmlcrpQID1fiFFv",
-            "width": 400
-          },
-          {
-            "height": 1600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113548193396723144924\">Joy Bose</a>"
-            ],
-            "photo_reference": "ATtYBwIX6JlFoQuiUIuuS5J09UP6qOAXcgot_hsCmCUNVGi9qu1s827TOsM2SYrHbNS19Jv7dXbhxVgJ2DxnLS6MR7r2dyxY8ViTA3Z1gY_WO5y3jhtczMvQDXXtXiY74RFIMp63FZF2l9wJ5cpbx_S9k9BAX53qQa-MZFfnWdEv4mU8GKxJ",
-            "width": 1200
-          },
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113548193396723144924\">Joy Bose</a>"
-            ],
-            "photo_reference": "ATtYBwK7Upj64lPbyPvoTp2iHrym__49lk-wJoNNZAKrYbpF8cL3J-ENKtjSl1K-afLd9F9XMDmzkjEyyN3gCyzQBAkiLvGk2UFhbwSm-jY0Oa9Tyj8VPHJXKs7SImGQMVGzwTe6LiTV1Gwj7t9hVTpeO8bp9TrANE8mXa0xkXj0HhrkpOoZ",
-            "width": 1600
-          }
-        ],
-        "place_id": "ChIJg4DXAB8FdkgRntYPiUzuSy0",
-        "url": "https://maps.google.com/?cid=3263964367444498078",
-        "website": "http://www.thebuddhistsociety.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "The Buddhist Society",
+      "location": {
+        "lat": 51.49159419999999,
+        "lng": -0.144002
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "58 Eccleston Square, Pimlico, London SW1V 1PH, UK",
+      "phone": "+44 20 7834 5858",
+      "website": "http://www.thebuddhistsociety.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJqqLzdh5VOujGt0-gpUue2zKnwcHwFP4D_LUJnyfY9EX5sNOaUJA9XBlDngWE4_q7fod2Efl1lpkvaeCe4otk1RNKHVOg1FQb-jL1qmNAvlwh09Dda9nP0bV9i7ErUTXLMAmzWzWm5HizxmlaY0ZdKxG3K7Lj1WQjMjao5QuUo751v",
+        "ATtYBwInXJEfGnU8wr_xhd7q7xhl-JWgpO_DphtJwAuV7_ou1YLYFYIWKKAoBrp3sElbV9eBKHMCMf1V3ZgmgdeF_c-Jd4R6V14TqEhzB4ybPJqNGNlJdTD1OMKFJ9Io5TyEQPctDzI7jx1L2M9--txIVV6G1OwvjQPKZOmlcrpQID1fiFFv",
+        "ATtYBwIX6JlFoQuiUIuuS5J09UP6qOAXcgot_hsCmCUNVGi9qu1s827TOsM2SYrHbNS19Jv7dXbhxVgJ2DxnLS6MR7r2dyxY8ViTA3Z1gY_WO5y3jhtczMvQDXXtXiY74RFIMp63FZF2l9wJ5cpbx_S9k9BAX53qQa-MZFfnWdEv4mU8GKxJ",
+        "ATtYBwK7Upj64lPbyPvoTp2iHrym__49lk-wJoNNZAKrYbpF8cL3J-ENKtjSl1K-afLd9F9XMDmzkjEyyN3gCyzQBAkiLvGk2UFhbwSm-jY0Oa9Tyj8VPHJXKs7SImGQMVGzwTe6LiTV1Gwj7t9hVTpeO8bp9TrANE8mXa0xkXj0HhrkpOoZ"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJg4DXAB8FdkgRntYPiUzuSy0",
+      "google_maps_url": "https://maps.google.com/?cid=3263964367444498078",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "106 Chepstow Rd, London W2 5QS, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.5188654,
-            "lng": -0.196124
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.52020713029149,
-              "lng": -0.194832769708498
-            },
-            "southwest": {
-              "lat": 51.5175091697085,
-              "lng": -0.197530730291502
-            }
-          }
-        },
-        "international_phone_number": "+44 20 7229 9559",
-        "name": "Dechen London: Sakya Buddhist Centre",
-        "photos": [
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114517596092327125280\">Dechen London: Sakya Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwKaUIDcdZ3ZqzYkgXRjsgTDgLCionPWemylY96JH3vDmj0VDT-TwqSWOmFkqSjYwaI0YJ6jkzmEdy3-dy6w2ETKjEu0Z2igP1zZ0NrLzMK8v7SOBC5eXMwtC2xHlssMN-tJd1msMMgsklhGy7acvPW_m-n2d0jj7iJmptG0yAwairdv",
-            "width": 2048
-          },
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114517596092327125280\">Dechen London: Sakya Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwK_BH_UL-qKf5TISFuvXHVdXA-4gMuSS6qwOL5eQ6pFDkhBiECW-3rVu4oPlR7yZ-vOxeugpctxc0nq8DwmbfBj8TIA-iv8Gw-0OEfWcBcSUnfBK0lmAmxBFLlA4UGOwCoS2i4ss0FPW7Cq5wbEMYOhAD01Sf8ePQLlGJjZ9Ua7uxve",
-            "width": 1600
-          },
-          {
-            "height": 414,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114517596092327125280\">Dechen London: Sakya Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLGdcYe7dAVXe8YmRWE1Vx2_wBotd-qQKzBKploDFHTnIA50slhEGV7_zqCmska_fHeSDiFmjImtFPbs8aEbcYi_EBfodn-70JqAYZum2_Aq_-fwrIzx40LZ_ANQuBWN9WBsalelPBPii9kJJaa2Q5VAStd1qQowUEpw6mxhk-O5UB9",
-            "width": 408
-          },
-          {
-            "height": 2775,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114517596092327125280\">Dechen London: Sakya Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwIr_Gzgmnz5BZMa9lKiqXvd2Rh1qOGeyAsUwyNGUMq0VIn-CF7Dhk1fGWa0dEvjs5Ok-aBJxPtZT7kJJIrnafwCnB81B1Sd6ZxRT1ZoatJIISqi95hwJ8ybhGu08j6mg6dVyNVd7Vc3OACTcBvl2If0mcwQH7hM2wlUbYVTbEqJ5KLQ",
-            "width": 4024
-          },
-          {
-            "height": 2773,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114517596092327125280\">Dechen London: Sakya Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwIampGJziKls_DX35ONXYaDvWuyIusq_Ipqx-hms5S9QaRXDttN7GtXyRh6aZTb88h8pgLvDKmlf84XMeLsfK5U_PtoaOEZwlG1R39lc5JGVKIQ8MIX8_ycvQzs_Hs-1__JEQ1H3YF7IL29PJCaR3DHiXCl1zDEObgr8t6dv7_epgZS",
-            "width": 3728
-          },
-          {
-            "height": 427,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114517596092327125280\">Dechen London: Sakya Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwI8pwBKl6uXd9LkhOUexORZc88w4j_0j_wdINgi50EspU_oZoCnAqgldUAePjexmjuf6Sqrnzi5Db135G4xZ4b-hlEFRSn8xxnH6i8HmCQajVoTw1avcsQMVmJlBFFlWsYLm4CwIy9rTqqsX_---RoPArbk31B_mKNIG7aMLxtcKsfK",
-            "width": 640
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105107008958857584001\">Sam Chua</a>"
-            ],
-            "photo_reference": "ATtYBwJtaFdu_K-DGZ5gSQepddZq1zsdPVl5mWGrmxsbGsBYxbkwOvORL0VQmIQVHLU29-PWIC-1k0fPACwoJ3Q-eng-9z-g14GpZSgd0hfWiioZq5JdjCmE8usenSjSI4S7SxDO4T-ZxwLQz10SMs7w0L2pNgJGjnADx83Ng3mqO_OobEx3",
-            "width": 3024
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105107008958857584001\">Sam Chua</a>"
-            ],
-            "photo_reference": "ATtYBwLnmg_--Bx-7SqxB6RNcJIax3bK4Du_UYg6-Yfz8-DM9SwLbsGqbo6vDschbFYxqj7r-8MMA7r6QF3SAIt4rY20b77hgds-H2psV0K5inMZKa42yfGkSpn4dMlOErT22p41Pl_m0LXQQQVz_JnQsXR7dFT5Kt64NztKwuMMtwTjSp_p",
-            "width": 3024
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105107008958857584001\">Sam Chua</a>"
-            ],
-            "photo_reference": "ATtYBwJ6BAGAKeOsX8hv3iwpu1XwbTViO2IFE_hzL1h35x-qOTvAEyJZLsxm18i2IlXdMuxy32KViMlyb2HqhBcZfSek549_e9o_XKjVz3sMi4iofLgOpLWEDDePLVGW9U4X3889kjKi9XpbUcSyn4l8ymXDQos84x0JS7v5zvjKzyNJTpwn",
-            "width": 3024
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105107008958857584001\">Sam Chua</a>"
-            ],
-            "photo_reference": "ATtYBwKKwK87SIErGY8gxXcmJA5eDGx8qFx466zZ2ZNU-GxJ-4heMbUjFHEiXkjsQt_MgvsdEbPjd-YYyQwGhGvgk7u6bfhTq25-kMMC2ew53cwyICk4sZgbgqnEAFpB5_uE6M_DCzkwh15K9MLavWeCAw-v-9M_jDMRD-aXTllYBwdmXR3r",
-            "width": 3024
-          }
-        ],
-        "place_id": "ChIJS_0J7RwQdkgR8D7sXspIN0M",
-        "url": "https://maps.google.com/?cid=4843419958273392368",
-        "website": "http://dechen.london/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dechen London: Sakya Buddhist Centre",
+      "location": {
+        "lat": 51.5188654,
+        "lng": -0.196124
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "106 Chepstow Rd, London W2 5QS, UK",
+      "phone": "+44 20 7229 9559",
+      "website": "http://dechen.london/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKaUIDcdZ3ZqzYkgXRjsgTDgLCionPWemylY96JH3vDmj0VDT-TwqSWOmFkqSjYwaI0YJ6jkzmEdy3-dy6w2ETKjEu0Z2igP1zZ0NrLzMK8v7SOBC5eXMwtC2xHlssMN-tJd1msMMgsklhGy7acvPW_m-n2d0jj7iJmptG0yAwairdv",
+        "ATtYBwK_BH_UL-qKf5TISFuvXHVdXA-4gMuSS6qwOL5eQ6pFDkhBiECW-3rVu4oPlR7yZ-vOxeugpctxc0nq8DwmbfBj8TIA-iv8Gw-0OEfWcBcSUnfBK0lmAmxBFLlA4UGOwCoS2i4ss0FPW7Cq5wbEMYOhAD01Sf8ePQLlGJjZ9Ua7uxve",
+        "ATtYBwLGdcYe7dAVXe8YmRWE1Vx2_wBotd-qQKzBKploDFHTnIA50slhEGV7_zqCmska_fHeSDiFmjImtFPbs8aEbcYi_EBfodn-70JqAYZum2_Aq_-fwrIzx40LZ_ANQuBWN9WBsalelPBPii9kJJaa2Q5VAStd1qQowUEpw6mxhk-O5UB9",
+        "ATtYBwIr_Gzgmnz5BZMa9lKiqXvd2Rh1qOGeyAsUwyNGUMq0VIn-CF7Dhk1fGWa0dEvjs5Ok-aBJxPtZT7kJJIrnafwCnB81B1Sd6ZxRT1ZoatJIISqi95hwJ8ybhGu08j6mg6dVyNVd7Vc3OACTcBvl2If0mcwQH7hM2wlUbYVTbEqJ5KLQ",
+        "ATtYBwIampGJziKls_DX35ONXYaDvWuyIusq_Ipqx-hms5S9QaRXDttN7GtXyRh6aZTb88h8pgLvDKmlf84XMeLsfK5U_PtoaOEZwlG1R39lc5JGVKIQ8MIX8_ycvQzs_Hs-1__JEQ1H3YF7IL29PJCaR3DHiXCl1zDEObgr8t6dv7_epgZS",
+        "ATtYBwI8pwBKl6uXd9LkhOUexORZc88w4j_0j_wdINgi50EspU_oZoCnAqgldUAePjexmjuf6Sqrnzi5Db135G4xZ4b-hlEFRSn8xxnH6i8HmCQajVoTw1avcsQMVmJlBFFlWsYLm4CwIy9rTqqsX_---RoPArbk31B_mKNIG7aMLxtcKsfK",
+        "ATtYBwJtaFdu_K-DGZ5gSQepddZq1zsdPVl5mWGrmxsbGsBYxbkwOvORL0VQmIQVHLU29-PWIC-1k0fPACwoJ3Q-eng-9z-g14GpZSgd0hfWiioZq5JdjCmE8usenSjSI4S7SxDO4T-ZxwLQz10SMs7w0L2pNgJGjnADx83Ng3mqO_OobEx3",
+        "ATtYBwLnmg_--Bx-7SqxB6RNcJIax3bK4Du_UYg6-Yfz8-DM9SwLbsGqbo6vDschbFYxqj7r-8MMA7r6QF3SAIt4rY20b77hgds-H2psV0K5inMZKa42yfGkSpn4dMlOErT22p41Pl_m0LXQQQVz_JnQsXR7dFT5Kt64NztKwuMMtwTjSp_p",
+        "ATtYBwJ6BAGAKeOsX8hv3iwpu1XwbTViO2IFE_hzL1h35x-qOTvAEyJZLsxm18i2IlXdMuxy32KViMlyb2HqhBcZfSek549_e9o_XKjVz3sMi4iofLgOpLWEDDePLVGW9U4X3889kjKi9XpbUcSyn4l8ymXDQos84x0JS7v5zvjKzyNJTpwn",
+        "ATtYBwKKwK87SIErGY8gxXcmJA5eDGx8qFx466zZ2ZNU-GxJ-4heMbUjFHEiXkjsQt_MgvsdEbPjd-YYyQwGhGvgk7u6bfhTq25-kMMC2ew53cwyICk4sZgbgqnEAFpB5_uE6M_DCzkwh15K9MLavWeCAw-v-9M_jDMRD-aXTllYBwdmXR3r"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJS_0J7RwQdkgR8D7sXspIN0M",
+      "google_maps_url": "https://maps.google.com/?cid=4843419958273392368",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "309, 311 Kingsbury Rd, London NW9 9PE, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.58431909999999,
-            "lng": -0.267042
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.58574438029149,
-              "lng": -0.265649369708498
-            },
-            "southwest": {
-              "lat": 51.5830464197085,
-              "lng": -0.268347330291502
-            }
-          }
-        },
-        "international_phone_number": "+44 20 8204 3301",
-        "name": "Sri Saddhatissa International Buddhist Centre",
-        "photos": [
-          {
-            "height": 4000,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103623738938499425177\">Stefan Stefanov</a>"
-            ],
-            "photo_reference": "ATtYBwLxRn32yR5wlqC1g8a6V706uFRnqinjTqPzhOtxbO_I_D-m3vRqK1jDrXSoCoMpssj44Qf7gvZTiLLe72ym1X_JUzDIdVUHnVNNqTUVQ4W6QW8gA2HlRntWuDr0o968Ox1jB9yty4uIoh21gX_kodeEiHVmAMluhI7OuJcO7gm4HyAj",
-            "width": 3000
-          },
-          {
-            "height": 1908,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108113068184813603512\">Chamitha Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwIr5ZYtUDg7BuTTHi_dJI4KrV0kFvNpx_CrXtG5e7nXbIj6ZC2tObNm52uzgy3DcVVsbP6yqZTa4daCWdpNlilWYX4zFcEZ58QxpoSjxgNaQIWtneoPsgqo_D6moKqq0r_869-N3r3ifWO1NIbMgXnmvMr2hBU1L3gZeRbNrrhiYfI2",
-            "width": 4032
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108113068184813603512\">Chamitha Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwL7HCZHQ_a6zzqjri9qsnwjohs_VyZfSD5PsFebQwat1HV2XiIevewEsDw6hQLwYnNkQxemHMc3GN5xZHBWfvMkZ_ZGM_nstaahiUScqr5zmXMdwfafjtLnwoELWt4hEnOjbfdFwIdrb7fzyn2bVZNAVWPttd-5hms8yyw5FYExZOhu",
-            "width": 1908
-          },
-          {
-            "height": 2976,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109862615179712925270\">Rangana Gunawardana</a>"
-            ],
-            "photo_reference": "ATtYBwLWMigXa3hN6zphCKx4Tmr9hFfjAItZCQNQ8IFe3SHWL_U5dkoLRk370UJVQ6kf7BxkP5-0G1MGGGedvqX-_fWqbBiJgnBzTBArX9hKdg0nExWtllUmClwCFuQ_suJpxSGtNq2opSHHp3l2cNsGWhAJL2jwAJY6ray3l46HhXMrFaA7",
-            "width": 3968
-          },
-          {
-            "height": 2184,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108113068184813603512\">Chamitha Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwJDsotNUPmAtuLfBUeM7a5KE481CRkvy1hUEid3WbRfPN-DPg9-X7YitdrpIiK76fotvhfDRzMhXYGHhW8grqfyrH-ndt1DBDwqPMcjQjo8KA76Wb_qbhIFDTpa209_djamp1tgRugPg1wJkqomwMqqMIn86HmZ1sTdkjf-AYxEaTRL",
-            "width": 4608
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102017950867932465626\">Mihindu Karunarathne</a>"
-            ],
-            "photo_reference": "ATtYBwL6JTzywc6fQlw1sLyD0fOXSWGtZWwsXIftwCggn48pRhL8RVhpDWLY9DF2P0bw1HJBWNviv-xEapsvctheS3ad-3GLSIqz1DAfY6raiAYFqsbSE5EmTesIu4m4RrrfU_HG9WZ884mjGlTp818j-y8CJwbYQJnaXS0P2vi8bdc1sOIS",
-            "width": 3024
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113385174216598608946\">Banuka Vidusanka Paniyan Duwage YryWJmCBsz</a>"
-            ],
-            "photo_reference": "ATtYBwJL0QVTZCvzS65nE7omA3SKolJnD1WXr3peqNVv93Enkwff0grLKpF-5_jBJXAd0j8xBNBrBYj_o_UoJlmyQ3uYznf9waYm5Nb50Gjkyv35frzHvWr07BmYK8sUQ3gvRG1MX2a-N0eQmWTec_wM5bU2EJsg3o1wERSHhlHq2fOG0Nuj",
-            "width": 1080
-          },
-          {
-            "height": 4128,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108635053915695686337\">Don Wickramasinghe</a>"
-            ],
-            "photo_reference": "ATtYBwK2VunPY107DO0qr3ODvZt6XushMIyjMh_h85pFOp78SYuYeCvzG2y8vRA2_hm9EAPYqikfHIU7Ep6fnwEHueiqHMl1pOY2GU4AowkXYb2P9qx2OasrCwvSNIdf_RRUJtDi52Pofu9ATRJdlvgyWq4q5Ult0UUdT1nPdl8699JeRziv",
-            "width": 2322
-          },
-          {
-            "height": 2184,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108113068184813603512\">Chamitha Bandara</a>"
-            ],
-            "photo_reference": "ATtYBwIDQcHVFW0Er0StmB0EdcRUGwGZDqGRe3Tv4SaCDcSSnjkXCh82XLl8aiHBIkfYAy_nfftDwnGaxp8TDNfD6UqvAqq35L9SKMbgjE08rPN5Jb8tDSU9Ob69FBsQB3uTe6wt9H3RYi0TSbtbGNQG0kUv-AcZaHObrkLeiSGQE9ZcSnPz",
-            "width": 4608
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102908972064404211019\">Sumalka Mendis</a>"
-            ],
-            "photo_reference": "ATtYBwLO10t5B6RDVr12AdN_pFXWEUCMW7b9GvmhKt1WVHaVpsJ0XW8KlYjyKDF_qYl_8Q8C_pWu-bX85VITrOKcDl2NlAGOLe2luYBhppBUfEv6W6AMHRavHES58UiBzxhSPaFSHcwT5YetTJ66h6go30XssaHFgaNL5QtkZXbncZFIx9Zr",
-            "width": 3024
-          }
-        ],
-        "place_id": "ChIJISIWakQRdkgROCMgjVmLS-Y",
-        "url": "https://maps.google.com/?cid=16594510468712768312",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Sri Saddhatissa International Buddhist Centre",
+      "location": {
+        "lat": 51.58431909999999,
+        "lng": -0.267042
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "309, 311 Kingsbury Rd, London NW9 9PE, UK",
+      "phone": "+44 20 8204 3301",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLxRn32yR5wlqC1g8a6V706uFRnqinjTqPzhOtxbO_I_D-m3vRqK1jDrXSoCoMpssj44Qf7gvZTiLLe72ym1X_JUzDIdVUHnVNNqTUVQ4W6QW8gA2HlRntWuDr0o968Ox1jB9yty4uIoh21gX_kodeEiHVmAMluhI7OuJcO7gm4HyAj",
+        "ATtYBwIr5ZYtUDg7BuTTHi_dJI4KrV0kFvNpx_CrXtG5e7nXbIj6ZC2tObNm52uzgy3DcVVsbP6yqZTa4daCWdpNlilWYX4zFcEZ58QxpoSjxgNaQIWtneoPsgqo_D6moKqq0r_869-N3r3ifWO1NIbMgXnmvMr2hBU1L3gZeRbNrrhiYfI2",
+        "ATtYBwL7HCZHQ_a6zzqjri9qsnwjohs_VyZfSD5PsFebQwat1HV2XiIevewEsDw6hQLwYnNkQxemHMc3GN5xZHBWfvMkZ_ZGM_nstaahiUScqr5zmXMdwfafjtLnwoELWt4hEnOjbfdFwIdrb7fzyn2bVZNAVWPttd-5hms8yyw5FYExZOhu",
+        "ATtYBwLWMigXa3hN6zphCKx4Tmr9hFfjAItZCQNQ8IFe3SHWL_U5dkoLRk370UJVQ6kf7BxkP5-0G1MGGGedvqX-_fWqbBiJgnBzTBArX9hKdg0nExWtllUmClwCFuQ_suJpxSGtNq2opSHHp3l2cNsGWhAJL2jwAJY6ray3l46HhXMrFaA7",
+        "ATtYBwJDsotNUPmAtuLfBUeM7a5KE481CRkvy1hUEid3WbRfPN-DPg9-X7YitdrpIiK76fotvhfDRzMhXYGHhW8grqfyrH-ndt1DBDwqPMcjQjo8KA76Wb_qbhIFDTpa209_djamp1tgRugPg1wJkqomwMqqMIn86HmZ1sTdkjf-AYxEaTRL",
+        "ATtYBwL6JTzywc6fQlw1sLyD0fOXSWGtZWwsXIftwCggn48pRhL8RVhpDWLY9DF2P0bw1HJBWNviv-xEapsvctheS3ad-3GLSIqz1DAfY6raiAYFqsbSE5EmTesIu4m4RrrfU_HG9WZ884mjGlTp818j-y8CJwbYQJnaXS0P2vi8bdc1sOIS",
+        "ATtYBwJL0QVTZCvzS65nE7omA3SKolJnD1WXr3peqNVv93Enkwff0grLKpF-5_jBJXAd0j8xBNBrBYj_o_UoJlmyQ3uYznf9waYm5Nb50Gjkyv35frzHvWr07BmYK8sUQ3gvRG1MX2a-N0eQmWTec_wM5bU2EJsg3o1wERSHhlHq2fOG0Nuj",
+        "ATtYBwK2VunPY107DO0qr3ODvZt6XushMIyjMh_h85pFOp78SYuYeCvzG2y8vRA2_hm9EAPYqikfHIU7Ep6fnwEHueiqHMl1pOY2GU4AowkXYb2P9qx2OasrCwvSNIdf_RRUJtDi52Pofu9ATRJdlvgyWq4q5Ult0UUdT1nPdl8699JeRziv",
+        "ATtYBwIDQcHVFW0Er0StmB0EdcRUGwGZDqGRe3Tv4SaCDcSSnjkXCh82XLl8aiHBIkfYAy_nfftDwnGaxp8TDNfD6UqvAqq35L9SKMbgjE08rPN5Jb8tDSU9Ob69FBsQB3uTe6wt9H3RYi0TSbtbGNQG0kUv-AcZaHObrkLeiSGQE9ZcSnPz",
+        "ATtYBwLO10t5B6RDVr12AdN_pFXWEUCMW7b9GvmhKt1WVHaVpsJ0XW8KlYjyKDF_qYl_8Q8C_pWu-bX85VITrOKcDl2NlAGOLe2luYBhppBUfEv6W6AMHRavHES58UiBzxhSPaFSHcwT5YetTJ66h6go30XssaHFgaNL5QtkZXbncZFIx9Zr"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJISIWakQRdkgROCMgjVmLS-Y",
+      "google_maps_url": "https://maps.google.com/?cid=16594510468712768312",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dhamma Land, Harding's Elms Rd, Crays Hill, Billericay CM11 2UH, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.5960481,
-            "lng": 0.4613767
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.59740188029149,
-              "lng": 0.4626537302915021
-            },
-            "southwest": {
-              "lat": 51.59470391970849,
-              "lng": 0.459955769708498
-            }
-          }
-        },
-        "international_phone_number": "+44 1268 533870",
-        "name": "Mahamevnawa Meditation Centre",
-        "photos": [
-          {
-            "height": 1906,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101739704966518914106\">Prasad Beligala</a>"
-            ],
-            "photo_reference": "ATtYBwIql80R52esF4o8n8znBXgoh9Yp8j5ypKXsEbvvq_MIgglPq7ACR4olYaPiKhDfJyXwePWGzhSMj5YidjX3GzYjt1gsCv6zBUtfvp80MkwBdY0H0HazL9Q47_WlrOLJEsAXDZ9ziYtTe4Kgf3ppnzcw10fp-gYtUH_nH20KrX-iBRJv",
-            "width": 3873
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106629045363762871129\">sujeewa wijewardana</a>"
-            ],
-            "photo_reference": "ATtYBwKNdMHo1gIiMKw-ggw-I0bVEEX3an82dswMqd-u2H-TwGJW9zZTl9wiiX4ORwiH2GhV3XaWq2XcdaiuGp_CT-0oodU1sA1_UWzvbeSv8tIPV6zUzN4o6uZb9hZF9ivjXYL_19WLMkSvc6-Bxj2Ay3i5pwzHi8YNzaYb17RZESuhYs8C",
-            "width": 5312
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113570787955459379002\">Sisira Maddumage</a>"
-            ],
-            "photo_reference": "ATtYBwJXKmVr65hqBFO6RV8rCIC-CYY8IChWEjVYx3tJmZ_tQ6ZMlyeyrHTETun9DUxn57yuDeDZrTqJjSi6Ik8qrkuiq_P06PkXL_fEJLk9Xau9StBBB_Msuz4bQD92RfDz_Ar7r2uDvysgMlJYcQ8Wmq-KimoCeg6WIXu8EPMSTTGWn-P4",
-            "width": 2048
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106629045363762871129\">sujeewa wijewardana</a>"
-            ],
-            "photo_reference": "ATtYBwJu6aciJTX2nvlpM4PzoJh-9FMrNCcEpilOmhIGDPg6oO2pgWak1NOoM5GVAqL9Iyp6A0pmAA-gxRZqxgoKWuJcBoODe4vHCNxn1oMsQtKDSx55yVe31gJG282eWGxVo4K9g99ea8al6HmA-jdyYqfzR1ASS805iSbhAVLEj0-WBm6f",
-            "width": 5312
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100015079655231933329\">Anoma Jayaratne</a>"
-            ],
-            "photo_reference": "ATtYBwIOMqGWoaHSAOH-cFTA9BwvTbltRciHaKSRYBSyTepOCGV4fI2Lv4lCA7JXc5x3NDvloTAkpvrmI8p5zfk0sREpN7iRUBpheZqHhoiTxDgHXfn8R4PBdEstCe5QqIoNkgCsqz7K_Yl9V0f15nfIWPzkwwDITQ4OgXAMKfC9cfH2k6ey",
-            "width": 3264
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101022831917432922356\">Thanu 1</a>"
-            ],
-            "photo_reference": "ATtYBwKpjv9P9nRIw6W1ILLZaiF15CluQlnFgCoehfCqwdTnxC0c4ZtZZHiS3MWgXWfEAnmTC-v6XU9zetzM0__oEiAujLOMvo-6U79Esr89igzlAiLCY14MlLkp2ZpVZQCyNdqqfr8H_Ch69zOhLy3sOoPjc_0GZRYkwN5sQcMyQWuXAY4v",
-            "width": 4032
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101022831917432922356\">Thanu 1</a>"
-            ],
-            "photo_reference": "ATtYBwKwNmCW23h5PTyDIiToc2aGEH0lN6PNuv-BO1T_CH-3HC0IFSZOSapBE0AwkkVPvI2YHzoB0aeHXckP7wTiwMdkJOe3aziUDoPVElL6Twl8ZoqtKVboWsiRXUce9l36H1YsPpKU4IngslHwMsHoDfKlpL5uU0Z-gqOxkaxDYxzXzeGk",
-            "width": 3024
-          },
-          {
-            "height": 3337,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101739704966518914106\">Prasad Beligala</a>"
-            ],
-            "photo_reference": "ATtYBwLXsxV4lpQi7i1GgvZpl4o8jZYyYYECH7sz_sG3rNsW6WqeiY3rxQYbihRvObctc2WwOVM9Q7gwuaSX1H0MBhVqEGqs2B-c-kPU3uR1KF2I_AHXsELAZcMT1Sxm9NmBPNzJSppT4YjT7u2nd5LstZ0yPPzY0f9JIFPln_WxLTu6g3bs",
-            "width": 2113
-          },
-          {
-            "height": 2592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115123019171181281942\">malar raja</a>"
-            ],
-            "photo_reference": "ATtYBwJgKwlynQwotZrKV-lAlQUZDIBj3N_cr62xFZGNvcHt2SLYkffUI0nStU6HfgWUSzJtYNRRJ6J4_2HbPpIhC8DYxL9mkNGvye2ksJqmUS22i55zLcKbJZOJbGMo3F3jAxJw90tnhLWt6VTJQD_NIebflKp-kj2Yvb7zP1k9jHMJEe5q",
-            "width": 1944
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106629045363762871129\">sujeewa wijewardana</a>"
-            ],
-            "photo_reference": "ATtYBwKLwfjHsN2ZfIAbz2PnNItuAqM7rTLN2489ooViOCm3r-kZ6xTOw9DYAcAN9vOBX11UoWwBTSkkzRdpE9TE1kU4hkBwBPz6rdVi46I4GiexA_hmg2nKOXwfURFKw11XPhuLpyHYMLeUL2Tu8gN8Yj3r0ai6Xr2z-yFhQ15RQfKlJOsk",
-            "width": 5312
-          }
-        ],
-        "place_id": "ChIJM5FnfK3G2EcR_gltFbzBIyo",
-        "url": "https://maps.google.com/?cid=3036483587335326206",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mahamevnawa Meditation Centre",
+      "location": {
+        "lat": 51.5960481,
+        "lng": 0.4613767
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Dhamma Land, Harding's Elms Rd, Crays Hill, Billericay CM11 2UH, UK",
+      "phone": "+44 1268 533870",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIql80R52esF4o8n8znBXgoh9Yp8j5ypKXsEbvvq_MIgglPq7ACR4olYaPiKhDfJyXwePWGzhSMj5YidjX3GzYjt1gsCv6zBUtfvp80MkwBdY0H0HazL9Q47_WlrOLJEsAXDZ9ziYtTe4Kgf3ppnzcw10fp-gYtUH_nH20KrX-iBRJv",
+        "ATtYBwKNdMHo1gIiMKw-ggw-I0bVEEX3an82dswMqd-u2H-TwGJW9zZTl9wiiX4ORwiH2GhV3XaWq2XcdaiuGp_CT-0oodU1sA1_UWzvbeSv8tIPV6zUzN4o6uZb9hZF9ivjXYL_19WLMkSvc6-Bxj2Ay3i5pwzHi8YNzaYb17RZESuhYs8C",
+        "ATtYBwJXKmVr65hqBFO6RV8rCIC-CYY8IChWEjVYx3tJmZ_tQ6ZMlyeyrHTETun9DUxn57yuDeDZrTqJjSi6Ik8qrkuiq_P06PkXL_fEJLk9Xau9StBBB_Msuz4bQD92RfDz_Ar7r2uDvysgMlJYcQ8Wmq-KimoCeg6WIXu8EPMSTTGWn-P4",
+        "ATtYBwJu6aciJTX2nvlpM4PzoJh-9FMrNCcEpilOmhIGDPg6oO2pgWak1NOoM5GVAqL9Iyp6A0pmAA-gxRZqxgoKWuJcBoODe4vHCNxn1oMsQtKDSx55yVe31gJG282eWGxVo4K9g99ea8al6HmA-jdyYqfzR1ASS805iSbhAVLEj0-WBm6f",
+        "ATtYBwIOMqGWoaHSAOH-cFTA9BwvTbltRciHaKSRYBSyTepOCGV4fI2Lv4lCA7JXc5x3NDvloTAkpvrmI8p5zfk0sREpN7iRUBpheZqHhoiTxDgHXfn8R4PBdEstCe5QqIoNkgCsqz7K_Yl9V0f15nfIWPzkwwDITQ4OgXAMKfC9cfH2k6ey",
+        "ATtYBwKpjv9P9nRIw6W1ILLZaiF15CluQlnFgCoehfCqwdTnxC0c4ZtZZHiS3MWgXWfEAnmTC-v6XU9zetzM0__oEiAujLOMvo-6U79Esr89igzlAiLCY14MlLkp2ZpVZQCyNdqqfr8H_Ch69zOhLy3sOoPjc_0GZRYkwN5sQcMyQWuXAY4v",
+        "ATtYBwKwNmCW23h5PTyDIiToc2aGEH0lN6PNuv-BO1T_CH-3HC0IFSZOSapBE0AwkkVPvI2YHzoB0aeHXckP7wTiwMdkJOe3aziUDoPVElL6Twl8ZoqtKVboWsiRXUce9l36H1YsPpKU4IngslHwMsHoDfKlpL5uU0Z-gqOxkaxDYxzXzeGk",
+        "ATtYBwLXsxV4lpQi7i1GgvZpl4o8jZYyYYECH7sz_sG3rNsW6WqeiY3rxQYbihRvObctc2WwOVM9Q7gwuaSX1H0MBhVqEGqs2B-c-kPU3uR1KF2I_AHXsELAZcMT1Sxm9NmBPNzJSppT4YjT7u2nd5LstZ0yPPzY0f9JIFPln_WxLTu6g3bs",
+        "ATtYBwJgKwlynQwotZrKV-lAlQUZDIBj3N_cr62xFZGNvcHt2SLYkffUI0nStU6HfgWUSzJtYNRRJ6J4_2HbPpIhC8DYxL9mkNGvye2ksJqmUS22i55zLcKbJZOJbGMo3F3jAxJw90tnhLWt6VTJQD_NIebflKp-kj2Yvb7zP1k9jHMJEe5q",
+        "ATtYBwKLwfjHsN2ZfIAbz2PnNItuAqM7rTLN2489ooViOCm3r-kZ6xTOw9DYAcAN9vOBX11UoWwBTSkkzRdpE9TE1kU4hkBwBPz6rdVi46I4GiexA_hmg2nKOXwfURFKw11XPhuLpyHYMLeUL2Tu8gN8Yj3r0ai6Xr2z-yFhQ15RQfKlJOsk"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJM5FnfK3G2EcR_gltFbzBIyo",
+      "google_maps_url": "https://maps.google.com/?cid=3036483587335326206",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Oxford Rd, Edmonton, London N9 8JD, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.6281081,
-            "lng": -0.05354059999999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.6294759302915,
-              "lng": -0.05226806970849797
-            },
-            "southwest": {
-              "lat": 51.6267779697085,
-              "lng": -0.05496603029150204
-            }
-          }
-        },
-        "name": "Samadhi Meditation Centre",
-        "place_id": "ChIJ84pMJPEedkgRYipd6321oaw",
-        "url": "https://maps.google.com/?cid=12439423198198311522",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Samadhi Meditation Centre",
+      "location": {
+        "lat": 51.6281081,
+        "lng": -0.05354059999999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Oxford Rd, Edmonton, London N9 8JD, UK",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ84pMJPEedkgRYipd6321oaw",
+      "google_maps_url": "https://maps.google.com/?cid=12439423198198311522",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "22 Royal Terrace, Dunedin Central, Dunedin 9016, New Zealand",
-        "geometry": {
-          "location": {
-            "lat": -45.8679458,
-            "lng": 170.5015021
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -45.8666521197085,
-              "lng": 170.5030525802915
-            },
-            "southwest": {
-              "lat": -45.8693500802915,
-              "lng": 170.5003546197085
-            }
-          }
-        },
-        "international_phone_number": "+64 3-477 8374",
-        "name": "Dhargyey Buddhist Centre",
-        "photos": [
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116979015063231209476\">Liam Farley</a>"
-            ],
-            "photo_reference": "ATtYBwLjUOzZB9sGn9OJJEga8yV6b08EAYLJ8GOvX_XSdDz2r_PLFCjX_AlkmBRsTyWXtx-G-RtSa8o3DiGF9OzY-fX_HplBty31g9umMWktD_eR_q64xVk6RGnn8C6myrXbGaJYUcW0G2ZJHiXwBQeDaHV48QBLuig2zYC-KM-lzttgilfz",
-            "width": 3024
-          },
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115519253777719553706\">Dhargyey Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLwHgwIyD0rg5cxFRRhN2jsAYymv8gy0jHoEtRJSDQT2-S0nXjx054Zqe_HkakRmIFHpCcUOvFAFAZcgplCzsxChsrUe70SQE2htfeq9V4yszrizo68KFiuu5AtfDIQsjaJJa8IzQPUvMRVPPS0bgshW5S61_S_OS_f7hYaz9_QzxPn",
-            "width": 960
-          },
-          {
-            "height": 4160,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101111108423673731958\">Marilou Scott</a>"
-            ],
-            "photo_reference": "ATtYBwIZqep1T8UpASctkqwDVQtu8AmS3JdI9RnDeUpjE_HnYPp00gzR0nykTOBJf9FEGAgbUFLpwUdbbY6In2kVqYosmcsCJ6dTZzJ8vbcmznnF6bH4bFXd52rhfT-uBDBMmO4dLauBUdUSeb1Anqx9bdFOhRV6yH3qxedGzWmIF3edhCZb",
-            "width": 2340
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115519253777719553706\">Dhargyey Buddhist Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLSFAvoaWvmOXU2L-9QhwGFo6sJ4zL-bLP1ybiv-b1kpDM1TDOkuzhvqhmJxQyNs6TBEPbTESpzEwi0rFugOH6OjzIzgGgbLnWIHBnXQhV9g7pyDjYgWG3vjwGsRF3RoUPnIdYWNj0pMWXUTQorzosiBLCotbBT1VyioOSeyboi8bHy",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJIRImjHOsLqgR1EFIjtgvbes",
-        "url": "https://maps.google.com/?cid=16964267978521067988",
-        "website": "https://www.dhargyeybuddhism.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dhargyey Buddhist Centre",
+      "location": {
+        "lat": -45.8679458,
+        "lng": 170.5015021
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "22 Royal Terrace, Dunedin Central, Dunedin 9016, New Zealand",
+      "phone": "+64 3-477 8374",
+      "website": "https://www.dhargyeybuddhism.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLjUOzZB9sGn9OJJEga8yV6b08EAYLJ8GOvX_XSdDz2r_PLFCjX_AlkmBRsTyWXtx-G-RtSa8o3DiGF9OzY-fX_HplBty31g9umMWktD_eR_q64xVk6RGnn8C6myrXbGaJYUcW0G2ZJHiXwBQeDaHV48QBLuig2zYC-KM-lzttgilfz",
+        "ATtYBwLwHgwIyD0rg5cxFRRhN2jsAYymv8gy0jHoEtRJSDQT2-S0nXjx054Zqe_HkakRmIFHpCcUOvFAFAZcgplCzsxChsrUe70SQE2htfeq9V4yszrizo68KFiuu5AtfDIQsjaJJa8IzQPUvMRVPPS0bgshW5S61_S_OS_f7hYaz9_QzxPn",
+        "ATtYBwIZqep1T8UpASctkqwDVQtu8AmS3JdI9RnDeUpjE_HnYPp00gzR0nykTOBJf9FEGAgbUFLpwUdbbY6In2kVqYosmcsCJ6dTZzJ8vbcmznnF6bH4bFXd52rhfT-uBDBMmO4dLauBUdUSeb1Anqx9bdFOhRV6yH3qxedGzWmIF3edhCZb",
+        "ATtYBwLSFAvoaWvmOXU2L-9QhwGFo6sJ4zL-bLP1ybiv-b1kpDM1TDOkuzhvqhmJxQyNs6TBEPbTESpzEwi0rFugOH6OjzIzgGgbLnWIHBnXQhV9g7pyDjYgWG3vjwGsRF3RoUPnIdYWNj0pMWXUTQorzosiBLCotbBT1VyioOSeyboi8bHy"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJIRImjHOsLqgR1EFIjtgvbes",
+      "google_maps_url": "https://maps.google.com/?cid=16964267978521067988",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2020 NY-301, Carmel Hamlet, NY 10512, USA",
-        "geometry": {
-          "location": {
-            "lat": 41.4817583,
-            "lng": -73.7942147
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.4830800302915,
-              "lng": -73.79264881970849
-            },
-            "southwest": {
-              "lat": 41.4803820697085,
-              "lng": -73.79534678029151
-            }
-          }
-        },
-        "international_phone_number": "+1 845-228-4288",
-        "name": "BAUS",
-        "photos": [
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100166224321806007467\">Chuang Yen Monastery, BAUS</a>"
-            ],
-            "photo_reference": "ATtYBwIcTkL7-kvYrpGQrgSiTuQ-BYV41-8225IQoavztmh6_9CrysdzI4w2MnvWOG7NdaF4TjWwlEigrM_YRF2CkJUNsxBTjS7_5ftR4Dg_0KHsDutUqSACp9wheoVDEfD8oVJFvFKfJrbm9fWdcqcdbNNrc6n_S1o2UnRV-dGz5cO_QhC2",
-            "width": 960
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100166224321806007467\">Chuang Yen Monastery, BAUS</a>"
-            ],
-            "photo_reference": "ATtYBwK0_PQtW2i4rj8ZAqKu0SJaB6suiYafl0NDY_ldQK_abbijbTATYiF6gg2U2D2gcbkT2-T3yg264z6kc3aezlURaVuyfD2_J2cTjH00DHt3nBzI0zZhll7FnNxNBu0sniIGMxkzzPTV-8UOCnZWfVaEskOd-5HVRRLGOa0SXF_cYM-q",
-            "width": 4032
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108084650107936778041\">Rajesh Desai</a>"
-            ],
-            "photo_reference": "ATtYBwIcXCOVD7wGof5yRk0TE_65Tt6WWOuVJlU7gzqoaMdmTGDQ_p-9j6B1kugIZN-NPc4Imp60Kk05CwwO7H1FbAxBmvDGOHXi0ZXtOAVviByt4TQNdakDRbv5EUrHJly88z9_7IQVCLs0My7OxiRn_dhwHrgLySjSkkyTrN0tomktwLkk",
-            "width": 5312
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109982396164291148211\">Allen He</a>"
-            ],
-            "photo_reference": "ATtYBwISgCjYLBynURT_ZUAcov-0hBP8TwVWVu1jjLZH0N8friDCCQcHiX2i-tE1AZd6EMOUS607j9xZOnPLKQc2r2SKs_aJLftwgillkwEey1t7cOUZG2zSQzOTdVKNjDHSsqFvGU9aSXv8PWybjPi7Ye_0ZQqNZNoRkolg_MR6Ub3t6pc7",
-            "width": 3024
-          },
-          {
-            "height": 1836,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105755752335496921986\">Andrey Laz</a>"
-            ],
-            "photo_reference": "ATtYBwI6q5QiGQmsEIR9euVQmIXZYxaGZCos1YQ2M0SJkl6KEFH3rhMGOpEspTuc6ppLnQq6u-N11V_2TpUr6zgdeIFS98eQKjbq6SklM9kjd3KO4I2W_UFvvsOzvBQVgSMrVl3a9i8IQsh31WRVqXwSkyq54CrGTwJgH8fQdcfpfJf6P0RE",
-            "width": 3264
-          },
-          {
-            "height": 2112,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102048961353764970523\">Jason K</a>"
-            ],
-            "photo_reference": "ATtYBwK3Nxcjqx8dXOEqvb7hGW8R56a9KJhuXKzchxR8w2GECKmnwJJmWm9azMxGZgDoLz33lmjLUL70LE4_Vvi6F3HY92T-0WGClVKZ2ZrLoYt7XvtBbEo3i0zdqFDT3B-ZADP73rP99lITOgkc7H2Ai5WCAiVL5gvSQU-oA6gxUjeuTiO_",
-            "width": 2816
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106861614691441578482\">Stephen Lin</a>"
-            ],
-            "photo_reference": "ATtYBwJdznRZ5DKJSunN4UoBW5u4TFH1xDKFLKcIEYuOo3hkzMH0q0coe2XydPxOu4I-zNYF3l1kOfuPV5qSMcoc7xD5-D1nWWlgCTZnNNLBtDFJt1zLggrlhvbfsJi1ByNWVmdfmejNUHW3FCmThO5bIha6FGJ3iE4sCmv65mA1YptPCBGH",
-            "width": 4032
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104284404188881900279\">Judy Li</a>"
-            ],
-            "photo_reference": "ATtYBwJrpGx8IEDUtDRaO9hx1xAi5cTNN7MW-NOm0Cy7yTgMapwbDhaCIPw78mnVwpvxx6lyrdhUWnFSxMzg9gT8tUA67akl_uGj2cthibBOywWb9EM1fRk22ym31YJ7S00fX62PQ8Kv7c3dUiJjdsXJK-ai6RcDcRQSF6hoB10riXl2jUnx",
-            "width": 3024
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100630969399692121494\">Daniela Gaudino</a>"
-            ],
-            "photo_reference": "ATtYBwKZvUicOVKv0POe3KzxsVU4S7emgh8fp5VDaeVPmoz3HK7AFXLTtLUo4cLH1vV3WcOoBMoGogORy1VOsbRFO5F3gBFq24B4uYiI4u9Y41lKIzsd6kajnGKEERHe32eHMlZNARYRPTHS8rH8w5dJxIqAmmIxQsIU_3P84l6qu_B9PDk-",
-            "width": 3024
-          },
-          {
-            "height": 9072,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106179951040590045810\">Chao Wang</a>"
-            ],
-            "photo_reference": "ATtYBwKN5KMcw3_Kh0AdQrDxr-8ndvkD3ep_aiALLcvCxvUXApGPRMPqETomlMLJxwbT3S9Nicw_IRtxTXc6Zz0P9vQMPoEt2S1hHd1cd1IZxE2fed7B7cz7fGwKL6N4mvcJwt5nsImm-hL98h8XASIIazsGE4mJJo2tVt_L4MJisVJIdGlc",
-            "width": 8538
-          }
-        ],
-        "place_id": "ChIJgYsXe3hJ3YkR0PVo2FDfFAo",
-        "url": "https://maps.google.com/?cid=726450978234627536",
-        "website": "https://www.baus.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "BAUS",
+      "location": {
+        "lat": 41.4817583,
+        "lng": -73.7942147
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "2020 NY-301, Carmel Hamlet, NY 10512, USA",
+      "phone": "+1 845-228-4288",
+      "website": "https://www.baus.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwIcTkL7-kvYrpGQrgSiTuQ-BYV41-8225IQoavztmh6_9CrysdzI4w2MnvWOG7NdaF4TjWwlEigrM_YRF2CkJUNsxBTjS7_5ftR4Dg_0KHsDutUqSACp9wheoVDEfD8oVJFvFKfJrbm9fWdcqcdbNNrc6n_S1o2UnRV-dGz5cO_QhC2",
+        "ATtYBwK0_PQtW2i4rj8ZAqKu0SJaB6suiYafl0NDY_ldQK_abbijbTATYiF6gg2U2D2gcbkT2-T3yg264z6kc3aezlURaVuyfD2_J2cTjH00DHt3nBzI0zZhll7FnNxNBu0sniIGMxkzzPTV-8UOCnZWfVaEskOd-5HVRRLGOa0SXF_cYM-q",
+        "ATtYBwIcXCOVD7wGof5yRk0TE_65Tt6WWOuVJlU7gzqoaMdmTGDQ_p-9j6B1kugIZN-NPc4Imp60Kk05CwwO7H1FbAxBmvDGOHXi0ZXtOAVviByt4TQNdakDRbv5EUrHJly88z9_7IQVCLs0My7OxiRn_dhwHrgLySjSkkyTrN0tomktwLkk",
+        "ATtYBwISgCjYLBynURT_ZUAcov-0hBP8TwVWVu1jjLZH0N8friDCCQcHiX2i-tE1AZd6EMOUS607j9xZOnPLKQc2r2SKs_aJLftwgillkwEey1t7cOUZG2zSQzOTdVKNjDHSsqFvGU9aSXv8PWybjPi7Ye_0ZQqNZNoRkolg_MR6Ub3t6pc7",
+        "ATtYBwI6q5QiGQmsEIR9euVQmIXZYxaGZCos1YQ2M0SJkl6KEFH3rhMGOpEspTuc6ppLnQq6u-N11V_2TpUr6zgdeIFS98eQKjbq6SklM9kjd3KO4I2W_UFvvsOzvBQVgSMrVl3a9i8IQsh31WRVqXwSkyq54CrGTwJgH8fQdcfpfJf6P0RE",
+        "ATtYBwK3Nxcjqx8dXOEqvb7hGW8R56a9KJhuXKzchxR8w2GECKmnwJJmWm9azMxGZgDoLz33lmjLUL70LE4_Vvi6F3HY92T-0WGClVKZ2ZrLoYt7XvtBbEo3i0zdqFDT3B-ZADP73rP99lITOgkc7H2Ai5WCAiVL5gvSQU-oA6gxUjeuTiO_",
+        "ATtYBwJdznRZ5DKJSunN4UoBW5u4TFH1xDKFLKcIEYuOo3hkzMH0q0coe2XydPxOu4I-zNYF3l1kOfuPV5qSMcoc7xD5-D1nWWlgCTZnNNLBtDFJt1zLggrlhvbfsJi1ByNWVmdfmejNUHW3FCmThO5bIha6FGJ3iE4sCmv65mA1YptPCBGH",
+        "ATtYBwJrpGx8IEDUtDRaO9hx1xAi5cTNN7MW-NOm0Cy7yTgMapwbDhaCIPw78mnVwpvxx6lyrdhUWnFSxMzg9gT8tUA67akl_uGj2cthibBOywWb9EM1fRk22ym31YJ7S00fX62PQ8Kv7c3dUiJjdsXJK-ai6RcDcRQSF6hoB10riXl2jUnx",
+        "ATtYBwKZvUicOVKv0POe3KzxsVU4S7emgh8fp5VDaeVPmoz3HK7AFXLTtLUo4cLH1vV3WcOoBMoGogORy1VOsbRFO5F3gBFq24B4uYiI4u9Y41lKIzsd6kajnGKEERHe32eHMlZNARYRPTHS8rH8w5dJxIqAmmIxQsIU_3P84l6qu_B9PDk-",
+        "ATtYBwKN5KMcw3_Kh0AdQrDxr-8ndvkD3ep_aiALLcvCxvUXApGPRMPqETomlMLJxwbT3S9Nicw_IRtxTXc6Zz0P9vQMPoEt2S1hHd1cd1IZxE2fed7B7cz7fGwKL6N4mvcJwt5nsImm-hL98h8XASIIazsGE4mJJo2tVt_L4MJisVJIdGlc"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJgYsXe3hJ3YkR0PVo2FDfFAo",
+      "google_maps_url": "https://maps.google.com/?cid=726450978234627536",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4548 Schneider Dr, Oregon, WI 53575, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.9628794,
-            "lng": -89.3523393
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.9640911302915,
-              "lng": -89.3508744697085
-            },
-            "southwest": {
-              "lat": 42.9613931697085,
-              "lng": -89.3535724302915
-            }
-          }
-        },
-        "international_phone_number": "+1 608-835-5572",
-        "name": "Deer Park Buddhist Center",
-        "photos": [
-          {
-            "height": 3840,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113852515143437048740\">Ron Lutz II</a>"
-            ],
-            "photo_reference": "ATtYBwI2wlrhu5yX656aLC4qo1gDUtGKOl5kiJurGwYDTI3VjEPUI6lLyd1sjFEO5laOC6VjuhDSL67YxJC-TFnWj0kZx94Xv_6-TQfIBkRMhSlAIuDCJnUedfReUYlWAhugiFXHo_RrkQ4iKrGTrq2Z4reU-873GCO2DwhYLQsH_HAi05Kp",
-            "width": 5760
-          },
-          {
-            "height": 2832,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/106878262345455768389\">Juan Rozo</a>"
-            ],
-            "photo_reference": "ATtYBwIxl9D0-KPvLpqpLCJOE8X5IXWYykL6mWtlenY-fo1MDLae8M0XY7FK3PwSz6j5AhGMfP8jIK97n14p1JAY_Qv3cU9zEJWc9bUrboiZ3iBXVcGWHR_cB9qt2UZtqLi9_hz19btIc7CgsLumAFRN8y26Zj9BDvwepoH0bxP4HD3p370P",
-            "width": 4240
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113949573982884825666\">Robert Bob</a>"
-            ],
-            "photo_reference": "ATtYBwLC0rWX28T7FMLtXjRqITvuUYNqobN37VbQFeIMIJbpQ38pmBZFm1yC3MOWpw7c2FEg4iG7waKzo3BBNAqoAO2zMNvc_R8qg5WnP8rX3NnWaHO9W0Jr4TRge8DU7wPYnudOR-6hkJZuHDxGkZRFY0Zep9TaYkmMzRTTKN0_Avvwy06A",
-            "width": 3264
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/115168873755052549660\">Babita Tamrakar</a>"
-            ],
-            "photo_reference": "ATtYBwKxUieaAYo7Snlco4fmQqlgqEN40MUjN0RhmXFVT_VI0hvgeMLav5vHA7xLLvyUv2xEtnyhp8kyPSyI0VF5JaoePh0_TWVopEDKklO07MNUJslS7QmAuEG1acoPVkv4fon3v4NWF_Veu23tHfEdKKWabxTVOCAXG6NxLqFm3kZfKNV3",
-            "width": 3456
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108898500456628407823\">Brandon Thomas-Tomczak</a>"
-            ],
-            "photo_reference": "ATtYBwLE70u6nKKaKHeoOZBU9PvyxC0WXvextIE2Jxwd_ILIZmTpR0VxD6M4HqleYnsQk8nuUXFTuP1UTQnDY_eH2Y7sU5FQ1HG9XJkVf26_nLPGWTpJjQ5ilU3cJrsrp8EOzJxMwExdEzx6xQHm6yBI4VOQyl7tbNbFkzH-Hmy1JpzlWImM",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109824041199970965510\">Alexey Ilyushov</a>"
-            ],
-            "photo_reference": "ATtYBwIowOsPkoIaUQw7S01irxihRvUOkf0ASmBAdKLSbVniVWXExICJn5FUBbHV4d_n2dkvwiVGS3PZKG9nSewxK1J8KZPiR36AhCfQirNr-91Q3jFPKqFB9DCdPNm-mKo8dYp4_TcD0PlnxjNAByXM-04-93xtCoyY_MTu4Y40TuCgdrtD",
-            "width": 4032
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113852515143437048740\">Ron Lutz II</a>"
-            ],
-            "photo_reference": "ATtYBwImo7m3Yp5VPZ8J6i_Pb1CmY2SqZaprMzsWPhcZ9Wdbtt7zLrBEw924qLfCJDt635g_RYuOPGE3CFojNoh0D_ZZlxdu5xhwAWOPG8NX341hwWt3j0f4WkI91pmmz6q9gMu_FNrZCNahu2J-X-jn4X0-5N6_79nXmAdDGp6X_cUqxgWz",
-            "width": 3024
-          },
-          {
-            "height": 1800,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117059245051267382981\">Jay Sharan Mishra</a>"
-            ],
-            "photo_reference": "ATtYBwJpJpesGF5KkkNx1f6HKLgUhYXAZdkgk8LFE8ybMfJY_bca7RJegHVk5quVkTeTAAnwrrfqG5fhqlD9lHnI3wQ6gWnagh1Wnn-1rDVd0yCHLfWRfRUrLf8pto9lb66pTf7iiO9gAJCplAcZcL5I3p_BUA4ajVBQBbDb5wqCeKB3-ZZK",
-            "width": 2559
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109824041199970965510\">Alexey Ilyushov</a>"
-            ],
-            "photo_reference": "ATtYBwLu3PShPViELxsDC4X-sSH0LSieJQqZhFM6aURB5s9LDvUac4LmzRwFnn0xz_e1LQWL-pktwZCwqriC_OCoVQdGAXRvggLq9DAE4nU0E65LDweDbwcx8sUU72vO5MyaW_rRcJoI0mbX8yweuIudQ16I9eBSDxvtGlkxoT-0mxqRFmtD",
-            "width": 4032
-          },
-          {
-            "height": 3788,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113852515143437048740\">Ron Lutz II</a>"
-            ],
-            "photo_reference": "ATtYBwKxWvWn4WmGwa74X6_m_2_bygoGc4T9NJQAq9e9XIIDnNZGP8DhTbnsohSrdyy_ipVoe1pQaSvPUh9NYAO7FbTnw6Qpn3YiDuU5ReOtknq0WAPkW0kL1pmIt4mKG6aFitonn-rLH-FAlYAmThka3Q0zwO5pBx9YRdDHAe1ZHLeyQoJO",
-            "width": 5682
-          }
-        ],
-        "place_id": "ChIJBSvA2lxMBogRbsm7TRrnlcU",
-        "url": "https://maps.google.com/?cid=14237539897161009518",
-        "website": "http://www.deerparkcenter.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Deer Park Buddhist Center",
+      "location": {
+        "lat": 42.9628794,
+        "lng": -89.3523393
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "4548 Schneider Dr, Oregon, WI 53575, USA",
+      "phone": "+1 608-835-5572",
+      "website": "http://www.deerparkcenter.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwI2wlrhu5yX656aLC4qo1gDUtGKOl5kiJurGwYDTI3VjEPUI6lLyd1sjFEO5laOC6VjuhDSL67YxJC-TFnWj0kZx94Xv_6-TQfIBkRMhSlAIuDCJnUedfReUYlWAhugiFXHo_RrkQ4iKrGTrq2Z4reU-873GCO2DwhYLQsH_HAi05Kp",
+        "ATtYBwIxl9D0-KPvLpqpLCJOE8X5IXWYykL6mWtlenY-fo1MDLae8M0XY7FK3PwSz6j5AhGMfP8jIK97n14p1JAY_Qv3cU9zEJWc9bUrboiZ3iBXVcGWHR_cB9qt2UZtqLi9_hz19btIc7CgsLumAFRN8y26Zj9BDvwepoH0bxP4HD3p370P",
+        "ATtYBwLC0rWX28T7FMLtXjRqITvuUYNqobN37VbQFeIMIJbpQ38pmBZFm1yC3MOWpw7c2FEg4iG7waKzo3BBNAqoAO2zMNvc_R8qg5WnP8rX3NnWaHO9W0Jr4TRge8DU7wPYnudOR-6hkJZuHDxGkZRFY0Zep9TaYkmMzRTTKN0_Avvwy06A",
+        "ATtYBwKxUieaAYo7Snlco4fmQqlgqEN40MUjN0RhmXFVT_VI0hvgeMLav5vHA7xLLvyUv2xEtnyhp8kyPSyI0VF5JaoePh0_TWVopEDKklO07MNUJslS7QmAuEG1acoPVkv4fon3v4NWF_Veu23tHfEdKKWabxTVOCAXG6NxLqFm3kZfKNV3",
+        "ATtYBwLE70u6nKKaKHeoOZBU9PvyxC0WXvextIE2Jxwd_ILIZmTpR0VxD6M4HqleYnsQk8nuUXFTuP1UTQnDY_eH2Y7sU5FQ1HG9XJkVf26_nLPGWTpJjQ5ilU3cJrsrp8EOzJxMwExdEzx6xQHm6yBI4VOQyl7tbNbFkzH-Hmy1JpzlWImM",
+        "ATtYBwIowOsPkoIaUQw7S01irxihRvUOkf0ASmBAdKLSbVniVWXExICJn5FUBbHV4d_n2dkvwiVGS3PZKG9nSewxK1J8KZPiR36AhCfQirNr-91Q3jFPKqFB9DCdPNm-mKo8dYp4_TcD0PlnxjNAByXM-04-93xtCoyY_MTu4Y40TuCgdrtD",
+        "ATtYBwImo7m3Yp5VPZ8J6i_Pb1CmY2SqZaprMzsWPhcZ9Wdbtt7zLrBEw924qLfCJDt635g_RYuOPGE3CFojNoh0D_ZZlxdu5xhwAWOPG8NX341hwWt3j0f4WkI91pmmz6q9gMu_FNrZCNahu2J-X-jn4X0-5N6_79nXmAdDGp6X_cUqxgWz",
+        "ATtYBwJpJpesGF5KkkNx1f6HKLgUhYXAZdkgk8LFE8ybMfJY_bca7RJegHVk5quVkTeTAAnwrrfqG5fhqlD9lHnI3wQ6gWnagh1Wnn-1rDVd0yCHLfWRfRUrLf8pto9lb66pTf7iiO9gAJCplAcZcL5I3p_BUA4ajVBQBbDb5wqCeKB3-ZZK",
+        "ATtYBwLu3PShPViELxsDC4X-sSH0LSieJQqZhFM6aURB5s9LDvUac4LmzRwFnn0xz_e1LQWL-pktwZCwqriC_OCoVQdGAXRvggLq9DAE4nU0E65LDweDbwcx8sUU72vO5MyaW_rRcJoI0mbX8yweuIudQ16I9eBSDxvtGlkxoT-0mxqRFmtD",
+        "ATtYBwKxWvWn4WmGwa74X6_m_2_bygoGc4T9NJQAq9e9XIIDnNZGP8DhTbnsohSrdyy_ipVoe1pQaSvPUh9NYAO7FbTnw6Qpn3YiDuU5ReOtknq0WAPkW0kL1pmIt4mKG6aFitonn-rLH-FAlYAmThka3Q0zwO5pBx9YRdDHAe1ZHLeyQoJO"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJBSvA2lxMBogRbsm7TRrnlcU",
+      "google_maps_url": "https://maps.google.com/?cid=14237539897161009518",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1078 Lorinna Rd, Lorinna TAS 7306, Australia",
-        "geometry": {
-          "location": {
-            "lat": -41.552404,
-            "lng": 146.132827
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -41.5510871697085,
-              "lng": 146.1341750302915
-            },
-            "southwest": {
-              "lat": -41.5537851302915,
-              "lng": 146.1314770697085
-            }
-          }
-        },
-        "international_phone_number": "+61 3 6363 5178",
-        "name": "Dorje Ling Retreat Centre",
-        "photos": [
-          {
-            "height": 1120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113367576284284779676\">Dorje Ling Retreat Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLWA5HhscuRxiPsx7ninMtCBrrZmV6PZjRW5Ce-9APwoyLTCGHyjPieKi5cassttBlTFRTkNaefls2CFZpavIidjL0NWa3-EPLfRaTZIX6I280o5V_D-N0S6kl5mkrcp_-VD7t70J0_TMyJMvNrStGEILgxWOYIuwEGargQPWCyCzoQ",
-            "width": 2752
-          },
-          {
-            "height": 500,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113367576284284779676\">Dorje Ling Retreat Centre</a>"
-            ],
-            "photo_reference": "ATtYBwKkqZS2TFx74xykDQewdaiw6gXNKkolDR_VaUMjQ0tkBZlL1dU9SIWgoC12WUV1mDvo8jjgBGRc6LV7kR_gTQx8u_pUqj5S4WuLfQCqbJ-h1km3zUoOMwwildfVmjztObeULVv8bb4zJhTI-TQExiRkA51pDicdVaD3VTDmJkSzen4s",
-            "width": 752
-          },
-          {
-            "height": 1177,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113367576284284779676\">Dorje Ling Retreat Centre</a>"
-            ],
-            "photo_reference": "ATtYBwISJwKk7uz4na2aW2h7tUkYT7CHLOZKeMlxByfwzNpy_1y7Xf3vCyuPDRorXW0CPO6CBrBU-7an_ga8rfusA-PGXkn1CIx4vJvUmIC_amiWnB3P60G3Gnw-K8hKTC19eWas5cr2b7apYyfcGmuB1IaR_2QI6mmD76b4QUFPJ0Ifus3M",
-            "width": 2048
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102453645596915488928\">Jodi Salmond</a>"
-            ],
-            "photo_reference": "ATtYBwJtDCri8mPpvxBAY4Vm0iGDGDfeI4XjAdpkZ1l9FA-6IaJJHhtBubV4tH---sRzMY04oPoyIYQ2yQVRub3HceoNPfH4Wg3v3jgz9ThMT5GTe3-4tZVaxtltuv3gcGRvaATJk-OxVqabNsRR6do6eypGSsHNJHfhCvQ7Kkzop5I6tNAH",
-            "width": 4032
-          },
-          {
-            "height": 460,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113367576284284779676\">Dorje Ling Retreat Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLklqs2tPlH19x7_9YYosMrjWejNA_TwPV2jUgv6zPfUPI-2HdTRhhoMSpppbtXadnSm6lh3u5SftpK2HWL-L7Fxow9FVpZ1a3GcNK3efHFE5M22dx3Gyipl8s8a3eR59e2m92zKW5tHUcgwTHF_6ZX4Kz1E0yZPyiVIrLy3aIU6kU3",
-            "width": 692
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102453645596915488928\">Jodi Salmond</a>"
-            ],
-            "photo_reference": "ATtYBwIoDK_bQvGBWhscMM59NwjUiYAAaXghL7K3HKdj54Hekdk9W9g9WWFj81x3Ap2WcuwkMDRqcqs7aeFCU74lVqZZZ-gsDiIelw-8Lir7pFFZIxgS9jxUE24kWpiD_GUtOmSLuUAndhMpX8boNLC3nSOhKGjzAERZXxDqkrvgJtW3-nl7",
-            "width": 4032
-          },
-          {
-            "height": 1600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113367576284284779676\">Dorje Ling Retreat Centre</a>"
-            ],
-            "photo_reference": "ATtYBwIBM-T2N0mgZ41vIse4sEHxGZmNeHm8oIDji4hrXVfCi0JAGT7UeMyy0xlFOTLOUOGdCoYSWuhehZp2d9OuSsKphL95Cy6FYSnUpRgbEzP4tKXQhtrkeQO6uVwkb1dzqNYS-40jGW4las2ce7Ii4ll1sjJbRgcxqHA3_SOUmL6uzPUO",
-            "width": 1200
-          },
-          {
-            "height": 861,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113367576284284779676\">Dorje Ling Retreat Centre</a>"
-            ],
-            "photo_reference": "ATtYBwLrS1RjOLT1NIh_aKX-YHoPzs9gPwgSd1iuyTU83myU8jWfCxhu0DMVAwcQz78PjWuRdX_3D7XKWJLbuC5uwO7Hd_BAun_zn8qus628j04uvCpoEf6Vc6UiXbRrFHTjKpvRuh9GltFSdVlYNo4T5_saTMt8ju9B_SQIzYI8R1nyb-OK",
-            "width": 1641
-          },
-          {
-            "height": 829,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113367576284284779676\">Dorje Ling Retreat Centre</a>"
-            ],
-            "photo_reference": "ATtYBwJK8LVZldVn7kaI2Igwm0P6J7b2apxpFD-8TEzNk66Or_j5vfY99dHS6xwFYItePHPIvDU9-5Ga5zXk9PY8slVbL_93Qfw6RwmikSv9OZzbUKMQSxUOh0FjNsfKMxCOE3FRBFeCdQ5wfcSyJFfHv9YFfjf7F9j0SbekNLBCg4LqsPZu",
-            "width": 1200
-          },
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113367576284284779676\">Dorje Ling Retreat Centre</a>"
-            ],
-            "photo_reference": "ATtYBwK6TyH_yT1l-lE7ZqynfH4xbJin6aJzTNOgvpFBQ77t3AXsDIrTcE4AdQZfx8Zu_qzVtK_0EdkQ0_0G56yRIQ_IqBuvo4fcFQdzU4YrdYIz8nKh_Ft9vYPBJpztQ98MIwXIcXX4eN7mKtPWApV94rCNP9AueWTEnh8ZlnTLsrZPqWrf",
-            "width": 801
-          }
-        ],
-        "place_id": "ChIJx6cGzXb3eqoRE2zx2stEEQ4",
-        "url": "https://maps.google.com/?cid=1013667033477377043",
-        "website": "http://www.tashicholing.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dorje Ling Retreat Centre",
+      "location": {
+        "lat": -41.552404,
+        "lng": 146.132827
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "1078 Lorinna Rd, Lorinna TAS 7306, Australia",
+      "phone": "+61 3 6363 5178",
+      "website": "http://www.tashicholing.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLWA5HhscuRxiPsx7ninMtCBrrZmV6PZjRW5Ce-9APwoyLTCGHyjPieKi5cassttBlTFRTkNaefls2CFZpavIidjL0NWa3-EPLfRaTZIX6I280o5V_D-N0S6kl5mkrcp_-VD7t70J0_TMyJMvNrStGEILgxWOYIuwEGargQPWCyCzoQ",
+        "ATtYBwKkqZS2TFx74xykDQewdaiw6gXNKkolDR_VaUMjQ0tkBZlL1dU9SIWgoC12WUV1mDvo8jjgBGRc6LV7kR_gTQx8u_pUqj5S4WuLfQCqbJ-h1km3zUoOMwwildfVmjztObeULVv8bb4zJhTI-TQExiRkA51pDicdVaD3VTDmJkSzen4s",
+        "ATtYBwISJwKk7uz4na2aW2h7tUkYT7CHLOZKeMlxByfwzNpy_1y7Xf3vCyuPDRorXW0CPO6CBrBU-7an_ga8rfusA-PGXkn1CIx4vJvUmIC_amiWnB3P60G3Gnw-K8hKTC19eWas5cr2b7apYyfcGmuB1IaR_2QI6mmD76b4QUFPJ0Ifus3M",
+        "ATtYBwJtDCri8mPpvxBAY4Vm0iGDGDfeI4XjAdpkZ1l9FA-6IaJJHhtBubV4tH---sRzMY04oPoyIYQ2yQVRub3HceoNPfH4Wg3v3jgz9ThMT5GTe3-4tZVaxtltuv3gcGRvaATJk-OxVqabNsRR6do6eypGSsHNJHfhCvQ7Kkzop5I6tNAH",
+        "ATtYBwLklqs2tPlH19x7_9YYosMrjWejNA_TwPV2jUgv6zPfUPI-2HdTRhhoMSpppbtXadnSm6lh3u5SftpK2HWL-L7Fxow9FVpZ1a3GcNK3efHFE5M22dx3Gyipl8s8a3eR59e2m92zKW5tHUcgwTHF_6ZX4Kz1E0yZPyiVIrLy3aIU6kU3",
+        "ATtYBwIoDK_bQvGBWhscMM59NwjUiYAAaXghL7K3HKdj54Hekdk9W9g9WWFj81x3Ap2WcuwkMDRqcqs7aeFCU74lVqZZZ-gsDiIelw-8Lir7pFFZIxgS9jxUE24kWpiD_GUtOmSLuUAndhMpX8boNLC3nSOhKGjzAERZXxDqkrvgJtW3-nl7",
+        "ATtYBwIBM-T2N0mgZ41vIse4sEHxGZmNeHm8oIDji4hrXVfCi0JAGT7UeMyy0xlFOTLOUOGdCoYSWuhehZp2d9OuSsKphL95Cy6FYSnUpRgbEzP4tKXQhtrkeQO6uVwkb1dzqNYS-40jGW4las2ce7Ii4ll1sjJbRgcxqHA3_SOUmL6uzPUO",
+        "ATtYBwLrS1RjOLT1NIh_aKX-YHoPzs9gPwgSd1iuyTU83myU8jWfCxhu0DMVAwcQz78PjWuRdX_3D7XKWJLbuC5uwO7Hd_BAun_zn8qus628j04uvCpoEf6Vc6UiXbRrFHTjKpvRuh9GltFSdVlYNo4T5_saTMt8ju9B_SQIzYI8R1nyb-OK",
+        "ATtYBwJK8LVZldVn7kaI2Igwm0P6J7b2apxpFD-8TEzNk66Or_j5vfY99dHS6xwFYItePHPIvDU9-5Ga5zXk9PY8slVbL_93Qfw6RwmikSv9OZzbUKMQSxUOh0FjNsfKMxCOE3FRBFeCdQ5wfcSyJFfHv9YFfjf7F9j0SbekNLBCg4LqsPZu",
+        "ATtYBwK6TyH_yT1l-lE7ZqynfH4xbJin6aJzTNOgvpFBQ77t3AXsDIrTcE4AdQZfx8Zu_qzVtK_0EdkQ0_0G56yRIQ_IqBuvo4fcFQdzU4YrdYIz8nKh_Ft9vYPBJpztQ98MIwXIcXX4eN7mKtPWApV94rCNP9AueWTEnh8ZlnTLsrZPqWrf"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJx6cGzXb3eqoRE2zx2stEEQ4",
+      "google_maps_url": "https://maps.google.com/?cid=1013667033477377043",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "13-15 Bryan St, Invermay TAS 7248, Australia",
-        "geometry": {
-          "location": {
-            "lat": -41.42075869999999,
-            "lng": 147.1371947
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -41.41932161970849,
-              "lng": 147.1384604302915
-            },
-            "southwest": {
-              "lat": -41.42201958029149,
-              "lng": 147.1357624697085
-            }
-          }
-        },
-        "international_phone_number": "+61 3 6334 9680",
-        "name": "Buddhist Centre - Tibetan Kagyu",
-        "place_id": "ChIJH36U7QWncKoROavxNKnCPbM",
-        "url": "https://maps.google.com/?cid=12915693338361965369",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddhist Centre - Tibetan Kagyu",
+      "location": {
+        "lat": -41.42075869999999,
+        "lng": 147.1371947
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "13-15 Bryan St, Invermay TAS 7248, Australia",
+      "phone": "+61 3 6334 9680",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJH36U7QWncKoROavxNKnCPbM",
+      "google_maps_url": "https://maps.google.com/?cid=12915693338361965369",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "13-15 Bryan St, Invermay TAS 7248, Australia",
-        "geometry": {
-          "location": {
-            "lat": -41.420767,
-            "lng": 147.1371791
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -41.4193299197085,
-              "lng": 147.1384448302915
-            },
-            "southwest": {
-              "lat": -41.4220278802915,
-              "lng": 147.1357468697085
-            }
-          }
-        },
-        "international_phone_number": "+61 3 6334 9680",
-        "name": "Palpung Australasia",
-        "place_id": "ChIJHX6U7QWncKoRQNjoW7Peu74",
-        "url": "https://maps.google.com/?cid=13743823549773699136",
-        "website": "http://palpung.org.au/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Palpung Australasia",
+      "location": {
+        "lat": -41.420767,
+        "lng": 147.1371791
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "13-15 Bryan St, Invermay TAS 7248, Australia",
+      "phone": "+61 3 6334 9680",
+      "website": "http://palpung.org.au/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJHX6U7QWncKoRQNjoW7Peu74",
+      "google_maps_url": "https://maps.google.com/?cid=13743823549773699136",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "14 Conrad Dr, Otago TAS 7017, Australia",
-        "geometry": {
-          "location": {
-            "lat": -42.807892,
-            "lng": 147.3001045
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -42.8064065197085,
-              "lng": 147.3012253802915
-            },
-            "southwest": {
-              "lat": -42.8091044802915,
-              "lng": 147.2985274197085
-            }
-          }
-        },
-        "international_phone_number": "+61 3 6272 6998",
-        "name": "สำนักสงฆ์แทสมาเนีย",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105405671870861038387\">William Harjanto</a>"
-            ],
-            "photo_reference": "ATtYBwLm0xNQIM73-F0zf-mMtPgMsbQrXpJmDvR9qG2An1-KZPKf82FhfovFM2uCsR3nMEN58Fk1D219GEaJEAD7Elu_mAOh5SCc5XtyQG9bGaS3o_OmCliMkKSTlpQ0gWGWThzcM4o9UKWRbJGuM5LN0WqmQ-y1dEl_ZZ-Afo2BShps1j-8",
-            "width": 4032
-          },
-          {
-            "height": 1920,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109201791328076933024\">QIHAN LIM</a>"
-            ],
-            "photo_reference": "ATtYBwLlwQQI9h5K8uyLbclvSRx-LJrQWYcOON1LweDhMh-5rUhWu0f0Idydh5gJUO6f01wvRb3gmo_YSvbfdwfd0nyBdXEa9uTDrn0W9FdWkLnfCfPL75jVi34awbH5q9fBwvhxmv3xjoXTM30zZfrKrO3T5-U2BSAK5-X-JubvgOCZNrI4",
-            "width": 1080
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105405671870861038387\">William Harjanto</a>"
-            ],
-            "photo_reference": "ATtYBwIz4Q9e1ROxhb9XTYyuaKKCdXaD-_Y69GQ343FAl2WHGLDpoDYdgeJZSLIO_EHCjGusl1up5phFD0g5cURjwypIjITKQPXgssias9CA_GHxu3-oqQLnoOhhObnu3Goc0kextG3ZgwtqL0NjNdXpsF6GtL0tXnhgvaQ_lYPSPapwNcAR",
-            "width": 4032
-          },
-          {
-            "height": 720,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105340376356081287679\">Patcharin Bunting</a>"
-            ],
-            "photo_reference": "ATtYBwL3VlSjUGP0_Du5l1Qj31nYbxiqCfKq1KhcwnsFUvEdUzGj51Ojvoho3wndO9ULbISF8fx-L-A0gAPMTCwi-e--8enV_1ai0NRUOfznbwrG3Sg0KT4neK8yrnBbybVCO1Hn_wXgjam67P42FWKj1mUpQVFtPpoXPMPEHSP12ibUpuog",
-            "width": 960
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105405671870861038387\">William Harjanto</a>"
-            ],
-            "photo_reference": "ATtYBwKGidHysncQC0UIMkNebFungIZnKUZf26uZq0Y8yjWouQteVjjNXwZlVomsRQ51xnnW2-q701h4-C40CIaugmNgFCmkaIY42_e69Qxb3jN5oTDosdFQgM9qEtqc5HAXJ0xB9Ak0DKR-dhHsTXOI0fIwD63ROEvH2i_jbZ2Rxy0oxOCM",
-            "width": 4032
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110813146682552762819\">อานนท์ ขันธวิทย์</a>"
-            ],
-            "photo_reference": "ATtYBwL4RrgNQN6TMzOrN5w1mfPoXNjQFjcAEDSyBjy5b_8ceUHpz8HthfDWJLJga-9LcaWz0HCHWcx6h5iTvPIQ1L8tdxQeOCheTxTMTBrAvFXJIrAK5iMBcZG2K_Fp_Hh4QCMnhweLSNHLMYPu_842QaoM89i1s8_NxCv8Uk1Ag4e-i3GG",
-            "width": 5312
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105405671870861038387\">William Harjanto</a>"
-            ],
-            "photo_reference": "ATtYBwJkXCJZAYtpGJJu8J7rU9Fe5_aSWspOflYGeIQRUSm6K4WulXkW9aUK8_57NmlxvB8CDUhMwqkkfJpu2JMWXfZxTLd9sh-0fUbg_Ex9m142vvCqlB5lOlAAkG_dE-ojIq7jlu5afnWKKFjjKQKXzlKRfH5hc26otOqqPPUudSMcpnvJ",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105405671870861038387\">William Harjanto</a>"
-            ],
-            "photo_reference": "ATtYBwJV-gGb1Xxay-1y9DrCTeR_5OS4oo86McqziAnFgf__CLzwqL5cKefeoUxYsJQ7KCH_S765GafNOiLXtZitCJGZ_OeHyVfYS4l8kfFIgxShyif7N7mwNrNkowtfawr5nEImYJcnL_SqflzdNdJZZzkkIbsynwTSqJOO8KMqv_5EcyFL",
-            "width": 4032
-          },
-          {
-            "height": 1920,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109201791328076933024\">QIHAN LIM</a>"
-            ],
-            "photo_reference": "ATtYBwKQK4QHqyfgbWd-n0P87C3kMWeYPHk9-wfP315X0jVTMN9JFyuqeiMxj-0oSbZUD-LKHUUJqodwO1DJuz7Po8_oEF66Jmpz0NKkkWCs0sWCKbqNZPNRKEfhoPX_XOCnSuR-KGs08iqJ5vwYng4VuScMsJnu_hMn-2ErqGRg6A5uYrZJ",
-            "width": 1080
-          },
-          {
-            "height": 1108,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/105340376356081287679\">Patcharin Bunting</a>"
-            ],
-            "photo_reference": "ATtYBwI4i9KYJNia4-pBGowSJbslwKTnxYGBqQVSnA4BfpxlxG84aPanVF_kHlBzJ5-XOlbj-U3rBEJA0475ZBuqJ3vJzmONISSD2V0sHlfjaovS-7R-UXhgxzwYfSGxjUDzP98aUmMIMsSunuLtFsL2upGZt8-v0jQhe8VJP7PbmkPWvEal",
-            "width": 1477
-          }
-        ],
-        "place_id": "ChIJAwTVF6AMbqoRZW9Uk1NR1Zk",
-        "url": "https://maps.google.com/?cid=11084855477238263653",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "สำนักสงฆ์แทสมาเนีย",
+      "location": {
+        "lat": -42.807892,
+        "lng": 147.3001045
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "14 Conrad Dr, Otago TAS 7017, Australia",
+      "phone": "+61 3 6272 6998",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLm0xNQIM73-F0zf-mMtPgMsbQrXpJmDvR9qG2An1-KZPKf82FhfovFM2uCsR3nMEN58Fk1D219GEaJEAD7Elu_mAOh5SCc5XtyQG9bGaS3o_OmCliMkKSTlpQ0gWGWThzcM4o9UKWRbJGuM5LN0WqmQ-y1dEl_ZZ-Afo2BShps1j-8",
+        "ATtYBwLlwQQI9h5K8uyLbclvSRx-LJrQWYcOON1LweDhMh-5rUhWu0f0Idydh5gJUO6f01wvRb3gmo_YSvbfdwfd0nyBdXEa9uTDrn0W9FdWkLnfCfPL75jVi34awbH5q9fBwvhxmv3xjoXTM30zZfrKrO3T5-U2BSAK5-X-JubvgOCZNrI4",
+        "ATtYBwIz4Q9e1ROxhb9XTYyuaKKCdXaD-_Y69GQ343FAl2WHGLDpoDYdgeJZSLIO_EHCjGusl1up5phFD0g5cURjwypIjITKQPXgssias9CA_GHxu3-oqQLnoOhhObnu3Goc0kextG3ZgwtqL0NjNdXpsF6GtL0tXnhgvaQ_lYPSPapwNcAR",
+        "ATtYBwL3VlSjUGP0_Du5l1Qj31nYbxiqCfKq1KhcwnsFUvEdUzGj51Ojvoho3wndO9ULbISF8fx-L-A0gAPMTCwi-e--8enV_1ai0NRUOfznbwrG3Sg0KT4neK8yrnBbybVCO1Hn_wXgjam67P42FWKj1mUpQVFtPpoXPMPEHSP12ibUpuog",
+        "ATtYBwKGidHysncQC0UIMkNebFungIZnKUZf26uZq0Y8yjWouQteVjjNXwZlVomsRQ51xnnW2-q701h4-C40CIaugmNgFCmkaIY42_e69Qxb3jN5oTDosdFQgM9qEtqc5HAXJ0xB9Ak0DKR-dhHsTXOI0fIwD63ROEvH2i_jbZ2Rxy0oxOCM",
+        "ATtYBwL4RrgNQN6TMzOrN5w1mfPoXNjQFjcAEDSyBjy5b_8ceUHpz8HthfDWJLJga-9LcaWz0HCHWcx6h5iTvPIQ1L8tdxQeOCheTxTMTBrAvFXJIrAK5iMBcZG2K_Fp_Hh4QCMnhweLSNHLMYPu_842QaoM89i1s8_NxCv8Uk1Ag4e-i3GG",
+        "ATtYBwJkXCJZAYtpGJJu8J7rU9Fe5_aSWspOflYGeIQRUSm6K4WulXkW9aUK8_57NmlxvB8CDUhMwqkkfJpu2JMWXfZxTLd9sh-0fUbg_Ex9m142vvCqlB5lOlAAkG_dE-ojIq7jlu5afnWKKFjjKQKXzlKRfH5hc26otOqqPPUudSMcpnvJ",
+        "ATtYBwJV-gGb1Xxay-1y9DrCTeR_5OS4oo86McqziAnFgf__CLzwqL5cKefeoUxYsJQ7KCH_S765GafNOiLXtZitCJGZ_OeHyVfYS4l8kfFIgxShyif7N7mwNrNkowtfawr5nEImYJcnL_SqflzdNdJZZzkkIbsynwTSqJOO8KMqv_5EcyFL",
+        "ATtYBwKQK4QHqyfgbWd-n0P87C3kMWeYPHk9-wfP315X0jVTMN9JFyuqeiMxj-0oSbZUD-LKHUUJqodwO1DJuz7Po8_oEF66Jmpz0NKkkWCs0sWCKbqNZPNRKEfhoPX_XOCnSuR-KGs08iqJ5vwYng4VuScMsJnu_hMn-2ErqGRg6A5uYrZJ",
+        "ATtYBwI4i9KYJNia4-pBGowSJbslwKTnxYGBqQVSnA4BfpxlxG84aPanVF_kHlBzJ5-XOlbj-U3rBEJA0475ZBuqJ3vJzmONISSD2V0sHlfjaovS-7R-UXhgxzwYfSGxjUDzP98aUmMIMsSunuLtFsL2upGZt8-v0jQhe8VJP7PbmkPWvEal"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJAwTVF6AMbqoRZW9Uk1NR1Zk",
+      "google_maps_url": "https://maps.google.com/?cid=11084855477238263653",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "73 Liverpool St, Hobart TAS 7000, Australia",
-        "geometry": {
-          "location": {
-            "lat": -42.8806994,
-            "lng": 147.3275697
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -42.8793954697085,
-              "lng": 147.3289947302915
-            },
-            "southwest": {
-              "lat": -42.8820934302915,
-              "lng": 147.3262967697085
-            }
-          }
-        },
-        "international_phone_number": "+61 432 630 796",
-        "name": "Hobart Buddhist Meditation Centre",
-        "place_id": "ChIJ9ZhVTZt1bqoRV982OtO95mY",
-        "url": "https://maps.google.com/?cid=7414822551424524119",
-        "website": "http://www.hobartbuddhistmeditationcentre.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Hobart Buddhist Meditation Centre",
+      "location": {
+        "lat": -42.8806994,
+        "lng": 147.3275697
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "73 Liverpool St, Hobart TAS 7000, Australia",
+      "phone": "+61 432 630 796",
+      "website": "http://www.hobartbuddhistmeditationcentre.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9ZhVTZt1bqoRV982OtO95mY",
+      "google_maps_url": "https://maps.google.com/?cid=7414822551424524119",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "71 Darling Rd, Malvern East VIC 3145, Australia",
-        "geometry": {
-          "location": {
-            "lat": -37.87788949999999,
-            "lng": 145.0588773
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -37.87655841970851,
-              "lng": 145.0603785802915
-            },
-            "southwest": {
-              "lat": -37.87925638029151,
-              "lng": 145.0576806197085
-            }
-          }
-        },
-        "international_phone_number": "+61 3 9571 6409",
-        "name": "Buddhist Society of Victoria Inc.",
-        "photos": [
-          {
-            "height": 2048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101860077864024072400\">Buddhist Society of Victoria Inc.</a>"
-            ],
-            "photo_reference": "ATtYBwKrYtEApXBWyHw1GlcOAnoTddkfMoTjDQlIQwEDGAg_xRU4KdExBPqF1XJbby6C35Ie20vgJUlbfGoWCY9UKW7UZfBFPKnxRIFdkL4r8k-KytuE8YZV0DOiVf15r_0Sx3bB4vgxH7wUaNulLYD2o2NKZmalcZBsEziuEXkZEfmrF1tH",
-            "width": 1152
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101860077864024072400\">Buddhist Society of Victoria Inc.</a>"
-            ],
-            "photo_reference": "ATtYBwK7h7GU9Z0I0EXOuasMIwv_ij8IaluIK20JByo6gGy_nz76dFI0fJWoakhDmFVoahR3PzSCkAJMNe5F5hPD88Xc8Ba_zqgpmz0rfaw_7H4mgaRnRG06eBDWWUXCYcRxn8ZjcVW0kqIfsrNkSBO9iV3-q5NLLJMylTN9T_Zs5ffGe8MG",
-            "width": 2048
-          },
-          {
-            "height": 2240,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117153435930329170179\">Rasika Edirisinghe</a>"
-            ],
-            "photo_reference": "ATtYBwKY2hyyxRjuhfJuPkYCZPDmNbSfkn1Gl6B1n8CW2i9suO6zkj6rDqQ86y7vnAsStyTwMU0oRvzVaKe2AE0WCe8XgfykJ8bYPpmUyU6wx6wI_yhqfgpKVWTQEuhbr6LZ2SBjJM9ZNZBv0PAbWAn-HbZZKxLTRzMXrnJF0vjLNVtiJBA",
-            "width": 4608
-          },
-          {
-            "height": 4608,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117153435930329170179\">Rasika Edirisinghe</a>"
-            ],
-            "photo_reference": "ATtYBwIauQypMLOKHntQRHKw19dghTaHq0ceLiQJdgNieCoF0I5hIEhopM5-vM3qisgQl2s8snBO2jwrcNvkrn1lgXsjBzgA-joXQERmK5sOf11AaRUXGryuJuGoEYArUAc2XTdbVNlzY4rvx_gS9aHtwIU4I_PDdz8dPHIoq4pBv9u04is",
-            "width": 2240
-          },
-          {
-            "height": 2240,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117153435930329170179\">Rasika Edirisinghe</a>"
-            ],
-            "photo_reference": "ATtYBwK1gWP99Usw0z6r6tM0TEVsUtH2eX-E2OO-fJABAeUm8IshYi_SxgZcNDno5BTYITseKHwvX7S2dPEuPhQIR8F9bqfmuShIPIntwcua2EOCoLy02TjsLugFhr_xatDE5aOR2452r6YDcoxTDJAjEhnTJBqahymyWrEUkEF7OdrCRgY",
-            "width": 4608
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111937910311723438252\">Gayani Lokubalasooriyage</a>"
-            ],
-            "photo_reference": "ATtYBwJCas2oIhEyZ5dQI93cTSc3c-lwculf9gxe0cUG4iet6jB7pK1Wro9n8UAFCE5KsstEla8gB6yrLw7_oW5sS1UO9Rm8AZ8aKePdfCJXR4_CodmOaCqau2g6Cj9DF3wWNNAM2_SHLLVuvp-WlsI6ogEsgi7wMCYmVWqr0a41js9nbo8e",
-            "width": 3024
-          }
-        ],
-        "place_id": "ChIJL1Yp9Rlq1moRWukEB_uZAQE",
-        "url": "https://maps.google.com/?cid=72508372448242010",
-        "website": "http://www.bsv.net.au/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddhist Society of Victoria Inc.",
+      "location": {
+        "lat": -37.87788949999999,
+        "lng": 145.0588773
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "71 Darling Rd, Malvern East VIC 3145, Australia",
+      "phone": "+61 3 9571 6409",
+      "website": "http://www.bsv.net.au/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKrYtEApXBWyHw1GlcOAnoTddkfMoTjDQlIQwEDGAg_xRU4KdExBPqF1XJbby6C35Ie20vgJUlbfGoWCY9UKW7UZfBFPKnxRIFdkL4r8k-KytuE8YZV0DOiVf15r_0Sx3bB4vgxH7wUaNulLYD2o2NKZmalcZBsEziuEXkZEfmrF1tH",
+        "ATtYBwK7h7GU9Z0I0EXOuasMIwv_ij8IaluIK20JByo6gGy_nz76dFI0fJWoakhDmFVoahR3PzSCkAJMNe5F5hPD88Xc8Ba_zqgpmz0rfaw_7H4mgaRnRG06eBDWWUXCYcRxn8ZjcVW0kqIfsrNkSBO9iV3-q5NLLJMylTN9T_Zs5ffGe8MG",
+        "ATtYBwKY2hyyxRjuhfJuPkYCZPDmNbSfkn1Gl6B1n8CW2i9suO6zkj6rDqQ86y7vnAsStyTwMU0oRvzVaKe2AE0WCe8XgfykJ8bYPpmUyU6wx6wI_yhqfgpKVWTQEuhbr6LZ2SBjJM9ZNZBv0PAbWAn-HbZZKxLTRzMXrnJF0vjLNVtiJBA",
+        "ATtYBwIauQypMLOKHntQRHKw19dghTaHq0ceLiQJdgNieCoF0I5hIEhopM5-vM3qisgQl2s8snBO2jwrcNvkrn1lgXsjBzgA-joXQERmK5sOf11AaRUXGryuJuGoEYArUAc2XTdbVNlzY4rvx_gS9aHtwIU4I_PDdz8dPHIoq4pBv9u04is",
+        "ATtYBwK1gWP99Usw0z6r6tM0TEVsUtH2eX-E2OO-fJABAeUm8IshYi_SxgZcNDno5BTYITseKHwvX7S2dPEuPhQIR8F9bqfmuShIPIntwcua2EOCoLy02TjsLugFhr_xatDE5aOR2452r6YDcoxTDJAjEhnTJBqahymyWrEUkEF7OdrCRgY",
+        "ATtYBwJCas2oIhEyZ5dQI93cTSc3c-lwculf9gxe0cUG4iet6jB7pK1Wro9n8UAFCE5KsstEla8gB6yrLw7_oW5sS1UO9Rm8AZ8aKePdfCJXR4_CodmOaCqau2g6Cj9DF3wWNNAM2_SHLLVuvp-WlsI6ogEsgi7wMCYmVWqr0a41js9nbo8e"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJL1Yp9Rlq1moRWukEB_uZAQE",
+      "google_maps_url": "https://maps.google.com/?cid=72508372448242010",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3 Rotherfield St, Islington, London N1 3EE, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.5383718,
-            "lng": -0.08979410000000002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.5397601302915,
-              "lng": -0.08837351970849798
-            },
-            "southwest": {
-              "lat": 51.53706216970851,
-              "lng": -0.09107148029150204
-            }
-          }
-        },
-        "international_phone_number": "+44 20 7359 5964",
-        "name": "Palyul Centre",
-        "place_id": "ChIJRbuuHZ8cdkgREpEUMLQADbE",
-        "url": "https://maps.google.com/?cid=12757854093311250706",
-        "website": "http://palyul.eu/uk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Palyul Centre",
+      "location": {
+        "lat": 51.5383718,
+        "lng": -0.08979410000000002
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "3 Rotherfield St, Islington, London N1 3EE, UK",
+      "phone": "+44 20 7359 5964",
+      "website": "http://palyul.eu/uk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": null,
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJRbuuHZ8cdkgREpEUMLQADbE",
+      "google_maps_url": "https://maps.google.com/?cid=12757854093311250706",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "49 Dulverton Rd, South Croydon CR2 8PJ, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.34472220000001,
-            "lng": -0.0583333
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.34602093029151,
-              "lng": -0.05692466970849797
-            },
-            "southwest": {
-              "lat": 51.34332296970851,
-              "lng": -0.05962263029150203
-            }
-          }
-        },
-        "international_phone_number": "+44 20 8657 7120",
-        "name": "Thames Meditation Society",
-        "photos": [
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117794496925819654214\">abhisheka gamage</a>"
-            ],
-            "photo_reference": "ATtYBwJObzYGj3lsVaIGxMUK1bQJZsNf31FD56k3CH53UfYjo8VRmnb7HHl533b8rtMwTIL6j6KOyjR8X__1vAVUha-SrY6tOT-fIP04KXQRhG7mvFA7fa5ISxTj1H67zUmoT3t7B0783DhbCTjRdKaWvAJipkoCHrCK14yQ5cVQXNyFXG_8",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102540028074192278716\">nalin abeywardana</a>"
-            ],
-            "photo_reference": "ATtYBwLc44JeVgIzRMiG-uhIoaSpnmWK2o-QY1pT6hT3YK2JZT5OV4LKyOticNKDf43uRHJgsAMA2WaFhjkdE08kRePS_sVUcw9oLvXYfnwly1LsFH40zGYa6PS3zvzr4j-NS069r-g7XcBt-3XjzO-I_ACITKFku592jtiYMPJVaFLPjJw",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102540028074192278716\">nalin abeywardana</a>"
-            ],
-            "photo_reference": "ATtYBwKQKLbGAYy_nhrRpkdLbgxzo4ioGQFjVgVVWobnVXrKwGXUJjzOK3h5lwrqdkZGzp3734f1wrsQPZhrJjlbQ1NXptIs0yvt0OM3V5p_pF8XEDwRuCzOykxt8dfKPO3nOEkMe1aMm9Y_IUNgtcQrPlVoY2sbu7_BbrF7ji7EEz5cKdI",
-            "width": 4032
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110881898084602075580\">Thushara Senavirathna</a>"
-            ],
-            "photo_reference": "ATtYBwIXyQ6wXaCK-UJNymqU6jVCI1LqRE1N_5sRv_ruwVPZogoZw7myqOCswKR5a1Ad15HrTSAwTEAHx2aljysqgtuO4JoMFg7zfTkieAPOne7CMpSVWSyn9d6gQMFAvZkTSM0x0CIyTu8mUq4-lxSQLgAf9VGobT9orULnbigSaFzOnPWz",
-            "width": 3024
-          },
-          {
-            "height": 3984,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116423349846665810886\">DJ Harsha Perera</a>"
-            ],
-            "photo_reference": "ATtYBwJyjs4hvAZAzy1Ed87OR07LtwK73w36eRbqn6Bn3oLsuMrjgU9d07uVDcDeiqUfcJkVtBmn7leypitOCuWSh5Qk2VDx0Dfl2zlFHWhEN2isQjExFTX5OWI003_V1O9p0THiZc9riQ6SFHo-rUer8qJF-5JIQHPQTSnxMnaPr4uDxAGi",
-            "width": 2988
-          },
-          {
-            "height": 2268,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/117794496925819654214\">abhisheka gamage</a>"
-            ],
-            "photo_reference": "ATtYBwJFYeU13QCPoWmnBL33hrHGFaX9f1N4wtlpCO07e9gCtM64LJR9vgBUUprjrSsSHUz5YtoHYKRwNdzIE8HGm9lXYyzfJpOKXswkvUMzZzF9B5VuOzoVezY5ktV12Lj_kisLP43Pz2KRDtu6YXkextge309eQjpLIbkvVgntWN4fJ9vi",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/110881898084602075580\">Thushara Senavirathna</a>"
-            ],
-            "photo_reference": "ATtYBwI_oQxVhjTZYmLu88OFtjNvb51lNnKgHUAyb9mafsQRAlBJWErKA8zIoSW9cxqXQQyXVw4NKd5vKwz7T6L3aSqtcj73goitdCMkp3ks7k76UmcktnF7_qpkCDZVQdHmQvSO6HxlZqlKKKkUYtL9RFwkD-7MryuvQHiLOsnucrDwB_3A",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/102540028074192278716\">nalin abeywardana</a>"
-            ],
-            "photo_reference": "ATtYBwKoqrv2tmV0AWkS3UgN4VFDLofaTfZYbaWq1afGnKjBq3NmiqGlaXZcV3aQw1MjCyVg3x_83Y_STJS6ffk3rGynCvm7mlLxV4txWCkkUl1cntIqfCtTbW31S0jQTJjXgR9JjJkaT9sldfMLY25n_UWjl-tbAwutpmvbOpQNFbUdeE0",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJA-et1Cf-dUgR0-unl6_bGy0",
-        "url": "https://maps.google.com/?cid=3250433103288069075",
-        "website": "https://thamesbuddhistvihara.org/programs-activities/thames-meditation-society",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Thames Meditation Society",
+      "location": {
+        "lat": 51.34472220000001,
+        "lng": -0.0583333
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "49 Dulverton Rd, South Croydon CR2 8PJ, UK",
+      "phone": "+44 20 8657 7120",
+      "website": "https://thamesbuddhistvihara.org/programs-activities/thames-meditation-society",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJObzYGj3lsVaIGxMUK1bQJZsNf31FD56k3CH53UfYjo8VRmnb7HHl533b8rtMwTIL6j6KOyjR8X__1vAVUha-SrY6tOT-fIP04KXQRhG7mvFA7fa5ISxTj1H67zUmoT3t7B0783DhbCTjRdKaWvAJipkoCHrCK14yQ5cVQXNyFXG_8",
+        "ATtYBwLc44JeVgIzRMiG-uhIoaSpnmWK2o-QY1pT6hT3YK2JZT5OV4LKyOticNKDf43uRHJgsAMA2WaFhjkdE08kRePS_sVUcw9oLvXYfnwly1LsFH40zGYa6PS3zvzr4j-NS069r-g7XcBt-3XjzO-I_ACITKFku592jtiYMPJVaFLPjJw",
+        "ATtYBwKQKLbGAYy_nhrRpkdLbgxzo4ioGQFjVgVVWobnVXrKwGXUJjzOK3h5lwrqdkZGzp3734f1wrsQPZhrJjlbQ1NXptIs0yvt0OM3V5p_pF8XEDwRuCzOykxt8dfKPO3nOEkMe1aMm9Y_IUNgtcQrPlVoY2sbu7_BbrF7ji7EEz5cKdI",
+        "ATtYBwIXyQ6wXaCK-UJNymqU6jVCI1LqRE1N_5sRv_ruwVPZogoZw7myqOCswKR5a1Ad15HrTSAwTEAHx2aljysqgtuO4JoMFg7zfTkieAPOne7CMpSVWSyn9d6gQMFAvZkTSM0x0CIyTu8mUq4-lxSQLgAf9VGobT9orULnbigSaFzOnPWz",
+        "ATtYBwJyjs4hvAZAzy1Ed87OR07LtwK73w36eRbqn6Bn3oLsuMrjgU9d07uVDcDeiqUfcJkVtBmn7leypitOCuWSh5Qk2VDx0Dfl2zlFHWhEN2isQjExFTX5OWI003_V1O9p0THiZc9riQ6SFHo-rUer8qJF-5JIQHPQTSnxMnaPr4uDxAGi",
+        "ATtYBwJFYeU13QCPoWmnBL33hrHGFaX9f1N4wtlpCO07e9gCtM64LJR9vgBUUprjrSsSHUz5YtoHYKRwNdzIE8HGm9lXYyzfJpOKXswkvUMzZzF9B5VuOzoVezY5ktV12Lj_kisLP43Pz2KRDtu6YXkextge309eQjpLIbkvVgntWN4fJ9vi",
+        "ATtYBwI_oQxVhjTZYmLu88OFtjNvb51lNnKgHUAyb9mafsQRAlBJWErKA8zIoSW9cxqXQQyXVw4NKd5vKwz7T6L3aSqtcj73goitdCMkp3ks7k76UmcktnF7_qpkCDZVQdHmQvSO6HxlZqlKKKkUYtL9RFwkD-7MryuvQHiLOsnucrDwB_3A",
+        "ATtYBwKoqrv2tmV0AWkS3UgN4VFDLofaTfZYbaWq1afGnKjBq3NmiqGlaXZcV3aQw1MjCyVg3x_83Y_STJS6ffk3rGynCvm7mlLxV4txWCkkUl1cntIqfCtTbW31S0jQTJjXgR9JjJkaT9sldfMLY25n_UWjl-tbAwutpmvbOpQNFbUdeE0"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA-et1Cf-dUgR0-unl6_bGy0",
+      "google_maps_url": "https://maps.google.com/?cid=3250433103288069075",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Effra Space, 21 Effra Parade, Herne Hill, London SW2 1PX, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.4563803,
-            "lng": -0.1102182
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.4576842802915,
-              "lng": -0.108981119708498
-            },
-            "southwest": {
-              "lat": 51.4549863197085,
-              "lng": -0.111679080291502
-            }
-          }
-        },
-        "name": "Brixton Buddhist Community",
-        "photos": [
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118217459877245973367\">Brixton Buddhist Community</a>"
-            ],
-            "photo_reference": "ATtYBwILOoz8zszzSSoQnV29rpy00r6YQbWmXtW22Kln2iO1YqkCJA9a6w76226R688F8TK2Y7iUE950r-wV8u-PfczQnzYWYZG-rS_YPeKgl41Oen4cbFRWoysPrU6pK-NyT-RISsM1EW5MxD2lyjAAp1HvTIv3bd2-3nKZ8aQXW53KJl5J",
-            "width": 1600
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118217459877245973367\">Brixton Buddhist Community</a>"
-            ],
-            "photo_reference": "ATtYBwL4NU2tohvRuspHSuNZVl5RhRrW36xc1M6a-RubUyYvk41pc68wd27kkN_4T0gWjU9MaMTYRykblSM2MhnMzCDvsKcyogeLrNbehruW4hn0Hs4g0WgeoE6bF8znwMvGPWZjA1Mo2yWZtAL0JmQvKGTbDb37d1XJNTuH8McVvk62xGRV",
-            "width": 4032
-          },
-          {
-            "height": 4048,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118217459877245973367\">Brixton Buddhist Community</a>"
-            ],
-            "photo_reference": "ATtYBwKZNMFEp_A_0SP5aVbczz4c-FP2PqjP943LTJVNTi5L9JYO0fGNPwI4_kwCwa2LwQlayulYn--GLJl54739EZXotJU7Q8XQ08Xd4kHjRqv3eskPoZQ6KvE-8wriyaLZ2fOtv8HZglyHXXffxsQY2B8yZxkfSdAFdUuNvjdwTMWHJGBZ",
-            "width": 3036
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118217459877245973367\">Brixton Buddhist Community</a>"
-            ],
-            "photo_reference": "ATtYBwK750sVeFOICYg_okqru9oJ2sQ1pHgknnvIap4IpGkKA6_5VpTn6paxntR89ocHx3mWpA8iS8GgDGVX8i9lhh0g3jf_z-6-YrRvLo7qBmF0o3uRf55Y_7JeMnAJdydRP-EbVK1QKIPSQ6tDhH4953AYLHQBXQTQT8KestpNpeN9Q0k4",
-            "width": 4032
-          },
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118217459877245973367\">Brixton Buddhist Community</a>"
-            ],
-            "photo_reference": "ATtYBwL2Xe6IB9v0zHYirbH3Pjey8oC2EXgqX7zc4h-IRqJaCsZF-kgPgUORgOPNqlyiqPz3fYDmnW0VUCeAs88DuRFBwqu6fF9_-Bg7eag_lCINKu4W2MAmzYHID2l8pLKZU_XcocjZ4dOLA_ppN7bLvf6-1bzWE6FsC-_D0d-9nn8g_UqC",
-            "width": 1600
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118217459877245973367\">Brixton Buddhist Community</a>"
-            ],
-            "photo_reference": "ATtYBwKdhDxGcUUloF0KLJ6dnMyUeFsniegN996WH9qnyTqfaAwjnIt203UilAr8cw4cM9NCgeJYEUd-vCCcCtPVEu2xcTP5KzMmUXsCWvhJmly5Cyd2QwCOuDdPiyz1CVKZ-RUCHvLB_RzEachkp0mkICa0ROVOmW3HyopG_v9SWfa8gqzs",
-            "width": 4032
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118217459877245973367\">Brixton Buddhist Community</a>"
-            ],
-            "photo_reference": "ATtYBwLy4XT7pjzdjWoknCFpdNwZolYwdJlsQwZiAwrb1hzpFqvHiVprPKm_1Lyj8Cl0ul3NmohV10oTl73s0-HtrPN0wOUR9QAoKETuI7oCKAzYy3q8NFg58Hrnf8CRYz8CWG3iCdFrIdwFUH1VRI8kX4uIlY7vcv_8qMW8typiBlEAPC6a",
-            "width": 3024
-          },
-          {
-            "height": 1200,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118217459877245973367\">Brixton Buddhist Community</a>"
-            ],
-            "photo_reference": "ATtYBwKdtl9oMx-VjF2qdx08dmf1Qm2kaj-6nBBA39d6S1nPaB2KCq_8nR13XfOq7BGZc_r2l7arUeQicYgH4qw00_KwQHzt-ANthyS4f-v5bu7WVVl5r851VgrrVOcThw1e9JhbAsF2ZcTKDW2kUr5Ol6ai7BlAcsrR2FIHc4mPG9URIjkT",
-            "width": 1600
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118217459877245973367\">Brixton Buddhist Community</a>"
-            ],
-            "photo_reference": "ATtYBwJA6H5KgUahmelz9XF9oBhGI5nHHUBZ4RrVYcgc3hFtCAOOyTEyrg6fLC3sZLph_U6vvtrX1I5U2hnLOIGfUUpJz3EVqFJZYSJTJQQI1AV9WhxWqaqz5EgpmZO-1PhiIU6Q4BFVT91y4Lhtr_qv43qU1WW2VYi6-lnbH5oldou7NO99",
-            "width": 4032
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/118217459877245973367\">Brixton Buddhist Community</a>"
-            ],
-            "photo_reference": "ATtYBwJmEE50OHBqLsVgSYDkGjvRg7Cvc09bfoxLoHbA7_w2JjCFtl3kg1bDEYu_vI7M2SNCdt3Y9PKP9sx4Rl3Q5zJbOQIwUJYcogykEM3dBqdU5BhPmIApuHoUFX5S_qbjqkxlWtI2I3VZP6bl2a7uUtAx7uXEHrM8s_6akOTYmQtE3_sS",
-            "width": 4032
-          }
-        ],
-        "place_id": "ChIJq6qOCmwEdkgRugZMFT4H7vA",
-        "url": "https://maps.google.com/?cid=17360821576786511546",
-        "website": "http://www.brixtonbuddhistmeditation.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Brixton Buddhist Community",
+      "location": {
+        "lat": 51.4563803,
+        "lng": -0.1102182
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Effra Space, 21 Effra Parade, Herne Hill, London SW2 1PX, UK",
+      "website": "http://www.brixtonbuddhistmeditation.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwILOoz8zszzSSoQnV29rpy00r6YQbWmXtW22Kln2iO1YqkCJA9a6w76226R688F8TK2Y7iUE950r-wV8u-PfczQnzYWYZG-rS_YPeKgl41Oen4cbFRWoysPrU6pK-NyT-RISsM1EW5MxD2lyjAAp1HvTIv3bd2-3nKZ8aQXW53KJl5J",
+        "ATtYBwL4NU2tohvRuspHSuNZVl5RhRrW36xc1M6a-RubUyYvk41pc68wd27kkN_4T0gWjU9MaMTYRykblSM2MhnMzCDvsKcyogeLrNbehruW4hn0Hs4g0WgeoE6bF8znwMvGPWZjA1Mo2yWZtAL0JmQvKGTbDb37d1XJNTuH8McVvk62xGRV",
+        "ATtYBwKZNMFEp_A_0SP5aVbczz4c-FP2PqjP943LTJVNTi5L9JYO0fGNPwI4_kwCwa2LwQlayulYn--GLJl54739EZXotJU7Q8XQ08Xd4kHjRqv3eskPoZQ6KvE-8wriyaLZ2fOtv8HZglyHXXffxsQY2B8yZxkfSdAFdUuNvjdwTMWHJGBZ",
+        "ATtYBwK750sVeFOICYg_okqru9oJ2sQ1pHgknnvIap4IpGkKA6_5VpTn6paxntR89ocHx3mWpA8iS8GgDGVX8i9lhh0g3jf_z-6-YrRvLo7qBmF0o3uRf55Y_7JeMnAJdydRP-EbVK1QKIPSQ6tDhH4953AYLHQBXQTQT8KestpNpeN9Q0k4",
+        "ATtYBwL2Xe6IB9v0zHYirbH3Pjey8oC2EXgqX7zc4h-IRqJaCsZF-kgPgUORgOPNqlyiqPz3fYDmnW0VUCeAs88DuRFBwqu6fF9_-Bg7eag_lCINKu4W2MAmzYHID2l8pLKZU_XcocjZ4dOLA_ppN7bLvf6-1bzWE6FsC-_D0d-9nn8g_UqC",
+        "ATtYBwKdhDxGcUUloF0KLJ6dnMyUeFsniegN996WH9qnyTqfaAwjnIt203UilAr8cw4cM9NCgeJYEUd-vCCcCtPVEu2xcTP5KzMmUXsCWvhJmly5Cyd2QwCOuDdPiyz1CVKZ-RUCHvLB_RzEachkp0mkICa0ROVOmW3HyopG_v9SWfa8gqzs",
+        "ATtYBwLy4XT7pjzdjWoknCFpdNwZolYwdJlsQwZiAwrb1hzpFqvHiVprPKm_1Lyj8Cl0ul3NmohV10oTl73s0-HtrPN0wOUR9QAoKETuI7oCKAzYy3q8NFg58Hrnf8CRYz8CWG3iCdFrIdwFUH1VRI8kX4uIlY7vcv_8qMW8typiBlEAPC6a",
+        "ATtYBwKdtl9oMx-VjF2qdx08dmf1Qm2kaj-6nBBA39d6S1nPaB2KCq_8nR13XfOq7BGZc_r2l7arUeQicYgH4qw00_KwQHzt-ANthyS4f-v5bu7WVVl5r851VgrrVOcThw1e9JhbAsF2ZcTKDW2kUr5Ol6ai7BlAcsrR2FIHc4mPG9URIjkT",
+        "ATtYBwJA6H5KgUahmelz9XF9oBhGI5nHHUBZ4RrVYcgc3hFtCAOOyTEyrg6fLC3sZLph_U6vvtrX1I5U2hnLOIGfUUpJz3EVqFJZYSJTJQQI1AV9WhxWqaqz5EgpmZO-1PhiIU6Q4BFVT91y4Lhtr_qv43qU1WW2VYi6-lnbH5oldou7NO99",
+        "ATtYBwJmEE50OHBqLsVgSYDkGjvRg7Cvc09bfoxLoHbA7_w2JjCFtl3kg1bDEYu_vI7M2SNCdt3Y9PKP9sx4Rl3Q5zJbOQIwUJYcogykEM3dBqdU5BhPmIApuHoUFX5S_qbjqkxlWtI2I3VZP6bl2a7uUtAx7uXEHrM8s_6akOTYmQtE3_sS"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJq6qOCmwEdkgRugZMFT4H7vA",
+      "google_maps_url": "https://maps.google.com/?cid=17360821576786511546",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "51 Roman Rd, Bethnal Green, London E2 0HU, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.5280363,
-            "lng": -0.05130149999999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.5293967302915,
-              "lng": -0.04981811970849796
-            },
-            "southwest": {
-              "lat": 51.5266987697085,
-              "lng": -0.05251608029150203
-            }
-          }
-        },
-        "international_phone_number": "+44 20 8981 1225",
-        "name": "London Buddhist Centre",
-        "photos": [
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113934198856747065754\">Claire Harrigan</a>"
-            ],
-            "photo_reference": "ATtYBwJkX7_EoIJfRKlwd4Lftd0ye7GEx7vRirdzsO4zbFVf3o9boQguuCYMLr_IhK_Xe6TG2rtDMPKe4yQOE7m_ikdOAJHtGeQCoc-N9rbsm7chAe7JKwkYYBqTtnTRFLVDYnVOUqx061FhFXqG3U_rDcLF__GZVT7u9Hkvclcu1em8WkXP",
-            "width": 4032
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100080312944684674556\">Epifania Amoo-Adare</a>"
-            ],
-            "photo_reference": "ATtYBwIRFykTlu22J4IQ8_t06vdyqEc-rpfNF9BBQ671rag2ptagDleWckN6J4jToLPhnaaHXM97DgzQhjYiaXF6lBUdfUvL_1OBA5-xHI359ESfgpWwcRP5eeR6QV-haMINpBZElF43dZjej3uvH5ILaRYYcoomb9MFfHTurY1pN2z7KoJB",
-            "width": 1080
-          },
-          {
-            "height": 2976,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/107775077350705579464\">Cristina Pérez García</a>"
-            ],
-            "photo_reference": "ATtYBwLKj7iG1lbUWfCDL2DZdFmhhz1XgNXt_q-kmOKwMFhV7kn_AjLMhq4PEP6sArylQ_TT4F5TMhNfIiAnY9n6ELi0Cl_Jn3YTeg35QCwItyR3Hc2ppAZ8LVjvPJrqGNx4IP2nfaok-rHMrKgzag6uuqNKoCN1Tobnsd50Y6yz0LcNMh9r",
-            "width": 3968
-          },
-          {
-            "height": 2988,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108653953363424680479\">zwesoe lwin</a>"
-            ],
-            "photo_reference": "ATtYBwKldD353qg4oB4ctUNaXMyvCrboCA2ye61ImIqBjkauuwjy_jN16jCim0HPiJ3nS36aNRQHiEN6K9fUT_1AKDeT1kmnlpI0BUYfAkPftvlV0AX886vNZCVjPdDtVaWBAV6oPufPijMd-hd_72K7s9mWFFHZ2_IUC3oFM-CMqAGd3zcr",
-            "width": 5312
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100080312944684674556\">Epifania Amoo-Adare</a>"
-            ],
-            "photo_reference": "ATtYBwL6uOtXZZpcIatxHEpNTXurzkwn8atbTYV00PHSssYpvgFBOOOprinBNcY7vzPz2lL66xr-qTQwOwHQgnWpn_D2y-NbrnzLhHgHl3AzRKnmUNcYj5ug5uwQTIVpMylG7C4tcf891meNNEesgTy5VFbFVpWe_Cz-p8_RJ7pPTQvj5yo4",
-            "width": 1080
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/116779408399830694189\">VML The Warriors Team</a>"
-            ],
-            "photo_reference": "ATtYBwJ4eoxg_pANF7uUB5GzC7XU3Ln3m7uTKw9MVorBIbfmjWklsdBUOuiN_r9AVICn-yd0a3habs8S51hK-g2qyTH3RauBPTb5BbyA57IjTcrRWJh9AXLuHnZg0QHAVqn8ALb6GwAQTzr0WTEuXPb5qrJz-gpdNxUzxzZ1fkyyL4p_mCEo",
-            "width": 1080
-          },
-          {
-            "height": 1600,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100119145473518766592\">Glenn Kitsune</a>"
-            ],
-            "photo_reference": "ATtYBwJhmwej2I7wrsX5wLwPGGqq4i40MeaWzPMnGxOvgCFnL2oLBN1he0Gz24qoc3-k7pdF4gG-T52g-JVbkRl9th0p-alSGwN2mh9lMG89Po3zwnTVRxmHO4OlxvRq51aFSdRfxdoZLFfbcIeUgZ1FJtk7HOnh5VfE-wagecmJh_KiLHYb",
-            "width": 898
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100080312944684674556\">Epifania Amoo-Adare</a>"
-            ],
-            "photo_reference": "ATtYBwIxiBaPwPk7En2_mTsv4sfKSRFa0cR-BSUxD2mjdN-P-Mux5Hu22JCyd-PH08Xhs4WXB73fJTzA1cmZkhrA_3SEshZ_jQOmf8nB4vSH9Mee0Pd-KkeH4sTDgwJn85Sn6KCbrlH_FCmNYdy7m8rJZvrxq7zFrptCO8mpoT5f8eyTnD7i",
-            "width": 1080
-          },
-          {
-            "height": 1456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113038373480176125709\">Alf B</a>"
-            ],
-            "photo_reference": "ATtYBwLJMArL-VeUs7Bo4-w3HAl07OIJ5ahEXmu5WB72I4RPkA53vm3hXVFvBGfgfPRXw03heV2b76Md3OGdXjSHIdJVZQF84VYQ4bIsW67ZNXHng1j9O3pEbRKqW0MAealXmDcVojdikyWXyTDxYTkhRGFIsENLvMqbEz-4p5sMddLeDl8H",
-            "width": 2592
-          },
-          {
-            "height": 1080,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/100080312944684674556\">Epifania Amoo-Adare</a>"
-            ],
-            "photo_reference": "ATtYBwL5OMhDqlkKUDuGlmOOLDPNW0RPA5GLV3TT-aJ7ubxu1quZMQ0_FpT7fLFzaEnOEKB_eGpwIJmO3KAeuvJRxsTrrGgHn-d3KUc8cvCLZ_goe88ZxUyiwqLM7y25rjouUQImmGGArJ40pQshb-xKfRJvg7uw48luxl2IuHH4zTv0N9Op",
-            "width": 1080
-          }
-        ],
-        "place_id": "ChIJJzmWg9kcdkgRZ_93CDvyD1Y",
-        "url": "https://maps.google.com/?cid=6201441547271536487",
-        "website": "http://www.londonbuddhistcentreonline.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "London Buddhist Centre",
+      "location": {
+        "lat": 51.5280363,
+        "lng": -0.05130149999999999
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "51 Roman Rd, Bethnal Green, London E2 0HU, UK",
+      "phone": "+44 20 8981 1225",
+      "website": "http://www.londonbuddhistcentreonline.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwJkX7_EoIJfRKlwd4Lftd0ye7GEx7vRirdzsO4zbFVf3o9boQguuCYMLr_IhK_Xe6TG2rtDMPKe4yQOE7m_ikdOAJHtGeQCoc-N9rbsm7chAe7JKwkYYBqTtnTRFLVDYnVOUqx061FhFXqG3U_rDcLF__GZVT7u9Hkvclcu1em8WkXP",
+        "ATtYBwIRFykTlu22J4IQ8_t06vdyqEc-rpfNF9BBQ671rag2ptagDleWckN6J4jToLPhnaaHXM97DgzQhjYiaXF6lBUdfUvL_1OBA5-xHI359ESfgpWwcRP5eeR6QV-haMINpBZElF43dZjej3uvH5ILaRYYcoomb9MFfHTurY1pN2z7KoJB",
+        "ATtYBwLKj7iG1lbUWfCDL2DZdFmhhz1XgNXt_q-kmOKwMFhV7kn_AjLMhq4PEP6sArylQ_TT4F5TMhNfIiAnY9n6ELi0Cl_Jn3YTeg35QCwItyR3Hc2ppAZ8LVjvPJrqGNx4IP2nfaok-rHMrKgzag6uuqNKoCN1Tobnsd50Y6yz0LcNMh9r",
+        "ATtYBwKldD353qg4oB4ctUNaXMyvCrboCA2ye61ImIqBjkauuwjy_jN16jCim0HPiJ3nS36aNRQHiEN6K9fUT_1AKDeT1kmnlpI0BUYfAkPftvlV0AX886vNZCVjPdDtVaWBAV6oPufPijMd-hd_72K7s9mWFFHZ2_IUC3oFM-CMqAGd3zcr",
+        "ATtYBwL6uOtXZZpcIatxHEpNTXurzkwn8atbTYV00PHSssYpvgFBOOOprinBNcY7vzPz2lL66xr-qTQwOwHQgnWpn_D2y-NbrnzLhHgHl3AzRKnmUNcYj5ug5uwQTIVpMylG7C4tcf891meNNEesgTy5VFbFVpWe_Cz-p8_RJ7pPTQvj5yo4",
+        "ATtYBwJ4eoxg_pANF7uUB5GzC7XU3Ln3m7uTKw9MVorBIbfmjWklsdBUOuiN_r9AVICn-yd0a3habs8S51hK-g2qyTH3RauBPTb5BbyA57IjTcrRWJh9AXLuHnZg0QHAVqn8ALb6GwAQTzr0WTEuXPb5qrJz-gpdNxUzxzZ1fkyyL4p_mCEo",
+        "ATtYBwJhmwej2I7wrsX5wLwPGGqq4i40MeaWzPMnGxOvgCFnL2oLBN1he0Gz24qoc3-k7pdF4gG-T52g-JVbkRl9th0p-alSGwN2mh9lMG89Po3zwnTVRxmHO4OlxvRq51aFSdRfxdoZLFfbcIeUgZ1FJtk7HOnh5VfE-wagecmJh_KiLHYb",
+        "ATtYBwIxiBaPwPk7En2_mTsv4sfKSRFa0cR-BSUxD2mjdN-P-Mux5Hu22JCyd-PH08Xhs4WXB73fJTzA1cmZkhrA_3SEshZ_jQOmf8nB4vSH9Mee0Pd-KkeH4sTDgwJn85Sn6KCbrlH_FCmNYdy7m8rJZvrxq7zFrptCO8mpoT5f8eyTnD7i",
+        "ATtYBwLJMArL-VeUs7Bo4-w3HAl07OIJ5ahEXmu5WB72I4RPkA53vm3hXVFvBGfgfPRXw03heV2b76Md3OGdXjSHIdJVZQF84VYQ4bIsW67ZNXHng1j9O3pEbRKqW0MAealXmDcVojdikyWXyTDxYTkhRGFIsENLvMqbEz-4p5sMddLeDl8H",
+        "ATtYBwL5OMhDqlkKUDuGlmOOLDPNW0RPA5GLV3TT-aJ7ubxu1quZMQ0_FpT7fLFzaEnOEKB_eGpwIJmO3KAeuvJRxsTrrGgHn-d3KUc8cvCLZ_goe88ZxUyiwqLM7y25rjouUQImmGGArJ40pQshb-xKfRJvg7uw48luxl2IuHH4zTv0N9Op"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJJzmWg9kcdkgRZ_93CDvyD1Y",
+      "google_maps_url": "https://maps.google.com/?cid=6201441547271536487",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dhamma Land, 223 Windsor Ave, Hillingdon, Uxbridge UB10 9BD, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.5431337,
-            "lng": -0.447872
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.5445525802915,
-              "lng": -0.4465840197084979
-            },
-            "southwest": {
-              "lat": 51.5418546197085,
-              "lng": -0.449281980291502
-            }
-          }
-        },
-        "international_phone_number": "+44 1895 590190",
-        "name": "Mahamevnawa Buddhist Meditation Centre London",
-        "photos": [
-          {
-            "height": 1440,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/111504526676387836755\">Rashitha Gardi Hewage</a>"
-            ],
-            "photo_reference": "ATtYBwKyOaM4aLBv_PNzgixYaVC-0lSZY-FOWUH0YZ944v6VT_vXP-2FHkMCE78NCpbCW2nPA3QWx8jDjA3J628nKLFNYgdWEka4qQdxaFPRVnFJnFb11Vu_BeBa9ZPgZGYkqSoKZFkFXkRbpWnDf5iatcm1a0rllHuBH11nLPpyAjQFA8GP",
-            "width": 2560
-          },
-          {
-            "height": 1536,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/103365208266991089184\">Mahamevnawa North Of England</a>"
-            ],
-            "photo_reference": "ATtYBwLDLKb6fNDhQs-z8Z_DCeKW6cBnEmFP889pOhEg4h_09fICzlL5r8S7ZyGKOds4RyK9NH9N_CwKqWbs8b6Q2tl9zbdaZ2K5GrXF9-Rw_6szRP9_sQRJX9uKuYU0S5zuDK5OI9kfZ8xSl9wd1KHP6sNHf_7RJhWqobS0Mi8vAshh096C",
-            "width": 2048
-          },
-          {
-            "height": 5056,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/114529770550370494009\">Padeepa Gunawardena</a>"
-            ],
-            "photo_reference": "ATtYBwJeSA5fspAWgyLPgvmrUH3WRPKpetgIkXW8a8oXhazg50b0P1AkTEYJuBEIVLl9q25YRPJGc60QrzfqDHxFMFd1Tw1oxWvOvAw3j1BETwImL_U1hXqRPeMbQUrDPZ1Njyfm7jFYChoAX6ojl-CPkvrZC9YXUl5h3yyyx33q4mDhWi0",
-            "width": 3792
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112882896196029984933\">Anne Mahara</a>"
-            ],
-            "photo_reference": "ATtYBwJCa2XnJARDIoJmTB1gcv_nHUFjQYavTRlXJnhTN33WLj7c0QeTWYfRnn_-W3CutRsps7xUC48SjzgH6Ah0Qkj1e9zwTrWPl_aUWd1tKnRt1hHfeK2mOR4Om869sZ_zvYVWNHuH1BH36kh4rUvCuNwPN__4nIcP5rmcZZS3xG__wmH6",
-            "width": 4032
-          },
-          {
-            "height": 1944,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112882896196029984933\">Anne Mahara</a>"
-            ],
-            "photo_reference": "ATtYBwLkxSNkpwn40y5QrSwLV2_7rzJsmJaEfQNuZ8A3myPQVacfmb2hEnKzsNODVBssqs7Vnaggh5-I8MoFT2cTN6wG5xJ9bR13Us9g_OQWmI614mgSHGiYeOCygtVYfwiiAmTZepPIB6KgO1986Z43VCDd-S03MYraUewAaEPKM-lwHRl0",
-            "width": 2592
-          }
-        ],
-        "place_id": "ChIJ3zs9frhtdkgROKU1WdhNiyQ",
-        "url": "https://maps.google.com/?cid=2633283998733149496",
-        "website": "http://www.mahamevnawauxbridge.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mahamevnawa Buddhist Meditation Centre London",
+      "location": {
+        "lat": 51.5431337,
+        "lng": -0.447872
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Dhamma Land, 223 Windsor Ave, Hillingdon, Uxbridge UB10 9BD, UK",
+      "phone": "+44 1895 590190",
+      "website": "http://www.mahamevnawauxbridge.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwKyOaM4aLBv_PNzgixYaVC-0lSZY-FOWUH0YZ944v6VT_vXP-2FHkMCE78NCpbCW2nPA3QWx8jDjA3J628nKLFNYgdWEka4qQdxaFPRVnFJnFb11Vu_BeBa9ZPgZGYkqSoKZFkFXkRbpWnDf5iatcm1a0rllHuBH11nLPpyAjQFA8GP",
+        "ATtYBwLDLKb6fNDhQs-z8Z_DCeKW6cBnEmFP889pOhEg4h_09fICzlL5r8S7ZyGKOds4RyK9NH9N_CwKqWbs8b6Q2tl9zbdaZ2K5GrXF9-Rw_6szRP9_sQRJX9uKuYU0S5zuDK5OI9kfZ8xSl9wd1KHP6sNHf_7RJhWqobS0Mi8vAshh096C",
+        "ATtYBwJeSA5fspAWgyLPgvmrUH3WRPKpetgIkXW8a8oXhazg50b0P1AkTEYJuBEIVLl9q25YRPJGc60QrzfqDHxFMFd1Tw1oxWvOvAw3j1BETwImL_U1hXqRPeMbQUrDPZ1Njyfm7jFYChoAX6ojl-CPkvrZC9YXUl5h3yyyx33q4mDhWi0",
+        "ATtYBwJCa2XnJARDIoJmTB1gcv_nHUFjQYavTRlXJnhTN33WLj7c0QeTWYfRnn_-W3CutRsps7xUC48SjzgH6Ah0Qkj1e9zwTrWPl_aUWd1tKnRt1hHfeK2mOR4Om869sZ_zvYVWNHuH1BH36kh4rUvCuNwPN__4nIcP5rmcZZS3xG__wmH6",
+        "ATtYBwLkxSNkpwn40y5QrSwLV2_7rzJsmJaEfQNuZ8A3myPQVacfmb2hEnKzsNODVBssqs7Vnaggh5-I8MoFT2cTN6wG5xJ9bR13Us9g_OQWmI614mgSHGiYeOCygtVYfwiiAmTZepPIB6KgO1986Z43VCDd-S03MYraUewAaEPKM-lwHRl0"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ3zs9frhtdkgROKU1WdhNiyQ",
+      "google_maps_url": "https://maps.google.com/?cid=2633283998733149496",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "25 Sandhurst Town Rd, Myers Flat VIC 3556, Australia",
-        "geometry": {
-          "location": {
-            "lat": -36.722133,
-            "lng": 144.183816
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -36.7212622197085,
-              "lng": 144.1857192802915
-            },
-            "southwest": {
-              "lat": -36.7239601802915,
-              "lng": 144.1830213197085
-            }
-          }
-        },
-        "international_phone_number": "+61 3 5446 3691",
-        "name": "Thubten Shedrup Ling",
-        "photos": [
-          {
-            "height": 3904,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108662503286836509764\">Mega Tranquil Light</a>"
-            ],
-            "photo_reference": "ATtYBwLZe8wOxJr1UHcHfE3RkhhczQgRFMiKbMPiT6bxf1INK6t2bWWxs_TY2V4xpTMUrpebrd8xd-ZOp_stZPv_Yc_u0_yTEvlloDmPsneAjDS1z8FdRy5E-aRQYut2Dsc75sias_SYP0ZqWakwYYcQPv6URVhPZLuPUeQv4D5dqqZRNDVG",
-            "width": 5984
-          },
-          {
-            "height": 3024,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108662503286836509764\">Mega Tranquil Light</a>"
-            ],
-            "photo_reference": "ATtYBwJ1s9OdVce9mkCe0qnDP2TOECY0jQHO1Wd6Q4ZBp5oB-0ON9A7ujkk7ahL5Q66pFZGjDpkyJtG88hLQcgbr0x_wIvkW4APs7QLmsgXzvOUW_9O0d_tte99pky59mdAVwPgFFoCqmrRSPKD5fCLDcg5yp7VS2WqCmPDg7ctwjpu35RvO",
-            "width": 3024
-          },
-          {
-            "height": 4032,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108662503286836509764\">Mega Tranquil Light</a>"
-            ],
-            "photo_reference": "ATtYBwL44PR60VcYWhwG4CuswDDdptHpWyCLiA_3AKS6c0p6wrPAaff4jtDmz9QrT_7s3nVY84jrTtV8QzHMP65OeWGTPkUL4tH4CCnzDWpzIuvqnTrCGbv8iCFFYU-w_jUh-9z3cCsMfBtm6sWHjU8kz5vCRaKqySx7dag3o21NMUEnyOPM",
-            "width": 3024
-          },
-          {
-            "height": 3492,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101688749897105080767\">Sanjaka Silva</a>"
-            ],
-            "photo_reference": "ATtYBwIWCnqejjAwPcIr8tQ0yf8bFRnB9CwMKXuYGcKc-zFpZBZKZ8NFeMFgP22e1cqLPgBT-DowLt93jq_dfVldeGN6imJpce_rK3nq5yvD3conQAZdPgtXJRzsZWd0f9zJ58l33aFizUURzQ-E5M8D3hVsWO17NI8qM4Whi5UoF6Aehnqh",
-            "width": 4656
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101688749897105080767\">Sanjaka Silva</a>"
-            ],
-            "photo_reference": "ATtYBwLJD6gAEpjJLtFT-Oc8F3v5WupuJ-8-DmerM0PXBf0N2AmUATJBiDET92p2szc_EA7TU9YOwLmkxguoOhdqVhsx-_-QEUfopVF0cQTOyzlo_h5nVnK0Q9lXJ4D5pLAIju4wyROSyvauWehS4VgSoYIExjxx-bZiPIcb0-2uqGbbWbty",
-            "width": 3264
-          },
-          {
-            "height": 2448,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101688749897105080767\">Sanjaka Silva</a>"
-            ],
-            "photo_reference": "ATtYBwK_sdUg5fz9Pj8PtQbDkhhG9AJK-5xaxnhhRxXEG5jG6jXOueH2tyqTWIyulI4VtDDCHG4qKfrT937K1UO50OoRpmecDGCjgrIvKFPyGjHfjujA_OOBhr5ZbDr7irgu5w93bZKZp_cs9rkVIVystABvNxm8L0QNrtbCq9IyXWM2pjPd",
-            "width": 3264
-          },
-          {
-            "height": 3492,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101688749897105080767\">Sanjaka Silva</a>"
-            ],
-            "photo_reference": "ATtYBwKAH84QpmkAD3ados6BOtNFBZ8jvTAoom4W4U72OhH2Syt3uAxLQFKyv5NWZbvALoN3IojA2JbTV_GfWBoVwXVXbFpvzLGqs-PW1ka1uoDuzTAjHOOSIz61CPn_fT_Zu6r2jfdrSOl0M7ysrvfEAoXfJCFdLm43WFunko05ECk4nXOq",
-            "width": 4656
-          },
-          {
-            "height": 3974,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/108662503286836509764\">Mega Tranquil Light</a>"
-            ],
-            "photo_reference": "ATtYBwKc9Pe75BssE1fGCcLteqa4mS8tWdLZkYUw-ZqHV4lRL-bu3qjGhJ1v9S6negRWZ0nt9FNPi4Si1dojJ23EPB6fTf-urXzsCyyOKOuNObIayi934mPGtw03cnAgg5fAD-j7844DOfHcyer459BMyI2cp2IXFXfcK8nGOrOnn6oLCxKB",
-            "width": 5110
-          },
-          {
-            "height": 3492,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101688749897105080767\">Sanjaka Silva</a>"
-            ],
-            "photo_reference": "ATtYBwJAJFohSJpEEkWoKBIzk2lhqkdBWDbcvYo_zdsls90s00GXtk0HYIh6vn5Q9fp2ks5cvCErCC-AGNhyc6soa-Uyo7pCbp3iwLUaufbrZ4H_0xNCWEl3qJhynRYeisjUmfDC8AXye_TPLwC6zAkI4o7nDbvu81ypPpc0b2VDyKPjKmBE",
-            "width": 4656
-          },
-          {
-            "height": 3036,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109389128767122836199\">Lobsang Dorje</a>"
-            ],
-            "photo_reference": "ATtYBwLCZBAmFpFTuVWWCNXiHgDjI8oX-ApQUyGpArj79afGsi9dbLxD28oBNhpaMChE4cXCUeinDEOSF9ZO1Ub8TSpwwjBVLt6f_l-r_GGPG3hpjNyc81w-4afw1Bkgl5d-3-o7JMBfjAPQ8sk4we_a6uohqMx-YoT2Xqa-vdDUJROYF_03",
-            "width": 4048
-          }
-        ],
-        "place_id": "ChIJpwNjJ71W12oRKwY0_QQrwpI",
-        "url": "https://maps.google.com/?cid=10575062175447254571",
-        "website": "http://www.tslmonastery.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Thubten Shedrup Ling",
+      "location": {
+        "lat": -36.722133,
+        "lng": 144.183816
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "25 Sandhurst Town Rd, Myers Flat VIC 3556, Australia",
+      "phone": "+61 3 5446 3691",
+      "website": "http://www.tslmonastery.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwLZe8wOxJr1UHcHfE3RkhhczQgRFMiKbMPiT6bxf1INK6t2bWWxs_TY2V4xpTMUrpebrd8xd-ZOp_stZPv_Yc_u0_yTEvlloDmPsneAjDS1z8FdRy5E-aRQYut2Dsc75sias_SYP0ZqWakwYYcQPv6URVhPZLuPUeQv4D5dqqZRNDVG",
+        "ATtYBwJ1s9OdVce9mkCe0qnDP2TOECY0jQHO1Wd6Q4ZBp5oB-0ON9A7ujkk7ahL5Q66pFZGjDpkyJtG88hLQcgbr0x_wIvkW4APs7QLmsgXzvOUW_9O0d_tte99pky59mdAVwPgFFoCqmrRSPKD5fCLDcg5yp7VS2WqCmPDg7ctwjpu35RvO",
+        "ATtYBwL44PR60VcYWhwG4CuswDDdptHpWyCLiA_3AKS6c0p6wrPAaff4jtDmz9QrT_7s3nVY84jrTtV8QzHMP65OeWGTPkUL4tH4CCnzDWpzIuvqnTrCGbv8iCFFYU-w_jUh-9z3cCsMfBtm6sWHjU8kz5vCRaKqySx7dag3o21NMUEnyOPM",
+        "ATtYBwIWCnqejjAwPcIr8tQ0yf8bFRnB9CwMKXuYGcKc-zFpZBZKZ8NFeMFgP22e1cqLPgBT-DowLt93jq_dfVldeGN6imJpce_rK3nq5yvD3conQAZdPgtXJRzsZWd0f9zJ58l33aFizUURzQ-E5M8D3hVsWO17NI8qM4Whi5UoF6Aehnqh",
+        "ATtYBwLJD6gAEpjJLtFT-Oc8F3v5WupuJ-8-DmerM0PXBf0N2AmUATJBiDET92p2szc_EA7TU9YOwLmkxguoOhdqVhsx-_-QEUfopVF0cQTOyzlo_h5nVnK0Q9lXJ4D5pLAIju4wyROSyvauWehS4VgSoYIExjxx-bZiPIcb0-2uqGbbWbty",
+        "ATtYBwK_sdUg5fz9Pj8PtQbDkhhG9AJK-5xaxnhhRxXEG5jG6jXOueH2tyqTWIyulI4VtDDCHG4qKfrT937K1UO50OoRpmecDGCjgrIvKFPyGjHfjujA_OOBhr5ZbDr7irgu5w93bZKZp_cs9rkVIVystABvNxm8L0QNrtbCq9IyXWM2pjPd",
+        "ATtYBwKAH84QpmkAD3ados6BOtNFBZ8jvTAoom4W4U72OhH2Syt3uAxLQFKyv5NWZbvALoN3IojA2JbTV_GfWBoVwXVXbFpvzLGqs-PW1ka1uoDuzTAjHOOSIz61CPn_fT_Zu6r2jfdrSOl0M7ysrvfEAoXfJCFdLm43WFunko05ECk4nXOq",
+        "ATtYBwKc9Pe75BssE1fGCcLteqa4mS8tWdLZkYUw-ZqHV4lRL-bu3qjGhJ1v9S6negRWZ0nt9FNPi4Si1dojJ23EPB6fTf-urXzsCyyOKOuNObIayi934mPGtw03cnAgg5fAD-j7844DOfHcyer459BMyI2cp2IXFXfcK8nGOrOnn6oLCxKB",
+        "ATtYBwJAJFohSJpEEkWoKBIzk2lhqkdBWDbcvYo_zdsls90s00GXtk0HYIh6vn5Q9fp2ks5cvCErCC-AGNhyc6soa-Uyo7pCbp3iwLUaufbrZ4H_0xNCWEl3qJhynRYeisjUmfDC8AXye_TPLwC6zAkI4o7nDbvu81ypPpc0b2VDyKPjKmBE",
+        "ATtYBwLCZBAmFpFTuVWWCNXiHgDjI8oX-ApQUyGpArj79afGsi9dbLxD28oBNhpaMChE4cXCUeinDEOSF9ZO1Ub8TSpwwjBVLt6f_l-r_GGPG3hpjNyc81w-4afw1Bkgl5d-3-o7JMBfjAPQ8sk4we_a6uohqMx-YoT2Xqa-vdDUJROYF_03"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJpwNjJ71W12oRKwY0_QQrwpI",
+      "google_maps_url": "https://maps.google.com/?cid=10575062175447254571",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "20 Cookes Rd, Yuroke VIC 3063, Australia",
-        "geometry": {
-          "location": {
-            "lat": -37.5970625,
-            "lng": 144.8786079
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -37.59579846970851,
-              "lng": 144.8799398302915
-            },
-            "southwest": {
-              "lat": -37.5984964302915,
-              "lng": 144.8772418697085
-            }
-          }
-        },
-        "international_phone_number": "+61 3 9333 1770",
-        "name": "Tibetan Buddhist Society",
-        "photos": [
-          {
-            "height": 1355,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101293453887720357055\">Neil Peacock</a>"
-            ],
-            "photo_reference": "ATtYBwL_mjlvYPo3TPNJZuIT6w2zJG9xV9VqUs-nQecjUzqu2EVq31s7ud7PgnTsoNrmhdoA55b62CCMwas10rpJo3gY2CIDRh9IXUEYL2xrnQMRI72C_KN89YQluBclokxX0F0AFCXB5ccD5CjA-Wr3l2rwKg--YNhqx1huRrSD8nADRIiW",
-            "width": 2048
-          },
-          {
-            "height": 780,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101293453887720357055\">Neil Peacock</a>"
-            ],
-            "photo_reference": "ATtYBwIvZssHnv3N0uBCR9_aUuG6i2zFeeOgsnbz92nkn7yZYPCjCJCd-o22EtArDOWWFCOi2qSUc5EAchH_ARx1JyfQkwRVh51bK3MpFNDnYtX236jLFIQxTwGUHvMbgIUee23XoBcRiQfpY-yss6IeL1qqFud1mRNLWHSdPAWeUTZH5IVo",
-            "width": 1280
-          },
-          {
-            "height": 3120,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101462148063959320652\">Harshi Edirisinghe</a>"
-            ],
-            "photo_reference": "ATtYBwI4fCMijmUvIvDnOqSyYg8xjJVGfozdjZ8R8lYdGlZPcPyv1Yc5vptOZyGTZgc4yL4SrgcL1F77_y8hb7yWURV4I7nHwz9DPrsX5wlSMlr07r_nAT-H0Z8EzXsRO3-DXbgJPRsD025p53DxnW4EmJHzEqGWEj7N5IZ4fXP3KBlrlzmw",
-            "width": 4160
-          },
-          {
-            "height": 643,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/101293453887720357055\">Neil Peacock</a>"
-            ],
-            "photo_reference": "ATtYBwL3u2L_selxy9IaFc93mtrDMKTxNAdTIUdIDu0rdWSZBckUfiuQP64CdHqYzaL34GdVK7dEWFEGlaSj33fAcO08z6Kpo44Vv2uB8dv-JGTGU_lL-qHSDvme9E09VRXA-XMiQIAsWKctveyO3YL1GfXdBeXqCoZq47xA_7WmK0zNFb2P",
-            "width": 1000
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104577132008579689865\">Trevor Donoghue</a>"
-            ],
-            "photo_reference": "ATtYBwJqKdd29zcWzfYweQwxwa-MeiAWrPr7R1ekajwHWT9Pur-OjMyRq4CcepDDAuxnI4ZnBtrY_YxTMg-l_NU9HP-2onV9-VGTrWGmCge1eGK5Rmcjk3tydtRI_yAuBFr9S94u-WYBqJGOZawwVKfAR5HXIFACet9Bc8EiMdntsLIwJpTh",
-            "width": 4608
-          },
-          {
-            "height": 2592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104577132008579689865\">Trevor Donoghue</a>"
-            ],
-            "photo_reference": "ATtYBwI7Enj2EmScSCHFYeQwJYz3hDv51tqy3Mle5_lwMptN4IduujAYEY-Knq5kQX30awOLltpJMKvUxygoprjp_iMxHMP9r55ax_g8vEn5r3akNC2Qax5K2SEGzwhwlB0XDOmdzthDn8Ml2s1-1rGxL0hqHPEZDRh77HzaYKZHRTKPkBbp",
-            "width": 4608
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104577132008579689865\">Trevor Donoghue</a>"
-            ],
-            "photo_reference": "ATtYBwIkvq6TxAdM_DBSy4_jH1A40sfy6fq0YKazmsBEEWHwCXBURm13ZevFT9-RjZb2BcCExqoL5hHIAuJ_TFgbrj3WiKbn0yAo9tMpHPIEhdvkJiY_1dy2TBrjsn_NdsH1QHodBGzMxEO2KUyNMeNxb5SPnkHIbCQFQIlhNlnETtBYau0R",
-            "width": 4608
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104577132008579689865\">Trevor Donoghue</a>"
-            ],
-            "photo_reference": "ATtYBwIaBa2PXqeapDi1PHaTwagV7Qlv5yF6hVt9SDSsip5A7g_vV1wfGbRlqnaXHLt-znOb5PT4DkJ348cl48f4yneF31EJdzBmeQGZPfkIX6SLUMpYYyT3jk6TcD4trlIhKzRErSj1nJYIKr4EjindhoQfAIpa9BWIaeng4jLmwaXDQEuV",
-            "width": 4608
-          },
-          {
-            "height": 3456,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104577132008579689865\">Trevor Donoghue</a>"
-            ],
-            "photo_reference": "ATtYBwKL-mF28la-9HBcXgp-NPiKkMpAeUHU3xqZfA7lsy6pPhJefD9iHYo1tWbLmldX4DLNvibVBuqoIkybMOWSzZCksIeckXlkdJYELPQlE_r0rUDYTO4LwkWFk16PTJBesKOZ8Tcf-r7zIQzFa7fQrIReURYvcBfz2tBMa4gvNADKFux3",
-            "width": 4608
-          },
-          {
-            "height": 2592,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/104577132008579689865\">Trevor Donoghue</a>"
-            ],
-            "photo_reference": "ATtYBwLZNje5eOGswcSEJeeJicL8ADHJfZEJAaaEZIRzKYhhdXpoKuc8rlMmcCl6C4jP9yiZd1ewC7C1HnYwtTVqnl4MeBSoDimDqGcuigzUT3D0wIca0Tx1d_JZ6_e4ANMPZDH7UoD8T-oSvRUznvdnl65LGaYBmOFtAVr8ga6FTeeShwFw",
-            "width": 4608
-          }
-        ],
-        "place_id": "ChIJMxjFBjZR1moR_rpAHy2RJ5k",
-        "url": "https://maps.google.com/?cid=11035949034878581502",
-        "website": "http://tibetanbuddhistsociety.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Tibetan Buddhist Society",
+      "location": {
+        "lat": -37.5970625,
+        "lng": 144.8786079
       },
-      "meta": {
-        "category": "unckecked",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "20 Cookes Rd, Yuroke VIC 3063, Australia",
+      "phone": "+61 3 9333 1770",
+      "website": "http://tibetanbuddhistsociety.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "google_photo_refs": [
+        "ATtYBwL_mjlvYPo3TPNJZuIT6w2zJG9xV9VqUs-nQecjUzqu2EVq31s7ud7PgnTsoNrmhdoA55b62CCMwas10rpJo3gY2CIDRh9IXUEYL2xrnQMRI72C_KN89YQluBclokxX0F0AFCXB5ccD5CjA-Wr3l2rwKg--YNhqx1huRrSD8nADRIiW",
+        "ATtYBwIvZssHnv3N0uBCR9_aUuG6i2zFeeOgsnbz92nkn7yZYPCjCJCd-o22EtArDOWWFCOi2qSUc5EAchH_ARx1JyfQkwRVh51bK3MpFNDnYtX236jLFIQxTwGUHvMbgIUee23XoBcRiQfpY-yss6IeL1qqFud1mRNLWHSdPAWeUTZH5IVo",
+        "ATtYBwI4fCMijmUvIvDnOqSyYg8xjJVGfozdjZ8R8lYdGlZPcPyv1Yc5vptOZyGTZgc4yL4SrgcL1F77_y8hb7yWURV4I7nHwz9DPrsX5wlSMlr07r_nAT-H0Z8EzXsRO3-DXbgJPRsD025p53DxnW4EmJHzEqGWEj7N5IZ4fXP3KBlrlzmw",
+        "ATtYBwL3u2L_selxy9IaFc93mtrDMKTxNAdTIUdIDu0rdWSZBckUfiuQP64CdHqYzaL34GdVK7dEWFEGlaSj33fAcO08z6Kpo44Vv2uB8dv-JGTGU_lL-qHSDvme9E09VRXA-XMiQIAsWKctveyO3YL1GfXdBeXqCoZq47xA_7WmK0zNFb2P",
+        "ATtYBwJqKdd29zcWzfYweQwxwa-MeiAWrPr7R1ekajwHWT9Pur-OjMyRq4CcepDDAuxnI4ZnBtrY_YxTMg-l_NU9HP-2onV9-VGTrWGmCge1eGK5Rmcjk3tydtRI_yAuBFr9S94u-WYBqJGOZawwVKfAR5HXIFACet9Bc8EiMdntsLIwJpTh",
+        "ATtYBwI7Enj2EmScSCHFYeQwJYz3hDv51tqy3Mle5_lwMptN4IduujAYEY-Knq5kQX30awOLltpJMKvUxygoprjp_iMxHMP9r55ax_g8vEn5r3akNC2Qax5K2SEGzwhwlB0XDOmdzthDn8Ml2s1-1rGxL0hqHPEZDRh77HzaYKZHRTKPkBbp",
+        "ATtYBwIkvq6TxAdM_DBSy4_jH1A40sfy6fq0YKazmsBEEWHwCXBURm13ZevFT9-RjZb2BcCExqoL5hHIAuJ_TFgbrj3WiKbn0yAo9tMpHPIEhdvkJiY_1dy2TBrjsn_NdsH1QHodBGzMxEO2KUyNMeNxb5SPnkHIbCQFQIlhNlnETtBYau0R",
+        "ATtYBwIaBa2PXqeapDi1PHaTwagV7Qlv5yF6hVt9SDSsip5A7g_vV1wfGbRlqnaXHLt-znOb5PT4DkJ348cl48f4yneF31EJdzBmeQGZPfkIX6SLUMpYYyT3jk6TcD4trlIhKzRErSj1nJYIKr4EjindhoQfAIpa9BWIaeng4jLmwaXDQEuV",
+        "ATtYBwKL-mF28la-9HBcXgp-NPiKkMpAeUHU3xqZfA7lsy6pPhJefD9iHYo1tWbLmldX4DLNvibVBuqoIkybMOWSzZCksIeckXlkdJYELPQlE_r0rUDYTO4LwkWFk16PTJBesKOZ8Tcf-r7zIQzFa7fQrIReURYvcBfz2tBMa4gvNADKFux3",
+        "ATtYBwLZNje5eOGswcSEJeeJicL8ADHJfZEJAaaEZIRzKYhhdXpoKuc8rlMmcCl6C4jP9yiZd1ewC7C1HnYwtTVqnl4MeBSoDimDqGcuigzUT3D0wIca0Tx1d_JZ6_e4ANMPZDH7UoD8T-oSvRUznvdnl65LGaYBmOFtAVr8ga6FTeeShwFw"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJMxjFBjZR1moR_rpAHy2RJ5k",
+      "google_maps_url": "https://maps.google.com/?cid=11035949034878581502",
+      "category": "unckecked",
+      "last_updated": "2021-05-08T09:28:12.780Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }
