@@ -58,11 +58,11 @@ const SanghaMap = () => {
   const getAllPlaces = () => {
     let accumulated = []
 
-    const regex = /(true|tentative|verified, accepts lay residents)/i
+    const regex = /(vinaya-based|tentative)/i
 
     data.map(node => {
       node.places.forEach(place => {
-        if (!place.meta.verified.match(regex)) {
+        if (!place.meta.category.match(regex)) {
           return
         }
         accumulated.push(place)

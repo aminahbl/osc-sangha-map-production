@@ -88,6 +88,38 @@ Schema:
 ```
 
 
+```
+{   
+  "properties": {
+    "geometry": {
+        "location": {
+          longitude,
+          latitude
+        }
+      },
+      "formatted_address": "",
+      "international_phone_number": "",
+      "name": "",
+      "place_id": "",      // Google's
+      "url": "",           // to location on Google Maps
+      "website": "",
+      "description": "",
+      "tradition": ""
+      "monastics": [""],
+      "video": [""],
+      "audio": [""],
+      "images": [""]
+
+  },
+  "meta": {
+      "category": "false",
+      "last_updated": ""
+      "notes": ""
+  }
+}
+```
+
+
 #### Place Inclusion Criteria
 
 - The community follows [Vinaya](https://suttacentral.net/pitaka/vinaya) based ordination (see [intro to the Vinaya](https://suttacentral.net/vinaya)).
