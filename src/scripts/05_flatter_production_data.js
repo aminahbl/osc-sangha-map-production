@@ -27,12 +27,13 @@ function jsonReader(filePath, callBack) {
 
 const rootDir = "./src/"
 const productionSrcDir = "data/production/"
-const dataSrcFiles = fs.readdirSync(`${rootDir}${productionSrcDir}`)
+const srcPath = `${rootDir}${productionSrcDir}`
+const dataSrcFiles = fs.readdirSync(srcPath)
 const timestamp = new Date()
 
 dataSrcFiles.forEach(file => {
-  jsonReader(`${dataSrcFiles}${file}`, (error, data) => {
-    let newDataObj = { places = []}
+  jsonReader(`${srcPath}${file}`, (error, data) => {
+    let newDataObj = { places: []}
 
     if (error) {
       console.log("Error reading:", error)
@@ -52,8 +53,8 @@ dataSrcFiles.forEach(file => {
             video,
             audio,
             images,
-            meta: {category, notes = [""]}
-          }
+          },
+          meta: {category , notes = [""]}
         } = place
 
         let newPlaceObject = {
@@ -80,7 +81,7 @@ dataSrcFiles.forEach(file => {
 
 
       fs.writeFile(
-        `${dataSrcFiles}${file}`,
+        `${srcPath}${file}`,
         JSON.stringify(newDataObj, null, 2),
         error => {
           if (error) {
