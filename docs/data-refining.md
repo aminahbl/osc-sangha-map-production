@@ -63,59 +63,25 @@ Schema:
 
 ```
 {   
+  "name": "",
   "location": {
       longitude,
       latitude
     }
-  "formatted_address": "",
-  "international_phone_number": "",
-  "name": "",
-  "place_id": "",   // Google's
-  "url": "",        // to location on Google Maps
+  "address": "",
+  "phone": "",
   "website": "",
-  "description": [""],
   "tradition": ""
   "monastics": [""],
+  "description": [""],
+  "images": [""]
   "video": [""],
   "audio": [""],
-  "images": [""]
-  "meta": {
-      "category": "false",
-      "last_updated": ""
-      "notes": ""
-  }
-}
-```
-
-
-```
-{   
-  "properties": {
-    "geometry": {
-        "location": {
-          longitude,
-          latitude
-        }
-      },
-      "formatted_address": "",
-      "international_phone_number": "",
-      "name": "",
-      "place_id": "",      // Google's
-      "url": "",           // to location on Google Maps
-      "website": "",
-      "description": "",
-      "tradition": ""
-      "monastics": [""],
-      "video": [""],
-      "audio": [""],
-      "images": [""]
-
-  },
-  "meta": {
-      "category": "false",
-      "last_updated": ""
-      "notes": ""
-  }
+  "google_place_id": "",
+  "google_maps_url": "",
+  "category": "false",
+  "last_updated": ""
+  "notes": [""]
 }
 ```
 
