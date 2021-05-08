@@ -51,6 +51,7 @@ For more user friendly JSON editor interface:
 ### Working Data Schema
 
 Field types:
+
 ```
 ""  - String (text)
 0   - A number (not in a string) 
@@ -58,37 +59,34 @@ Field types:
 {}  - Object (a named list of things)
 ```
 
+Schema:
 
 ```
 {   
-  "properties": {
-    "geometry": {
-        "location": {
-          longitude,
-          latitude
-        }
-      },
-      "formatted_address": "",
-      "international_phone_number": "",
-      "name": "",
-      "place_id": "",      // Google's
-      "url": "",           // to location on Google Maps
-      "website": "",
-      "description": "",
-      "tradition": ""
-      "monastics": [""],
-      "video": [""],
-      "audio": [""],
-      "images": [""]
-
-  },
+  "location": {
+      longitude,
+      latitude
+    }
+  "formatted_address": "",
+  "international_phone_number": "",
+  "name": "",
+  "place_id": "",   // Google's
+  "url": "",        // to location on Google Maps
+  "website": "",
+  "description": [""],
+  "tradition": ""
+  "monastics": [""],
+  "video": [""],
+  "audio": [""],
+  "images": [""]
   "meta": {
-      "verified": "false",
+      "category": "false",
       "last_updated": ""
       "notes": ""
   }
 }
 ```
+
 
 #### Place Inclusion Criteria
 
@@ -97,17 +95,18 @@ Field types:
   - Aligned with the mission to promote a dana culture
   - TBC
 
-##### Verified property values:
+##### Categorization values:
 
-- `"true"`
-- `"tentative"`
-- `"verified, accepts lay residents"`
+- `"vinaya-based, accepts lay guests"`
+- `"vinaya-based"`
+- `"tentative"`   // based on automated filtering
 - `"duplicate"`
-- `"false"`
+- `"ckecked"`
+- `"unckecked"`
+- `"marked for removal"`  // based on automated filtering
 - `"remove"`
 
 In the case of duplicates: 
 - if they have the same id key: remove
 - if not: mark the least poulated entry as `duplicate` and copy over any information not in the other entry. 
-
 
