@@ -1,6 +1,6 @@
 import React from "react"
 import Slider from "react-slick"
-import Arrrow from "../images/icons/icon-right-chevron.inline.svg"
+import Arrrow from "../assets/images/icons/icon-right-chevron.inline.svg"
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 import { imageContainerClass, imageClass } from "./Gallery.module.scss"

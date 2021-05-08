@@ -1,0 +1,196 @@
+/* fira-sans-regular - latin */
+@font-face {
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""),
+    url("../assets/fonts/fira-sans/fira-sans-v11-latin-regular.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/fira-sans/fira-sans-v11-latin-regular.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+/* fira-sans-italic - latin */
+@font-face {
+  font-family: "Fira Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: local(""),
+    url("../assets/fonts/fira-sans/fira-sans-v11-latin-italic.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/fira-sans/fira-sans-v11-latin-italic.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+/* fira-sans-500 - latin */
+@font-face {
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 500;
+  src: local(""),
+    url("../assets/fonts/fira-sans/fira-sans-v11-latin-500.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/fira-sans/fira-sans-v11-latin-500.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+/* fira-sans-500italic - latin */
+@font-face {
+  font-family: "Fira Sans";
+  font-style: italic;
+  font-weight: 500;
+  src: local(""),
+    url("../assets/fonts/fira-sans/fira-sans-v11-latin-500italic.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/fira-sans/fira-sans-v11-latin-500italic.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+/* fira-sans-600 - latin */
+@font-face {
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 600;
+  src: local(""),
+    url("../assets/fonts/fira-sans/fira-sans-v11-latin-600.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/fira-sans/fira-sans-v11-latin-600.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+/* fira-sans-600italic - latin */
+@font-face {
+  font-family: "Fira Sans";
+  font-style: italic;
+  font-weight: 600;
+  src: local(""),
+    url("../assets/fonts/fira-sans/fira-sans-v11-latin-600italic.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/fira-sans/fira-sans-v11-latin-600italic.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+/* fira-sans-700 - latin */
+@font-face {
+  font-family: "Fira Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: local(""),
+    url("../assets/fonts/fira-sans/fira-sans-v11-latin-700.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/fira-sans/fira-sans-v11-latin-700.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+/* fira-sans-700italic - latin */
+@font-face {
+  font-family: "Fira Sans";
+  font-style: italic;
+  font-weight: 700;
+  src: local(""),
+    url("../assets/fonts/fira-sans/fira-sans-v11-latin-700italic.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/fira-sans/fira-sans-v11-latin-700italic.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+/* open-sans-regular - latin */
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""),
+    url("../assets/fonts/open-sans/open-sans-v18-latin-regular.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/open-sans/open-sans-v18-latin-regular.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+/* open-sans-italic - latin */
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 400;
+  src: local(""),
+    url("../assets/fonts/open-sans/open-sans-v18-latin-italic.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/open-sans/open-sans-v18-latin-italic.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+/* open-sans-600 - latin */
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  src: local(""),
+    url("../assets/fonts/open-sans/open-sans-v18-latin-600.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/open-sans/open-sans-v18-latin-600.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+/* open-sans-600italic - latin */
+@font-face {
+  font-family: "Open Sans";
+  font-style: italic;
+  font-weight: 600;
+  src: local(""),
+    url("../assets/fonts/open-sans/open-sans-v18-latin-600italic.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../assets/fonts/open-sans/open-sans-v18-latin-600italic.woff")
+      format("woff"); /* Modern Browsers */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: $primaryText;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.5rem;
+  margin: 1.5rem 0 0.25rem 0;
+}
+h4 {
+  font-size: 1.25rem;
+  margin: 0.25rem 0;
+}
+h5 {
+  font-size: 1.15rem;
+  margin: 0.25rem 0;
+}
+h6,
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+}
+
+a {
+  color: $accent;
+  &:hover {
+    color: lighten($accent, 5%);
+  }
+}

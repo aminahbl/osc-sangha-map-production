@@ -1,20 +1,26 @@
 import React from "react"
-import InfoButtonIcon from "../images/icon-info-button.inline.svg"
+import InfoButtonIcon from "../assets/images/icon-info-button.inline.svg"
 import {
   infoWindowContainerClass,
   infoWindowHeaderClass,
+  infoWindowHeadingClass,
+  longTingClass,
   infoWindowImageWrapperClass,
   infoWindowImageClass,
-  infoWindowHeadingClass,
   infoButtonClass,
   infoButtonIconClass,
 } from "./InfoWindowPanel.module.scss"
 
 const InfoWindowPanel = ({ coverImg, properties, handleInfoClick }) => {
+  let titleClass = infoWindowHeadingClass
+  if (properties.name.length > 50) {
+    titleClass = `${infoWindowHeadingClass} ${longTingClass}`
+  }
+  
   return (
     <div className={infoWindowContainerClass}>
       <header className={infoWindowHeaderClass}>
-        <h2 className={infoWindowHeadingClass}>{properties.name}</h2>
+        <h2 className={titleClass}>{properties.name}</h2>
       </header>
 
       <div className={infoWindowImageWrapperClass}>

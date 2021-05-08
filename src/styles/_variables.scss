@@ -1,5 +1,9 @@
 $primaryText: #272424;
+$accent: #8d501f;
 $darkControles: #4f4949;
 $strongGrey: #7a7979;
 $softGrey: #cfcece;
-$LightGreen: #dfebe8;
+$lightGreen: #dfebe8;
+
+$hover: 15%;
+$darkBtnHover: darken($darkControles, $hover);

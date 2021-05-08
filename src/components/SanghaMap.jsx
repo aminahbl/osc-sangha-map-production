@@ -14,11 +14,11 @@ import Popup from "./Popup"
 
 import { GetPlaceData } from "../hooks/dataQuery"
 
-import buddhaMarker from "../images/markers/buddha-marker.png"
-import dhammaMarker from "../images/markers/dhamma-marker.png"
-import sanghaMarker from "../images/markers/sangha-marker.png"
-import communityMarker from "../images/markers/community-marker.png"
-import infoStandinCover from "../images/info-standin-cover.svg"
+import buddhaMarker from "../assets/images/markers/buddha-marker.png"
+import dhammaMarker from "../assets/images/markers/dhamma-marker.png"
+import sanghaMarker from "../assets/images/markers/sangha-marker.png"
+import communityMarker from "../assets/images/markers/community-marker.png"
+import infoStandinCover from "../assets/images/info-standin-cover.svg"
 
 import mapStyles from "../styles/mapStyles"
 
