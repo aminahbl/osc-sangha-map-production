@@ -1,12 +1,10 @@
 # Volunteer Data Refining Notes
 
-Here be skeleton notes to guide volunteers who'd like to refine data in the first stage of the project.
+Here be skeleton notes to guide volunteers who'd like to help refine data in the first stage of the project.
 
 ## Overview
 
-A [dedicated `data` branch](https://github.com/aminahbl/osc-sangha-map-production/tree/data) has been created for updates to place data. All pull requests should be made to this branch.
-
-Place data files live here in [`src` > `data`](https://github.com/aminahbl/osc-sangha-map-production/tree/data/src/data)
+Place data files live here in [`src` > `data`](https://github.com/aminahbl/osc-sangha-map-production/tree/main/src/data)
 
 - `initial-data-fetch` is now unused and only serves a referrence purpose.
 - `production` contains the data files currently populating the live map.
@@ -17,10 +15,9 @@ Place data files live here in [`src` > `data`](https://github.com/aminahbl/osc-s
 In the first round of refinement, the `production` files will be review. 
 
 ### Getting started
-(Note: the following has been drafted for those completely new to GitHub)
 
 1. [Create a GitHub account](https://github.com/).
-2. Navigate to the [`production`](https://github.com/aminahbl/osc-sangha-map-production/tree/data/src/data/production) directory in the `data` branch.
+2. Navigate to the [`production`](https://github.com/aminahbl/osc-sangha-map-production/tree/main/src/data/production) directory in the `data` branch.
 3. Select the next file for review (by coordination).
 
 ### Editing a file
@@ -56,7 +53,7 @@ Field types:
 ""  - String (text)
 0   - A number (not in a string) 
 []  - Array (a list of things, seperated by commas)
-{}  - Object (a named list of things)
+{}  - Object (a list of named things)
 ```
 
 Schema:
@@ -71,17 +68,17 @@ Schema:
   "address": "",
   "phone": "",
   "website": "",
-  "tradition": ""
+  "tradition": "",
   "monastics": [""],
-  "description": [""],
-  "images": [""]
-  "video": [""],
-  "audio": [""],
+  "description": [""],  // string per paragraph
+  "images": [""],  // must be URL to image file
+  "video": [""],  // must be URL Vimeo or YouTube video
+  "audio": [""],  // must be URL to mp3 file
   "google_place_id": "",
   "google_maps_url": "",
   "category": "false",
   "last_updated": ""
-  "notes": [""]
+  "notes": [""]  // string per point/paragraph
 }
 ```
 
