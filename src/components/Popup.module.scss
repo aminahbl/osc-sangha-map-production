@@ -54,9 +54,10 @@
   text-align: center;
   background-color: $softGrey;
 
-  .popupHeadingClass {
+  .popupHeadingClass,
+  .popupAddressClass {
     margin: 0;
-    padding: 0 .5rem;
+    padding: 0 0.5rem;
   }
 }
 

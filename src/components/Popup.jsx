@@ -10,6 +10,7 @@ import {
   popupBodyClass,
   popupHeaderClass,
   popupHeadingClass,
+  popupAddressClass,
   detailsHeadingClass,
   detailsSubHeadingClass,
   galleryContainerClass,
@@ -32,7 +33,7 @@ const Popup = ({ popupInfo, resetTrigger }) => {
         <div>
           <header className={popupHeaderClass}>
             <h2 className={popupHeadingClass}>{popupInfo.properties.name}</h2>
-            <address>
+            <address className={popupAddressClass}>
               <p>
                 {popupInfo.properties.formatted_address &&
                   popupInfo.properties.formatted_address}
