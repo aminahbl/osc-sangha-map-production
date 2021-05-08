@@ -62,7 +62,7 @@ const SanghaMap = () => {
 
     data.map(node => {
       node.places.forEach(place => {
-        if (!place.meta.category.match(regex)) {
+        if (!place.category.match(regex)) {
           return
         }
         accumulated.push(place)
@@ -103,19 +103,15 @@ const SanghaMap = () => {
           {clusterer =>
             allPlaces.map(place => {
               const {
-                properties: {
-                  geometry: {
-                    location: { lat, lng },
-                  },
-                  images,
-                },
-                meta: { verified },
+                location: { lat, lng },
+                images,
+                category
               } = place
 
               let placeMarker
               let iconSize = [30, 30]
-              switch (verified) {
-                case "verified, accepts lay residents":
+              switch (category) {
+                case "vinaya-based, accepts lay guests":
                   placeMarker = communityMarker
                   iconSize = [45, 45]
                   break
@@ -157,8 +153,8 @@ const SanghaMap = () => {
         {selected && (
           <InfoWindow
             position={{
-              lat: selected.properties.geometry.location.lat,
-              lng: selected.properties.geometry.location.lng,
+              lat: selected.location.lat,
+              lng: selected.location.lng,
             }}
             onCloseClick={() => {
               setSelected(null)
@@ -166,7 +162,7 @@ const SanghaMap = () => {
           >
             <InfoWindowPanel
               coverImg={selected.infoCoverImg}
-              properties={selected.properties}
+              place={selected}
               handleInfoClick={handleInfoClick}
             />
           </InfoWindow>

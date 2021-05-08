@@ -7,26 +7,23 @@ export const GetPlaceData = () => {
         allProductionJson {
           nodes {
             places {
-              properties {
-                description
-                formatted_address
-                geometry {
-                  location {
-                    lat
-                    lng
-                  }
-                }
-                international_phone_number
-                name
-                place_id
-                website
-                images
-                monastics
-                tradition
+              name
+              location {
+                lat
+                lng
               }
-              meta {
-                verified
-              }
+              address
+              phone
+              website
+              tradition
+              monastics
+              description
+              images
+              video
+              audio
+              google_maps_url
+              category
+              last_updated
             }
           }
         }

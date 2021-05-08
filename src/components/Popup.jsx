@@ -17,6 +17,19 @@ import {
 } from "./Popup.module.scss"
 
 const Popup = ({ popupInfo, resetTrigger }) => {
+  let PlaceName
+
+  if (popupInfo.name.match(/(^.*?)(\W{2,}.*$)/)) {
+    const placeNameParts = popupInfo.name.match(/(^.*?)(\W{2,}.*$)/)
+    PlaceName = () => (
+      <>
+        {placeNameParts[1]}
+        <br />
+        {placeNameParts[2]}
+      </>
+    )
+  }
+
   return (
     <div className={popupContainerClass}>
       <div className={popupInnerWrapperClass}>
@@ -32,43 +45,43 @@ const Popup = ({ popupInfo, resetTrigger }) => {
         </div>
         <div>
           <header className={popupHeaderClass}>
-            <h2 className={popupHeadingClass}>{popupInfo.properties.name}</h2>
+            <h2 className={popupHeadingClass}>{PlaceName ? <PlaceName /> : popupInfo.name}</h2>
             <address className={popupAddressClass}>
               <p>
-                {popupInfo.properties.formatted_address &&
-                  popupInfo.properties.formatted_address}
+                {popupInfo.address &&
+                  popupInfo.address}
                 <br />
-                {popupInfo.properties.international_phone_number &&
-                  popupInfo.properties.international_phone_number}
+                {popupInfo.phone &&
+                  popupInfo.phone}
                 <br />
-                {popupInfo.properties.website && (
+                {popupInfo.website && (
                   <a
-                    href={popupInfo.properties.website}
+                    href={popupInfo.website}
                     target="_blank"
                     rel="noopener nofollow"
                   >
-                    {popupInfo.properties.website}
+                    {popupInfo.website}
                   </a>
                 )}
               </p>
             </address>
           </header>
           <div className={popupBodyClass}>
-            {popupInfo.properties.tradition && (
+            {popupInfo.tradition && (
               <>
                 <h3 className={detailsSubHeadingClass}>Tradition</h3>
-                <p>{popupInfo.properties.tradition}</p>
+                <p>{popupInfo.tradition}</p>
               </>
             )}
 
-            {popupInfo.properties.monastics[0] && (
+            {popupInfo.monastics[0] && (
               <>
                 <h3 className={detailsSubHeadingClass}>Monastics</h3>
                 <p>
-                  {popupInfo.properties.monastics.map((monastic, i) => (
+                  {popupInfo.monastics.map((monastic, i) => (
                     <>
                       <span key={`monastic-${i}`}>{monastic}</span>
-                      {i + 1 < popupInfo.properties.monastics.length
+                      {i + 1 < popupInfo.monastics.length
                         ? "; "
                         : "."}
                     </>
@@ -77,20 +90,20 @@ const Popup = ({ popupInfo, resetTrigger }) => {
               </>
             )}
 
-            {popupInfo.properties.description && (
+            {popupInfo.description[0] && (
               <>
                 <h3 className={detailsHeadingClass}>About</h3>
-                <div>{popupInfo.properties.description}</div>
+                <div>{popupInfo.description}</div>
               </>
             )}
 
-            {popupInfo.properties.images[0] && (
+            {popupInfo.images[0] && (
               <>
                 <h3 className={detailsHeadingClass}>Images / Teachings</h3>
                 <div className={galleryContainerClass}>
                   <Gallery
-                    images={popupInfo.properties.images}
-                    placeName={popupInfo.properties.name}
+                    images={popupInfo.images}
+                    placeName={popupInfo.name}
                   />
                 </div>
               </>
