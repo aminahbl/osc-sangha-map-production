@@ -1,790 +1,618 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Ynys, Criccieth LL52 0NT, UK",
-        "geometry": {
-          "location": {
-            "lat": 52.9540641,
-            "lng": -4.2826149
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.9554097802915,
-              "lng": -4.281350869708498
-            },
-            "southwest": {
-              "lat": 52.9527118197085,
-              "lng": -4.284048830291503
-            }
-          }
-        },
-        "international_phone_number": "+44 1766 530839",
-        "name": "The Hermitage - Buddhist Meditation and Retreat Centre",
-        "place_id": "ChIJ1yuyC2aYZUgRSYtl9WCIfW8",
-        "url": "https://maps.google.com/?cid=8033727260314143561",
-        "website": "https://buddhisthermitage.wales/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN7ZHX6EiVsn8zMOyDTpmbeKJhDr8v73G9uD1Jf=s1600-w600-h400",
-          "https://lh3.googleusercontent.com/p/AF1QipOPlb3VqG7mAIOgRcjKNSJrgvfjuCTRVlEiiWf-=s1600-w800-h706",
-          "https://lh3.googleusercontent.com/p/AF1QipM8ueuq-YhFN-ns1cWHyX_SKhO1hUj4XPV4hIkJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtuvpsA5n8Xst5M5v_BO5JQUczKCv8nBNhF4FZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPXIuKtz1YTAOyEfCPetPO-yVBQT9yHBnsK0GU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPp-lsKoOn4ufEIH3aLkI1MdqqaT1_7rHXPO3Vl=s1600-w800-h767",
-          "https://lh3.googleusercontent.com/p/AF1QipPSxwtQ-eo2i4L3eIeV1JRT5_gZ8R1Or9QsaTE5=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipOJtwTyUuUuLNzyOQdn5i-Yadq-vConJJE5ZUWK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXAGYLjTa1ZyZK20-j9l4aKHEp-f9GGJfUcxjK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNpOUGJFTDTF9nDcTnIV664JuL5xNasJo69CkAu=s1600-w767-h800"
-        ]
+      "name": "The Hermitage - Buddhist Meditation and Retreat Centre",
+      "location": {
+        "lat": 52.9540641,
+        "lng": -4.2826149
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "Ynys, Criccieth LL52 0NT, UK",
+      "phone": "+44 1766 530839",
+      "website": "https://buddhisthermitage.wales/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN7ZHX6EiVsn8zMOyDTpmbeKJhDr8v73G9uD1Jf=s1600-w600-h400",
+        "https://lh3.googleusercontent.com/p/AF1QipOPlb3VqG7mAIOgRcjKNSJrgvfjuCTRVlEiiWf-=s1600-w800-h706",
+        "https://lh3.googleusercontent.com/p/AF1QipM8ueuq-YhFN-ns1cWHyX_SKhO1hUj4XPV4hIkJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtuvpsA5n8Xst5M5v_BO5JQUczKCv8nBNhF4FZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPXIuKtz1YTAOyEfCPetPO-yVBQT9yHBnsK0GU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPp-lsKoOn4ufEIH3aLkI1MdqqaT1_7rHXPO3Vl=s1600-w800-h767",
+        "https://lh3.googleusercontent.com/p/AF1QipPSxwtQ-eo2i4L3eIeV1JRT5_gZ8R1Or9QsaTE5=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipOJtwTyUuUuLNzyOQdn5i-Yadq-vConJJE5ZUWK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXAGYLjTa1ZyZK20-j9l4aKHEp-f9GGJfUcxjK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNpOUGJFTDTF9nDcTnIV664JuL5xNasJo69CkAu=s1600-w767-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1yuyC2aYZUgRSYtl9WCIfW8",
+      "google_maps_url": "https://maps.google.com/?cid=8033727260314143561",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "10853 98 St NW, Edmonton, AB T5H 2P6, Canada",
-        "geometry": {
-          "location": {
-            "lat": 53.554755,
-            "lng": -113.4917609
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 53.5560874302915,
-              "lng": -113.4905222697085
-            },
-            "southwest": {
-              "lat": 53.5533894697085,
-              "lng": -113.4932202302915
-            }
-          }
-        },
-        "international_phone_number": "+1 780-421-8858",
-        "name": "普陀寺 Potala Monastery",
-        "place_id": "ChIJ70SL0lIioFMRGSMcanYfLW0",
-        "url": "https://maps.google.com/?cid=7866978717532955417",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOmJN2i9C-SzMjpS97ujI8ZssKSXwN0-f24iS9y=s1600-w750-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8glcWQHHy1bCfGTr3iog0ardGMUySLj9YH2en=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-nHUP76J69qKpzwghrPeCxf2_AlB0ZNCwiCvk=s1600-w575-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMlud0kHqEhzR31v1HodHz7JA9J48Ipn-GZjToy=s1600-w800-h800"
-        ]
+      "name": "普陀寺 Potala Monastery",
+      "location": {
+        "lat": 53.554755,
+        "lng": -113.4917609
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "10853 98 St NW, Edmonton, AB T5H 2P6, Canada",
+      "phone": "+1 780-421-8858",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOmJN2i9C-SzMjpS97ujI8ZssKSXwN0-f24iS9y=s1600-w750-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8glcWQHHy1bCfGTr3iog0ardGMUySLj9YH2en=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-nHUP76J69qKpzwghrPeCxf2_AlB0ZNCwiCvk=s1600-w575-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMlud0kHqEhzR31v1HodHz7JA9J48Ipn-GZjToy=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ70SL0lIioFMRGSMcanYfLW0",
+      "google_maps_url": "https://maps.google.com/?cid=7866978717532955417",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "10104 153 Ave NW, Edmonton, AB T5X 6A4, Canada",
-        "geometry": {
-          "location": {
-            "lat": 53.61439009999999,
-            "lng": -113.4976451
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 53.61560618029149,
-              "lng": -113.4962987697085
-            },
-            "southwest": {
-              "lat": 53.61290821970849,
-              "lng": -113.4989967302915
-            }
-          }
-        },
-        "international_phone_number": "+1 780-424-7566",
-        "name": "妙覺寺 Mui Kwok Buddhist Temple",
-        "place_id": "ChIJicE987UloFMRBKHF-5vOW3I",
-        "url": "https://maps.google.com/?cid=8240407112543740164",
-        "website": "https://www.facebook.com/muikwoktemple/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMahJmkpFS9LCDnJDW6ixC36Bz7JXSnk2yQjcK0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_KJC1lCGd2E_3olcoD-cVczsJWKqG5CRfzjlY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkSoCshwDd4k4oUpxCOcwemo-ikeCwRqf6FR27=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZsroGCz7kChTqO1Co2Yv1lEmzwY2d7USCP97Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdzZUVKpl5Hv6FlEew9Mkd4__46dXGsMzpNa76=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5Fgp5mWJcVCosCMMgj2Dy1bWo1nMTdeqhA8y9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeC70vO3TY9N80wKgX9tJ9Ewb8wNqh9JzP1zd6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMua5CGUDgCaNiSb2Uquhab1gg6gMZNsUaD2W5r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDw0L1Fuh4yZAmI9WiwAYjWWWXzgQcx5i5AAHb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4xWsmdeduu7wHquplEyPOV_VT_xO2vvP7Jmzf=s1600-w800-h800"
-        ]
+      "name": "妙覺寺 Mui Kwok Buddhist Temple",
+      "location": {
+        "lat": 53.61439009999999,
+        "lng": -113.4976451
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "10104 153 Ave NW, Edmonton, AB T5X 6A4, Canada",
+      "phone": "+1 780-424-7566",
+      "website": "https://www.facebook.com/muikwoktemple/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMahJmkpFS9LCDnJDW6ixC36Bz7JXSnk2yQjcK0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_KJC1lCGd2E_3olcoD-cVczsJWKqG5CRfzjlY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkSoCshwDd4k4oUpxCOcwemo-ikeCwRqf6FR27=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZsroGCz7kChTqO1Co2Yv1lEmzwY2d7USCP97Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdzZUVKpl5Hv6FlEew9Mkd4__46dXGsMzpNa76=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5Fgp5mWJcVCosCMMgj2Dy1bWo1nMTdeqhA8y9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeC70vO3TY9N80wKgX9tJ9Ewb8wNqh9JzP1zd6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMua5CGUDgCaNiSb2Uquhab1gg6gMZNsUaD2W5r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDw0L1Fuh4yZAmI9WiwAYjWWWXzgQcx5i5AAHb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4xWsmdeduu7wHquplEyPOV_VT_xO2vvP7Jmzf=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJicE987UloFMRBKHF-5vOW3I",
+      "google_maps_url": "https://maps.google.com/?cid=8240407112543740164",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "10232 103 St NW, Edmonton, AB T5J 0Y8, Canada",
-        "geometry": {
-          "location": {
-            "lat": 53.5437483,
-            "lng": -113.4978852
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 53.54509728029151,
-              "lng": -113.4965362197085
-            },
-            "southwest": {
-              "lat": 53.54239931970851,
-              "lng": -113.4992341802915
-            }
-          }
-        },
-        "international_phone_number": "+1 780-424-9744",
-        "name": "Fo Guang Shan Edmonton Vihara",
-        "place_id": "ChIJxzwl60gioFMR5VDmSxVd21w",
-        "url": "https://maps.google.com/?cid=6691044017438085349",
-        "website": "http://www.fgsedmonton.ca/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMieBhLYYrnbNfNlJvOGhVG0cBA4v1U4s1yJo6a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSD_NRsAigWjPis8ouKfosj5Q03U9brS9axfV7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipON04d4AXeMiBpK52sLaGoGavEy9A-8sQ1haI0h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYxtvXLv-eUIfNiac6LQYYWygFyAHAobMTB1Nj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuRR2N5UKGk__Kpz5GBs989dRoaWekz9m5_elw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_C2trTaL7xWJOHkE9XwCEDVggYNkrvuuQQR7L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfUlOxmLAfqaQ6LuPGhT3Q1j0TmsvkQhge-Nwb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODJV0v9wAom8r9GiMHwAX3biedGwgM01rwxGLk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1Cn5j7fbhM_ufq087KTI6v3q7v2WfkNpsgOJ0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZZr2__YphkIuITUiFfLfx4wgDzIRMbVuCwokj=s1600-w800-h800"
-        ]
+      "name": "Fo Guang Shan Edmonton Vihara",
+      "location": {
+        "lat": 53.5437483,
+        "lng": -113.4978852
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "10232 103 St NW, Edmonton, AB T5J 0Y8, Canada",
+      "phone": "+1 780-424-9744",
+      "website": "http://www.fgsedmonton.ca/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMieBhLYYrnbNfNlJvOGhVG0cBA4v1U4s1yJo6a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSD_NRsAigWjPis8ouKfosj5Q03U9brS9axfV7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipON04d4AXeMiBpK52sLaGoGavEy9A-8sQ1haI0h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYxtvXLv-eUIfNiac6LQYYWygFyAHAobMTB1Nj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuRR2N5UKGk__Kpz5GBs989dRoaWekz9m5_elw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_C2trTaL7xWJOHkE9XwCEDVggYNkrvuuQQR7L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfUlOxmLAfqaQ6LuPGhT3Q1j0TmsvkQhge-Nwb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODJV0v9wAom8r9GiMHwAX3biedGwgM01rwxGLk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1Cn5j7fbhM_ufq087KTI6v3q7v2WfkNpsgOJ0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZZr2__YphkIuITUiFfLfx4wgDzIRMbVuCwokj=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJxzwl60gioFMR5VDmSxVd21w",
+      "google_maps_url": "https://maps.google.com/?cid=6691044017438085349",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "199 Slateford Rd, Edinburgh EH14 1LA, UK",
-        "geometry": {
-          "location": {
-            "lat": 55.9250487,
-            "lng": -3.2454252
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.9264361802915,
-              "lng": -3.244195819708498
-            },
-            "southwest": {
-              "lat": 55.9237382197085,
-              "lng": -3.246893780291502
-            }
-          }
-        },
-        "international_phone_number": "+44 131 443 1010",
-        "name": "Dhammapadipa Temple",
-        "place_id": "ChIJIzl-bOXGh0gRfKjYy_fI2ko",
-        "url": "https://maps.google.com/?cid=5393844470332041340",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPGJN7S2tyH-_zP79-DsYtH_LTEVeJsYoTRNK3B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPErYpc6Sjyow0pavANDBg7UVFiUQeCPGz4xnKL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzF7uNEYz2BrbSiy7X8jP-FBW6qlsNmrYoOy1t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCgdXWNbAQ3mv7TFYA37YoGDZzYxtSdVmn7vmB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNp-u5L2KaFLuDUh8YXVo7ljqqHnqsv957xTWCG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMv0X7GDp6KJ-_H1K5Zq_SRvl_QKhqG_spTqcLI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMoKOcxHuKCWBIzigFbSaiG6RMn-MhsBlvo-Dk_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMpWvJ2IUa0BwFQDJk8X6Z5BMFxipSsnUnU5su=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPitIVd8oxLKr8ShqaCmonmOoMskXg0S6hQqpLc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYn_PQ1VT-9f4QKcoqQDYZqRGj3_xANxyIC-jr=s1600-w800-h800"
-        ]
+      "name": "Dhammapadipa Temple",
+      "location": {
+        "lat": 55.9250487,
+        "lng": -3.2454252
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "199 Slateford Rd, Edinburgh EH14 1LA, UK",
+      "phone": "+44 131 443 1010",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPGJN7S2tyH-_zP79-DsYtH_LTEVeJsYoTRNK3B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPErYpc6Sjyow0pavANDBg7UVFiUQeCPGz4xnKL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzF7uNEYz2BrbSiy7X8jP-FBW6qlsNmrYoOy1t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCgdXWNbAQ3mv7TFYA37YoGDZzYxtSdVmn7vmB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNp-u5L2KaFLuDUh8YXVo7ljqqHnqsv957xTWCG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMv0X7GDp6KJ-_H1K5Zq_SRvl_QKhqG_spTqcLI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMoKOcxHuKCWBIzigFbSaiG6RMn-MhsBlvo-Dk_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMpWvJ2IUa0BwFQDJk8X6Z5BMFxipSsnUnU5su=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPitIVd8oxLKr8ShqaCmonmOoMskXg0S6hQqpLc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYn_PQ1VT-9f4QKcoqQDYZqRGj3_xANxyIC-jr=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJIzl-bOXGh0gRfKjYy_fI2ko",
+      "google_maps_url": "https://maps.google.com/?cid=5393844470332041340",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1 Caldercuilt Rd, Glasgow G20 0AD, UK",
-        "geometry": {
-          "location": {
-            "lat": 55.8980141,
-            "lng": -4.300599099999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.8993219802915,
-              "lng": -4.299200169708498
-            },
-            "southwest": {
-              "lat": 55.8966240197085,
-              "lng": -4.301898130291502
-            }
-          }
-        },
-        "international_phone_number": "+44 141 946 5688",
-        "name": "Scotlands Buddhist Vihara",
-        "place_id": "ChIJA6iobq9FiEgRGVAN4XL49eY",
-        "url": "https://maps.google.com/?cid=16642481170303242265",
-        "description": "",
-        "tradition": "Theravada, Ajahn Chah tradition (Thai)",
-        "website": "https://ekuthuleni.wixsite.com/retreats/single-post/2016/06/07/milntuim-newsletters",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://gallery.abhayagiri.org/_data/i/upload/2017/06/14/20170614100413-7c890660-la.jpg",
-          "https://gallery.abhayagiri.org/_data/i/upload/2017/06/14/20170614100413-7c890660-la.jpg",
-          "https://gallery.abhayagiri.org/upload/2017/06/14/20170614100430-c0938820.jpg",
-          "https://gallery.abhayagiri.org/upload/2017/06/14/20170614100440-2c090cc6.jpg",
-          "https://lh3.googleusercontent.com/p/AF1QipPxjE7ot1nRPhWHAz85JUafi-fKjJcOdhpjzBY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGi3t6tYHJmWpVV93xG55GgXVGjeRqoEVkA7ag=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpEDMNZFicIkJd7uggY5k1G0kuBLM02CptKuiw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQckmURu1FlmxrMfgPJPZ-j4k4TETMMoBn78I=s1600-w800-h800"
-        ]
+      "name": "Scotlands Buddhist Vihara",
+      "location": {
+        "lat": 55.8980141,
+        "lng": -4.300599099999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "1 Caldercuilt Rd, Glasgow G20 0AD, UK",
+      "phone": "+44 141 946 5688",
+      "website": "https://ekuthuleni.wixsite.com/retreats/single-post/2016/06/07/milntuim-newsletters",
+      "tradition": "Theravada, Ajahn Chah tradition (Thai)",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://gallery.abhayagiri.org/_data/i/upload/2017/06/14/20170614100413-7c890660-la.jpg",
+        "https://gallery.abhayagiri.org/_data/i/upload/2017/06/14/20170614100413-7c890660-la.jpg",
+        "https://gallery.abhayagiri.org/upload/2017/06/14/20170614100430-c0938820.jpg",
+        "https://gallery.abhayagiri.org/upload/2017/06/14/20170614100440-2c090cc6.jpg",
+        "https://lh3.googleusercontent.com/p/AF1QipPxjE7ot1nRPhWHAz85JUafi-fKjJcOdhpjzBY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGi3t6tYHJmWpVV93xG55GgXVGjeRqoEVkA7ag=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpEDMNZFicIkJd7uggY5k1G0kuBLM02CptKuiw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQckmURu1FlmxrMfgPJPZ-j4k4TETMMoBn78I=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA6iobq9FiEgRGVAN4XL49eY",
+      "google_maps_url": "https://maps.google.com/?cid=16642481170303242265",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Glen Artney Perthshire, Comrie, Crieff PH6 2HZ, UK",
-        "geometry": {
-          "location": {
-            "lat": 56.34691919999999,
-            "lng": -4.005356799999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 56.3483644802915,
-              "lng": -4.004101919708497
-            },
-            "southwest": {
-              "lat": 56.3456665197085,
-              "lng": -4.006799880291502
-            }
-          }
-        },
-        "international_phone_number": "+44 1764 670088",
-        "name": "Milntuim Hermitage",
-        "place_id": "ChIJL2r667ORiEgRmBhIhBOk-Ks",
-        "url": "https://maps.google.com/?cid=12391834778440571032",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOCNI9JQgnhUEzqTWoRyVZ2JWwY5FWFfG5OZlhZ=s1600-w800-h800"
-        ]
+      "name": "Milntuim Hermitage",
+      "location": {
+        "lat": 56.34691919999999,
+        "lng": -4.005356799999999
       },
-      "meta": {
-        "category": "vinaya-based, accepts lay guests",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "Glen Artney Perthshire, Comrie, Crieff PH6 2HZ, UK",
+      "phone": "+44 1764 670088",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOCNI9JQgnhUEzqTWoRyVZ2JWwY5FWFfG5OZlhZ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJL2r667ORiEgRmBhIhBOk-Ks",
+      "google_maps_url": "https://maps.google.com/?cid=12391834778440571032",
+      "category": "vinaya-based, accepts lay guests",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tingvej 18, 6780 Skærbæk, Denmark",
-        "geometry": {
-          "location": {
-            "lat": 55.193857,
-            "lng": 8.7313829
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.1953035302915,
-              "lng": 8.732724680291504
-            },
-            "southwest": {
-              "lat": 55.19260556970851,
-              "lng": 8.7300267197085
-            }
-          }
-        },
-        "international_phone_number": "+45 91 83 63 69",
-        "name": "Wat Buddha Barami Denmark",
-        "place_id": "ChIJmckBcA41S0YR4U0W0y0Is88",
-        "url": "https://maps.google.com/?cid=14966314979590295009",
-        "website": "https://www.facebook.com/profile.php?id=100026265090962",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMgmgWrKVaS620yus34A-HiC7uqxKThbwfuMomP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMCDA7ukq5q7TA8ZH1qanmdobwR0m8ta6srmC_P=s1600-w800-h800"
-        ]
+      "name": "Wat Buddha Barami Denmark",
+      "location": {
+        "lat": 55.193857,
+        "lng": 8.7313829
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "Tingvej 18, 6780 Skærbæk, Denmark",
+      "phone": "+45 91 83 63 69",
+      "website": "https://www.facebook.com/profile.php?id=100026265090962",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMgmgWrKVaS620yus34A-HiC7uqxKThbwfuMomP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMCDA7ukq5q7TA8ZH1qanmdobwR0m8ta6srmC_P=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJmckBcA41S0YR4U0W0y0Is88",
+      "google_maps_url": "https://maps.google.com/?cid=14966314979590295009",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Randersvej 79, 8940 Favrskov, Denmark",
-        "geometry": {
-          "location": {
-            "lat": 56.384457,
-            "lng": 10.0389109
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 56.3857981802915,
-              "lng": 10.0408533302915
-            },
-            "southwest": {
-              "lat": 56.3831002197085,
-              "lng": 10.0381553697085
-            }
-          }
-        },
-        "international_phone_number": "+45 91 87 46 30",
-        "name": "THE NATURAL FOREST THAI MONASTERY IN RANDERS - DENMARK",
-        "place_id": "ChIJMc-jxeEbTEYRfzYHMv8Jevo",
-        "url": "https://maps.google.com/?cid=18048749448301327999",
-        "website": "http://www.thai-buddhist-tempel.dk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN3EMtDRPM9LDVcVxno1no51jM0nhFf8WmYNgjY=s1600-w800-h563",
-          "https://lh3.googleusercontent.com/p/AF1QipOQYw5J_pRclPG6PLgjNA-zvf5HRGPXwOAZ1poN=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipMXItTlK8G2x84-CsCv-ygi4eHMkerkhlL6FqCx=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOU3W7nevAnV1PhQvzTtYAWMDMZ9H9oxgQyc-J=s1600-w718-h347",
-          "https://lh3.googleusercontent.com/p/AF1QipMkwD2Im56nRpcKLUCx3mSBeYNQxb6COSs3ns9R=s1600-w540-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxbud6fmcPsHXYOLnmAeqsFFnCfy_IznY7qL1X=s1600-w800-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipM51KKLInHNK13pojbHAQtqB2MutWqvNH2pH4Gn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpqdMpdEHWjTzaXQpbp5hPMn1ZK0lpXKjLWWKS=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipN-33GQkvKjwDBkKu3fECNzC4IdEziPXwxu6o-t=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfCkrXaebPOEI-9vRh-6oYcNmge6O_r2UkXJNF=s1600-w800-h720"
-        ]
+      "name": "THE NATURAL FOREST THAI MONASTERY IN RANDERS - DENMARK",
+      "location": {
+        "lat": 56.384457,
+        "lng": 10.0389109
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "Randersvej 79, 8940 Favrskov, Denmark",
+      "phone": "+45 91 87 46 30",
+      "website": "http://www.thai-buddhist-tempel.dk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN3EMtDRPM9LDVcVxno1no51jM0nhFf8WmYNgjY=s1600-w800-h563",
+        "https://lh3.googleusercontent.com/p/AF1QipOQYw5J_pRclPG6PLgjNA-zvf5HRGPXwOAZ1poN=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipMXItTlK8G2x84-CsCv-ygi4eHMkerkhlL6FqCx=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOU3W7nevAnV1PhQvzTtYAWMDMZ9H9oxgQyc-J=s1600-w718-h347",
+        "https://lh3.googleusercontent.com/p/AF1QipMkwD2Im56nRpcKLUCx3mSBeYNQxb6COSs3ns9R=s1600-w540-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxbud6fmcPsHXYOLnmAeqsFFnCfy_IznY7qL1X=s1600-w800-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipM51KKLInHNK13pojbHAQtqB2MutWqvNH2pH4Gn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpqdMpdEHWjTzaXQpbp5hPMn1ZK0lpXKjLWWKS=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipN-33GQkvKjwDBkKu3fECNzC4IdEziPXwxu6o-t=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfCkrXaebPOEI-9vRh-6oYcNmge6O_r2UkXJNF=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJMc-jxeEbTEYRfzYHMv8Jevo",
+      "google_maps_url": "https://maps.google.com/?cid=18048749448301327999",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Rytterager 100, 2791 Dragør, Denmark",
-        "geometry": {
-          "location": {
-            "lat": 55.5921592,
-            "lng": 12.6472315
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.5934411302915,
-              "lng": 12.6485622802915
-            },
-            "southwest": {
-              "lat": 55.5907431697085,
-              "lng": 12.6458643197085
-            }
-          }
-        },
-        "international_phone_number": "+45 32 94 25 22",
-        "name": "Watpa Copenhagen",
-        "place_id": "ChIJC-_Ng1WqU0YRyE7KdJMiIac",
-        "url": "https://maps.google.com/?cid=12042944895280369352",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPccxjqM9M4gl_zkM2tqWRlvMbhAtgon0feDFBp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSql5QSxzCk7G88nQPiKcYZUqt6RgzaOqjUVLe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUJe5ED7e6JSZmcn7scR3lg7N3gtmPEdp8Pc9Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxReQD-pMxr3EtSi5uWxU3K93YGtvcWRTtgI7V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1Tg68IY7jBWnULHdpfGHf2l0PWY5Ixxs4AqTi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNaaI49HIIjVU-ngxOkI_NZmF8eSktbvVM6fKdB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1cRm1eXbvhLgDicM-yuiQd-QFpUSC5XcnqSaI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXxlZ16zJhAO1-XbGXk6CmX3GZZg5uiKLKeMqt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOPIl25IpxTVtALFy_coT26nceSWDtOinMD74Y5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsTHZtqHOOUVxa8-rHe2Jrg3a7vyPMu7pNBRgL=s1600-w800-h800"
-        ]
+      "name": "Watpa Copenhagen",
+      "location": {
+        "lat": 55.5921592,
+        "lng": 12.6472315
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "Rytterager 100, 2791 Dragør, Denmark",
+      "phone": "+45 32 94 25 22",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPccxjqM9M4gl_zkM2tqWRlvMbhAtgon0feDFBp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSql5QSxzCk7G88nQPiKcYZUqt6RgzaOqjUVLe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUJe5ED7e6JSZmcn7scR3lg7N3gtmPEdp8Pc9Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxReQD-pMxr3EtSi5uWxU3K93YGtvcWRTtgI7V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1Tg68IY7jBWnULHdpfGHf2l0PWY5Ixxs4AqTi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNaaI49HIIjVU-ngxOkI_NZmF8eSktbvVM6fKdB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1cRm1eXbvhLgDicM-yuiQd-QFpUSC5XcnqSaI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXxlZ16zJhAO1-XbGXk6CmX3GZZg5uiKLKeMqt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOPIl25IpxTVtALFy_coT26nceSWDtOinMD74Y5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsTHZtqHOOUVxa8-rHe2Jrg3a7vyPMu7pNBRgL=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJC-_Ng1WqU0YRyE7KdJMiIac",
+      "google_maps_url": "https://maps.google.com/?cid=12042944895280369352",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ahlmansgatan 20A, 214 27 Malmö, Sweden",
-        "geometry": {
-          "location": {
-            "lat": 55.5888546,
-            "lng": 13.0100701
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.5901271802915,
-              "lng": 13.0113737802915
-            },
-            "southwest": {
-              "lat": 55.5874292197085,
-              "lng": 13.0086758197085
-            }
-          }
-        },
-        "international_phone_number": "+46 70 415 46 42",
-        "name": "MALMÖ CHÁN BUDDHIST TEMPLE",
-        "place_id": "ChIJl0itFUOhU0YRZjZ15gw6Its",
-        "url": "https://maps.google.com/?cid=15790247070594840166",
-        "website": "http://www.taozen.se/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "MALMÖ CHÁN BUDDHIST TEMPLE",
+      "location": {
+        "lat": 55.5888546,
+        "lng": 13.0100701
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Ahlmansgatan 20A, 214 27 Malmö, Sweden",
+      "phone": "+46 70 415 46 42",
+      "website": "http://www.taozen.se/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJl0itFUOhU0YRZjZ15gw6Its",
+      "google_maps_url": "https://maps.google.com/?cid=15790247070594840166",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Trollenäs 107, 241 35 Eslöv, Sweden",
-        "geometry": {
-          "location": {
-            "lat": 55.85961139999999,
-            "lng": 13.2254095
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.8608783802915,
-              "lng": 13.2268290802915
-            },
-            "southwest": {
-              "lat": 55.8581804197085,
-              "lng": 13.2241311197085
-            }
-          }
-        },
-        "international_phone_number": "+46 413 54 52 92",
-        "name": "Wat Sanghabaramee",
-        "place_id": "ChIJxSdSlA3AU0YRZMxYLSodvDg",
-        "url": "https://maps.google.com/?cid=4088174628732193892",
-        "website": "http://www.watsanghabaramee.se/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMULoiJPku3pcRCoAXYrbXh1TizFTjjvkJ1ARSK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4LASvQOrQ_DT5LmG4sQHN0IE4P5rnDHptcueX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOl56dVGrUfNj1AIrvnpgV_SbRei11944Jot5ju=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0ozQMaDPETg8jE_mnE6sPtlM7gSiF5mlXgIaJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP53RaB7wVbdi3Q36XPbn_3PGJSqtFrFpTU4UKa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOI7AMWDuFpzKumT7O3ySSkbmxHM9LmUMpB3fI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMW0y2qAOiqezAM2BNcvBK7NXT4dWDj7c9Re6Nc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzSngOH7iSLjiQVu3H0_08wyak9auO2FZ2wYs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpubGrzUc4lb5s4cWGKDGtI_g4nzJtdPkF_3Yk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM49sr6oqV-AvpsH8e-NqCp18QKUPn4PH5IO-5p=s1600-w800-h800"
-        ]
+      "name": "Wat Sanghabaramee",
+      "location": {
+        "lat": 55.85961139999999,
+        "lng": 13.2254095
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "Trollenäs 107, 241 35 Eslöv, Sweden",
+      "phone": "+46 413 54 52 92",
+      "website": "http://www.watsanghabaramee.se/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMULoiJPku3pcRCoAXYrbXh1TizFTjjvkJ1ARSK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4LASvQOrQ_DT5LmG4sQHN0IE4P5rnDHptcueX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOl56dVGrUfNj1AIrvnpgV_SbRei11944Jot5ju=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0ozQMaDPETg8jE_mnE6sPtlM7gSiF5mlXgIaJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP53RaB7wVbdi3Q36XPbn_3PGJSqtFrFpTU4UKa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOI7AMWDuFpzKumT7O3ySSkbmxHM9LmUMpB3fI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMW0y2qAOiqezAM2BNcvBK7NXT4dWDj7c9Re6Nc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzSngOH7iSLjiQVu3H0_08wyak9auO2FZ2wYs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpubGrzUc4lb5s4cWGKDGtI_g4nzJtdPkF_3Yk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM49sr6oqV-AvpsH8e-NqCp18QKUPn4PH5IO-5p=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJxSdSlA3AU0YRZMxYLSodvDg",
+      "google_maps_url": "https://maps.google.com/?cid=4088174628732193892",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Gammelgårds Alle 29, Lejlighed 16, 2665 Vallensbæk Strand, Denmark",
-        "geometry": {
-          "location": {
-            "lat": 55.6265274,
-            "lng": 12.3819038
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.6278701802915,
-              "lng": 12.3832850302915
-            },
-            "southwest": {
-              "lat": 55.6251722197085,
-              "lng": 12.3805870697085
-            }
-          }
-        },
-        "international_phone_number": "+45 52 73 80 08",
-        "name": "Copenhagen Buddhist Vihara",
-        "place_id": "ChIJrdUCVfBXUkYR8nTVh5ldH8g",
-        "url": "https://maps.google.com/?cid=14420347445853910258",
-        "website": "https://sites.google.com/view/copenhagenbuddhistvihara",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Copenhagen Buddhist Vihara",
+      "location": {
+        "lat": 55.6265274,
+        "lng": 12.3819038
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Gammelgårds Alle 29, Lejlighed 16, 2665 Vallensbæk Strand, Denmark",
+      "phone": "+45 52 73 80 08",
+      "website": "https://sites.google.com/view/copenhagenbuddhistvihara",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJrdUCVfBXUkYR8nTVh5ldH8g",
+      "google_maps_url": "https://maps.google.com/?cid=14420347445853910258",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "82 Mitchell St, Glasgow G1 3NA, UK",
-        "geometry": {
-          "location": {
-            "lat": 55.859953,
-            "lng": -4.255491000000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.8613115302915,
-              "lng": -4.254265519708499
-            },
-            "southwest": {
-              "lat": 55.8586135697085,
-              "lng": -4.256963480291503
-            }
-          }
-        },
-        "international_phone_number": "+44 7432 014620",
-        "name": "Cloud Water Zen Centre",
-        "place_id": "ChIJwz-D3IxGiEgRLjbGMJoYEqI",
-        "url": "https://maps.google.com/?cid=11678423834247444014",
-        "website": "http://www.cloudwaterzen.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Cloud Water Zen Centre",
+      "location": {
+        "lat": 55.859953,
+        "lng": -4.255491000000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "82 Mitchell St, Glasgow G1 3NA, UK",
+      "phone": "+44 7432 014620",
+      "website": "http://www.cloudwaterzen.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJwz-D3IxGiEgRLjbGMJoYEqI",
+      "google_maps_url": "https://maps.google.com/?cid=11678423834247444014",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Eskdalemuir, Langholm DG13 0QL, UK",
-        "geometry": {
-          "location": {
-            "lat": 55.2897842,
-            "lng": -3.1881653
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.2909071802915,
-              "lng": -3.186812319708498
-            },
-            "southwest": {
-              "lat": 55.2882092197085,
-              "lng": -3.189510280291502
-            }
-          }
-        },
-        "international_phone_number": "+44 13873 73232",
-        "name": "Kagyu Samye Ling Monastery Guesthouse",
-        "place_id": "ChIJXcKHLLlcfUgRCx7_XjbjMWc",
-        "url": "https://maps.google.com/?cid=7435974282426916363",
-        "website": "http://www.samyeling.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOnlZOy6vKOxEW-CShCuAsu2GCSkmfXgHsVvGz6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNW4uZ1V3vcf0Y3m2ov_BarArH8dzEgNrD90dvv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKT6n04C8uPawjSl42dTc0ELdUo4Tdd2UnSQVg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPO13pwcRpVynFNoMl19JYbYihkH0BI5rZ5LwU1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsMHM2YyiMduEpK9DoVM1FADyYrklnPWavoZPS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpuzWPffj4J8r1c5_GDeObJscOoo-vYZ4S9SLn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWJnIsudgvZ_JVXJGmsyHihljPnwykCMUoC8gy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPF-6yTMoKrAjpBhbSDQAGViL5NlzdWusSzS82u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3KJ4vsivcAwDewhaQao_3b3i5pgwBC6Wib3pe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOscHRN_4RFK1JN2IrxFsY6uUbpeRgVWHdGeiz8=s1600-w800-h800"
-        ]
+      "name": "Kagyu Samye Ling Monastery Guesthouse",
+      "location": {
+        "lat": 55.2897842,
+        "lng": -3.1881653
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "Eskdalemuir, Langholm DG13 0QL, UK",
+      "phone": "+44 13873 73232",
+      "website": "http://www.samyeling.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOnlZOy6vKOxEW-CShCuAsu2GCSkmfXgHsVvGz6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNW4uZ1V3vcf0Y3m2ov_BarArH8dzEgNrD90dvv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKT6n04C8uPawjSl42dTc0ELdUo4Tdd2UnSQVg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPO13pwcRpVynFNoMl19JYbYihkH0BI5rZ5LwU1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsMHM2YyiMduEpK9DoVM1FADyYrklnPWavoZPS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpuzWPffj4J8r1c5_GDeObJscOoo-vYZ4S9SLn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWJnIsudgvZ_JVXJGmsyHihljPnwykCMUoC8gy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPF-6yTMoKrAjpBhbSDQAGViL5NlzdWusSzS82u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3KJ4vsivcAwDewhaQao_3b3i5pgwBC6Wib3pe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOscHRN_4RFK1JN2IrxFsY6uUbpeRgVWHdGeiz8=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJXcKHLLlcfUgRCx7_XjbjMWc",
+      "google_maps_url": "https://maps.google.com/?cid=7435974282426916363",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "East Lodge, Queens Road, Aberdeen AB15 6YX, UK",
-        "geometry": {
-          "location": {
-            "lat": 57.1442341,
-            "lng": -2.1724253
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 57.14559098029151,
-              "lng": -2.171146069708498
-            },
-            "southwest": {
-              "lat": 57.14289301970851,
-              "lng": -2.173844030291502
-            }
-          }
-        },
-        "international_phone_number": "+44 844 800 8441",
-        "name": "Thai Buddharam Temple & Cultural Centre",
-        "place_id": "ChIJvzbrELoRhEgRCHITTQFx_HY",
-        "url": "https://maps.google.com/?cid=8573852041008607752",
-        "website": "http://www.thaibuddharam.org.uk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOLwrSQFvtHj0IT704TvalkWBavGHCRAW49YYaS=s1600-w800-h747",
-          "https://lh3.googleusercontent.com/p/AF1QipN0OgGLwoZUaIYH1AJJKuClb8zJ3vt-2Dg3gsKO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYNYWUd-vXjCo3L937bQ55uHQH08NAZG8rln6f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgVPXMmEs7Qn2JOtqWnlKtKMg4PA20iFrOOQV6=s1600-w800-h800"
-        ]
+      "name": "Thai Buddharam Temple & Cultural Centre",
+      "location": {
+        "lat": 57.1442341,
+        "lng": -2.1724253
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:58:34.983Z"
-      }
+      "address": "East Lodge, Queens Road, Aberdeen AB15 6YX, UK",
+      "phone": "+44 844 800 8441",
+      "website": "http://www.thaibuddharam.org.uk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOLwrSQFvtHj0IT704TvalkWBavGHCRAW49YYaS=s1600-w800-h747",
+        "https://lh3.googleusercontent.com/p/AF1QipN0OgGLwoZUaIYH1AJJKuClb8zJ3vt-2Dg3gsKO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYNYWUd-vXjCo3L937bQ55uHQH08NAZG8rln6f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgVPXMmEs7Qn2JOtqWnlKtKMg4PA20iFrOOQV6=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJvzbrELoRhEgRCHITTQFx_HY",
+      "google_maps_url": "https://maps.google.com/?cid=8573852041008607752",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

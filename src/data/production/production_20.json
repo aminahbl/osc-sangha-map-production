@@ -1,1515 +1,1198 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Enfield EN2 8DN, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.6557991,
-            "lng": -0.09446470000000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.65733683029149,
-              "lng": -0.09312806970849796
-            },
-            "southwest": {
-              "lat": 51.65463886970849,
-              "lng": -0.09582603029150204
-            }
-          }
-        },
-        "international_phone_number": "+44 20 3590 5269",
-        "name": "Abhayarama Meditation Centre ( Enfield Buddhist Temple)",
-        "place_id": "ChIJtRUvTP8ZdkgRC_3QlRsiAVg",
-        "url": "https://maps.google.com/?cid=6341387252187331851",
-        "website": "http://www.abhayarama.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Abhayarama Meditation Centre ( Enfield Buddhist Temple)",
+      "location": {
+        "lat": 51.6557991,
+        "lng": -0.09446470000000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Enfield EN2 8DN, UK",
+      "phone": "+44 20 3590 5269",
+      "website": "http://www.abhayarama.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJtRUvTP8ZdkgRC_3QlRsiAVg",
+      "google_maps_url": "https://maps.google.com/?cid=6341387252187331851",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "214 Cromwell Rd, Cambridge CB1 3EQ, UK",
-        "geometry": {
-          "location": {
-            "lat": 52.2057647,
-            "lng": 0.1490425
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.2071393302915,
-              "lng": 0.150292130291502
-            },
-            "southwest": {
-              "lat": 52.2044413697085,
-              "lng": 0.147594169708498
-            }
-          }
-        },
-        "international_phone_number": "+44 1223 240648",
-        "name": "Cambridge Buddhist Temple",
-        "place_id": "ChIJsZip6mNw2EcROwQbTm0MbN8",
-        "url": "https://maps.google.com/?cid=16099256431544042555",
-        "website": "http://cambridgebuddhistvihara.co.uk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPQpqBq64Ky10A2tp46WIvfQuXWTbEZYQXp49IX=s1600-w800-h678",
-          "https://lh3.googleusercontent.com/p/AF1QipNgBiLQ_IEQNs4dL5KPQ7-j41b3oFJGkQqcGb4u=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOdnEgrVcaEI5MzfZlxKYVzQ04gio1xsYzjItK7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4eIXvhufkt3WuJZvkMeGRkES0HDijAMC9o4Mz=s1600-w800-h800"
-        ]
+      "name": "Cambridge Buddhist Temple",
+      "location": {
+        "lat": 52.2057647,
+        "lng": 0.1490425
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "214 Cromwell Rd, Cambridge CB1 3EQ, UK",
+      "phone": "+44 1223 240648",
+      "website": "http://cambridgebuddhistvihara.co.uk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPQpqBq64Ky10A2tp46WIvfQuXWTbEZYQXp49IX=s1600-w800-h678",
+        "https://lh3.googleusercontent.com/p/AF1QipNgBiLQ_IEQNs4dL5KPQ7-j41b3oFJGkQqcGb4u=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOdnEgrVcaEI5MzfZlxKYVzQ04gio1xsYzjItK7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4eIXvhufkt3WuJZvkMeGRkES0HDijAMC9o4Mz=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJsZip6mNw2EcROwQbTm0MbN8",
+      "google_maps_url": "https://maps.google.com/?cid=16099256431544042555",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2, Wilbury Farm, Hitchin Rd, Arlesey SG15 6SF, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.98490959999999,
-            "lng": -0.2664978
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.9862679802915,
-              "lng": -0.264891069708498
-            },
-            "southwest": {
-              "lat": 51.9835700197085,
-              "lng": -0.2675890302915021
-            }
-          }
-        },
-        "international_phone_number": "+44 1462 835645",
-        "name": "Letchworth Buddhist Temple",
-        "place_id": "ChIJzS3Ds6wzdkgRebvUWmf7OKo",
-        "url": "https://maps.google.com/?cid=12265830006467640185",
-        "website": "http://www.letchworthtemple.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP-rSKjOz4PFfxglIhST9R2761WZLWJ5KQsECqX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPEK_nyc4HY0fRdQolGIYYU1Lnsot61XBbSV9xr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgr-ihbbCWg-CYBeB7L-AMl_sSVZTiMhFW3MIL=s1600-w800-h800"
-        ]
+      "name": "Letchworth Buddhist Temple",
+      "location": {
+        "lat": 51.98490959999999,
+        "lng": -0.2664978
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "2, Wilbury Farm, Hitchin Rd, Arlesey SG15 6SF, UK",
+      "phone": "+44 1462 835645",
+      "website": "http://www.letchworthtemple.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP-rSKjOz4PFfxglIhST9R2761WZLWJ5KQsECqX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPEK_nyc4HY0fRdQolGIYYU1Lnsot61XBbSV9xr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgr-ihbbCWg-CYBeB7L-AMl_sSVZTiMhFW3MIL=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzS3Ds6wzdkgRebvUWmf7OKo",
+      "google_maps_url": "https://maps.google.com/?cid=12265830006467640185",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Arlesey Rd, Hitchin, Arlesey SG5 4GE, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.9849103,
-            "lng": -0.2664985
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.9861858302915,
-              "lng": -0.2649939697084979
-            },
-            "southwest": {
-              "lat": 51.9834878697085,
-              "lng": -0.267691930291502
-            }
-          }
-        },
-        "name": "Letchworth Buddhist Vihara",
-        "place_id": "ChIJmU1tQYwzdkgRZ8wM135LZt8",
-        "url": "https://maps.google.com/?cid=16097636926228319335",
-        "website": "http://www.letchworthtemple.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPBbfp9UuY-M4QK3yMa3SerHFmjxn21gWa92Q1n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVYlrIJMTo4YyvqMoGlQvcVBamkokx4QH9Sg0F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8VnTxYSQ4WizEcS7Sn72r8RDelxdbQKoESC4W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONCz64wSegjzCe8frCwOFrezNmkuCnpCDJcfWa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkcdipw2cTZqeaUxTE6Zb4wGp-2nQjotXxphIT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6xFm8dtzVgafgx8mS3PgQFMwzC3BnO5G6Sh1b=s1600-w800-h800"
-        ]
+      "name": "Letchworth Buddhist Vihara",
+      "location": {
+        "lat": 51.9849103,
+        "lng": -0.2664985
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "Arlesey Rd, Hitchin, Arlesey SG5 4GE, UK",
+      "website": "http://www.letchworthtemple.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPBbfp9UuY-M4QK3yMa3SerHFmjxn21gWa92Q1n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVYlrIJMTo4YyvqMoGlQvcVBamkokx4QH9Sg0F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8VnTxYSQ4WizEcS7Sn72r8RDelxdbQKoESC4W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONCz64wSegjzCe8frCwOFrezNmkuCnpCDJcfWa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkcdipw2cTZqeaUxTE6Zb4wGp-2nQjotXxphIT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6xFm8dtzVgafgx8mS3PgQFMwzC3BnO5G6Sh1b=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJmU1tQYwzdkgRZ8wM135LZt8",
+      "google_maps_url": "https://maps.google.com/?cid=16097636926228319335",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "185 Rainham Rd N, Dagenham RM10 7EH, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.55604909999999,
-            "lng": 0.1594458
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.55739843029149,
-              "lng": 0.160911380291502
-            },
-            "southwest": {
-              "lat": 51.5547004697085,
-              "lng": 0.158213419708498
-            }
-          }
-        },
-        "international_phone_number": "+44 20 8595 8659",
-        "name": "Nichiren Shu Buddhist Temple Of Uk",
-        "place_id": "ChIJ5_loDh6l2EcRWaVO4xyqA88",
-        "url": "https://maps.google.com/?cid=14916953431830603097",
-        "website": "http://www.nichiren-shu.org.uk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMxIi_go6MUdCs7t3rjaidRkrlCEv3Ih-oD2axq=s1600-w600-h612",
-          "https://lh3.googleusercontent.com/p/AF1QipPgcKk4XQQzkddvmBIDVVqCMhQRWgbcwkVdxPL_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOifkOhKGgXKjeR7_RXuhDXMUQoa9fvuiucxEbB=s1600-w450-h300",
-          "https://lh3.googleusercontent.com/p/AF1QipMpEMTakCV9FnhgJVNSy3lZgNy8rJx3y-VLTtkO=s1600-w400-h400"
-        ]
+      "name": "Nichiren Shu Buddhist Temple Of Uk",
+      "location": {
+        "lat": 51.55604909999999,
+        "lng": 0.1594458
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "185 Rainham Rd N, Dagenham RM10 7EH, UK",
+      "phone": "+44 20 8595 8659",
+      "website": "http://www.nichiren-shu.org.uk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMxIi_go6MUdCs7t3rjaidRkrlCEv3Ih-oD2axq=s1600-w600-h612",
+        "https://lh3.googleusercontent.com/p/AF1QipPgcKk4XQQzkddvmBIDVVqCMhQRWgbcwkVdxPL_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOifkOhKGgXKjeR7_RXuhDXMUQoa9fvuiucxEbB=s1600-w450-h300",
+        "https://lh3.googleusercontent.com/p/AF1QipMpEMTakCV9FnhgJVNSy3lZgNy8rJx3y-VLTtkO=s1600-w400-h400"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ5_loDh6l2EcRWaVO4xyqA88",
+      "google_maps_url": "https://maps.google.com/?cid=14916953431830603097",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8000 FM1518, Schertz, TX 78154, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.5065418,
-            "lng": -98.234138
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.5079327302915,
-              "lng": -98.2327173197085
-            },
-            "southwest": {
-              "lat": 29.5052347697085,
-              "lng": -98.2354152802915
-            }
-          }
-        },
-        "international_phone_number": "+1 210-566-5695",
-        "name": "Wat Saddhadhamma",
-        "place_id": "ChIJWSoB3ZbsXIYRQlBIyV17wF0",
-        "url": "https://maps.google.com/?cid=6755535083794878530",
-        "website": "http://www.watsaddhadhamma.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNmY7Lm5uYxyScjDPaov1eFHt1rAsUdvg-XpLk5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-UhGuCkHhWjrvrICz5_Bq27pefcGBE_BcCaXs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQIRi-z2DRW8bd01kf9OzRLPlhlsK0kuOuFLdW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjdwGVgf4HGqXoWsr8UGthqAaUW-EbxryvKaof=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGYdMA20C5mUy_dgwU5SxBaG_F2ZJrUffQwKyb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkACRD9udXwTTgD_4tmQO5TE6dbaMBg7ldXxUX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_-E2j75QK1Pcxs8RKvAOlP0QWdmW40GC82b9u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfjGK_IQFUHLcdbJqzn832OIZA7bi8Dx_anTP_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9iBPNUdGbRQJRp6XOqaNs706tg_Xjk6wwcMYW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMjQrcRG6ac1yPVWgooZWOTIo6HTAhMlhYMspI=s1600-w800-h800"
-        ]
+      "name": "Wat Saddhadhamma",
+      "location": {
+        "lat": 29.5065418,
+        "lng": -98.234138
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "8000 FM1518, Schertz, TX 78154, USA",
+      "phone": "+1 210-566-5695",
+      "website": "http://www.watsaddhadhamma.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNmY7Lm5uYxyScjDPaov1eFHt1rAsUdvg-XpLk5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-UhGuCkHhWjrvrICz5_Bq27pefcGBE_BcCaXs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQIRi-z2DRW8bd01kf9OzRLPlhlsK0kuOuFLdW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjdwGVgf4HGqXoWsr8UGthqAaUW-EbxryvKaof=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGYdMA20C5mUy_dgwU5SxBaG_F2ZJrUffQwKyb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkACRD9udXwTTgD_4tmQO5TE6dbaMBg7ldXxUX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_-E2j75QK1Pcxs8RKvAOlP0QWdmW40GC82b9u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfjGK_IQFUHLcdbJqzn832OIZA7bi8Dx_anTP_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9iBPNUdGbRQJRp6XOqaNs706tg_Xjk6wwcMYW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMjQrcRG6ac1yPVWgooZWOTIo6HTAhMlhYMspI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJWSoB3ZbsXIYRQlBIyV17wF0",
+      "google_maps_url": "https://maps.google.com/?cid=6755535083794878530",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "359 S Loop 1604 W, San Antonio, TX 78264, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.2198019,
-            "lng": -98.5049573
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.22100723029151,
-              "lng": -98.5036484197085
-            },
-            "southwest": {
-              "lat": 29.21830926970851,
-              "lng": -98.5063463802915
-            }
-          }
-        },
-        "name": "Wat Buddhamahawanaram",
-        "place_id": "ChIJXzlfiepVXIYR0qf8r1Mha0I",
-        "url": "https://maps.google.com/?cid=4785955672329856978",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Wat Buddhamahawanaram",
+      "location": {
+        "lat": 29.2198019,
+        "lng": -98.5049573
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "359 S Loop 1604 W, San Antonio, TX 78264, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJXzlfiepVXIYR0qf8r1Mha0I",
+      "google_maps_url": "https://maps.google.com/?cid=4785955672329856978",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "627 Cross Dot Ranch Rd, Pipe Creek, TX 78063, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.733769,
-            "lng": -98.9473277
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.73509778029149,
-              "lng": -98.9459509197085
-            },
-            "southwest": {
-              "lat": 29.7323998197085,
-              "lng": -98.94864888029151
-            }
-          }
-        },
-        "international_phone_number": "+1 830-510-4646",
-        "name": "Wat Sanghabucha",
-        "place_id": "ChIJfzGZuuwOXIYR5j9dNMn-jgs",
-        "url": "https://maps.google.com/?cid=832883121230528486",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO4D2KuqII8qp2mW4dLE9lHTt1YngDEIzIiOODB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuUd9SQqXXi4WAW-FsWo924pePJlu_VFx7vd_l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6wi6Ja8xvVUmbjDH2cZztq51Y4d7k_HF7qInd=s1600-w581-h785",
-          "https://lh3.googleusercontent.com/p/AF1QipM7ybILeZvYR2zBpQNdoJy41GKFVY-VXkrdab33=s1600-w800-h782",
-          "https://lh3.googleusercontent.com/p/AF1QipPVtjIXJ-YGrlrqSCImnjChFgmpCqV3OkSFeCDS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPMktVT8HomDz9ooOmJtjotn8gsTbjnm5v3mVGJ=s1600-w800-h778",
-          "https://lh3.googleusercontent.com/p/AF1QipN1Aktx3aIgOAUKh-_5Boz0vNdMcepvceqVhCaL=s1600-w583-h780",
-          "https://lh3.googleusercontent.com/p/AF1QipNNOifCWh1ctGQ5dnkNt0WlPZf39PL3XtBihc84=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPczHTf_zNH9z7YSzGs9f5gLonQWGGp2ZVFxVtE=s1600-w581-h780",
-          "https://lh3.googleusercontent.com/p/AF1QipN5CcDs_32u_fTffj2YbOFoo7Sw8CcJ7143Pcuh=s1600-w800-h778"
-        ]
+      "name": "Wat Sanghabucha",
+      "location": {
+        "lat": 29.733769,
+        "lng": -98.9473277
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "627 Cross Dot Ranch Rd, Pipe Creek, TX 78063, USA",
+      "phone": "+1 830-510-4646",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO4D2KuqII8qp2mW4dLE9lHTt1YngDEIzIiOODB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuUd9SQqXXi4WAW-FsWo924pePJlu_VFx7vd_l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6wi6Ja8xvVUmbjDH2cZztq51Y4d7k_HF7qInd=s1600-w581-h785",
+        "https://lh3.googleusercontent.com/p/AF1QipM7ybILeZvYR2zBpQNdoJy41GKFVY-VXkrdab33=s1600-w800-h782",
+        "https://lh3.googleusercontent.com/p/AF1QipPVtjIXJ-YGrlrqSCImnjChFgmpCqV3OkSFeCDS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPMktVT8HomDz9ooOmJtjotn8gsTbjnm5v3mVGJ=s1600-w800-h778",
+        "https://lh3.googleusercontent.com/p/AF1QipN1Aktx3aIgOAUKh-_5Boz0vNdMcepvceqVhCaL=s1600-w583-h780",
+        "https://lh3.googleusercontent.com/p/AF1QipNNOifCWh1ctGQ5dnkNt0WlPZf39PL3XtBihc84=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPczHTf_zNH9z7YSzGs9f5gLonQWGGp2ZVFxVtE=s1600-w581-h780",
+        "https://lh3.googleusercontent.com/p/AF1QipN5CcDs_32u_fTffj2YbOFoo7Sw8CcJ7143Pcuh=s1600-w800-h778"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJfzGZuuwOXIYR5j9dNMn-jgs",
+      "google_maps_url": "https://maps.google.com/?cid=832883121230528486",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1501 Mangrum St, Pflugerville, TX 78660, USA",
-        "geometry": {
-          "location": {
-            "lat": 30.4452778,
-            "lng": -97.6627778
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.4467066302915,
-              "lng": -97.6613780197085
-            },
-            "southwest": {
-              "lat": 30.4440086697085,
-              "lng": -97.6640759802915
-            }
-          }
-        },
-        "international_phone_number": "+1 512-990-5501",
-        "name": "Austin Buddhist Vihara",
-        "place_id": "ChIJQTLu4FbORIYRLz2Nwb83Gi8",
-        "url": "https://maps.google.com/?cid=3394086565902630191",
-        "website": "http://www.austintemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM7FrVwqhUlps-qjK25MVlo9kxRIRghzIvUZ8io=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMS0b82SdXamf4igBrK1BU14rNQVB9GCxtciIN1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEApI0fE3Cl2BpY_5WmkQL-nEixdlaUth1V3ak=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpY6gZTSyVZucFedC6wbo24YIPShz5Lyh0rlCc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcG1KjmRd10-5yeL48ONONq1Y1hHQBDa3ViRGV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMbSup0YQgdYQ8dJsWbdiq-WjIR0AYm-F64S0Ng=s1600-w480-h360",
-          "https://lh3.googleusercontent.com/p/AF1QipNA3qum-mp1LmsdFl1mLD_kvtw0HvlGV4HivCO2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNV5W-YBXPSUq0O25HH17wt7pPKp8g32-VYzg82=s1600-w750-h600",
-          "https://lh3.googleusercontent.com/p/AF1QipOiyR8V4Q6dqZNOmeURWsUI5kcYXGIwVF3zaKUc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOAUmkZRE6oWmAfpBw6Qd1kT4-pxpPruRRZ8FGS=s1600-w800-h800"
-        ]
+      "name": "Austin Buddhist Vihara",
+      "location": {
+        "lat": 30.4452778,
+        "lng": -97.6627778
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "1501 Mangrum St, Pflugerville, TX 78660, USA",
+      "phone": "+1 512-990-5501",
+      "website": "http://www.austintemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM7FrVwqhUlps-qjK25MVlo9kxRIRghzIvUZ8io=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMS0b82SdXamf4igBrK1BU14rNQVB9GCxtciIN1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEApI0fE3Cl2BpY_5WmkQL-nEixdlaUth1V3ak=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpY6gZTSyVZucFedC6wbo24YIPShz5Lyh0rlCc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcG1KjmRd10-5yeL48ONONq1Y1hHQBDa3ViRGV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMbSup0YQgdYQ8dJsWbdiq-WjIR0AYm-F64S0Ng=s1600-w480-h360",
+        "https://lh3.googleusercontent.com/p/AF1QipNA3qum-mp1LmsdFl1mLD_kvtw0HvlGV4HivCO2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNV5W-YBXPSUq0O25HH17wt7pPKp8g32-VYzg82=s1600-w750-h600",
+        "https://lh3.googleusercontent.com/p/AF1QipOiyR8V4Q6dqZNOmeURWsUI5kcYXGIwVF3zaKUc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOAUmkZRE6oWmAfpBw6Qd1kT4-pxpPruRRZ8FGS=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJQTLu4FbORIYRLz2Nwb83Gi8",
+      "google_maps_url": "https://maps.google.com/?cid=3394086565902630191",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1455 Co Rd 137, Hutto, TX 78634, USA",
-        "geometry": {
-          "location": {
-            "lat": 30.5007067,
-            "lng": -97.54905389999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.5019933802915,
-              "lng": -97.5476280197085
-            },
-            "southwest": {
-              "lat": 30.4992954197085,
-              "lng": -97.5503259802915
-            }
-          }
-        },
-        "international_phone_number": "+1 512-846-2348",
-        "name": "Chua Lien Huu Tinh Do Temple",
-        "place_id": "ChIJO8KdYDbbRIYR52lji2ZKLTg",
-        "url": "https://maps.google.com/?cid=4047973444361611751",
-        "website": "http://www.lienhuutinhdo.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNRzDr_S_JFqc77IvXIYfvy6rhlcwzAePkYC4El=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNc7Ty3aldrj2f2_v10jZ07a3NlbB_mMKiyeZD0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1Zk0JVYWH9Jaf-rYhH-K45TIirO7xUvGaZtGY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPPAg-PBWPIjlF14ZGMbz02jy1ya2dfxXqNQhR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzESazozqvuKNTIrrgAve77G_zyHVu8BCTCWSE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1kS-N7jykZ40Hgr0V-jEb9TxGwOKQYiFFstK1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMD0w-pgYJ6Ms7XS8B1Ju24p5koBzZi6uORLteo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP-r1VYYTlkNaRZk-5ff8WWX3sNIYDfWQUWjggu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZ9JHxZq5Jt5dhGBpHT1PnEYX-oAJKdHNR5hkO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3rRDjsYiHH2u4PXS6jy563c3L0AyOOOsesGfj=s1600-w800-h800"
-        ]
+      "name": "Chua Lien Huu Tinh Do Temple",
+      "location": {
+        "lat": 30.5007067,
+        "lng": -97.54905389999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "1455 Co Rd 137, Hutto, TX 78634, USA",
+      "phone": "+1 512-846-2348",
+      "website": "http://www.lienhuutinhdo.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNRzDr_S_JFqc77IvXIYfvy6rhlcwzAePkYC4El=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNc7Ty3aldrj2f2_v10jZ07a3NlbB_mMKiyeZD0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1Zk0JVYWH9Jaf-rYhH-K45TIirO7xUvGaZtGY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPPAg-PBWPIjlF14ZGMbz02jy1ya2dfxXqNQhR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzESazozqvuKNTIrrgAve77G_zyHVu8BCTCWSE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1kS-N7jykZ40Hgr0V-jEb9TxGwOKQYiFFstK1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMD0w-pgYJ6Ms7XS8B1Ju24p5koBzZi6uORLteo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP-r1VYYTlkNaRZk-5ff8WWX3sNIYDfWQUWjggu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZ9JHxZq5Jt5dhGBpHT1PnEYX-oAJKdHNR5hkO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3rRDjsYiHH2u4PXS6jy563c3L0AyOOOsesGfj=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJO8KdYDbbRIYR52lji2ZKLTg",
+      "google_maps_url": "https://maps.google.com/?cid=4047973444361611751",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "12248 N Lamar Blvd, Austin, TX 78753, USA",
-        "geometry": {
-          "location": {
-            "lat": 30.4018207,
-            "lng": -97.6796395
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.40306728029149,
-              "lng": -97.6782920197085
-            },
-            "southwest": {
-              "lat": 30.4003693197085,
-              "lng": -97.6809899802915
-            }
-          }
-        },
-        "international_phone_number": "+1 512-339-0609",
-        "name": "Thien Hau Temple",
-        "place_id": "ChIJlWtcX7bORIYRc7ucRW4ABqw",
-        "url": "https://maps.google.com/?cid=12395595497998170995",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOGG_tL7S7Yjdat5vUaAE0Ym43S6VSuBx6VJzWU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOj6grasp68AOHPk6SNWg9CkuARifdyOD_HxEXU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoHFuxURb99pBUuojD1HKXTX7rxP_lL04wjqrB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOFRAQ7lPDtRSlPvIyDUHw6wAVX1UqtkkTjr5lC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4kYeSrh9Ssov6U5ZmGizo7zLFNu1nicxX7B7i=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpGWP7WwN4APxBwBHxdu-C3etK8AIyWSf0iuHR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLoNRFWzleyyhZHBnsCLnuEcCZwp_HEO4qQ4kd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQKUbNbPwthM_ZKsbgi6CGdXKGL3ulBplj2Pnz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqxXkdgFT7B1-6wlafXV7WRl-pNX-4GrQKWGvJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFtqxnDMrXKKQd9ugOlH-2TBToUsshket7WhGD=s1600-w800-h800"
-        ]
+      "name": "Thien Hau Temple",
+      "location": {
+        "lat": 30.4018207,
+        "lng": -97.6796395
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "12248 N Lamar Blvd, Austin, TX 78753, USA",
+      "phone": "+1 512-339-0609",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOGG_tL7S7Yjdat5vUaAE0Ym43S6VSuBx6VJzWU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOj6grasp68AOHPk6SNWg9CkuARifdyOD_HxEXU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoHFuxURb99pBUuojD1HKXTX7rxP_lL04wjqrB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOFRAQ7lPDtRSlPvIyDUHw6wAVX1UqtkkTjr5lC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4kYeSrh9Ssov6U5ZmGizo7zLFNu1nicxX7B7i=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpGWP7WwN4APxBwBHxdu-C3etK8AIyWSf0iuHR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLoNRFWzleyyhZHBnsCLnuEcCZwp_HEO4qQ4kd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQKUbNbPwthM_ZKsbgi6CGdXKGL3ulBplj2Pnz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqxXkdgFT7B1-6wlafXV7WRl-pNX-4GrQKWGvJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFtqxnDMrXKKQd9ugOlH-2TBToUsshket7WhGD=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJlWtcX7bORIYRc7ucRW4ABqw",
+      "google_maps_url": "https://maps.google.com/?cid=12395595497998170995",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "7106 Ross Rd, Rosharon, TX 77583, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.36967490000001,
-            "lng": -95.3512669
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.3710870302915,
-              "lng": -95.3499606197085
-            },
-            "southwest": {
-              "lat": 29.3683890697085,
-              "lng": -95.35265858029152
-            }
-          }
-        },
-        "international_phone_number": "+1 281-369-3417",
-        "name": "Buddhist Rassmey Monastery",
-        "place_id": "ChIJUSm06KeLQIYREjQTxa5eeBw",
-        "url": "https://maps.google.com/?cid=2051493734990951442",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMyvSe544CwJGEtb78g1jMcdYb7YrHZHtRo9H4_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgi8GKMeAeN254pNzxFfZ67hhS7I700UE3hI-2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgX1Qu_7m-RLbLBJM_TMM57fTLrhMJg7eevoki=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO75cbOY7r843PY067HQi8hUqnQfhNBRtd50xSY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2erLQMZmooGSNc4U28dTvs3lO2FoSp2Ec-_9O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOPHpsixzv__82D84Fba4nNooIapXpHA5Pszlf3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_-b_7180Q0arrVC0fbjgWuJrjBspv05V3hWz6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1F1EZzmaFjpG2-BUTCGl4YjJSvUZelNluc6Ov=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_0SeFlUq1jMXZQxumusMmN8w0HckPDxzTcESG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9ji5NvxDv4JH4BTXhrcjWSHPYtZmNHztG-x5y=s1600-w800-h800"
-        ]
+      "name": "Buddhist Rassmey Monastery",
+      "location": {
+        "lat": 29.36967490000001,
+        "lng": -95.3512669
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "7106 Ross Rd, Rosharon, TX 77583, USA",
+      "phone": "+1 281-369-3417",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMyvSe544CwJGEtb78g1jMcdYb7YrHZHtRo9H4_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgi8GKMeAeN254pNzxFfZ67hhS7I700UE3hI-2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgX1Qu_7m-RLbLBJM_TMM57fTLrhMJg7eevoki=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO75cbOY7r843PY067HQi8hUqnQfhNBRtd50xSY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2erLQMZmooGSNc4U28dTvs3lO2FoSp2Ec-_9O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOPHpsixzv__82D84Fba4nNooIapXpHA5Pszlf3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_-b_7180Q0arrVC0fbjgWuJrjBspv05V3hWz6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1F1EZzmaFjpG2-BUTCGl4YjJSvUZelNluc6Ov=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_0SeFlUq1jMXZQxumusMmN8w0HckPDxzTcESG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9ji5NvxDv4JH4BTXhrcjWSHPYtZmNHztG-x5y=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJUSm06KeLQIYREjQTxa5eeBw",
+      "google_maps_url": "https://maps.google.com/?cid=2051493734990951442",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "15019 Draper Rd, Houston, TX 77014, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.9971874,
-            "lng": -95.474361
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.9986268802915,
-              "lng": -95.47284616970849
-            },
-            "southwest": {
-              "lat": 29.9959289197085,
-              "lng": -95.4755441302915
-            }
-          }
-        },
-        "international_phone_number": "+1 713-474-3684",
-        "name": "Phu Van Monastery",
-        "place_id": "ChIJA1BDlUXLQIYRi5XstRVZOXU",
-        "url": "https://maps.google.com/?cid=8446880525891442059",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Phu Van Monastery",
+      "location": {
+        "lat": 29.9971874,
+        "lng": -95.474361
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "15019 Draper Rd, Houston, TX 77014, USA",
+      "phone": "+1 713-474-3684",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA1BDlUXLQIYRi5XstRVZOXU",
+      "google_maps_url": "https://maps.google.com/?cid=8446880525891442059",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "14910 Welcome Ln, Houston, TX 77014, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.9960755,
-            "lng": -95.469692
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.9973174802915,
-              "lng": -95.46853916970848
-            },
-            "southwest": {
-              "lat": 29.9946195197085,
-              "lng": -95.4712371302915
-            }
-          }
-        },
-        "international_phone_number": "+1 713-933-8580",
-        "name": "Zeyavati Buddha Vihara",
-        "place_id": "ChIJR07ySprLQIYR7_oXX2yfrHE",
-        "url": "https://maps.google.com/?cid=8191097110080781039",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOUNQkI4k95iGGm594_V3miNbNl4spM0iEkLqDX=s1600-w800-h722",
-          "https://lh3.googleusercontent.com/p/AF1QipMxhFZu3mIPZkTi92Xo7tW_YkhBmK44zhAlW8Hd=s1600-w800-h718",
-          "https://lh3.googleusercontent.com/p/AF1QipMMCy-T4QUEtaeXM2tyZ3ZPiEEgpvb8lO116xtK=s1600-w800-h714",
-          "https://lh3.googleusercontent.com/p/AF1QipMm0ZZjF7j3JPRNvMoUi0bFCAKOqf7t6paG66QM=s1600-w800-h716",
-          "https://lh3.googleusercontent.com/p/AF1QipOLvDJlhOoszaX-5I9mYSPeK-cocPXhkm--3nIE=s1600-w800-h726",
-          "https://lh3.googleusercontent.com/p/AF1QipNDMvxo7HC6al9XvaPZFAgOS1iHZkyG7yCg0iwp=s1600-w800-h724",
-          "https://lh3.googleusercontent.com/p/AF1QipMpIXkKSrf14WlwuJ9c0fxZfG2BisjX8CoFDNNA=s1600-w800-h722",
-          "https://lh3.googleusercontent.com/p/AF1QipPfphSXQXoaFUglFqzFCDuqkmnQnEvTzeciYbFh=s1600-w800-h704",
-          "https://lh3.googleusercontent.com/p/AF1QipNpZSd2YGuqQmc1lHADuNnfz4nVFxb2S87sa4Zw=s1600-w800-h726",
-          "https://lh3.googleusercontent.com/p/AF1QipOk1Admpkv8uJC6bKFDnN-UgfN5xWFrMzEMkrLX=s1600-w800-h722"
-        ]
+      "name": "Zeyavati Buddha Vihara",
+      "location": {
+        "lat": 29.9960755,
+        "lng": -95.469692
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "14910 Welcome Ln, Houston, TX 77014, USA",
+      "phone": "+1 713-933-8580",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOUNQkI4k95iGGm594_V3miNbNl4spM0iEkLqDX=s1600-w800-h722",
+        "https://lh3.googleusercontent.com/p/AF1QipMxhFZu3mIPZkTi92Xo7tW_YkhBmK44zhAlW8Hd=s1600-w800-h718",
+        "https://lh3.googleusercontent.com/p/AF1QipMMCy-T4QUEtaeXM2tyZ3ZPiEEgpvb8lO116xtK=s1600-w800-h714",
+        "https://lh3.googleusercontent.com/p/AF1QipMm0ZZjF7j3JPRNvMoUi0bFCAKOqf7t6paG66QM=s1600-w800-h716",
+        "https://lh3.googleusercontent.com/p/AF1QipOLvDJlhOoszaX-5I9mYSPeK-cocPXhkm--3nIE=s1600-w800-h726",
+        "https://lh3.googleusercontent.com/p/AF1QipNDMvxo7HC6al9XvaPZFAgOS1iHZkyG7yCg0iwp=s1600-w800-h724",
+        "https://lh3.googleusercontent.com/p/AF1QipMpIXkKSrf14WlwuJ9c0fxZfG2BisjX8CoFDNNA=s1600-w800-h722",
+        "https://lh3.googleusercontent.com/p/AF1QipPfphSXQXoaFUglFqzFCDuqkmnQnEvTzeciYbFh=s1600-w800-h704",
+        "https://lh3.googleusercontent.com/p/AF1QipNpZSd2YGuqQmc1lHADuNnfz4nVFxb2S87sa4Zw=s1600-w800-h726",
+        "https://lh3.googleusercontent.com/p/AF1QipOk1Admpkv8uJC6bKFDnN-UgfN5xWFrMzEMkrLX=s1600-w800-h722"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJR07ySprLQIYR7_oXX2yfrHE",
+      "google_maps_url": "https://maps.google.com/?cid=8191097110080781039",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1838 County Rd 129, Pearland, TX 77581, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.51262699999999,
-            "lng": -95.22720299999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.5143147802915,
-              "lng": -95.22626546970848
-            },
-            "southwest": {
-              "lat": 29.51161681970851,
-              "lng": -95.2289634302915
-            }
-          }
-        },
-        "international_phone_number": "+1 281-992-2921",
-        "name": "Dharma Spring Temple",
-        "place_id": "ChIJD5PzdgiQQIYRjp7sK7VUxkQ",
-        "url": "https://maps.google.com/?cid=4955741577070550670",
-        "website": "http://www.dharmaspring.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOCsF6OAbMHNR_sib7fsarVwoVDhG50bq5QT9Ep=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMaOHkFgO2qDPkUjI-QQxnvyRJjqATXjKsPIePo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7VTj_gz7WtCP9BWJJniiNbspq5wW8xOrg3NLR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhD9op-d7OacqnEXih5aIX-wkk15iXqr5vzToP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4R4HHrr19iiT3T6nFbv-8zZYeeJ8im08ukA-e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQcG1H7w5SnfoXbE5Uqz98V9bUVVNb2kEUQBmR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhnWNO1KB_JAdRAKoFurhk2WutIJTfdcnh_b7y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9_c_ofytdelVEZerOcgrnrAho8L_5ujTZDNpm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBTtJL_Fty_dhbGgI-aBlBcxUwyLkRCOFYnTgO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRArB6HBkzZS1JXtCB38P41-Hg-_a16rxKpn80=s1600-w800-h800"
-        ]
+      "name": "Dharma Spring Temple",
+      "location": {
+        "lat": 29.51262699999999,
+        "lng": -95.22720299999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "1838 County Rd 129, Pearland, TX 77581, USA",
+      "phone": "+1 281-992-2921",
+      "website": "http://www.dharmaspring.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOCsF6OAbMHNR_sib7fsarVwoVDhG50bq5QT9Ep=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMaOHkFgO2qDPkUjI-QQxnvyRJjqATXjKsPIePo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7VTj_gz7WtCP9BWJJniiNbspq5wW8xOrg3NLR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhD9op-d7OacqnEXih5aIX-wkk15iXqr5vzToP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4R4HHrr19iiT3T6nFbv-8zZYeeJ8im08ukA-e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQcG1H7w5SnfoXbE5Uqz98V9bUVVNb2kEUQBmR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhnWNO1KB_JAdRAKoFurhk2WutIJTfdcnh_b7y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9_c_ofytdelVEZerOcgrnrAho8L_5ujTZDNpm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBTtJL_Fty_dhbGgI-aBlBcxUwyLkRCOFYnTgO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRArB6HBkzZS1JXtCB38P41-Hg-_a16rxKpn80=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJD5PzdgiQQIYRjp7sK7VUxkQ",
+      "google_maps_url": "https://maps.google.com/?cid=4955741577070550670",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8702 Furay Ave, Houston, TX 77016, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.8842056,
-            "lng": -95.263425
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.8855523302915,
-              "lng": -95.2621470197085
-            },
-            "southwest": {
-              "lat": 29.8828543697085,
-              "lng": -95.2648449802915
-            }
-          }
-        },
-        "international_phone_number": "+1 281-458-6255",
-        "name": "Wat Phouthasamakhy Lao",
-        "place_id": "ChIJW9GqhWOwQIYRLk0km5EZTII",
-        "url": "https://maps.google.com/?cid=9388907436324441390",
-        "website": "http://wat-phouthasamakhy-lao.jany.io/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOcyCBOV6awbweH4jwPuB53g8-Pmz4l7f7tENxL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAom7e4oDKAHz28CTvD9f4_5b_8X_zBSJ1frlM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN921fwnLUFn9kivUkarBGLfvnDXxjv49nNaoMV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPU-PVK8yl6commodjcTX9DeLVjoJQD-NMvzkKm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwXB6ol7kcPKzxZS8vRVC-rUzjPHVhILYO3n7F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNiNcrovAdEn-zbSorrXCDV7B71neGe56BYXeLw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpjAPGo1r5xnNL7cdbd9sq1kWFvnht5Hm7xA8c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1zGvXYTSNobXXAvTmCcU8j1h7dyXTI2aiVe_9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWD2H8e9bNpYro5eboOwva7rQ2Pzpy1OUHg3Ef=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSbjblmNTZixT7sgQxQgU3s0G9k9Kq1y8U6HLF=s1600-w800-h800"
-        ]
+      "name": "Wat Phouthasamakhy Lao",
+      "location": {
+        "lat": 29.8842056,
+        "lng": -95.263425
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "8702 Furay Ave, Houston, TX 77016, USA",
+      "phone": "+1 281-458-6255",
+      "website": "http://wat-phouthasamakhy-lao.jany.io/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOcyCBOV6awbweH4jwPuB53g8-Pmz4l7f7tENxL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAom7e4oDKAHz28CTvD9f4_5b_8X_zBSJ1frlM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN921fwnLUFn9kivUkarBGLfvnDXxjv49nNaoMV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPU-PVK8yl6commodjcTX9DeLVjoJQD-NMvzkKm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwXB6ol7kcPKzxZS8vRVC-rUzjPHVhILYO3n7F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNiNcrovAdEn-zbSorrXCDV7B71neGe56BYXeLw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpjAPGo1r5xnNL7cdbd9sq1kWFvnht5Hm7xA8c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1zGvXYTSNobXXAvTmCcU8j1h7dyXTI2aiVe_9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWD2H8e9bNpYro5eboOwva7rQ2Pzpy1OUHg3Ef=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSbjblmNTZixT7sgQxQgU3s0G9k9Kq1y8U6HLF=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJW9GqhWOwQIYRLk0km5EZTII",
+      "google_maps_url": "https://maps.google.com/?cid=9388907436324441390",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "10022 Gaines Rd, Sugar Land, TX 77498, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.6693758,
-            "lng": -95.65800329999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.6707008302915,
-              "lng": -95.65645496970848
-            },
-            "southwest": {
-              "lat": 29.6680028697085,
-              "lng": -95.6591529302915
-            }
-          }
-        },
-        "international_phone_number": "+1 832-863-1861",
-        "name": "Chùa Phật Giác-Enlightened Buddha Temple",
-        "place_id": "ChIJh7I9bh3eQIYRLtFUhVzqLDk",
-        "url": "https://maps.google.com/?cid=4119925442231980334",
-        "website": "http://www.enlightenedbuddhatemple.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO43mm0hHmGlUtbsJIaMUyH48S-5lz-jNIstL-f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-TgX3MZaSha3h4Nty9yLYGKNt4b7YqFSv0CX_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgtobhR1B7vwvl3QLwzkEcGTG49wGypHZu9Vz5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdOw_ODh_PF0eFlsKVWaQo9ekQQ0GT9_RPUQ8T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNI4ThwMq-8p7-8jEJ_SIWqUd_2GBW6v6jUw-j-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONOXAVTzn6TMITVoKhYZAL-I0rpDr_052zanor=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONKTVwagsDeI8JIA69nugSbWhAF4YhRZyP5FoG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6kdDvLw2cVqd7xJB2y7ID1yQGPLi4nH9tnEOE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNo_PjAeyzAwbdRT2nqbQu_zjXHPlUjUh7uvlKq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMN8xzpf_XgRK4owkdWrfkRq9fG8wI4wh7YU6dl=s1600-w800-h800"
-        ]
+      "name": "Chùa Phật Giác-Enlightened Buddha Temple",
+      "location": {
+        "lat": 29.6693758,
+        "lng": -95.65800329999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "10022 Gaines Rd, Sugar Land, TX 77498, USA",
+      "phone": "+1 832-863-1861",
+      "website": "http://www.enlightenedbuddhatemple.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO43mm0hHmGlUtbsJIaMUyH48S-5lz-jNIstL-f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-TgX3MZaSha3h4Nty9yLYGKNt4b7YqFSv0CX_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgtobhR1B7vwvl3QLwzkEcGTG49wGypHZu9Vz5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdOw_ODh_PF0eFlsKVWaQo9ekQQ0GT9_RPUQ8T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNI4ThwMq-8p7-8jEJ_SIWqUd_2GBW6v6jUw-j-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONOXAVTzn6TMITVoKhYZAL-I0rpDr_052zanor=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONKTVwagsDeI8JIA69nugSbWhAF4YhRZyP5FoG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6kdDvLw2cVqd7xJB2y7ID1yQGPLi4nH9tnEOE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNo_PjAeyzAwbdRT2nqbQu_zjXHPlUjUh7uvlKq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMN8xzpf_XgRK4owkdWrfkRq9fG8wI4wh7YU6dl=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJh7I9bh3eQIYRLtFUhVzqLDk",
+      "google_maps_url": "https://maps.google.com/?cid=4119925442231980334",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "12641, 12903 Jebbia Ln, Stafford, TX 77477, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.6390184,
-            "lng": -95.5515834
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.6403688302915,
-              "lng": -95.5503782697085
-            },
-            "southwest": {
-              "lat": 29.6376708697085,
-              "lng": -95.55307623029151
-            }
-          }
-        },
-        "international_phone_number": "+1 281-495-3100",
-        "name": "Chung Mei Temple Columbarium",
-        "place_id": "ChIJd-JQG3DoQIYRZLKh8CCE0k0",
-        "url": "https://maps.google.com/?cid=5607689763040637540",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM9tJ7fw0tb7cwwH8XMtZ2i7r0FrEmkIQHxiiwq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9dsdI_k-3v2qdEGwbgjt3PyvPx5Il05JYxDH-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtCJAmcowMm6jcHFWj136hn60cOLjPnMJrK_6z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRV_LSjMzU0b2pCvVge5AEpKSQmqrt-WsMWzok=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTFdAGqOVqOgU_VY6JL3yHkR1yTgU-jR7uQWFV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwk_Y-lE9hb84tArttrVHXmffu6jtMp-j0sFkD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyCJdpmObXy7UAs3Y54eOhxj6H2S670yTW308O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOiFP1phl5DosPtjBfmhfWq8E6YIZvVELyneJH_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8CKUDDIvaccAg1VLa8QTUdnVsip8A_rNQ4b7W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtYtB8_--7YZy3PQK32GhWwcqVdOVE0_BaM-56=s1600-w800-h800"
-        ]
+      "name": "Chung Mei Temple Columbarium",
+      "location": {
+        "lat": 29.6390184,
+        "lng": -95.5515834
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "12641, 12903 Jebbia Ln, Stafford, TX 77477, USA",
+      "phone": "+1 281-495-3100",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM9tJ7fw0tb7cwwH8XMtZ2i7r0FrEmkIQHxiiwq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9dsdI_k-3v2qdEGwbgjt3PyvPx5Il05JYxDH-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtCJAmcowMm6jcHFWj136hn60cOLjPnMJrK_6z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRV_LSjMzU0b2pCvVge5AEpKSQmqrt-WsMWzok=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTFdAGqOVqOgU_VY6JL3yHkR1yTgU-jR7uQWFV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwk_Y-lE9hb84tArttrVHXmffu6jtMp-j0sFkD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyCJdpmObXy7UAs3Y54eOhxj6H2S670yTW308O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOiFP1phl5DosPtjBfmhfWq8E6YIZvVELyneJH_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8CKUDDIvaccAg1VLa8QTUdnVsip8A_rNQ4b7W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtYtB8_--7YZy3PQK32GhWwcqVdOVE0_BaM-56=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJd-JQG3DoQIYRZLKh8CCE0k0",
+      "google_maps_url": "https://maps.google.com/?cid=5607689763040637540",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8625 Karen St, Houston, TX 77037, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.8850631,
-            "lng": -95.3969522
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.8864122802915,
-              "lng": -95.3954880197085
-            },
-            "southwest": {
-              "lat": 29.8837143197085,
-              "lng": -95.3981859802915
-            }
-          }
-        },
-        "international_phone_number": "+1 281-448-8833",
-        "name": "Watpasrithavorn",
-        "place_id": "ChIJLTtFER_IQIYRXElp9EE-O7k",
-        "url": "https://maps.google.com/?cid=13347330373636933980",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOsAiOFHf5kktkTyKOgULZh4HJ_k1LhQXjaV-ud=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNr4kgbpwB0TkQrAArCwk3V28YU8ikZs1_zdTSO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6NU6kL9YvcxK9bdqaD9BKRZ_E6jbg9FE8bO-B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNT_QKgiJqbBj6CDbD0PWtAadxJD-A_D56e7Ec=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNIPfhtpCH8eFa5oiMi0Bg1rXL_LjBggmX4uHIz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMV1L3B-EgfgNBOwonFcPeRoFPAyasSgk-8vz6P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMO1AwzYiVFSbksnnFm_3pEKueCwiA0tQLCf42z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZx_xiKbdU0APYE98r317DfTH-Gn0GfweBWuNT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNbhnI537UsShL6vJju3ER8zdMOTU3YF4o26Z3O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6BBPIz8FOh1_-RKbhBH1zgBJbofiRIaURAWb0=s1600-w800-h800"
-        ]
+      "name": "Watpasrithavorn",
+      "location": {
+        "lat": 29.8850631,
+        "lng": -95.3969522
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "8625 Karen St, Houston, TX 77037, USA",
+      "phone": "+1 281-448-8833",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOsAiOFHf5kktkTyKOgULZh4HJ_k1LhQXjaV-ud=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNr4kgbpwB0TkQrAArCwk3V28YU8ikZs1_zdTSO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6NU6kL9YvcxK9bdqaD9BKRZ_E6jbg9FE8bO-B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNT_QKgiJqbBj6CDbD0PWtAadxJD-A_D56e7Ec=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNIPfhtpCH8eFa5oiMi0Bg1rXL_LjBggmX4uHIz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMV1L3B-EgfgNBOwonFcPeRoFPAyasSgk-8vz6P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMO1AwzYiVFSbksnnFm_3pEKueCwiA0tQLCf42z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZx_xiKbdU0APYE98r317DfTH-Gn0GfweBWuNT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNbhnI537UsShL6vJju3ER8zdMOTU3YF4o26Z3O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6BBPIz8FOh1_-RKbhBH1zgBJbofiRIaURAWb0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJLTtFER_IQIYRXElp9EE-O7k",
+      "google_maps_url": "https://maps.google.com/?cid=13347330373636933980",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "12550 Jebbia Ln, Stafford, TX 77477, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.63877540000001,
-            "lng": -95.55442699999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.64006143029151,
-              "lng": -95.55291031970849
-            },
-            "southwest": {
-              "lat": 29.63736346970851,
-              "lng": -95.5556082802915
-            }
-          }
-        },
-        "international_phone_number": "+1 281-495-3100",
-        "name": "Fo Guang Shan Chung Mei Temple-Houston",
-        "place_id": "ChIJNcc4DnDoQIYR4ansk9B6Rc8",
-        "url": "https://maps.google.com/?cid=14935478775497664993",
-        "website": "http://www.houstonbuddhism.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOqZOtWYnPzKU7GxZtL5_Ksb1lWRY4GyLEuVj6_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGkqgZ5kwoZ82SugYazmWJxPIACl9k4netSMN6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwMdxxhVWjx_om-HSfzWQCgnZZP0et_9hnFQ1f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNpyZXVgdXHVj7S6VXPmFQHTzhEW7gdH6dtHwXB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNHr4HqlfoA3rn_MObgrKXaZAMuQUn7uK_dJAEb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6f0fFyzysa4am9XRVNU4O0eEafpjpo6zWhzuP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPDrnF1MkV9nhcDtj9WOo8HH5YBVhqjMDDZ8NB5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpW5pE_jcAeYiC7YS1uEFUw6E8vDzQAHZHmWQj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPm8uoH-djtQbeGxgJGkKQz6CswGtIAifYSlGE1=s1600-w800-h742",
-          "https://lh3.googleusercontent.com/p/AF1QipNcPQ9zNtNTP2v7okgEXHkHnGoRC7CCImGPG6C7=s1600-w800-h800"
-        ]
+      "name": "Fo Guang Shan Chung Mei Temple-Houston",
+      "location": {
+        "lat": 29.63877540000001,
+        "lng": -95.55442699999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "12550 Jebbia Ln, Stafford, TX 77477, USA",
+      "phone": "+1 281-495-3100",
+      "website": "http://www.houstonbuddhism.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOqZOtWYnPzKU7GxZtL5_Ksb1lWRY4GyLEuVj6_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGkqgZ5kwoZ82SugYazmWJxPIACl9k4netSMN6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwMdxxhVWjx_om-HSfzWQCgnZZP0et_9hnFQ1f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNpyZXVgdXHVj7S6VXPmFQHTzhEW7gdH6dtHwXB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNHr4HqlfoA3rn_MObgrKXaZAMuQUn7uK_dJAEb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6f0fFyzysa4am9XRVNU4O0eEafpjpo6zWhzuP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPDrnF1MkV9nhcDtj9WOo8HH5YBVhqjMDDZ8NB5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpW5pE_jcAeYiC7YS1uEFUw6E8vDzQAHZHmWQj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPm8uoH-djtQbeGxgJGkKQz6CswGtIAifYSlGE1=s1600-w800-h742",
+        "https://lh3.googleusercontent.com/p/AF1QipNcPQ9zNtNTP2v7okgEXHkHnGoRC7CCImGPG6C7=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJNcc4DnDoQIYR4ansk9B6Rc8",
+      "google_maps_url": "https://maps.google.com/?cid=14935478775497664993",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "17355 Groeschke Rd, Houston, TX 77084, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.8149262,
-            "lng": -95.66879879999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.8165739302915,
-              "lng": -95.66743756970848
-            },
-            "southwest": {
-              "lat": 29.8138759697085,
-              "lng": -95.67013553029149
-            }
-          }
-        },
-        "international_phone_number": "+1 281-829-0816",
-        "name": "Vien Thong Buddhist Temple",
-        "place_id": "ChIJA6ZLVKLZQIYRpegfWaYHBPk",
-        "url": "https://maps.google.com/?cid=17943475226392127653",
-        "website": "http://vienthongtu.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPeIzTbFhi_DMNUMl1tEwnYq3Ay771BsBiFDTO4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1TCWKvjNVShgbSMgIAw257jeA-8xcIMUz47q6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzVnrfInknGRndKvKLwY-kCet0CdAKW8R0UhHS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhP0cq3_2v9ZCYTbQkSEVe__NV7BD7nhCDALd3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNm1ou1xdUOTdrmpjJOct7vent9FxKrf-1XpyuG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPO-P1gPVxw3tokjdiF5A0lH4EFB8CrlPFXw9uK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPMmpdEVTKUjh-iYHHL3SRxU0RpYaP4tH3C5SiX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3empwWCuLGQ0F8wFWL7TJYp9Ip3WJu07_Mtsn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmcxLuD0POPSLISdQ46FnKWYSWn6kuDhqykKTV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipON3cInZg34hB1z-Yo2z_6iEOxoazmIOf9_xYTx=s1600-w800-h800"
-        ]
+      "name": "Vien Thong Buddhist Temple",
+      "location": {
+        "lat": 29.8149262,
+        "lng": -95.66879879999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "17355 Groeschke Rd, Houston, TX 77084, USA",
+      "phone": "+1 281-829-0816",
+      "website": "http://vienthongtu.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPeIzTbFhi_DMNUMl1tEwnYq3Ay771BsBiFDTO4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1TCWKvjNVShgbSMgIAw257jeA-8xcIMUz47q6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzVnrfInknGRndKvKLwY-kCet0CdAKW8R0UhHS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhP0cq3_2v9ZCYTbQkSEVe__NV7BD7nhCDALd3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNm1ou1xdUOTdrmpjJOct7vent9FxKrf-1XpyuG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPO-P1gPVxw3tokjdiF5A0lH4EFB8CrlPFXw9uK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPMmpdEVTKUjh-iYHHL3SRxU0RpYaP4tH3C5SiX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3empwWCuLGQ0F8wFWL7TJYp9Ip3WJu07_Mtsn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmcxLuD0POPSLISdQ46FnKWYSWn6kuDhqykKTV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipON3cInZg34hB1z-Yo2z_6iEOxoazmIOf9_xYTx=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA6ZLVKLZQIYRpegfWaYHBPk",
+      "google_maps_url": "https://maps.google.com/?cid=17943475226392127653",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2202 Pech Rd, Houston, TX 77055, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.8137759,
-            "lng": -95.4953931
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.81494543029149,
-              "lng": -95.4940382197085
-            },
-            "southwest": {
-              "lat": 29.8122474697085,
-              "lng": -95.4967361802915
-            }
-          }
-        },
-        "international_phone_number": "+1 713-464-9421",
-        "name": "Second Long Hoa Buddhist Temple",
-        "place_id": "ChIJRz-x0jTEQIYRfCCAS7v_6cs",
-        "url": "https://maps.google.com/?cid=14693556439163609212",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPWLgWSANCLtDfvivDyLnOQ1JTUOGaoE1OHfz_6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJxjW3M34lOlDJsWZ980UIa-_ByAyunm8iarhM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTqXznhu3rgDSN80uHewr9YcYYzS8WWkybBJJu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwxJYCcsZUX6KqMAx9J-JIfE6fF4NL-vMKXUAn=s1600-w800-h800"
-        ]
+      "name": "Second Long Hoa Buddhist Temple",
+      "location": {
+        "lat": 29.8137759,
+        "lng": -95.4953931
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "2202 Pech Rd, Houston, TX 77055, USA",
+      "phone": "+1 713-464-9421",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPWLgWSANCLtDfvivDyLnOQ1JTUOGaoE1OHfz_6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJxjW3M34lOlDJsWZ980UIa-_ByAyunm8iarhM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTqXznhu3rgDSN80uHewr9YcYYzS8WWkybBJJu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwxJYCcsZUX6KqMAx9J-JIfE6fF4NL-vMKXUAn=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJRz-x0jTEQIYRfCCAS7v_6cs",
+      "google_maps_url": "https://maps.google.com/?cid=14693556439163609212",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "13923 W Bellfort Blvd, Sugar Land, TX 77498, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.66027249999999,
-            "lng": -95.6297378
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.6614096802915,
-              "lng": -95.62892765
-            },
-            "southwest": {
-              "lat": 29.6587117197085,
-              "lng": -95.63216824999999
-            }
-          }
-        },
-        "international_phone_number": "+1 281-240-2438",
-        "name": "Watpa Buddhayan Meditation Center",
-        "place_id": "ChIJTxdWX0PnQIYRAjOEXkBza6Q",
-        "url": "https://maps.google.com/?cid=11847689965029044994",
-        "website": "https://m.facebook.com/watpabuddhayanmeditationcenter",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNm9eRA1W6oGBSk-duTN2BkL4ieYtDTDnumTBvN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPShaGc5F62PPw22AyHiZLXvBIats20EK4baG4c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMB8HrjCnf6q4KFI88Xk6dKgo7jCDy5NnWbwSQm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4oDiinVVLJj_ZwpHQcvukLnqQ3NGaAKuqLi_w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwpQioVglJf8cMNfZPaFZy9tQlVVcH40wjRU90=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdLkMBNhiRMn0NXr1RTrUxQcGtAaj9zd2GqnWS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOC55wGtDZja0MU9IHpX2rj5QKlsowNXS3Xbvn1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9cLtH2of7VgLTVdZsOrNypTC5LMPA5COoFCPK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO68JNcmBomWnczdJ8MH4ZL6I8KWuaYjtm7ikln=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLnWOPlb4n2gTxBOaDuNZWebrXdq67uQNaSTsu=s1600-w800-h800"
-        ]
+      "name": "Watpa Buddhayan Meditation Center",
+      "location": {
+        "lat": 29.66027249999999,
+        "lng": -95.6297378
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "13923 W Bellfort Blvd, Sugar Land, TX 77498, USA",
+      "phone": "+1 281-240-2438",
+      "website": "https://m.facebook.com/watpabuddhayanmeditationcenter",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNm9eRA1W6oGBSk-duTN2BkL4ieYtDTDnumTBvN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPShaGc5F62PPw22AyHiZLXvBIats20EK4baG4c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMB8HrjCnf6q4KFI88Xk6dKgo7jCDy5NnWbwSQm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4oDiinVVLJj_ZwpHQcvukLnqQ3NGaAKuqLi_w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwpQioVglJf8cMNfZPaFZy9tQlVVcH40wjRU90=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdLkMBNhiRMn0NXr1RTrUxQcGtAaj9zd2GqnWS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOC55wGtDZja0MU9IHpX2rj5QKlsowNXS3Xbvn1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9cLtH2of7VgLTVdZsOrNypTC5LMPA5COoFCPK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO68JNcmBomWnczdJ8MH4ZL6I8KWuaYjtm7ikln=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLnWOPlb4n2gTxBOaDuNZWebrXdq67uQNaSTsu=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTxdWX0PnQIYRAjOEXkBza6Q",
+      "google_maps_url": "https://maps.google.com/?cid=11847689965029044994",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "17703 French Rd, Houston, TX 77084, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.8462546,
-            "lng": -95.66967249999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.84775558029149,
-              "lng": -95.6683246197085
-            },
-            "southwest": {
-              "lat": 29.84505761970849,
-              "lng": -95.6710225802915
-            }
-          }
-        },
-        "international_phone_number": "+1 713-636-2404",
-        "name": "Quang Duc Temple",
-        "place_id": "ChIJ4TRNLNzZQIYRS4Hl8blsbMI",
-        "url": "https://maps.google.com/?cid=14009692086725869899",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNoOP-B2bgAbsfF8_ASAG77jHeTZWThfkS9fTAJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1VkfEYUwZzV1fxH4AKaPWrMJCI19vdm-bx77y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMJVe1w-ZFMRq9NwXf0ZR9-dhvZYoOlYe587S0Z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMnRsTRc_nxw0FWAsvsZbq3NrgVZYzwE5OkIA74=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOyo5wYeSMwBTNaposyQy00Zxb_T30PrXkZOcoF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNu8Mdgj0AE6LlfGdUnHvY8m1LKosz6kiKUnEJ_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfw1wLk1v4tpj99QgynLScxfRh7GX5ORb-okEK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0KcT-Fz2-aKz6Y0B-w-HwUb6IecCekScrRH9T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlH6ZBUKmm--T9DRnsuujkYnPu-iHn7QjPGDq4=s1600-w800-h800"
-        ]
+      "name": "Quang Duc Temple",
+      "location": {
+        "lat": 29.8462546,
+        "lng": -95.66967249999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "17703 French Rd, Houston, TX 77084, USA",
+      "phone": "+1 713-636-2404",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNoOP-B2bgAbsfF8_ASAG77jHeTZWThfkS9fTAJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1VkfEYUwZzV1fxH4AKaPWrMJCI19vdm-bx77y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMJVe1w-ZFMRq9NwXf0ZR9-dhvZYoOlYe587S0Z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMnRsTRc_nxw0FWAsvsZbq3NrgVZYzwE5OkIA74=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOyo5wYeSMwBTNaposyQy00Zxb_T30PrXkZOcoF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNu8Mdgj0AE6LlfGdUnHvY8m1LKosz6kiKUnEJ_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfw1wLk1v4tpj99QgynLScxfRh7GX5ORb-okEK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0KcT-Fz2-aKz6Y0B-w-HwUb6IecCekScrRH9T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlH6ZBUKmm--T9DRnsuujkYnPu-iHn7QjPGDq4=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ4TRNLNzZQIYRS4Hl8blsbMI",
+      "google_maps_url": "https://maps.google.com/?cid=14009692086725869899",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1606 Roy Rd, Pearland, TX 77581, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.5824656,
-            "lng": -95.3286005
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.5838228302915,
-              "lng": -95.3267211197085
-            },
-            "southwest": {
-              "lat": 29.5811248697085,
-              "lng": -95.3294190802915
-            }
-          }
-        },
-        "international_phone_number": "+1 832-328-7825",
-        "name": "Pháp Vân Monastery",
-        "place_id": "ChIJdVLccfOTQIYRfMvl9VL3nIY",
-        "url": "https://maps.google.com/?cid=9699899633134062460",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOhvLM1220aCHk1FHslKh_d-tn4eUs62n42VZtq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNnJMjIf5yOCqqklkbNrcdoubf6KkViAk2ZIkzc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMecnrB3-NnMH1IJByqr89XDanBuYC0La0hYZ4v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMR5_295Hjr-xko2ZpSred2ts9USPEeN-xY46-z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4UAumLGZmV8VbG1hQh2lV8a_NTrsazEQUTMXz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOK7KYuCkTlGqVV2q6ag2Ny1Gl7Yiq8UKQOr4Rm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQwIUEwBmNL704-D0pMJi9lJr3gHn9LeRC0VcF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOC-XAEwnoDdR2CzlcjHmZE24SB9Wu0hELxCJS9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkHc0kkACqdN5Ma8qrxdMfs-rJYw3Ary-gxDMz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrSnOqPncI0bHtRIsrO_KpPa21D9q3cr2rCJs3=s1600-w800-h800"
-        ]
+      "name": "Pháp Vân Monastery",
+      "location": {
+        "lat": 29.5824656,
+        "lng": -95.3286005
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "1606 Roy Rd, Pearland, TX 77581, USA",
+      "phone": "+1 832-328-7825",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOhvLM1220aCHk1FHslKh_d-tn4eUs62n42VZtq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNnJMjIf5yOCqqklkbNrcdoubf6KkViAk2ZIkzc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMecnrB3-NnMH1IJByqr89XDanBuYC0La0hYZ4v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMR5_295Hjr-xko2ZpSred2ts9USPEeN-xY46-z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4UAumLGZmV8VbG1hQh2lV8a_NTrsazEQUTMXz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOK7KYuCkTlGqVV2q6ag2Ny1Gl7Yiq8UKQOr4Rm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQwIUEwBmNL704-D0pMJi9lJr3gHn9LeRC0VcF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOC-XAEwnoDdR2CzlcjHmZE24SB9Wu0hELxCJS9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkHc0kkACqdN5Ma8qrxdMfs-rJYw3Ary-gxDMz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrSnOqPncI0bHtRIsrO_KpPa21D9q3cr2rCJs3=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJdVLccfOTQIYRfMvl9VL3nIY",
+      "google_maps_url": "https://maps.google.com/?cid=9699899633134062460",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "6709 Sugarland Howell Rd, Houston, TX 77083, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.7054026,
-            "lng": -95.6326053
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.7067542802915,
-              "lng": -95.6314253697085
-            },
-            "southwest": {
-              "lat": 29.7040563197085,
-              "lng": -95.6341233302915
-            }
-          }
-        },
-        "international_phone_number": "+1 281-272-6127",
-        "name": "Lien Hoa Temple",
-        "place_id": "ChIJYbDJ7s_dQIYRBWDsAExrr5g",
-        "url": "https://maps.google.com/?cid=11002130388866588677",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOYIGP4YRBb3vNprChEcWakJkI-AdXDLZqYx8pw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRn2bDLCNbfWWzsGRaNFpMJZOxE8YHLo_olE2A=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjepIecB-Jl-f794O75B3kO_zA60c-5NnxSmdn=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNKxDTfXao0ulJJ4dQX40hM5Imlys-EoyZ-2MI7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPewvf6-6plje3ACRhGzxbxKo0rBr8c6iXEk4yx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONX_WemjKl9qGYeDXFO75ku14mcSNYxKmDnQmH=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPNKDWFbIYjKubvgiSuvdarBdTeV78mgmE4H14H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOP3HKvJrQzcUQtJIArpHhNWIw0LyROFvJLwwYc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMfqal9QIj0_KxqWvGPbqs7w__vOrh3uxHLwGmS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCTPP3uqlQ930nWC2c71V3ZtCOj07Hz23vH6fp=s1600-w800-h800"
-        ]
+      "name": "Lien Hoa Temple",
+      "location": {
+        "lat": 29.7054026,
+        "lng": -95.6326053
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "6709 Sugarland Howell Rd, Houston, TX 77083, USA",
+      "phone": "+1 281-272-6127",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOYIGP4YRBb3vNprChEcWakJkI-AdXDLZqYx8pw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRn2bDLCNbfWWzsGRaNFpMJZOxE8YHLo_olE2A=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjepIecB-Jl-f794O75B3kO_zA60c-5NnxSmdn=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNKxDTfXao0ulJJ4dQX40hM5Imlys-EoyZ-2MI7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPewvf6-6plje3ACRhGzxbxKo0rBr8c6iXEk4yx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONX_WemjKl9qGYeDXFO75ku14mcSNYxKmDnQmH=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPNKDWFbIYjKubvgiSuvdarBdTeV78mgmE4H14H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOP3HKvJrQzcUQtJIArpHhNWIw0LyROFvJLwwYc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMfqal9QIj0_KxqWvGPbqs7w__vOrh3uxHLwGmS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCTPP3uqlQ930nWC2c71V3ZtCOj07Hz23vH6fp=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJYbDJ7s_dQIYRBWDsAExrr5g",
+      "google_maps_url": "https://maps.google.com/?cid=11002130388866588677",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "10599 Turtlewood Ct, Houston, TX 77072, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.7012726,
-            "lng": -95.5651304
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.7023227302915,
-              "lng": -95.5639231197085
-            },
-            "southwest": {
-              "lat": 29.6996247697085,
-              "lng": -95.56662108029153
-            }
-          }
-        },
-        "international_phone_number": "+1 281-983-0097",
-        "name": "Teo Chew Temple",
-        "place_id": "ChIJXQt7ZTTdQIYRjnEY9WIQcpo",
-        "url": "https://maps.google.com/?cid=11128975646390776206",
-        "website": "http://www.zschineseschool.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOyVX4TRbd-bY1P9-ZbWpWeNZFuwexewfe8z9nP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYhwMZ7wDo2eEYvnRw7ddccjlH_Ocha984hKGZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSvT8X9HYS590hWyjcMgsFBiJ1Z5PocNKVM540=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLXNsTHh5dUtJ20Qgz5RwtOwKwDrsOXCfAeD8f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6SQ8NAW9MC0c67wXCrzc371H9JHWpKhJTDpQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1EZyGBzpdCUN2mxAfT9qRnszD-J5sxKdNBPp5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_ZD39yCZ2V9CiSuL_x7vXNRDW5377J3VVcG8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNjcXRuA3_POJfT3fFRXqE8cLABbUgAJo8Me2n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCeGxo2ZbCFgxLzCyuTfAdRdpSlGhHUKEzq6KA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZr1xAWkHtgTAzCvYv25nFs1AOLoWkEPZ4zHsO=s1600-w800-h800"
-        ]
+      "name": "Teo Chew Temple",
+      "location": {
+        "lat": 29.7012726,
+        "lng": -95.5651304
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "10599 Turtlewood Ct, Houston, TX 77072, USA",
+      "phone": "+1 281-983-0097",
+      "website": "http://www.zschineseschool.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOyVX4TRbd-bY1P9-ZbWpWeNZFuwexewfe8z9nP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYhwMZ7wDo2eEYvnRw7ddccjlH_Ocha984hKGZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSvT8X9HYS590hWyjcMgsFBiJ1Z5PocNKVM540=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLXNsTHh5dUtJ20Qgz5RwtOwKwDrsOXCfAeD8f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6SQ8NAW9MC0c67wXCrzc371H9JHWpKhJTDpQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1EZyGBzpdCUN2mxAfT9qRnszD-J5sxKdNBPp5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_ZD39yCZ2V9CiSuL_x7vXNRDW5377J3VVcG8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNjcXRuA3_POJfT3fFRXqE8cLABbUgAJo8Me2n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCeGxo2ZbCFgxLzCyuTfAdRdpSlGhHUKEzq6KA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZr1xAWkHtgTAzCvYv25nFs1AOLoWkEPZ4zHsO=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJXQt7ZTTdQIYRjnEY9WIQcpo",
+      "google_maps_url": "https://maps.google.com/?cid=11128975646390776206",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5251 Rendon Rd, Everman, TX 76140, USA",
-        "geometry": {
-          "location": {
-            "lat": 32.5891018,
-            "lng": -97.2486402
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.5903554302915,
-              "lng": -97.2473329697085
-            },
-            "southwest": {
-              "lat": 32.58765746970851,
-              "lng": -97.2500309302915
-            }
-          }
-        },
-        "international_phone_number": "+1 817-483-8670",
-        "name": "Quang Chieu Zen Monastery",
-        "place_id": "ChIJxbFW5A1mToYRrVUrdCJSiDo",
-        "url": "https://maps.google.com/?cid=4217711358963832237",
-        "website": "http://quang-chieu-zen.jany.io/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN7a_8NtcTkmbx3jmJQ8XXYOSg6o6KLy4k-rZw2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRecXui6aqsqo8Bq517eGumHWiHPO08k6nHYQN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwGVwviqop4ZF2F4qY2gngldF6ATZheK8doQNc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNd4Rft79VMf6YJSf8FJ1WiEAwtIVJmdpuIsorI=s1600-w800-h635",
-          "https://lh3.googleusercontent.com/p/AF1QipOGrWIUZrEv-7_92Qa2W0-19hS3kCT2_GI3nIz7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpeIXo6jeEgCecRhBa-zwa1kl9LSV6zQwlSx4Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTnrxg8YSSEeNt2ffxTjHL7ACBKghX_jTGlJOb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNf0KW-lujUL8qJR5Fcfx2nmQitMIBz7NqQYEB_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMh45nyYMr2oZNIpeueC43UlrsLTZIqg-ARhncB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqz6Mta3SSTKNyDtbadwOp4DrB1pPBygco6AXA=s1600-w800-h800"
-        ]
+      "name": "Quang Chieu Zen Monastery",
+      "location": {
+        "lat": 32.5891018,
+        "lng": -97.2486402
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "5251 Rendon Rd, Everman, TX 76140, USA",
+      "phone": "+1 817-483-8670",
+      "website": "http://quang-chieu-zen.jany.io/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN7a_8NtcTkmbx3jmJQ8XXYOSg6o6KLy4k-rZw2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRecXui6aqsqo8Bq517eGumHWiHPO08k6nHYQN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwGVwviqop4ZF2F4qY2gngldF6ATZheK8doQNc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNd4Rft79VMf6YJSf8FJ1WiEAwtIVJmdpuIsorI=s1600-w800-h635",
+        "https://lh3.googleusercontent.com/p/AF1QipOGrWIUZrEv-7_92Qa2W0-19hS3kCT2_GI3nIz7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpeIXo6jeEgCecRhBa-zwa1kl9LSV6zQwlSx4Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTnrxg8YSSEeNt2ffxTjHL7ACBKghX_jTGlJOb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNf0KW-lujUL8qJR5Fcfx2nmQitMIBz7NqQYEB_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMh45nyYMr2oZNIpeueC43UlrsLTZIqg-ARhncB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqz6Mta3SSTKNyDtbadwOp4DrB1pPBygco6AXA=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJxbFW5A1mToYRrVUrdCJSiDo",
+      "google_maps_url": "https://maps.google.com/?cid=4217711358963832237",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "6707 Wilcrest Dr, Houston, TX 77072, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.7059042,
-            "lng": -95.57079379999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.7072825302915,
-              "lng": -95.56964186970849
-            },
-            "southwest": {
-              "lat": 29.7045845697085,
-              "lng": -95.57233983029151
-            }
-          }
-        },
-        "international_phone_number": "+1 281-568-8881",
-        "name": "Zhong Yue Shaolin Temple",
-        "place_id": "ChIJffgKyFTdQIYREpSHDjPndJo",
-        "url": "https://maps.google.com/?cid=11129774785612452882",
-        "website": "http://www.houstonshaolintemple.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNB38ZZXCV8ZYuI9_8UcUwXpWd4D9qz4gVx0fp0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUKebJccHe3k3VE6X76_HDpELBvmPk3Lu4JflR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgVvmz7h-iW0kN-Bo-oFzjpDDAoote6sM50NL5=s1600-w800-h800"
-        ]
+      "name": "Zhong Yue Shaolin Temple",
+      "location": {
+        "lat": 29.7059042,
+        "lng": -95.57079379999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "6707 Wilcrest Dr, Houston, TX 77072, USA",
+      "phone": "+1 281-568-8881",
+      "website": "http://www.houstonshaolintemple.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNB38ZZXCV8ZYuI9_8UcUwXpWd4D9qz4gVx0fp0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUKebJccHe3k3VE6X76_HDpELBvmPk3Lu4JflR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgVvmz7h-iW0kN-Bo-oFzjpDDAoote6sM50NL5=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJffgKyFTdQIYREpSHDjPndJo",
+      "google_maps_url": "https://maps.google.com/?cid=11129774785612452882",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8058 Boone Rd #A, Houston, TX 77072, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.6897662,
-            "lng": -95.57518519999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.6911167302915,
-              "lng": -95.5735787197085
-            },
-            "southwest": {
-              "lat": 29.6884187697085,
-              "lng": -95.5762766802915
-            }
-          }
-        },
-        "international_phone_number": "+1 281-561-5129",
-        "name": "Master Cau Chin Buddhist Temple - Office",
-        "place_id": "ChIJO45VYEbdQIYRqG30yu-hHkk",
-        "url": "https://maps.google.com/?cid=5268826665344331176",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPbR1rz4YsH3Snmt6L7xyUwWURR_0HG7K9DvYLh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPxLh8eOLgy88h9wBnifr8g7UOWkDTENa5IsSLZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxmBpbM5NK9W8j9KKsQqbwk4tlp4FFle3Q_k7Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDHPjCaURWeotb8URmq2mQ8ekwSEahXBLqyoxM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMCOajU9cTjMFKrmmvFFhuRpIvM3ENvBbVkMPh1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVOnVdAPJQEz2rzNrEH9BHDwUaMGSB4P19md5t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMv7u6TLzollmpgrGXboxH7L6VBFnaIN4nhan2-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCM0WIfN3X9NKJAai8HU6oqoeBkX-9Hyst25Zl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-KNCrrwYWIvpFMNk5pobJN45WCTZmKo1IvGCV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrqOEU14kOIiiJ2V7mBXpS7JBbMFrBtijwIq4p=s1600-w800-h800"
-        ]
+      "name": "Master Cau Chin Buddhist Temple - Office",
+      "location": {
+        "lat": 29.6897662,
+        "lng": -95.57518519999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:23:30.454Z"
-      }
+      "address": "8058 Boone Rd #A, Houston, TX 77072, USA",
+      "phone": "+1 281-561-5129",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPbR1rz4YsH3Snmt6L7xyUwWURR_0HG7K9DvYLh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPxLh8eOLgy88h9wBnifr8g7UOWkDTENa5IsSLZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxmBpbM5NK9W8j9KKsQqbwk4tlp4FFle3Q_k7Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDHPjCaURWeotb8URmq2mQ8ekwSEahXBLqyoxM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMCOajU9cTjMFKrmmvFFhuRpIvM3ENvBbVkMPh1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVOnVdAPJQEz2rzNrEH9BHDwUaMGSB4P19md5t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMv7u6TLzollmpgrGXboxH7L6VBFnaIN4nhan2-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCM0WIfN3X9NKJAai8HU6oqoeBkX-9Hyst25Zl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-KNCrrwYWIvpFMNk5pobJN45WCTZmKo1IvGCV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrqOEU14kOIiiJ2V7mBXpS7JBbMFrBtijwIq4p=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJO45VYEbdQIYRqG30yu-hHkk",
+      "google_maps_url": "https://maps.google.com/?cid=5268826665344331176",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

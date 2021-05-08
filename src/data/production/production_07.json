@@ -1,2424 +1,1921 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Jalan Utama, Taman Serdang Raya, 43300 Seri Kembangan, Selangor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.0292605,
-            "lng": 101.7062077
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.030694180291502,
-              "lng": 101.7077225302915
-            },
-            "southwest": {
-              "lat": 3.027996219708498,
-              "lng": 101.7050245697085
-            }
-          }
-        },
-        "international_phone_number": "+60 3-8958 5668",
-        "name": "Fa Yuan Sagely Monastery",
-        "place_id": "ChIJz3Uu-1W1zTERgN30_Xh0DDo",
-        "url": "https://maps.google.com/?cid=4182846216925928832",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN48o4rY_vxinPjZ21HXebufZtXKO7yG9ab1WIR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZySGSq6Qq65KBpSkpb8K8LZxEGJJZfcCyoARz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1qIC2rU21d9aSZm_kRdgiEpHDRxr85zs_Pl2X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-SaqydWO4sBfmBi--Nbiui7mO0W-pEoz1XVtY=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMmUHFMqC4shW1m59HpeSSDY86dBq8ZfB4i44If=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcnj7Nh-0fpwgxtJvcDV2O7nHcB_NTnIVY67X-=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPXLXqyaHBehq178jB2nXgRHZ1UmO8LZL7pknJM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2gIQO8kiziY1rSNhbAT-9QEbwstL9WF4Ln89O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcirV6beQUHOQOn3hMA6Z3_l_pRNHK7-Pt81YS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmjyZ5y7v8e_esAkpALVnq70IIO-Bj1f3GbHe2=s1600-w800-h800"
-        ]
+      "name": "Fa Yuan Sagely Monastery",
+      "location": {
+        "lat": 3.0292605,
+        "lng": 101.7062077
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Jalan Utama, Taman Serdang Raya, 43300 Seri Kembangan, Selangor, Malaysia",
+      "phone": "+60 3-8958 5668",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN48o4rY_vxinPjZ21HXebufZtXKO7yG9ab1WIR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZySGSq6Qq65KBpSkpb8K8LZxEGJJZfcCyoARz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1qIC2rU21d9aSZm_kRdgiEpHDRxr85zs_Pl2X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-SaqydWO4sBfmBi--Nbiui7mO0W-pEoz1XVtY=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMmUHFMqC4shW1m59HpeSSDY86dBq8ZfB4i44If=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcnj7Nh-0fpwgxtJvcDV2O7nHcB_NTnIVY67X-=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPXLXqyaHBehq178jB2nXgRHZ1UmO8LZL7pknJM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2gIQO8kiziY1rSNhbAT-9QEbwstL9WF4Ln89O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcirV6beQUHOQOn3hMA6Z3_l_pRNHK7-Pt81YS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmjyZ5y7v8e_esAkpALVnq70IIO-Bj1f3GbHe2=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJz3Uu-1W1zTERgN30_Xh0DDo",
+      "google_maps_url": "https://maps.google.com/?cid=4182846216925928832",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "12 B, Level, Near, Family Hotel, 3, Jalan Gopeng, Kawasan 18, 414000 Klang, Selangor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.049723,
-            "lng": 101.4443335
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.051041130291502,
-              "lng": 101.4457223802915
-            },
-            "southwest": {
-              "lat": 3.048343169708498,
-              "lng": 101.4430244197085
-            }
-          }
-        },
-        "international_phone_number": "+60 17-266 8864",
-        "name": "Ghamma Gon-Yee Myanmar Monastery, Klang ကလန်းမြို့ ဓမ္မဂုဏ်ရည်ကျောင်း",
-        "place_id": "ChIJs-24ka1TzDER1bH3jYV9MXo",
-        "url": "https://maps.google.com/?cid=8804956759051973077",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPkWH6Am-4QAdVwkb7LSkKMcL-B9Ibt9chzsM2m=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPi3MN1LBbkiBv35iNbpTltD1dy_EoTJcgEkoY=s1600-w800-h800"
-        ]
+      "name": "Ghamma Gon-Yee Myanmar Monastery, Klang ကလန်းမြို့ ဓမ္မဂုဏ်ရည်ကျောင်း",
+      "location": {
+        "lat": 3.049723,
+        "lng": 101.4443335
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "12 B, Level, Near, Family Hotel, 3, Jalan Gopeng, Kawasan 18, 414000 Klang, Selangor, Malaysia",
+      "phone": "+60 17-266 8864",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPkWH6Am-4QAdVwkb7LSkKMcL-B9Ibt9chzsM2m=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPi3MN1LBbkiBv35iNbpTltD1dy_EoTJcgEkoY=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJs-24ka1TzDER1bH3jYV9MXo",
+      "google_maps_url": "https://maps.google.com/?cid=8804956759051973077",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "161, Jalan Ampang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.1597269,
-            "lng": 101.7157934
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.161185730291502,
-              "lng": 101.7170833302915
-            },
-            "southwest": {
-              "lat": 3.158487769708499,
-              "lng": 101.7143853697085
-            }
-          }
-        },
-        "international_phone_number": "+60 3-2164 8055",
-        "name": "Kun Yam Thong Temple",
-        "place_id": "ChIJixDGXdA3zDER8bKm3YfBq-k",
-        "url": "https://maps.google.com/?cid=16837764421138166513",
-        "website": "http://www.drbachinese.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNQHYLueRBpMRrXcQRDPJ1yP5fkk9Fcu7goYOE6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8UietfoDAkZQV8MJJg9yG5GWupt97YZK0gHhs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQd-yvcOvxBBDnC67cwgbtw8zQg7FiFS70itw9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMPmRT0w8r660vTyb6Tdf49rG-UfT9TGDNbfjoZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3HpdRSj_wY2R__iDMdbwU3_wawWmTKJLGd6a9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOa1vwJ5zd7KbR5Ea4FJgWzv9mN05kEY0DD1RF8=s1600-w800-h605",
-          "https://lh3.googleusercontent.com/p/AF1QipNS1ihmepRMIAMVLnhxT4bWYgl0CbOInx4V_n5S=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJzh_ocuaJbrc0_c0y2LFa82jBz5bmWwViSTCF=s1600-w800-h605",
-          "https://lh3.googleusercontent.com/p/AF1QipMFyRs38SPryTDuaHHY5frwpdihat0f5CCSXw5y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgJwP4WFaL5Nu-ChfJCMFQK4flHfn1EALS1wQ0=s1600-w800-h800"
-        ]
+      "name": "Kun Yam Thong Temple",
+      "location": {
+        "lat": 3.1597269,
+        "lng": 101.7157934
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "161, Jalan Ampang, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "phone": "+60 3-2164 8055",
+      "website": "http://www.drbachinese.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNQHYLueRBpMRrXcQRDPJ1yP5fkk9Fcu7goYOE6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8UietfoDAkZQV8MJJg9yG5GWupt97YZK0gHhs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQd-yvcOvxBBDnC67cwgbtw8zQg7FiFS70itw9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMPmRT0w8r660vTyb6Tdf49rG-UfT9TGDNbfjoZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3HpdRSj_wY2R__iDMdbwU3_wawWmTKJLGd6a9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOa1vwJ5zd7KbR5Ea4FJgWzv9mN05kEY0DD1RF8=s1600-w800-h605",
+        "https://lh3.googleusercontent.com/p/AF1QipNS1ihmepRMIAMVLnhxT4bWYgl0CbOInx4V_n5S=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJzh_ocuaJbrc0_c0y2LFa82jBz5bmWwViSTCF=s1600-w800-h605",
+        "https://lh3.googleusercontent.com/p/AF1QipMFyRs38SPryTDuaHHY5frwpdihat0f5CCSXw5y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgJwP4WFaL5Nu-ChfJCMFQK4flHfn1EALS1wQ0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJixDGXdA3zDER8bKm3YfBq-k",
+      "google_maps_url": "https://maps.google.com/?cid=16837764421138166513",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "123, Jalan Berhala, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.1281951,
-            "lng": 101.6870709
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.129314130291502,
-              "lng": 101.6884675302915
-            },
-            "southwest": {
-              "lat": 3.126616169708498,
-              "lng": 101.6857695697085
-            }
-          }
-        },
-        "international_phone_number": "+60 3-2274 1141",
-        "name": "Buddhist Maha Vihara",
-        "place_id": "ChIJDbZymetJzDERkjwdFIKToy4",
-        "url": "https://maps.google.com/?cid=3360691933841013906",
-        "website": "https://buddhistmahavihara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMf89tH9ljIcra2hEduMCI6yocMBw8FWf4hTEIZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP54FnzlgyV_MbxssCmSSYdgsHfDp-_UjYD0Rkt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOO8GPoh3bMrdNMqoyZiqh-lZoiCl7sPMX54Ogm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMrBfcFRktxL76sK4XnA-V8oRu00TYacGfSIzz-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqV2n-LXb-3A3tI2B-L_R6EEofm8Zc78QZ5QTT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQfoWLJ1JFZ41AaEqecyAa1AbjZAe-xERLbf6W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPC6sLOfDfFg14RN9KJFG92earX_eASSMonETUm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXewobAlDPNh3XQEnoD_ZZe9dj9Fu-VXtukENx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcu58TVHu1iRCC8jIRiI6LTp0IH-YIfReyEIOB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUoCMFTlLqluJJ2XTNqYTXWubMs-ZQlWvaCCNe=s1600-w800-h800"
-        ]
+      "name": "Buddhist Maha Vihara",
+      "location": {
+        "lat": 3.1281951,
+        "lng": 101.6870709
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "123, Jalan Berhala, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "phone": "+60 3-2274 1141",
+      "website": "https://buddhistmahavihara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMf89tH9ljIcra2hEduMCI6yocMBw8FWf4hTEIZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP54FnzlgyV_MbxssCmSSYdgsHfDp-_UjYD0Rkt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOO8GPoh3bMrdNMqoyZiqh-lZoiCl7sPMX54Ogm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMrBfcFRktxL76sK4XnA-V8oRu00TYacGfSIzz-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqV2n-LXb-3A3tI2B-L_R6EEofm8Zc78QZ5QTT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQfoWLJ1JFZ41AaEqecyAa1AbjZAe-xERLbf6W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPC6sLOfDfFg14RN9KJFG92earX_eASSMonETUm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXewobAlDPNh3XQEnoD_ZZe9dj9Fu-VXtukENx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcu58TVHu1iRCC8jIRiI6LTp0IH-YIfReyEIOB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUoCMFTlLqluJJ2XTNqYTXWubMs-ZQlWvaCCNe=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJDbZymetJzDERkjwdFIKToy4",
+      "google_maps_url": "https://maps.google.com/?cid=3360691933841013906",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "No.24, Jalan Pantai 9/7, Seksyen 10 Petaling Jaya, 46000 Petaling Jaya, Selangor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.1024558,
-            "lng": 101.6514764
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.103756330291502,
-              "lng": 101.6527990302915
-            },
-            "southwest": {
-              "lat": 3.101058369708499,
-              "lng": 101.6501010697085
-            }
-          }
-        },
-        "international_phone_number": "+60 3-7955 2443",
-        "name": "Thai Buddhist Chetawan Temple",
-        "place_id": "ChIJs9po3s9LzDERnjnD4WX800Q",
-        "url": "https://maps.google.com/?cid=4959585129174612382",
-        "website": "https://www.facebook.com/Chetawan-Buddhist-Temple-100102648707786",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipObTP_v543KjDaNCEXBfTPKuzA0IF0B6Y4OQHxx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOX9YmdYzB9B-uCpLki_J6M3kRezZ2Cd70FOaoV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPRIAbAx8inL5xsRmqHhpYHBw1iUi20TIWv0-W_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdedIe11bWBHjodZzHaWQpqBzIZFe50WBJsA1Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNjDSEXeGF7lVj3ZW_xMJPO0YoF5xLoaNoE9mAL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOr3rnxAqo8vYtyPnRZeHMgXUYcNKZGs9eJQk5Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMinOyXPUpBiu4TXl426joKzjLPjVwJsPiCs-oO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcVDv0Q_occfnv6f8G77IESL3OGAdUZ4pchAbq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNj4_zPHvlN2IQolQ8mc9rBgmfBRWu2PGJ9aNhI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_5mImMiJhLJoAP7t6Eaw0Q1Eo69x_4h0cL9Lx=s1600-w800-h800"
-        ]
+      "name": "Thai Buddhist Chetawan Temple",
+      "location": {
+        "lat": 3.1024558,
+        "lng": 101.6514764
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "No.24, Jalan Pantai 9/7, Seksyen 10 Petaling Jaya, 46000 Petaling Jaya, Selangor, Malaysia",
+      "phone": "+60 3-7955 2443",
+      "website": "https://www.facebook.com/Chetawan-Buddhist-Temple-100102648707786",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipObTP_v543KjDaNCEXBfTPKuzA0IF0B6Y4OQHxx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOX9YmdYzB9B-uCpLki_J6M3kRezZ2Cd70FOaoV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPRIAbAx8inL5xsRmqHhpYHBw1iUi20TIWv0-W_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdedIe11bWBHjodZzHaWQpqBzIZFe50WBJsA1Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNjDSEXeGF7lVj3ZW_xMJPO0YoF5xLoaNoE9mAL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOr3rnxAqo8vYtyPnRZeHMgXUYcNKZGs9eJQk5Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMinOyXPUpBiu4TXl426joKzjLPjVwJsPiCs-oO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcVDv0Q_occfnv6f8G77IESL3OGAdUZ4pchAbq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNj4_zPHvlN2IQolQ8mc9rBgmfBRWu2PGJ9aNhI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_5mImMiJhLJoAP7t6Eaw0Q1Eo69x_4h0cL9Lx=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJs9po3s9LzDERnjnD4WX800Q",
+      "google_maps_url": "https://maps.google.com/?cid=4959585129174612382",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "123, Jalan Berhala, Brickfields (Off Jalan Tun Sambanthan), Kuala Lumpur, Brickfields, 50470 Wilayah Persekutuan, Federal Territory of Kuala Lumpur, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.131634999999999,
-            "lng": 101.687134
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.133025430291501,
-              "lng": 101.6884441302915
-            },
-            "southwest": {
-              "lat": 3.130327469708498,
-              "lng": 101.6857461697085
-            }
-          }
-        },
-        "international_phone_number": "+60 3-2273 0150",
-        "name": "Buddhist Missionary Society Malaysia and Buddhist Maha Vihara",
-        "place_id": "ChIJF4qRfupJzDERTclQV34J6vU",
-        "url": "https://maps.google.com/?cid=17719986122078079309",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddhist Missionary Society Malaysia and Buddhist Maha Vihara",
+      "location": {
+        "lat": 3.131634999999999,
+        "lng": 101.687134
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "123, Jalan Berhala, Brickfields (Off Jalan Tun Sambanthan), Kuala Lumpur, Brickfields, 50470 Wilayah Persekutuan, Federal Territory of Kuala Lumpur, Malaysia",
+      "phone": "+60 3-2273 0150",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJF4qRfupJzDERTclQV34J6vU",
+      "google_maps_url": "https://maps.google.com/?cid=17719986122078079309",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Taman Bukit Mewah, 43000 Kajang, Selangor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 2.9847446,
-            "lng": 101.7995647
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 2.986049230291502,
-              "lng": 101.8009119302915
-            },
-            "southwest": {
-              "lat": 2.983351269708499,
-              "lng": 101.7982139697085
-            }
-          }
-        },
-        "international_phone_number": "+60 12-211 7178",
-        "name": "Palpung Choeying Monastery Malaysia",
-        "place_id": "ChIJS-uYIvfNzTERAQtTCwuqw8g",
-        "url": "https://maps.google.com/?cid=14466593392455518977",
-        "website": "http://www.palpungchoeying.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMO0sZWP-BSFOpzaNE-GR4ktK8-V-_SU7V2N8Bp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOk9A9wdlkcpLZOA7LhoymtNUKY_dzEoZeql7WK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpi3g_lvhEXewej0l90wt_GefmFT8xfqtHrTzc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZyi6N9yl7BUdruQuvnbfglsJ-q3v0WcXrHTzd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtat5k-ouFEt29daayuXpb1PRgQ2lb7rVbOG5F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAQlfVDB8C9oApVh0HUiwyPiz3qRBoQZztwKhd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDsjnxpT2vFcb06b_mzF3bTXN26J5SK97SpwLN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9qB_5bROsBrYuOlgbj0d_1Vy_aZoOKdTk_4-n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNzKU-_TOmOngW4RY7H_WNWGOZdkIBfBlUjGi3X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuu031E4wQlBzo_H23bHVD8EXGylRCicSEHWoo=s1600-w800-h800"
-        ]
+      "name": "Palpung Choeying Monastery Malaysia",
+      "location": {
+        "lat": 2.9847446,
+        "lng": 101.7995647
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Taman Bukit Mewah, 43000 Kajang, Selangor, Malaysia",
+      "phone": "+60 12-211 7178",
+      "website": "http://www.palpungchoeying.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMO0sZWP-BSFOpzaNE-GR4ktK8-V-_SU7V2N8Bp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOk9A9wdlkcpLZOA7LhoymtNUKY_dzEoZeql7WK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpi3g_lvhEXewej0l90wt_GefmFT8xfqtHrTzc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZyi6N9yl7BUdruQuvnbfglsJ-q3v0WcXrHTzd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtat5k-ouFEt29daayuXpb1PRgQ2lb7rVbOG5F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAQlfVDB8C9oApVh0HUiwyPiz3qRBoQZztwKhd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDsjnxpT2vFcb06b_mzF3bTXN26J5SK97SpwLN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9qB_5bROsBrYuOlgbj0d_1Vy_aZoOKdTk_4-n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNzKU-_TOmOngW4RY7H_WNWGOZdkIBfBlUjGi3X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuu031E4wQlBzo_H23bHVD8EXGylRCicSEHWoo=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJS-uYIvfNzTERAQtTCwuqw8g",
+      "google_maps_url": "https://maps.google.com/?cid=14466593392455518977",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jln Tun Razak, Pekeliling, 53000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.1750127,
-            "lng": 101.6978758
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.176322330291502,
-              "lng": 101.6991508802915
-            },
-            "southwest": {
-              "lat": 3.173624369708498,
-              "lng": 101.6964529197085
-            }
-          }
-        },
-        "international_phone_number": "+60 3-4022 3053",
-        "name": "Wat Meh Liew Thai Buddhist Temple",
-        "place_id": "ChIJ82c8mRlIzDERzI11F-hu-ck",
-        "url": "https://maps.google.com/?cid=14553785613929516492",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP-5LHjRJvPUbwoN8rQs2sk_QLbpr6ZOkjv9HrN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMyPMabT8i5C24wGmfnssiVA8V5tNmOr1ky_Cpy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3LiqTD8Fh9fIuE-q5e1xlJpcFW77SRPck8vel=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtlojHOZNZS7O1_TK0XaPB6P99LDvYaG1hzywk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMO6ZjYHcKPY1PHhNqVRdZNEpapbWxMqbIddAeI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKN8rvM0eFyZ5DM5jAPEvpZexXnMrTjgKIsD8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPadzQoqUSMBi8biUhvUmVGtnYhc6GWGFVXxB5a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPp6sugLXtTXftw3omtZvIfwj_n0a8WXIX4FkFQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOAAY-uTDodtUnl0mKWCh3U8ikHxHXJ3vmzmJ2o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPx2GEJZahxyQti27zfnH3WbndtgU6ddiA5A_qD=s1600-w800-h800"
-        ]
+      "name": "Wat Meh Liew Thai Buddhist Temple",
+      "location": {
+        "lat": 3.1750127,
+        "lng": 101.6978758
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Jln Tun Razak, Pekeliling, 53000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "phone": "+60 3-4022 3053",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP-5LHjRJvPUbwoN8rQs2sk_QLbpr6ZOkjv9HrN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMyPMabT8i5C24wGmfnssiVA8V5tNmOr1ky_Cpy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3LiqTD8Fh9fIuE-q5e1xlJpcFW77SRPck8vel=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtlojHOZNZS7O1_TK0XaPB6P99LDvYaG1hzywk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMO6ZjYHcKPY1PHhNqVRdZNEpapbWxMqbIddAeI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKN8rvM0eFyZ5DM5jAPEvpZexXnMrTjgKIsD8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPadzQoqUSMBi8biUhvUmVGtnYhc6GWGFVXxB5a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPp6sugLXtTXftw3omtZvIfwj_n0a8WXIX4FkFQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOAAY-uTDodtUnl0mKWCh3U8ikHxHXJ3vmzmJ2o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPx2GEJZahxyQti27zfnH3WbndtgU6ddiA5A_qD=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ82c8mRlIzDERzI11F-hu-ck",
+      "google_maps_url": "https://maps.google.com/?cid=14553785613929516492",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sentul Selatan, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.172167399999999,
-            "lng": 101.6926735
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.173593030291501,
-              "lng": 101.6940659302915
-            },
-            "southwest": {
-              "lat": 3.170895069708497,
-              "lng": 101.6913679697085
-            }
-          }
-        },
-        "name": "Guan Yin Temple",
-        "place_id": "ChIJb7ZDyxdIzDER291A2BquixQ",
-        "url": "https://maps.google.com/?cid=1480468332841852379",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Guan Yin Temple",
+      "location": {
+        "lat": 3.172167399999999,
+        "lng": 101.6926735
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Sentul Selatan, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJb7ZDyxdIzDER291A2BquixQ",
+      "google_maps_url": "https://maps.google.com/?cid=1480468332841852379",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Seksyen 19, 40150 Petaling Jaya, Selangor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.1278693,
-            "lng": 101.6276235
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.129281130291502,
-              "lng": 101.6289867302915
-            },
-            "southwest": {
-              "lat": 3.126583169708498,
-              "lng": 101.6262887697085
-            }
-          }
-        },
-        "international_phone_number": "+60 12-625 3057",
-        "name": "Ratanarama Buddhist Temple",
-        "place_id": "ChIJl1yTBkZJzDERIM8Gxd2rmWg",
-        "url": "https://maps.google.com/?cid=7537244420362915616",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP99WgY03poA0yCyWcCNeYP_5NwPOYIEygfoXs9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNup4zZIcXVNSEiWx39gIpimZ_SYofi_NzKqRZ-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfaJxuLrt9YJwdzNW1sil_B89mJGqS-UDuqaSm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNY56LjZwflybTGV4AAti10RpwVpJ5CxrW-r04J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPf46X3nnP5rKt_Ne_xLHAcZXYXsNC_LoFB4Pec=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4CKImSny3U4gL3ekdWxKlnmbTZACvK2_FUnzr=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOfAIwSwFqHN99UczLm5UtMnOl4dLaDWdNwvqj9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMI6-kg2X62dhxRNgqaCP4tcaUVtI0N3Pnkg8Qd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMx91d5bDO-_JjgH7oyzLkZhB9HKT9GBGydtWOd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfbqX2Z2TVbhx5PzAnyxzn30wlc3MNkNzKRw76=s1600-w800-h800"
-        ]
+      "name": "Ratanarama Buddhist Temple",
+      "location": {
+        "lat": 3.1278693,
+        "lng": 101.6276235
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Seksyen 19, 40150 Petaling Jaya, Selangor, Malaysia",
+      "phone": "+60 12-625 3057",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP99WgY03poA0yCyWcCNeYP_5NwPOYIEygfoXs9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNup4zZIcXVNSEiWx39gIpimZ_SYofi_NzKqRZ-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfaJxuLrt9YJwdzNW1sil_B89mJGqS-UDuqaSm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNY56LjZwflybTGV4AAti10RpwVpJ5CxrW-r04J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPf46X3nnP5rKt_Ne_xLHAcZXYXsNC_LoFB4Pec=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4CKImSny3U4gL3ekdWxKlnmbTZACvK2_FUnzr=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOfAIwSwFqHN99UczLm5UtMnOl4dLaDWdNwvqj9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMI6-kg2X62dhxRNgqaCP4tcaUVtI0N3Pnkg8Qd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMx91d5bDO-_JjgH7oyzLkZhB9HKT9GBGydtWOd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfbqX2Z2TVbhx5PzAnyxzn30wlc3MNkNzKRw76=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJl1yTBkZJzDERIM8Gxd2rmWg",
+      "google_maps_url": "https://maps.google.com/?cid=7537244420362915616",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5, 43950 Sungai Pelek, Selangor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 2.633578999999999,
-            "lng": 101.6805547
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 2.634874630291502,
-              "lng": 101.6818692302915
-            },
-            "southwest": {
-              "lat": 2.632176669708498,
-              "lng": 101.6791712697085
-            }
-          }
-        },
-        "name": "Bodhivana Monastery Sg Pelek Sepang 双溪比力菩提林",
-        "place_id": "ChIJ9TTc_RftzTER3uS8u5Uakzs",
-        "url": "https://maps.google.com/?cid=4292804100216382686",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMsdEKVihxOP_2wFNXiX_XAIU0umzM3sg7BgoCA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNN1JlP7OYCoPX54qUr2qlY_TpDn5E9Mn8o5uhg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP0Xis2OsKKTczYhRdUh_SU3_G0mzfVv7E8GgoD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwhBJQlgZVVpi3y0mjX0B37-3m0nU8VdrkdPPO=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipNGF1LVhiL9obKH5uGv78Yt2mwFM4Jab7w_BNSN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcLN6nL4nFpcuGpBnplcgKW0kc8eMm727SjXMD=s1600-w800-h442",
-          "https://lh3.googleusercontent.com/p/AF1QipN1JEAGMi6HwKfNRIUAHLWiEJc-G8Brj0HP617B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJO0x2N392KklYvJVclxVcq6rwTAsDc7xY4LsN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUbkkOTusoty_4sToPRTSvPfTuoQt3sIXdCMuV=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipOLeAhIAlULqXyszC2B5UJv2eJLwfV8mQZWSlWb=s1600-w800-h800"
-        ]
+      "name": "Bodhivana Monastery Sg Pelek Sepang 双溪比力菩提林",
+      "location": {
+        "lat": 2.633578999999999,
+        "lng": 101.6805547
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "5, 43950 Sungai Pelek, Selangor, Malaysia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMsdEKVihxOP_2wFNXiX_XAIU0umzM3sg7BgoCA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNN1JlP7OYCoPX54qUr2qlY_TpDn5E9Mn8o5uhg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP0Xis2OsKKTczYhRdUh_SU3_G0mzfVv7E8GgoD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwhBJQlgZVVpi3y0mjX0B37-3m0nU8VdrkdPPO=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipNGF1LVhiL9obKH5uGv78Yt2mwFM4Jab7w_BNSN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcLN6nL4nFpcuGpBnplcgKW0kc8eMm727SjXMD=s1600-w800-h442",
+        "https://lh3.googleusercontent.com/p/AF1QipN1JEAGMi6HwKfNRIUAHLWiEJc-G8Brj0HP617B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJO0x2N392KklYvJVclxVcq6rwTAsDc7xY4LsN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUbkkOTusoty_4sToPRTSvPfTuoQt3sIXdCMuV=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipOLeAhIAlULqXyszC2B5UJv2eJLwfV8mQZWSlWb=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9TTc_RftzTER3uS8u5Uakzs",
+      "google_maps_url": "https://maps.google.com/?cid=4292804100216382686",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lot 491, Jalan Wakaf, Mukim, 76450 Tanjong Minyak, Melaka, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 2.2793363,
-            "lng": 102.2009612
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 2.280719280291502,
-              "lng": 102.2024435302915
-            },
-            "southwest": {
-              "lat": 2.278021319708498,
-              "lng": 102.1997455697085
-            }
-          }
-        },
-        "international_phone_number": "+60 14-294 8549",
-        "name": "Brahmavihara Monastery & Retreat Centre, Melaka 馬六甲梵行寺禪林",
-        "place_id": "ChIJS0xGqeP70TERNfDv16bXR28",
-        "url": "https://maps.google.com/?cid=8018614773143826485",
-        "website": "http://www.brahmavihara.my/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM0q6vQ2e2P0KaIqiCyI9UnQCHs-2gqHE22Dww6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSvuEN177jxC8jvFonlzXssSqZUAkolqgbYbf2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXqKgGcMED3tuzmBpsAFKjKTkLuk5tLWsNABNs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPf3SLvCPIjlmvpWuUDgnaBCaS9LBuYURizWU10=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHH6_6Q2iU2Reh-WlfmAhipZWa-KInh5LF0Lg3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBXUmX6Bu--2T98eUZojngjiB4Mbi610IMt54u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6A2P27Ea3TYnF_aCo0mRvPIg7MSCk-TZJ9Xy9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPT_00QM0Endoqo9Cog8GFA5VYz5-j5WwBkUkBh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXDc1_AECkJpi6eBqzTLI9WnQeYHjTR_yWnFjG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHCru6K2J1sXG6233NnsYYEHQ3VGuB0ZEVNUC3=s1600-w800-h800"
-        ]
+      "name": "Brahmavihara Monastery & Retreat Centre, Melaka 馬六甲梵行寺禪林",
+      "location": {
+        "lat": 2.2793363,
+        "lng": 102.2009612
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Lot 491, Jalan Wakaf, Mukim, 76450 Tanjong Minyak, Melaka, Malaysia",
+      "phone": "+60 14-294 8549",
+      "website": "http://www.brahmavihara.my/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM0q6vQ2e2P0KaIqiCyI9UnQCHs-2gqHE22Dww6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSvuEN177jxC8jvFonlzXssSqZUAkolqgbYbf2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXqKgGcMED3tuzmBpsAFKjKTkLuk5tLWsNABNs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPf3SLvCPIjlmvpWuUDgnaBCaS9LBuYURizWU10=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHH6_6Q2iU2Reh-WlfmAhipZWa-KInh5LF0Lg3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBXUmX6Bu--2T98eUZojngjiB4Mbi610IMt54u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6A2P27Ea3TYnF_aCo0mRvPIg7MSCk-TZJ9Xy9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPT_00QM0Endoqo9Cog8GFA5VYz5-j5WwBkUkBh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXDc1_AECkJpi6eBqzTLI9WnQeYHjTR_yWnFjG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHCru6K2J1sXG6233NnsYYEHQ3VGuB0ZEVNUC3=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJS0xGqeP70TERNfDv16bXR28",
+      "google_maps_url": "https://maps.google.com/?cid=8018614773143826485",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "A119, 31850 Jeram, Perak, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 4.3832499,
-            "lng": 101.1946461
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 4.385575199999999,
-              "lng": 101.19624975
-            },
-            "southwest": {
-              "lat": 4.3824748,
-              "lng": 101.18983515
-            }
-          }
-        },
-        "name": "Erawan Forest Monastery",
-        "place_id": "ChIJ7Rwq_sP9yjERhcJD1hlSPSk",
-        "url": "https://maps.google.com/?cid=2971621600056820357",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Erawan Forest Monastery",
+      "location": {
+        "lat": 4.3832499,
+        "lng": 101.1946461
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "A119, 31850 Jeram, Perak, Malaysia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ7Rwq_sP9yjERhcJD1hlSPSk",
+      "google_maps_url": "https://maps.google.com/?cid=2971621600056820357",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lot 516115, Lebuh Bercham Timur, Taman Pakatan, 31400 Ipoh, Perak, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 4.6338485,
-            "lng": 101.1359303
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 4.635212580291502,
-              "lng": 101.1373369802915
-            },
-            "southwest": {
-              "lat": 4.632514619708498,
-              "lng": 101.1346390197085
-            }
-          }
-        },
-        "international_phone_number": "+60 5-536 3962",
-        "name": "Meow Yuen Zen Buddhist Monastery Ipoh",
-        "place_id": "ChIJAV5qmjbtyjERt05jjSxt7ik",
-        "url": "https://maps.google.com/?cid=3021472438130265783",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOqvwtFgqtzpDGMtoIFfCoTe3MunERu-KyGEZnN=s1600-w800-h567",
-          "https://lh3.googleusercontent.com/p/AF1QipOdL3xJdBoBgiqRDIQKBsmXKQLG9yxxyRGLOKd3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8Borf7eg-_GWqe1mBJsn4xK9vQK4u2SBo7_8O=s1600-w800-h800"
-        ]
+      "name": "Meow Yuen Zen Buddhist Monastery Ipoh",
+      "location": {
+        "lat": 4.6338485,
+        "lng": 101.1359303
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Lot 516115, Lebuh Bercham Timur, Taman Pakatan, 31400 Ipoh, Perak, Malaysia",
+      "phone": "+60 5-536 3962",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOqvwtFgqtzpDGMtoIFfCoTe3MunERu-KyGEZnN=s1600-w800-h567",
+        "https://lh3.googleusercontent.com/p/AF1QipOdL3xJdBoBgiqRDIQKBsmXKQLG9yxxyRGLOKd3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8Borf7eg-_GWqe1mBJsn4xK9vQK4u2SBo7_8O=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJAV5qmjbtyjERt05jjSxt7ik",
+      "google_maps_url": "https://maps.google.com/?cid=3021472438130265783",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "PT 2297, Jalan Sungai Buaya, Kampung Jenjarom, 42600 Jenjarom, Selangor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 2.8685761,
-            "lng": 101.4909727
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 2.87143645,
-              "lng": 101.4925373802915
-            },
-            "southwest": {
-              "lat": 2.86591305,
-              "lng": 101.4898394197085
-            }
-          }
-        },
-        "international_phone_number": "+60 3-3191 1533",
-        "name": "馬來西亞佛光山東禪寺 Fo Guang Shan Dong Zen Temple",
-        "place_id": "ChIJLVs26G-lzTERcXy8beAbI_8",
-        "url": "https://maps.google.com/?cid=18384568754584190065",
-        "website": "http://www.fgs.org.my/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPtSpNb7qUdxlPrp0xM5QRL4ubGJjdCex9TNRA1=s1600-w800-h608",
-          "https://lh3.googleusercontent.com/p/AF1QipPyIxTsO3XEjp5m6_JG6O2tdOwm_2UlR4c_qTWz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOu_rlKW2_Rw_16xt7keAJB8SW9ojYvbtHaj9sv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAmzBC9G8gUT7wL4VISCe_a-nbiCejktvsSusu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsVmf8K48Mgu3Q_Z2pBfPMrk_IHDTbrByu-g-r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxoKmGRMtueqmPuQ9Bg5l3V1W4Uc7o8bcJAhY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwgXLGqL2UPvWkZzq4Zz28meucpnqjHTkSfREC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPi_lo-Gm9L-QmiygRWgJihF5xfBilNWEeF0Ny=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOe9O9el97o4k1qb2P1OAC7YD4-yQmrDdDHPa-C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9SmHqtSLqkqNAmCyBtIJ_3oPkyJ60owhDkEQ6=s1600-w800-h800"
-        ]
+      "name": "馬來西亞佛光山東禪寺 Fo Guang Shan Dong Zen Temple",
+      "location": {
+        "lat": 2.8685761,
+        "lng": 101.4909727
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "PT 2297, Jalan Sungai Buaya, Kampung Jenjarom, 42600 Jenjarom, Selangor, Malaysia",
+      "phone": "+60 3-3191 1533",
+      "website": "http://www.fgs.org.my/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPtSpNb7qUdxlPrp0xM5QRL4ubGJjdCex9TNRA1=s1600-w800-h608",
+        "https://lh3.googleusercontent.com/p/AF1QipPyIxTsO3XEjp5m6_JG6O2tdOwm_2UlR4c_qTWz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOu_rlKW2_Rw_16xt7keAJB8SW9ojYvbtHaj9sv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAmzBC9G8gUT7wL4VISCe_a-nbiCejktvsSusu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsVmf8K48Mgu3Q_Z2pBfPMrk_IHDTbrByu-g-r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxoKmGRMtueqmPuQ9Bg5l3V1W4Uc7o8bcJAhY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwgXLGqL2UPvWkZzq4Zz28meucpnqjHTkSfREC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPi_lo-Gm9L-QmiygRWgJihF5xfBilNWEeF0Ny=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOe9O9el97o4k1qb2P1OAC7YD4-yQmrDdDHPa-C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9SmHqtSLqkqNAmCyBtIJ_3oPkyJ60owhDkEQ6=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJLVs26G-lzTERcXy8beAbI_8",
+      "google_maps_url": "https://maps.google.com/?cid=18384568754584190065",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bukit Ceylon, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.1497026,
-            "lng": 101.7077998
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.150882480291502,
-              "lng": 101.7090846302915
-            },
-            "southwest": {
-              "lat": 3.148184519708499,
-              "lng": 101.7063866697085
-            }
-          }
-        },
-        "international_phone_number": "+60 3-2072 1525",
-        "name": "Kuan Yin Temple (Bukit Ceylon)",
-        "place_id": "ChIJ1SkTkSo2zDERjX1pXyMHXPo",
-        "url": "https://maps.google.com/?cid=18040302055845363085",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPFlinUbud3NoQPgRMLk1m9t_mnQVQsarlMjAcf=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipN5zLhXM75lNTZRkrzj1IYBrcPHWL6Zec3kEGaT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBFaXESGtpnHFPewStfbo9vZLM8OBQGI1iCd-N=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipOejoAnO0mhYSMeeNC81-u6q_CbHc4I04QOaLwX=s1600-w528-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSSZTJUHeYYp5AW7u9nVYC2Oix_VwE04WCalRp=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipN2TUqrF_c0oY4zQAX-KrbCLJx-6Tii12wpy1nZ=s1600-w528-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPovTnROCEA__dIqMr8Sv7n9_wxLiaFHVBJUxrn=s1600-w528-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTpp7XwB4Ox7KYDx13ZuGMzG4Nry1Grd1cCMFi=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipPcryDZXqzTzBKQa9fa8GWiIIpyTFf9iXevXI8C=s1600-w528-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGnCnl-b4-3i7nAjhD_KGiuRS2SiHtyvpySG-h=s1600-w528-h800"
-        ]
+      "name": "Kuan Yin Temple (Bukit Ceylon)",
+      "location": {
+        "lat": 3.1497026,
+        "lng": 101.7077998
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Bukit Ceylon, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "phone": "+60 3-2072 1525",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPFlinUbud3NoQPgRMLk1m9t_mnQVQsarlMjAcf=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipN5zLhXM75lNTZRkrzj1IYBrcPHWL6Zec3kEGaT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBFaXESGtpnHFPewStfbo9vZLM8OBQGI1iCd-N=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipOejoAnO0mhYSMeeNC81-u6q_CbHc4I04QOaLwX=s1600-w528-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSSZTJUHeYYp5AW7u9nVYC2Oix_VwE04WCalRp=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipN2TUqrF_c0oY4zQAX-KrbCLJx-6Tii12wpy1nZ=s1600-w528-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPovTnROCEA__dIqMr8Sv7n9_wxLiaFHVBJUxrn=s1600-w528-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTpp7XwB4Ox7KYDx13ZuGMzG4Nry1Grd1cCMFi=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipPcryDZXqzTzBKQa9fa8GWiIIpyTFf9iXevXI8C=s1600-w528-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGnCnl-b4-3i7nAjhD_KGiuRS2SiHtyvpySG-h=s1600-w528-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1SkTkSo2zDERjX1pXyMHXPo",
+      "google_maps_url": "https://maps.google.com/?cid=18040302055845363085",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "No1, Jalan Damai, Bandar Damai Perdana, 43200 Cheras, Selangor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.0403128,
-            "lng": 101.7345275
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.041694780291502,
-              "lng": 101.7358777302915
-            },
-            "southwest": {
-              "lat": 3.038996819708498,
-              "lng": 101.7331797697085
-            }
-          }
-        },
-        "international_phone_number": "+60 12-491 6679",
-        "name": "《法炬山》佛来寺 Bodhi Dharma Vihara",
-        "place_id": "ChIJYXoM2TY1zDER8Rf6Eu62oC4",
-        "url": "https://maps.google.com/?cid=3359886455655241713",
-        "website": "https://www.facebook.com/BodhiDharmaVihara",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP_CuSr-NSDhRCQ6pTQcpp2g0lIcqLEtlTjS4ZZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNejzzgFxptcwq9W7kaVpvDm4CzjFBD0AhJ9h7C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnXYONSMEGBA3HfyeHdeWg0PSzklOjzHtGNlA2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPam-0To7tfPXH9YPp_VrD3jHSCuLEQfD7kRt1s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJ8rifSDUo-kHGKwpIGja0iaC3UqxUie-OloJR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3w_5PemEg-NVn_ThYJRlqz9VecEveylkcyTZH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPOFV4j1rWmRSpfCRtj-fQaHjitA46napzui5BM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPqElMwflmpEVekofnf3BIB-BngrPKjQDSzAv4h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwg_--phKrJ1KEDKh4CzyskenXSB_wc-xbVned=s1600-w768-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJZEyC-KRVVI0ovv84-IFJ6ATD0gjfJ9cJKBZS=s1600-w800-h800"
-        ]
+      "name": "《法炬山》佛来寺 Bodhi Dharma Vihara",
+      "location": {
+        "lat": 3.0403128,
+        "lng": 101.7345275
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "No1, Jalan Damai, Bandar Damai Perdana, 43200 Cheras, Selangor, Malaysia",
+      "phone": "+60 12-491 6679",
+      "website": "https://www.facebook.com/BodhiDharmaVihara",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP_CuSr-NSDhRCQ6pTQcpp2g0lIcqLEtlTjS4ZZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNejzzgFxptcwq9W7kaVpvDm4CzjFBD0AhJ9h7C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnXYONSMEGBA3HfyeHdeWg0PSzklOjzHtGNlA2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPam-0To7tfPXH9YPp_VrD3jHSCuLEQfD7kRt1s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJ8rifSDUo-kHGKwpIGja0iaC3UqxUie-OloJR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3w_5PemEg-NVn_ThYJRlqz9VecEveylkcyTZH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPOFV4j1rWmRSpfCRtj-fQaHjitA46napzui5BM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPqElMwflmpEVekofnf3BIB-BngrPKjQDSzAv4h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwg_--phKrJ1KEDKh4CzyskenXSB_wc-xbVned=s1600-w768-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJZEyC-KRVVI0ovv84-IFJ6ATD0gjfJ9cJKBZS=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJYXoM2TY1zDER8Rf6Eu62oC4",
+      "google_maps_url": "https://maps.google.com/?cid=3359886455655241713",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jalan Chung Thye Phin, Taman Chateau, 30250 Ipoh, Perak, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 4.583311399999999,
-            "lng": 101.0955786
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 4.584521480291502,
-              "lng": 101.0969138802915
-            },
-            "southwest": {
-              "lat": 4.581823519708498,
-              "lng": 101.0942159197085
-            }
-          }
-        },
-        "international_phone_number": "+60 5-254 4298",
-        "name": "Tai Pee Sim Monastery",
-        "place_id": "ChIJiUeKkUHsyjERdUP1B_IaWDU",
-        "url": "https://maps.google.com/?cid=3843851908778640245",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPSsGmplrtgN2CL0lAPtcEN8cSQ1J-8ppI9TAnr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQODX_RCDPWERIm5T64UDo1AIIcKVxfYu7x1Lx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNxln0P4dXBprpHO-5bqEU0JmxMeav8QPpitzzb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNU-08MPfE8d-f1aDY2XTHPtBXSKX2hWTsRIoWP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNX3u2W5CCKuPV4Zb6Nh0HJ3vjBmRICr4V9xuBL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPn6Y7fZZJyx8MAc4YgYPGdzjSa_Bc_yNEC1qiu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOezCMfxkv3A0cv8DJZY-xyGhQm3malOrWaAzW0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhQWMxfCStflxXIUP5TiDrIK5HGgwUJ96PkFvf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMiN1YzJ1tx7y7DQwpiPZpe5JgTKr30CI5yfIQf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3q4rdukZmU_gurK68eopdkH1xU1mYKGxw09gW=s1600-w800-h800"
-        ]
+      "name": "Tai Pee Sim Monastery",
+      "location": {
+        "lat": 4.583311399999999,
+        "lng": 101.0955786
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Jalan Chung Thye Phin, Taman Chateau, 30250 Ipoh, Perak, Malaysia",
+      "phone": "+60 5-254 4298",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPSsGmplrtgN2CL0lAPtcEN8cSQ1J-8ppI9TAnr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQODX_RCDPWERIm5T64UDo1AIIcKVxfYu7x1Lx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNxln0P4dXBprpHO-5bqEU0JmxMeav8QPpitzzb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNU-08MPfE8d-f1aDY2XTHPtBXSKX2hWTsRIoWP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNX3u2W5CCKuPV4Zb6Nh0HJ3vjBmRICr4V9xuBL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPn6Y7fZZJyx8MAc4YgYPGdzjSa_Bc_yNEC1qiu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOezCMfxkv3A0cv8DJZY-xyGhQm3malOrWaAzW0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhQWMxfCStflxXIUP5TiDrIK5HGgwUJ96PkFvf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMiN1YzJ1tx7y7DQwpiPZpe5JgTKr30CI5yfIQf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3q4rdukZmU_gurK68eopdkH1xU1mYKGxw09gW=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJiUeKkUHsyjERdUP1B_IaWDU",
+      "google_maps_url": "https://maps.google.com/?cid=3843851908778640245",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2, Jalan Nuri 2, Taman Nuri, 14300 Nibong Tebal, Pulau Pinang, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 5.166684099999999,
-            "lng": 100.4706701
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 5.168000630291502,
-              "lng": 100.4720744302915
-            },
-            "southwest": {
-              "lat": 5.165302669708497,
-              "lng": 100.4693764697085
-            }
-          }
-        },
-        "international_phone_number": "+60 4-593 0992",
-        "name": "Miao Sheng Buddhist Monastery",
-        "place_id": "ChIJIXT1zUWwSjARIlIL5BwDJ1k",
-        "url": "https://maps.google.com/?cid=6424106816087216674",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Miao Sheng Buddhist Monastery",
+      "location": {
+        "lat": 5.166684099999999,
+        "lng": 100.4706701
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "2, Jalan Nuri 2, Taman Nuri, 14300 Nibong Tebal, Pulau Pinang, Malaysia",
+      "phone": "+60 4-593 0992",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJIXT1zUWwSjARIlIL5BwDJ1k",
+      "google_maps_url": "https://maps.google.com/?cid=6424106816087216674",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.1220394,
-            "lng": 101.687642
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.123360480291501,
-              "lng": 101.6892126802915
-            },
-            "southwest": {
-              "lat": 3.120662519708497,
-              "lng": 101.6865147197085
-            }
-          }
-        },
-        "international_phone_number": "+60 3-2274 7088",
-        "name": "Thean Hou Temple",
-        "place_id": "ChIJqSc-d_JJzDERbOlsCf-UmNs",
-        "url": "https://maps.google.com/?cid=15823561113861941612",
-        "website": "https://www.hainannet.com.my/v2/lang/en",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNlQloncpWOzfErb8IlYsOG-GxVUF_pzxwF_2GO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9WBePhHSJNvxjOIQdmAVEkSu8PV8Ddzbjp6q6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOc1-Z6ntpL5ENC7rUhlqjgkuqcaECzB1OqCJJt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKQfclGC6fIWEWxnLxF0KLDaBORfmPggU7EbzV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMK9p-4UEU_UVNpa9T_iHPDau2CVUCyq2QtsN_J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQ2IhYRiUNQVLL8dH_r99Dj1hiCXNtDp-5A4j9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPDaFHyAfN7F2aLxNJYBuRhk3s8gEoSt9ZBl21N=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPbDV0blim4XrFXElSI_tTLpf0WaJWXV--i-H5L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDfVysYr-f_G0WgfibMdCw1OAuBSr1UcZ6y7bg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOP44bs7FjAUxfCN5QJDo0G3GAcV8-9VPKm4yGf=s1600-w800-h800"
-        ]
+      "name": "Thean Hou Temple",
+      "location": {
+        "lat": 3.1220394,
+        "lng": 101.687642
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "65, Persiaran Endah, Taman Persiaran Desa, 50460 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "phone": "+60 3-2274 7088",
+      "website": "https://www.hainannet.com.my/v2/lang/en",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNlQloncpWOzfErb8IlYsOG-GxVUF_pzxwF_2GO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9WBePhHSJNvxjOIQdmAVEkSu8PV8Ddzbjp6q6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOc1-Z6ntpL5ENC7rUhlqjgkuqcaECzB1OqCJJt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKQfclGC6fIWEWxnLxF0KLDaBORfmPggU7EbzV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMK9p-4UEU_UVNpa9T_iHPDau2CVUCyq2QtsN_J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQ2IhYRiUNQVLL8dH_r99Dj1hiCXNtDp-5A4j9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPDaFHyAfN7F2aLxNJYBuRhk3s8gEoSt9ZBl21N=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPbDV0blim4XrFXElSI_tTLpf0WaJWXV--i-H5L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDfVysYr-f_G0WgfibMdCw1OAuBSr1UcZ6y7bg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOP44bs7FjAUxfCN5QJDo0G3GAcV8-9VPKm4yGf=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqSc-d_JJzDERbOlsCf-UmNs",
+      "google_maps_url": "https://maps.google.com/?cid=15823561113861941612",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Penang, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 5.4107738,
-            "lng": 100.2595441
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 5.411644180291503,
-              "lng": 100.2612802802915
-            },
-            "southwest": {
-              "lat": 5.408946219708499,
-              "lng": 100.2585823197085
-            }
-          }
-        },
-        "name": "Sītavana Vihāra Buddhist Monastery",
-        "place_id": "ChIJjeeLX2zpSjARXUWDgSXafPI",
-        "url": "https://maps.google.com/?cid=17473080508912190813",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN4uhLUewogM_ArF52sQPfbOl75AIqt5q1QPS1X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP59kcX6Qe5U2s2UY3yVUxSqwfkzfXlRpOIHdfK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO20cvqxjV7xoSwcarGtZV8ElgPmO0jY25mNePq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqKsjuKOw_yrGYHjYDTruKYqBR8-DLsALQLOal=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMka3vxN7WhOH6BjKSba8x8m5sFv-x5wqoBSJga=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPaG12f3TjCdxD9-zCZRBlRwfoKLkScexYtHb9a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGIvwr0Cf__Wr7zJr33sx20nKOLHHYuzdOnPSE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1nWv-kuvoX5uQ6-GhKOI6kxaf8he6g30aop1t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNaGhwmBStusJnIia2fvhCpj8-vbjLWBzraIB2m=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOco6SztELZr30pBnIrnOB28N0a3ZhtZLRM9H3B=s1600-w800-h800"
-        ]
+      "name": "Sītavana Vihāra Buddhist Monastery",
+      "location": {
+        "lat": 5.4107738,
+        "lng": 100.2595441
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Penang, Malaysia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN4uhLUewogM_ArF52sQPfbOl75AIqt5q1QPS1X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP59kcX6Qe5U2s2UY3yVUxSqwfkzfXlRpOIHdfK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO20cvqxjV7xoSwcarGtZV8ElgPmO0jY25mNePq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqKsjuKOw_yrGYHjYDTruKYqBR8-DLsALQLOal=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMka3vxN7WhOH6BjKSba8x8m5sFv-x5wqoBSJga=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPaG12f3TjCdxD9-zCZRBlRwfoKLkScexYtHb9a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGIvwr0Cf__Wr7zJr33sx20nKOLHHYuzdOnPSE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1nWv-kuvoX5uQ6-GhKOI6kxaf8he6g30aop1t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNaGhwmBStusJnIia2fvhCpj8-vbjLWBzraIB2m=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOco6SztELZr30pBnIrnOB28N0a3ZhtZLRM9H3B=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJjeeLX2zpSjARXUWDgSXafPI",
+      "google_maps_url": "https://maps.google.com/?cid=17473080508912190813",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ulu Yam, 48200 Batang Kali, Selangor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.4114557,
-            "lng": 101.6678386
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.412703080291502,
-              "lng": 101.6691864302915
-            },
-            "southwest": {
-              "lat": 3.410005119708498,
-              "lng": 101.6664884697085
-            }
-          }
-        },
-        "name": "Sakya Monastery",
-        "place_id": "ChIJGYCPmnNrzDER-HChcZOwmlQ",
-        "url": "https://maps.google.com/?cid=6096379192912474360",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOYj8E1ATg0AWh7VnqOeGgNar692FbSa2J-8UpJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPOAH8xI404-flauc7tjA76x-t8vPEMjBAhdeHZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6xgrtwbioMQ7fCM2N89kDJKXVuvjXysN5Q4SM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdyvb2crSIdQwXBQkkyYz8dx3ycIeI7A3fZpRs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCxzkpKT4iTGrI3eaKKXym1bDDJgbAcFwlNGoK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkKTwdgfJTamwwSq7zV0bdwry0lCdB2CPEKExO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPuZDsvp1K0zWGT1fcj0-Q9yCTnuDCKOGcCoBE8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMO06Kgn4rz2ETQhni_Ylob28nZRCq6Sgbm53sh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpwCpq6mONePvrRSBTcC1LJYHo6ctwV0pLsZc9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP79r_mbwCM5TUtdRSakYrz3O3Ug4wq90UrvrVI=s1600-w800-h800"
-        ]
+      "name": "Sakya Monastery",
+      "location": {
+        "lat": 3.4114557,
+        "lng": 101.6678386
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Ulu Yam, 48200 Batang Kali, Selangor, Malaysia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOYj8E1ATg0AWh7VnqOeGgNar692FbSa2J-8UpJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPOAH8xI404-flauc7tjA76x-t8vPEMjBAhdeHZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6xgrtwbioMQ7fCM2N89kDJKXVuvjXysN5Q4SM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdyvb2crSIdQwXBQkkyYz8dx3ycIeI7A3fZpRs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCxzkpKT4iTGrI3eaKKXym1bDDJgbAcFwlNGoK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkKTwdgfJTamwwSq7zV0bdwry0lCdB2CPEKExO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPuZDsvp1K0zWGT1fcj0-Q9yCTnuDCKOGcCoBE8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMO06Kgn4rz2ETQhni_Ylob28nZRCq6Sgbm53sh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpwCpq6mONePvrRSBTcC1LJYHo6ctwV0pLsZc9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP79r_mbwCM5TUtdRSakYrz3O3Ug4wq90UrvrVI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGYCPmnNrzDER-HChcZOwmlQ",
+      "google_maps_url": "https://maps.google.com/?cid=6096379192912474360",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Malaysia, 1, Lebuh Bercham Selatan 1, Taman Kinta Mas, 31400 Ipoh, Perak, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 4.627905699999999,
-            "lng": 101.1349356
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 4.629261830291501,
-              "lng": 101.1363604802915
-            },
-            "southwest": {
-              "lat": 4.626563869708497,
-              "lng": 101.1336625197085
-            }
-          }
-        },
-        "name": "Sukhavana Meditation Monastery 樂苑寺, Ipoh, Perak, Malaysia",
-        "place_id": "ChIJ1_JWuTntyjERNwNoo9fR9jA",
-        "url": "https://maps.google.com/?cid=3528238082181038903",
-        "website": "https://www.facebook.com/Sukhavana-Meditation-Monastery-%E6%A8%82%E8%8B%91%E5%AF%BA-Ipoh-Perak-242228359311305/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN6nKIlXDtuH9YbO2Zs_qcQt9OK3qIrjUeOYvns=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP0gm2wn9wK9R0NDt1IGJJsKG5OHldDttRfm4X2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdFT5CYtS8JjH73QdSxyyNdO2gA71K1R7YUwJF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWxZZqDBiZUrgytiD3JEuxkXwpH2guKTBWsiiO=s1600-w542-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhj6AfIwO2bQIjz67D8ct_4mvAayoxJWHOhUGV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPiE9PgmYHzaM-xWPhRCOlWxuSW1De5vN2GLc2v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOOgw2D3TF_lJiPP7HfWacY4xnjocNu-4i1jBlQ=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipMI4trWgllKXUWiCLGHmpyj-uBLl-TXPQ0pB9RP=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipMwZ28f2mOxHejHAqahIgYX6G1X3bvFax8tY7ri=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCzMEg5Avu4dUWa7SnBVb9aqQA4I14yadG_f5I=s1600-w800-h720"
-        ]
+      "name": "Sukhavana Meditation Monastery 樂苑寺, Ipoh, Perak, Malaysia",
+      "location": {
+        "lat": 4.627905699999999,
+        "lng": 101.1349356
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Malaysia, 1, Lebuh Bercham Selatan 1, Taman Kinta Mas, 31400 Ipoh, Perak, Malaysia",
+      "website": "https://www.facebook.com/Sukhavana-Meditation-Monastery-%E6%A8%82%E8%8B%91%E5%AF%BA-Ipoh-Perak-242228359311305/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN6nKIlXDtuH9YbO2Zs_qcQt9OK3qIrjUeOYvns=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP0gm2wn9wK9R0NDt1IGJJsKG5OHldDttRfm4X2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdFT5CYtS8JjH73QdSxyyNdO2gA71K1R7YUwJF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWxZZqDBiZUrgytiD3JEuxkXwpH2guKTBWsiiO=s1600-w542-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhj6AfIwO2bQIjz67D8ct_4mvAayoxJWHOhUGV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPiE9PgmYHzaM-xWPhRCOlWxuSW1De5vN2GLc2v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOOgw2D3TF_lJiPP7HfWacY4xnjocNu-4i1jBlQ=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipMI4trWgllKXUWiCLGHmpyj-uBLl-TXPQ0pB9RP=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipMwZ28f2mOxHejHAqahIgYX6G1X3bvFax8tY7ri=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCzMEg5Avu4dUWa7SnBVb9aqQA4I14yadG_f5I=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1_JWuTntyjERNwNoo9fR9jA",
+      "google_maps_url": "https://maps.google.com/?cid=3528238082181038903",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "44, 38, Lang Indah 6, Desa Lang Indah, 30010 Ipoh, Perak, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 4.6131961,
-            "lng": 101.0889618
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 4.614539680291503,
-              "lng": 101.0903120302915
-            },
-            "southwest": {
-              "lat": 4.611841719708498,
-              "lng": 101.0876140697085
-            }
-          }
-        },
-        "international_phone_number": "+60 19-223 4327",
-        "name": "Dhamma Piti Meditation Monastery-（法喜寺）",
-        "place_id": "ChIJ4dpP9pPsyjERYJTDP9-Ygsw",
-        "url": "https://maps.google.com/?cid=14736509015324595296",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO9FSM8_US68-IYS9S_z_vC2zztcKBGTcjMy28G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPblqTQI2g5ZTL-z04zEODfhBj3xlOmOwqIpl5G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0FLivxSG3CKa8gHzNJ5GOpEGyDIJZtoPPn83r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6r9YhtBhK0Q_dZq_DAtRh-BELfDA-i7uCaU2q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOAxoVGRdJ-FytxZz-KenwcZsYji7nqcMMSvXGy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRuAYWoeb0er9ARr00ZYSh5LtGs4s9XY9R7Kvv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTcfjHJnBkFI2fZs-fK4iONXsmg94Mjyc53Pqy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOrtbHlNx_7mvg92LKOSidW3ZPpWd64WYKuPpBW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBcfpNDLLTcTska5NN-5YMqYteew5BsZE8MzzY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPOQlk9sIU9Rxsa3UUUi-WADDrZE4QKhunxZS5U=s1600-w800-h800"
-        ]
+      "name": "Dhamma Piti Meditation Monastery-（法喜寺）",
+      "location": {
+        "lat": 4.6131961,
+        "lng": 101.0889618
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "44, 38, Lang Indah 6, Desa Lang Indah, 30010 Ipoh, Perak, Malaysia",
+      "phone": "+60 19-223 4327",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO9FSM8_US68-IYS9S_z_vC2zztcKBGTcjMy28G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPblqTQI2g5ZTL-z04zEODfhBj3xlOmOwqIpl5G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0FLivxSG3CKa8gHzNJ5GOpEGyDIJZtoPPn83r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6r9YhtBhK0Q_dZq_DAtRh-BELfDA-i7uCaU2q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOAxoVGRdJ-FytxZz-KenwcZsYji7nqcMMSvXGy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRuAYWoeb0er9ARr00ZYSh5LtGs4s9XY9R7Kvv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTcfjHJnBkFI2fZs-fK4iONXsmg94Mjyc53Pqy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOrtbHlNx_7mvg92LKOSidW3ZPpWd64WYKuPpBW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBcfpNDLLTcTska5NN-5YMqYteew5BsZE8MzzY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPOQlk9sIU9Rxsa3UUUi-WADDrZE4QKhunxZS5U=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ4dpP9pPsyjERYJTDP9-Ygsw",
+      "google_maps_url": "https://maps.google.com/?cid=14736509015324595296",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "6, Jalan Puteri 7/8, Bandar Puteri, 47100 Puchong, Selangor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.026114,
-            "lng": 101.6225102
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.027472730291502,
-              "lng": 101.6238609802915
-            },
-            "southwest": {
-              "lat": 3.024774769708498,
-              "lng": 101.6211630197085
-            }
-          }
-        },
-        "international_phone_number": "+60 19-665 5990",
-        "name": "《法炬山》普贤寺 PuXian Dharma Vihara",
-        "place_id": "ChIJjfWLO6-0zTERNymyNQ4F0-E",
-        "url": "https://maps.google.com/?cid=16272355437208283447",
-        "website": "http://www.dlm.org.my/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPtw9j95HuZieAmSNikKjzZwz_pqeR8vvAjVPLg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcdDiWmN8MIL8CcaPd-eCrs-YU13VntN9xafMF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6BoDlX8VTNQHWjUx--gWp81ruX6NAn0f98_Cj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMBXZDyo7wCojzbSASn9Q0IeHi5Mb9oIvfXr-u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMoTvRZ3xqCLjNoC1IqIqiWahpG0N5dSfZlHmnA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGw5P4goDrKyZ7DT0qaKLA0beJu3bGeI6xgDic=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrczan7Hv6WIhfHeaEa9pz5m4P4J5ixOarP8nj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKJWzbHYZmRHaOO1RbBwTQQQF2VxpEfDztGejN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNg2_seu69hgzDwUZBBP-VeurVe39vu7vc0apxG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlsWLMI7tq4S4KH3UYDlsr7F8mYVsaORnjxYmX=s1600-w800-h800"
-        ]
+      "name": "《法炬山》普贤寺 PuXian Dharma Vihara",
+      "location": {
+        "lat": 3.026114,
+        "lng": 101.6225102
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "6, Jalan Puteri 7/8, Bandar Puteri, 47100 Puchong, Selangor, Malaysia",
+      "phone": "+60 19-665 5990",
+      "website": "http://www.dlm.org.my/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPtw9j95HuZieAmSNikKjzZwz_pqeR8vvAjVPLg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcdDiWmN8MIL8CcaPd-eCrs-YU13VntN9xafMF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6BoDlX8VTNQHWjUx--gWp81ruX6NAn0f98_Cj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMBXZDyo7wCojzbSASn9Q0IeHi5Mb9oIvfXr-u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMoTvRZ3xqCLjNoC1IqIqiWahpG0N5dSfZlHmnA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGw5P4goDrKyZ7DT0qaKLA0beJu3bGeI6xgDic=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrczan7Hv6WIhfHeaEa9pz5m4P4J5ixOarP8nj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKJWzbHYZmRHaOO1RbBwTQQQF2VxpEfDztGejN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNg2_seu69hgzDwUZBBP-VeurVe39vu7vc0apxG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlsWLMI7tq4S4KH3UYDlsr7F8mYVsaORnjxYmX=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJjfWLO6-0zTERNymyNQ4F0-E",
+      "google_maps_url": "https://maps.google.com/?cid=16272355437208283447",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Batu 5 1/2, Jalan Sungai Besi, Wilayah Persekutuan, Pudu, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 3.123954099999999,
-            "lng": 101.7090225
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 3.125269330291502,
-              "lng": 101.7104280302915
-            },
-            "southwest": {
-              "lat": 3.122571369708498,
-              "lng": 101.7077300697085
-            }
-          }
-        },
-        "international_phone_number": "+60 3-7982 6560",
-        "name": "Prajna Guan Yin Sagely Monastery (Tze Yun Tung Temple)",
-        "place_id": "ChIJt9AJBh02zDERToWWEkkmN2g",
-        "url": "https://maps.google.com/?cid=7509512998949913934",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Prajna Guan Yin Sagely Monastery (Tze Yun Tung Temple)",
+      "location": {
+        "lat": 3.123954099999999,
+        "lng": 101.7090225
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Batu 5 1/2, Jalan Sungai Besi, Wilayah Persekutuan, Pudu, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+      "phone": "+60 3-7982 6560",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJt9AJBh02zDERToWWEkkmN2g",
+      "google_maps_url": "https://maps.google.com/?cid=7509512998949913934",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "31200 Chemor, Perak, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 4.7620585,
-            "lng": 101.1209516
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 4.762874400000001,
-              "lng": 101.1225768802915
-            },
-            "southwest": {
-              "lat": 4.7596108,
-              "lng": 101.1198789197085
-            }
-          }
-        },
-        "name": "dharma shakyamuni cave monastery 释迦圣法岩",
-        "place_id": "ChIJK_PM9IaRyjER5OYAsNWEO7w",
-        "url": "https://maps.google.com/?cid=13563580756072130276",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "dharma shakyamuni cave monastery 释迦圣法岩",
+      "location": {
+        "lat": 4.7620585,
+        "lng": 101.1209516
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "31200 Chemor, Perak, Malaysia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJK_PM9IaRyjER5OYAsNWEO7w",
+      "google_maps_url": "https://maps.google.com/?cid=13563580756072130276",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Habarugala, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.3311189,
-            "lng": 80.96151859999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.33207375,
-              "lng": 80.96473775
-            },
-            "southwest": {
-              "lat": 6.32825435,
-              "lng": 80.96044554999997
-            }
-          }
-        },
-        "name": "Sri Gautama Head Buddhist Monastery",
-        "place_id": "ChIJ6y7rQl8D5DoRhLYzC8UMtHc",
-        "url": "https://maps.google.com/?cid=8625533226757371524",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMt2LisGZhDzBaH072OzZWs0YhB_e3_-Gs-Zeey=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPxX3sPifz_Dxu_xWt9lVw1Zv66If1O5cDWoGVm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOsrOCXZ2CdQVQchN64GOqEuyOv_efukAH_N8_n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM192O717X_i2VjUBzQ3DQrlvFJIkwH5ZPe0ihI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlK4XYPsuWKQQegDOvPDtD7IMNkrYy0B6gHwKI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0W2SiAu73l0VzPiL4wxQDf6MnTgrwWGhllQZS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpEQU2-tCnJWibOJuyVJmnmk2MpBzwTU6vTUOj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4lNfzRteF5xEFPxic--E4MnufHoOBdEk52Awo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLhupM_zcxDOwMJDQdt0L_9T6xSmklB6eSGv-d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrjVOZkrjcVzgkeustpd_sqfeE7E1mec3Bmt4P=s1600-w800-h800"
-        ]
+      "name": "Sri Gautama Head Buddhist Monastery",
+      "location": {
+        "lat": 6.3311189,
+        "lng": 80.96151859999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Habarugala, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMt2LisGZhDzBaH072OzZWs0YhB_e3_-Gs-Zeey=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPxX3sPifz_Dxu_xWt9lVw1Zv66If1O5cDWoGVm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOsrOCXZ2CdQVQchN64GOqEuyOv_efukAH_N8_n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM192O717X_i2VjUBzQ3DQrlvFJIkwH5ZPe0ihI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlK4XYPsuWKQQegDOvPDtD7IMNkrYy0B6gHwKI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0W2SiAu73l0VzPiL4wxQDf6MnTgrwWGhllQZS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpEQU2-tCnJWibOJuyVJmnmk2MpBzwTU6vTUOj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4lNfzRteF5xEFPxic--E4MnufHoOBdEk52Awo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLhupM_zcxDOwMJDQdt0L_9T6xSmklB6eSGv-d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrjVOZkrjcVzgkeustpd_sqfeE7E1mec3Bmt4P=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ6y7rQl8D5DoRhLYzC8UMtHc",
+      "google_maps_url": "https://maps.google.com/?cid=8625533226757371524",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Carolina - Norton - Wanarajah Rd, Ginigathhena, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.946113899999999,
-            "lng": 80.5101061
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.947090530291502,
-              "lng": 80.5114789802915
-            },
-            "southwest": {
-              "lat": 6.944392569708498,
-              "lng": 80.5087810197085
-            }
-          }
-        },
-        "international_phone_number": "+94 71 077 2160",
-        "name": "Damsisila Buddhist Monastery",
-        "place_id": "ChIJ0xT_T3if4zoReqrn5sh84z0",
-        "url": "https://maps.google.com/?cid=4459545258336168570",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOGVli8OJi-MYJruWk1SL99Scxjgoqir0V9HjW-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCXx7xH3_uYovj4JnDbPG4ZjhxtPs9KDKrxpbM=s1600-w800-h684",
-          "https://lh3.googleusercontent.com/p/AF1QipMwkPWxknitVIql6ecqmz78ZyjALDFRdBzdcqBo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqSULKQReSJy_g6oF0E1ypEYx7e05ZOC6cfpOS=s1600-w800-h684",
-          "https://lh3.googleusercontent.com/p/AF1QipNPAMVj2YRlCKkjr82ivwFW_JwKEOGAFJuUlew0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnM5c9L6C6L1njRYtjHV-1V_4dUK0biV5a5YA2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNq38YhHW9aYLzr0tA3lc3vx2tt6at6BhV3Ti6x=s1600-w800-h684",
-          "https://lh3.googleusercontent.com/p/AF1QipPXFYbIrJwYl-dGdzZuVlmp1mpa26-aHlr6Vcks=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSPSODU-kcfgo7dVCvn-B_QWhxTKr5q8tyPbap=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNe8uUGbWxA_8aY8Nc_sVFb2UakoWv4kMa_5nvy=s1600-w800-h800"
-        ]
+      "name": "Damsisila Buddhist Monastery",
+      "location": {
+        "lat": 6.946113899999999,
+        "lng": 80.5101061
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Carolina - Norton - Wanarajah Rd, Ginigathhena, Sri Lanka",
+      "phone": "+94 71 077 2160",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOGVli8OJi-MYJruWk1SL99Scxjgoqir0V9HjW-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCXx7xH3_uYovj4JnDbPG4ZjhxtPs9KDKrxpbM=s1600-w800-h684",
+        "https://lh3.googleusercontent.com/p/AF1QipMwkPWxknitVIql6ecqmz78ZyjALDFRdBzdcqBo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqSULKQReSJy_g6oF0E1ypEYx7e05ZOC6cfpOS=s1600-w800-h684",
+        "https://lh3.googleusercontent.com/p/AF1QipNPAMVj2YRlCKkjr82ivwFW_JwKEOGAFJuUlew0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnM5c9L6C6L1njRYtjHV-1V_4dUK0biV5a5YA2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNq38YhHW9aYLzr0tA3lc3vx2tt6at6BhV3Ti6x=s1600-w800-h684",
+        "https://lh3.googleusercontent.com/p/AF1QipPXFYbIrJwYl-dGdzZuVlmp1mpa26-aHlr6Vcks=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSPSODU-kcfgo7dVCvn-B_QWhxTKr5q8tyPbap=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNe8uUGbWxA_8aY8Nc_sVFb2UakoWv4kMa_5nvy=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ0xT_T3if4zoReqrn5sh84z0",
+      "google_maps_url": "https://maps.google.com/?cid=4459545258336168570",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mahamevnawa Asapuwa, Balangoda 70100, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.6405931,
-            "lng": 80.6981663
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.642074930291503,
-              "lng": 80.6995863802915
-            },
-            "southwest": {
-              "lat": 6.639376969708498,
-              "lng": 80.69688841970849
-            }
-          }
-        },
-        "international_phone_number": "+94 454 927 712",
-        "name": "Mahamevnawa Monastery",
-        "place_id": "ChIJh_GRWxXz4zoRFIgpmCUwNh0",
-        "url": "https://maps.google.com/?cid=2104922813867067412",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO9tsspKJQ4AwdpqgA3ZE69O7We1S991Arxdf_n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDcVIMTnvmfifP8xAbcspClMvwQ53wEMO4Y9Sf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKbP2yz3eqH7fcwkOdeycfKWDqql5S1UDjAd8b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOOGKuLENufP1M5pIJioUNDHmYe5rpj1Cs2TwQt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEl5JqjpDBIlagIF6BBVfBLwEUnPs8wSBjc2Fr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMehjDbO_b1gs9S6o2oqMqmMz3-vctvEUf2SC_E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXD-vlYuOo3Qlb42HJ9jbkaKPKIXiykf-x-tr8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMMG8GPj23hUB9bbTkytRCaw9YMSr1hb1XapLR1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2dOw5YdMLiZks2vIQ2zpMOUtbZnRTI1uDrBX5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_2o2xKPoOLItBr5UNyEwWkh9bOsZXuUrteSX6=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Monastery",
+      "location": {
+        "lat": 6.6405931,
+        "lng": 80.6981663
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Mahamevnawa Asapuwa, Balangoda 70100, Sri Lanka",
+      "phone": "+94 454 927 712",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO9tsspKJQ4AwdpqgA3ZE69O7We1S991Arxdf_n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDcVIMTnvmfifP8xAbcspClMvwQ53wEMO4Y9Sf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKbP2yz3eqH7fcwkOdeycfKWDqql5S1UDjAd8b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOOGKuLENufP1M5pIJioUNDHmYe5rpj1Cs2TwQt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEl5JqjpDBIlagIF6BBVfBLwEUnPs8wSBjc2Fr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMehjDbO_b1gs9S6o2oqMqmMz3-vctvEUf2SC_E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXD-vlYuOo3Qlb42HJ9jbkaKPKIXiykf-x-tr8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMMG8GPj23hUB9bbTkytRCaw9YMSr1hb1XapLR1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2dOw5YdMLiZks2vIQ2zpMOUtbZnRTI1uDrBX5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_2o2xKPoOLItBr5UNyEwWkh9bOsZXuUrteSX6=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJh_GRWxXz4zoRFIgpmCUwNh0",
+      "google_maps_url": "https://maps.google.com/?cid=2104922813867067412",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3rd mile post, Panamura Rd, Embilipitiya 70200, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.298878200000001,
-            "lng": 80.68153339999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.300256180291503,
-              "lng": 80.6828946802915
-            },
-            "southwest": {
-              "lat": 6.297558219708498,
-              "lng": 80.68019671970849
-            }
-          }
-        },
-        "name": "Buddhist Temple Weerawahala Forest Monastery",
-        "place_id": "ChIJQWn4QNdX4ToRGtGEu5BdRQE",
-        "url": "https://maps.google.com/?cid=91582243633680666",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddhist Temple Weerawahala Forest Monastery",
+      "location": {
+        "lat": 6.298878200000001,
+        "lng": 80.68153339999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "3rd mile post, Panamura Rd, Embilipitiya 70200, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJQWn4QNdX4ToRGtGEu5BdRQE",
+      "google_maps_url": "https://maps.google.com/?cid=91582243633680666",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Meegahajandura Rd, Sooriyawewa, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.334140300000001,
-            "lng": 81.0003107
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.335580480291504,
-              "lng": 81.0025232
-            },
-            "southwest": {
-              "lat": 6.332882519708499,
-              "lng": 80.99957320000001
-            }
-          }
-        },
-        "name": "Mahamewnawa Buddhist monastery",
-        "place_id": "ChIJFTKlkWod5DoR0r8VaYittpw",
-        "url": "https://maps.google.com/?cid=11292403917068287954",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mahamewnawa Buddhist monastery",
+      "location": {
+        "lat": 6.334140300000001,
+        "lng": 81.0003107
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Meegahajandura Rd, Sooriyawewa, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJFTKlkWod5DoR0r8VaYittpw",
+      "google_maps_url": "https://maps.google.com/?cid=11292403917068287954",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bothalegama, Bulathsinhala 12300, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.6950801,
-            "lng": 80.16811849999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.696416080291502,
-              "lng": 80.1693472302915
-            },
-            "southwest": {
-              "lat": 6.693718119708499,
-              "lng": 80.1666492697085
-            }
-          }
-        },
-        "international_phone_number": "+94 344 943 916",
-        "name": "Mahamevnawa Buddhist Monastery - Bulathsinhala",
-        "place_id": "ChIJs7wl4jS04zoRyEL_2QkqYao",
-        "url": "https://maps.google.com/?cid=12277140280989139656",
-        "website": "http://www.mahamevnawa.lk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPebh_zjxZowoQRUmWOQv49rnIyUdADOCDx_Urw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqfylHZ920AcFrIr-dthbGy9z3hc7XMphCB52E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqF24K7zJjBXTX25ZMpMs1ur8KCFXl4-JUvRA6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuFhqr2l3OkD7-yrsHs4-9Dc5RpkSypEjNYKI8=s1600-w648-h486",
-          "https://lh3.googleusercontent.com/p/AF1QipMHgdW9vZB5GaDMJ2KiLT-mzZ7eePVqE8ekp2Bs=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Buddhist Monastery - Bulathsinhala",
+      "location": {
+        "lat": 6.6950801,
+        "lng": 80.16811849999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Bothalegama, Bulathsinhala 12300, Sri Lanka",
+      "phone": "+94 344 943 916",
+      "website": "http://www.mahamevnawa.lk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPebh_zjxZowoQRUmWOQv49rnIyUdADOCDx_Urw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqfylHZ920AcFrIr-dthbGy9z3hc7XMphCB52E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqF24K7zJjBXTX25ZMpMs1ur8KCFXl4-JUvRA6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuFhqr2l3OkD7-yrsHs4-9Dc5RpkSypEjNYKI8=s1600-w648-h486",
+        "https://lh3.googleusercontent.com/p/AF1QipMHgdW9vZB5GaDMJ2KiLT-mzZ7eePVqE8ekp2Bs=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJs7wl4jS04zoRyEL_2QkqYao",
+      "google_maps_url": "https://maps.google.com/?cid=12277140280989139656",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Avissawella, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.9694598,
-            "lng": 80.21516729999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.970766430291502,
-              "lng": 80.2164262802915
-            },
-            "southwest": {
-              "lat": 6.968068469708498,
-              "lng": 80.21372831970848
-            }
-          }
-        },
-        "international_phone_number": "+94 71 375 8026",
-        "name": "Mahamevnawa Buddhist monastery - Avissawella",
-        "place_id": "ChIJeZh-nIWp4zoRxjfFqwujxms",
-        "url": "https://maps.google.com/?cid=7766073877968795590",
-        "website": "http://mahamevnawa.lk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMYh9SptzKPUUMU18TsN5rIBKgmyxQxznwhlPQR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPK0KoKvugtwScHKmKFi80yl3W3w8-fUIHG6cnt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEGiazc77jqkVbddpaA8pfoySxoKBz3jCcR90T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNBIaIDBCacSAX2WNulZToEMeJpLjKIwM0ehnD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPxJXqZSBlrLoOZ2MTLYHR_B_ta2T92_a1mYbHW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNG54JvxGCaty3cHt9g0y85OF75afix4LHJRjf4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJ4Ip3Hc9CEzf4PHdeEQdBaFq-p4yeNu_rZCUk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhQRuiMloYpBjxcc3Y6s4MmPhKfw7Bi25Z4jNp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvxSBQ3rpuYWXAFm5GIm46n___o7tn4NVZXjDc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8mkYyITToUZHnAJ3Fsx6LZ0ESCMWrqmSWpXRG=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Buddhist monastery - Avissawella",
+      "location": {
+        "lat": 6.9694598,
+        "lng": 80.21516729999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Avissawella, Sri Lanka",
+      "phone": "+94 71 375 8026",
+      "website": "http://mahamevnawa.lk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMYh9SptzKPUUMU18TsN5rIBKgmyxQxznwhlPQR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPK0KoKvugtwScHKmKFi80yl3W3w8-fUIHG6cnt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEGiazc77jqkVbddpaA8pfoySxoKBz3jCcR90T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNBIaIDBCacSAX2WNulZToEMeJpLjKIwM0ehnD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPxJXqZSBlrLoOZ2MTLYHR_B_ta2T92_a1mYbHW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNG54JvxGCaty3cHt9g0y85OF75afix4LHJRjf4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJ4Ip3Hc9CEzf4PHdeEQdBaFq-p4yeNu_rZCUk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhQRuiMloYpBjxcc3Y6s4MmPhKfw7Bi25Z4jNp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvxSBQ3rpuYWXAFm5GIm46n___o7tn4NVZXjDc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8mkYyITToUZHnAJ3Fsx6LZ0ESCMWrqmSWpXRG=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJeZh-nIWp4zoRxjfFqwujxms",
+      "google_maps_url": "https://maps.google.com/?cid=7766073877968795590",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Meegahajandura Rd, Sooriyawewa, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.3345159,
-            "lng": 81.0012565
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.335903830291503,
-              "lng": 81.0028522802915
-            },
-            "southwest": {
-              "lat": 6.333205869708499,
-              "lng": 81.00015431970849
-            }
-          }
-        },
-        "name": "Vihara Mandhiraya, විහාර මන්දිරය, Mahamewnawa Buddhist monastery",
-        "place_id": "ChIJh7z1-U4d5DoRC0oDPW0gMh4",
-        "url": "https://maps.google.com/?cid=2175837223520520715",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOk4feEINy662bmzGkRnDb4BoEFKD1pIqTJS8Rf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXqXzcGOp7qyx7hYdZPIg0AasYbiq7w8LUk_uK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPTYLI_vcqein72f03bWfu691_kr1KmWLGp9Jy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPd-_I0vV98m_p85uLPP_2gggVGlJ5INC0efhsz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQw_RPlYXPVRmcU59Wg0rIJdjLJLfS4-kdX08W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhGduaERWUMteh4AFb4xehBC-twmNI10SfMUFz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipObKu_eoLK6uI4-AsLygauqBOoZpWzWXP1P-z1a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNytJwNUt3yWrkCZjuxkM3SLI0iQz75FCO3bBas=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEhwctLy1QZjTz0a5JLvR4tEDj7zeZiFjBtRs7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJYOGHFr7ul5Cu7tu2DCLRr4B8CrLjPyRynItP=s1600-w800-h800"
-        ]
+      "name": "Vihara Mandhiraya, විහාර මන්දිරය, Mahamewnawa Buddhist monastery",
+      "location": {
+        "lat": 6.3345159,
+        "lng": 81.0012565
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Meegahajandura Rd, Sooriyawewa, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOk4feEINy662bmzGkRnDb4BoEFKD1pIqTJS8Rf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXqXzcGOp7qyx7hYdZPIg0AasYbiq7w8LUk_uK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPTYLI_vcqein72f03bWfu691_kr1KmWLGp9Jy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPd-_I0vV98m_p85uLPP_2gggVGlJ5INC0efhsz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQw_RPlYXPVRmcU59Wg0rIJdjLJLfS4-kdX08W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhGduaERWUMteh4AFb4xehBC-twmNI10SfMUFz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipObKu_eoLK6uI4-AsLygauqBOoZpWzWXP1P-z1a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNytJwNUt3yWrkCZjuxkM3SLI0iQz75FCO3bBas=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEhwctLy1QZjTz0a5JLvR4tEDj7zeZiFjBtRs7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJYOGHFr7ul5Cu7tu2DCLRr4B8CrLjPyRynItP=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJh7z1-U4d5DoRC0oDPW0gMh4",
+      "google_maps_url": "https://maps.google.com/?cid=2175837223520520715",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Godawela Uwa, Welimada 90200, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.943849099999999,
-            "lng": 80.90066159999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.945348680291501,
-              "lng": 80.9020286302915
-            },
-            "southwest": {
-              "lat": 6.942650719708497,
-              "lng": 80.89933066970849
-            }
-          }
-        },
-        "international_phone_number": "+94 574 926 449",
-        "name": "Mahamevnawa Buddhist Monastery - Welimada",
-        "place_id": "ChIJm4DB8CB85DoRIZW2GK4YFRI",
-        "url": "https://maps.google.com/?cid=1302974803211621665",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNy6mp5Q-viEOdWoGYXAGQkrkSA-WB75FsKe2FM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO888V5DNVe2oKatt1E-osEST12S-154yILSbCn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhTLp3aqg7qp9s1uELuaxe5zoQOMZ8VODKVKwz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUpiFGIg4gGZrUDjMUfLWDPDpkmuer3aYwzjzS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwfHfB9U6RwGSYH7IWElI5Ud1HrWAMS7mwmdBC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCc8TVyl2NG0RAwftmdBH-X3yR5LsXggD30G92=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPux4xb5pSZl_2Yiw1vRCGg8MzquQbB4VuR65dA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMrUghnGh6BDIi7Bp13JCUT22JwtFdHf_datkKd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPa7E8z04VkM8qjE59IgXc5vp8rT5C2eOw-sLhq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgfwgLRdRs8T4-KXPuoSUVU0HCjLDfXuDxHd9-=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Buddhist Monastery - Welimada",
+      "location": {
+        "lat": 6.943849099999999,
+        "lng": 80.90066159999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Godawela Uwa, Welimada 90200, Sri Lanka",
+      "phone": "+94 574 926 449",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNy6mp5Q-viEOdWoGYXAGQkrkSA-WB75FsKe2FM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO888V5DNVe2oKatt1E-osEST12S-154yILSbCn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhTLp3aqg7qp9s1uELuaxe5zoQOMZ8VODKVKwz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUpiFGIg4gGZrUDjMUfLWDPDpkmuer3aYwzjzS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwfHfB9U6RwGSYH7IWElI5Ud1HrWAMS7mwmdBC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCc8TVyl2NG0RAwftmdBH-X3yR5LsXggD30G92=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPux4xb5pSZl_2Yiw1vRCGg8MzquQbB4VuR65dA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMrUghnGh6BDIi7Bp13JCUT22JwtFdHf_datkKd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPa7E8z04VkM8qjE59IgXc5vp8rT5C2eOw-sLhq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgfwgLRdRs8T4-KXPuoSUVU0HCjLDfXuDxHd9-=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJm4DB8CB85DoRIZW2GK4YFRI",
+      "google_maps_url": "https://maps.google.com/?cid=1302974803211621665",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Haldolawaththa, Nugawela, Kahawatta, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.578868699999999,
-            "lng": 80.56094780000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.580168280291502,
-              "lng": 80.56230673029151
-            },
-            "southwest": {
-              "lat": 6.577470319708497,
-              "lng": 80.5596087697085
-            }
-          }
-        },
-        "international_phone_number": "+94 71 217 6417",
-        "name": "Mahamevnawa Monastery, Kahawatta.",
-        "place_id": "ChIJ41fqyQnt4zoREE-FK4JNWgE",
-        "url": "https://maps.google.com/?cid=97475563413131024",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPN-X2nrTNYtQglYxxk1I4tdAtR9tePZJZRuyZX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMnJus0J9Ndh7lfux1LqwqPL_7nf170QunukVRE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP-WHj4eHGzwpYecOwUombqdUO-WuKLNxwvUrwJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXYhQ1zmVkIdYPVOWQKrK5TNkU6Ct9tBRGH9bo=s1600-w780-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO17Oyf3DiVI7oBmzS3liqqa47KQe5Skp7S5ocj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrU3sOMBQ1IwouWjvBnLopZMiAOoml3wqCruzs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPL2f3rn3lYyt3utVw5VxSUf94UiWI4W0DZDbxr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQElbKXaTDN2s2XKqEV4qlxUykPWUAFDs5AW30=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCeUW3xkx9bMiktDe_nyimapaNEISzdwuIzxhb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYwnv6YM1DaPPAxFl0vYAce4Mai4oYYrv6TD-E=s1600-w800-h780"
-        ]
+      "name": "Mahamevnawa Monastery, Kahawatta.",
+      "location": {
+        "lat": 6.578868699999999,
+        "lng": 80.56094780000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Haldolawaththa, Nugawela, Kahawatta, Sri Lanka",
+      "phone": "+94 71 217 6417",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPN-X2nrTNYtQglYxxk1I4tdAtR9tePZJZRuyZX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMnJus0J9Ndh7lfux1LqwqPL_7nf170QunukVRE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP-WHj4eHGzwpYecOwUombqdUO-WuKLNxwvUrwJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXYhQ1zmVkIdYPVOWQKrK5TNkU6Ct9tBRGH9bo=s1600-w780-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO17Oyf3DiVI7oBmzS3liqqa47KQe5Skp7S5ocj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrU3sOMBQ1IwouWjvBnLopZMiAOoml3wqCruzs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPL2f3rn3lYyt3utVw5VxSUf94UiWI4W0DZDbxr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQElbKXaTDN2s2XKqEV4qlxUykPWUAFDs5AW30=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCeUW3xkx9bMiktDe_nyimapaNEISzdwuIzxhb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYwnv6YM1DaPPAxFl0vYAce4Mai4oYYrv6TD-E=s1600-w800-h780"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ41fqyQnt4zoREE-FK4JNWgE",
+      "google_maps_url": "https://maps.google.com/?cid=97475563413131024",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mandagala, Kanegalla, North, Gilimale, Ratnapura, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.778121100000001,
-            "lng": 80.4057371
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.779004680291503,
-              "lng": 80.4071725302915
-            },
-            "southwest": {
-              "lat": 6.776306719708498,
-              "lng": 80.4044745697085
-            }
-          }
-        },
-        "international_phone_number": "+94 454 927 714",
-        "name": "Mahamevnawa Buddhist Monastery, Gilimale",
-        "place_id": "ChIJtUwpVBq94zoRPO04GvAC828",
-        "url": "https://maps.google.com/?cid=8066794587806035260",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMKAEA6bC8hzEmGrkxUNrFp-EsHIWMII2fSQNgj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMa0KCTRkju3x_t69RWKLPL-p3C0G_xWFfyEaGa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzuCHdmuf3Nw9jIVPO8drsU_flYD81sKpEgaKs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWpOnOiyDPA3W_mq-WyMBl_djUmagkZ6qBhmww=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6M9vsxGit8-J0qSI5pfbYQJyIN0P5Z7SCtW9L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEpCaah49KGodFC8OgqL3TPVgxiviZMjLgoZUO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-zj4Qjd04vuRmQziKQM4FGqcF9HehzwkgW2d6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcVPuzBBDEYignbs7CXtdRjLEqhwYYyIi6Gn7F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTIbDbh-KqZAP5U_qI5UmUEMUKa_BBvWss8TlK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQVQ3-ZUyc9P81NkKGrFosJhB5nS40pm4BHtBi=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Buddhist Monastery, Gilimale",
+      "location": {
+        "lat": 6.778121100000001,
+        "lng": 80.4057371
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Mandagala, Kanegalla, North, Gilimale, Ratnapura, Sri Lanka",
+      "phone": "+94 454 927 714",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMKAEA6bC8hzEmGrkxUNrFp-EsHIWMII2fSQNgj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMa0KCTRkju3x_t69RWKLPL-p3C0G_xWFfyEaGa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzuCHdmuf3Nw9jIVPO8drsU_flYD81sKpEgaKs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWpOnOiyDPA3W_mq-WyMBl_djUmagkZ6qBhmww=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6M9vsxGit8-J0qSI5pfbYQJyIN0P5Z7SCtW9L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEpCaah49KGodFC8OgqL3TPVgxiviZMjLgoZUO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-zj4Qjd04vuRmQziKQM4FGqcF9HehzwkgW2d6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcVPuzBBDEYignbs7CXtdRjLEqhwYYyIi6Gn7F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTIbDbh-KqZAP5U_qI5UmUEMUKa_BBvWss8TlK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQVQ3-ZUyc9P81NkKGrFosJhB5nS40pm4BHtBi=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJtUwpVBq94zoRPO04GvAC828",
+      "google_maps_url": "https://maps.google.com/?cid=8066794587806035260",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Panahaduwa, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.4548591,
-            "lng": 80.80110669999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.456212980291502,
-              "lng": 80.80247533029153
-            },
-            "southwest": {
-              "lat": 6.453515019708497,
-              "lng": 80.79977736970851
-            }
-          }
-        },
-        "name": "Balawanagala Monastery",
-        "place_id": "ChIJXzvLV5354zoRNXB_TB7gMcg",
-        "url": "https://maps.google.com/?cid=14425557502181470261",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPiOx8X99xx6NoPuaLp1owu-yi4kFTgfasdLVBX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOdOVnU9ePzWTX4IRZILFYPMy4BgU9Jb0ijSx-1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM6avdIf3eXFCpJXzje9AX4ag-efArSWyazR_ze=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOayblRSMR4S3E2D-nev4yHub6FySQjc-BMgChq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6n3yr3FM0mdi0saY3hq6hNzDVeTZ6ri1vM_tn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqaRNmRGKbMNbxyMbpGYA91uptejzbkbCrRWSF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvSGea-OMkUEfS2NjwNg3xibXQlucXTLeWVheh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM60D-lO5MwiqiawoBYYWg8KRY2xVpwlnEvEjbx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPiCFic0SF4W1Nv4q6mQ-uVQ4XsXOp7XkREWMVh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuJlqX448Oin8pRA9oJfs8XWT9i0iK_Z_ft83K=s1600-w800-h800"
-        ]
+      "name": "Balawanagala Monastery",
+      "location": {
+        "lat": 6.4548591,
+        "lng": 80.80110669999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Panahaduwa, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPiOx8X99xx6NoPuaLp1owu-yi4kFTgfasdLVBX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOdOVnU9ePzWTX4IRZILFYPMy4BgU9Jb0ijSx-1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM6avdIf3eXFCpJXzje9AX4ag-efArSWyazR_ze=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOayblRSMR4S3E2D-nev4yHub6FySQjc-BMgChq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6n3yr3FM0mdi0saY3hq6hNzDVeTZ6ri1vM_tn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqaRNmRGKbMNbxyMbpGYA91uptejzbkbCrRWSF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvSGea-OMkUEfS2NjwNg3xibXQlucXTLeWVheh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM60D-lO5MwiqiawoBYYWg8KRY2xVpwlnEvEjbx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPiCFic0SF4W1Nv4q6mQ-uVQ4XsXOp7XkREWMVh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuJlqX448Oin8pRA9oJfs8XWT9i0iK_Z_ft83K=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJXzvLV5354zoRNXB_TB7gMcg",
+      "google_maps_url": "https://maps.google.com/?cid=14425557502181470261",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kandaketiya - Soranathota Road, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.0473887,
-            "lng": 81.0319581
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.048658580291502,
-              "lng": 81.0331735302915
-            },
-            "southwest": {
-              "lat": 7.045960619708498,
-              "lng": 81.03047556970849
-            }
-          }
-        },
-        "international_phone_number": "+94 76 310 6484",
-        "name": "Pathanawattha monastery",
-        "place_id": "ChIJGcmd3DaJ5DoRrKx8XI80BIE",
-        "url": "https://maps.google.com/?cid=9296613321136188588",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNaUGjYBhuKxlNHQtAq_qJvqCQLIxwdAkDQ-tUq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeCEWHwQ9lJ83JX328ejJn1WUd4okXlb7RnMiV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgXIHa1jsOA3fh6miWx0DZx5-mSEexp2SW7qWd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOW9vT2G5kYdIH8zWOFjM-GY3TuD3cXgNUddZi7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNv-bokHv43656cG2RckqI2635mIGqePDldqJys=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9WX131OfJZYSgSGyFPnapcQYZWR9Y2a3rfFes=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZIElgXyJyVabUg7YdWzEA_WE7vwXGncziorWB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRWlh_67EmTN5dHAfGQEp0REk3mnAAO_m4UFLC=s1600-w800-h800"
-        ]
+      "name": "Pathanawattha monastery",
+      "location": {
+        "lat": 7.0473887,
+        "lng": 81.0319581
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Kandaketiya - Soranathota Road, Sri Lanka",
+      "phone": "+94 76 310 6484",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNaUGjYBhuKxlNHQtAq_qJvqCQLIxwdAkDQ-tUq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeCEWHwQ9lJ83JX328ejJn1WUd4okXlb7RnMiV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgXIHa1jsOA3fh6miWx0DZx5-mSEexp2SW7qWd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOW9vT2G5kYdIH8zWOFjM-GY3TuD3cXgNUddZi7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNv-bokHv43656cG2RckqI2635mIGqePDldqJys=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9WX131OfJZYSgSGyFPnapcQYZWR9Y2a3rfFes=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZIElgXyJyVabUg7YdWzEA_WE7vwXGncziorWB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRWlh_67EmTN5dHAfGQEp0REk3mnAAO_m4UFLC=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGcmd3DaJ5DoRrKx8XI80BIE",
+      "google_maps_url": "https://maps.google.com/?cid=9296613321136188588",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kitulagoda Pitadeniya Palle Kanda Road, Walasmulla 82450, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.1512863,
-            "lng": 80.6538604
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.155663900000001,
-              "lng": 80.65468115
-            },
-            "southwest": {
-              "lat": 6.1498271,
-              "lng": 80.65139815
-            }
-          }
-        },
-        "international_phone_number": "+94 474 931 378",
-        "name": "Mahamevnawa Buddhist Monastery - Walasmulla",
-        "place_id": "ChIJ443GF91P4ToR7yE3csZ9f04",
-        "url": "https://maps.google.com/?cid=5656377948273844719",
-        "website": "https://mahamevnawa.lk/mahamevnawa-local-branches/walasmulla/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMxdgnDbf4-ZdPEwoRrwpJkX9f_1zxrJpZsBhyl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTu25vNaeBZnGkF2ybbW-BcCD8NZvk38T1BgMt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjFjx27s0jEwtEZ09I92_Y1LzeGWMxJ5FKhgOu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNKYU8CI7whT38deu-MBplfno9PtLPCXZXz1LuS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXg-3MbciLzrpbJKEjJ-_A7-x-UJSZ9ZLB3Q3X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPbDLZlRg1tiWDIfnIBbL5MQMaDhawFttNC93Q2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQaLGVWL2maWn58C9nMguJOYvFQ64WSaV0hzK9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtGs41q5OKLvXD5Se6pV18BVykQoJRKmyaLH-p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpyZSidXcVTwv38N0DpusiCRp3hXLlsaut979i=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOweRGpe90ZYb_W9nKtS-xBuBA1HlXDJXS9A6Gd=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Buddhist Monastery - Walasmulla",
+      "location": {
+        "lat": 6.1512863,
+        "lng": 80.6538604
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Kitulagoda Pitadeniya Palle Kanda Road, Walasmulla 82450, Sri Lanka",
+      "phone": "+94 474 931 378",
+      "website": "https://mahamevnawa.lk/mahamevnawa-local-branches/walasmulla/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMxdgnDbf4-ZdPEwoRrwpJkX9f_1zxrJpZsBhyl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTu25vNaeBZnGkF2ybbW-BcCD8NZvk38T1BgMt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjFjx27s0jEwtEZ09I92_Y1LzeGWMxJ5FKhgOu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNKYU8CI7whT38deu-MBplfno9PtLPCXZXz1LuS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXg-3MbciLzrpbJKEjJ-_A7-x-UJSZ9ZLB3Q3X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPbDLZlRg1tiWDIfnIBbL5MQMaDhawFttNC93Q2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQaLGVWL2maWn58C9nMguJOYvFQ64WSaV0hzK9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtGs41q5OKLvXD5Se6pV18BVykQoJRKmyaLH-p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpyZSidXcVTwv38N0DpusiCRp3hXLlsaut979i=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOweRGpe90ZYb_W9nKtS-xBuBA1HlXDJXS9A6Gd=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ443GF91P4ToR7yE3csZ9f04",
+      "google_maps_url": "https://maps.google.com/?cid=5656377948273844719",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ihala Hewessa, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.360730899999999,
-            "lng": 80.2911384
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.361768430291502,
-              "lng": 80.2921713302915
-            },
-            "southwest": {
-              "lat": 6.359070469708497,
-              "lng": 80.28947336970849
-            }
-          }
-        },
-        "name": "Lenagiri Forest Monastery",
-        "place_id": "ChIJwYbepynZ4zoRS0Yu9weD6xo",
-        "url": "https://maps.google.com/?cid=1939788134748145227",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMZhPnGl-Dgq8D7ZADPCR_mJVGovSqhoNo2daqS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKsLx5Ak8gFdLnydCtOLv6nb43n5c_jV0yrlc7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYRf3PoOiTGlw0C-nLZRleSZUW2jDyvr0c6ywb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPr9ErV-juIRcY1CHvEv1kq9uEVGSFaONwsZ28x=s1600-w800-h800"
-        ]
+      "name": "Lenagiri Forest Monastery",
+      "location": {
+        "lat": 6.360730899999999,
+        "lng": 80.2911384
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Ihala Hewessa, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMZhPnGl-Dgq8D7ZADPCR_mJVGovSqhoNo2daqS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKsLx5Ak8gFdLnydCtOLv6nb43n5c_jV0yrlc7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYRf3PoOiTGlw0C-nLZRleSZUW2jDyvr0c6ywb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPr9ErV-juIRcY1CHvEv1kq9uEVGSFaONwsZ28x=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJwYbepynZ4zoRS0Yu9weD6xo",
+      "google_maps_url": "https://maps.google.com/?cid=1939788134748145227",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Diyatalawa, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.8160581,
-            "lng": 80.96914749999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.817493730291503,
-              "lng": 80.96998124999999
-            },
-            "southwest": {
-              "lat": 6.814795769708498,
-              "lng": 80.96664625
-            }
-          }
-        },
-        "international_phone_number": "+94 573 571 621",
-        "name": "Sri Gnanaramaya Monastery",
-        "place_id": "ChIJAQAAwBVw5DoRlw00dbTVt9E",
-        "url": "https://maps.google.com/?cid=15111782045702163863",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNcSSG1h3XYWXKr3-DJpiXFgXqQ9_qEMxntLlVA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTzDUpyUD12N_Tc56N_y8s2XKffzVq4klP8jMi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPK3L9SG3LIEhGX8tTzrh6HwLGhQJWpHUJ7yAlm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGovKKCeU6A7ZFyBqWaTjNXAC1zTKdunqo2jfC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNfborUrmlkQOSNpf20QpG6AFQybhGa3GPvgbtd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNLj6rydIOEzAO3MNrfWOJmFo-ulcSAl49_dd3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP35PMrDdS1cM5Gd8xJgb6dLkbpqOGY_DIWwRbD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOngt6-sUt-B2d_YEOoqzLnAztK0J2rnsgoyLNB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPOvKCO7Rw3ikN4z5uIoEoLUu0m9ui7rW-AaIF8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMrxWgZqI8BPgr0-iI0BcT7MitcsTTLUncy0i7t=s1600-w800-h800"
-        ]
+      "name": "Sri Gnanaramaya Monastery",
+      "location": {
+        "lat": 6.8160581,
+        "lng": 80.96914749999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Diyatalawa, Sri Lanka",
+      "phone": "+94 573 571 621",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNcSSG1h3XYWXKr3-DJpiXFgXqQ9_qEMxntLlVA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTzDUpyUD12N_Tc56N_y8s2XKffzVq4klP8jMi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPK3L9SG3LIEhGX8tTzrh6HwLGhQJWpHUJ7yAlm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGovKKCeU6A7ZFyBqWaTjNXAC1zTKdunqo2jfC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNfborUrmlkQOSNpf20QpG6AFQybhGa3GPvgbtd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNLj6rydIOEzAO3MNrfWOJmFo-ulcSAl49_dd3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP35PMrDdS1cM5Gd8xJgb6dLkbpqOGY_DIWwRbD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOngt6-sUt-B2d_YEOoqzLnAztK0J2rnsgoyLNB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPOvKCO7Rw3ikN4z5uIoEoLUu0m9ui7rW-AaIF8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMrxWgZqI8BPgr0-iI0BcT7MitcsTTLUncy0i7t=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJAQAAwBVw5DoRlw00dbTVt9E",
+      "google_maps_url": "https://maps.google.com/?cid=15111782045702163863",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bodagama-Hambegamuwa-Kaltota Rd, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.635954799999999,
-            "lng": 80.91283469999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.637323130291501,
-              "lng": 80.91422083029151
-            },
-            "southwest": {
-              "lat": 6.634625169708497,
-              "lng": 80.91152286970849
-            }
-          }
-        },
-        "name": "Bhikkhu Monastery ( Aramaya )",
-        "place_id": "ChIJGWYwrJEM5DoRyR_CRE2tsBE",
-        "url": "https://maps.google.com/?cid=1274709241923510217",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMhgg3TH9YKtGev75afQMHRqmW5C4tDco6Eb_eR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3Ip2-Nz6iJw6as2H48WLMWMF-UVrMWyyFNP4w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzmbV8EOO-JmSQAx9kY7x5_7r7QAb09QOQ-_aL=s1600-w800-h800"
-        ]
+      "name": "Bhikkhu Monastery ( Aramaya )",
+      "location": {
+        "lat": 6.635954799999999,
+        "lng": 80.91283469999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Bodagama-Hambegamuwa-Kaltota Rd, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMhgg3TH9YKtGev75afQMHRqmW5C4tDco6Eb_eR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3Ip2-Nz6iJw6as2H48WLMWMF-UVrMWyyFNP4w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzmbV8EOO-JmSQAx9kY7x5_7r7QAb09QOQ-_aL=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGWYwrJEM5DoRyR_CRE2tsBE",
+      "google_maps_url": "https://maps.google.com/?cid=1274709241923510217",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Badulla, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.8482368,
-            "lng": 81.0531965
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.8498154,
-              "lng": 81.05796035000002
-            },
-            "southwest": {
-              "lat": 6.843501000000001,
-              "lng": 81.05160855000001
-            }
-          }
-        },
-        "name": "Rawana Ella Forest Monastery",
-        "place_id": "ChIJD4cgFTtl5DoRtf-MJKjwfdg",
-        "url": "https://maps.google.com/?cid=15599889289239658421",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOF7ZKYFmirXonVwwUQ9s8lCJe-wH03KfHss3_k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmy5R7lnAdJJAhI4f_ywtcWrGiQ7dRvFoXBhXn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQXT5-YO2OCnwzHgJz_QZ2pD5nG0pqbhxjVMKu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlmpkTlano1-WpGOZwAfBIGcM_p-kytTlt33hN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfOMEX5xLzvAm68crNHxoFOhy6HBBJVR5sGO0L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMJG9X-MggHgKqqj2QYkapeg1YWHlcUaFX4Sb6l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOayoPigXZq0RiXnUZlo5iEBzO9npEwz8-0iY1L=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipNuSKU972sVzAnWd0-Bz9QbfQUAxw8R5QYpubqR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLyAzCnxlrMmTG88ot_S5s0kXwxzHSrvygMFpX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKMveXkd0vHT9yOKbQGNkXvBdZWdd4jdnKZx-J=s1600-w800-h800"
-        ]
+      "name": "Rawana Ella Forest Monastery",
+      "location": {
+        "lat": 6.8482368,
+        "lng": 81.0531965
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Badulla, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOF7ZKYFmirXonVwwUQ9s8lCJe-wH03KfHss3_k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmy5R7lnAdJJAhI4f_ywtcWrGiQ7dRvFoXBhXn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQXT5-YO2OCnwzHgJz_QZ2pD5nG0pqbhxjVMKu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlmpkTlano1-WpGOZwAfBIGcM_p-kytTlt33hN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfOMEX5xLzvAm68crNHxoFOhy6HBBJVR5sGO0L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMJG9X-MggHgKqqj2QYkapeg1YWHlcUaFX4Sb6l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOayoPigXZq0RiXnUZlo5iEBzO9npEwz8-0iY1L=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipNuSKU972sVzAnWd0-Bz9QbfQUAxw8R5QYpubqR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLyAzCnxlrMmTG88ot_S5s0kXwxzHSrvygMFpX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKMveXkd0vHT9yOKbQGNkXvBdZWdd4jdnKZx-J=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJD4cgFTtl5DoRtf-MJKjwfdg",
+      "google_maps_url": "https://maps.google.com/?cid=15599889289239658421",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Embilipitiya, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.334321999999999,
-            "lng": 80.8072425
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.335145930291502,
-              "lng": 80.8086644302915
-            },
-            "southwest": {
-              "lat": 6.332447969708499,
-              "lng": 80.8059664697085
-            }
-          }
-        },
-        "name": "Weerawahala Forest Monastery",
-        "place_id": "ChIJaZ-KhNT_4zoRHg4G1scysKY",
-        "url": "https://maps.google.com/?cid=12011156040067714590",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMXLxp-r9pSiEPAotNebdzfZYmuzSCGi6VKvldq=s1600-w800-h718",
-          "https://lh3.googleusercontent.com/p/AF1QipN_p2JGTIjV9jpdELV4G5Q2aWzbytrthERxPXzM=s1600-w800-h718",
-          "https://lh3.googleusercontent.com/p/AF1QipOS9I3p_RFP9CI4eJm4o4MBFWwQeHjh5pCzNQIb=s1600-w800-h718",
-          "https://lh3.googleusercontent.com/p/AF1QipOE0BI208qJEaZOSPxc7gZx9CFrcBxECoBRtO5T=s1600-w641-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtJ1SRT-VnvEAHxS4wWzKPiWwUm8ZfBTGvMD_s=s1600-w800-h718",
-          "https://lh3.googleusercontent.com/p/AF1QipO_zTTQpOmyqfw4wyR_iq8BDpK9NIKT0kHaJ84I=s1600-w800-h718",
-          "https://lh3.googleusercontent.com/p/AF1QipM_M2dMDmxydHb8pW6r3SWuWL3OVWMFubBGSAfH=s1600-w800-h718",
-          "https://lh3.googleusercontent.com/p/AF1QipPqdDLN5-Rhd7G_PbpIWH0FmXcFNeQEIXcv7HTG=s1600-w800-h718",
-          "https://lh3.googleusercontent.com/p/AF1QipP5QvOifrk4c7ciDavEUsIGvaOFOj-1vTm-SpNx=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPxN8XZuzTNWBcmdAhO8kDomcucIqBUvKvpHMuI=s1600-w800-h718"
-        ]
+      "name": "Weerawahala Forest Monastery",
+      "location": {
+        "lat": 6.334321999999999,
+        "lng": 80.8072425
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Embilipitiya, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMXLxp-r9pSiEPAotNebdzfZYmuzSCGi6VKvldq=s1600-w800-h718",
+        "https://lh3.googleusercontent.com/p/AF1QipN_p2JGTIjV9jpdELV4G5Q2aWzbytrthERxPXzM=s1600-w800-h718",
+        "https://lh3.googleusercontent.com/p/AF1QipOS9I3p_RFP9CI4eJm4o4MBFWwQeHjh5pCzNQIb=s1600-w800-h718",
+        "https://lh3.googleusercontent.com/p/AF1QipOE0BI208qJEaZOSPxc7gZx9CFrcBxECoBRtO5T=s1600-w641-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtJ1SRT-VnvEAHxS4wWzKPiWwUm8ZfBTGvMD_s=s1600-w800-h718",
+        "https://lh3.googleusercontent.com/p/AF1QipO_zTTQpOmyqfw4wyR_iq8BDpK9NIKT0kHaJ84I=s1600-w800-h718",
+        "https://lh3.googleusercontent.com/p/AF1QipM_M2dMDmxydHb8pW6r3SWuWL3OVWMFubBGSAfH=s1600-w800-h718",
+        "https://lh3.googleusercontent.com/p/AF1QipPqdDLN5-Rhd7G_PbpIWH0FmXcFNeQEIXcv7HTG=s1600-w800-h718",
+        "https://lh3.googleusercontent.com/p/AF1QipP5QvOifrk4c7ciDavEUsIGvaOFOj-1vTm-SpNx=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPxN8XZuzTNWBcmdAhO8kDomcucIqBUvKvpHMuI=s1600-w800-h718"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJaZ-KhNT_4zoRHg4G1scysKY",
+      "google_maps_url": "https://maps.google.com/?cid=12011156040067714590",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Matara, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.348071099999999,
-            "lng": 80.6249684
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.349420080291502,
-              "lng": 80.62631738029151
-            },
-            "southwest": {
-              "lat": 6.346722119708497,
-              "lng": 80.62361941970849
-            }
-          }
-        },
-        "name": "Ilukthanna Monastery",
-        "place_id": "ChIJuWdqI8ni4zoRvbRji19MXbM",
-        "url": "https://maps.google.com/?cid=12924570478867363005",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOxNVyAPPh8X1Z4mLbD7FntQyzMt_9hCo6KWP-Z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgxsymAa5AqtRans4mQ4ejkiVjNpdsHxTWP1lS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMFIlljYAyqWKpqjQP1U4nq55aW486h82NEiK8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOdUs6_el0oo6JxpKj7yCZR6_DeujznJMFDhfg7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsLq544toYKdJeckEud5QpMQV-4cHVZpPrf6x_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9fKa9Vlhc5T5RJ87v2nRPiVUbEBYjvlT-tlte=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsonU-Amgf7GHIWkjWMxskYZRkq-9DYJlT9Yo-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPtUFtMMO8TxVs12xvCJ4MT9mCWttLstI-bchWA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqswztGwsHntbDj19OErsL8PgvzXQMI4fmTgMq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjieObAKtz24NL9bP9vNRTaOjPNp-5-8FqFXCm=s1600-w800-h800"
-        ]
+      "name": "Ilukthanna Monastery",
+      "location": {
+        "lat": 6.348071099999999,
+        "lng": 80.6249684
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Matara, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOxNVyAPPh8X1Z4mLbD7FntQyzMt_9hCo6KWP-Z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgxsymAa5AqtRans4mQ4ejkiVjNpdsHxTWP1lS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMFIlljYAyqWKpqjQP1U4nq55aW486h82NEiK8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOdUs6_el0oo6JxpKj7yCZR6_DeujznJMFDhfg7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsLq544toYKdJeckEud5QpMQV-4cHVZpPrf6x_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9fKa9Vlhc5T5RJ87v2nRPiVUbEBYjvlT-tlte=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsonU-Amgf7GHIWkjWMxskYZRkq-9DYJlT9Yo-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPtUFtMMO8TxVs12xvCJ4MT9mCWttLstI-bchWA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqswztGwsHntbDj19OErsL8PgvzXQMI4fmTgMq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjieObAKtz24NL9bP9vNRTaOjPNp-5-8FqFXCm=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJuWdqI8ni4zoRvbRji19MXbM",
+      "google_maps_url": "https://maps.google.com/?cid=12924570478867363005",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Udugama-Bungama Rd, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.198953600000001,
-            "lng": 80.3510072
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.200305580291502,
-              "lng": 80.3523357302915
-            },
-            "southwest": {
-              "lat": 6.197607619708498,
-              "lng": 80.34963776970848
-            }
-          }
-        },
-        "name": "Ariyamagga Forest Monastery Turning Point",
-        "place_id": "ChIJMfX8NAdl4ToRetQKDVFmkd0",
-        "url": "https://maps.google.com/?cid=15965654652302316666",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOBcC59Qa3LLn9QWDHH6Eof9J4SiJOK-YZ_hj6y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnomHNuThkLafch5X3Yo2ZIBGYLI4VGzMo0wsX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMh8Zn7Beg80j_8cp0tcpKAKOIadMrCu7X0yOav=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUBCHHJQuC6F_Ywts2CalToXB_8StQNB76Sl8_=s1600-w800-h800"
-        ]
+      "name": "Ariyamagga Forest Monastery Turning Point",
+      "location": {
+        "lat": 6.198953600000001,
+        "lng": 80.3510072
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Udugama-Bungama Rd, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOBcC59Qa3LLn9QWDHH6Eof9J4SiJOK-YZ_hj6y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnomHNuThkLafch5X3Yo2ZIBGYLI4VGzMo0wsX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMh8Zn7Beg80j_8cp0tcpKAKOIadMrCu7X0yOav=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUBCHHJQuC6F_Ywts2CalToXB_8StQNB76Sl8_=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJMfX8NAdl4ToRetQKDVFmkd0",
+      "google_maps_url": "https://maps.google.com/?cid=15965654652302316666",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Udugama Rd, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.202800400000001,
-            "lng": 80.3561934
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.204167180291502,
-              "lng": 80.3575276302915
-            },
-            "southwest": {
-              "lat": 6.201469219708498,
-              "lng": 80.35482966970848
-            }
-          }
-        },
-        "name": "Ariyamagga Forest Monastery 2nd Turning Point",
-        "place_id": "ChIJAwqAnSRl4ToR7r-zJ9rlPbs",
-        "url": "https://maps.google.com/?cid=13492192783803596782",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNzWBRwdKT2SZH0xeJgQDAzniZ6lUFDS452ID6e=s1600-w800-h800"
-        ]
+      "name": "Ariyamagga Forest Monastery 2nd Turning Point",
+      "location": {
+        "lat": 6.202800400000001,
+        "lng": 80.3561934
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:02:15.118Z"
-      }
+      "address": "Udugama Rd, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNzWBRwdKT2SZH0xeJgQDAzniZ6lUFDS452ID6e=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJAwqAnSRl4ToR7r-zJ9rlPbs",
+      "google_maps_url": "https://maps.google.com/?cid=13492192783803596782",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

@@ -1,2025 +1,1590 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "1566280010, Jacksonville, FL 32256, USA",
-        "geometry": {
-          "location": {
-            "lat": 30.1741805,
-            "lng": -81.5434403
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.1756324302915,
-              "lng": -81.5420931697085
-            },
-            "southwest": {
-              "lat": 30.1729344697085,
-              "lng": -81.5447911302915
-            }
-          }
-        },
-        "name": "Thathana Parla Buddhist Monastery",
-        "place_id": "ChIJTzQ7DGPL5YgR8h65YRJtMBg",
-        "url": "https://maps.google.com/?cid=1743012981508742898",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Thathana Parla Buddhist Monastery",
+      "location": {
+        "lat": 30.1741805,
+        "lng": -81.5434403
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "1566280010, Jacksonville, FL 32256, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTzQ7DGPL5YgR8h65YRJtMBg",
+      "google_maps_url": "https://maps.google.com/?cid=1743012981508742898",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4490 Aurora Rd, Melbourne, FL 32934, USA",
-        "geometry": {
-          "location": {
-            "lat": 28.1344442,
-            "lng": -80.6985967
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.1357869302915,
-              "lng": -80.6974201697085
-            },
-            "southwest": {
-              "lat": 28.1330889697085,
-              "lng": -80.7001181302915
-            }
-          }
-        },
-        "international_phone_number": "+1 321-255-1465",
-        "name": "Wat Punyawanaram",
-        "place_id": "ChIJhclcBRgP3ogR5vqfAT1o9Zg",
-        "url": "https://maps.google.com/?cid=11021830274288712422",
-        "website": "http://www.melbournethaitemple.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPqQT3wo0AvJE1n-WlKzbybpDIjVFSaaWFjpc2f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9zZ9iibYAuxSWG40WEzBDIm3xR78wYEPdY74o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOB5BQc9B26XuMoBvb31xn77F4OksHgRxp4XSBS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOF27lbvszJVU0Ctsy9ed4gWkYdbj3sdiKhF_qF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQJ22y4dCTPJj0Oy4LhsocPsmS_7IPPC5a8M1Z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZQpqrg5PTxR5JjH4-G4JGDa4GfNfAvU28h49W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPbmRtWmO-14-a6bVVyYNI4tXg05CbBQVrmIqfH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5UR1zLQAXHRO8UcfvjBnyHNuNNUlxHCaaq-Cn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0y7LHvM0ljUF3-iCKj-9jpcQY_fBNGTs1wA-b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdy5qyJNRAKlM-EpswfsMx-XQ1aR5WflD8yyQg=s1600-w800-h800"
-        ]
+      "name": "Wat Punyawanaram",
+      "location": {
+        "lat": 28.1344442,
+        "lng": -80.6985967
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "4490 Aurora Rd, Melbourne, FL 32934, USA",
+      "phone": "+1 321-255-1465",
+      "website": "http://www.melbournethaitemple.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPqQT3wo0AvJE1n-WlKzbybpDIjVFSaaWFjpc2f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9zZ9iibYAuxSWG40WEzBDIm3xR78wYEPdY74o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOB5BQc9B26XuMoBvb31xn77F4OksHgRxp4XSBS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOF27lbvszJVU0Ctsy9ed4gWkYdbj3sdiKhF_qF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQJ22y4dCTPJj0Oy4LhsocPsmS_7IPPC5a8M1Z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZQpqrg5PTxR5JjH4-G4JGDa4GfNfAvU28h49W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPbmRtWmO-14-a6bVVyYNI4tXg05CbBQVrmIqfH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5UR1zLQAXHRO8UcfvjBnyHNuNNUlxHCaaq-Cn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0y7LHvM0ljUF3-iCKj-9jpcQY_fBNGTs1wA-b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdy5qyJNRAKlM-EpswfsMx-XQ1aR5WflD8yyQg=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJhclcBRgP3ogR5vqfAT1o9Zg",
+      "google_maps_url": "https://maps.google.com/?cid=11021830274288712422",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4057 Hunt St, Jacksonville, FL 32254, USA",
-        "geometry": {
-          "location": {
-            "lat": 30.3235904,
-            "lng": -81.7189272
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.3247857302915,
-              "lng": -81.71757581970849
-            },
-            "southwest": {
-              "lat": 30.3220877697085,
-              "lng": -81.7202737802915
-            }
-          }
-        },
-        "name": "Wat Kanteyaram",
-        "place_id": "ChIJUzXn_rm55YgR-b6inSx0Ljk",
-        "url": "https://maps.google.com/?cid=4120358444062654201",
-        "website": "http://wat-kanteyaram.edan.io/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNj6fllwk3siBAy-YJdVKvl2mGz9CoU-oD0InJQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSc1rrZQGi9khoHb91JTAj-78aph8CLXC_bkRH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjLflZQUr-yxkOfOMtK5ESfjB1qgYrTBr_8b8O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOy_Mkw5JtvYHD08BoOV-SbxPXWSYooLrIBC-KF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMt-O4A19NNrWnSDezYJkhFGhqdxDxU6HQlJ3qU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGi1sRDsAy9dcuUJYRjZqSFnUj40g5Wb9WsQjF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO06R1yfi7W4okzDb768XgpjahvS6frveElUfOC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjmo0BX2FQNnB56FRHOgvFGbE6TbWH5-ZK9m3s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdtTZ6qbEIbn6JS3a1mnW5rKKi6widAlEyiz-I=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_Gut1SOM0uKCZQovyNyqHPvMM7fNunjxcOXSi=s1600-w800-h800"
-        ]
+      "name": "Wat Kanteyaram",
+      "location": {
+        "lat": 30.3235904,
+        "lng": -81.7189272
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "4057 Hunt St, Jacksonville, FL 32254, USA",
+      "website": "http://wat-kanteyaram.edan.io/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNj6fllwk3siBAy-YJdVKvl2mGz9CoU-oD0InJQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSc1rrZQGi9khoHb91JTAj-78aph8CLXC_bkRH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjLflZQUr-yxkOfOMtK5ESfjB1qgYrTBr_8b8O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOy_Mkw5JtvYHD08BoOV-SbxPXWSYooLrIBC-KF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMt-O4A19NNrWnSDezYJkhFGhqdxDxU6HQlJ3qU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGi1sRDsAy9dcuUJYRjZqSFnUj40g5Wb9WsQjF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO06R1yfi7W4okzDb768XgpjahvS6frveElUfOC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjmo0BX2FQNnB56FRHOgvFGbE6TbWH5-ZK9m3s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdtTZ6qbEIbn6JS3a1mnW5rKKi6widAlEyiz-I=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_Gut1SOM0uKCZQovyNyqHPvMM7fNunjxcOXSi=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJUzXn_rm55YgR-b6inSx0Ljk",
+      "google_maps_url": "https://maps.google.com/?cid=4120358444062654201",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "215 Union Camp Rd, Crescent City, FL 32112, USA",
-        "geometry": {
-          "location": {
-            "lat": 29.401175,
-            "lng": -81.536103
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.4028092802915,
-              "lng": -81.5350692197085
-            },
-            "southwest": {
-              "lat": 29.4001113197085,
-              "lng": -81.53776718029151
-            }
-          }
-        },
-        "name": "Wat Phouthapasaram Temple",
-        "place_id": "ChIJlYM4HpVY5ogR5zdLpuyQ5M0",
-        "url": "https://maps.google.com/?cid=14836142418541885415",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Wat Phouthapasaram Temple",
+      "location": {
+        "lat": 29.401175,
+        "lng": -81.536103
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "215 Union Camp Rd, Crescent City, FL 32112, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJlYM4HpVY5ogR5zdLpuyQ5M0",
+      "google_maps_url": "https://maps.google.com/?cid=14836142418541885415",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Saldang 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.42456839999999,
-            "lng": 83.0736348
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.42591738029149,
-              "lng": 83.0749837802915
-            },
-            "southwest": {
-              "lat": 29.4232194197085,
-              "lng": 83.0722858197085
-            }
-          }
-        },
-        "name": "Samye Choling Monastery",
-        "place_id": "ChIJKRzYpnpbvDkRyK2oVPj85Zk",
-        "url": "https://maps.google.com/?cid=11089547800972144072",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMT5ev2uvDJDe8h9O3fgoBNuvhXvZhTXe6pzKj9=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipNqd2ynyNxvRoHFSmQyP7PA-OBrd4SRi9KAFG0Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnDwRCGQcQAnRVYzOImnAX4sJlWt4oAKib-0Cu=s1600-w720-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipNmMyATDWYYfs4mSwdw6FkLKbWBkEqkY3UWNT6s=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipNeNWzRIPvfsH-e03s-DRSE5j2PEFIqGJcuhe6U=s1600-w800-h720"
-        ]
+      "name": "Samye Choling Monastery",
+      "location": {
+        "lat": 29.42456839999999,
+        "lng": 83.0736348
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Saldang 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMT5ev2uvDJDe8h9O3fgoBNuvhXvZhTXe6pzKj9=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipNqd2ynyNxvRoHFSmQyP7PA-OBrd4SRi9KAFG0Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnDwRCGQcQAnRVYzOImnAX4sJlWt4oAKib-0Cu=s1600-w720-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipNmMyATDWYYfs4mSwdw6FkLKbWBkEqkY3UWNT6s=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipNeNWzRIPvfsH-e03s-DRSE5j2PEFIqGJcuhe6U=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJKRzYpnpbvDkRyK2oVPj85Zk",
+      "google_maps_url": "https://maps.google.com/?cid=11089547800972144072",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tinje 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.42935869999999,
-            "lng": 83.2235206
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.43070768029149,
-              "lng": 83.22486958029151
-            },
-            "southwest": {
-              "lat": 29.42800971970849,
-              "lng": 83.22217161970849
-            }
-          }
-        },
-        "name": "Dolpo Pu Monastery",
-        "place_id": "ChIJVyRHFlRJvDkR5jH1mBbLdRo",
-        "url": "https://maps.google.com/?cid=1906653315177198054",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dolpo Pu Monastery",
+      "location": {
+        "lat": 29.42935869999999,
+        "lng": 83.2235206
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Tinje 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVyRHFlRJvDkR5jH1mBbLdRo",
+      "google_maps_url": "https://maps.google.com/?cid=1906653315177198054",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Saldang 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.4008113,
-            "lng": 83.0352723
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.4021602802915,
-              "lng": 83.03662128029151
-            },
-            "southwest": {
-              "lat": 29.3994623197085,
-              "lng": 83.03392331970849
-            }
-          }
-        },
-        "name": "Old Namgung Monastery",
-        "place_id": "ChIJf2UUbVtRvDkR7MfNNgeKsuA",
-        "url": "https://maps.google.com/?cid=16191155373939214316",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNKwkOv8hndsToiCZcTHxEXYoJ2paA7IRWfbN79=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQiaE3okiNzu-yB--ZnPYB4EF6wmmGYhZOCGhw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipON7U3tqQ_MyVzYQxbdRmh-dB_NPweSYpDfvpv6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTOBWJ9rHr2BY1NzindQk5usJWDd94t4elGnTg=s1600-w601-h601",
-          "https://lh3.googleusercontent.com/p/AF1QipNgXpfA970Z0lb8tiCrSdQQ3_U-h9vFPhl3G8Nu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-ZOuLjb1BXtwZs1QiN2KWSSc4ZEKnbndxC_3m=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOstm768gx-z37UsINZTfP2Qyse2IKSON69-xLS=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOCZdwHIcV5xN1IiAT_DRMaR0L5BFOirQ2od-De=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPeD7AjMtBjp-oc6kpRJ6Nxb5X32SevGcPdAXOr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOz_ZG7JqryvJp7pfyM1yXEVgKpr1Js6mAbnDdd=s1600-w800-h800"
-        ]
+      "name": "Old Namgung Monastery",
+      "location": {
+        "lat": 29.4008113,
+        "lng": 83.0352723
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Saldang 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNKwkOv8hndsToiCZcTHxEXYoJ2paA7IRWfbN79=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQiaE3okiNzu-yB--ZnPYB4EF6wmmGYhZOCGhw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipON7U3tqQ_MyVzYQxbdRmh-dB_NPweSYpDfvpv6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTOBWJ9rHr2BY1NzindQk5usJWDd94t4elGnTg=s1600-w601-h601",
+        "https://lh3.googleusercontent.com/p/AF1QipNgXpfA970Z0lb8tiCrSdQQ3_U-h9vFPhl3G8Nu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-ZOuLjb1BXtwZs1QiN2KWSSc4ZEKnbndxC_3m=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOstm768gx-z37UsINZTfP2Qyse2IKSON69-xLS=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOCZdwHIcV5xN1IiAT_DRMaR0L5BFOirQ2od-De=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPeD7AjMtBjp-oc6kpRJ6Nxb5X32SevGcPdAXOr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOz_ZG7JqryvJp7pfyM1yXEVgKpr1Js6mAbnDdd=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJf2UUbVtRvDkR7MfNNgeKsuA",
+      "google_maps_url": "https://maps.google.com/?cid=16191155373939214316",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Saldang 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.405834,
-            "lng": 83.0282082
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.4071829802915,
-              "lng": 83.0295571802915
-            },
-            "southwest": {
-              "lat": 29.4044850197085,
-              "lng": 83.0268592197085
-            }
-          }
-        },
-        "international_phone_number": "+977 980-8459111",
-        "name": "Dolpo Nyinchung Monastery",
-        "place_id": "ChIJ92sQkp1RvDkRXRpBtZKPEHw",
-        "url": "https://maps.google.com/?cid=8939803120599374429",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMBg9yFrVu8gdUiZpbGSRP_edMLMM-3Bw1vnlDt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-Sa6RUmZBzmdwJ4-_RMu58zlLxB1f4MA6wIMG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGGjkRTC-1rnP8ohpxaJaP738D4q9nK-JyLIdq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOP79p0zBRcS--g1OfczONhpb9gUYAJjWbLzmdF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpMN7Xq0UD2vnPXn6Z_T7ThgpiY9Yi5q1rK2JH=s1600-w800-h639",
-          "https://lh3.googleusercontent.com/p/AF1QipOloMszfid6SdlU4ZXp49QRvQUk-Fndm0oxGFYR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtnSrGExxaS9tewavoP51k1MbAypFoEShkNELs=s1600-w480-h360",
-          "https://lh3.googleusercontent.com/p/AF1QipOyD_s3PVeOZuuL5-SNmswm0fPQ1G9In7oRLdZQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeQyYMg04tb17FuXami0ov8DhgduHTHifp6pZW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWfxpnk12AbitgQjRJf9ak68BF5ayrErU1L8Kh=s1600-w800-h800"
-        ]
+      "name": "Dolpo Nyinchung Monastery",
+      "location": {
+        "lat": 29.405834,
+        "lng": 83.0282082
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Saldang 21400, Nepal",
+      "phone": "+977 980-8459111",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMBg9yFrVu8gdUiZpbGSRP_edMLMM-3Bw1vnlDt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-Sa6RUmZBzmdwJ4-_RMu58zlLxB1f4MA6wIMG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGGjkRTC-1rnP8ohpxaJaP738D4q9nK-JyLIdq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOP79p0zBRcS--g1OfczONhpb9gUYAJjWbLzmdF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpMN7Xq0UD2vnPXn6Z_T7ThgpiY9Yi5q1rK2JH=s1600-w800-h639",
+        "https://lh3.googleusercontent.com/p/AF1QipOloMszfid6SdlU4ZXp49QRvQUk-Fndm0oxGFYR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtnSrGExxaS9tewavoP51k1MbAypFoEShkNELs=s1600-w480-h360",
+        "https://lh3.googleusercontent.com/p/AF1QipOyD_s3PVeOZuuL5-SNmswm0fPQ1G9In7oRLdZQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeQyYMg04tb17FuXami0ov8DhgduHTHifp6pZW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWfxpnk12AbitgQjRJf9ak68BF5ayrErU1L8Kh=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ92sQkp1RvDkRXRpBtZKPEHw",
+      "google_maps_url": "https://maps.google.com/?cid=8939803120599374429",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Chharka 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.09090549999999,
-            "lng": 83.4098977
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.09225448029149,
-              "lng": 83.41124668029151
-            },
-            "southwest": {
-              "lat": 29.0895565197085,
-              "lng": 83.40854871970849
-            }
-          }
-        },
-        "name": "Chharka Bon Monastery",
-        "place_id": "ChIJb_OSj03PvTkRrugm29yX2N8",
-        "url": "https://maps.google.com/?cid=16129809040252790958",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Chharka Bon Monastery",
+      "location": {
+        "lat": 29.09090549999999,
+        "lng": 83.4098977
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Chharka 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJb_OSj03PvTkRrugm29yX2N8",
+      "google_maps_url": "https://maps.google.com/?cid=16129809040252790958",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dho 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.15194899999999,
-            "lng": 83.1720812
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.15329798029149,
-              "lng": 83.1734301802915
-            },
-            "southwest": {
-              "lat": 29.1506000197085,
-              "lng": 83.1707322197085
-            }
-          }
-        },
-        "name": "Dolpo Zhur monastery",
-        "place_id": "ChIJG9Yx0RK1vTkRhKz3_Q5Serc",
-        "url": "https://maps.google.com/?cid=13220969880443399300",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMiH2qBDTZYkECRr-W-_kEwq2owBEjIKJLWR9gz=s1600-w800-h800"
-        ]
+      "name": "Dolpo Zhur monastery",
+      "location": {
+        "lat": 29.15194899999999,
+        "lng": 83.1720812
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Dho 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMiH2qBDTZYkECRr-W-_kEwq2owBEjIKJLWR9gz=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJG9Yx0RK1vTkRhKz3_Q5Serc",
+      "google_maps_url": "https://maps.google.com/?cid=13220969880443399300",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "SH 26, Shravasti, Uttar Pradesh 271805, India",
-        "geometry": {
-          "location": {
-            "lat": 27.5040212,
-            "lng": 82.0393643
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.50555428029151,
-              "lng": 82.04077423029152
-            },
-            "southwest": {
-              "lat": 27.5028563197085,
-              "lng": 82.0380762697085
-            }
-          }
-        },
-        "name": "Myanmar Monastery",
-        "place_id": "ChIJ2brpp1TFmTkRFBDoY3z6oVM",
-        "url": "https://maps.google.com/?cid=6026373188557475860",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMTgoT-q1FcA8REJZQveMtsqEfpHXoIvZ7zRAIe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM53rJwEvqf5X8oyecpjDvWksKCy--oDFyHhdei=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAHKaIgyihHcBIpftAA9jF__CHbsdnSAa2mvDk=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVVPExwbIS9_0sQcxv0w5-V8XM-u155j8e73Um=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeV2_txSajfP7PPmbuk_DOGynzjN-L1oKPWy5G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMneKgmfE7ja7z1emQLa1tIaX9d6iyVAH91iQr8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOdolOIsDxC7B0B9G9ThnC44oGGOqtEp4pq2Bmt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-QZpdGiWo9Il0rmUBrtWdRthJ0G2XbUTKe2k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMlPrEZc8-z2B2jP29-REzIAUS_M6hQc52PHjNk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMm3RywbULxGUWv8NHCL5FcALQdQkCQpPDmyM37=s1600-w800-h800"
-        ]
+      "name": "Myanmar Monastery",
+      "location": {
+        "lat": 27.5040212,
+        "lng": 82.0393643
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "SH 26, Shravasti, Uttar Pradesh 271805, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMTgoT-q1FcA8REJZQveMtsqEfpHXoIvZ7zRAIe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM53rJwEvqf5X8oyecpjDvWksKCy--oDFyHhdei=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAHKaIgyihHcBIpftAA9jF__CHbsdnSAa2mvDk=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVVPExwbIS9_0sQcxv0w5-V8XM-u155j8e73Um=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeV2_txSajfP7PPmbuk_DOGynzjN-L1oKPWy5G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMneKgmfE7ja7z1emQLa1tIaX9d6iyVAH91iQr8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOdolOIsDxC7B0B9G9ThnC44oGGOqtEp4pq2Bmt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-QZpdGiWo9Il0rmUBrtWdRthJ0G2XbUTKe2k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMlPrEZc8-z2B2jP29-REzIAUS_M6hQc52PHjNk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMm3RywbULxGUWv8NHCL5FcALQdQkCQpPDmyM37=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ2brpp1TFmTkRFBDoY3z6oVM",
+      "google_maps_url": "https://maps.google.com/?cid=6026373188557475860",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tinje 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.3255383,
-            "lng": 83.2588517
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.3268872802915,
-              "lng": 83.2602006802915
-            },
-            "southwest": {
-              "lat": 29.3241893197085,
-              "lng": 83.25750271970848
-            }
-          }
-        },
-        "name": "Dolpo Menmo monastery",
-        "place_id": "ChIJHXT_5ok1vDkRc7NwywDCJBI",
-        "url": "https://maps.google.com/?cid=1307383100513235827",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dolpo Menmo monastery",
+      "location": {
+        "lat": 29.3255383,
+        "lng": 83.2588517
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Tinje 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJHXT_5ok1vDkRc7NwywDCJBI",
+      "google_maps_url": "https://maps.google.com/?cid=1307383100513235827",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tinje 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.449542,
-            "lng": 83.18659129999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.45089098029149,
-              "lng": 83.1879402802915
-            },
-            "southwest": {
-              "lat": 29.4481930197085,
-              "lng": 83.18524231970848
-            }
-          }
-        },
-        "name": "SHIMEN MONASTERY",
-        "place_id": "ChIJgcuhX19HvDkRB7c6AawTRNs",
-        "url": "https://maps.google.com/?cid=15799775022198470407",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOmDmo-4msCAQKmmuKGxdKlQvyhGk2C-7Id7lW9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdWtAtc1iw1HOti95yNIYVdFkxbi4WXVMSe6Gk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWtSAvP4hXrxMI7csPTjuo1YTtFenj6LSya23s=s1600-w800-h800"
-        ]
+      "name": "SHIMEN MONASTERY",
+      "location": {
+        "lat": 29.449542,
+        "lng": 83.18659129999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Tinje 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOmDmo-4msCAQKmmuKGxdKlQvyhGk2C-7Id7lW9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdWtAtc1iw1HOti95yNIYVdFkxbi4WXVMSe6Gk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWtSAvP4hXrxMI7csPTjuo1YTtFenj6LSya23s=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJgcuhX19HvDkRB7c6AawTRNs",
+      "google_maps_url": "https://maps.google.com/?cid=15799775022198470407",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mugu 21100, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.7297414,
-            "lng": 82.519683
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.7310903802915,
-              "lng": 82.52103198029151
-            },
-            "southwest": {
-              "lat": 29.7283924197085,
-              "lng": 82.51833401970849
-            }
-          }
-        },
-        "international_phone_number": "+977 985-1084886",
-        "name": "Drakngon Pema Choeling Monastery",
-        "place_id": "ChIJuQHuax29vDkRP4XugYCjiFs",
-        "url": "https://maps.google.com/?cid=6595701426615125311",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Drakngon Pema Choeling Monastery",
+      "location": {
+        "lat": 29.7297414,
+        "lng": 82.519683
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Mugu 21100, Nepal",
+      "phone": "+977 985-1084886",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJuQHuax29vDkRP4XugYCjiFs",
+      "google_maps_url": "https://maps.google.com/?cid=6595701426615125311",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dho 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.1645849,
-            "lng": 83.1585005
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.1659338802915,
-              "lng": 83.15984948029151
-            },
-            "southwest": {
-              "lat": 29.1632359197085,
-              "lng": 83.1571515197085
-            }
-          }
-        },
-        "name": "Dolpo Jampa monastery",
-        "place_id": "ChIJCzX3wZyzvTkR01GrBmURnYE",
-        "url": "https://maps.google.com/?cid=9339640327837536723",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNP7EhzhnS8fdcixDUv-zY_vevj9p7c4GI00M-g=s1600-w800-h655"
-        ]
+      "name": "Dolpo Jampa monastery",
+      "location": {
+        "lat": 29.1645849,
+        "lng": 83.1585005
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Dho 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNP7EhzhnS8fdcixDUv-zY_vevj9p7c4GI00M-g=s1600-w800-h655"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJCzX3wZyzvTkR01GrBmURnYE",
+      "google_maps_url": "https://maps.google.com/?cid=9339640327837536723",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dho 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.1696679,
-            "lng": 83.15458249999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.1710168802915,
-              "lng": 83.1559314802915
-            },
-            "southwest": {
-              "lat": 29.1683189197085,
-              "lng": 83.1532335197085
-            }
-          }
-        },
-        "name": "Dolpo Jaglung Ladang monastery",
-        "place_id": "ChIJVQUH40izvTkRBTRMz2iSSIg",
-        "url": "https://maps.google.com/?cid=9820259966333498373",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP5jZwJOipm99G9Nb04mj9EBGFYX12YIKZrqtDz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMMRgajf0INTf73h5yrH9hQsTxpOp_7ZZ-qrn6f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPbG-Kt3X6eRvpn1QClXxx-fG-fm-pzY9ZsCpb2=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipPdlV5ILEZOqYl9q2reOW48ttIo9AsoYD48T-nM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFK2RdMJ8wDLQ-DyCTCCwWcgrnsE-l7nqNi0ns=s1600-w800-h800"
-        ]
+      "name": "Dolpo Jaglung Ladang monastery",
+      "location": {
+        "lat": 29.1696679,
+        "lng": 83.15458249999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Dho 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP5jZwJOipm99G9Nb04mj9EBGFYX12YIKZrqtDz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMMRgajf0INTf73h5yrH9hQsTxpOp_7ZZ-qrn6f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPbG-Kt3X6eRvpn1QClXxx-fG-fm-pzY9ZsCpb2=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipPdlV5ILEZOqYl9q2reOW48ttIo9AsoYD48T-nM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFK2RdMJ8wDLQ-DyCTCCwWcgrnsE-l7nqNi0ns=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVQUH40izvTkRBTRMz2iSSIg",
+      "google_maps_url": "https://maps.google.com/?cid=9820259966333498373",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lawan 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.8959611,
-            "lng": 83.0181814
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.8973100802915,
-              "lng": 83.01953038029151
-            },
-            "southwest": {
-              "lat": 28.8946121197085,
-              "lng": 83.01683241970849
-            }
-          }
-        },
-        "name": "Choejung Palri Monastery",
-        "place_id": "ChIJvVnrGWujvTkRm2FGe4cFq7Y",
-        "url": "https://maps.google.com/?cid=13162620415367340443",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO4lNFDYJqx2URv4TX9eMj9rzx5gYOImBI1ooP8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0uXbXrrpVoPVOF9NmkyW9ypYbhXVyGnDeQB-E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoyw0xnBiIDHq_gKr4GJTUpd5skr1ZcbfngKBB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdDewi6SYokpILk8QOgLSFzxblMzhMZ74PLWok=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwhgG3Sketf4QgDyGeaOWlkv8KUvarlcvYJZJv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsvXkwamTQxczom3mLAp5LG2gepaQFt_djmO7T=s1600-w800-h800"
-        ]
+      "name": "Choejung Palri Monastery",
+      "location": {
+        "lat": 28.8959611,
+        "lng": 83.0181814
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Lawan 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO4lNFDYJqx2URv4TX9eMj9rzx5gYOImBI1ooP8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0uXbXrrpVoPVOF9NmkyW9ypYbhXVyGnDeQB-E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoyw0xnBiIDHq_gKr4GJTUpd5skr1ZcbfngKBB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdDewi6SYokpILk8QOgLSFzxblMzhMZ74PLWok=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwhgG3Sketf4QgDyGeaOWlkv8KUvarlcvYJZJv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsvXkwamTQxczom3mLAp5LG2gepaQFt_djmO7T=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJvVnrGWujvTkRm2FGe4cFq7Y",
+      "google_maps_url": "https://maps.google.com/?cid=13162620415367340443",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mukot 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.8841084,
-            "lng": 83.3493594
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.8854573802915,
-              "lng": 83.3507083802915
-            },
-            "southwest": {
-              "lat": 28.8827594197085,
-              "lng": 83.34801041970849
-            }
-          }
-        },
-        "name": "New Hungtram monastery",
-        "place_id": "ChIJdUkP02fDvTkRf5qcoUWXwYA",
-        "url": "https://maps.google.com/?cid=9277863032679864959",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMBXJZQWi3PdApzz-K2_gpNIX0VXp-xd_wDZDU7=s1600-w480-h320",
-          "https://lh3.googleusercontent.com/p/AF1QipN8Z1HhI19PbTghjxkrqLlxpD2yaat52r6mFcVN=s1600-w731-h546"
-        ]
+      "name": "New Hungtram monastery",
+      "location": {
+        "lat": 28.8841084,
+        "lng": 83.3493594
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Mukot 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMBXJZQWi3PdApzz-K2_gpNIX0VXp-xd_wDZDU7=s1600-w480-h320",
+        "https://lh3.googleusercontent.com/p/AF1QipN8Z1HhI19PbTghjxkrqLlxpD2yaat52r6mFcVN=s1600-w731-h546"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJdUkP02fDvTkRf5qcoUWXwYA",
+      "google_maps_url": "https://maps.google.com/?cid=9277863032679864959",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Shey Phoksundo Rural Municipality 3, साल्दाङ 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.400747,
-            "lng": 83.033249
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.40209598029151,
-              "lng": 83.03459798029151
-            },
-            "southwest": {
-              "lat": 29.39939801970851,
-              "lng": 83.03190001970849
-            }
-          }
-        },
-        "international_phone_number": "+977 980-8459111",
-        "name": "Namgung Monastery",
-        "place_id": "ChIJY-ZCxRNRvDkR-KKXLm6d5KI",
-        "url": "https://maps.google.com/?cid=11737679625388008184",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM_lRtAmxy86QhQ-csoz84cxlXL2YsNC5P7GtZi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPknXIfWbBCeIkbX853qHBKwKBXMCRXSoz73tHI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuvC4be76HAW16U5LFWnmbvmEBChbA-7jg5EVx=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipPgAj5qzfOX_5VOArcqjmYfKD4xY9HRVb7El8hN=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipP399D2_c76yWQCbdjQVe_K6LuzprREYo6WvjwI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8pWboh-RyNhPLb0ss9qSF_gCBSVo5SHh5NApw=s1600-w800-h672",
-          "https://lh3.googleusercontent.com/p/AF1QipPNLkEgfgJnIcq8D-YNgEAxwwCp6riGso6_LIqZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8diTLmgDJOXQW7ZYObf2or3Q2OCEqox6bG7Z3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhOQiNP783IJc7XyXSmuXt4kWvTPRnzmxJvS7U=s1600-w720-h482",
-          "https://lh3.googleusercontent.com/p/AF1QipNK4lZgTlXxPm1CrPiRhePeoPl_oZl5WMMVw0lI=s1600-w800-h800"
-        ]
+      "name": "Namgung Monastery",
+      "location": {
+        "lat": 29.400747,
+        "lng": 83.033249
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Shey Phoksundo Rural Municipality 3, साल्दाङ 21400, Nepal",
+      "phone": "+977 980-8459111",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM_lRtAmxy86QhQ-csoz84cxlXL2YsNC5P7GtZi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPknXIfWbBCeIkbX853qHBKwKBXMCRXSoz73tHI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuvC4be76HAW16U5LFWnmbvmEBChbA-7jg5EVx=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipPgAj5qzfOX_5VOArcqjmYfKD4xY9HRVb7El8hN=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipP399D2_c76yWQCbdjQVe_K6LuzprREYo6WvjwI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8pWboh-RyNhPLb0ss9qSF_gCBSVo5SHh5NApw=s1600-w800-h672",
+        "https://lh3.googleusercontent.com/p/AF1QipPNLkEgfgJnIcq8D-YNgEAxwwCp6riGso6_LIqZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8diTLmgDJOXQW7ZYObf2or3Q2OCEqox6bG7Z3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhOQiNP783IJc7XyXSmuXt4kWvTPRnzmxJvS7U=s1600-w720-h482",
+        "https://lh3.googleusercontent.com/p/AF1QipNK4lZgTlXxPm1CrPiRhePeoPl_oZl5WMMVw0lI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJY-ZCxRNRvDkR-KKXLm6d5KI",
+      "google_maps_url": "https://maps.google.com/?cid=11737679625388008184",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dho 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.146847,
-            "lng": 83.1821784
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.1481959802915,
-              "lng": 83.1835273802915
-            },
-            "southwest": {
-              "lat": 29.1454980197085,
-              "lng": 83.18082941970849
-            }
-          }
-        },
-        "name": "Dolpo Mekhem monastery",
-        "place_id": "ChIJW4l1hk-3vTkRIO0rxkLdpMs",
-        "url": "https://maps.google.com/?cid=14674096764742266144",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM7VNy-YVpY-q5i0dC2Hua9M0cmrSOnJ5QJBGVO=s1600-w800-h800"
-        ]
+      "name": "Dolpo Mekhem monastery",
+      "location": {
+        "lat": 29.146847,
+        "lng": 83.1821784
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Dho 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM7VNy-YVpY-q5i0dC2Hua9M0cmrSOnJ5QJBGVO=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJW4l1hk-3vTkRIO0rxkLdpMs",
+      "google_maps_url": "https://maps.google.com/?cid=14674096764742266144",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tinje 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.30623460000001,
-            "lng": 83.3305267
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.30758358029151,
-              "lng": 83.3318756802915
-            },
-            "southwest": {
-              "lat": 29.30488561970851,
-              "lng": 83.3291777197085
-            }
-          }
-        },
-        "name": "Dolpo Balung Monastery དོལ་པོ་སྦ་ལུང་དགོན་པ།",
-        "place_id": "ChIJuZClSH41vDkRdfH5IGiGPeQ",
-        "url": "https://maps.google.com/?cid=16446449196014891381",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dolpo Balung Monastery དོལ་པོ་སྦ་ལུང་དགོན་པ།",
+      "location": {
+        "lat": 29.30623460000001,
+        "lng": 83.3305267
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Tinje 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJuZClSH41vDkRdfH5IGiGPeQ",
+      "google_maps_url": "https://maps.google.com/?cid=16446449196014891381",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dho 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.1580855,
-            "lng": 83.1652
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.1594344802915,
-              "lng": 83.1665489802915
-            },
-            "southwest": {
-              "lat": 29.1567365197085,
-              "lng": 83.16385101970849
-            }
-          }
-        },
-        "name": "Dolpo Kharba monastery",
-        "place_id": "ChIJz3-bUdq1vTkRPbUVBNXwW6Q",
-        "url": "https://maps.google.com/?cid=11843324442788083005",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dolpo Kharba monastery",
+      "location": {
+        "lat": 29.1580855,
+        "lng": 83.1652
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Dho 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJz3-bUdq1vTkRPbUVBNXwW6Q",
+      "google_maps_url": "https://maps.google.com/?cid=11843324442788083005",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dho 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.1502463,
-            "lng": 83.17135499999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.1515952802915,
-              "lng": 83.1727039802915
-            },
-            "southwest": {
-              "lat": 29.1488973197085,
-              "lng": 83.1700060197085
-            }
-          }
-        },
-        "name": "Dolpo Dakmar(Tragmar)monastery",
-        "place_id": "ChIJ6WJk2hG3vTkRHSWZF0JBsnk",
-        "url": "https://maps.google.com/?cid=8769143176563336477",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipORg5bAyLemYxvvhMVIyc63Sur76m_T0_FMdMji=s1600-w800-h755",
-          "https://lh3.googleusercontent.com/p/AF1QipN5xDa7QCzLAr7K8V4UUZux5_anF_MXv6mcigcw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdKcov-C-OQCgTedAVYrHRqs6k3v3gSCROUaQc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjMR9QuU9OyoTGMsTmavgf0Ag6TrKTZTfvpDPd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNThjkIHhEQBsSZNd9vkIxFm8Ta70rGBL-VM2o_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNB9RuNsn-OFJZKXlyWpPEsh94dT-QP5eOYGAJ7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlEVt4BL85uzSeW5iX4va8LhlrLidmO6B-iSb6=s1600-w800-h800"
-        ]
+      "name": "Dolpo Dakmar(Tragmar)monastery",
+      "location": {
+        "lat": 29.1502463,
+        "lng": 83.17135499999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Dho 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipORg5bAyLemYxvvhMVIyc63Sur76m_T0_FMdMji=s1600-w800-h755",
+        "https://lh3.googleusercontent.com/p/AF1QipN5xDa7QCzLAr7K8V4UUZux5_anF_MXv6mcigcw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdKcov-C-OQCgTedAVYrHRqs6k3v3gSCROUaQc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjMR9QuU9OyoTGMsTmavgf0Ag6TrKTZTfvpDPd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNThjkIHhEQBsSZNd9vkIxFm8Ta70rGBL-VM2o_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNB9RuNsn-OFJZKXlyWpPEsh94dT-QP5eOYGAJ7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlEVt4BL85uzSeW5iX4va8LhlrLidmO6B-iSb6=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ6WJk2hG3vTkRHSWZF0JBsnk",
+      "google_maps_url": "https://maps.google.com/?cid=8769143176563336477",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dho 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.1281525,
-            "lng": 83.20150509999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.1295014802915,
-              "lng": 83.2028540802915
-            },
-            "southwest": {
-              "lat": 29.1268035197085,
-              "lng": 83.2001561197085
-            }
-          }
-        },
-        "name": "Dolpo Shepchok Monastery དོལ་པོ་སྲིབ་ཕྱོགས་དགོན་པ།",
-        "place_id": "ChIJB1MkEO-3vTkRGAPTlP8HLEI",
-        "url": "https://maps.google.com/?cid=4768194899773424408",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Dolpo Shepchok Monastery དོལ་པོ་སྲིབ་ཕྱོགས་དགོན་པ།",
+      "location": {
+        "lat": 29.1281525,
+        "lng": 83.20150509999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Dho 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJB1MkEO-3vTkRGAPTlP8HLEI",
+      "google_maps_url": "https://maps.google.com/?cid=4768194899773424408",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dho 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.1782476,
-            "lng": 83.14172099999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.17959658029149,
-              "lng": 83.1430699802915
-            },
-            "southwest": {
-              "lat": 29.1768986197085,
-              "lng": 83.1403720197085
-            }
-          }
-        },
-        "name": "Dolpo Shering Monastery",
-        "place_id": "ChIJL6AvgHqzvTkRSZu9mWoEP44",
-        "url": "https://maps.google.com/?cid=10249916132810922825",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOLbhR1xW3WcZ-KxioV852ad8txiW-1Ns6GNHTq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONqykz_ioDjHwe_kPotYXq1VyKUnUAyE8Nv-qT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMTtOLMSMTSXE1CUoBuLsIj4e7SsiXL_PTP1qJ-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOflYH9QONPU5zBR8f9mRd4I9tyl_5V0gpWZvF-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmqV1EiKTZ37dKC6s-MSv3LZWAHuTKfaf7nxO_=s1600-w800-h800"
-        ]
+      "name": "Dolpo Shering Monastery",
+      "location": {
+        "lat": 29.1782476,
+        "lng": 83.14172099999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Dho 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOLbhR1xW3WcZ-KxioV852ad8txiW-1Ns6GNHTq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONqykz_ioDjHwe_kPotYXq1VyKUnUAyE8Nv-qT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMTtOLMSMTSXE1CUoBuLsIj4e7SsiXL_PTP1qJ-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOflYH9QONPU5zBR8f9mRd4I9tyl_5V0gpWZvF-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmqV1EiKTZ37dKC6s-MSv3LZWAHuTKfaf7nxO_=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJL6AvgHqzvTkRSZu9mWoEP44",
+      "google_maps_url": "https://maps.google.com/?cid=10249916132810922825",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Chharka 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.0915032,
-            "lng": 83.41379839999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.0928521802915,
-              "lng": 83.41514738029149
-            },
-            "southwest": {
-              "lat": 29.0901542197085,
-              "lng": 83.41244941970848
-            }
-          }
-        },
-        "name": "Sachen Monastery",
-        "place_id": "ChIJvdJRNRjPvTkRB_1JN49wYL0",
-        "url": "https://maps.google.com/?cid=13646030631342832903",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Sachen Monastery",
+      "location": {
+        "lat": 29.0915032,
+        "lng": 83.41379839999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Chharka 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJvdJRNRjPvTkRB_1JN49wYL0",
+      "google_maps_url": "https://maps.google.com/?cid=13646030631342832903",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dho 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.1500214,
-            "lng": 83.1713104
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.1513703802915,
-              "lng": 83.1726593802915
-            },
-            "southwest": {
-              "lat": 29.1486724197085,
-              "lng": 83.16996141970849
-            }
-          }
-        },
-        "name": "Dolpo Gekar(Kegar) Ladang monastery",
-        "place_id": "ChIJS1dQ1Qm3vTkRBzh7t2WqONA",
-        "url": "https://maps.google.com/?cid=15003929512431532039",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOYJEK3vFRbHMZNo3-FQXM7_ME3bVIkT9pkJM6n=s1600-w800-h755",
-          "https://lh3.googleusercontent.com/p/AF1QipN7AeWBHuIBMfZhypdD2fUWyytkVzcf2WDb5F8l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAuSBDNmaqOksskgGdGGNNyDdJ6VNKsnCzs0gW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkjvHALF1Ecr19YFHqcLkBg52UszkegnsFC56Z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPIkJok5_Wp5TlY1J1bCwX8DtDU-Z_vvuZbu-DJ=s1600-w800-h650",
-          "https://lh3.googleusercontent.com/p/AF1QipP4YJka1cS_tARnYO_htILCJOXIB44FORaZMS-W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdF1ppPjEaisMcuzeZkimNLhyaSOpuRUqxs0IT=s1600-w600-h800"
-        ]
+      "name": "Dolpo Gekar(Kegar) Ladang monastery",
+      "location": {
+        "lat": 29.1500214,
+        "lng": 83.1713104
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Dho 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOYJEK3vFRbHMZNo3-FQXM7_ME3bVIkT9pkJM6n=s1600-w800-h755",
+        "https://lh3.googleusercontent.com/p/AF1QipN7AeWBHuIBMfZhypdD2fUWyytkVzcf2WDb5F8l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAuSBDNmaqOksskgGdGGNNyDdJ6VNKsnCzs0gW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkjvHALF1Ecr19YFHqcLkBg52UszkegnsFC56Z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPIkJok5_Wp5TlY1J1bCwX8DtDU-Z_vvuZbu-DJ=s1600-w800-h650",
+        "https://lh3.googleusercontent.com/p/AF1QipP4YJka1cS_tARnYO_htILCJOXIB44FORaZMS-W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdF1ppPjEaisMcuzeZkimNLhyaSOpuRUqxs0IT=s1600-w600-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJS1dQ1Qm3vTkRBzh7t2WqONA",
+      "google_maps_url": "https://maps.google.com/?cid=15003929512431532039",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dho 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.1784528,
-            "lng": 83.1435583
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.1798017802915,
-              "lng": 83.1449072802915
-            },
-            "southwest": {
-              "lat": 29.1771038197085,
-              "lng": 83.1422093197085
-            }
-          }
-        },
-        "name": "Dolpo Jaglung old monastery",
-        "place_id": "ChIJZfPga7-zvTkR-zUjl7evA1Q",
-        "url": "https://maps.google.com/?cid=6053875527165621755",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNgHqjPqE7_j9f9P4XGIKYNgB_4dMfP5LMlj96u=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_7s7TR82lnrPgu4Sa1R47iMZbue2hT_kZqST0=s1600-w800-h800"
-        ]
+      "name": "Dolpo Jaglung old monastery",
+      "location": {
+        "lat": 29.1784528,
+        "lng": 83.1435583
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Dho 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNgHqjPqE7_j9f9P4XGIKYNgB_4dMfP5LMlj96u=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_7s7TR82lnrPgu4Sa1R47iMZbue2hT_kZqST0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZfPga7-zvTkR-zUjl7evA1Q",
+      "google_maps_url": "https://maps.google.com/?cid=6053875527165621755",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Saldang 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 29.4954793,
-            "lng": 83.09870620000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.4968282802915,
-              "lng": 83.10005518029152
-            },
-            "southwest": {
-              "lat": 29.4941303197085,
-              "lng": 83.09735721970851
-            }
-          }
-        },
-        "name": "葉才江秋佛寺 Yangjer Monastery",
-        "place_id": "ChIJk1YNh_lFvDkRORr0uArd4h8",
-        "url": "https://maps.google.com/?cid=2297641798034790969",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNejnZKEQjZ0nlEK_esMDLD2HYmQ-fy7A8dUYOF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQ5y9E0mA79R6BOMXqI9HVNYTMyF7BheK6fsoC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_i_49yxlcxWMyb4sLzs1yRfJHHE2vs19PkbgH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeAEgmDyQA8307QC9uts15kAyK_aBoGLPMWjZ5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMrL33ka84gsjFOwIYsHWzys0Z84XNm3jXxtMD-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPChPtX96-Rqms7b5Cc5cxwAXQ7zOQLaTauM5St=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMvM8krVUEuq-8yWA89rE1aPOngQuhspriNlYGs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3RxwfUWnREiQvh3z_0ekGA-PmzoMDglYfvDfb=s1600-w800-h800"
-        ]
+      "name": "葉才江秋佛寺 Yangjer Monastery",
+      "location": {
+        "lat": 29.4954793,
+        "lng": 83.09870620000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Saldang 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNejnZKEQjZ0nlEK_esMDLD2HYmQ-fy7A8dUYOF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQ5y9E0mA79R6BOMXqI9HVNYTMyF7BheK6fsoC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_i_49yxlcxWMyb4sLzs1yRfJHHE2vs19PkbgH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeAEgmDyQA8307QC9uts15kAyK_aBoGLPMWjZ5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMrL33ka84gsjFOwIYsHWzys0Z84XNm3jXxtMD-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPChPtX96-Rqms7b5Cc5cxwAXQ7zOQLaTauM5St=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMvM8krVUEuq-8yWA89rE1aPOngQuhspriNlYGs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3RxwfUWnREiQvh3z_0ekGA-PmzoMDglYfvDfb=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJk1YNh_lFvDkRORr0uArd4h8",
+      "google_maps_url": "https://maps.google.com/?cid=2297641798034790969",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Limi Lhapcha Sadak, मुचू 21000, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 30.0608811,
-            "lng": 81.61852600000002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.0620280802915,
-              "lng": 81.62002188029152
-            },
-            "southwest": {
-              "lat": 30.05933011970851,
-              "lng": 81.6173239197085
-            }
-          }
-        },
-        "name": "Yalbang Monastery",
-        "place_id": "ChIJNdFDIASGpDkRvyRgRCrOUOM",
-        "url": "https://maps.google.com/?cid=16379818525677593791",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPPiet-EgMSHi5IRHg3M_H4xfC2BXDu8xvtJg80=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcd3tLfxh1iCgAVzSxWDr6zD5j9Q7O3Dfmt4Vf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOA3Cj4SQyEyAzrdclduKR2uKF_GuBKVjr5iJka=s1600-w552-h310",
-          "https://lh3.googleusercontent.com/p/AF1QipOPhnLHow89ZcM5thaH2ngg8GNYPkuM-n2XgMmk=s1600-w552-h310",
-          "https://lh3.googleusercontent.com/p/AF1QipMMdA9JKVzVdWuHN_wSUGtfnR9jsyPk46TFl444=s1600-w552-h310",
-          "https://lh3.googleusercontent.com/p/AF1QipM3ixUZJRP-ba0qz0PGnK5B4vNiPdoWdoGD5kE6=s1600-w375-h500",
-          "https://lh3.googleusercontent.com/p/AF1QipNaSDx3I4IdG4HG2tmcYnBvfKF0gG0vhpbHgZnT=s1600-w375-h500",
-          "https://lh3.googleusercontent.com/p/AF1QipNOeLhvYgw_5bY_WRrjqJyPPs2e37l5Bo16_1cc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqgWDvQDak6VcTn9tDawQl1Ycdf0bx5Qjjx-ku=s1600-w500-h375",
-          "https://lh3.googleusercontent.com/p/AF1QipOzTGuxLapqF2n1kZIgxKswJDSbkg5f6jktCYeR=s1600-w500-h375"
-        ]
+      "name": "Yalbang Monastery",
+      "location": {
+        "lat": 30.0608811,
+        "lng": 81.61852600000002
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Limi Lhapcha Sadak, मुचू 21000, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPPiet-EgMSHi5IRHg3M_H4xfC2BXDu8xvtJg80=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcd3tLfxh1iCgAVzSxWDr6zD5j9Q7O3Dfmt4Vf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOA3Cj4SQyEyAzrdclduKR2uKF_GuBKVjr5iJka=s1600-w552-h310",
+        "https://lh3.googleusercontent.com/p/AF1QipOPhnLHow89ZcM5thaH2ngg8GNYPkuM-n2XgMmk=s1600-w552-h310",
+        "https://lh3.googleusercontent.com/p/AF1QipMMdA9JKVzVdWuHN_wSUGtfnR9jsyPk46TFl444=s1600-w552-h310",
+        "https://lh3.googleusercontent.com/p/AF1QipM3ixUZJRP-ba0qz0PGnK5B4vNiPdoWdoGD5kE6=s1600-w375-h500",
+        "https://lh3.googleusercontent.com/p/AF1QipNaSDx3I4IdG4HG2tmcYnBvfKF0gG0vhpbHgZnT=s1600-w375-h500",
+        "https://lh3.googleusercontent.com/p/AF1QipNOeLhvYgw_5bY_WRrjqJyPPs2e37l5Bo16_1cc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqgWDvQDak6VcTn9tDawQl1Ycdf0bx5Qjjx-ku=s1600-w500-h375",
+        "https://lh3.googleusercontent.com/p/AF1QipOzTGuxLapqF2n1kZIgxKswJDSbkg5f6jktCYeR=s1600-w500-h375"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJNdFDIASGpDkRvyRgRCrOUOM",
+      "google_maps_url": "https://maps.google.com/?cid=16379818525677593791",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kinnaur, Himachal Pradesh 172106, India",
-        "geometry": {
-          "location": {
-            "lat": 31.4298541,
-            "lng": 78.2622406
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 31.4310556802915,
-              "lng": 78.2636060302915
-            },
-            "southwest": {
-              "lat": 31.4283577197085,
-              "lng": 78.26090806970849
-            }
-          }
-        },
-        "name": "Tibetan Buddhist Monastery Kamroo",
-        "place_id": "ChIJazFOmT0VBjkRasCWovoTvPo",
-        "url": "https://maps.google.com/?cid=18067337772294127722",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNa7OKow4Yip1pTkUELreabASKEEji3DA_MtUI4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCYYYLpmOyvCjGFKw-hhGKduCT4rX6TdeG5sht=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5q9plicG571sOUWWmfnyuBBJLV02M48vu5LD0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRQtvhBzG20sePEO8zIyzb_6UiOrW4YBQq5oUg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvWvXjASuI3DJ-9PoETpUNDArA8H3lokaL1Iw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPiLzLN-GMRmW8V-1mERTx0W87vhcrIjYKex9xK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOezg8VXWcY2F14Y9vEswjg1E4VDfH1FqszNoPR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdfonGLwLrwyVqhpvs0C46u4leWYuv5DjxPHMy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYmsBwt3CR-9oyelVVCHh33ljH8rGtpx1_eUT1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcJgENNS74xVuHTdh5k2d_YI92-SvMdyFlxFjk=s1600-w800-h800"
-        ]
+      "name": "Tibetan Buddhist Monastery Kamroo",
+      "location": {
+        "lat": 31.4298541,
+        "lng": 78.2622406
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Kinnaur, Himachal Pradesh 172106, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNa7OKow4Yip1pTkUELreabASKEEji3DA_MtUI4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCYYYLpmOyvCjGFKw-hhGKduCT4rX6TdeG5sht=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5q9plicG571sOUWWmfnyuBBJLV02M48vu5LD0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRQtvhBzG20sePEO8zIyzb_6UiOrW4YBQq5oUg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvWvXjASuI3DJ-9PoETpUNDArA8H3lokaL1Iw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPiLzLN-GMRmW8V-1mERTx0W87vhcrIjYKex9xK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOezg8VXWcY2F14Y9vEswjg1E4VDfH1FqszNoPR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdfonGLwLrwyVqhpvs0C46u4leWYuv5DjxPHMy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYmsBwt3CR-9oyelVVCHh33ljH8rGtpx1_eUT1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcJgENNS74xVuHTdh5k2d_YI92-SvMdyFlxFjk=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJazFOmT0VBjkRasCWovoTvPo",
+      "google_maps_url": "https://maps.google.com/?cid=18067337772294127722",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Rawal Gawn - Pithoragarh Rd, Gankot, Uttarakhand 262502, India",
-        "geometry": {
-          "location": {
-            "lat": 29.5751149,
-            "lng": 80.19039169999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 29.5764414302915,
-              "lng": 80.19190478029151
-            },
-            "southwest": {
-              "lat": 29.5737434697085,
-              "lng": 80.1892068197085
-            }
-          }
-        },
-        "name": "Buddha temple",
-        "place_id": "ChIJ8ZQlntcloTkRy4u5wzxGS_4",
-        "url": "https://maps.google.com/?cid=18323816735682694091",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNNDiGyxsjmM8-V1c2PFG-lfwtKcESzI7lrOgrl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYgmbt6W4VCQGdCJfcr4CQ1AbeB6Dm0halvqxC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMa3BoetVLeKjDkAKPELqGZUdFXnSNjAWHimcj5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpyXJDee7E15zsEyr0I5aacmxLYc6fppZCOxG1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOd6zcr3PI4T03uKx7z9r8xOVygzKqKbabLBDmH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJgZg3MWt6_deV-ETszsO3a5dI3j4_SIBhuQ6A=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPq_RxAROT1tFzNxhywxaskkgpxcmLxzytAbD4r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvVfoWD6AElgDtbz-WC8ml5jx_SgnyiGYmLmVv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMtzDotLf7021flKRnNa1Adko9kovgLbqV2F4K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAjNfxwJ7IaGZmCoCQt6rqIq6mWalEA9tQmiFw=s1600-w800-h800"
-        ]
+      "name": "Buddha temple",
+      "location": {
+        "lat": 29.5751149,
+        "lng": 80.19039169999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Rawal Gawn - Pithoragarh Rd, Gankot, Uttarakhand 262502, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNNDiGyxsjmM8-V1c2PFG-lfwtKcESzI7lrOgrl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYgmbt6W4VCQGdCJfcr4CQ1AbeB6Dm0halvqxC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMa3BoetVLeKjDkAKPELqGZUdFXnSNjAWHimcj5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpyXJDee7E15zsEyr0I5aacmxLYc6fppZCOxG1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOd6zcr3PI4T03uKx7z9r8xOVygzKqKbabLBDmH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJgZg3MWt6_deV-ETszsO3a5dI3j4_SIBhuQ6A=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPq_RxAROT1tFzNxhywxaskkgpxcmLxzytAbD4r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvVfoWD6AElgDtbz-WC8ml5jx_SgnyiGYmLmVv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMtzDotLf7021flKRnNa1Adko9kovgLbqV2F4K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAjNfxwJ7IaGZmCoCQt6rqIq6mWalEA9tQmiFw=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ8ZQlntcloTkRy4u5wzxGS_4",
+      "google_maps_url": "https://maps.google.com/?cid=18323816735682694091",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Gompa Rd, Siyal, Manali, Himachal Pradesh 175131, India",
-        "geometry": {
-          "location": {
-            "lat": 32.2420392,
-            "lng": 77.1880424
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.24342163029149,
-              "lng": 77.18926833029151
-            },
-            "southwest": {
-              "lat": 32.2407236697085,
-              "lng": 77.18657036970849
-            }
-          }
-        },
-        "name": "Buddhist Monastery, Manali",
-        "place_id": "ChIJRQvOsgCIBDkRWLd-aFw2yd4",
-        "url": "https://maps.google.com/?cid=16053422117256869720",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOvfcqGp473IKkKUkoPLFI3x_kQEesduZDyfSfp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMk55xrerHrDDdyEhdgRGx63FbPWR73RgzFgE-I=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3bpzGEqIrG1vk3XWD2k48v7tMJdDvnpk9miwb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNT9heDny1uyscrRLkB-3o9YkBgIWroIvY8dyip=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJ9zU_cWRwGjJxOicoRAs5x685zStTK5A5oiuW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWkB4NkhPvf8NAkC3E4Li8VkkakKIsDXLgnYy0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuoQsbdvk_XHDoIPHPr-nq3oTc6HzvoD5R4fxW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM69VkbD8SYezwoou7q-ZeLq6LTTvOLICGTXdXL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2wMNJmrffRVOjc6OGQ_KX2XvEslaRsRhK1wgC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTuAiV9tezjJhi12M1mBJIJgMIn4ncW_pz6KIL=s1600-w800-h800"
-        ]
+      "name": "Buddhist Monastery, Manali",
+      "location": {
+        "lat": 32.2420392,
+        "lng": 77.1880424
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Gompa Rd, Siyal, Manali, Himachal Pradesh 175131, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOvfcqGp473IKkKUkoPLFI3x_kQEesduZDyfSfp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMk55xrerHrDDdyEhdgRGx63FbPWR73RgzFgE-I=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3bpzGEqIrG1vk3XWD2k48v7tMJdDvnpk9miwb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNT9heDny1uyscrRLkB-3o9YkBgIWroIvY8dyip=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJ9zU_cWRwGjJxOicoRAs5x685zStTK5A5oiuW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWkB4NkhPvf8NAkC3E4Li8VkkakKIsDXLgnYy0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuoQsbdvk_XHDoIPHPr-nq3oTc6HzvoD5R4fxW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM69VkbD8SYezwoou7q-ZeLq6LTTvOLICGTXdXL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2wMNJmrffRVOjc6OGQ_KX2XvEslaRsRhK1wgC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTuAiV9tezjJhi12M1mBJIJgMIn4ncW_pz6KIL=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJRQvOsgCIBDkRWLd-aFw2yd4",
+      "google_maps_url": "https://maps.google.com/?cid=16053422117256869720",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Near, Subzi Mandi, Block M, Jagat Ram Park, Laxmi Nagar, New Delhi, Delhi 110092, India",
-        "geometry": {
-          "location": {
-            "lat": 28.63533,
-            "lng": 77.27785
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.6366681302915,
-              "lng": 77.2791395302915
-            },
-            "southwest": {
-              "lat": 28.6339701697085,
-              "lng": 77.27644156970848
-            }
-          }
-        },
-        "name": "Tibetan Monastery",
-        "place_id": "ChIJlzau5Lb9DDkRNAt-vIMQx3w",
-        "url": "https://maps.google.com/?cid=8991173339057621812",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPIpE0Qggb4RWCZgPID3X7DOXzWR1S8Wh19l2jC=s1600-w800-h720"
-        ]
+      "name": "Tibetan Monastery",
+      "location": {
+        "lat": 28.63533,
+        "lng": 77.27785
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Near, Subzi Mandi, Block M, Jagat Ram Park, Laxmi Nagar, New Delhi, Delhi 110092, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPIpE0Qggb4RWCZgPID3X7DOXzWR1S8Wh19l2jC=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJlzau5Lb9DDkRNAt-vIMQx3w",
+      "google_maps_url": "https://maps.google.com/?cid=8991173339057621812",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3, Buddha Temple Road, New Basti, Clement Town, Dehradun, Uttarakhand 248002, India",
-        "geometry": {
-          "location": {
-            "lat": 30.2614872,
-            "lng": 77.9976521
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.2628095802915,
-              "lng": 77.9990343802915
-            },
-            "southwest": {
-              "lat": 30.2601116197085,
-              "lng": 77.99633641970848
-            }
-          }
-        },
-        "international_phone_number": "+91 135 264 0968",
-        "name": "Mindrolling Monastery",
-        "place_id": "ChIJsV34wfgrCTkRRt2l6yUDSmw",
-        "url": "https://maps.google.com/?cid=7803052765774994758",
-        "website": "http://www.mindrolling.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPtXw-YhXasG81kBHQE3ysB9VLLk2cHljDplW9G=s1600-w655-h468",
-          "https://lh3.googleusercontent.com/p/AF1QipMv-kmelK0xV_SITlTmrR4bXbmMffTGjzPIspeZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMuvO8YvLsV7h56LMxCcczRs4zN1R1lL_rCbVyq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNewrCrs3cjtuS9BwVN-tphOk9jpFb4xEkXtvL1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODnnqSK_4h_QBSLWLeVK7soW2S5JtEcabgsRDp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4Pp5UilwiBwViDieKu8KDWxiPGDaOp5XbCkDJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRSyahtW-LYNpYXsDnL5c_Qtd1Wy9tMK61T5cp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOBZ63onQZe-MM2HIa7GknQNtAT963A8resHK9b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMmW7uTvmFEO_BhQARQJN1qbS8d8_BvXB3tiGvy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0VDbDE_oyo6otBz8dP9VCU4Nz5zFWhAkF5aka=s1600-w800-h800"
-        ]
+      "name": "Mindrolling Monastery",
+      "location": {
+        "lat": 30.2614872,
+        "lng": 77.9976521
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "3, Buddha Temple Road, New Basti, Clement Town, Dehradun, Uttarakhand 248002, India",
+      "phone": "+91 135 264 0968",
+      "website": "http://www.mindrolling.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPtXw-YhXasG81kBHQE3ysB9VLLk2cHljDplW9G=s1600-w655-h468",
+        "https://lh3.googleusercontent.com/p/AF1QipMv-kmelK0xV_SITlTmrR4bXbmMffTGjzPIspeZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMuvO8YvLsV7h56LMxCcczRs4zN1R1lL_rCbVyq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNewrCrs3cjtuS9BwVN-tphOk9jpFb4xEkXtvL1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODnnqSK_4h_QBSLWLeVK7soW2S5JtEcabgsRDp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4Pp5UilwiBwViDieKu8KDWxiPGDaOp5XbCkDJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRSyahtW-LYNpYXsDnL5c_Qtd1Wy9tMK61T5cp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOBZ63onQZe-MM2HIa7GknQNtAT963A8resHK9b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMmW7uTvmFEO_BhQARQJN1qbS8d8_BvXB3tiGvy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0VDbDE_oyo6otBz8dP9VCU4Nz5zFWhAkF5aka=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJsV34wfgrCTkRRt2l6yUDSmw",
+      "google_maps_url": "https://maps.google.com/?cid=7803052765774994758",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mandir Marg, Near Shri Laxmi Narayan Temple (Birla Mandir), Gole Market, New Delhi, Delhi 110001, India",
-        "geometry": {
-          "location": {
-            "lat": 28.632195,
-            "lng": 77.198617
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.6334597302915,
-              "lng": 77.2001124302915
-            },
-            "southwest": {
-              "lat": 28.6307617697085,
-              "lng": 77.19741446970849
-            }
-          }
-        },
-        "international_phone_number": "+91 11 2336 3328",
-        "name": "Buddhist Temple In Delhi, Buddhist Temple",
-        "place_id": "ChIJi-miaVf9DDkRvbLC8DKmQuY",
-        "url": "https://maps.google.com/?cid=16592006714904195773",
-        "website": "http://www.mahabodhivihara.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNNToUDBK2GJE4qQsBO93tAsgRjjunr1nRuSlze=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNahXlC9cVafz8TgL_DQJcJ03_FLgJFxDKHCKQs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNINfd7jCu_u-EX9488FTA0ot9yAOPKp8UxeOQI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWtVZJgBo-vjO1_WO4Lj90NVzoNV4a2iuWWVck=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8KPq_GmThPaUVr6N_Wd78NJY7Dy9bmQUe7Lpp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPxUitPJpBzkKE1Meva2D41q_HggtJeCV4oFIKX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPowlv4RyXw0KiJNGlP9ci8eJRectUBQwX18j7d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNW-FE9IJqAIBGVsxA-YROxY_LSH9k2qdE4v0Sx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOxqjfTSLur64MOtjiJRhjgk2Sfc4fVNbpxGiTG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_1AVDx9jodpYGTp_Ao4Pu3h1w87JHGOuH3CEZ=s1600-w800-h800"
-        ]
+      "name": "Buddhist Temple In Delhi, Buddhist Temple",
+      "location": {
+        "lat": 28.632195,
+        "lng": 77.198617
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Mandir Marg, Near Shri Laxmi Narayan Temple (Birla Mandir), Gole Market, New Delhi, Delhi 110001, India",
+      "phone": "+91 11 2336 3328",
+      "website": "http://www.mahabodhivihara.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNNToUDBK2GJE4qQsBO93tAsgRjjunr1nRuSlze=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNahXlC9cVafz8TgL_DQJcJ03_FLgJFxDKHCKQs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNINfd7jCu_u-EX9488FTA0ot9yAOPKp8UxeOQI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWtVZJgBo-vjO1_WO4Lj90NVzoNV4a2iuWWVck=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8KPq_GmThPaUVr6N_Wd78NJY7Dy9bmQUe7Lpp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPxUitPJpBzkKE1Meva2D41q_HggtJeCV4oFIKX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPowlv4RyXw0KiJNGlP9ci8eJRectUBQwX18j7d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNW-FE9IJqAIBGVsxA-YROxY_LSH9k2qdE4v0Sx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOxqjfTSLur64MOtjiJRhjgk2Sfc4fVNbpxGiTG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_1AVDx9jodpYGTp_Ao4Pu3h1w87JHGOuH3CEZ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJi-miaVf9DDkRvbLC8DKmQuY",
+      "google_maps_url": "https://maps.google.com/?cid=16592006714904195773",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Unnamed Road, Kasumpti Colony, Panthaghati, Shimla, Himachal Pradesh 171009, India",
-        "geometry": {
-          "location": {
-            "lat": 31.0720101,
-            "lng": 77.1800354
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 31.0735179302915,
-              "lng": 77.1813351802915
-            },
-            "southwest": {
-              "lat": 31.07081996970851,
-              "lng": 77.17863721970849
-            }
-          }
-        },
-        "international_phone_number": "+91 177 262 1375",
-        "name": "Dorje Drak Monastery",
-        "place_id": "ChIJ0WlEMMt_BTkRZpC3Dn6nrUM",
-        "url": "https://maps.google.com/?cid=4876738131366744166",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPaXk2jvegGKdPTJiiQ4NMS2ruLIB-ziwqxJq1g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM6DkU4cRUX_hnANLg4AnE0jOhZitV_AQznOS-T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmazq0gDJecT4Sz5dX_fQ65kusTEYKY1xGnjGc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUW3ydjXHOmkv83nA3PI0J_qRFhRe1drGVYIbv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPby5YfCm0Pr19SJi1EkJdBbnoCWvjCxXSewujV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMj9o914keb9uNZ8KsRbpUYPh1y_F8EUOo1NOa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmTY20IdB06BIdSyvMTZj88VlsqUofDZXPffdd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP54zvRC7TnEwdF_mL1RSC5KZXMhsW6Qriv5PkA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMssTOt4QpJbG6E89HS5ZDAIGp6pkWz0fvnmVEW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNt03DQHbqJKoJfHag0czc9Mj1Yeyox2Ql-2jMN=s1600-w800-h800"
-        ]
+      "name": "Dorje Drak Monastery",
+      "location": {
+        "lat": 31.0720101,
+        "lng": 77.1800354
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Unnamed Road, Kasumpti Colony, Panthaghati, Shimla, Himachal Pradesh 171009, India",
+      "phone": "+91 177 262 1375",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPaXk2jvegGKdPTJiiQ4NMS2ruLIB-ziwqxJq1g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM6DkU4cRUX_hnANLg4AnE0jOhZitV_AQznOS-T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmazq0gDJecT4Sz5dX_fQ65kusTEYKY1xGnjGc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUW3ydjXHOmkv83nA3PI0J_qRFhRe1drGVYIbv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPby5YfCm0Pr19SJi1EkJdBbnoCWvjCxXSewujV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMj9o914keb9uNZ8KsRbpUYPh1y_F8EUOo1NOa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmTY20IdB06BIdSyvMTZj88VlsqUofDZXPffdd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP54zvRC7TnEwdF_mL1RSC5KZXMhsW6Qriv5PkA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMssTOt4QpJbG6E89HS5ZDAIGp6pkWz0fvnmVEW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNt03DQHbqJKoJfHag0czc9Mj1Yeyox2Ql-2jMN=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ0WlEMMt_BTkRZpC3Dn6nrUM",
+      "google_maps_url": "https://maps.google.com/?cid=4876738131366744166",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "SA.10/89A-1, Ganj, Sarnath, Varanasi, Uttar Pradesh 221007, India",
-        "geometry": {
-          "location": {
-            "lat": 25.3743549,
-            "lng": 83.0263942
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.3757689302915,
-              "lng": 83.02775038029151
-            },
-            "southwest": {
-              "lat": 25.3730709697085,
-              "lng": 83.02505241970849
-            }
-          }
-        },
-        "name": "CAMBODIAN MONASTERY",
-        "place_id": "ChIJNaKLEeYujjkR8ex4ze3-3MU",
-        "url": "https://maps.google.com/?cid=14257550817656106225",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNG0VwiaxZKtDnri0Vr0fdundcw4s0BjHFpr7G_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpaVNuha8Mz9yqhNQfU9Tw6uHynTquFYpGsC_w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOrzIGIGyUgp3HH1YAFgLH4LFcxF7kXZiF2LL6E=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9cjkk3cDSn5D9GO2-waUpa2_PwD98XcQYTIaK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPavMJJnB7Vn2dsp19v_5NvIFNQCn2S2Kd83TXg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUuTrpMY_2V_nf7w42Q2rhwdOFePbpeX38XdZU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOma38FwHnRb9IMaxUmFxr3pc1Ukpod3CfmNiUE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAt95Ii70Lcx-X-kNgsCllQ7vCgBcrjGHa2K3L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOr-ZYzGoyaAmP0_4WOlILMpATOfEL3NT8qKNxB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVFk9wA6fio3gCBAhlOWY-FbSXgUNojjon3ps=s1600-w800-h800"
-        ]
+      "name": "CAMBODIAN MONASTERY",
+      "location": {
+        "lat": 25.3743549,
+        "lng": 83.0263942
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "SA.10/89A-1, Ganj, Sarnath, Varanasi, Uttar Pradesh 221007, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNG0VwiaxZKtDnri0Vr0fdundcw4s0BjHFpr7G_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpaVNuha8Mz9yqhNQfU9Tw6uHynTquFYpGsC_w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOrzIGIGyUgp3HH1YAFgLH4LFcxF7kXZiF2LL6E=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9cjkk3cDSn5D9GO2-waUpa2_PwD98XcQYTIaK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPavMJJnB7Vn2dsp19v_5NvIFNQCn2S2Kd83TXg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUuTrpMY_2V_nf7w42Q2rhwdOFePbpeX38XdZU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOma38FwHnRb9IMaxUmFxr3pc1Ukpod3CfmNiUE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAt95Ii70Lcx-X-kNgsCllQ7vCgBcrjGHa2K3L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOr-ZYzGoyaAmP0_4WOlILMpATOfEL3NT8qKNxB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVFk9wA6fio3gCBAhlOWY-FbSXgUNojjon3ps=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJNaKLEeYujjkR8ex4ze3-3MU",
+      "google_maps_url": "https://maps.google.com/?cid=14257550817656106225",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tibetan Market, Pant Rd, Darshan Lal Chowk, Race Course, Dehra Dun, Uttarakhand 248001, India",
-        "geometry": {
-          "location": {
-            "lat": 30.32313259999999,
-            "lng": 78.04727729999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.3244651302915,
-              "lng": 78.0486179302915
-            },
-            "southwest": {
-              "lat": 30.3217671697085,
-              "lng": 78.04591996970849
-            }
-          }
-        },
-        "name": "Buddha Temple (Tibetian Temple) बौद्ध मन्दिर",
-        "place_id": "ChIJB0mfpcApCTkRaynIExuJuQU",
-        "url": "https://maps.google.com/?cid=412511590270118251",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPOJlX6tk4DMjWksQQa9NfoZfKSk0HJt4m2itoA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlOk8a3rsxz4_uYC9rNFAY7mNGhh-6S7tgCjAB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3qOvDm9rky8vAGNYZBZJAISV7F8NBkkYTH0bE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPm_76fc7IXNBZiE8S1ShbZ8ZgaTMwRcUgfB-F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNEtqWF02r5eeAmEAqpTGcMe5m8OJoaiHm8Gsb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWwhbiuGhmsCMEy4DnRYXynIjW-X7G2qLPd2Y9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNecqLK5xxlvdhMXi1hyb4_OhH1-tfwfgWBIAlI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPx-b4PKxXhLCIASi3zsTQafCQ5pZ1vAs_eoHjJ=s1600-w800-h712",
-          "https://lh3.googleusercontent.com/p/AF1QipMKVtzsLostWjl8yXxjPXzJEHV6gCmGtGXhLMe6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmMznbuHx_mZsliZZxFByu4OXdxT9Ca_8GwcKQ=s1600-w800-h800"
-        ]
+      "name": "Buddha Temple (Tibetian Temple) बौद्ध मन्दिर",
+      "location": {
+        "lat": 30.32313259999999,
+        "lng": 78.04727729999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Tibetan Market, Pant Rd, Darshan Lal Chowk, Race Course, Dehra Dun, Uttarakhand 248001, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPOJlX6tk4DMjWksQQa9NfoZfKSk0HJt4m2itoA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlOk8a3rsxz4_uYC9rNFAY7mNGhh-6S7tgCjAB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3qOvDm9rky8vAGNYZBZJAISV7F8NBkkYTH0bE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPm_76fc7IXNBZiE8S1ShbZ8ZgaTMwRcUgfB-F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNEtqWF02r5eeAmEAqpTGcMe5m8OJoaiHm8Gsb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWwhbiuGhmsCMEy4DnRYXynIjW-X7G2qLPd2Y9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNecqLK5xxlvdhMXi1hyb4_OhH1-tfwfgWBIAlI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPx-b4PKxXhLCIASi3zsTQafCQ5pZ1vAs_eoHjJ=s1600-w800-h712",
+        "https://lh3.googleusercontent.com/p/AF1QipMKVtzsLostWjl8yXxjPXzJEHV6gCmGtGXhLMe6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmMznbuHx_mZsliZZxFByu4OXdxT9Ca_8GwcKQ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJB0mfpcApCTkRaynIExuJuQU",
+      "google_maps_url": "https://maps.google.com/?cid=412511590270118251",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tabo, Himachal Pradesh 172113, India",
-        "geometry": {
-          "location": {
-            "lat": 32.0938214,
-            "lng": 78.3822673
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.09514298029149,
-              "lng": 78.3838051802915
-            },
-            "southwest": {
-              "lat": 32.09244501970849,
-              "lng": 78.3811072197085
-            }
-          }
-        },
-        "name": "Tabo Monastery",
-        "place_id": "ChIJAQAA0P_rBjkR1nz2-y-zu7o",
-        "url": "https://maps.google.com/?cid=13455545330371558614",
-        "website": "http://www.tabomonastery.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNNxFKu7GB4vgsl2fT0EMex5-lcDgGWn8g-u4WM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPDb_Rnisn4x_14hw4VrZOr-D0DKt6dCHtx57J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMu1aagypMydIpp6CPSGcL2v9hBes3afcfoR8Fi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3PM3hazKbQhVlnsJdqxqkIeWDQLIinrDWpXaG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSIaXvNHi47ULWLeJq8rsoH0Y099R-_-fbbQgD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBo7fsMYsGBQJAJRdrCyYoBauAbJgQ3p3L-ZVt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOBiyuNw8oDRPdPMiaS-vbs65282GWV2TaOqL4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOx1Gr1IyEpEMUkSzjwVwqQlS851e0A0gKflubc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdU-J5CETcOrFHXNX_DbX_64qGlggWL5cB6WoH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOygTLNG7AA7PRrX9UPLBeAtvPYVkKIyl5ZHZKZ=s1600-w800-h800"
-        ]
+      "name": "Tabo Monastery",
+      "location": {
+        "lat": 32.0938214,
+        "lng": 78.3822673
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Tabo, Himachal Pradesh 172113, India",
+      "website": "http://www.tabomonastery.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNNxFKu7GB4vgsl2fT0EMex5-lcDgGWn8g-u4WM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPDb_Rnisn4x_14hw4VrZOr-D0DKt6dCHtx57J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMu1aagypMydIpp6CPSGcL2v9hBes3afcfoR8Fi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3PM3hazKbQhVlnsJdqxqkIeWDQLIinrDWpXaG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSIaXvNHi47ULWLeJq8rsoH0Y099R-_-fbbQgD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBo7fsMYsGBQJAJRdrCyYoBauAbJgQ3p3L-ZVt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOBiyuNw8oDRPdPMiaS-vbs65282GWV2TaOqL4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOx1Gr1IyEpEMUkSzjwVwqQlS851e0A0gKflubc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdU-J5CETcOrFHXNX_DbX_64qGlggWL5cB6WoH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOygTLNG7AA7PRrX9UPLBeAtvPYVkKIyl5ZHZKZ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJAQAA0P_rBjkR1nz2-y-zu7o",
+      "google_maps_url": "https://maps.google.com/?cid=13455545330371558614",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Galali, 181201",
-        "geometry": {
-          "location": {
-            "lat": 32.9036603,
-            "lng": 74.7631518
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.9049118802915,
-              "lng": 74.7643562302915
-            },
-            "southwest": {
-              "lat": 32.9022139197085,
-              "lng": 74.76165826970849
-            }
-          }
-        },
-        "name": "Buddhist monastery Akhnoor",
-        "place_id": "ChIJs2zN7ZRjHjkRtMMRJDdbcrI",
-        "url": "https://maps.google.com/?cid=12858440178482660276",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO6xdWYrXLMubg2vnGHELbwMR4Yhk5IKwR6K07d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFAlyJaqMPlhoukyEp3Xb_sXmid6cabbNvG6d3=s1600-w800-h800"
-        ]
+      "name": "Buddhist monastery Akhnoor",
+      "location": {
+        "lat": 32.9036603,
+        "lng": 74.7631518
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Galali, 181201",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO6xdWYrXLMubg2vnGHELbwMR4Yhk5IKwR6K07d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFAlyJaqMPlhoukyEp3Xb_sXmid6cabbNvG6d3=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJs2zN7ZRjHjkRtMMRJDdbcrI",
+      "google_maps_url": "https://maps.google.com/?cid=12858440178482660276",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dolanji, Ganyar, Himachal Pradesh 173223, India",
-        "geometry": {
-          "location": {
-            "lat": 30.8460164,
-            "lng": 77.14920939999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.8472066302915,
-              "lng": 77.1504968302915
-            },
-            "southwest": {
-              "lat": 30.8445086697085,
-              "lng": 77.14779886970848
-            }
-          }
-        },
-        "name": "The Menri Monastery",
-        "place_id": "ChIJmTJZxP-CDzkRmh2cAwKNrog",
-        "url": "https://maps.google.com/?cid=9848964474895867290",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN1zCA_mUTYFw5P6ZXq8QIpow8a4aa0QAlJSas=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSSqCwThGTB18hejJT5isH61irBJDR-QgCsbsj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjDmK-ivY8qEvUspqn62vksw5yRl35dRVrof4K=s1600-w720-h499",
-          "https://lh3.googleusercontent.com/p/AF1QipNYQXqnICmgAJ5K3CMAjJ6kK6qQH07L_JMciJwE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPuBaKOHHo-tWE7cTr_KsHyDhJlIj6X1XLljuI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmMFsuVs_k1lJ0MKi8_9s5cHVi9J_KWesSHvko=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMASjgILqK3ZU-2Fo0aWXYb3Sr9dyJZ8WvmuFR_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYqgzOprTDpyPjamBKoY2wP2mvMI5_FBYUQRTT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXvStEq-UI0Wz-pPSilY8rOwLdxiUuA5IYPjg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsQXPJSMefaciyJIa-XyE9mQ9335egRd-JL1sM=s1600-w800-h800"
-        ]
+      "name": "The Menri Monastery",
+      "location": {
+        "lat": 30.8460164,
+        "lng": 77.14920939999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Dolanji, Ganyar, Himachal Pradesh 173223, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN1zCA_mUTYFw5P6ZXq8QIpow8a4aa0QAlJSas=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSSqCwThGTB18hejJT5isH61irBJDR-QgCsbsj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjDmK-ivY8qEvUspqn62vksw5yRl35dRVrof4K=s1600-w720-h499",
+        "https://lh3.googleusercontent.com/p/AF1QipNYQXqnICmgAJ5K3CMAjJ6kK6qQH07L_JMciJwE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPuBaKOHHo-tWE7cTr_KsHyDhJlIj6X1XLljuI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmMFsuVs_k1lJ0MKi8_9s5cHVi9J_KWesSHvko=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMASjgILqK3ZU-2Fo0aWXYb3Sr9dyJZ8WvmuFR_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYqgzOprTDpyPjamBKoY2wP2mvMI5_FBYUQRTT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXvStEq-UI0Wz-pPSilY8rOwLdxiUuA5IYPjg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsQXPJSMefaciyJIa-XyE9mQ9335egRd-JL1sM=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJmTJZxP-CDzkRmh2cAwKNrog",
+      "google_maps_url": "https://maps.google.com/?cid=9848964474895867290",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lahaul And Spiti, Himachal Pradesh 175140, India",
-        "geometry": {
-          "location": {
-            "lat": 32.5631471,
-            "lng": 77.0235082
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 32.56438113029149,
-              "lng": 77.0247641302915
-            },
-            "southwest": {
-              "lat": 32.5616831697085,
-              "lng": 77.0220661697085
-            }
-          }
-        },
-        "name": "Kardang Monastery",
-        "place_id": "ChIJYZ02tbl6AzkRSl3FKhodyBo",
-        "url": "https://maps.google.com/?cid=1929824438552190282",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMYZofJIzSDR-Cq07kb7S6Bt0BqhGg1pA51wL0_=s1600-w800-h531",
-          "https://lh3.googleusercontent.com/p/AF1QipO6M9In4T906I57fbxSIq2pbd92FNDFJzDYykNM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3Amj_yFZJvT3yVWjjISHWqgyLefpFZPXUNywb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPxj4TbwiDGOm0ttlBakCGK516em3COF-6ZX6ux=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNn_4ohztQQOiGfwJQAkw42by7CtR-Otn7edLr9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNv9roBZQBF_CzGL5-AoEeEucq_qRS2DlPh1VHB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtV7P5aavnqhFKi_4lWTpWbDAqzHeNkNY9tmrj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKYKecufd7tHvtkPZN4y1y_xAsWgOb82SCto4o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNC9YdSjMaFgXjubeJzkUQ0S0-X5LLT6O6ZMjSc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFbPY0Tp1YOjjHZjmrvfdk--94TRh5sq7fk626=s1600-w800-h800"
-        ]
+      "name": "Kardang Monastery",
+      "location": {
+        "lat": 32.5631471,
+        "lng": 77.0235082
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:22:31.994Z"
-      }
+      "address": "Lahaul And Spiti, Himachal Pradesh 175140, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMYZofJIzSDR-Cq07kb7S6Bt0BqhGg1pA51wL0_=s1600-w800-h531",
+        "https://lh3.googleusercontent.com/p/AF1QipO6M9In4T906I57fbxSIq2pbd92FNDFJzDYykNM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3Amj_yFZJvT3yVWjjISHWqgyLefpFZPXUNywb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPxj4TbwiDGOm0ttlBakCGK516em3COF-6ZX6ux=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNn_4ohztQQOiGfwJQAkw42by7CtR-Otn7edLr9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNv9roBZQBF_CzGL5-AoEeEucq_qRS2DlPh1VHB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtV7P5aavnqhFKi_4lWTpWbDAqzHeNkNY9tmrj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKYKecufd7tHvtkPZN4y1y_xAsWgOb82SCto4o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNC9YdSjMaFgXjubeJzkUQ0S0-X5LLT6O6ZMjSc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFbPY0Tp1YOjjHZjmrvfdk--94TRh5sq7fk626=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJYZ02tbl6AzkRSl3FKhodyBo",
+      "google_maps_url": "https://maps.google.com/?cid=1929824438552190282",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

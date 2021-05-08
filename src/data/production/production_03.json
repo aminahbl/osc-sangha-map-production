@@ -1,2537 +1,2004 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "15 Cross Rd, Urrbrae SA 5064, Australia",
-        "geometry": {
-          "location": {
-            "lat": -34.96471929999999,
-            "lng": 138.6418275
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -34.9629187197085,
-              "lng": 138.6431369302915
-            },
-            "southwest": {
-              "lat": -34.9656166802915,
-              "lng": 138.6404389697085
-            }
-          }
-        },
-        "international_phone_number": "+61 8 8338 8700",
-        "name": "The Monastery",
-        "place_id": "ChIJVYt3ASnMsGoRqZoOwzLWQyM",
-        "url": "https://maps.google.com/?cid=2541110128276314793",
-        "website": "http://www.themonastery.net.au/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPubw8ZyswwbBRaY6jmfli2l401byUZo6tOz5cJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgPysnkiW1eHuGMDGzP_8VYycxVjdDdB7UEaYP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfVUF1yXysfcgq6oX8r4EQVFlugPbIwbJyK4p9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPtkq-cz-z7s0LDm6rYsIvkYdXfhRUIGYO9Uk8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPk6HFAD2uFyKZCgOA5b0WGEOHEMQ5iiSQWbpL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBt_FwDWc4hgDCojjjlFvIU2npPt-Q2fZvdvSl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNiY_g79ZZEdegGpARadk6UysoKAPiroNJKcxCK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzvCWJhd_C4P1lYic1AVTmI449nCZoMUj6Dg2Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnjl3JrXMrm45HByW8FxTGA3GJZyhMDgmmqHPU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTQB_Wq0gZjcCnG3u1Ghuslbmeh0_lvEoSvHDT=s1600-w800-h800"
-        ]
+      "name": "The Monastery",
+      "location": {
+        "lat": -34.96471929999999,
+        "lng": 138.6418275
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "15 Cross Rd, Urrbrae SA 5064, Australia",
+      "phone": "+61 8 8338 8700",
+      "website": "http://www.themonastery.net.au/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPubw8ZyswwbBRaY6jmfli2l401byUZo6tOz5cJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgPysnkiW1eHuGMDGzP_8VYycxVjdDdB7UEaYP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfVUF1yXysfcgq6oX8r4EQVFlugPbIwbJyK4p9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPtkq-cz-z7s0LDm6rYsIvkYdXfhRUIGYO9Uk8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPk6HFAD2uFyKZCgOA5b0WGEOHEMQ5iiSQWbpL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBt_FwDWc4hgDCojjjlFvIU2npPt-Q2fZvdvSl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNiY_g79ZZEdegGpARadk6UysoKAPiroNJKcxCK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzvCWJhd_C4P1lYic1AVTmI449nCZoMUj6Dg2Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnjl3JrXMrm45HByW8FxTGA3GJZyhMDgmmqHPU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTQB_Wq0gZjcCnG3u1Ghuslbmeh0_lvEoSvHDT=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVYt3ASnMsGoRqZoOwzLWQyM",
+      "google_maps_url": "https://maps.google.com/?cid=2541110128276314793",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "262 Otaha Road, Kaeo 0295, New Zealand",
-        "geometry": {
-          "location": {
-            "lat": -35.1275919,
-            "lng": 173.9145229
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -35.1259664197085,
-              "lng": 173.9154999302915
-            },
-            "southwest": {
-              "lat": -35.1286643802915,
-              "lng": 173.9128019697085
-            }
-          }
-        },
-        "name": "Santipada Buddist Monastery",
-        "place_id": "ChIJsZusMGvKC20RlFtF4xpGUwg",
-        "url": "https://maps.google.com/?cid=599900256666475412",
-        "website": "http://santipada.co.nz/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMCeZseNMSmCmTLB8RZfdipcwctpzHcUgeKkaYH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPOr04Oitbg0na9ZkEFgdkRiIWXIpW8nri_Rh6U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTxTTcK5p10PyTthsf6obPc3LhXSUjtXbOg6rT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVQIDXiN55MbQXZXJA27bgcvjYGFBiaaV5dBg1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2DhlJoi9_cM4nURo33OIr5HLz4mDG49E3dfBk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_5vhjEPT_6ME2Z7RxWvplsb-rzz3ZfBTCMHuk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNKIJOcfuQVQ1h63rE7_nof4lD92e12-aIjtUnB=s1600-w360-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipPBV3QqJq5mFP-SYTCFU9foChKek0hztfAXwZ8a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPMTo5HGS107HXZiLEUKmmDYxBro-r6RBdgZ3Bz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPg5P4Nt_waT1x0kazMWkZ9uktGZVqhds1m5OgK=s1600-w800-h800"
-        ]
+      "name": "Santipada Buddist Monastery",
+      "location": {
+        "lat": -35.1275919,
+        "lng": 173.9145229
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "262 Otaha Road, Kaeo 0295, New Zealand",
+      "website": "http://santipada.co.nz/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMCeZseNMSmCmTLB8RZfdipcwctpzHcUgeKkaYH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPOr04Oitbg0na9ZkEFgdkRiIWXIpW8nri_Rh6U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTxTTcK5p10PyTthsf6obPc3LhXSUjtXbOg6rT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVQIDXiN55MbQXZXJA27bgcvjYGFBiaaV5dBg1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2DhlJoi9_cM4nURo33OIr5HLz4mDG49E3dfBk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_5vhjEPT_6ME2Z7RxWvplsb-rzz3ZfBTCMHuk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNKIJOcfuQVQ1h63rE7_nof4lD92e12-aIjtUnB=s1600-w360-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipPBV3QqJq5mFP-SYTCFU9foChKek0hztfAXwZ8a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPMTo5HGS107HXZiLEUKmmDYxBro-r6RBdgZ3Bz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPg5P4Nt_waT1x0kazMWkZ9uktGZVqhds1m5OgK=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJsZusMGvKC20RlFtF4xpGUwg",
+      "google_maps_url": "https://maps.google.com/?cid=599900256666475412",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "43 Ashton Avenue, Ōtara, Auckland 2023, New Zealand",
-        "geometry": {
-          "location": {
-            "lat": -36.9594814,
-            "lng": 174.865739
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -36.9582900197085,
-              "lng": 174.8668500802915
-            },
-            "southwest": {
-              "lat": -36.9609879802915,
-              "lng": 174.8641521197085
-            }
-          }
-        },
-        "name": "ဘာမန်တိရတန ဍုၚ်နျူဇြဳလာန် TIRATANA MONASTERY (Mon Buddhist Temple)",
-        "place_id": "ChIJYdM9v9dNDW0RyTLFadA4cMU",
-        "url": "https://maps.google.com/?cid=14226933690642281161",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOJq6mGKQdsIvMVQRtf0xbBtC01GjzY5L0o2rjy=s1600-w800-h800"
-        ]
+      "name": "ဘာမန်တိရတန ဍုၚ်နျူဇြဳလာန် TIRATANA MONASTERY (Mon Buddhist Temple)",
+      "location": {
+        "lat": -36.9594814,
+        "lng": 174.865739
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "43 Ashton Avenue, Ōtara, Auckland 2023, New Zealand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOJq6mGKQdsIvMVQRtf0xbBtC01GjzY5L0o2rjy=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJYdM9v9dNDW0RyTLFadA4cMU",
+      "google_maps_url": "https://maps.google.com/?cid=14226933690642281161",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3075A Great North Road, New Lynn, Auckland 0600, New Zealand",
-        "geometry": {
-          "location": {
-            "lat": -36.908351,
-            "lng": 174.680877
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -36.9070413697085,
-              "lng": 174.6821937802915
-            },
-            "southwest": {
-              "lat": -36.9097393302915,
-              "lng": 174.6794958197085
-            }
-          }
-        },
-        "international_phone_number": "+64 9-826 3490",
-        "name": "Ratanadipa Myanmar Buddhist Temple Auckland",
-        "place_id": "ChIJreRvo09BDW0RbqEDKz_a7Tw",
-        "url": "https://maps.google.com/?cid=4390405176595554670",
-        "website": "http://www.facebook.com/pages/Ratanadipa-Buddhist-Temple/126379534086295",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMIzzUDcxZ6p37WOaVIaSEjFPyhfRQ-t2QjCzvL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjCvnastrSDogn6CfZtICofN_P6D0mcdKj5jOc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOFVlU3If96xaTxyugkztRXqKET1AmNj2mJENM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOxAokrR2U9uFQtuQ-fDOgMNOF7Hj-UL2F1MeMd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZu1y8eP14amZWpUCCIINQrVbFzBb0bqHEMQ3M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNp723MevW4Le-tJ5o3AAwcctmlgc2wGnlMDUq_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqMfIzCQwmSG6DK2BNd5kGR0pMZqbKWoZWvhnD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGSJXd-SAn50h6RW147dRo24NLvk9Od25Zjlx_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcjBz06yQVLniynQoDaLLR29fiMLP8jUr--mR9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBX8yyHdZiRP2tN6gwvixTqfqHHsPNt8zgP_I=s1600-w509-h720"
-        ]
+      "name": "Ratanadipa Myanmar Buddhist Temple Auckland",
+      "location": {
+        "lat": -36.908351,
+        "lng": 174.680877
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "3075A Great North Road, New Lynn, Auckland 0600, New Zealand",
+      "phone": "+64 9-826 3490",
+      "website": "http://www.facebook.com/pages/Ratanadipa-Buddhist-Temple/126379534086295",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMIzzUDcxZ6p37WOaVIaSEjFPyhfRQ-t2QjCzvL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjCvnastrSDogn6CfZtICofN_P6D0mcdKj5jOc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOFVlU3If96xaTxyugkztRXqKET1AmNj2mJENM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOxAokrR2U9uFQtuQ-fDOgMNOF7Hj-UL2F1MeMd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZu1y8eP14amZWpUCCIINQrVbFzBb0bqHEMQ3M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNp723MevW4Le-tJ5o3AAwcctmlgc2wGnlMDUq_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqMfIzCQwmSG6DK2BNd5kGR0pMZqbKWoZWvhnD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGSJXd-SAn50h6RW147dRo24NLvk9Od25Zjlx_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcjBz06yQVLniynQoDaLLR29fiMLP8jUr--mR9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBX8yyHdZiRP2tN6gwvixTqfqHHsPNt8zgP_I=s1600-w509-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJreRvo09BDW0RbqEDKz_a7Tw",
+      "google_maps_url": "https://maps.google.com/?cid=4390405176595554670",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1 Wastney Road, Alfriston, Auckland 2105, New Zealand",
-        "geometry": {
-          "location": {
-            "lat": -37.0133229,
-            "lng": 174.930229
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -37.01210911970851,
-              "lng": 174.9315475802915
-            },
-            "southwest": {
-              "lat": -37.0148070802915,
-              "lng": 174.9288496197085
-            }
-          }
-        },
-        "international_phone_number": "+64 27 777 3357",
-        "name": "Palpung Monastery",
-        "place_id": "ChIJMdOQiV9TDW0RcLxMeu5RnKw",
-        "url": "https://maps.google.com/?cid=12437906355586382960",
-        "website": "https://www.facebook.com/PalpungAuckland/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM84WndMlAkozWsJmzbdQdGaY87QMqXykmL6JsO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjtf_TWSPI0hziRAADcq3sX8n19IXoTrB8XEhf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4PsuepCTPHg5bCMk8SzB_vTu808EB6-BYxwGM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTM3C-hAuZLyMbPORQp29Hd56HkaRiBFN74I0J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMCvOCyztSjRkaI51os7z7fb1XGjSqVg0E-Z9Tn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGxy9sVC-Wr8WiaeDfrP0yOfRfW07itrz15jKE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNU9c6KTlxkPWR6TCjbeWXds9_t8PYC3m-FZ8ML=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOsAn0f10PUWgnOBxrvRyFbC3Ntmv2ND0RQFgq0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0rpwaQIrzzbqwijfedaoLPTYxYXvL22GaxdE9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_GdivDaYdCDPUlIVILqwRrrd_VPSU2Q56Dl7v=s1600-w800-h800"
-        ]
+      "name": "Palpung Monastery",
+      "location": {
+        "lat": -37.0133229,
+        "lng": 174.930229
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "1 Wastney Road, Alfriston, Auckland 2105, New Zealand",
+      "phone": "+64 27 777 3357",
+      "website": "https://www.facebook.com/PalpungAuckland/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM84WndMlAkozWsJmzbdQdGaY87QMqXykmL6JsO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjtf_TWSPI0hziRAADcq3sX8n19IXoTrB8XEhf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4PsuepCTPHg5bCMk8SzB_vTu808EB6-BYxwGM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTM3C-hAuZLyMbPORQp29Hd56HkaRiBFN74I0J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMCvOCyztSjRkaI51os7z7fb1XGjSqVg0E-Z9Tn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGxy9sVC-Wr8WiaeDfrP0yOfRfW07itrz15jKE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNU9c6KTlxkPWR6TCjbeWXds9_t8PYC3m-FZ8ML=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOsAn0f10PUWgnOBxrvRyFbC3Ntmv2ND0RQFgq0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0rpwaQIrzzbqwijfedaoLPTYxYXvL22GaxdE9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_GdivDaYdCDPUlIVILqwRrrd_VPSU2Q56Dl7v=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJMdOQiV9TDW0RcLxMeu5RnKw",
+      "google_maps_url": "https://maps.google.com/?cid=12437906355586382960",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "13 Pukeora Road, Ōtāhuhu, Auckland 1062, New Zealand",
-        "geometry": {
-          "location": {
-            "lat": -36.948705,
-            "lng": 174.8501441
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -36.94721141970849,
-              "lng": 174.8513813802915
-            },
-            "southwest": {
-              "lat": -36.94990938029149,
-              "lng": 174.8486834197085
-            }
-          }
-        },
-        "international_phone_number": "+64 9-270 2898",
-        "name": "Sri Lankaramaya Buddhist Temple",
-        "place_id": "ChIJyac-QaJODW0RZclqR_erUu0",
-        "url": "https://maps.google.com/?cid=17100919813622647141",
-        "website": "http://www.srilankaramaya.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMVtCaDaZtV2BwqRhU5fsyRPVl-Iyrh0AxvJ-IK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcn0MYzPkqhwti-FTWnfOvc2Qw59jFRNlqz2lw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP--n19csaOax9z-8ehbKz-oyZ1qY_Gpur7d0k-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNuqtPsaFVHGjDdRtH_VIuq_GjS0nZhIW5KlwQd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjgcG_rTVXc3Wp2mPosUABVUpialYKD5EPqb-v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRqfSYIJRJH9qD1CStmb8KXqTawghxiX-vxZr1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkOYdjzCg0RvYtMkhu7QfS9s89zpiMvPuUAowP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNR2Ia-ZtIu5gNndqkMLNf6D7tzkEPUPVzecvp8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdoO9o5ZDlHwFiyN0foBHPprecwuzF-XAUB_y3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwfFp7P3mt12WiP0gycuYSfNrnfG3bc5RmBj33=s1600-w800-h768"
-        ]
+      "name": "Sri Lankaramaya Buddhist Temple",
+      "location": {
+        "lat": -36.948705,
+        "lng": 174.8501441
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "13 Pukeora Road, Ōtāhuhu, Auckland 1062, New Zealand",
+      "phone": "+64 9-270 2898",
+      "website": "http://www.srilankaramaya.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMVtCaDaZtV2BwqRhU5fsyRPVl-Iyrh0AxvJ-IK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcn0MYzPkqhwti-FTWnfOvc2Qw59jFRNlqz2lw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP--n19csaOax9z-8ehbKz-oyZ1qY_Gpur7d0k-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNuqtPsaFVHGjDdRtH_VIuq_GjS0nZhIW5KlwQd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjgcG_rTVXc3Wp2mPosUABVUpialYKD5EPqb-v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRqfSYIJRJH9qD1CStmb8KXqTawghxiX-vxZr1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkOYdjzCg0RvYtMkhu7QfS9s89zpiMvPuUAowP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNR2Ia-ZtIu5gNndqkMLNf6D7tzkEPUPVzecvp8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdoO9o5ZDlHwFiyN0foBHPprecwuzF-XAUB_y3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwfFp7P3mt12WiP0gycuYSfNrnfG3bc5RmBj33=s1600-w800-h768"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJyac-QaJODW0RZclqR_erUu0",
+      "google_maps_url": "https://maps.google.com/?cid=17100919813622647141",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "64 Aranna Way, Wardensville, WV 26851, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.062825,
-            "lng": -78.671002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.0643932302915,
-              "lng": -78.66980356970849
-            },
-            "southwest": {
-              "lat": 39.0616952697085,
-              "lng": -78.6725015302915
-            }
-          }
-        },
-        "international_phone_number": "+1 304-897-7896",
-        "name": "The Aranna Buddhist Monastery",
-        "place_id": "ChIJ8UVy1YgKtYkRAwYkTAOg7yc",
-        "url": "https://maps.google.com/?cid=2877694622935811587",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "The Aranna Buddhist Monastery",
+      "location": {
+        "lat": 39.062825,
+        "lng": -78.671002
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "64 Aranna Way, Wardensville, WV 26851, USA",
+      "phone": "+1 304-897-7896",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ8UVy1YgKtYkRAwYkTAOg7yc",
+      "google_maps_url": "https://maps.google.com/?cid=2877694622935811587",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Fulbrook Ln, Lower Fulbrook CV35 8AS, UK",
-        "geometry": {
-          "location": {
-            "lat": 52.2375509,
-            "lng": -1.6294876
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.23891253029149,
-              "lng": -1.628185719708498
-            },
-            "southwest": {
-              "lat": 52.2362145697085,
-              "lng": -1.630883680291502
-            }
-          }
-        },
-        "international_phone_number": "+44 1926 624564",
-        "name": "The Forest Hermitage",
-        "place_id": "ChIJ301NjkTMcEgRCdy9FnVx4_c",
-        "url": "https://maps.google.com/?cid=17862245294788172809",
-        "website": "http://foresthermitage.org.uk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOkGmzp-96CjoUf5L7NxY3RWy6lAtrj4UrKe7xt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQiyvPtAzb40_SQKkQBd7G51CRChgjC9i86Eby=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQRatDGHnPzOl0eIWt-9uOouShVs9vtMO_U6mB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMf027bvlShrhOHrxJ4J_gVSmWcuK9QhHJNmDkT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMfViohAg_duxDkwr1x21N_fhbutZGLGXRKd2WU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMt-WPDTkGE2fGGT4P7_eZ2ca3TTWhtXrBf9U5O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6OjxjtJNoR70camZzBHUfn118xgxwCw5-M-jc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOBqmxZjol11T_3OngMyNzxud6mhyMnBI6odYha=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhoRkh_HhoxpPAWphPWZCE_THeo-iZ2Fr3vWTr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvO47pDr_4p8kUg_RkD7GkfxnBQvunbeuC43K6=s1600-w800-h800"
-        ]
+      "name": "The Forest Hermitage",
+      "location": {
+        "lat": 52.2375509,
+        "lng": -1.6294876
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "Fulbrook Ln, Lower Fulbrook CV35 8AS, UK",
+      "phone": "+44 1926 624564",
+      "website": "http://foresthermitage.org.uk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOkGmzp-96CjoUf5L7NxY3RWy6lAtrj4UrKe7xt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQiyvPtAzb40_SQKkQBd7G51CRChgjC9i86Eby=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQRatDGHnPzOl0eIWt-9uOouShVs9vtMO_U6mB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMf027bvlShrhOHrxJ4J_gVSmWcuK9QhHJNmDkT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMfViohAg_duxDkwr1x21N_fhbutZGLGXRKd2WU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMt-WPDTkGE2fGGT4P7_eZ2ca3TTWhtXrBf9U5O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6OjxjtJNoR70camZzBHUfn118xgxwCw5-M-jc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOBqmxZjol11T_3OngMyNzxud6mhyMnBI6odYha=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhoRkh_HhoxpPAWphPWZCE_THeo-iZ2Fr3vWTr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvO47pDr_4p8kUg_RkD7GkfxnBQvunbeuC43K6=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ301NjkTMcEgRCdy9FnVx4_c",
+      "google_maps_url": "https://maps.google.com/?cid=17862245294788172809",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ghoom Monastery Rd, Ghoom, West Bengal 734102, India",
-        "geometry": {
-          "location": {
-            "lat": 27.0071146,
-            "lng": 88.246363
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.00847033029151,
-              "lng": 88.24771088029152
-            },
-            "southwest": {
-              "lat": 27.0057723697085,
-              "lng": 88.2450129197085
-            }
-          }
-        },
-        "name": "Tibetan Buddhist Monastery, Darjeeling",
-        "place_id": "ChIJ3QMlMagv5DkRZFChMvlzgIY",
-        "url": "https://maps.google.com/?cid=9691873912234791012",
-        "website": "https://www.samtencholingmonastery.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM0j8r5JuYRGcihO979v2BdXNCYzdJ9dOWEkquD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSRwzdGWfLE3VmBxqaPMH4Bj2U458-pCF1sQCh=s1600-w800-h651",
-          "https://lh3.googleusercontent.com/p/AF1QipPIn4abyYUL1uLlEPaPxuNxva31ft-WqU5UmRd9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtfDEPPsVtI8QmiDbxQxkXyCi5UGZ6DjOhUm4w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzFsOsq8kT6Iem_VEKkasU9HmbJC-eDAqNySJH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNFJgoTUb24FG6yeld5wQP328_rz89cd_oZ--G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhSZnurPAPEScc_ZeqjNPjT1RzN2L-r3lglYnz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdnOZaSwf9-N-it2zsLPGWfp7GfU2IakiJbLN2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvjsd2m4FHz9rgkrM4FYRqUSWIKsD0N-uB8dus=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPij4wodSZS46uOcV9e1-AUQed_K24bKwo15bJ3=s1600-w800-h720"
-        ]
+      "name": "Tibetan Buddhist Monastery, Darjeeling",
+      "location": {
+        "lat": 27.0071146,
+        "lng": 88.246363
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "Ghoom Monastery Rd, Ghoom, West Bengal 734102, India",
+      "website": "https://www.samtencholingmonastery.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM0j8r5JuYRGcihO979v2BdXNCYzdJ9dOWEkquD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSRwzdGWfLE3VmBxqaPMH4Bj2U458-pCF1sQCh=s1600-w800-h651",
+        "https://lh3.googleusercontent.com/p/AF1QipPIn4abyYUL1uLlEPaPxuNxva31ft-WqU5UmRd9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtfDEPPsVtI8QmiDbxQxkXyCi5UGZ6DjOhUm4w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzFsOsq8kT6Iem_VEKkasU9HmbJC-eDAqNySJH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNFJgoTUb24FG6yeld5wQP328_rz89cd_oZ--G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhSZnurPAPEScc_ZeqjNPjT1RzN2L-r3lglYnz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdnOZaSwf9-N-it2zsLPGWfp7GfU2IakiJbLN2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvjsd2m4FHz9rgkrM4FYRqUSWIKsD0N-uB8dus=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPij4wodSZS46uOcV9e1-AUQed_K24bKwo15bJ3=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ3QMlMagv5DkRZFChMvlzgIY",
+      "google_maps_url": "https://maps.google.com/?cid=9691873912234791012",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "29-31 Osler St, Ladywood, Birmingham B16 9EU, UK",
-        "geometry": {
-          "location": {
-            "lat": 52.4791716,
-            "lng": -1.9326653
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.4804454302915,
-              "lng": -1.931089419708498
-            },
-            "southwest": {
-              "lat": 52.4777474697085,
-              "lng": -1.933787380291502
-            }
-          }
-        },
-        "international_phone_number": "+44 121 454 6591",
-        "name": "Birmingham Buddhist Vihara",
-        "place_id": "ChIJYb4zIgK9cEgR7_baxLHl5aw",
-        "url": "https://maps.google.com/?cid=12458616495865001711",
-        "website": "http://www.birminghambuddhistvihara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPNLYT7N5lUat4UK2AiU0qXY2vCfj7i7T4wvCCR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTIIoiJWzfVKK3WAxFqhqZeWyRI2dF9UlZEH9c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrD08QeYyczSsJu8zyIuGgxICgakhSwGt_ECdU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNH6ofxEoUOtKWR25eqnRZ5nvP6BbFPLVvTow3x=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1lB_h7RYRu1Xni5Sqr7AxbXmHbEC2Fw_ymePi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipND6Z8cOcODQuvIvVClTcOfppYplZs3MNCDNp9h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNT32phAeh3v4ZCxOWEsPHgBqtPLtDUi3tBgMWi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN7_GesRUPjYTrQTQFhzHCWNf9dFFbbRyiTXGZ1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOce12c8-5CwQY3tm2ta6ZnTsRSSRD3eQwhY5-Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPP9fluUsk0Xk8Mv0StGcOBWmIvelFoAaj4cUzE=s1600-w800-h800"
-        ]
+      "name": "Birmingham Buddhist Vihara",
+      "location": {
+        "lat": 52.4791716,
+        "lng": -1.9326653
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "29-31 Osler St, Ladywood, Birmingham B16 9EU, UK",
+      "phone": "+44 121 454 6591",
+      "website": "http://www.birminghambuddhistvihara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPNLYT7N5lUat4UK2AiU0qXY2vCfj7i7T4wvCCR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTIIoiJWzfVKK3WAxFqhqZeWyRI2dF9UlZEH9c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrD08QeYyczSsJu8zyIuGgxICgakhSwGt_ECdU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNH6ofxEoUOtKWR25eqnRZ5nvP6BbFPLVvTow3x=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1lB_h7RYRu1Xni5Sqr7AxbXmHbEC2Fw_ymePi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipND6Z8cOcODQuvIvVClTcOfppYplZs3MNCDNp9h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNT32phAeh3v4ZCxOWEsPHgBqtPLtDUi3tBgMWi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN7_GesRUPjYTrQTQFhzHCWNf9dFFbbRyiTXGZ1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOce12c8-5CwQY3tm2ta6ZnTsRSSRD3eQwhY5-Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPP9fluUsk0Xk8Mv0StGcOBWmIvelFoAaj4cUzE=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJYb4zIgK9cEgR7_baxLHl5aw",
+      "google_maps_url": "https://maps.google.com/?cid=12458616495865001711",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ratnapura, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 6.666176,
-            "lng": 80.32729549999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 6.667460880291502,
-              "lng": 80.32845303029151
-            },
-            "southwest": {
-              "lat": 6.664762919708497,
-              "lng": 80.32575506970849
-            }
-          }
-        },
-        "name": "අළුපත්ගල ආරණ්‍ය සේනාසනය - Alupatgala Buddhist Monastery",
-        "place_id": "ChIJV17hSY-44zoRCjoNEIKC13k",
-        "url": "https://maps.google.com/?cid=8779629493708732938",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO6_hseer-Vpxrx0nh8t6HJ9ggAMm8XPNAgBEnu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMl5EuQ42l9CRUE7rnf3kEdkDkHEVFJEoyUghAR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNbvoMvtHIfUq3f7ms2qcRzefVYRiREG0VFdPiY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUaRJK1e1aQKE0QcFrS4DHDZk_TzPmOQ0oITa0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmDfFIhN-dyKmB5Vf5RDomrO1WKX590BrUBVjt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYHrKIq67WAYhjRxQhq-NjHR5Ze6XTX-2cznIw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNIxBvQ7DXNC0-5p9D_B6sEf8HfF_L4Z1026uO4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0AsyoEWwog9P51ogsOxZKJwF2DHBp3-q1YXft=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPhSCDtRnOGx2e2peY6Y4w1aF9WgyN5IlvrkIt7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3tfwRRmfIob5u0COOxFJAb_LnKxQbrxBkEQzn=s1600-w800-h800"
-        ]
+      "name": "අළුපත්ගල ආරණ්‍ය සේනාසනය - Alupatgala Buddhist Monastery",
+      "location": {
+        "lat": 6.666176,
+        "lng": 80.32729549999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "Ratnapura, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO6_hseer-Vpxrx0nh8t6HJ9ggAMm8XPNAgBEnu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMl5EuQ42l9CRUE7rnf3kEdkDkHEVFJEoyUghAR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNbvoMvtHIfUq3f7ms2qcRzefVYRiREG0VFdPiY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUaRJK1e1aQKE0QcFrS4DHDZk_TzPmOQ0oITa0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmDfFIhN-dyKmB5Vf5RDomrO1WKX590BrUBVjt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYHrKIq67WAYhjRxQhq-NjHR5Ze6XTX-2cznIw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNIxBvQ7DXNC0-5p9D_B6sEf8HfF_L4Z1026uO4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0AsyoEWwog9P51ogsOxZKJwF2DHBp3-q1YXft=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPhSCDtRnOGx2e2peY6Y4w1aF9WgyN5IlvrkIt7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3tfwRRmfIob5u0COOxFJAb_LnKxQbrxBkEQzn=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJV17hSY-44zoRCjoNEIKC13k",
+      "google_maps_url": "https://maps.google.com/?cid=8779629493708732938",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Junglee Mohal, Toribari Village, Distt, behind Bengal Safari P. O P.S, Bhaktinagar, Salugara, Siliguri, West Bengal 734008, India",
-        "geometry": {
-          "location": {
-            "lat": 26.8022008,
-            "lng": 88.4337455
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 26.8036165302915,
-              "lng": 88.4350304302915
-            },
-            "southwest": {
-              "lat": 26.8009185697085,
-              "lng": 88.4323324697085
-            }
-          }
-        },
-        "name": "Ewam India Buddhist Monastery",
-        "place_id": "ChIJTfJR5XA_5DkRMfTtWjvFdjY",
-        "url": "https://maps.google.com/?cid=3924540984019252273",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPwKG-EbGOIxbTVrNToIqF45AVR6R4ghQtcbT4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJt4t1cYuIKmKSmvMQ_uCHf-SOzusTR38GEIEq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvAhasw9slSkxA3WV_5crgU6IW0MBXAFyE2XTT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPeGQKF-JSHb7cRX1Y-tAWNbAzGvAfXGMarGNo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNe3s5Gb8hEeSxNXcKKhhzAJHhBC8hQN1OuENAn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNupw-nTkOsRO9B0i4q1Mjaixom3sFNnJcAUI3H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMt_4Ik7B4J4cTRmkzpOQDq5xEzDKgHuEPboMRp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM6dXd5n6vOAeDKMi8qjFuN4V73LTUcQp82yTqS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPg7wDHthPF8e2rYUITiF28csmOjTMLC4qfEZo0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMoHDQbTLAPd8w3Rfbh3v_R7KjBLseGsVZqKWBw=s1600-w800-h800"
-        ]
+      "name": "Ewam India Buddhist Monastery",
+      "location": {
+        "lat": 26.8022008,
+        "lng": 88.4337455
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "Junglee Mohal, Toribari Village, Distt, behind Bengal Safari P. O P.S, Bhaktinagar, Salugara, Siliguri, West Bengal 734008, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPwKG-EbGOIxbTVrNToIqF45AVR6R4ghQtcbT4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJt4t1cYuIKmKSmvMQ_uCHf-SOzusTR38GEIEq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvAhasw9slSkxA3WV_5crgU6IW0MBXAFyE2XTT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPeGQKF-JSHb7cRX1Y-tAWNbAzGvAfXGMarGNo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNe3s5Gb8hEeSxNXcKKhhzAJHhBC8hQN1OuENAn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNupw-nTkOsRO9B0i4q1Mjaixom3sFNnJcAUI3H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMt_4Ik7B4J4cTRmkzpOQDq5xEzDKgHuEPboMRp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM6dXd5n6vOAeDKMi8qjFuN4V73LTUcQp82yTqS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPg7wDHthPF8e2rYUITiF28csmOjTMLC4qfEZo0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMoHDQbTLAPd8w3Rfbh3v_R7KjBLseGsVZqKWBw=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTfJR5XA_5DkRMfTtWjvFdjY",
+      "google_maps_url": "https://maps.google.com/?cid=3924540984019252273",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "38 Valencia Cres, Toongabbie NSW 2146, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.796597,
-            "lng": 150.930454
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.7952369697085,
-              "lng": 150.9319585802915
-            },
-            "southwest": {
-              "lat": -33.7979349302915,
-              "lng": 150.9292606197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 9636 8392",
-        "name": "Asoka Vihara Buddhist Monastery",
-        "place_id": "ChIJx7sXHECYEmsR7P9RwI2DJ3w",
-        "url": "https://maps.google.com/?cid=8946263829635006444",
-        "website": "http://www.asokakyaung.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN63jDjUa3DzZ8DwnS3UfASsgUBVCJ67NsPprg=s1600-w800-h543",
-          "https://lh3.googleusercontent.com/p/AF1QipPJKl5SRMrWUEwCDbZywEwzGB6alh8rp69dxOk=s1600-w708-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOROjJURyBY-XiKM0bw9CPQVMgftRf07zyNOjrE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3zaurWpNRN7xo4kxrdvX2OBE1aF1TqZYUMY4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM8HzJPG_fjDTBF7joat3lZrt4RMZNeaIlLqLPu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPORkbgYchKrngGGAP4vcl9lmAC-tkA3ZOWm8g=s1600-w543-h543",
-          "https://lh3.googleusercontent.com/p/AF1QipPtKNIbdAN8D7Bl6o6-peyx-jzLgFGVMnJnPfw=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMUPChDlaZcQv1fZcwtXLOf9OKgh9LpBCorFBw=s1600-w800-h315",
-          "https://lh3.googleusercontent.com/p/AF1QipNlnJfJ7nCPUvH_YI-H0268XTbD-zOnrc-id891=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNu8KR1N01YvJGQNBkckgMOp1V-YDUBIrhU1dC4=s1600-w800-h800"
-        ]
+      "name": "Asoka Vihara Buddhist Monastery",
+      "location": {
+        "lat": -33.796597,
+        "lng": 150.930454
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "38 Valencia Cres, Toongabbie NSW 2146, Australia",
+      "phone": "+61 2 9636 8392",
+      "website": "http://www.asokakyaung.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN63jDjUa3DzZ8DwnS3UfASsgUBVCJ67NsPprg=s1600-w800-h543",
+        "https://lh3.googleusercontent.com/p/AF1QipPJKl5SRMrWUEwCDbZywEwzGB6alh8rp69dxOk=s1600-w708-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOROjJURyBY-XiKM0bw9CPQVMgftRf07zyNOjrE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3zaurWpNRN7xo4kxrdvX2OBE1aF1TqZYUMY4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM8HzJPG_fjDTBF7joat3lZrt4RMZNeaIlLqLPu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPORkbgYchKrngGGAP4vcl9lmAC-tkA3ZOWm8g=s1600-w543-h543",
+        "https://lh3.googleusercontent.com/p/AF1QipPtKNIbdAN8D7Bl6o6-peyx-jzLgFGVMnJnPfw=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMUPChDlaZcQv1fZcwtXLOf9OKgh9LpBCorFBw=s1600-w800-h315",
+        "https://lh3.googleusercontent.com/p/AF1QipNlnJfJ7nCPUvH_YI-H0268XTbD-zOnrc-id891=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNu8KR1N01YvJGQNBkckgMOp1V-YDUBIrhU1dC4=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJx7sXHECYEmsR7P9RwI2DJ3w",
+      "google_maps_url": "https://maps.google.com/?cid=8946263829635006444",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "30 Jenke Cct, Kambah ACT 2902, Australia",
-        "geometry": {
-          "location": {
-            "lat": -35.396673,
-            "lng": 149.0694944
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -35.3951462697085,
-              "lng": 149.0707898802915
-            },
-            "southwest": {
-              "lat": -35.3978442302915,
-              "lng": 149.0680919197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 6156 4650",
-        "name": "Sri Lankan Buddhist Vihara Canberra",
-        "place_id": "ChIJFxoe3nG1F2sRiHDTGKl--2U",
-        "url": "https://maps.google.com/?cid=7348606481716179080",
-        "website": "http://www.slbvcn.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOaKw4ioxF9npLcU72na18k68lrYDEguT9Ivt_1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrCbQxEaomXusl0eluPyOoq0jJmmS3nHDeSWNq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3j-lZfhT99EJ-Dwxd5hkuYevzb8R3awo0J6cH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHu77FJE0rXzgjABIWURIZqXTfFGpxVCmWiMhA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1maACVZs-Eji3rVHh07Ryexjf8JrxdWFzFzj4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4be8yvUeTiYCxWgyK5mf1cUvLZrh6fW4pAfZr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPuf5bfjJhFt2rqXKm2RrUjhEYKkT-WAyuFqAov=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1AsC4Lxu61h8aeGKfMdg-wNi1-VWQxrnqRQ4X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQoAsUh2XVz34t6psyqKBhwJXblKvUfVhv8QF9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfcEc406MV2Es7t66LxQOa8ezRIumokIelmvQO=s1600-w800-h800"
-        ]
+      "name": "Sri Lankan Buddhist Vihara Canberra",
+      "location": {
+        "lat": -35.396673,
+        "lng": 149.0694944
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "30 Jenke Cct, Kambah ACT 2902, Australia",
+      "phone": "+61 2 6156 4650",
+      "website": "http://www.slbvcn.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOaKw4ioxF9npLcU72na18k68lrYDEguT9Ivt_1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrCbQxEaomXusl0eluPyOoq0jJmmS3nHDeSWNq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3j-lZfhT99EJ-Dwxd5hkuYevzb8R3awo0J6cH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHu77FJE0rXzgjABIWURIZqXTfFGpxVCmWiMhA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1maACVZs-Eji3rVHh07Ryexjf8JrxdWFzFzj4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4be8yvUeTiYCxWgyK5mf1cUvLZrh6fW4pAfZr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPuf5bfjJhFt2rqXKm2RrUjhEYKkT-WAyuFqAov=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1AsC4Lxu61h8aeGKfMdg-wNi1-VWQxrnqRQ4X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQoAsUh2XVz34t6psyqKBhwJXblKvUfVhv8QF9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfcEc406MV2Es7t66LxQOa8ezRIumokIelmvQO=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJFxoe3nG1F2sRiHDTGKl--2U",
+      "google_maps_url": "https://maps.google.com/?cid=7348606481716179080",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "295 Wilton Rd, Wilton NSW 2571, Australia",
-        "geometry": {
-          "location": {
-            "lat": -34.22925709999999,
-            "lng": 150.7355603
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -34.2280751197085,
-              "lng": 150.7369765302915
-            },
-            "southwest": {
-              "lat": -34.2307730802915,
-              "lng": 150.7342785697085
-            }
-          }
-        },
-        "international_phone_number": "+61 481 811 877",
-        "name": "Bodhisaddha Forest Monastery",
-        "place_id": "ChIJdZCVIBf9EmsRutc3Zu1GIZs",
-        "url": "https://maps.google.com/?cid=11178293735546410938",
-        "website": "http://www.bodhisaddha.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN7ptowi8KNsnYkvmkJ_PWWoeTEBLSFPNPH0GXu=s1600-w800-h670",
-          "https://lh3.googleusercontent.com/p/AF1QipOxHv6Ljp2WPrbW1YGfsqpMekkxG4DN2CDhAf5P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOB9tGIjAx7BoBU90Vu5tfa0OaVSYCfp48QtuZO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNg4qEELCleIXwUXQptVoOP_ENPFrENmzQFJyxd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNL83vRxIe1XAR1FjHNW_f2wNF-JSErGUdvzmge=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZqxPbRzP942a61A5YTa4RbjQCnXdeZCifLX-p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNpP_UpQvvvHGl80vFkql3TTKet_0FSCxs6rPeX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMR3kOKdD5x7k20fxtatwIHvdQXAGUYaUQUwfpU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMnGYEvIzo9eo-XvHGTP8JnQuSFjkL7vHRIg0_G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNORTQ-tt-ZKeh4XK-KYk682O-mrZ1ngzVBhTCc=s1600-w800-h800"
-        ]
+      "name": "Bodhisaddha Forest Monastery",
+      "location": {
+        "lat": -34.22925709999999,
+        "lng": 150.7355603
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "295 Wilton Rd, Wilton NSW 2571, Australia",
+      "phone": "+61 481 811 877",
+      "website": "http://www.bodhisaddha.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN7ptowi8KNsnYkvmkJ_PWWoeTEBLSFPNPH0GXu=s1600-w800-h670",
+        "https://lh3.googleusercontent.com/p/AF1QipOxHv6Ljp2WPrbW1YGfsqpMekkxG4DN2CDhAf5P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOB9tGIjAx7BoBU90Vu5tfa0OaVSYCfp48QtuZO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNg4qEELCleIXwUXQptVoOP_ENPFrENmzQFJyxd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNL83vRxIe1XAR1FjHNW_f2wNF-JSErGUdvzmge=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZqxPbRzP942a61A5YTa4RbjQCnXdeZCifLX-p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNpP_UpQvvvHGl80vFkql3TTKet_0FSCxs6rPeX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMR3kOKdD5x7k20fxtatwIHvdQXAGUYaUQUwfpU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMnGYEvIzo9eo-XvHGTP8JnQuSFjkL7vHRIg0_G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNORTQ-tt-ZKeh4XK-KYk682O-mrZ1ngzVBhTCc=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJdZCVIBf9EmsRutc3Zu1GIZs",
+      "google_maps_url": "https://maps.google.com/?cid=11178293735546410938",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "19 Kelleway Ave, Nicholls ACT 2913, Australia",
-        "geometry": {
-          "location": {
-            "lat": -35.17923679999999,
-            "lng": 149.1017524
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -35.17788781970849,
-              "lng": 149.1031013802915
-            },
-            "southwest": {
-              "lat": -35.18058578029148,
-              "lng": 149.1004034197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 6255 6878",
-        "name": "Hu Guo Bao En Temple",
-        "place_id": "ChIJvZsiD1WrF2sRp2pr4CWE2Eo",
-        "url": "https://maps.google.com/?cid=5393205851989961383",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNh9bo2HBKn1UEPJdsItw78apC5lixVZoFUUlkM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNct1AjLSS8U47P3RlkVGhz8NL-9sNLRlAHSuiF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4pptIaIldcQXW8JIoYvP-BAvTO0PUzToCtdOi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNEAkVRc_BiUDFlzRuqmcyu4as2hPbWyts1Xlya=s1600-w800-h725",
-          "https://lh3.googleusercontent.com/p/AF1QipNJzOObii14QAqzxa6Hw6S0MLEXp2nVAf3GysHe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYwJcldS3euFSHnUBoeqGZ5v2LEGc1Cit2bgPT=s1600-w800-h725",
-          "https://lh3.googleusercontent.com/p/AF1QipPHE8DBcZN83Zz4OMN2ttFWf_xCdgN8TTQeLb9D=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPr1l9YQ3ePsRoD4l191K-VgnzpC2o_66FYM9TC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3FWHX2xF6__akdwnpnRREN_hBDiRb8oJxxzWn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNVY7W6zLuWDZMbYU5HitnP4KiOqYidwvHd6kP4=s1600-w641-h800"
-        ]
+      "name": "Hu Guo Bao En Temple",
+      "location": {
+        "lat": -35.17923679999999,
+        "lng": 149.1017524
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "19 Kelleway Ave, Nicholls ACT 2913, Australia",
+      "phone": "+61 2 6255 6878",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNh9bo2HBKn1UEPJdsItw78apC5lixVZoFUUlkM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNct1AjLSS8U47P3RlkVGhz8NL-9sNLRlAHSuiF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4pptIaIldcQXW8JIoYvP-BAvTO0PUzToCtdOi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNEAkVRc_BiUDFlzRuqmcyu4as2hPbWyts1Xlya=s1600-w800-h725",
+        "https://lh3.googleusercontent.com/p/AF1QipNJzOObii14QAqzxa6Hw6S0MLEXp2nVAf3GysHe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYwJcldS3euFSHnUBoeqGZ5v2LEGc1Cit2bgPT=s1600-w800-h725",
+        "https://lh3.googleusercontent.com/p/AF1QipPHE8DBcZN83Zz4OMN2ttFWf_xCdgN8TTQeLb9D=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPr1l9YQ3ePsRoD4l191K-VgnzpC2o_66FYM9TC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3FWHX2xF6__akdwnpnRREN_hBDiRb8oJxxzWn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNVY7W6zLuWDZMbYU5HitnP4KiOqYidwvHd6kP4=s1600-w641-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJvZsiD1WrF2sRp2pr4CWE2Eo",
+      "google_maps_url": "https://maps.google.com/?cid=5393205851989961383",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "43 Cliff Dr, Katoomba NSW 2780, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.7256077,
-            "lng": 150.3164167
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.72421981970851,
-              "lng": 150.3176540302915
-            },
-            "southwest": {
-              "lat": -33.72691778029151,
-              "lng": 150.3149560697085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 4782 2704",
-        "name": "Australian Buddhist Vihara",
-        "place_id": "ChIJ69LaRrtuEmsRnUOgZYVhQ7A",
-        "url": "https://maps.google.com/?cid=12701102599678477213",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPxU0Vp1nmCl2ok3jtiZIoVL2G2QSfiS-xgGRsT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlSrgBx1hFemFBuBvRF5o9LwHUTYKHJwtW2EPb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUUt4aqco0-nhh0O58zGND8Em1b5qH3g0eZpMf=s1600-w800-h750",
-          "https://lh3.googleusercontent.com/p/AF1QipPh52KRx-Sj-ACeaGn6c6WWeLUzMsgoeqhr1PW4=s1600-w800-h667",
-          "https://lh3.googleusercontent.com/p/AF1QipMa5gKDmEJsUOE5dousWRlvnBQ7hXHbQSxLlFMl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhJKhRa93D1pSS7--W4uerrCBDXTTunGBiez4Z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEL4nPGg6qvCn2xYakHIZRNIYLTtO5MMRJYDCC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKEZvkEVSUYCmsnc-BMPSHElub8wnMezmmYBYS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcTylMl1Rqzju4oeu7opwWIMydTlGyRTayPHfv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-eK-7iF1V1g1GBMCatsoxO7D4fxNXRyToMVxG=s1600-w800-h800"
-        ]
+      "name": "Australian Buddhist Vihara",
+      "location": {
+        "lat": -33.7256077,
+        "lng": 150.3164167
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "43 Cliff Dr, Katoomba NSW 2780, Australia",
+      "phone": "+61 2 4782 2704",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPxU0Vp1nmCl2ok3jtiZIoVL2G2QSfiS-xgGRsT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlSrgBx1hFemFBuBvRF5o9LwHUTYKHJwtW2EPb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUUt4aqco0-nhh0O58zGND8Em1b5qH3g0eZpMf=s1600-w800-h750",
+        "https://lh3.googleusercontent.com/p/AF1QipPh52KRx-Sj-ACeaGn6c6WWeLUzMsgoeqhr1PW4=s1600-w800-h667",
+        "https://lh3.googleusercontent.com/p/AF1QipMa5gKDmEJsUOE5dousWRlvnBQ7hXHbQSxLlFMl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhJKhRa93D1pSS7--W4uerrCBDXTTunGBiez4Z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEL4nPGg6qvCn2xYakHIZRNIYLTtO5MMRJYDCC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKEZvkEVSUYCmsnc-BMPSHElub8wnMezmmYBYS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcTylMl1Rqzju4oeu7opwWIMydTlGyRTayPHfv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-eK-7iF1V1g1GBMCatsoxO7D4fxNXRyToMVxG=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ69LaRrtuEmsRnUOgZYVhQ7A",
+      "google_maps_url": "https://maps.google.com/?cid=12701102599678477213",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "103 Minerva Rd, Wedderburn NSW 2560, Australia",
-        "geometry": {
-          "location": {
-            "lat": -34.144006,
-            "lng": 150.8143929
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -34.14279861970849,
-              "lng": 150.8156038802915
-            },
-            "southwest": {
-              "lat": -34.14549658029149,
-              "lng": 150.8129059197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 4634 1200",
-        "name": "Wat Buddhalavarn",
-        "place_id": "ChIJx9qwSKblEmsR_u2lqDxZ430",
-        "url": "https://maps.google.com/?cid=9071192191516667390",
-        "website": "http://www.watbuddhalavarn.org.au/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPEWu-idrh3JoTeU-sX6KChU9qV3E9l3MWyTVJA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMoNr_UhX4apLaMrtvSh8E9T9YC6jggkr41BIfq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtFgN-o-cQv04y_28K7Lfta6AuPTpHrzT7nASo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKeFt9GhP0H-XYqaCufHSzz0BuaJqWTYwKlsfN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPMrCvZznBx1mwdcsjSwk5JSLjLt8ppVRLRJaiT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUdsWhJcHsSv3YSOWA4aRsMowjkoVsotXSDxML=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeQ5N8iFfC1WwjtQAPzIl5kz2s9rLNMq58xGvx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPv-i6a5qxXE_gM1Kjjn97xop9Pw8RtYMYa378J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN03Y-ABOrAbDMEUkCK5WgYqnNmwresL_5osNNw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeoRiM3P6FYEFc8lCZKuXrJwJgJScwwUj9Z0LK=s1600-w800-h800"
-        ]
+      "name": "Wat Buddhalavarn",
+      "location": {
+        "lat": -34.144006,
+        "lng": 150.8143929
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "103 Minerva Rd, Wedderburn NSW 2560, Australia",
+      "phone": "+61 2 4634 1200",
+      "website": "http://www.watbuddhalavarn.org.au/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPEWu-idrh3JoTeU-sX6KChU9qV3E9l3MWyTVJA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMoNr_UhX4apLaMrtvSh8E9T9YC6jggkr41BIfq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtFgN-o-cQv04y_28K7Lfta6AuPTpHrzT7nASo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKeFt9GhP0H-XYqaCufHSzz0BuaJqWTYwKlsfN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPMrCvZznBx1mwdcsjSwk5JSLjLt8ppVRLRJaiT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUdsWhJcHsSv3YSOWA4aRsMowjkoVsotXSDxML=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeQ5N8iFfC1WwjtQAPzIl5kz2s9rLNMq58xGvx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPv-i6a5qxXE_gM1Kjjn97xop9Pw8RtYMYa378J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN03Y-ABOrAbDMEUkCK5WgYqnNmwresL_5osNNw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeoRiM3P6FYEFc8lCZKuXrJwJgJScwwUj9Z0LK=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJx9qwSKblEmsR_u2lqDxZ430",
+      "google_maps_url": "https://maps.google.com/?cid=9071192191516667390",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "28-32 Chadderton St, Canley Vale NSW 2166, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.8935071,
-            "lng": 150.9541376
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.8922129697085,
-              "lng": 150.9554774802915
-            },
-            "southwest": {
-              "lat": -33.89491093029149,
-              "lng": 150.9527795197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 9723 8700",
-        "name": "Minh Quang Monastery",
-        "place_id": "ChIJUy1k1_e9EmsR6t-drosgxvU",
-        "url": "https://maps.google.com/?cid=17709878368983179242",
-        "website": "http://www.minhquang.com.au/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPydtFB_g-YqykpCBGPRQ40vhtq3QW3G5WaBNJw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAUMmminqk8YFM4Y0WZqWn049QiqjjuOAwzuWk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM20WhFRkM9Cf4g6DTEJPDtnGMIAwtuBV0_xqHA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdFOt3RhXBQsnWJnru3JOzAzIuvCJa8BPu4I2P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMomNVc29AsNzDsAIUqm8i_aZ8GIZ3NaZlIDgoy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_w8iUEP_wYqEWcK_Wt01XHEgJdMh2QdrEUDSa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkA3gcDWbi9CgvLzgQeHiHkfa0Q67fAY2JhF99=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNoxqcZU1WYEbYD-SzB7gHB9QJYtrLlokuseUC8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-taD7SKPz5NBUB9hMHd_f2KxpwjtsPIwK0c7a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPI97kdR1sTuDhXAOrkM_uXnBLD5XfHg--DDhny=s1600-w800-h800"
-        ]
+      "name": "Minh Quang Monastery",
+      "location": {
+        "lat": -33.8935071,
+        "lng": 150.9541376
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "28-32 Chadderton St, Canley Vale NSW 2166, Australia",
+      "phone": "+61 2 9723 8700",
+      "website": "http://www.minhquang.com.au/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPydtFB_g-YqykpCBGPRQ40vhtq3QW3G5WaBNJw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAUMmminqk8YFM4Y0WZqWn049QiqjjuOAwzuWk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM20WhFRkM9Cf4g6DTEJPDtnGMIAwtuBV0_xqHA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdFOt3RhXBQsnWJnru3JOzAzIuvCJa8BPu4I2P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMomNVc29AsNzDsAIUqm8i_aZ8GIZ3NaZlIDgoy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_w8iUEP_wYqEWcK_Wt01XHEgJdMh2QdrEUDSa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkA3gcDWbi9CgvLzgQeHiHkfa0Q67fAY2JhF99=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNoxqcZU1WYEbYD-SzB7gHB9QJYtrLlokuseUC8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-taD7SKPz5NBUB9hMHd_f2KxpwjtsPIwK0c7a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPI97kdR1sTuDhXAOrkM_uXnBLD5XfHg--DDhny=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJUy1k1_e9EmsR6t-drosgxvU",
+      "google_maps_url": "https://maps.google.com/?cid=17709878368983179242",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Wat Lao Buddhist Community Centre, 20 Jenke Cct, Kambah ACT 2902, Australia",
-        "geometry": {
-          "location": {
-            "lat": -35.39566369999999,
-            "lng": 149.0684495
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -35.39434226970849,
-              "lng": 149.0699131302915
-            },
-            "southwest": {
-              "lat": -35.39704023029149,
-              "lng": 149.0672151697085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 6231 3365",
-        "name": "Wat Lao Buddhanimit Canberra",
-        "place_id": "ChIJpVTw8nG1F2sRogOIwfX8GzM",
-        "url": "https://maps.google.com/?cid=3682815252749616034",
-        "website": "https://m.facebook.com/watlaocanberra/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNLfpZQn7_POj3KleBwnI4sEzIgXTF7dPXtp7MS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUQ5f6JMGNZ16dSKrEcoVZ9F6zlwHb-ITV3g2p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPu_Hmg7mXrvjCa4wus-Qr18mCOB7AqDy-k96o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOykqHswzvJtSclFMv2ROIh9Q7AYcbKdOJ51f20=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGrzNE6TeLLlwboFK_rvK4Px3_DIY746PSZmwp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFU44Ervk-RxbX7zopxD_ZP1ZdR4eq1t43hYs2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGWVO2de-y2WvhkB4XrZB6-hH8_2Wv3r6X0cl7=s1600-w320-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipP5wXNAxTyslhvWXAERNIwJTb2daXcj9x1yL3Qj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWwVJfGg2i1huiCM5ONoM0QPrcGKsP89Imaglt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPossY0FigOXLN4z8bEdF4AF4-E7KjFszAAHgjq=s1600-w800-h800"
-        ]
+      "name": "Wat Lao Buddhanimit Canberra",
+      "location": {
+        "lat": -35.39566369999999,
+        "lng": 149.0684495
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "Wat Lao Buddhist Community Centre, 20 Jenke Cct, Kambah ACT 2902, Australia",
+      "phone": "+61 2 6231 3365",
+      "website": "https://m.facebook.com/watlaocanberra/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNLfpZQn7_POj3KleBwnI4sEzIgXTF7dPXtp7MS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUQ5f6JMGNZ16dSKrEcoVZ9F6zlwHb-ITV3g2p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPu_Hmg7mXrvjCa4wus-Qr18mCOB7AqDy-k96o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOykqHswzvJtSclFMv2ROIh9Q7AYcbKdOJ51f20=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGrzNE6TeLLlwboFK_rvK4Px3_DIY746PSZmwp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFU44Ervk-RxbX7zopxD_ZP1ZdR4eq1t43hYs2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGWVO2de-y2WvhkB4XrZB6-hH8_2Wv3r6X0cl7=s1600-w320-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipP5wXNAxTyslhvWXAERNIwJTb2daXcj9x1yL3Qj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWwVJfGg2i1huiCM5ONoM0QPrcGKsP89Imaglt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPossY0FigOXLN4z8bEdF4AF4-E7KjFszAAHgjq=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJpVTw8nG1F2sRogOIwfX8GzM",
+      "google_maps_url": "https://maps.google.com/?cid=3682815252749616034",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2259 Bells Line of Rd, Bilpin NSW 2758, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.5048541,
-            "lng": 150.5408722
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.50286131970849,
-              "lng": 150.54303235
-            },
-            "southwest": {
-              "lat": -33.50555928029149,
-              "lng": 150.54015215
-            }
-          }
-        },
-        "international_phone_number": "+61 414 788 788",
-        "name": "Dharma Cloud Monastery - thiền viện Pháp Vân",
-        "place_id": "ChIJoXu2SaGBDWsRZ3GThF6CEWk",
-        "url": "https://maps.google.com/?cid=7570975791049306471",
-        "website": "http://www.dharmacloud.com.au/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPtLKf6bI4A4XNxon3_qPKC5e_e6Cn7mp0bwHDV=s1600-w567-h425",
-          "https://lh3.googleusercontent.com/p/AF1QipN4zUJVdI46wU3Zw_02uzSnY9YUShNiMkvC0B86=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjY10WvZe0-YgNmQUpX0x5IQhVYWqm01F6pB0v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUM8QygC5T0hKOHQyw10SaKp4vbcag7EHMKlE8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeDTvk2l6PFA-UhHfJ5qPVQwKHnWNVp-NcLIf2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5YiS-3PmFtUqvLnhhz76QyRuBkUpizsVEpWZm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPREik1YFpMA5Awsd4VFqRYvW6Ec3n2K612gpPR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8Wgzi-cTeEGaPgwAQEdEyPKcP7shsWJhcqUmx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZXWRUE7cpRn7VYZHeX0OpuXum4BdidyuH4CZd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQYSeDf9gnOAYvxjtZZvJTpOrrLfa6UWNmSUlf=s1600-w800-h800"
-        ]
+      "name": "Dharma Cloud Monastery - thiền viện Pháp Vân",
+      "location": {
+        "lat": -33.5048541,
+        "lng": 150.5408722
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "2259 Bells Line of Rd, Bilpin NSW 2758, Australia",
+      "phone": "+61 414 788 788",
+      "website": "http://www.dharmacloud.com.au/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPtLKf6bI4A4XNxon3_qPKC5e_e6Cn7mp0bwHDV=s1600-w567-h425",
+        "https://lh3.googleusercontent.com/p/AF1QipN4zUJVdI46wU3Zw_02uzSnY9YUShNiMkvC0B86=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjY10WvZe0-YgNmQUpX0x5IQhVYWqm01F6pB0v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUM8QygC5T0hKOHQyw10SaKp4vbcag7EHMKlE8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeDTvk2l6PFA-UhHfJ5qPVQwKHnWNVp-NcLIf2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5YiS-3PmFtUqvLnhhz76QyRuBkUpizsVEpWZm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPREik1YFpMA5Awsd4VFqRYvW6Ec3n2K612gpPR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8Wgzi-cTeEGaPgwAQEdEyPKcP7shsWJhcqUmx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZXWRUE7cpRn7VYZHeX0OpuXum4BdidyuH4CZd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQYSeDf9gnOAYvxjtZZvJTpOrrLfa6UWNmSUlf=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJoXu2SaGBDWsRZ3GThF6CEWk",
+      "google_maps_url": "https://maps.google.com/?cid=7570975791049306471",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "45 Appenine Rd, Yerrinbool NSW 2575, Australia",
-        "geometry": {
-          "location": {
-            "lat": -34.37027969999999,
-            "lng": 150.5413302
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -34.36888836970849,
-              "lng": 150.5425574302915
-            },
-            "southwest": {
-              "lat": -34.37158633029149,
-              "lng": 150.5398594697085
-            }
-          }
-        },
-        "name": "Buddharatana Monastery of Australia",
-        "place_id": "ChIJi9vNyYWnE2sRqoRfWwBfzPg",
-        "url": "https://maps.google.com/?cid=17927808671792727210",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddharatana Monastery of Australia",
+      "location": {
+        "lat": -34.37027969999999,
+        "lng": 150.5413302
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "45 Appenine Rd, Yerrinbool NSW 2575, Australia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJi9vNyYWnE2sRqoRfWwBfzPg",
+      "google_maps_url": "https://maps.google.com/?cid=17927808671792727210",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "53 Dwyer Rd, Bringelly NSW 2556, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.931695,
-            "lng": 150.6977141
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.9303100697085,
-              "lng": 150.6993254802915
-            },
-            "southwest": {
-              "lat": -33.9330080302915,
-              "lng": 150.6966275197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 4774 9992",
-        "name": "Sasanadhaja Monastery",
-        "place_id": "ChIJ7028-0fzEmsR5p7bVJxz3-E",
-        "url": "https://maps.google.com/?cid=16275854693616033510",
-        "website": "http://www.sasanadhaja.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNB9iS1gVYHp5P3Te7IDjkka2e3I7nmcusg_i06=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPj6rOkdQmef45qPx1eTPzqPh8AknYrD9MU6HcZ=s1600-w800-h800"
-        ]
+      "name": "Sasanadhaja Monastery",
+      "location": {
+        "lat": -33.931695,
+        "lng": 150.6977141
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "53 Dwyer Rd, Bringelly NSW 2556, Australia",
+      "phone": "+61 2 4774 9992",
+      "website": "http://www.sasanadhaja.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNB9iS1gVYHp5P3Te7IDjkka2e3I7nmcusg_i06=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPj6rOkdQmef45qPx1eTPzqPh8AknYrD9MU6HcZ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ7028-0fzEmsR5p7bVJxz3-E",
+      "google_maps_url": "https://maps.google.com/?cid=16275854693616033510",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1 Ross Smith Cres, Scullin ACT 2614, Australia",
-        "geometry": {
-          "location": {
-            "lat": -35.24025849999999,
-            "lng": 149.040782
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -35.23883046970849,
-              "lng": 149.0421516802915
-            },
-            "southwest": {
-              "lat": -35.24152843029149,
-              "lng": 149.0394537197085
-            }
-          }
-        },
-        "name": "Khemararangsi Wat",
-        "place_id": "ChIJA6u5DDSsF2sRJwLXtb9pWP0",
-        "url": "https://maps.google.com/?cid=18255457361656742439",
-        "website": "https://www.khemararangsi.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMFm-jy1_5EP5SPK2RuTDGsPen8s-l1OpRymhQg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcVzs8QlLRT7PWcAf4pyqGNzZjvzgQquIqe43O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOy-gMEd_M-7Smdq6b7eJzkkAo6sks66nOPGX5E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkuT3pGa4-bPktDQN_yyBtgf4R5G85FBSf_pie=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0pGgrrEUKJdDI2OkT4MV0sqQ-0KisQc1CSQmY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJsKryNseA4eIi4ix165nolHacm2R08Ed-Foz6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUa9KuWAoTdpV9XemxEePwalO3ozqs5mdAl_zl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNoS6fhtDbS9YoL_KC3V-VadOg6bcamZz1fQaTa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvQu_DuzW7hNQWW2cTGaepczLw1BAH01boCPLf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM5Eh7S2BxpD-9b1Hv3E4ly0crdB4rsL3SrFxdw=s1600-w800-h800"
-        ]
+      "name": "Khemararangsi Wat",
+      "location": {
+        "lat": -35.24025849999999,
+        "lng": 149.040782
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "1 Ross Smith Cres, Scullin ACT 2614, Australia",
+      "website": "https://www.khemararangsi.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMFm-jy1_5EP5SPK2RuTDGsPen8s-l1OpRymhQg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcVzs8QlLRT7PWcAf4pyqGNzZjvzgQquIqe43O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOy-gMEd_M-7Smdq6b7eJzkkAo6sks66nOPGX5E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkuT3pGa4-bPktDQN_yyBtgf4R5G85FBSf_pie=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0pGgrrEUKJdDI2OkT4MV0sqQ-0KisQc1CSQmY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJsKryNseA4eIi4ix165nolHacm2R08Ed-Foz6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUa9KuWAoTdpV9XemxEePwalO3ozqs5mdAl_zl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNoS6fhtDbS9YoL_KC3V-VadOg6bcamZz1fQaTa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvQu_DuzW7hNQWW2cTGaepczLw1BAH01boCPLf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM5Eh7S2BxpD-9b1Hv3E4ly0crdB4rsL3SrFxdw=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA6u5DDSsF2sRJwLXtb9pWP0",
+      "google_maps_url": "https://maps.google.com/?cid=18255457361656742439",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "43 Cliff Dr, Katoomba NSW 2780, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.7256265,
-            "lng": 150.3164395
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.72423346970849,
-              "lng": 150.3176632802915
-            },
-            "southwest": {
-              "lat": -33.72693143029149,
-              "lng": 150.3149653197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 4782 2704",
-        "name": "Katoomba Temple",
-        "place_id": "ChIJ0TDqF7tuEmsRCrYDJReA2nA",
-        "url": "https://maps.google.com/?cid=8131952914064455178",
-        "website": "http://katoomba-temple.edan.io/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPVbm1PIbB2FfIfj8W3IU1MQIMEqR3OrztHBKhO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMV14SqopC0QFSTwVFNsr0H1pZSgPO1vErRHof8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBok8WKMq1PbJer5MMBxYCpXP-e9DS5d6YKCLB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhajkb0xCUu_xNafhMCEEIsdWvEj1u8EWdydSB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMktDRKOB2xOWrIHtA4vDd45gCPGcqD-Mj-4yLn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUeVIhdAwLPCfK0_UpkCI3NTuFQEnFt3n3hbaA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN94k784xx0VenrsHZ-QH3Q_pgIUGDbyNK83AyI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQrXeiuYLSy-w3skEBrIhIcA9M_qBThyaLfjuh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_D8tnK8yLctTT-rcIMN2d0vz0XgEHV96jkHQn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOd6cvc8l4lRE16krFQNOBwCua9gkpbSYlCrRqX=s1600-w800-h800"
-        ]
+      "name": "Katoomba Temple",
+      "location": {
+        "lat": -33.7256265,
+        "lng": 150.3164395
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "43 Cliff Dr, Katoomba NSW 2780, Australia",
+      "phone": "+61 2 4782 2704",
+      "website": "http://katoomba-temple.edan.io/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPVbm1PIbB2FfIfj8W3IU1MQIMEqR3OrztHBKhO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMV14SqopC0QFSTwVFNsr0H1pZSgPO1vErRHof8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBok8WKMq1PbJer5MMBxYCpXP-e9DS5d6YKCLB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhajkb0xCUu_xNafhMCEEIsdWvEj1u8EWdydSB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMktDRKOB2xOWrIHtA4vDd45gCPGcqD-Mj-4yLn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUeVIhdAwLPCfK0_UpkCI3NTuFQEnFt3n3hbaA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN94k784xx0VenrsHZ-QH3Q_pgIUGDbyNK83AyI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQrXeiuYLSy-w3skEBrIhIcA9M_qBThyaLfjuh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_D8tnK8yLctTT-rcIMN2d0vz0XgEHV96jkHQn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOd6cvc8l4lRE16krFQNOBwCua9gkpbSYlCrRqX=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ0TDqF7tuEmsRCrYDJReA2nA",
+      "google_maps_url": "https://maps.google.com/?cid=8131952914064455178",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "49 Trafalgar St, Annandale NSW 2038, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.8845605,
-            "lng": 151.1712736
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.8831748697085,
-              "lng": 151.1724983802915
-            },
-            "southwest": {
-              "lat": -33.8858728302915,
-              "lng": 151.1698004197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 9557 2879",
-        "name": "Wat Buddharangsee",
-        "place_id": "ChIJL5BXniawEmsRg6kzBoX0mdA",
-        "url": "https://maps.google.com/?cid=15031314083497617795",
-        "website": "http://www.watbuddharangsee.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNiuLGpAFGHDNN0YGeib58b9uzvDmk4tdTqipTX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN2HhHYZCIsvzPxex0UiqdQzsCv8kBE-mzAXgXs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOP_FeRrSu62Luj5gg-WkwRoZLvaMJpkRiTymDA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5R2Kp4Ho2ggpEsgvyiQzX3HWUCjKIsuOOYZ8E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6Nnq9QVJZo-XDbAkW4gY6WhxKbcR4hUZbUyY3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP-DJg7S1eJ5APUhTfwf5AFmO84UwCDCV6z-oUk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_637iv_-AIxks6F0gJE_SaT8vQaw1zE0zU1w4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjdJ6QvPxpuXVc9Q4wg90yIB-dPeK-4YnmOxE-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMU_K6XPVStDu_gDVLKfo90IQ0K5ywvDLVb_EkK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUzDtyqWBiYx6z8Eo3BLmOImQ3prdq49Ah5Exe=s1600-w800-h800"
-        ]
+      "name": "Wat Buddharangsee",
+      "location": {
+        "lat": -33.8845605,
+        "lng": 151.1712736
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "49 Trafalgar St, Annandale NSW 2038, Australia",
+      "phone": "+61 2 9557 2879",
+      "website": "http://www.watbuddharangsee.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNiuLGpAFGHDNN0YGeib58b9uzvDmk4tdTqipTX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN2HhHYZCIsvzPxex0UiqdQzsCv8kBE-mzAXgXs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOP_FeRrSu62Luj5gg-WkwRoZLvaMJpkRiTymDA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5R2Kp4Ho2ggpEsgvyiQzX3HWUCjKIsuOOYZ8E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6Nnq9QVJZo-XDbAkW4gY6WhxKbcR4hUZbUyY3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP-DJg7S1eJ5APUhTfwf5AFmO84UwCDCV6z-oUk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_637iv_-AIxks6F0gJE_SaT8vQaw1zE0zU1w4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjdJ6QvPxpuXVc9Q4wg90yIB-dPeK-4YnmOxE-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMU_K6XPVStDu_gDVLKfo90IQ0K5ywvDLVb_EkK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUzDtyqWBiYx6z8Eo3BLmOImQ3prdq49Ah5Exe=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJL5BXniawEmsRg6kzBoX0mdA",
+      "google_maps_url": "https://maps.google.com/?cid=15031314083497617795",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3 Shelley St, Campsie NSW 2194, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.9035896,
-            "lng": 151.1050278
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.9023127197085,
-              "lng": 151.1064706802915
-            },
-            "southwest": {
-              "lat": -33.9050106802915,
-              "lng": 151.1037727197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 9718 1611",
-        "name": "Dinghui Temple",
-        "place_id": "ChIJ4z6gWPK7EmsRaRmJUqC5XuE",
-        "url": "https://maps.google.com/?cid=16239621404575209833",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP8XJr4pmTfSzaghAS07cxXH035iAAoZZxAbkAk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAGDa95JQQp44JPVMjN0PQzCXv2-md4BUNvZT2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvp8pFFWDkPDQ_GJyPHFkWo9px3AWt2-gD52oW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBtv5paXkC39IlUgsYS9L28pedzPGe2akJbp6u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMP3i7j7X_fvq1cMNtrc3_5ubBq81xVeND8Z9mC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTKW3iGb86kfDWQjf51J9fVEgOEweLadMG0bU2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNHtUFQA0SrxyRT4ZW-1pQKWcgOVt9OnWbRrWeL=s1600-w800-h800"
-        ]
+      "name": "Dinghui Temple",
+      "location": {
+        "lat": -33.9035896,
+        "lng": 151.1050278
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "3 Shelley St, Campsie NSW 2194, Australia",
+      "phone": "+61 2 9718 1611",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP8XJr4pmTfSzaghAS07cxXH035iAAoZZxAbkAk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAGDa95JQQp44JPVMjN0PQzCXv2-md4BUNvZT2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvp8pFFWDkPDQ_GJyPHFkWo9px3AWt2-gD52oW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBtv5paXkC39IlUgsYS9L28pedzPGe2akJbp6u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMP3i7j7X_fvq1cMNtrc3_5ubBq81xVeND8Z9mC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTKW3iGb86kfDWQjf51J9fVEgOEweLadMG0bU2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNHtUFQA0SrxyRT4ZW-1pQKWcgOVt9OnWbRrWeL=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ4z6gWPK7EmsRaRmJUqC5XuE",
+      "google_maps_url": "https://maps.google.com/?cid=16239621404575209833",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "65 Orchardleigh St, Yennora NSW 2161, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.86616910000001,
-            "lng": 150.9766493
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.8646170197085,
-              "lng": 150.9780316302915
-            },
-            "southwest": {
-              "lat": -33.8673149802915,
-              "lng": 150.9753336697085
-            }
-          }
-        },
-        "name": "yennora monastery",
-        "place_id": "ChIJwYbCr3S9EmsRxbiB49B8_sY",
-        "url": "https://maps.google.com/?cid=14339035500206209221",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "yennora monastery",
+      "location": {
+        "lat": -33.86616910000001,
+        "lng": 150.9766493
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "65 Orchardleigh St, Yennora NSW 2161, Australia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJwYbCr3S9EmsRxbiB49B8_sY",
+      "google_maps_url": "https://maps.google.com/?cid=14339035500206209221",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "180 Berkeley Rd, Berkeley NSW 2506, Australia",
-        "geometry": {
-          "location": {
-            "lat": -34.4663152,
-            "lng": 150.8484012
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -34.4646966197085,
-              "lng": 150.8501139802915
-            },
-            "southwest": {
-              "lat": -34.4673945802915,
-              "lng": 150.8474160197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 4272 0600",
-        "name": "Fo Guang Shan Nan Tien Temple",
-        "place_id": "ChIJA1fzMrgQE2sRxLYqRwEqz8w",
-        "url": "https://maps.google.com/?cid=14758060688893720260",
-        "website": "https://www.nantien.org.au/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN3CRK1xkptMHV93OGzAXeIybWSW2b0-INS5cId=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1TFE2AKCXobYmHYHgvKKbe-19I-wRr-8vCg0x=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1yjhEJUvVPYMuq6KNFJ8h6uJKHkM6lHhqIIgv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM14dMjNbsR8-CvdbeCefrlWLC-BU82LmYxasiN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOPrgXBMg6foDDgBLvLNARyvssgDqEsTTIH6xSK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1072g5inqERGWTLf9C_LkNYN37OBKxMbvdwMi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfdmofCpn19CU8y9FPZpXXNX6dNbEUzBsRtmV7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqfIBhm2_5L_swYQk9sZtU3cxmvystr66xBruw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDDP4KZ8b3Qy6IFr0NdzC1i3uFDeNRiz0BTkv-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPAzVeh7zUzpiNewtxyVk3zqCT7syq8P9BS5MJ=s1600-w800-h800"
-        ]
+      "name": "Fo Guang Shan Nan Tien Temple",
+      "location": {
+        "lat": -34.4663152,
+        "lng": 150.8484012
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "180 Berkeley Rd, Berkeley NSW 2506, Australia",
+      "phone": "+61 2 4272 0600",
+      "website": "https://www.nantien.org.au/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN3CRK1xkptMHV93OGzAXeIybWSW2b0-INS5cId=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1TFE2AKCXobYmHYHgvKKbe-19I-wRr-8vCg0x=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1yjhEJUvVPYMuq6KNFJ8h6uJKHkM6lHhqIIgv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM14dMjNbsR8-CvdbeCefrlWLC-BU82LmYxasiN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOPrgXBMg6foDDgBLvLNARyvssgDqEsTTIH6xSK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1072g5inqERGWTLf9C_LkNYN37OBKxMbvdwMi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfdmofCpn19CU8y9FPZpXXNX6dNbEUzBsRtmV7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqfIBhm2_5L_swYQk9sZtU3cxmvystr66xBruw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDDP4KZ8b3Qy6IFr0NdzC1i3uFDeNRiz0BTkv-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPAzVeh7zUzpiNewtxyVk3zqCT7syq8P9BS5MJ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA1fzMrgQE2sRxLYqRwEqz8w",
+      "google_maps_url": "https://maps.google.com/?cid=14758060688893720260",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "153 Gladstone St, Cabramatta NSW 2166, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.893061,
-            "lng": 150.9280096
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.89173851970849,
-              "lng": 150.9295892802915
-            },
-            "southwest": {
-              "lat": -33.89443648029149,
-              "lng": 150.9268913197085
-            }
-          }
-        },
-        "name": "Thien Hoa Buddhist Temple",
-        "place_id": "ChIJj0jLgYiXEmsRmiaZIG-9EoE",
-        "url": "https://maps.google.com/?cid=9300704465459422874",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNpFAYd3MYr0zNjJS3ab8ExJMPfY0JBS4U5WCAe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2xJER-RBD4hMOEnYcYTuQFbZ5HxTT6qhMdJM_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1cwe_JIk3zovVYuqTTI1hg_5M0XbLpT_x_XkA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhF0xyNLQ3yZx5gLpaZUIoiU1NnY3ktUDsmj61=s1600-w800-h737",
-          "https://lh3.googleusercontent.com/p/AF1QipO8MY7jJIXjj0a-orP1Mg_fJPTWocqt-ZXW_PXF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgnCCvOJvPMDZCteMcvoBslw-ertxbW6PdRztT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFe4mtbwLIgAuOAzHBc8u2GyvstZM6gdtTRR_6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM05esr5VUsJXXtwOCTX9V8nHWcFwjVlJLANFYU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3eQhDwy8KFBTSanNmVIxiPHwp1IiaDz3xEzZq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMf7T5H127TtNIyFuTw0PIH5vt5kIhupvbeyLs6=s1600-w800-h800"
-        ]
+      "name": "Thien Hoa Buddhist Temple",
+      "location": {
+        "lat": -33.893061,
+        "lng": 150.9280096
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "153 Gladstone St, Cabramatta NSW 2166, Australia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNpFAYd3MYr0zNjJS3ab8ExJMPfY0JBS4U5WCAe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2xJER-RBD4hMOEnYcYTuQFbZ5HxTT6qhMdJM_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1cwe_JIk3zovVYuqTTI1hg_5M0XbLpT_x_XkA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhF0xyNLQ3yZx5gLpaZUIoiU1NnY3ktUDsmj61=s1600-w800-h737",
+        "https://lh3.googleusercontent.com/p/AF1QipO8MY7jJIXjj0a-orP1Mg_fJPTWocqt-ZXW_PXF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgnCCvOJvPMDZCteMcvoBslw-ertxbW6PdRztT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFe4mtbwLIgAuOAzHBc8u2GyvstZM6gdtTRR_6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM05esr5VUsJXXtwOCTX9V8nHWcFwjVlJLANFYU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3eQhDwy8KFBTSanNmVIxiPHwp1IiaDz3xEzZq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMf7T5H127TtNIyFuTw0PIH5vt5kIhupvbeyLs6=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJj0jLgYiXEmsRmiaZIG-9EoE",
+      "google_maps_url": "https://maps.google.com/?cid=9300704465459422874",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Carlingford NSW 2118, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.7792513,
-            "lng": 151.0457793
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.7779755697085,
-              "lng": 151.0471406302915
-            },
-            "southwest": {
-              "lat": -33.7806735302915,
-              "lng": 151.0444426697085
-            }
-          }
-        },
-        "international_phone_number": "+61 449 514 785",
-        "name": "Amawatura Buddhist Centre Inc.",
-        "place_id": "ChIJaeTYSfOjEmsRZN3yRAwKYRE",
-        "url": "https://maps.google.com/?cid=1252293219198360932",
-        "website": "http://www.amawatura.org.au/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOhxa8m9A1h7FoT2X8moEEE1VwSzZ5gY15JUbId=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcD9_5OlM56cMsoc5VYzypFJO7uOe9CADrX4DT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN7oOB0siP4aJyrNVe_105u9hZURagin31BP78r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjwzP9g63vIrvmDxsS0nTJypMZ-IgbWyCBph0y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYRPo94kXhZNQOEB06JtmVUDWDgLK6ZNjADrhS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3EfO4zmtu5GRRgM0COxa6JZu3AvT-HHS5dtJV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSl-G-GulibVAShdcfN08Hcs7JE0DwBjmwe1Ld=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPl2OqfEbyIFccgdtOIi1YAe_w9d7-wN9m4ynhx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNfoLc1iOg3GM3UGVAO-GqPl0i7XI_TUijZwNgD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrqe6psHYpPU3AmwAAWaguqLJc8SLUQ8ru3vWi=s1600-w800-h800"
-        ]
+      "name": "Amawatura Buddhist Centre Inc.",
+      "location": {
+        "lat": -33.7792513,
+        "lng": 151.0457793
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "Carlingford NSW 2118, Australia",
+      "phone": "+61 449 514 785",
+      "website": "http://www.amawatura.org.au/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOhxa8m9A1h7FoT2X8moEEE1VwSzZ5gY15JUbId=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcD9_5OlM56cMsoc5VYzypFJO7uOe9CADrX4DT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN7oOB0siP4aJyrNVe_105u9hZURagin31BP78r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjwzP9g63vIrvmDxsS0nTJypMZ-IgbWyCBph0y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYRPo94kXhZNQOEB06JtmVUDWDgLK6ZNjADrhS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3EfO4zmtu5GRRgM0COxa6JZu3AvT-HHS5dtJV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSl-G-GulibVAShdcfN08Hcs7JE0DwBjmwe1Ld=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPl2OqfEbyIFccgdtOIi1YAe_w9d7-wN9m4ynhx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNfoLc1iOg3GM3UGVAO-GqPl0i7XI_TUijZwNgD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrqe6psHYpPU3AmwAAWaguqLJc8SLUQ8ru3vWi=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJaeTYSfOjEmsRZN3yRAwKYRE",
+      "google_maps_url": "https://maps.google.com/?cid=1252293219198360932",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "601 Warringah Rd, Frenchs Forest NSW 2086, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.7544764,
-            "lng": 151.2235233
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.75302231970851,
-              "lng": 151.2247704802915
-            },
-            "southwest": {
-              "lat": -33.75572028029151,
-              "lng": 151.2220725197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 9975 6515",
-        "name": "Guan Yin Buddhist Temple",
-        "place_id": "ChIJP6k13o2pEmsRCQcWLDeqgs8",
-        "url": "https://maps.google.com/?cid=14952700866763032329",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN_0HHp-mgc_bPM4PzAX7KxuEhN8jTAkYAZf8gr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnB2Q-b-qAmqKGlZynqxqdAIH4tpjl19FVu9aq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMst1URM78soPpryqwYh2WYXtmj1vP-QqhRbViv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPa7DDYl-04gN_nzZE1qnjnTpWbWZE3mZoim_rD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8lMLDWtslQDCLHsR_XMaTQdgcMFgxSmtmxxrs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLNZPRfQ0QWyAkenbrVHtXlG8fs9O_eKsGHAoJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUQTdlScdUXOdm0D59imVNMMd0pY8eOzjwh_pa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpuIlNDJvM8ccPVoeGsmskMBf1pMvTTwu4JMOi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkQs9jVfEEjlYua7J6g8MSX4tmNfwaPjvg3i7a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNLShAbmWpmjqCCs6Y5BVcaqG-4sMdKbTe2Kjo=s1600-w800-h800"
-        ]
+      "name": "Guan Yin Buddhist Temple",
+      "location": {
+        "lat": -33.7544764,
+        "lng": 151.2235233
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "601 Warringah Rd, Frenchs Forest NSW 2086, Australia",
+      "phone": "+61 2 9975 6515",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN_0HHp-mgc_bPM4PzAX7KxuEhN8jTAkYAZf8gr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnB2Q-b-qAmqKGlZynqxqdAIH4tpjl19FVu9aq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMst1URM78soPpryqwYh2WYXtmj1vP-QqhRbViv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPa7DDYl-04gN_nzZE1qnjnTpWbWZE3mZoim_rD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8lMLDWtslQDCLHsR_XMaTQdgcMFgxSmtmxxrs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLNZPRfQ0QWyAkenbrVHtXlG8fs9O_eKsGHAoJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUQTdlScdUXOdm0D59imVNMMd0pY8eOzjwh_pa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpuIlNDJvM8ccPVoeGsmskMBf1pMvTTwu4JMOi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkQs9jVfEEjlYua7J6g8MSX4tmNfwaPjvg3i7a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNLShAbmWpmjqCCs6Y5BVcaqG-4sMdKbTe2Kjo=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJP6k13o2pEmsRCQcWLDeqgs8",
+      "google_maps_url": "https://maps.google.com/?cid=14952700866763032329",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tarlington Parade, Bonnyrigg NSW 2177, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.8886478,
-            "lng": 150.8877497
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.8873022697085,
-              "lng": 150.8890649302915
-            },
-            "southwest": {
-              "lat": -33.8900002302915,
-              "lng": 150.8863669697085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 9823 6404",
-        "name": "Vat Khemarangsaram Cambodian Buddhist Temple",
-        "place_id": "ChIJwdctKp6WEmsRSA7xDg2FJPI",
-        "url": "https://maps.google.com/?cid=17448217147471892040",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNDiT-vMUIGHrZi1OeGbSH4R5tj16OtwCoVw1Vo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQLEcoy8CCGGqj1ScpwGC8BRd0eMM_7kBU1fmq=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNNajoI_K7THeI_NzOpPUxe75hiy3Qh7Ibnf7W7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHVst5fzGWNH94g1GIUvxZSLRW0bK10mg7f6RQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYwC-vWZ3B5XjM8mT7VuJeKvAdoRiPR-jJ6MTr=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOr8F9M7VmsVSzbILKwAKzqtP36HPnuiRHinG8g=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMek32F0asPaZ6AGw8JLVmXw-Zf-B-hos1RYm3_=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOTiSYaz3TOuSfXMvx7AwHw3wTgohCN1owZsDZ9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqfECRZICXMdzN9WOh1JoMGZv_xhawE21THe5h=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNE3jR7EdfXs4Z5szzSrOje0nX7e8X428ERkhDm=s1600-w800-h800"
-        ]
+      "name": "Vat Khemarangsaram Cambodian Buddhist Temple",
+      "location": {
+        "lat": -33.8886478,
+        "lng": 150.8877497
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "Tarlington Parade, Bonnyrigg NSW 2177, Australia",
+      "phone": "+61 2 9823 6404",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNDiT-vMUIGHrZi1OeGbSH4R5tj16OtwCoVw1Vo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQLEcoy8CCGGqj1ScpwGC8BRd0eMM_7kBU1fmq=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNNajoI_K7THeI_NzOpPUxe75hiy3Qh7Ibnf7W7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHVst5fzGWNH94g1GIUvxZSLRW0bK10mg7f6RQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYwC-vWZ3B5XjM8mT7VuJeKvAdoRiPR-jJ6MTr=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOr8F9M7VmsVSzbILKwAKzqtP36HPnuiRHinG8g=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMek32F0asPaZ6AGw8JLVmXw-Zf-B-hos1RYm3_=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOTiSYaz3TOuSfXMvx7AwHw3wTgohCN1owZsDZ9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqfECRZICXMdzN9WOh1JoMGZv_xhawE21THe5h=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNE3jR7EdfXs4Z5szzSrOje0nX7e8X428ERkhDm=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJwdctKp6WEmsRSA7xDg2FJPI",
+      "google_maps_url": "https://maps.google.com/?cid=17448217147471892040",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "22 Cowper St, Parramatta NSW 2150, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.8209476,
-            "lng": 151.0069104
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.8195986197085,
-              "lng": 151.0082593802915
-            },
-            "southwest": {
-              "lat": -33.8222965802915,
-              "lng": 151.0055614197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 9893 9390",
-        "name": "Fo Guang Shan Nan Tien Buddhist Temple Parramatta 佛光山南天講堂",
-        "place_id": "ChIJu9Du3SOjEmsR2BI7hjt5pQI",
-        "url": "https://maps.google.com/?cid=190691855795163864",
-        "website": "https://www.facebook.com/nantienparramatta/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNpxNLLe41Ti94PbCEfwb8cN7qQKWUYJ5R560uN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMaQyIjyu3BvlfrTwVn12tNfkK2-nFbINkQA4zA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqsC1NJDKqbtULbTOEJhUu6cYe-OI5TNGuS9I2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsxIQDB-v2nAuVvkwcGpqPtgpRc-dpBetE4NWK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNaVqrL5_6MQvf-shu_BtTkhsd5inMf8sHMqupU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKd1PtAHHmx5BsPps5KZQtZHqydHn2nImolcTo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMy2mnuPRpunWynMV48JpCxcauv-5XV-Ja1sVzW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNg3HoSVrpOHXjuzNJDvjxZSGedHPb1wv48bfwP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpLN4X2ZCTl6EA4_5iRXALb-fNN_TpS-VV4kV_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzPcRiE6bm4cbtUFvKltHf87OAB8c6G3R2RkY1=s1600-w800-h800"
-        ]
+      "name": "Fo Guang Shan Nan Tien Buddhist Temple Parramatta 佛光山南天講堂",
+      "location": {
+        "lat": -33.8209476,
+        "lng": 151.0069104
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "22 Cowper St, Parramatta NSW 2150, Australia",
+      "phone": "+61 2 9893 9390",
+      "website": "https://www.facebook.com/nantienparramatta/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNpxNLLe41Ti94PbCEfwb8cN7qQKWUYJ5R560uN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMaQyIjyu3BvlfrTwVn12tNfkK2-nFbINkQA4zA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqsC1NJDKqbtULbTOEJhUu6cYe-OI5TNGuS9I2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsxIQDB-v2nAuVvkwcGpqPtgpRc-dpBetE4NWK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNaVqrL5_6MQvf-shu_BtTkhsd5inMf8sHMqupU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKd1PtAHHmx5BsPps5KZQtZHqydHn2nImolcTo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMy2mnuPRpunWynMV48JpCxcauv-5XV-Ja1sVzW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNg3HoSVrpOHXjuzNJDvjxZSGedHPb1wv48bfwP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpLN4X2ZCTl6EA4_5iRXALb-fNN_TpS-VV4kV_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzPcRiE6bm4cbtUFvKltHf87OAB8c6G3R2RkY1=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJu9Du3SOjEmsR2BI7hjt5pQI",
+      "google_maps_url": "https://maps.google.com/?cid=190691855795163864",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "711-715 Smithfield Rd, Edensor Park NSW 2176, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.8853035,
-            "lng": 150.8852539
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.8839545197085,
-              "lng": 150.8866028802915
-            },
-            "southwest": {
-              "lat": -33.8866524802915,
-              "lng": 150.8839049197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 9823 7338",
-        "name": "Wat Phrayortkeo Dhammayanaram Lao Buddhist Temple",
-        "place_id": "ChIJ4RordJ-WEmsRD3qpcQBVJ3I",
-        "url": "https://maps.google.com/?cid=8225636704810793487",
-        "website": "http://www.watphrayortkeo.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOAyVWgHmRFa6wxbNMVh1y_PypeJe9O8xRH80Mu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9mYPf81TUVQuhkyiz4TDvUNj-1yCwdutaLavB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgPZUEFTRksfj3shYh0J_35MCbEhwr0ZXNx8KG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMI53d3ioNYZ2KKFubLUXE2BMAYcUu7Q76tRB1Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnBzHk8RPO1h_jLyFX3gaY5k6aMvIcAu5Ot1eY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5UbCuYrdOZOamnB-1b0sk4teG8rEifCMmIc6a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSIUqavAIZsN9jjPKg7qvQL0-6PcX3ZpSunT__=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgBCyNH6y_WtTuTvDYkHUy2jCNqZKoBVD_zXky=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCABqNDIIWoCLAXmjb3C9853wPwz08zAd4pxXY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnz-tZWaebIyFjNo3AeJzBG8GBJa9_UVUbOAHU=s1600-w800-h800"
-        ]
+      "name": "Wat Phrayortkeo Dhammayanaram Lao Buddhist Temple",
+      "location": {
+        "lat": -33.8853035,
+        "lng": 150.8852539
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "711-715 Smithfield Rd, Edensor Park NSW 2176, Australia",
+      "phone": "+61 2 9823 7338",
+      "website": "http://www.watphrayortkeo.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOAyVWgHmRFa6wxbNMVh1y_PypeJe9O8xRH80Mu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9mYPf81TUVQuhkyiz4TDvUNj-1yCwdutaLavB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgPZUEFTRksfj3shYh0J_35MCbEhwr0ZXNx8KG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMI53d3ioNYZ2KKFubLUXE2BMAYcUu7Q76tRB1Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnBzHk8RPO1h_jLyFX3gaY5k6aMvIcAu5Ot1eY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5UbCuYrdOZOamnB-1b0sk4teG8rEifCMmIc6a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSIUqavAIZsN9jjPKg7qvQL0-6PcX3ZpSunT__=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgBCyNH6y_WtTuTvDYkHUy2jCNqZKoBVD_zXky=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCABqNDIIWoCLAXmjb3C9853wPwz08zAd4pxXY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnz-tZWaebIyFjNo3AeJzBG8GBJa9_UVUbOAHU=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ4RordJ-WEmsRD3qpcQBVJ3I",
+      "google_maps_url": "https://maps.google.com/?cid=8225636704810793487",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "21 Vivian Cres, Berala NSW 2141, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.870637,
-            "lng": 151.034511
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.8693479697085,
-              "lng": 151.0359378302915
-            },
-            "southwest": {
-              "lat": -33.8720459302915,
-              "lng": 151.0332398697085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 9643 8633",
-        "name": "Lingyen Mountain Temple",
-        "place_id": "ChIJoVcXsZC8EmsR-XYIxW1Mplo",
-        "url": "https://maps.google.com/?cid=6531992343888295673",
-        "website": "https://www.facebook.com/%E6%BE%B3%E6%B4%B2%E9%9D%88%E5%9A%B4%E5%B1%B1%E5%AF%BA-Lingyen-Mountain-Temple-Australia-%E8%93%AE%E5%8F%8B%E4%BA%92%E5%8B%95%E6%B4%BB%E5%8B%95%E9%80%9A%E7%9F%A5%E4%BD%9B%E4%BA%8B%E9%80%9A%E5%95%9F%E9%9D%88%E5%B7%96%E6%A2%B5%E5%94%84%E8%93%AE%E5%BF%83%E8%93%AE%E8%AA%9E-218938784896981/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMyOMeTEnbWX0jb2nUbcROVdWOo7omnMrRw6gHO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKvEUbApFuQssH0NzcNLBOgAq998bZkIJNmej6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOPkvu6PlYpGmf6Y_oESL1WVy_aqxpOfFuTjWsN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOohdkKiWD1WnWQ9zSbrnnIGtcctrdDhMsIwurP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVHsm9aQRzdQ0473u2R6wwZ_I3J09YZDmfUO2q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9ieAq1DOGMWCpuQ4jtILu151LhBfBnJonCn3m=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOPxHzYhjq0-OE6JPrr9W4R9u0bNnETGYiQ1vvG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQgNa4bP21pVsIJBbT8QGtQNinKZrilJ9R_C8r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNN_iu9WJPl6FBzViDiU477i-7OG1932ibix20l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM6T7PXD7T-VUq0E90u8lG5dvg9PV0UOgxTnxiK=s1600-w800-h800"
-        ]
+      "name": "Lingyen Mountain Temple",
+      "location": {
+        "lat": -33.870637,
+        "lng": 151.034511
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "21 Vivian Cres, Berala NSW 2141, Australia",
+      "phone": "+61 2 9643 8633",
+      "website": "https://www.facebook.com/%E6%BE%B3%E6%B4%B2%E9%9D%88%E5%9A%B4%E5%B1%B1%E5%AF%BA-Lingyen-Mountain-Temple-Australia-%E8%93%AE%E5%8F%8B%E4%BA%92%E5%8B%95%E6%B4%BB%E5%8B%95%E9%80%9A%E7%9F%A5%E4%BD%9B%E4%BA%8B%E9%80%9A%E5%95%9F%E9%9D%88%E5%B7%96%E6%A2%B5%E5%94%84%E8%93%AE%E5%BF%83%E8%93%AE%E8%AA%9E-218938784896981/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMyOMeTEnbWX0jb2nUbcROVdWOo7omnMrRw6gHO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKvEUbApFuQssH0NzcNLBOgAq998bZkIJNmej6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOPkvu6PlYpGmf6Y_oESL1WVy_aqxpOfFuTjWsN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOohdkKiWD1WnWQ9zSbrnnIGtcctrdDhMsIwurP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVHsm9aQRzdQ0473u2R6wwZ_I3J09YZDmfUO2q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9ieAq1DOGMWCpuQ4jtILu151LhBfBnJonCn3m=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOPxHzYhjq0-OE6JPrr9W4R9u0bNnETGYiQ1vvG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQgNa4bP21pVsIJBbT8QGtQNinKZrilJ9R_C8r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNN_iu9WJPl6FBzViDiU477i-7OG1932ibix20l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM6T7PXD7T-VUq0E90u8lG5dvg9PV0UOgxTnxiK=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJoVcXsZC8EmsR-XYIxW1Mplo",
+      "google_maps_url": "https://maps.google.com/?cid=6531992343888295673",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "365 Victoria St, Wetherill Park NSW 2164, Australia",
-        "geometry": {
-          "location": {
-            "lat": -33.8472334,
-            "lng": 150.9055504
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -33.8459693697085,
-              "lng": 150.9068726802915
-            },
-            "southwest": {
-              "lat": -33.8486673302915,
-              "lng": 150.9041747197085
-            }
-          }
-        },
-        "international_phone_number": "+61 2 9725 2324",
-        "name": "Phuoc Hue Temple",
-        "place_id": "ChIJoXQ_MweXEmsRE4JHtj0nxXc",
-        "url": "https://maps.google.com/?cid=8630347406930051603",
-        "website": "http://www.phuochue.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMSgzPNVs0aJciTnz1UTG2gqioHZkqHVXMPM0gw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3LoR7butF8SZJmDL_r-UPWy0M-0m0sFIducar=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPK_C4DJZcfwe1Cp3SGmYgccMXgfNhS36LbAjH-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkrSblI3PCRmsAaqB5PvXFzMSLsjL50uOeL_yc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2GCedtR5zj0soJQRYCFECKH25vmA6GD1YAIKs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcVIDDJ_FEHIdjvJ2m6JaL8s45qmd9zUL0LvV6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-WqjrXKoGKRzj4HSvTssVojsN82fCXcZozF7g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN44umkV-MY6XXH6jhKKl_2QBiW6AyrqgbHuJo1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOFnsnJ-yz_xxOZq9gGWM7dUm2UUNVC2_2slAx4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMuFG8W2pntQDnvfFYXsBzbNQO3dZoRvWDiipvG=s1600-w800-h800"
-        ]
+      "name": "Phuoc Hue Temple",
+      "location": {
+        "lat": -33.8472334,
+        "lng": 150.9055504
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "365 Victoria St, Wetherill Park NSW 2164, Australia",
+      "phone": "+61 2 9725 2324",
+      "website": "http://www.phuochue.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMSgzPNVs0aJciTnz1UTG2gqioHZkqHVXMPM0gw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3LoR7butF8SZJmDL_r-UPWy0M-0m0sFIducar=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPK_C4DJZcfwe1Cp3SGmYgccMXgfNhS36LbAjH-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkrSblI3PCRmsAaqB5PvXFzMSLsjL50uOeL_yc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2GCedtR5zj0soJQRYCFECKH25vmA6GD1YAIKs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcVIDDJ_FEHIdjvJ2m6JaL8s45qmd9zUL0LvV6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-WqjrXKoGKRzj4HSvTssVojsN82fCXcZozF7g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN44umkV-MY6XXH6jhKKl_2QBiW6AyrqgbHuJo1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOFnsnJ-yz_xxOZq9gGWM7dUm2UUNVC2_2slAx4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMuFG8W2pntQDnvfFYXsBzbNQO3dZoRvWDiipvG=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJoXQ_MweXEmsRE4JHtj0nxXc",
+      "google_maps_url": "https://maps.google.com/?cid=8630347406930051603",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4840 FL-524, Cocoa, FL 32926, USA",
-        "geometry": {
-          "location": {
-            "lat": 28.37806539999999,
-            "lng": -80.8017228
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.37885258029149,
-              "lng": -80.79987596970851
-            },
-            "southwest": {
-              "lat": 28.37615461970849,
-              "lng": -80.80257393029152
-            }
-          }
-        },
-        "international_phone_number": "+1 321-505-3623",
-        "name": "Diệu Nhân Buddhist Monastery",
-        "place_id": "ChIJQ3KWG-ar4IgRijKC5zexUUY",
-        "url": "https://maps.google.com/?cid=5067025909433905802",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPRPUGDWNVPyhNmyInwHpTUz1vvp2TTNDlguzww=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3Tu9QmFKDkcTA-Gbo3wce8yJ4B8Xzhk19lb9t=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipN4z_2HvPNy7OnUHpxveBCO9PJeV4b8ieaLpzLt=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNGS2gQv7HUvnUOO25QpCAEHWsS4mbxrtzr7GFa=s1600-w800-h720"
-        ]
+      "name": "Diệu Nhân Buddhist Monastery",
+      "location": {
+        "lat": 28.37806539999999,
+        "lng": -80.8017228
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "4840 FL-524, Cocoa, FL 32926, USA",
+      "phone": "+1 321-505-3623",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPRPUGDWNVPyhNmyInwHpTUz1vvp2TTNDlguzww=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3Tu9QmFKDkcTA-Gbo3wce8yJ4B8Xzhk19lb9t=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipN4z_2HvPNy7OnUHpxveBCO9PJeV4b8ieaLpzLt=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNGS2gQv7HUvnUOO25QpCAEHWsS4mbxrtzr7GFa=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJQ3KWG-ar4IgRijKC5zexUUY",
+      "google_maps_url": "https://maps.google.com/?cid=5067025909433905802",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "11501 Albemarle Rd, Charlotte, NC 28227, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.2164817,
-            "lng": -80.6579874
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.21790523029151,
-              "lng": -80.6566394697085
-            },
-            "southwest": {
-              "lat": 35.21520726970851,
-              "lng": -80.6593374302915
-            }
-          }
-        },
-        "international_phone_number": "+1 980-498-5918",
-        "name": "Bach Van Buddhist Monastery",
-        "place_id": "ChIJQ5jY-q0ZVIgRR1hVtzOFbuw",
-        "url": "https://maps.google.com/?cid=17036700897554815047",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPdPQhWOjoRvW6l-YD3DArvh7VVhZ_9QZa1lcAM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOBD6WmqyJk8-wMMa0BTrYYF5nNQBe13Ttjh2_1=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFNDLgWzfDF6yvhharxC9pqboa2gT9tsXBvPxW=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipP8vTejPoAQFHpr_5TOIXt2dAp8v_50DHART4FK=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPx0xW2HKesG-YieIw_SP_zRSpTnyeZFfx6EdgS=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipNZkx3Z3rncUp_M5CEbob8NUvm8WOehUhmUNzwX=s1600-w768-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMfGBzIZRG3eZeo0JTGp7q1KzRPOgrN1n5VHDaU=s1600-w640-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSVo2gYZCU8fg2AgFS8bA5x2WxK8qE6VAAsNaO=s1600-w660-h371",
-          "https://lh3.googleusercontent.com/p/AF1QipMGUEsCSpXx-hoWifpVtBVtE9NAsoFWP-MRcjAU=s1600-w800-h718"
-        ]
+      "name": "Bach Van Buddhist Monastery",
+      "location": {
+        "lat": 35.2164817,
+        "lng": -80.6579874
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "11501 Albemarle Rd, Charlotte, NC 28227, USA",
+      "phone": "+1 980-498-5918",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPdPQhWOjoRvW6l-YD3DArvh7VVhZ_9QZa1lcAM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOBD6WmqyJk8-wMMa0BTrYYF5nNQBe13Ttjh2_1=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFNDLgWzfDF6yvhharxC9pqboa2gT9tsXBvPxW=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipP8vTejPoAQFHpr_5TOIXt2dAp8v_50DHART4FK=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPx0xW2HKesG-YieIw_SP_zRSpTnyeZFfx6EdgS=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipNZkx3Z3rncUp_M5CEbob8NUvm8WOehUhmUNzwX=s1600-w768-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMfGBzIZRG3eZeo0JTGp7q1KzRPOgrN1n5VHDaU=s1600-w640-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSVo2gYZCU8fg2AgFS8bA5x2WxK8qE6VAAsNaO=s1600-w660-h371",
+        "https://lh3.googleusercontent.com/p/AF1QipMGUEsCSpXx-hoWifpVtBVtE9NAsoFWP-MRcjAU=s1600-w800-h718"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJQ5jY-q0ZVIgRR1hVtzOFbuw",
+      "google_maps_url": "https://maps.google.com/?cid=17036700897554815047",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "22711 122 Ave NW, Edmonton, AB T5S 2C1, Canada",
-        "geometry": {
-          "location": {
-            "lat": 53.57612,
-            "lng": -113.706874
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 53.57751348029149,
-              "lng": -113.7055258697085
-            },
-            "southwest": {
-              "lat": 53.57481551970849,
-              "lng": -113.7082238302915
-            }
-          }
-        },
-        "international_phone_number": "+1 780-732-0991",
-        "name": "Buddha Meditation Centre - Mahamevnawa Buddhist Monastery Edmonton",
-        "place_id": "ChIJJZh4v_EjoFMRLfTVBtyRVOM",
-        "url": "https://maps.google.com/?cid=16380878118846854189",
-        "website": "https://www.buddhistedmonton.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPbz-dD3ElH74wtvPbpof-L9n_rDG87S8fRlXcM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpsJgyopx922_znRzk2QyakZHxJSAoQF-h8D3u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLp_WsVig3YAJ_HnVyR0gb3X9la2O515IzLR5N=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXjp4rSIY2C-Fhm91zc6O4Ir2AsjGLVuF2TX_M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqfQeog7zJk_drVgMCwxfoDmJYeQiX0iDTg4_f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTA4Vd1mywN109nmjaCPi-tqxal3TqNInFPFW1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOx3UAqRGQ3q-ZZ5fW0cm5pVL5NJyQngNj_1gbI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjvh5Gz3jFy2oKBRgMS9MD3ezeMCCgD8fw6JSO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMD0bUHv2NXOLSFN5eSaSKuCa4nQ9RBNXmEgOHp=s1600-w800-h800"
-        ]
+      "name": "Buddha Meditation Centre - Mahamevnawa Buddhist Monastery Edmonton",
+      "location": {
+        "lat": 53.57612,
+        "lng": -113.706874
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "22711 122 Ave NW, Edmonton, AB T5S 2C1, Canada",
+      "phone": "+1 780-732-0991",
+      "website": "https://www.buddhistedmonton.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPbz-dD3ElH74wtvPbpof-L9n_rDG87S8fRlXcM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpsJgyopx922_znRzk2QyakZHxJSAoQF-h8D3u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLp_WsVig3YAJ_HnVyR0gb3X9la2O515IzLR5N=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXjp4rSIY2C-Fhm91zc6O4Ir2AsjGLVuF2TX_M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqfQeog7zJk_drVgMCwxfoDmJYeQiX0iDTg4_f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTA4Vd1mywN109nmjaCPi-tqxal3TqNInFPFW1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOx3UAqRGQ3q-ZZ5fW0cm5pVL5NJyQngNj_1gbI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjvh5Gz3jFy2oKBRgMS9MD3ezeMCCgD8fw6JSO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMD0bUHv2NXOLSFN5eSaSKuCa4nQ9RBNXmEgOHp=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJJZh4v_EjoFMRLfTVBtyRVOM",
+      "google_maps_url": "https://maps.google.com/?cid=16380878118846854189",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "14322 S Grand Hwy, Clermont, FL 34711, USA",
-        "geometry": {
-          "location": {
-            "lat": 28.5549135,
-            "lng": -81.7390242
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.5562146802915,
-              "lng": -81.7378151697085
-            },
-            "southwest": {
-              "lat": 28.5535167197085,
-              "lng": -81.7405131302915
-            }
-          }
-        },
-        "name": "Pháp Lạc Buddhist Monastery",
-        "place_id": "ChIJ2yxJ0AqP54gRjuVPoSiRjc0",
-        "url": "https://maps.google.com/?cid=14811654353182516622",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO4s9OYvOWrxfhbY2at0tRuol3H3rHvK2gAmvBq=s1600-w800-h800"
-        ]
+      "name": "Pháp Lạc Buddhist Monastery",
+      "location": {
+        "lat": 28.5549135,
+        "lng": -81.7390242
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "14322 S Grand Hwy, Clermont, FL 34711, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO4s9OYvOWrxfhbY2at0tRuol3H3rHvK2gAmvBq=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ2yxJ0AqP54gRjuVPoSiRjc0",
+      "google_maps_url": "https://maps.google.com/?cid=14811654353182516622",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "21422 Spencer Ave, Queens Village, NY 11427, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.7278673,
-            "lng": -73.7509644
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.7292162802915,
-              "lng": -73.7496154197085
-            },
-            "southwest": {
-              "lat": 40.7265183197085,
-              "lng": -73.75231338029151
-            }
-          }
-        },
-        "international_phone_number": "+1 718-468-4262",
-        "name": "New York Buddhist Vihara",
-        "place_id": "ChIJEZcc34ZhwokROD3e5Fvsg7w",
-        "url": "https://maps.google.com/?cid=13583960780505496888",
-        "website": "http://nybv.us/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOsAy9T4u9ZB8dm_7nZe5-UVNVDrgLtH41XjVoi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFL9dinUz3M8aE5GQZu2nQlLtqwA4niow4Ul7F=s1600-w599-h596",
-          "https://lh3.googleusercontent.com/p/AF1QipN5xcl4EjKIoOoTW-pqhyXGEZbMg9xLpGqdCo0D=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwE1l03hSocGZhTDEF7GZ25-SQBlFBxFvQWbDM=s1600-w800-h680",
-          "https://lh3.googleusercontent.com/p/AF1QipMHQ88JQKITUF-3kGwfzbTnUI26FyC9TukHAxEi=s1600-w800-h680",
-          "https://lh3.googleusercontent.com/p/AF1QipP0nMAy_Pe2kL9A1NAcl0VJdhoOqj47G6wAYs7o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMP7fDeE78CZkOrHhnK16qRPWdDn5FDv3Hl9gAw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNW3NNJtrBJ2GMTjcPR1u8PA2Q8geNNM1TuEYhv=s1600-w599-h471",
-          "https://lh3.googleusercontent.com/p/AF1QipMF6jtVdThSpoXoeuHf-nwzPt8WN1PaSheoGrQq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrI_ZtFZIH1A3olNAR5qZ_U78E8htMdCA2OquC=s1600-w800-h800"
-        ]
+      "name": "New York Buddhist Vihara",
+      "location": {
+        "lat": 40.7278673,
+        "lng": -73.7509644
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "21422 Spencer Ave, Queens Village, NY 11427, USA",
+      "phone": "+1 718-468-4262",
+      "website": "http://nybv.us/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOsAy9T4u9ZB8dm_7nZe5-UVNVDrgLtH41XjVoi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFL9dinUz3M8aE5GQZu2nQlLtqwA4niow4Ul7F=s1600-w599-h596",
+        "https://lh3.googleusercontent.com/p/AF1QipN5xcl4EjKIoOoTW-pqhyXGEZbMg9xLpGqdCo0D=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwE1l03hSocGZhTDEF7GZ25-SQBlFBxFvQWbDM=s1600-w800-h680",
+        "https://lh3.googleusercontent.com/p/AF1QipMHQ88JQKITUF-3kGwfzbTnUI26FyC9TukHAxEi=s1600-w800-h680",
+        "https://lh3.googleusercontent.com/p/AF1QipP0nMAy_Pe2kL9A1NAcl0VJdhoOqj47G6wAYs7o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMP7fDeE78CZkOrHhnK16qRPWdDn5FDv3Hl9gAw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNW3NNJtrBJ2GMTjcPR1u8PA2Q8geNNM1TuEYhv=s1600-w599-h471",
+        "https://lh3.googleusercontent.com/p/AF1QipMF6jtVdThSpoXoeuHf-nwzPt8WN1PaSheoGrQq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrI_ZtFZIH1A3olNAR5qZ_U78E8htMdCA2OquC=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJEZcc34ZhwokROD3e5Fvsg7w",
+      "google_maps_url": "https://maps.google.com/?cid=13583960780505496888",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8 Lewis Rd, Chittering WA 6084, Australia",
-        "geometry": {
-          "location": {
-            "lat": -31.4776754,
-            "lng": 116.1069988
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -31.4764548197085,
-              "lng": 116.1086755802915
-            },
-            "southwest": {
-              "lat": -31.4791527802915,
-              "lng": 116.1059776197085
-            }
-          }
-        },
-        "name": "Buddha Mandala Monastery",
-        "place_id": "ChIJLe-W2Ak5zSsR5-mLHidjXio",
-        "url": "https://maps.google.com/?cid=3052986617071135207",
-        "website": "http://nalandasociety.com/index.php/en/2014-05-02-04-26-32/chronicle-of-the-big-buddha-of-buddha-mandala-monastery-chittering-western-australia",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNTZD8DZWisbGJ8pWmiMIRiGFh1Jtv6522wZtU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOG3lTyvtZ7ntKC8TAlHQPzFvXsR-By1jA5DiRS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGWD9meCPaqrSfscoABJ_QdgY6F8OK8NbS7HXp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZrl2XYAx6YUkNDSAhukAUIsGmuwi-E4GzXMcO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMaQjy3ZSeuWeroOr8Gv34hFczBhaCMP2q-fLwC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEBsk5N_-5wy-wJD7P5WPsgn3TgWD1EVo3W5eM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-AeGYY_JZCV_HJgGb7-QEwWEZXvZuSse1BK59=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoaM7sbsZSa7151yvhnMflzGVIzw6cFX8UzBXX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMoLyF2oKvlx2p543AGTyz_zS15yPpwDtNwv0l3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwROTwIAu4_RE2P_wx0uHwiQ_krJ6SsJflU9nu=s1600-w800-h800"
-        ]
+      "name": "Buddha Mandala Monastery",
+      "location": {
+        "lat": -31.4776754,
+        "lng": 116.1069988
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "8 Lewis Rd, Chittering WA 6084, Australia",
+      "website": "http://nalandasociety.com/index.php/en/2014-05-02-04-26-32/chronicle-of-the-big-buddha-of-buddha-mandala-monastery-chittering-western-australia",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNTZD8DZWisbGJ8pWmiMIRiGFh1Jtv6522wZtU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOG3lTyvtZ7ntKC8TAlHQPzFvXsR-By1jA5DiRS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGWD9meCPaqrSfscoABJ_QdgY6F8OK8NbS7HXp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZrl2XYAx6YUkNDSAhukAUIsGmuwi-E4GzXMcO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMaQjy3ZSeuWeroOr8Gv34hFczBhaCMP2q-fLwC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEBsk5N_-5wy-wJD7P5WPsgn3TgWD1EVo3W5eM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-AeGYY_JZCV_HJgGb7-QEwWEZXvZuSse1BK59=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoaM7sbsZSa7151yvhnMflzGVIzw6cFX8UzBXX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMoLyF2oKvlx2p543AGTyz_zS15yPpwDtNwv0l3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwROTwIAu4_RE2P_wx0uHwiQ_krJ6SsJflU9nu=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJLe-W2Ak5zSsR5-mLHidjXio",
+      "google_maps_url": "https://maps.google.com/?cid=3052986617071135207",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "25 Gosnells Rd E, Orange Grove WA 6109, Australia",
-        "geometry": {
-          "location": {
-            "lat": -32.052452,
-            "lng": 116.0164937
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -32.05137431970849,
-              "lng": 116.0181291302915
-            },
-            "southwest": {
-              "lat": -32.05407228029149,
-              "lng": 116.0154311697085
-            }
-          }
-        },
-        "name": "Mahamevnawa Youth Buddhist Monastery",
-        "place_id": "ChIJdxo-mcGVMioRmNcYnwIFlz4",
-        "url": "https://maps.google.com/?cid=4510079060652119960",
-        "website": "https://mahamevnawa.lk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN7yOvohNcOcggKALv3QgNpNpgHlCNqa4VQGEtY=s1600-w750-h562",
-          "https://lh3.googleusercontent.com/p/AF1QipPTX7OyTb7HY60epF9DRsmGgs12He9xXBP6CkFN=s1600-w750-h750",
-          "https://lh3.googleusercontent.com/p/AF1QipMpK2inhI7yvgiPdawj4hD_JMVlwB93TnOd7Ys0=s1600-w750-h562",
-          "https://lh3.googleusercontent.com/p/AF1QipM6-LuPqoOr8qYhToempIA2J2SuIBPRenozGB1D=s1600-w750-h750",
-          "https://lh3.googleusercontent.com/p/AF1QipM4aRlQrJZVY97VoXhDIUCGF5zVVBKFYkjETU1e=s1600-w750-h562",
-          "https://lh3.googleusercontent.com/p/AF1QipP04Ml6-dNGV0n2uKiNrsQwMKWCUaEvS5OetbTf=s1600-w750-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsewRvKuA9up6eT6qXQJcamP6HDxVvz3oL44P_=s1600-w750-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6h5Sip63_-MdwcVQvZe5JGd5OUUfh8cUXuV7o=s1600-w750-h750"
-        ]
+      "name": "Mahamevnawa Youth Buddhist Monastery",
+      "location": {
+        "lat": -32.052452,
+        "lng": 116.0164937
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "25 Gosnells Rd E, Orange Grove WA 6109, Australia",
+      "website": "https://mahamevnawa.lk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN7yOvohNcOcggKALv3QgNpNpgHlCNqa4VQGEtY=s1600-w750-h562",
+        "https://lh3.googleusercontent.com/p/AF1QipPTX7OyTb7HY60epF9DRsmGgs12He9xXBP6CkFN=s1600-w750-h750",
+        "https://lh3.googleusercontent.com/p/AF1QipMpK2inhI7yvgiPdawj4hD_JMVlwB93TnOd7Ys0=s1600-w750-h562",
+        "https://lh3.googleusercontent.com/p/AF1QipM6-LuPqoOr8qYhToempIA2J2SuIBPRenozGB1D=s1600-w750-h750",
+        "https://lh3.googleusercontent.com/p/AF1QipM4aRlQrJZVY97VoXhDIUCGF5zVVBKFYkjETU1e=s1600-w750-h562",
+        "https://lh3.googleusercontent.com/p/AF1QipP04Ml6-dNGV0n2uKiNrsQwMKWCUaEvS5OetbTf=s1600-w750-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsewRvKuA9up6eT6qXQJcamP6HDxVvz3oL44P_=s1600-w750-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6h5Sip63_-MdwcVQvZe5JGd5OUUfh8cUXuV7o=s1600-w750-h750"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJdxo-mcGVMioRmNcYnwIFlz4",
+      "google_maps_url": "https://maps.google.com/?cid=4510079060652119960",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "203 Reen Rd, Gidgegannup WA 6083, Australia",
-        "geometry": {
-          "location": {
-            "lat": -31.7886019,
-            "lng": 116.159162
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -31.7873458197085,
-              "lng": 116.1604289802915
-            },
-            "southwest": {
-              "lat": -31.7900437802915,
-              "lng": 116.1577310197085
-            }
-          }
-        },
-        "international_phone_number": "+61 8 9574 6583",
-        "name": "Dhammasara Nuns Monastery",
-        "place_id": "ChIJJY-YYsDOMioR3rxOSMCs2QY",
-        "url": "https://maps.google.com/?cid=493615576020597982",
-        "website": "https://bswa.org/location/dhammasara-monastery/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPhFeJFpl6-42A6QwrhdCyl7doBEorQAiU1dBmJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPweh2O-YGzbKthDiTc46Dn5fRSncl7PAE6xe-L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBFpK1MXngaEIdLA1D4YxvCLz6Ih4kml2lmipn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMj69GMFPRq-gn9SzhMIRhoKG6NOsa4sLuHloGt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1LRnA5b6l2cDBll73gachyvLo1Kis1_Rk65_B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeR4u22kkDzFhONPUWQ-DSd_18AlDt4DuYJMxI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpBKU22Mp79W8VmtSGs-6K4_VLvX1xg0rqm8xm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPIaHaT1lHM-xFvSEqzN5FY9cLXa_kKrk2h5cVQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFf-HNW5yuDjSIoat3pbQbl-RNAS4xwrH4LxKY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNML53r11AXEweSvbUhiN30NThD-NudrpV8KRvB=s1600-w800-h800"
-        ]
+      "name": "Dhammasara Nuns Monastery",
+      "location": {
+        "lat": -31.7886019,
+        "lng": 116.159162
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "203 Reen Rd, Gidgegannup WA 6083, Australia",
+      "phone": "+61 8 9574 6583",
+      "website": "https://bswa.org/location/dhammasara-monastery/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPhFeJFpl6-42A6QwrhdCyl7doBEorQAiU1dBmJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPweh2O-YGzbKthDiTc46Dn5fRSncl7PAE6xe-L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBFpK1MXngaEIdLA1D4YxvCLz6Ih4kml2lmipn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMj69GMFPRq-gn9SzhMIRhoKG6NOsa4sLuHloGt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1LRnA5b6l2cDBll73gachyvLo1Kis1_Rk65_B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeR4u22kkDzFhONPUWQ-DSd_18AlDt4DuYJMxI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpBKU22Mp79W8VmtSGs-6K4_VLvX1xg0rqm8xm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPIaHaT1lHM-xFvSEqzN5FY9cLXa_kKrk2h5cVQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFf-HNW5yuDjSIoat3pbQbl-RNAS4xwrH4LxKY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNML53r11AXEweSvbUhiN30NThD-NudrpV8KRvB=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJJY-YYsDOMioR3rxOSMCs2QY",
+      "google_maps_url": "https://maps.google.com/?cid=493615576020597982",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Gidgegannup WA 6083, Australia",
-        "geometry": {
-          "location": {
-            "lat": -31.7880817,
-            "lng": 116.159726
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -31.7871072197085,
-              "lng": 116.1607422802915
-            },
-            "southwest": {
-              "lat": -31.7898051802915,
-              "lng": 116.1580443197085
-            }
-          }
-        },
-        "international_phone_number": "+61 8 9574 6583",
-        "name": "Dhammasara Buddhist Temple",
-        "place_id": "ChIJ3-FICurOMioRlssefyLhpn4",
-        "url": "https://maps.google.com/?cid=9126229233190751126",
-        "website": "https://bswa.org/location/dhammasara-monastery/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMsqjoQj-Qo3ihERP51MbBeUnQ6b1voJGYczpCk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOV3AA29bk53I6ylrodGc-G1CbZJ5yzuqzlDTOQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwqs6TfmLZHIQ8I346V4LicoFcE_ti3mYXEUaq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKL2bYjn4HvkwzLxWYzeGqTXelI_jSssygVVbV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMt1jyocvP5LQatucr5dVR_a4323WQ8q5X3x686=s1600-w800-h800"
-        ]
+      "name": "Dhammasara Buddhist Temple",
+      "location": {
+        "lat": -31.7880817,
+        "lng": 116.159726
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "Gidgegannup WA 6083, Australia",
+      "phone": "+61 8 9574 6583",
+      "website": "https://bswa.org/location/dhammasara-monastery/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMsqjoQj-Qo3ihERP51MbBeUnQ6b1voJGYczpCk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOV3AA29bk53I6ylrodGc-G1CbZJ5yzuqzlDTOQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwqs6TfmLZHIQ8I346V4LicoFcE_ti3mYXEUaq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKL2bYjn4HvkwzLxWYzeGqTXelI_jSssygVVbV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMt1jyocvP5LQatucr5dVR_a4323WQ8q5X3x686=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ3-FICurOMioRlssefyLhpn4",
+      "google_maps_url": "https://maps.google.com/?cid=9126229233190751126",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "82 Broadhurst Rd, Martin WA 6110, Australia",
-        "geometry": {
-          "location": {
-            "lat": -32.0842157,
-            "lng": 116.0165406
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -32.0826444697085,
-              "lng": 116.0176042802915
-            },
-            "southwest": {
-              "lat": -32.0853424302915,
-              "lng": 116.0149063197085
-            }
-          }
-        },
-        "name": "Mahamevnawa Buddhist Monastery Perth",
-        "place_id": "ChIJo_pwOhCVMioRRDOl278tfcQ",
-        "url": "https://maps.google.com/?cid=14158523105569747780",
-        "website": "http://www.mahamevnawaperth.org.au/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mahamevnawa Buddhist Monastery Perth",
+      "location": {
+        "lat": -32.0842157,
+        "lng": 116.0165406
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "82 Broadhurst Rd, Martin WA 6110, Australia",
+      "website": "http://www.mahamevnawaperth.org.au/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJo_pwOhCVMioRRDOl278tfcQ",
+      "google_maps_url": "https://maps.google.com/?cid=14158523105569747780",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2023 Albany Hwy, Maddington WA 6109, Australia",
-        "geometry": {
-          "location": {
-            "lat": -32.0588565,
-            "lng": 115.9930177
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -32.0573373697085,
-              "lng": 115.9945322802915
-            },
-            "southwest": {
-              "lat": -32.0600353302915,
-              "lng": 115.9918343197085
-            }
-          }
-        },
-        "international_phone_number": "+61 8 9459 2517",
-        "name": "Kuan Yin Monastery Inc",
-        "place_id": "ChIJB5HO94GVMioRGhVG_aI1Jgw",
-        "url": "https://maps.google.com/?cid=875446151720342810",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNB_Vfl7jGvAKy-qpEEyRAm3i63FN1Q9vwTd_8s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMx8vY_OBRzIt48ee61XLdWMmXAaHCiNvaTQRHZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4z5SmzkMTpj_efbZTayP_1HOxzLLpXW9KIo1z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvbw_8TK-3WuTeGJo_2MMBXm2NazP42UObXt9i=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNucSQwqWkksQgepvEe0fw_BBQKeLrxVxu4fhlU=s1600-w800-h800"
-        ]
+      "name": "Kuan Yin Monastery Inc",
+      "location": {
+        "lat": -32.0588565,
+        "lng": 115.9930177
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "2023 Albany Hwy, Maddington WA 6109, Australia",
+      "phone": "+61 8 9459 2517",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNB_Vfl7jGvAKy-qpEEyRAm3i63FN1Q9vwTd_8s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMx8vY_OBRzIt48ee61XLdWMmXAaHCiNvaTQRHZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4z5SmzkMTpj_efbZTayP_1HOxzLLpXW9KIo1z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvbw_8TK-3WuTeGJo_2MMBXm2NazP42UObXt9i=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNucSQwqWkksQgepvEe0fw_BBQKeLrxVxu4fhlU=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJB5HO94GVMioRGhVG_aI1Jgw",
+      "google_maps_url": "https://maps.google.com/?cid=875446151720342810",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "173 Albert Rd, Middle Swan WA 6056, Australia",
-        "geometry": {
-          "location": {
-            "lat": -31.85123,
-            "lng": 116.02722
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -31.8498823197085,
-              "lng": 116.0298768
-            },
-            "southwest": {
-              "lat": -31.8525802802915,
-              "lng": 116.0263344
-            }
-          }
-        },
-        "international_phone_number": "+61 8 6460 5217",
-        "name": "Tisarana Vihara တိသရဏ ဝိဟာရ ဘုန်းတော်ကြီးကျောင်း",
-        "place_id": "ChIJIeV4SNO4MioRmajpZmQFWF0",
-        "url": "https://maps.google.com/?cid=6726131972259293337",
-        "website": "https://tisarana-vihara-perth.business.site/?utm_source=gmb&utm_medium=referral",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPu6fCD7YXCM1egoTL9rSfVnc51kcHmzX3i-O1z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPtzrk_BrELOo8gIlO-mI0Xas5L-OclIsFnJw_c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5HZakqUZgeebquHO0xtmwkM21nbujPV16T9s9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIGyhSKt0z2ZcQ4jwp5z-bf_MkTdypDsm-_Q8R=s1600-w720-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipNqvRw5G7EN7Ls8VURiuZaElrFonBvmbH9br0ka=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNokf6QoBAX0SaPmeNdrfWl1OQtUBGdJ03J3hsC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMn470N17b7Dn7B5pWmpoRR8fmlrzP-emKx46Km=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlsEyKld_EcjZ2qzwXBHsHOollNXTy5xmrSiiw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMi8Ns59t9jV3PVRLzDKiVJehOt3AJ9WREw1YeZ=s1600-w800-h800"
-        ]
+      "name": "Tisarana Vihara တိသရဏ ဝိဟာရ ဘုန်းတော်ကြီးကျောင်း",
+      "location": {
+        "lat": -31.85123,
+        "lng": 116.02722
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "173 Albert Rd, Middle Swan WA 6056, Australia",
+      "phone": "+61 8 6460 5217",
+      "website": "https://tisarana-vihara-perth.business.site/?utm_source=gmb&utm_medium=referral",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPu6fCD7YXCM1egoTL9rSfVnc51kcHmzX3i-O1z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPtzrk_BrELOo8gIlO-mI0Xas5L-OclIsFnJw_c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5HZakqUZgeebquHO0xtmwkM21nbujPV16T9s9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIGyhSKt0z2ZcQ4jwp5z-bf_MkTdypDsm-_Q8R=s1600-w720-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipNqvRw5G7EN7Ls8VURiuZaElrFonBvmbH9br0ka=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNokf6QoBAX0SaPmeNdrfWl1OQtUBGdJ03J3hsC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMn470N17b7Dn7B5pWmpoRR8fmlrzP-emKx46Km=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlsEyKld_EcjZ2qzwXBHsHOollNXTy5xmrSiiw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMi8Ns59t9jV3PVRLzDKiVJehOt3AJ9WREw1YeZ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJIeV4SNO4MioRmajpZmQFWF0",
+      "google_maps_url": "https://maps.google.com/?cid=6726131972259293337",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "20 Nanson Way, Nollamara WA 6061, Australia",
-        "geometry": {
-          "location": {
-            "lat": -31.887142,
-            "lng": 115.842407
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -31.8857372197085,
-              "lng": 115.8435957302915
-            },
-            "southwest": {
-              "lat": -31.8884351802915,
-              "lng": 115.8408977697085
-            }
-          }
-        },
-        "name": "Thai Temple Nollamara",
-        "place_id": "ChIJU8EO5dqvMioRu3ASV7eL5o4",
-        "url": "https://maps.google.com/?cid=10297071217585320123",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOzbETLXFhkb6QoUWx8OFmm3MCiU6t_3fzaTto6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPxitX-CcKPOK1TIBdNKzPMTT3Is0uyC4enGFC1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmEu8d372VvcBTLaQnVHqV4xf5bnnrDyEfAmU3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMrfBEtyjkXmSbWfg5vfrwPvwUr2qdiVvyQaNe3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPEyaXjC4nJzntGyktUpI5lEJ1S79FB6KSmhK-n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP11rysE_4BTbw3KJm6YEzhHPzsfcCfodIp7q4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJhfXsgD_lgV0W2JGkG2UPqHVLo0XQylaKWWmr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRU7v_W9Cr0uHqESnskdtE3Tv7zCnb_crwSt3X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWhJC-wnb1DPysyouBJkzYLg0-JQ4wQwYOMmMQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfpYEyY6BO_bmoIQqW9yu3_oGtfvEJqBqcjTg=s1600-w800-h800"
-        ]
+      "name": "Thai Temple Nollamara",
+      "location": {
+        "lat": -31.887142,
+        "lng": 115.842407
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:47:52.120Z"
-      }
+      "address": "20 Nanson Way, Nollamara WA 6061, Australia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOzbETLXFhkb6QoUWx8OFmm3MCiU6t_3fzaTto6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPxitX-CcKPOK1TIBdNKzPMTT3Is0uyC4enGFC1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmEu8d372VvcBTLaQnVHqV4xf5bnnrDyEfAmU3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMrfBEtyjkXmSbWfg5vfrwPvwUr2qdiVvyQaNe3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPEyaXjC4nJzntGyktUpI5lEJ1S79FB6KSmhK-n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP11rysE_4BTbw3KJm6YEzhHPzsfcCfodIp7q4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJhfXsgD_lgV0W2JGkG2UPqHVLo0XQylaKWWmr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRU7v_W9Cr0uHqESnskdtE3Tv7zCnb_crwSt3X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWhJC-wnb1DPysyouBJkzYLg0-JQ4wQwYOMmMQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfpYEyY6BO_bmoIQqW9yu3_oGtfvEJqBqcjTg=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJU8EO5dqvMioRu3ASV7eL5o4",
+      "google_maps_url": "https://maps.google.com/?cid=10297071217585320123",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

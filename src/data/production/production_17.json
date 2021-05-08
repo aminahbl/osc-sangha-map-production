@@ -1,2356 +1,1862 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "2208 Maydell Dr, Tampa, FL 33619, USA",
-        "geometry": {
-          "location": {
-            "lat": 27.9283162,
-            "lng": -82.3831459
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.9296683802915,
-              "lng": -82.38221705000001
-            },
-            "southwest": {
-              "lat": 27.9269704197085,
-              "lng": -82.38593244999997
-            }
-          }
-        },
-        "international_phone_number": "+1 813-621-1337",
-        "name": "Florida Buddhist Vihara",
-        "place_id": "ChIJOT5jm4vPwogRm51FpkzotNM",
-        "url": "https://maps.google.com/?cid=15255073253715451291",
-        "website": "http://www.floridabuddhistvihara.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNlqXdpIGOtLse2X3GrgvtocDg5v60PDevXmzsq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOPWouy6qT4COVOFflx-TBBuOhg1YUPIbxUD9R7=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNI9IXeNyk5vjZzc7BdzCj6bedF-OrtnUNmJ-hl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjmo1fEbGF0hIRzR0LVk5tvaaWBhcFGoMq6vQP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOb3C6rev0ah_JFuXJtX9BGFbR8I4ecR9oHwBxf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOm2YvfIYdkFmQW_kvVmBUwfhfHjGLe6OtUDYgN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOiN7uQtJ4-DmGgGMXqB-x6tEQQUOw0TdBNQUN_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4vl08OAyEVJASGc274iXh2snXXI0Uds80jntN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxYi5_x2SNXmG7NKRnes3y7A4JMlS_jC6A0m-N=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMlAGzACyjMODGO7_qbmwr0IND38U4iPn06o_UT=s1600-w800-h800"
-        ]
+      "name": "Florida Buddhist Vihara",
+      "location": {
+        "lat": 27.9283162,
+        "lng": -82.3831459
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "2208 Maydell Dr, Tampa, FL 33619, USA",
+      "phone": "+1 813-621-1337",
+      "website": "http://www.floridabuddhistvihara.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNlqXdpIGOtLse2X3GrgvtocDg5v60PDevXmzsq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOPWouy6qT4COVOFflx-TBBuOhg1YUPIbxUD9R7=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNI9IXeNyk5vjZzc7BdzCj6bedF-OrtnUNmJ-hl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjmo1fEbGF0hIRzR0LVk5tvaaWBhcFGoMq6vQP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOb3C6rev0ah_JFuXJtX9BGFbR8I4ecR9oHwBxf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOm2YvfIYdkFmQW_kvVmBUwfhfHjGLe6OtUDYgN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOiN7uQtJ4-DmGgGMXqB-x6tEQQUOw0TdBNQUN_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4vl08OAyEVJASGc274iXh2snXXI0Uds80jntN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxYi5_x2SNXmG7NKRnes3y7A4JMlS_jC6A0m-N=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMlAGzACyjMODGO7_qbmwr0IND38U4iPn06o_UT=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJOT5jm4vPwogRm51FpkzotNM",
+      "google_maps_url": "https://maps.google.com/?cid=15255073253715451291",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5306 Palm River Rd, Tampa, FL 33619, USA",
-        "geometry": {
-          "location": {
-            "lat": 27.94314619999999,
-            "lng": -82.3951532
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.9444483302915,
-              "lng": -82.39380346970849
-            },
-            "southwest": {
-              "lat": 27.9417503697085,
-              "lng": -82.3965014302915
-            }
-          }
-        },
-        "international_phone_number": "+1 813-621-1669",
-        "name": "Wat Mongkolratanaram",
-        "place_id": "ChIJ5SOp13vFwogRsgOOzTNFNws",
-        "url": "https://maps.google.com/?cid=808190746930578354",
-        "website": "https://wattampainenglish.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPicJeT7f-KFlB8QJ2YyLpBpryx7ZDaJcuwJl8X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNaLzzWu0Cf7Bzrn4Nu_xqkd5elTMrp8ssIxMnO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOiu8Y7mW8ccFG6kDKX87EBUsaf-YYT5OLIwsor=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2RfSzermNVJ0Gg_L7eYhurjOWx8rkNidJwE4t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXJ-AQgi-1BBVlLu3m-7COFu4vHy8MP_h7pyOT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdkWRGVaYMaMEg09R-jsRc2TnCd7aHNcMXiwZw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMDPU5By1ZswO7PxAZpnbroiaf55aSrLoBt6Bh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMteYdLRoLSKZ20vGFc824zFmgKei1Ps7AUqUeQ=s1600-w750-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPR2TCvJH8h__jyOzqBHv7HKaxraoGzvlTeUQpK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPlZCLSF1G0RG2RRuTBju3WVW5M-yNowKGbvZ1Y=s1600-w800-h800"
-        ]
+      "name": "Wat Mongkolratanaram",
+      "location": {
+        "lat": 27.94314619999999,
+        "lng": -82.3951532
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "5306 Palm River Rd, Tampa, FL 33619, USA",
+      "phone": "+1 813-621-1669",
+      "website": "https://wattampainenglish.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPicJeT7f-KFlB8QJ2YyLpBpryx7ZDaJcuwJl8X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNaLzzWu0Cf7Bzrn4Nu_xqkd5elTMrp8ssIxMnO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOiu8Y7mW8ccFG6kDKX87EBUsaf-YYT5OLIwsor=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2RfSzermNVJ0Gg_L7eYhurjOWx8rkNidJwE4t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXJ-AQgi-1BBVlLu3m-7COFu4vHy8MP_h7pyOT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdkWRGVaYMaMEg09R-jsRc2TnCd7aHNcMXiwZw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMDPU5By1ZswO7PxAZpnbroiaf55aSrLoBt6Bh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMteYdLRoLSKZ20vGFc824zFmgKei1Ps7AUqUeQ=s1600-w750-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPR2TCvJH8h__jyOzqBHv7HKaxraoGzvlTeUQpK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPlZCLSF1G0RG2RRuTBju3WVW5M-yNowKGbvZ1Y=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ5SOp13vFwogRsgOOzTNFNws",
+      "google_maps_url": "https://maps.google.com/?cid=808190746930578354",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "11727 N Ola Ave, Tampa, FL 33612, USA",
-        "geometry": {
-          "location": {
-            "lat": 28.0568484,
-            "lng": -82.4623922
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.0582004302915,
-              "lng": -82.46157811970849
-            },
-            "southwest": {
-              "lat": 28.0555024697085,
-              "lng": -82.4642760802915
-            }
-          }
-        },
-        "international_phone_number": "+1 813-961-5296",
-        "name": "Mahamevnawa Meditation Monastery Florida",
-        "place_id": "ChIJD0mSDoPHwogRD2e7EuSeAiQ",
-        "url": "https://maps.google.com/?cid=2594811037722830607",
-        "website": "http://sunshinemeditation.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mahamevnawa Meditation Monastery Florida",
+      "location": {
+        "lat": 28.0568484,
+        "lng": -82.4623922
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "11727 N Ola Ave, Tampa, FL 33612, USA",
+      "phone": "+1 813-961-5296",
+      "website": "http://sunshinemeditation.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJD0mSDoPHwogRD2e7EuSeAiQ",
+      "google_maps_url": "https://maps.google.com/?cid=2594811037722830607",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "520 Lewis St, Englewood, FL 34223, USA",
-        "geometry": {
-          "location": {
-            "lat": 26.971554,
-            "lng": -82.363248
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 26.9728134802915,
-              "lng": -82.36203401970849
-            },
-            "southwest": {
-              "lat": 26.9701155197085,
-              "lng": -82.36473198029151
-            }
-          }
-        },
-        "international_phone_number": "+1 941-914-7504",
-        "name": "Sarasota Forest Monastery (SFM)",
-        "place_id": "ChIJ08yiNNlXw4gRkNNpWWKhVFo",
-        "url": "https://maps.google.com/?cid=6509004805236183952",
-        "website": "https://www.sarasotaforestmonastery.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNjWVBcaWsaKpejQc-TEnm10YO_E46GlyQMpHYG=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipMFZ6zgmIaSYIxPOOm0hcgesSsj8aiMqlfKhmRr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODbLZiyZJTqCmafU8l5yH7I43tG1lT_-Qux8tX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6t0eH3Z5zKcrSaKQkRwCw_CRIf0IyXtDNkvCH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8e1SYv7xkKRM7DLGlFChIuYWXJVoFKOoR9_dA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOruOw4El4oqwId3M7aMwArABLxHtub34jmqVBW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMH2r3hlQX3jQQN-7Cto-FCn-AZEMeA7ATNAWQC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNj4IrTg-mCkyEBxHZQ6LOjzDmK8a_jUHYDusui=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcj3U0CCF5B4eWiAJJ0vI5L6f8A0Nzdr_Szak5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMK-bolwUrNUdTIojGEJchskRZUGDPxjw2GgVES=s1600-w800-h800"
-        ]
+      "name": "Sarasota Forest Monastery (SFM)",
+      "location": {
+        "lat": 26.971554,
+        "lng": -82.363248
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "520 Lewis St, Englewood, FL 34223, USA",
+      "phone": "+1 941-914-7504",
+      "website": "https://www.sarasotaforestmonastery.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNjWVBcaWsaKpejQc-TEnm10YO_E46GlyQMpHYG=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipMFZ6zgmIaSYIxPOOm0hcgesSsj8aiMqlfKhmRr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODbLZiyZJTqCmafU8l5yH7I43tG1lT_-Qux8tX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6t0eH3Z5zKcrSaKQkRwCw_CRIf0IyXtDNkvCH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8e1SYv7xkKRM7DLGlFChIuYWXJVoFKOoR9_dA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOruOw4El4oqwId3M7aMwArABLxHtub34jmqVBW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMH2r3hlQX3jQQN-7Cto-FCn-AZEMeA7ATNAWQC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNj4IrTg-mCkyEBxHZQ6LOjzDmK8a_jUHYDusui=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcj3U0CCF5B4eWiAJJ0vI5L6f8A0Nzdr_Szak5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMK-bolwUrNUdTIojGEJchskRZUGDPxjw2GgVES=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ08yiNNlXw4gRkNNpWWKhVFo",
+      "google_maps_url": "https://maps.google.com/?cid=6509004805236183952",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4300 43rd St, St. Petersburg, FL 33714, USA",
-        "geometry": {
-          "location": {
-            "lat": 27.811203,
-            "lng": -82.69214699999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.8125507302915,
-              "lng": -82.69064991970849
-            },
-            "southwest": {
-              "lat": 27.8098527697085,
-              "lng": -82.69334788029151
-            }
-          }
-        },
-        "international_phone_number": "+1 727-526-9527",
-        "name": "Watlao Mixayaram",
-        "place_id": "ChIJCW3J0XfjwogRTONjbDfisg4",
-        "url": "https://maps.google.com/?cid=1059157590055052108",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMCQACtInWC_Hj7OiHuMFAqlSUUlV6HwcVgUPLN=s1600-w800-h800"
-        ]
+      "name": "Watlao Mixayaram",
+      "location": {
+        "lat": 27.811203,
+        "lng": -82.69214699999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "4300 43rd St, St. Petersburg, FL 33714, USA",
+      "phone": "+1 727-526-9527",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMCQACtInWC_Hj7OiHuMFAqlSUUlV6HwcVgUPLN=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJCW3J0XfjwogRTONjbDfisg4",
+      "google_maps_url": "https://maps.google.com/?cid=1059157590055052108",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2421 Old Vineland Rd, Kissimmee, FL 34746, USA",
-        "geometry": {
-          "location": {
-            "lat": 28.316686,
-            "lng": -81.4632476
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.3180508802915,
-              "lng": -81.4619394697085
-            },
-            "southwest": {
-              "lat": 28.3153529197085,
-              "lng": -81.4646374302915
-            }
-          }
-        },
-        "international_phone_number": "+1 407-397-9552",
-        "name": "Wat Florida Dhammaram",
-        "place_id": "ChIJebeT9HyB3YgRsbtBZbdzIj8",
-        "url": "https://maps.google.com/?cid=4549325805112638385",
-        "website": "http://watflorida.com/Wat_Florida_Dhammaram/Welcome.html",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOZl9Av128KKP2y44naGl3pllsz_g2BVZwqu_cU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNc2w1jPDZbxaCQ9hfjradSkSoyAlIw8BZh-MZ1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoK7aaUGfLLhf-_ZbyEed5NAJY6ynp6dIzwVqq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1sTuuw5S_9XXMSsz568GFWA5PUygvXWtqZHzo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUs33f6DvNUJSdLcoCdwBeDMT8AbHJZNI-xXQ8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZXdUI8AkMm6zF30Bnv7KY_KhwZd6kkFrAEJEB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKEkocOyZ5Bg9IFXr_6M_J8RdXRhhbvaDNAOUG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNItQSV2MtzuXTm5S4QOkA6pJbGaT9web2bfleU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzrGle21d9UCn33keFIb-qgsG1yfhLnThbu9q3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmbnmk-49FVB6H7dYzKvTy_t5k1rukPZY8cF8a=s1600-w800-h800"
-        ]
+      "name": "Wat Florida Dhammaram",
+      "location": {
+        "lat": 28.316686,
+        "lng": -81.4632476
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "2421 Old Vineland Rd, Kissimmee, FL 34746, USA",
+      "phone": "+1 407-397-9552",
+      "website": "http://watflorida.com/Wat_Florida_Dhammaram/Welcome.html",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOZl9Av128KKP2y44naGl3pllsz_g2BVZwqu_cU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNc2w1jPDZbxaCQ9hfjradSkSoyAlIw8BZh-MZ1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoK7aaUGfLLhf-_ZbyEed5NAJY6ynp6dIzwVqq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1sTuuw5S_9XXMSsz568GFWA5PUygvXWtqZHzo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUs33f6DvNUJSdLcoCdwBeDMT8AbHJZNI-xXQ8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZXdUI8AkMm6zF30Bnv7KY_KhwZd6kkFrAEJEB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKEkocOyZ5Bg9IFXr_6M_J8RdXRhhbvaDNAOUG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNItQSV2MtzuXTm5S4QOkA6pJbGaT9web2bfleU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzrGle21d9UCn33keFIb-qgsG1yfhLnThbu9q3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmbnmk-49FVB6H7dYzKvTy_t5k1rukPZY8cF8a=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJebeT9HyB3YgRsbtBZbdzIj8",
+      "google_maps_url": "https://maps.google.com/?cid=4549325805112638385",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5306 Palm River Rd, Tampa, FL 33619, USA",
-        "geometry": {
-          "location": {
-            "lat": 27.9435216,
-            "lng": -82.3951994
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.9446357802915,
-              "lng": -82.39384671970849
-            },
-            "southwest": {
-              "lat": 27.9419378197085,
-              "lng": -82.3965446802915
-            }
-          }
-        },
-        "international_phone_number": "+1 813-621-1669",
-        "name": "WATTAMPA",
-        "place_id": "ChIJ1-R-XnnFwogRp-RlTMB1Oy0",
-        "url": "https://maps.google.com/?cid=3259328224108602535",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "WATTAMPA",
+      "location": {
+        "lat": 27.9435216,
+        "lng": -82.3951994
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "5306 Palm River Rd, Tampa, FL 33619, USA",
+      "phone": "+1 813-621-1669",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1-R-XnnFwogRp-RlTMB1Oy0",
+      "google_maps_url": "https://maps.google.com/?cid=3259328224108602535",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4101 S Lockwood Ridge Rd, Sarasota, FL 34231, USA",
-        "geometry": {
-          "location": {
-            "lat": 27.2943508,
-            "lng": -82.50545319999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.2956999802915,
-              "lng": -82.50431306970849
-            },
-            "southwest": {
-              "lat": 27.2930020197085,
-              "lng": -82.5070110302915
-            }
-          }
-        },
-        "international_phone_number": "+1 941-628-7117",
-        "name": "Tu Viện Hạnh Phúc - Happy Monastery",
-        "place_id": "ChIJcb8o8S1Bw4gR6BeozW99ap4",
-        "url": "https://maps.google.com/?cid=11415074124669130728",
-        "website": "https://tu-vien-hanh-phuc-happy-monastery.business.site/?utm_source=gmb&utm_medium=referral",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM9e6rQ5X4q0PNnVFwSitxot2p12_KRHlbZKOId=s1600-w564-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOj-mA0uEcfK2szc1NxrJc-w1APrM1QQP0p8TF7=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipNf1SOQQdFfgJEyFL9Lhrki0bvRZWvTGfHJfw5E=s1600-w800-h502",
-          "https://lh3.googleusercontent.com/p/AF1QipPKeyDGQsDr-we54HUpNcoH8osSZxvGjgesW7KM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdyT9aPLz5onzhphEMi04iH0pGeD_amxSi6wAW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNA53mw2nJzjpHiPAivD6teGVz_dbX6rITkxAJu=s1600-w653-h490",
-          "https://lh3.googleusercontent.com/p/AF1QipNnoJk0Lmf-aMCnFDC7KSh0qqSUq-39kJpWg0yR=s1600-w708-h733",
-          "https://lh3.googleusercontent.com/p/AF1QipP6b5oEIryfPTZB8udWYSXk2fZtWt56I0HEvGW5=s1600-w380-h383",
-          "https://lh3.googleusercontent.com/p/AF1QipM_bnGJcYGjUuWWmx5GK2Gc7xNf5WKOC_gc7ISd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYLjd6icEMgy9DufhiUfgdiSAyHDKXMcluUeYf=s1600-w687-h688"
-        ]
+      "name": "Tu Viện Hạnh Phúc - Happy Monastery",
+      "location": {
+        "lat": 27.2943508,
+        "lng": -82.50545319999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "4101 S Lockwood Ridge Rd, Sarasota, FL 34231, USA",
+      "phone": "+1 941-628-7117",
+      "website": "https://tu-vien-hanh-phuc-happy-monastery.business.site/?utm_source=gmb&utm_medium=referral",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM9e6rQ5X4q0PNnVFwSitxot2p12_KRHlbZKOId=s1600-w564-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOj-mA0uEcfK2szc1NxrJc-w1APrM1QQP0p8TF7=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipNf1SOQQdFfgJEyFL9Lhrki0bvRZWvTGfHJfw5E=s1600-w800-h502",
+        "https://lh3.googleusercontent.com/p/AF1QipPKeyDGQsDr-we54HUpNcoH8osSZxvGjgesW7KM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdyT9aPLz5onzhphEMi04iH0pGeD_amxSi6wAW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNA53mw2nJzjpHiPAivD6teGVz_dbX6rITkxAJu=s1600-w653-h490",
+        "https://lh3.googleusercontent.com/p/AF1QipNnoJk0Lmf-aMCnFDC7KSh0qqSUq-39kJpWg0yR=s1600-w708-h733",
+        "https://lh3.googleusercontent.com/p/AF1QipP6b5oEIryfPTZB8udWYSXk2fZtWt56I0HEvGW5=s1600-w380-h383",
+        "https://lh3.googleusercontent.com/p/AF1QipM_bnGJcYGjUuWWmx5GK2Gc7xNf5WKOC_gc7ISd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYLjd6icEMgy9DufhiUfgdiSAyHDKXMcluUeYf=s1600-w687-h688"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJcb8o8S1Bw4gR6BeozW99ap4",
+      "google_maps_url": "https://maps.google.com/?cid=11415074124669130728",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "9851 Veronica Blvd, North Fort Myers, FL 33917, USA",
-        "geometry": {
-          "location": {
-            "lat": 26.7417019,
-            "lng": -81.7970027
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 26.7425160302915,
-              "lng": -81.79565201970848
-            },
-            "southwest": {
-              "lat": 26.7398180697085,
-              "lng": -81.79834998029149
-            }
-          }
-        },
-        "international_phone_number": "+1 239-731-6944",
-        "name": "Wat Lao Dhammavanno Buddhist Temple",
-        "place_id": "ChIJM8KNZ6Fo24gRzq5QhGVc5xE",
-        "url": "https://maps.google.com/?cid=1290101409346268878",
-        "website": "http://dhammavanno.byethost7.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNm-5-rJwQxxNWb1rCI3CBQfT7f9tQefc_3VoQM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtEfvbeoeEWvBD7kpUMG5o6qISu7UzG3CfAHXn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDrQ4OQBvc7KKQRZLVO4Rji-2mJnREMUOgMseC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMopuzaN5iiXvYCmYsXOc8f9u9YyjElDEttN0h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCiIyx5_WAmH1lsm8kMBhNKklb0HQFQDKdNCcS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmMhvlAfyxFaPEeMwqsH292Hx52FXDcoJxu2ft=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNioyy6NDL3WSOwrBTNjgNqgPTSwGWBg25fHmES=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJOhO5NyDejKC78u-4fG9GYjfwOrmXENKulzAq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtiDnz3x5Gpt_2iZFGNZwGQbsZFUSfcq1f9yGr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOksDjL5KgfVIyHhCOhbBF0g9X1mqoBgKDOK20A=s1600-w800-h800"
-        ]
+      "name": "Wat Lao Dhammavanno Buddhist Temple",
+      "location": {
+        "lat": 26.7417019,
+        "lng": -81.7970027
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "9851 Veronica Blvd, North Fort Myers, FL 33917, USA",
+      "phone": "+1 239-731-6944",
+      "website": "http://dhammavanno.byethost7.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNm-5-rJwQxxNWb1rCI3CBQfT7f9tQefc_3VoQM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtEfvbeoeEWvBD7kpUMG5o6qISu7UzG3CfAHXn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDrQ4OQBvc7KKQRZLVO4Rji-2mJnREMUOgMseC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMopuzaN5iiXvYCmYsXOc8f9u9YyjElDEttN0h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCiIyx5_WAmH1lsm8kMBhNKklb0HQFQDKdNCcS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmMhvlAfyxFaPEeMwqsH292Hx52FXDcoJxu2ft=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNioyy6NDL3WSOwrBTNjgNqgPTSwGWBg25fHmES=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJOhO5NyDejKC78u-4fG9GYjfwOrmXENKulzAq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtiDnz3x5Gpt_2iZFGNZwGQbsZFUSfcq1f9yGr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOksDjL5KgfVIyHhCOhbBF0g9X1mqoBgKDOK20A=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJM8KNZ6Fo24gRzq5QhGVc5xE",
+      "google_maps_url": "https://maps.google.com/?cid=1290101409346268878",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3909 N Monroe St, Tallahassee, FL 32303, USA",
-        "geometry": {
-          "location": {
-            "lat": 30.5063827,
-            "lng": -84.33202759999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.5076247802915,
-              "lng": -84.3307884197085
-            },
-            "southwest": {
-              "lat": 30.5049268197085,
-              "lng": -84.3334863802915
-            }
-          }
-        },
-        "international_phone_number": "+1 850-597-2233",
-        "name": "Vien Giac Buddhist Monastery",
-        "place_id": "ChIJGSwCTpj27IgRIwxtLDAHbPg",
-        "url": "https://maps.google.com/?cid=17900690522376047651",
-        "website": "https://www.facebook.com/profile.php?id=100007447810090",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPjI0B2_-lOgTjB22IIthE5Mk_YE_vLJ5T6wUI=s1600-w705-h428",
-          "https://lh3.googleusercontent.com/p/AF1QipP-q1mJ8pjhpj_rSyoDqJRheSdhcxR7x1IET7Y=s1600-w640-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipMlOL4WA0F6z0-N3_9wbxTpoEZzI7jNX1ocXDA=s1600-w480-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipNpPEyZmjOiLTk9nCdOcPX7EEdzBzSCueRz5A8=s1600-w480-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipPsl3m4FUYifdv-bfcddwM4VeKVAaDMKqCfOhM=s1600-w480-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipP0sJoc__CXkIHotfs9abrYtfrpenMeQhoXR0Q=s1600-w480-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipP840oOuZeQ9o7d61m8LkQbxRoGoo8YCOXxWvM=s1600-w640-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipNWYKy0CwSyTb_uElBt-MTGK7IlxfZdxx7J3mo=s1600-w480-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOPxiHrKrvWywNluBLmPLIRRZ6rPnjRvmtLVdM8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM35qYEJxruQemrh893sTuYXfl0U6mFYz6xU2iZ=s1600-w800-h800"
-        ]
+      "name": "Vien Giac Buddhist Monastery",
+      "location": {
+        "lat": 30.5063827,
+        "lng": -84.33202759999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "3909 N Monroe St, Tallahassee, FL 32303, USA",
+      "phone": "+1 850-597-2233",
+      "website": "https://www.facebook.com/profile.php?id=100007447810090",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPjI0B2_-lOgTjB22IIthE5Mk_YE_vLJ5T6wUI=s1600-w705-h428",
+        "https://lh3.googleusercontent.com/p/AF1QipP-q1mJ8pjhpj_rSyoDqJRheSdhcxR7x1IET7Y=s1600-w640-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipMlOL4WA0F6z0-N3_9wbxTpoEZzI7jNX1ocXDA=s1600-w480-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipNpPEyZmjOiLTk9nCdOcPX7EEdzBzSCueRz5A8=s1600-w480-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipPsl3m4FUYifdv-bfcddwM4VeKVAaDMKqCfOhM=s1600-w480-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipP0sJoc__CXkIHotfs9abrYtfrpenMeQhoXR0Q=s1600-w480-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipP840oOuZeQ9o7d61m8LkQbxRoGoo8YCOXxWvM=s1600-w640-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipNWYKy0CwSyTb_uElBt-MTGK7IlxfZdxx7J3mo=s1600-w480-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOPxiHrKrvWywNluBLmPLIRRZ6rPnjRvmtLVdM8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM35qYEJxruQemrh893sTuYXfl0U6mFYz6xU2iZ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGSwCTpj27IgRIwxtLDAHbPg",
+      "google_maps_url": "https://maps.google.com/?cid=17900690522376047651",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "6555 Hoffner Ave, Orlando, FL 32822, USA",
-        "geometry": {
-          "location": {
-            "lat": 28.4814981,
-            "lng": -81.29506669999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.4827029802915,
-              "lng": -81.29372666970849
-            },
-            "southwest": {
-              "lat": 28.4800050197085,
-              "lng": -81.2964246302915
-            }
-          }
-        },
-        "international_phone_number": "+1 407-281-8482",
-        "name": "Guang Ming Temple 佛光山光明寺",
-        "place_id": "ChIJa9vdGoJj54gRwIMky9SDQoc",
-        "url": "https://maps.google.com/?cid=9746497493547647936",
-        "website": "http://www.orlandobuddhism.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMwMUlwkp4AY9xHUCP4C6vyw8YeP6aob5VmP_i6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKWMkky4gOAXWKdr3BCw6zDrMY3Si0PsAklNC0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcdYRtt1tQjO4Fk-tLycxTj_ovkCf69ysCY1no=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSimxBfOBp9k_1CspwQ__iIdCSlvcaCffrQxcg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNn0IT7kV-xHKvHluf1eL5qKPII6HnXo_jHyQB1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMf0QYbD7IxtI586cLawRtFlQH82FE3YM4lVyHz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVs1nOOV_f8RbO-8t9vTvVWmnCgnqQOyYNoBgd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1c3bzn38XZATh4cC-JDVQsI_3l5Pzs4vYS93K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSmttFyi66um0zvPMhKpv7l9yGCthhLIPHbcnz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPp-BnnHL_m2s86g4dQKcrc9vO5GTr60iKF-e5W=s1600-w500-h373"
-        ]
+      "name": "Guang Ming Temple 佛光山光明寺",
+      "location": {
+        "lat": 28.4814981,
+        "lng": -81.29506669999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "6555 Hoffner Ave, Orlando, FL 32822, USA",
+      "phone": "+1 407-281-8482",
+      "website": "http://www.orlandobuddhism.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMwMUlwkp4AY9xHUCP4C6vyw8YeP6aob5VmP_i6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKWMkky4gOAXWKdr3BCw6zDrMY3Si0PsAklNC0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcdYRtt1tQjO4Fk-tLycxTj_ovkCf69ysCY1no=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSimxBfOBp9k_1CspwQ__iIdCSlvcaCffrQxcg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNn0IT7kV-xHKvHluf1eL5qKPII6HnXo_jHyQB1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMf0QYbD7IxtI586cLawRtFlQH82FE3YM4lVyHz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVs1nOOV_f8RbO-8t9vTvVWmnCgnqQOyYNoBgd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1c3bzn38XZATh4cC-JDVQsI_3l5Pzs4vYS93K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSmttFyi66um0zvPMhKpv7l9yGCthhLIPHbcnz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPp-BnnHL_m2s86g4dQKcrc9vO5GTr60iKF-e5W=s1600-w500-h373"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJa9vdGoJj54gRwIMky9SDQoc",
+      "google_maps_url": "https://maps.google.com/?cid=9746497493547647936",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2476 Nursery Rd, Clearwater, FL 33764, USA",
-        "geometry": {
-          "location": {
-            "lat": 27.9431042,
-            "lng": -82.73559209999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.9441859802915,
-              "lng": -82.7341757697085
-            },
-            "southwest": {
-              "lat": 27.9414880197085,
-              "lng": -82.7368737302915
-            }
-          }
-        },
-        "international_phone_number": "+1 727-537-0869",
-        "name": "Clear Water Zen Center",
-        "place_id": "ChIJYe0pxB_wwogRRPg3MYvvWSk",
-        "url": "https://maps.google.com/?cid=2979676009587537988",
-        "website": "https://www.clearwaterzencenter.org/default.html",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPqJ1Gr5xhEd_4Ku-jN2vmfkRj31z57vEZgPBm-=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipNbfnZ4mYCrSumg2Vq2C0VIgNQGlXp0LF-pRRU-=s1600-w800-h280",
-          "https://lh3.googleusercontent.com/p/AF1QipOpgqZDAl0SpLbSN9DuR2BdZovhDOUUDiuYoXHv=s1600-w800-h800"
-        ]
+      "name": "Clear Water Zen Center",
+      "location": {
+        "lat": 27.9431042,
+        "lng": -82.73559209999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "2476 Nursery Rd, Clearwater, FL 33764, USA",
+      "phone": "+1 727-537-0869",
+      "website": "https://www.clearwaterzencenter.org/default.html",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPqJ1Gr5xhEd_4Ku-jN2vmfkRj31z57vEZgPBm-=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipNbfnZ4mYCrSumg2Vq2C0VIgNQGlXp0LF-pRRU-=s1600-w800-h280",
+        "https://lh3.googleusercontent.com/p/AF1QipOpgqZDAl0SpLbSN9DuR2BdZovhDOUUDiuYoXHv=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJYe0pxB_wwogRRPg3MYvvWSk",
+      "google_maps_url": "https://maps.google.com/?cid=2979676009587537988",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2381 Narcissus Ave, Sanford, FL 32771, USA",
-        "geometry": {
-          "location": {
-            "lat": 28.8149566,
-            "lng": -81.2916717
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.8166893302915,
-              "lng": -81.29032916970849
-            },
-            "southwest": {
-              "lat": 28.8139913697085,
-              "lng": -81.2930271302915
-            }
-          }
-        },
-        "international_phone_number": "+1 407-322-3652",
-        "name": "Wat Navaram Buddhist Temple",
-        "place_id": "ChIJTQDVs6sT54gRxlSYejn6StU",
-        "url": "https://maps.google.com/?cid=15369371803132122310",
-        "website": "http://wat-temple-sanford.jany.io/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOWx87vVbmnudryDkzi4PiV9O-iWlCJZYoZWs6B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP70uelqibC-jLVs1bR7Krx9OOExIp5OLa79s8C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPellK3ei8wWtnt5piK-WbML1bXiLTrq8npf_dB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNVu9n65vi9fE16Q8lRBG0hQF9D43DGmN0amW5b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOz1v4jmId-0fEFnGfH5PYoJMFASic6Mlg4WruP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLClK_Y5A9hbaxLzLIt_FNLWDQKX8IteF8An8J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPoVuNDDp58KhQhgr3nUyL8hdNl2I35iF9SyTd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1CFsexY-CzCtMRO_eDhiLl72KFozPbl8HCSBR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSmP-H_TEFyIx3rCYv7jLmSyEXc3ljm2KuRG2G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMv8kRCXiUPIfzDpltJiR29VtdtKUZVDBjFFaai=s1600-w800-h800"
-        ]
+      "name": "Wat Navaram Buddhist Temple",
+      "location": {
+        "lat": 28.8149566,
+        "lng": -81.2916717
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "2381 Narcissus Ave, Sanford, FL 32771, USA",
+      "phone": "+1 407-322-3652",
+      "website": "http://wat-temple-sanford.jany.io/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOWx87vVbmnudryDkzi4PiV9O-iWlCJZYoZWs6B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP70uelqibC-jLVs1bR7Krx9OOExIp5OLa79s8C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPellK3ei8wWtnt5piK-WbML1bXiLTrq8npf_dB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNVu9n65vi9fE16Q8lRBG0hQF9D43DGmN0amW5b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOz1v4jmId-0fEFnGfH5PYoJMFASic6Mlg4WruP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLClK_Y5A9hbaxLzLIt_FNLWDQKX8IteF8An8J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPoVuNDDp58KhQhgr3nUyL8hdNl2I35iF9SyTd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1CFsexY-CzCtMRO_eDhiLl72KFozPbl8HCSBR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSmP-H_TEFyIx3rCYv7jLmSyEXc3ljm2KuRG2G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMv8kRCXiUPIfzDpltJiR29VtdtKUZVDBjFFaai=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTQDVs6sT54gRxlSYejn6StU",
+      "google_maps_url": "https://maps.google.com/?cid=15369371803132122310",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "13301 US-441, Okeechobee, FL 34974, USA",
-        "geometry": {
-          "location": {
-            "lat": 27.1385203,
-            "lng": -80.6868951
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.1393749802915,
-              "lng": -80.68587425000001
-            },
-            "southwest": {
-              "lat": 27.1366770197085,
-              "lng": -80.68995764999998
-            }
-          }
-        },
-        "international_phone_number": "+1 727-353-2373",
-        "name": "Nitadsasanakhun Buddhist Temple Of Florida",
-        "place_id": "ChIJU8hFE3qk3ogROXayeLiZIQo",
-        "url": "https://maps.google.com/?cid=730033632188724793",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMT2YALAr2CaYslZTfId6rt5XM4-Dsn7wsCSJpS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzbel6isbApVm7Bgfx1a3pjf9QtXn4ah7ujc9E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMuJc8e1P59k_UxGF06_HKNIciU3k2w1b3IAhJR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDSp4opOKqj0GlEcQ-2uAPdunPcu1FtDp1OVza=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6tE1t8EcyMMrIAQceBQD72R76ZnSrjOY0y486=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMMYXpH4ybVb4pmVpa2lMMHaok-qsImjbo3tHGX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBiWbHy-NhC4kGsgBTBp11uJ_lxFz7UkTTobUv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNzgTg_tpZSe4tONV5pvhGSHhS1BBBSA3eDdGx7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6uoPvD2Cgv_pOEQzLRtnLXNiTK3SQieQ5cukG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOBia18iH09W2yNePfdLDj_8JuruCoWzw2S1oA=s1600-w800-h800"
-        ]
+      "name": "Nitadsasanakhun Buddhist Temple Of Florida",
+      "location": {
+        "lat": 27.1385203,
+        "lng": -80.6868951
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "13301 US-441, Okeechobee, FL 34974, USA",
+      "phone": "+1 727-353-2373",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMT2YALAr2CaYslZTfId6rt5XM4-Dsn7wsCSJpS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzbel6isbApVm7Bgfx1a3pjf9QtXn4ah7ujc9E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMuJc8e1P59k_UxGF06_HKNIciU3k2w1b3IAhJR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDSp4opOKqj0GlEcQ-2uAPdunPcu1FtDp1OVza=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6tE1t8EcyMMrIAQceBQD72R76ZnSrjOY0y486=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMMYXpH4ybVb4pmVpa2lMMHaok-qsImjbo3tHGX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBiWbHy-NhC4kGsgBTBp11uJ_lxFz7UkTTobUv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNzgTg_tpZSe4tONV5pvhGSHhS1BBBSA3eDdGx7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6uoPvD2Cgv_pOEQzLRtnLXNiTK3SQieQ5cukG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOBia18iH09W2yNePfdLDj_8JuruCoWzw2S1oA=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJU8hFE3qk3ogROXayeLiZIQo",
+      "google_maps_url": "https://maps.google.com/?cid=730033632188724793",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "15200 SW 240th St, Homestead, FL 33032, USA",
-        "geometry": {
-          "location": {
-            "lat": 25.5431832,
-            "lng": -80.437857
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.5445345802915,
-              "lng": -80.43636031970848
-            },
-            "southwest": {
-              "lat": 25.54183661970849,
-              "lng": -80.43905828029149
-            }
-          }
-        },
-        "international_phone_number": "+1 305-245-2702",
-        "name": "Wat Buddharangsi Buddhist Temple",
-        "place_id": "ChIJYTi0cLTC2YgRe4PpurmXWQM",
-        "url": "https://maps.google.com/?cid=241390879001641851",
-        "website": "https://thaitemplemiami.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO2cORQ7WTufhFTjd4tqOKSPHfHuAuPdmzzXSfh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlk9SJwaOqPfZsRNJ9SmoQwl07rT0obKJU7bfi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNnNK79sC7NXd13_BimF9oh3bPzM4MNk4mv0rhO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP-rxDjypsktKmwL3RDf2nefRVjWTEtO0RCw06z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZVM-EUhPbo-Zel-JUHAEOWgwD4NLdgFe_-d1S=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQfSnCVDxHHCY-QymGWv29XKiu2NrS2IKF7KwH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2ND0gUvN-ZZQKYXbH8okVDXFuRltQkzBbm0px=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzdwclTRzzhG1Wq-Ey4xY24r6WEimczwQllFZt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdiyVsCjAH3QW71AckE9IrGxNAxeqYy2C83tL0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNX9yVFS9bhZMics7cutTihpyS3HCSjA3FxkpL0=s1600-w800-h800"
-        ]
+      "name": "Wat Buddharangsi Buddhist Temple",
+      "location": {
+        "lat": 25.5431832,
+        "lng": -80.437857
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "15200 SW 240th St, Homestead, FL 33032, USA",
+      "phone": "+1 305-245-2702",
+      "website": "https://thaitemplemiami.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO2cORQ7WTufhFTjd4tqOKSPHfHuAuPdmzzXSfh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlk9SJwaOqPfZsRNJ9SmoQwl07rT0obKJU7bfi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNnNK79sC7NXd13_BimF9oh3bPzM4MNk4mv0rhO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP-rxDjypsktKmwL3RDf2nefRVjWTEtO0RCw06z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZVM-EUhPbo-Zel-JUHAEOWgwD4NLdgFe_-d1S=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQfSnCVDxHHCY-QymGWv29XKiu2NrS2IKF7KwH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2ND0gUvN-ZZQKYXbH8okVDXFuRltQkzBbm0px=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzdwclTRzzhG1Wq-Ey4xY24r6WEimczwQllFZt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdiyVsCjAH3QW71AckE9IrGxNAxeqYy2C83tL0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNX9yVFS9bhZMics7cutTihpyS3HCSjA3FxkpL0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJYTi0cLTC2YgRe4PpurmXWQM",
+      "google_maps_url": "https://maps.google.com/?cid=241390879001641851",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "212 Swain Blvd, Greenacres, FL 33463, USA",
-        "geometry": {
-          "location": {
-            "lat": 26.6217769,
-            "lng": -80.1248961
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 26.6231163802915,
-              "lng": -80.1234502197085
-            },
-            "southwest": {
-              "lat": 26.6204184197085,
-              "lng": -80.12614818029151
-            }
-          }
-        },
-        "international_phone_number": "+1 561-290-4567",
-        "name": "Chua Loc Uyen Vietnamese Buddhist Temple",
-        "place_id": "ChIJGRCZP8En2YgRP_wHuqybKh4",
-        "url": "https://maps.google.com/?cid=2173720936317451327",
-        "website": "http://www.chualocuyen.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM9sPNkhSLZDGEFy2th3ujv0EDYg_xy6pLWSaZ6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9CWICdnERVoj8vJNMiizh8DOKCJpPsOP1TN0K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2ZXzAiLF6b4pCiMCKF2x4U9yJo1aukdwzp196=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMnJxw4LiF0R0wYphNSTj7ZDjDqZ6m-Pmmav3nP=s1600-w702-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOiNuanN8edideZcuaSFvWin1t6jW5JR3sO_Ib0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXiG7Tjjsd-YkrZ6jkoxdwzVszIO4DYl_SmM9z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDy-O5wVpeqKwJ565slPuiTQ1Ir1JK0AipuZOD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPEPOs3AWr80blrij2scneVTkae62FEps28KfvC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRDc7XArZ2LYYHIDnk4HLGvBul_eZnVnJECKZK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLIihiEtNLnIX1zlfZ38kjcznl4lfmC39QwYCH=s1600-w800-h800"
-        ]
+      "name": "Chua Loc Uyen Vietnamese Buddhist Temple",
+      "location": {
+        "lat": 26.6217769,
+        "lng": -80.1248961
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "212 Swain Blvd, Greenacres, FL 33463, USA",
+      "phone": "+1 561-290-4567",
+      "website": "http://www.chualocuyen.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM9sPNkhSLZDGEFy2th3ujv0EDYg_xy6pLWSaZ6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9CWICdnERVoj8vJNMiizh8DOKCJpPsOP1TN0K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2ZXzAiLF6b4pCiMCKF2x4U9yJo1aukdwzp196=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMnJxw4LiF0R0wYphNSTj7ZDjDqZ6m-Pmmav3nP=s1600-w702-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOiNuanN8edideZcuaSFvWin1t6jW5JR3sO_Ib0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXiG7Tjjsd-YkrZ6jkoxdwzVszIO4DYl_SmM9z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDy-O5wVpeqKwJ565slPuiTQ1Ir1JK0AipuZOD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPEPOs3AWr80blrij2scneVTkae62FEps28KfvC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRDc7XArZ2LYYHIDnk4HLGvBul_eZnVnJECKZK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLIihiEtNLnIX1zlfZ38kjcznl4lfmC39QwYCH=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGRCZP8En2YgRP_wHuqybKh4",
+      "google_maps_url": "https://maps.google.com/?cid=2173720936317451327",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "16195 SW 184th St, Miami, FL 33187, USA",
-        "geometry": {
-          "location": {
-            "lat": 25.595771,
-            "lng": -80.45380320000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.5967917802915,
-              "lng": -80.4524405697085
-            },
-            "southwest": {
-              "lat": 25.5940938197085,
-              "lng": -80.4551385302915
-            }
-          }
-        },
-        "international_phone_number": "+1 786-250-3588",
-        "name": "Phuoc Hue Vietnamese Buddhist Temple",
-        "place_id": "ChIJdyOYYXjC2YgRjhviGF25Snk",
-        "url": "https://maps.google.com/?cid=8740001836366437262",
-        "website": "https://www.facebook.com/Phuochuetemplemiami/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOryFoW7NznAeYWjhYVUXFWnWaYDR7t_9I9X-_d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQgxIOvqyNmHBMi9gEyG4Kx2rWohDlSTj3W6CX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORyFk_ga9CAKABI84NxvUEyrUMjrf8Mgx-tY6v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWTJb-5Lev69m25pX_XLphMMLfrbCejOx3g9Ra=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGv1H2NOsBfF-6C9JsqroBUKo75Arpw4xVyK5t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAlNZK0QKs93w_89198LXNQzlmo23towwVNZlc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQgSIBU0gumodxh1fEDeJiRH5ISpzqzTewujpF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpuc8vWmDYDiNH-8bWi2cr1QvMRZBUgKV7wMu5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_ihdp01F_p-HMBnvksnZswWYngFp1RXZHxPRn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVaUwJglHZrg3fg93YeCVcnjBepA_jeHggPrld=s1600-w800-h800"
-        ]
+      "name": "Phuoc Hue Vietnamese Buddhist Temple",
+      "location": {
+        "lat": 25.595771,
+        "lng": -80.45380320000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "16195 SW 184th St, Miami, FL 33187, USA",
+      "phone": "+1 786-250-3588",
+      "website": "https://www.facebook.com/Phuochuetemplemiami/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOryFoW7NznAeYWjhYVUXFWnWaYDR7t_9I9X-_d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQgxIOvqyNmHBMi9gEyG4Kx2rWohDlSTj3W6CX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORyFk_ga9CAKABI84NxvUEyrUMjrf8Mgx-tY6v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWTJb-5Lev69m25pX_XLphMMLfrbCejOx3g9Ra=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGv1H2NOsBfF-6C9JsqroBUKo75Arpw4xVyK5t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAlNZK0QKs93w_89198LXNQzlmo23towwVNZlc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQgSIBU0gumodxh1fEDeJiRH5ISpzqzTewujpF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpuc8vWmDYDiNH-8bWi2cr1QvMRZBUgKV7wMu5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_ihdp01F_p-HMBnvksnZswWYngFp1RXZHxPRn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVaUwJglHZrg3fg93YeCVcnjBepA_jeHggPrld=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJdyOYYXjC2YgRjhviGF25Snk",
+      "google_maps_url": "https://maps.google.com/?cid=8740001836366437262",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4508 Zambito Ave, Jacksonville, FL 32210, USA",
-        "geometry": {
-          "location": {
-            "lat": 30.2579162,
-            "lng": -81.80905779999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.2597590802915,
-              "lng": -81.80771251970849
-            },
-            "southwest": {
-              "lat": 30.2570611197085,
-              "lng": -81.8104104802915
-            }
-          }
-        },
-        "international_phone_number": "+1 904-228-6367",
-        "name": "PHUOC VIEN BUDDHIST TEMPLE",
-        "place_id": "ChIJsfUEUZDA5YgRssyRJuLRmkA",
-        "url": "https://maps.google.com/?cid=4655263934080732338",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOiUe1RQtgghbJdBrai9lI0PWUiXqjN1ZA1V5Br=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMA8NSSvY4EBcbcPC0-C16xhBr0erOJzfz3ZgkY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3h6Kpi7hNwPjMGM0SnlURwzlYxUE_q7Syb5sJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgLNwgnfoDf9oTsH8X61fU3oHvcTeFcm_THI6M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXyiJ4Wtt4Eg4ALl9NlNb5L_SVtGVpk8ADYqDs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOxPVfUz6nj94Fnm8_TXmq0EniDjrf-VhjwZtH6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeAzWVHSu6OcJd86B2G4KuNEtPFSV1zpAavx6x=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtremzq9TiaMCmiAHaf0HYnshfXRxjsJjnLMEm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqPMyOAiS3ufo21hIEqYPqAggQp075B5tUI1Tk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPK3LAqiS0sLXUJAWqe4DsftdIx7qHgyF7m3Zdi=s1600-w800-h800"
-        ]
+      "name": "PHUOC VIEN BUDDHIST TEMPLE",
+      "location": {
+        "lat": 30.2579162,
+        "lng": -81.80905779999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "4508 Zambito Ave, Jacksonville, FL 32210, USA",
+      "phone": "+1 904-228-6367",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOiUe1RQtgghbJdBrai9lI0PWUiXqjN1ZA1V5Br=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMA8NSSvY4EBcbcPC0-C16xhBr0erOJzfz3ZgkY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3h6Kpi7hNwPjMGM0SnlURwzlYxUE_q7Syb5sJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgLNwgnfoDf9oTsH8X61fU3oHvcTeFcm_THI6M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXyiJ4Wtt4Eg4ALl9NlNb5L_SVtGVpk8ADYqDs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOxPVfUz6nj94Fnm8_TXmq0EniDjrf-VhjwZtH6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeAzWVHSu6OcJd86B2G4KuNEtPFSV1zpAavx6x=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtremzq9TiaMCmiAHaf0HYnshfXRxjsJjnLMEm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqPMyOAiS3ufo21hIEqYPqAggQp075B5tUI1Tk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPK3LAqiS0sLXUJAWqe4DsftdIx7qHgyF7m3Zdi=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJsfUEUZDA5YgRssyRJuLRmkA",
+      "google_maps_url": "https://maps.google.com/?cid=4655263934080732338",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "6021 Cornelia Ave, Orlando, FL 32807, USA",
-        "geometry": {
-          "location": {
-            "lat": 28.5662382,
-            "lng": -81.30642240000002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.5676181302915,
-              "lng": -81.3051092697085
-            },
-            "southwest": {
-              "lat": 28.5649201697085,
-              "lng": -81.3078072302915
-            }
-          }
-        },
-        "international_phone_number": "+1 407-745-4504",
-        "name": "Long Van Temple, USA",
-        "place_id": "ChIJ170_MXBl54gRh5l_FVkJlAw",
-        "url": "https://maps.google.com/?cid=906359703225735559",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNMDjmqWwqiOSUQYQjrsDh-s-JS60_OIOSbHrRh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO05Dk9UCpO_8xbqN6MclqWkYFf5YS1DIXWI99p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwVnt1DUggURR1nCJC4e6npqcslYz2O0sqDPNa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUt0xh5_EgL-BYbmsZOks86AihZrpdhXbFuQhf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMW_Bim6MRGcYcq4DK0OWR5DGjCiBcvLka7UX3R=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPJwJZBpKI_YIPJQJ7jW7phNhRdvutYedswccU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcYnhl7S0jqFxDho76mzwb66mF_jfmNtxH-N-h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPknKsuhEyndIm4s8he53ChIto8vUy1gLjxPx-Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7_8SlPakC1XgW8iJwoa7qAsQT3DAsqiMYTKkR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPw4aKoG8lhMHpH8U9vl6jt7HqWoBCpWz1xEmYI=s1600-w800-h800"
-        ]
+      "name": "Long Van Temple, USA",
+      "location": {
+        "lat": 28.5662382,
+        "lng": -81.30642240000002
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "6021 Cornelia Ave, Orlando, FL 32807, USA",
+      "phone": "+1 407-745-4504",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNMDjmqWwqiOSUQYQjrsDh-s-JS60_OIOSbHrRh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO05Dk9UCpO_8xbqN6MclqWkYFf5YS1DIXWI99p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwVnt1DUggURR1nCJC4e6npqcslYz2O0sqDPNa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUt0xh5_EgL-BYbmsZOks86AihZrpdhXbFuQhf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMW_Bim6MRGcYcq4DK0OWR5DGjCiBcvLka7UX3R=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPJwJZBpKI_YIPJQJ7jW7phNhRdvutYedswccU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcYnhl7S0jqFxDho76mzwb66mF_jfmNtxH-N-h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPknKsuhEyndIm4s8he53ChIto8vUy1gLjxPx-Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7_8SlPakC1XgW8iJwoa7qAsQT3DAsqiMYTKkR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPw4aKoG8lhMHpH8U9vl6jt7HqWoBCpWz1xEmYI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ170_MXBl54gRh5l_FVkJlAw",
+      "google_maps_url": "https://maps.google.com/?cid=906359703225735559",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4540 Clinton Ave, Jacksonville, FL 32207, USA",
-        "geometry": {
-          "location": {
-            "lat": 30.2809502,
-            "lng": -81.6235135
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 30.2823448302915,
-              "lng": -81.6221125197085
-            },
-            "southwest": {
-              "lat": 30.2796468697085,
-              "lng": -81.6248104802915
-            }
-          }
-        },
-        "international_phone_number": "+1 904-739-5896",
-        "name": "Wat Khmer Savy Rattanaram",
-        "place_id": "ChIJlfYYFxW25YgRvCY6VW1Je-w",
-        "url": "https://maps.google.com/?cid=17040294349016540860",
-        "website": "http://divine.jacksonvilleonline.us/WatKhmerSavyRattanaram",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNoZtoYjxpJdp1mpurO_nQegdM1ZIvEtiu4GJ7e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPRqES8_sTwiTYvBSFJtlt1Kv0mxXXx_-fUcrWB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNb3PF-B4zueWH8_L5tvrPhfVPS0k5QFl5sIomM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOrYJl1imHRQUGBZ8iJmwVst1KY6HMNvAOKBHvB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM__XSPJRmxn-_LLw0tsRMYCRaZzDSmCZRAiopy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNKwb1g8s7aM3SRj61ShEtb1FPk_p4lyz-BU42Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsgxnVOsQ7YE51jwkUYFvRILZrPakcxqzkuQnr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN7Tmpy_f14aS2gR7X8DPP6SR5e7D8x1aJRvqsm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkKOZxl3DO0sFe-4D6QYQm9thdm-LsEJFxCnee=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6wuQ0wZNaqmfNxj-CLX_7H_T7hRNht9ehSHAc=s1600-w800-h800"
-        ]
+      "name": "Wat Khmer Savy Rattanaram",
+      "location": {
+        "lat": 30.2809502,
+        "lng": -81.6235135
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "4540 Clinton Ave, Jacksonville, FL 32207, USA",
+      "phone": "+1 904-739-5896",
+      "website": "http://divine.jacksonvilleonline.us/WatKhmerSavyRattanaram",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNoZtoYjxpJdp1mpurO_nQegdM1ZIvEtiu4GJ7e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPRqES8_sTwiTYvBSFJtlt1Kv0mxXXx_-fUcrWB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNb3PF-B4zueWH8_L5tvrPhfVPS0k5QFl5sIomM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOrYJl1imHRQUGBZ8iJmwVst1KY6HMNvAOKBHvB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM__XSPJRmxn-_LLw0tsRMYCRaZzDSmCZRAiopy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNKwb1g8s7aM3SRj61ShEtb1FPk_p4lyz-BU42Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsgxnVOsQ7YE51jwkUYFvRILZrPakcxqzkuQnr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN7Tmpy_f14aS2gR7X8DPP6SR5e7D8x1aJRvqsm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkKOZxl3DO0sFe-4D6QYQm9thdm-LsEJFxCnee=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6wuQ0wZNaqmfNxj-CLX_7H_T7hRNht9ehSHAc=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJlfYYFxW25YgRvCY6VW1Je-w",
+      "google_maps_url": "https://maps.google.com/?cid=17040294349016540860",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "113 Woodridge Cir, Greenville, SC 29607, USA",
-        "geometry": {
-          "location": {
-            "lat": 34.79602610000001,
-            "lng": -82.3003895
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.7974350302915,
-              "lng": -82.29890541970848
-            },
-            "southwest": {
-              "lat": 34.7947370697085,
-              "lng": -82.3016033802915
-            }
-          }
-        },
-        "international_phone_number": "+1 864-329-9961",
-        "name": "Carolina Buddhist Vihara",
-        "place_id": "ChIJNxhFvaooWIgR0KoJ1cFYaAI",
-        "url": "https://maps.google.com/?cid=173486175179877072",
-        "website": "http://carolinabuddhist.net",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP6N4tWyVIhJA2n9Bprp8HVNPTNZkkukfoFze1Z=s1600-w800-h800"
-        ]
+      "name": "Carolina Buddhist Vihara",
+      "location": {
+        "lat": 34.79602610000001,
+        "lng": -82.3003895
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "113 Woodridge Cir, Greenville, SC 29607, USA",
+      "phone": "+1 864-329-9961",
+      "website": "http://carolinabuddhist.net",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP6N4tWyVIhJA2n9Bprp8HVNPTNZkkukfoFze1Z=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJNxhFvaooWIgR0KoJ1cFYaAI",
+      "google_maps_url": "https://maps.google.com/?cid=173486175179877072",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "12138 Wichers Rd, St Leo, FL 33574, USA",
-        "geometry": {
-          "location": {
-            "lat": 28.3329822,
-            "lng": -82.2651071
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.3343304302915,
-              "lng": -82.26425936970848
-            },
-            "southwest": {
-              "lat": 28.3316324697085,
-              "lng": -82.26695733029149
-            }
-          }
-        },
-        "international_phone_number": "+1 352-588-8320",
-        "name": "Holy Name Monastery",
-        "place_id": "ChIJhW0UnF2swogRIX9_c8ZU1rs",
-        "url": "https://maps.google.com/?cid=13535098941426597665",
-        "website": "http://benedictinesistersoffl.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMcEOl15-XIPj_LCu2RKhPsiTVgu1Xl12HqUciQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO60xMElYxoNoT2A1T84PQ8UTBV_D9pNFOHdY_T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMt2M_gIkLQZCldRpstMxUB-qG-tASVZCE1qZ6o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjTrpW5TnuHIanMJeTjRleQUezPNFg_mmgze0x=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8YnEnrMimKyCAnAt1oHEn7h7qaasXB1vkQaOE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVCnonVfzt6ot9OvSRdsdtO4OkK7KabC7RAcK3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMuP0OBs405b89VTOtyuBdKcYSdDPDRvjA9wEix=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODKsvsCgLQ_7Ek9lD1vCmXwuOckY-NlFyGen3G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO40Pyk9xg10ACf5O26q1XQmNG2jhruxhqB_6gs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSSf7ETxy3zJ_OZKOlsmhema_AtI8LbAYhiPR2=s1600-w800-h800"
-        ]
+      "name": "Holy Name Monastery",
+      "location": {
+        "lat": 28.3329822,
+        "lng": -82.2651071
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "12138 Wichers Rd, St Leo, FL 33574, USA",
+      "phone": "+1 352-588-8320",
+      "website": "http://benedictinesistersoffl.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMcEOl15-XIPj_LCu2RKhPsiTVgu1Xl12HqUciQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO60xMElYxoNoT2A1T84PQ8UTBV_D9pNFOHdY_T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMt2M_gIkLQZCldRpstMxUB-qG-tASVZCE1qZ6o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjTrpW5TnuHIanMJeTjRleQUezPNFg_mmgze0x=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8YnEnrMimKyCAnAt1oHEn7h7qaasXB1vkQaOE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVCnonVfzt6ot9OvSRdsdtO4OkK7KabC7RAcK3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMuP0OBs405b89VTOtyuBdKcYSdDPDRvjA9wEix=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODKsvsCgLQ_7Ek9lD1vCmXwuOckY-NlFyGen3G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO40Pyk9xg10ACf5O26q1XQmNG2jhruxhqB_6gs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSSf7ETxy3zJ_OZKOlsmhema_AtI8LbAYhiPR2=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJhW0UnF2swogRIX9_c8ZU1rs",
+      "google_maps_url": "https://maps.google.com/?cid=13535098941426597665",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "6533 Rock Springs Rd, Stonecrest, GA 30038, USA",
-        "geometry": {
-          "location": {
-            "lat": 33.685304,
-            "lng": -84.136158
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 33.68697983029149,
-              "lng": -84.1346371697085
-            },
-            "southwest": {
-              "lat": 33.6842818697085,
-              "lng": -84.1373351302915
-            }
-          }
-        },
-        "international_phone_number": "+1 678-526-9539",
-        "name": "Cambodian Buddhist Temple of Georgia",
-        "place_id": "ChIJgxHmfBmt9YgRiR1gKu8ktiU",
-        "url": "https://maps.google.com/?cid=2717400034791398793",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOeZVMUHPeeQDOnjsqA3it3Af2jDzTjMEWGI-aa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDuPqsDZZHx2gf_fvnw2ElUTfJ-xDb3vxGw_ng=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsxNYyGVymXlrVXodYCFnV4X9-JNHwp90L9Au3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoIqE85-YkKtdpGhmjrT3Nppb9NSaX6wnw_o5Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWPge1ayVOISMhcAInz-PxM3qwplQ7kCx7NtYi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTl7AgaTTRDi_QirZiRMdad-_WW0BvgAEJwwLB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBWMLTBX4Axy9TJvcZkqJq-TYXpy6TR-nQg9Ts=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODAYvsGh_vAOZjPtbLMiK5FYItEMYBTceFweLT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsVhZ9m0V9ywF4mvs8JZkb-MSLG-1fLxLz6pTh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQ2PLe_hqfijkpR7j7z7maFsVCb9UqGjXUgpD9=s1600-w800-h800"
-        ]
+      "name": "Cambodian Buddhist Temple of Georgia",
+      "location": {
+        "lat": 33.685304,
+        "lng": -84.136158
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "6533 Rock Springs Rd, Stonecrest, GA 30038, USA",
+      "phone": "+1 678-526-9539",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOeZVMUHPeeQDOnjsqA3it3Af2jDzTjMEWGI-aa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDuPqsDZZHx2gf_fvnw2ElUTfJ-xDb3vxGw_ng=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsxNYyGVymXlrVXodYCFnV4X9-JNHwp90L9Au3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoIqE85-YkKtdpGhmjrT3Nppb9NSaX6wnw_o5Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWPge1ayVOISMhcAInz-PxM3qwplQ7kCx7NtYi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTl7AgaTTRDi_QirZiRMdad-_WW0BvgAEJwwLB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBWMLTBX4Axy9TJvcZkqJq-TYXpy6TR-nQg9Ts=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODAYvsGh_vAOZjPtbLMiK5FYItEMYBTceFweLT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsVhZ9m0V9ywF4mvs8JZkb-MSLG-1fLxLz6pTh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQ2PLe_hqfijkpR7j7z7maFsVCb9UqGjXUgpD9=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJgxHmfBmt9YgRiR1gKu8ktiU",
+      "google_maps_url": "https://maps.google.com/?cid=2717400034791398793",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Uday Marg, Pokhara 33700, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.2170298,
-            "lng": 83.9622965
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.21830838029151,
-              "lng": 83.96339863029151
-            },
-            "southwest": {
-              "lat": 28.2156104197085,
-              "lng": 83.9607006697085
-            }
-          }
-        },
-        "international_phone_number": "+977 61-466681",
-        "name": "Shree Urgen Choling Buddhist Monastery",
-        "place_id": "ChIJ_TYcF-OUlTkRldBwwXSkYTI",
-        "url": "https://maps.google.com/?cid=3630363596005888149",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMZy8x_0IcRJfnsm6ZZmExhY1rNg9GNGUiiil3B=s1600-w800-h614",
-          "https://lh3.googleusercontent.com/p/AF1QipNLdfpREJhJweYghsQY4_UYh72xn7tvt_thjny8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNN5J96aoFbss1qgKvDcK5jg0EYCOcpOvEqyCql=s1600-w800-h698",
-          "https://lh3.googleusercontent.com/p/AF1QipNG6IRDeZ-seOWXmqexUxjn4laaA922EfiHzffr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-9oBQueLAGyRGj6jMG9zGfW6zseyrex7WYRGv=s1600-w800-h781",
-          "https://lh3.googleusercontent.com/p/AF1QipPQsgqM-QRb1jA-fMdLwvNRcKjB6dXypKziDkAQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4z1nU_lgKHUd7Jze_NPGHedPXcxaUzlvWm7UG=s1600-w800-h593",
-          "https://lh3.googleusercontent.com/p/AF1QipOo8QQyyflotTGtrXlLeb5LD8UfPt3mYc6G7dlb=s1600-w800-h496",
-          "https://lh3.googleusercontent.com/p/AF1QipOOInKZ6MS0ZRtgurBjXZMWA4HpP205I9tFqkE9=s1600-w800-h764",
-          "https://lh3.googleusercontent.com/p/AF1QipMRQpvGJNyCm09OiUC2X7JmuZb2eDLuVhp4ECbq=s1600-w800-h800"
-        ]
+      "name": "Shree Urgen Choling Buddhist Monastery",
+      "location": {
+        "lat": 28.2170298,
+        "lng": 83.9622965
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Uday Marg, Pokhara 33700, Nepal",
+      "phone": "+977 61-466681",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMZy8x_0IcRJfnsm6ZZmExhY1rNg9GNGUiiil3B=s1600-w800-h614",
+        "https://lh3.googleusercontent.com/p/AF1QipNLdfpREJhJweYghsQY4_UYh72xn7tvt_thjny8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNN5J96aoFbss1qgKvDcK5jg0EYCOcpOvEqyCql=s1600-w800-h698",
+        "https://lh3.googleusercontent.com/p/AF1QipNG6IRDeZ-seOWXmqexUxjn4laaA922EfiHzffr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-9oBQueLAGyRGj6jMG9zGfW6zseyrex7WYRGv=s1600-w800-h781",
+        "https://lh3.googleusercontent.com/p/AF1QipPQsgqM-QRb1jA-fMdLwvNRcKjB6dXypKziDkAQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4z1nU_lgKHUd7Jze_NPGHedPXcxaUzlvWm7UG=s1600-w800-h593",
+        "https://lh3.googleusercontent.com/p/AF1QipOo8QQyyflotTGtrXlLeb5LD8UfPt3mYc6G7dlb=s1600-w800-h496",
+        "https://lh3.googleusercontent.com/p/AF1QipOOInKZ6MS0ZRtgurBjXZMWA4HpP205I9tFqkE9=s1600-w800-h764",
+        "https://lh3.googleusercontent.com/p/AF1QipMRQpvGJNyCm09OiUC2X7JmuZb2eDLuVhp4ECbq=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_TYcF-OUlTkRldBwwXSkYTI",
+      "google_maps_url": "https://maps.google.com/?cid=3630363596005888149",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Pokhara 33700, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.2188301,
-            "lng": 83.9607898
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.2201346302915,
-              "lng": 83.9619885302915
-            },
-            "southwest": {
-              "lat": 28.2174366697085,
-              "lng": 83.9592905697085
-            }
-          }
-        },
-        "name": "Pema Dechenling monastery",
-        "place_id": "ChIJQfrkGTKVlTkRVq7dnlelR9k",
-        "url": "https://maps.google.com/?cid=15656664425322884694",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM00YRhVDDMOxfOXJ2okJZROjbNefY16SjRe4iA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtKejMKg-lR9oRLZer9bTLoCkdUIVsGWDdLfoV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_b8KLHuIMwaq-KWjkG7xnDqWUYrZHGPqn-nff=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_owLLCkmWXUOWYa0i1G9qinBDvEOQPA0OqlUH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcSmboQv6INcdmnme_Obs_2_ol_t8iMMHY50tM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOu0zqH2qzGGeF-f3FiCMPrzhbjUnv0h_zdTzuT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOAiFmyxJcksfnTJTu9WN7qHm7Yb1QO9u8ijup5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwRADFIud-ubDVUjbYe_fnx8V6Ci19SaL8qrXS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPc4PiTeOgMJrS-6aqDS4gH4A7syazAFOjce31M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOyuImMI3WRH8y4GWeK-Xi-bR4FZZrPQwlzv3c-=s1600-w800-h800"
-        ]
+      "name": "Pema Dechenling monastery",
+      "location": {
+        "lat": 28.2188301,
+        "lng": 83.9607898
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Pokhara 33700, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM00YRhVDDMOxfOXJ2okJZROjbNefY16SjRe4iA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtKejMKg-lR9oRLZer9bTLoCkdUIVsGWDdLfoV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_b8KLHuIMwaq-KWjkG7xnDqWUYrZHGPqn-nff=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_owLLCkmWXUOWYa0i1G9qinBDvEOQPA0OqlUH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcSmboQv6INcdmnme_Obs_2_ol_t8iMMHY50tM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOu0zqH2qzGGeF-f3FiCMPrzhbjUnv0h_zdTzuT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOAiFmyxJcksfnTJTu9WN7qHm7Yb1QO9u8ijup5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwRADFIud-ubDVUjbYe_fnx8V6Ci19SaL8qrXS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPc4PiTeOgMJrS-6aqDS4gH4A7syazAFOjce31M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOyuImMI3WRH8y4GWeK-Xi-bR4FZZrPQwlzv3c-=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJQfrkGTKVlTkRVq7dnlelR9k",
+      "google_maps_url": "https://maps.google.com/?cid=15656664425322884694",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Gaindakot 33000, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.7077333,
-            "lng": 84.35443269999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7085441302915,
-              "lng": 84.3562625802915
-            },
-            "southwest": {
-              "lat": 27.7058461697085,
-              "lng": 84.3535646197085
-            }
-          }
-        },
-        "name": "Mila Kagyu Ling Monastery",
-        "place_id": "ChIJo7bbg_37lDkRIgRadNwtvW0",
-        "url": "https://maps.google.com/?cid=7907526945600570402",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNIBetsPodrdxpkQb32G2yrmE1Sp971oFX4djfX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4fWau0l92TRYHelotGeqnlewn4XsMa7ORq9d_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWAOB5ozG8k8VUwGBA__tZSAk93eCVfQPkwwef=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMvnGwElKQobvreLqK-0nQMCpowYGxHjdPCrTkw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMA9aY-0eK8ww5QorK9dhplm9vr1ZKIZfD_zADi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-D2TFel1Q43X467MeC-1MNvGFbXNNHXkuMaXe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3D0VQPAE9Bhr_rd4YidpUnZLA3MIfYHL14S0i=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwegE9Vv5su1iTWwtozoLhzXatNOAlnqoFLO63=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjs_QQuNWzjZOP9zSCdvG0MG1izn8Rq58YObmJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNn92N8XzM4yNI-ccDSQBRncT1JB9HQkdSPIFNB=s1600-w800-h800"
-        ]
+      "name": "Mila Kagyu Ling Monastery",
+      "location": {
+        "lat": 27.7077333,
+        "lng": 84.35443269999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Gaindakot 33000, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNIBetsPodrdxpkQb32G2yrmE1Sp971oFX4djfX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4fWau0l92TRYHelotGeqnlewn4XsMa7ORq9d_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWAOB5ozG8k8VUwGBA__tZSAk93eCVfQPkwwef=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMvnGwElKQobvreLqK-0nQMCpowYGxHjdPCrTkw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMA9aY-0eK8ww5QorK9dhplm9vr1ZKIZfD_zADi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-D2TFel1Q43X467MeC-1MNvGFbXNNHXkuMaXe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3D0VQPAE9Bhr_rd4YidpUnZLA3MIfYHL14S0i=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwegE9Vv5su1iTWwtozoLhzXatNOAlnqoFLO63=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjs_QQuNWzjZOP9zSCdvG0MG1izn8Rq58YObmJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNn92N8XzM4yNI-ccDSQBRncT1JB9HQkdSPIFNB=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJo7bbg_37lDkRIgRadNwtvW0",
+      "google_maps_url": "https://maps.google.com/?cid=7907526945600570402",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Panchase Marga, Pokhara 33700, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.228427,
-            "lng": 83.9336505
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.2297642302915,
-              "lng": 83.93499533029151
-            },
-            "southwest": {
-              "lat": 28.2270662697085,
-              "lng": 83.9322973697085
-            }
-          }
-        },
-        "international_phone_number": "+977 980-4116809",
-        "name": "Kunga Dorje Sanag Terling Monastery",
-        "place_id": "ChIJqdpp78yUlTkRY1eF5c8uMcE",
-        "url": "https://maps.google.com/?cid=13920959393622742883",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPpB_lxm00-ctiowhol13KSfSLhMm5gS6rQ1-0N=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNxNyh1cBMNrAKWAozBbA-MO-GGmX-_jbnbgV2X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMlt1tJ5eG65UsARo5ISY4ztgccciqs-ZPRgjIT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBnf5i7cila-2bTB6pBWT-asWHaPFAFopVjZUM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMlEoFshOXGcQbQbjMePPWUMwbmf20cuhouSRXj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsu_KhCOK9XSQPoFyK_tRF3WxVER8QmrvgAGrH=s1600-w800-h800"
-        ]
+      "name": "Kunga Dorje Sanag Terling Monastery",
+      "location": {
+        "lat": 28.228427,
+        "lng": 83.9336505
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Panchase Marga, Pokhara 33700, Nepal",
+      "phone": "+977 980-4116809",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPpB_lxm00-ctiowhol13KSfSLhMm5gS6rQ1-0N=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNxNyh1cBMNrAKWAozBbA-MO-GGmX-_jbnbgV2X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMlt1tJ5eG65UsARo5ISY4ztgccciqs-ZPRgjIT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBnf5i7cila-2bTB6pBWT-asWHaPFAFopVjZUM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMlEoFshOXGcQbQbjMePPWUMwbmf20cuhouSRXj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsu_KhCOK9XSQPoFyK_tRF3WxVER8QmrvgAGrH=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqdpp78yUlTkRY1eF5c8uMcE",
+      "google_maps_url": "https://maps.google.com/?cid=13920959393622742883",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Taklungkagyu Domsumling Monastery, Shuklagandaki, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.0544112,
-            "lng": 84.06542259999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.0562323302915,
-              "lng": 84.0669640802915
-            },
-            "southwest": {
-              "lat": 28.05353436970849,
-              "lng": 84.06426611970848
-            }
-          }
-        },
-        "international_phone_number": "+977 982-7134155",
-        "name": "Taklung Kagyu Domsumling Monastery",
-        "place_id": "ChIJ61VttAy7lTkRry9AXw-eyHI",
-        "url": "https://maps.google.com/?cid=8271034504525655983",
-        "website": "https://taklung-kagyu-domsumling-monastery.business.site/?utm_source=gmb&utm_medium=referral",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNMuvzidFJUkHjlWq3qWPlWGloOp9J9_RCSfFM7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBnMa8LzSinwOjsBVh3o2_toTZxwiM_NViWhH-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPok_5SMkteKhndAeUDdzv2gjUzOiuU7b-Zbzx1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7TCMA7Mj6gyfueakFdUtEGl1rWQ2X1cPHEYNh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOozUKAcUdJal6f_csXY6f5W0ahxE946-TL9I80=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOS3mOAXAH-ueW42fikPJ-5lHb44iGwSsWEwxum=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsj8gI94uuFv9X2fd6M4nr52aYw76DZ0xG3QUr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnvPSujZAiNjTTOc4kThRTFnTJj1ztSB8f3lJz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgrPkFfNK2_oi2bqCPrTJaUSjcjtGky5mUNa71=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8AblM2bWtGdg9u2Bk0u_OyG2_ZB8vt6MxdrRE=s1600-w800-h800"
-        ]
+      "name": "Taklung Kagyu Domsumling Monastery",
+      "location": {
+        "lat": 28.0544112,
+        "lng": 84.06542259999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Taklungkagyu Domsumling Monastery, Shuklagandaki, Nepal",
+      "phone": "+977 982-7134155",
+      "website": "https://taklung-kagyu-domsumling-monastery.business.site/?utm_source=gmb&utm_medium=referral",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNMuvzidFJUkHjlWq3qWPlWGloOp9J9_RCSfFM7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBnMa8LzSinwOjsBVh3o2_toTZxwiM_NViWhH-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPok_5SMkteKhndAeUDdzv2gjUzOiuU7b-Zbzx1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7TCMA7Mj6gyfueakFdUtEGl1rWQ2X1cPHEYNh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOozUKAcUdJal6f_csXY6f5W0ahxE946-TL9I80=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOS3mOAXAH-ueW42fikPJ-5lHb44iGwSsWEwxum=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsj8gI94uuFv9X2fd6M4nr52aYw76DZ0xG3QUr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnvPSujZAiNjTTOc4kThRTFnTJj1ztSB8f3lJz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgrPkFfNK2_oi2bqCPrTJaUSjcjtGky5mUNa71=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8AblM2bWtGdg9u2Bk0u_OyG2_ZB8vt6MxdrRE=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ61VttAy7lTkRry9AXw-eyHI",
+      "google_maps_url": "https://maps.google.com/?cid=8271034504525655983",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mirkot 34000, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.9949291,
-            "lng": 84.5563071
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.9962727302915,
-              "lng": 84.5576221802915
-            },
-            "southwest": {
-              "lat": 27.9935747697085,
-              "lng": 84.5549242197085
-            }
-          }
-        },
-        "name": "Mei-Lung PemChoilung Buddhist Monastery",
-        "place_id": "ChIJD_1sr5wZlTkR7zMuSkdr3EQ",
-        "url": "https://maps.google.com/?cid=4961958843386835951",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mei-Lung PemChoilung Buddhist Monastery",
+      "location": {
+        "lat": 27.9949291,
+        "lng": 84.5563071
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Mirkot 34000, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJD_1sr5wZlTkR7zMuSkdr3EQ",
+      "google_maps_url": "https://maps.google.com/?cid=4961958843386835951",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Besisahar 33600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.2309184,
-            "lng": 84.37984709999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.2321404302915,
-              "lng": 84.38080678029151
-            },
-            "southwest": {
-              "lat": 28.2294424697085,
-              "lng": 84.3781088197085
-            }
-          }
-        },
-        "name": "Deleg Dodeng Thayaling Yiengma Monastery (Tamang Ghedung)",
-        "place_id": "ChIJh4VKyNJzlTkRRaaljIA_0hE",
-        "url": "https://maps.google.com/?cid=1284158665102042693",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPiwxBfHQmUjKqz9wEg1b80A1BRtINC4ID60Q0j=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOdN77M1cRAk36717ed2-U48qgZTXFwE4j8Ozbu=s1600-w800-h800"
-        ]
+      "name": "Deleg Dodeng Thayaling Yiengma Monastery (Tamang Ghedung)",
+      "location": {
+        "lat": 28.2309184,
+        "lng": 84.37984709999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Besisahar 33600, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPiwxBfHQmUjKqz9wEg1b80A1BRtINC4ID60Q0j=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOdN77M1cRAk36717ed2-U48qgZTXFwE4j8Ozbu=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJh4VKyNJzlTkRRaaljIA_0hE",
+      "google_maps_url": "https://maps.google.com/?cid=1284158665102042693",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "kageswori manohara 1, Kathmandu 44600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.7600337,
-            "lng": 85.4314081
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7612799302915,
-              "lng": 85.43282348029152
-            },
-            "southwest": {
-              "lat": 27.7585819697085,
-              "lng": 85.4301255197085
-            }
-          }
-        },
-        "international_phone_number": "+977 981-3023257",
-        "name": "Nyingma Palyul Buddhist monastery",
-        "place_id": "ChIJLc2IctYd6zkRP4JrdSeGA24",
-        "url": "https://maps.google.com/?cid=7927327273134031423",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP60jh_e3wd8aE9dJXdUzqNRJbIonQiFHNyjZtq=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipNryHeXTTfQCZN1vbeT3lA_g7FYzS1aX0rGNBXH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCJa7rN0xwLS2ir6ShYKHZ6NKqaprBvUCKM60k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMogNVf9BFJ_7jtpOwcU7daE2OALlp6NbYXGPU6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPetzTl1y5RTDTYmsw6d7VFa8keB6re39HS_49M=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOJtYNjp9SSFj29HpDHiP2q7yD4QUMXTyYg4wTe=s1600-w800-h720"
-        ]
+      "name": "Nyingma Palyul Buddhist monastery",
+      "location": {
+        "lat": 27.7600337,
+        "lng": 85.4314081
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "kageswori manohara 1, Kathmandu 44600, Nepal",
+      "phone": "+977 981-3023257",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP60jh_e3wd8aE9dJXdUzqNRJbIonQiFHNyjZtq=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipNryHeXTTfQCZN1vbeT3lA_g7FYzS1aX0rGNBXH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCJa7rN0xwLS2ir6ShYKHZ6NKqaprBvUCKM60k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMogNVf9BFJ_7jtpOwcU7daE2OALlp6NbYXGPU6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPetzTl1y5RTDTYmsw6d7VFa8keB6re39HS_49M=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOJtYNjp9SSFj29HpDHiP2q7yD4QUMXTyYg4wTe=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJLc2IctYd6zkRP4JrdSeGA24",
+      "google_maps_url": "https://maps.google.com/?cid=7927327273134031423",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Royal Thai Monastery Lumbini, Lumbini Sacred Garden, East Monastic Zone, Dist. Rupandehi, Lumbini, Nepal, Lumbini Sanskritik 32914, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.48115379999999,
-            "lng": 83.277953
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.4825021802915,
-              "lng": 83.27947868029149
-            },
-            "southwest": {
-              "lat": 27.47980421970849,
-              "lng": 83.27678071970848
-            }
-          }
-        },
-        "name": "Thai Monastery",
-        "place_id": "ChIJNQJOCWKTljkR3Odi5CyIDVQ",
-        "url": "https://maps.google.com/?cid=6056646800274810844",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNy3I3OygdADO3lBMw-QYqfElS4yRegepqynNbv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWJw6PlAFKwC68zs8InXNo5aikgSpN1i3Vov2d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVtw4-YPGCTqCmlafGuWb_o5MUTBayNqlDQcCU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzIbCHBJWzs_R1gE-NpxL_Im55l79f2Bq8uEGA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNf_6PfPNYfSuE91CUF_2uW2CTF_f1-VtMH6kn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOgj7Rqp7_-vz2WK92X0Nwu_YrFtb8KHIZqn2lx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYy8mrO45p4pyPIHOWu0-WMnaFJBymjCTT1-OL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQ0IwRhStihyha269w4mEaqc1ArPKmj1jJnVDI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGdNWajX597jKpX2I6oojQWL17e0QRFGpxPEMW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMb2oAA1ZSCvUGmGeGigGDZ12ROAAJW-mdVqbm1=s1600-w800-h800"
-        ]
+      "name": "Thai Monastery",
+      "location": {
+        "lat": 27.48115379999999,
+        "lng": 83.277953
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Royal Thai Monastery Lumbini, Lumbini Sacred Garden, East Monastic Zone, Dist. Rupandehi, Lumbini, Nepal, Lumbini Sanskritik 32914, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNy3I3OygdADO3lBMw-QYqfElS4yRegepqynNbv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWJw6PlAFKwC68zs8InXNo5aikgSpN1i3Vov2d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVtw4-YPGCTqCmlafGuWb_o5MUTBayNqlDQcCU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzIbCHBJWzs_R1gE-NpxL_Im55l79f2Bq8uEGA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNf_6PfPNYfSuE91CUF_2uW2CTF_f1-VtMH6kn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOgj7Rqp7_-vz2WK92X0Nwu_YrFtb8KHIZqn2lx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYy8mrO45p4pyPIHOWu0-WMnaFJBymjCTT1-OL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQ0IwRhStihyha269w4mEaqc1ArPKmj1jJnVDI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGdNWajX597jKpX2I6oojQWL17e0QRFGpxPEMW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMb2oAA1ZSCvUGmGeGigGDZ12ROAAJW-mdVqbm1=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJNQJOCWKTljkR3Odi5CyIDVQ",
+      "google_maps_url": "https://maps.google.com/?cid=6056646800274810844",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dhampus 33700, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.3124274,
-            "lng": 83.83499259999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.3150359,
-              "lng": 83.83919965000003
-            },
-            "southwest": {
-              "lat": 28.3115579,
-              "lng": 83.83359025
-            }
-          }
-        },
-        "name": "Tusita Hermitage Nepal branch",
-        "place_id": "ChIJp_cRfmXulTkRPiMpGMtovbI",
-        "url": "https://maps.google.com/?cid=12879565730842485566",
-        "website": "http://www.tusitainternational.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNLCoNOdqCrlvHiNQYZuvtn9PQB6SECO3OvJ-Q=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPZnrhrWyB28yx-tmsXdQkOa-ftSSqrQypjTwIJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMTwgYB5fOCSutVpxtdrj8UtpfNFRXPKZ3SaLM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0hYtCBNqX5ZW1ROy2CGMuP8-5Ctfh_JteI_4=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipP23jZTh6Ev0cvVeh2BgFsF41HbDplHw8N0CQQ=s1600-w800-h797",
-          "https://lh3.googleusercontent.com/p/AF1QipNNnrDXoWA8plyuFszdJv9V2yqCSIEs25h4i9Hx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4MdM4e9uAqSqYMXt33keoV1Ke_fvQt_G06MWX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOs859CKcbjsXWNpVq3DXgDKx75Uc6ExIlDNybX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0KlgTtXIn3efTmMm-3I8G1XN8XtCLRXkboGfM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM6KE_KxUSB1wbFs1SUelXKGF2F6d52hDxs498=s1600-w800-h800"
-        ]
+      "name": "Tusita Hermitage Nepal branch",
+      "location": {
+        "lat": 28.3124274,
+        "lng": 83.83499259999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Dhampus 33700, Nepal",
+      "website": "http://www.tusitainternational.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNLCoNOdqCrlvHiNQYZuvtn9PQB6SECO3OvJ-Q=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPZnrhrWyB28yx-tmsXdQkOa-ftSSqrQypjTwIJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMTwgYB5fOCSutVpxtdrj8UtpfNFRXPKZ3SaLM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0hYtCBNqX5ZW1ROy2CGMuP8-5Ctfh_JteI_4=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipP23jZTh6Ev0cvVeh2BgFsF41HbDplHw8N0CQQ=s1600-w800-h797",
+        "https://lh3.googleusercontent.com/p/AF1QipNNnrDXoWA8plyuFszdJv9V2yqCSIEs25h4i9Hx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4MdM4e9uAqSqYMXt33keoV1Ke_fvQt_G06MWX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOs859CKcbjsXWNpVq3DXgDKx75Uc6ExIlDNybX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0KlgTtXIn3efTmMm-3I8G1XN8XtCLRXkboGfM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM6KE_KxUSB1wbFs1SUelXKGF2F6d52hDxs498=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJp_cRfmXulTkRPiMpGMtovbI",
+      "google_maps_url": "https://maps.google.com/?cid=12879565730842485566",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kathmandu 44602, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.723042,
-            "lng": 85.3650693
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7241751802915,
-              "lng": 85.36635828029151
-            },
-            "southwest": {
-              "lat": 27.7214772197085,
-              "lng": 85.36366031970849
-            }
-          }
-        },
-        "name": "Tharlam Monastery",
-        "place_id": "ChIJq5uKNdsb6zkRNeV6jkNUHkM",
-        "url": "https://maps.google.com/?cid=4836395698972452149",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMm_JFZqDg-KoE6TI848VGpufWSs0MOgmeXnuU1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPd_0xUiZzf9Of8lTQRHAkkwVG5UOx18PYZUdRy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMbrzlpWpl5eN2OKAFi5_as0ks3irzjqEWeSd2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWNlnhv8Ubhi6-3NeGidsMNDBxCAcuhWD5KHgD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYJs48z9fsAPeRuc-w74PH5HYntPdu0a19QOCh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7z1ykHLFmKCee5QrH3Kr-QCU0_B8KC7tlN6lW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZGgbx3PJlt14Hecwpy_jCnMPXrLMyd9Mexutc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXqGQC_g7YV0amRreFMbeBLxlnaRIb0lTA9wU5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMd1wioTv6FGrztWgQpzXQ_gMdZmc8neyuqtDx1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLBuNjdUTnB_FSHFoqzK0c5YozUFPw1QX2Isx3=s1600-w800-h800"
-        ]
+      "name": "Tharlam Monastery",
+      "location": {
+        "lat": 27.723042,
+        "lng": 85.3650693
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Kathmandu 44602, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMm_JFZqDg-KoE6TI848VGpufWSs0MOgmeXnuU1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPd_0xUiZzf9Of8lTQRHAkkwVG5UOx18PYZUdRy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMbrzlpWpl5eN2OKAFi5_as0ks3irzjqEWeSd2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWNlnhv8Ubhi6-3NeGidsMNDBxCAcuhWD5KHgD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYJs48z9fsAPeRuc-w74PH5HYntPdu0a19QOCh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7z1ykHLFmKCee5QrH3Kr-QCU0_B8KC7tlN6lW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZGgbx3PJlt14Hecwpy_jCnMPXrLMyd9Mexutc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXqGQC_g7YV0amRreFMbeBLxlnaRIb0lTA9wU5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMd1wioTv6FGrztWgQpzXQ_gMdZmc8neyuqtDx1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLBuNjdUTnB_FSHFoqzK0c5YozUFPw1QX2Isx3=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJq5uKNdsb6zkRNeV6jkNUHkM",
+      "google_maps_url": "https://maps.google.com/?cid=4836395698972452149",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Amar Chitrakar Marg, Kathmandu 44620, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.7120021,
-            "lng": 85.29579149999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7133253802915,
-              "lng": 85.2971177302915
-            },
-            "southwest": {
-              "lat": 27.7106274197085,
-              "lng": 85.2944197697085
-            }
-          }
-        },
-        "international_phone_number": "+977 980-8255269",
-        "name": "Dhimelvaham Buddhist Monastery",
-        "place_id": "ChIJMwjrofMY6zkRMvvxT20NB4c",
-        "url": "https://maps.google.com/?cid=9729760283101100850",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN6mXDILsjwdliAItIOx4dd2TxylzQzXyUC80Xd=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5JR0Oi84c-SHe3wjoIlJNzulzEcScQ9AE6oCt=s1600-w720-h800"
-        ]
+      "name": "Dhimelvaham Buddhist Monastery",
+      "location": {
+        "lat": 27.7120021,
+        "lng": 85.29579149999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Amar Chitrakar Marg, Kathmandu 44620, Nepal",
+      "phone": "+977 980-8255269",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN6mXDILsjwdliAItIOx4dd2TxylzQzXyUC80Xd=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5JR0Oi84c-SHe3wjoIlJNzulzEcScQ9AE6oCt=s1600-w720-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJMwjrofMY6zkRMvvxT20NB4c",
+      "google_maps_url": "https://maps.google.com/?cid=9729760283101100850",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kopan Monastery, Kathmandu 44600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.7425438,
-            "lng": 85.3643969
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7437882302915,
-              "lng": 85.3657687302915
-            },
-            "southwest": {
-              "lat": 27.7410902697085,
-              "lng": 85.36307076970849
-            }
-          }
-        },
-        "international_phone_number": "+977 1-4821268",
-        "name": "Kopan Monastery",
-        "place_id": "ChIJkTIYyfob6zkRS61ZD-CX16A",
-        "url": "https://maps.google.com/?cid=11589899154647264587",
-        "website": "http://www.kopanmonastery.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP8cpQwvIYyszOnZUP8pm8ZKfN8YTgzvagfcODn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4H2x_lJkeMPZhHD1ruErgmsOMeWnXnuFDXF-4=s1600-w800-h643",
-          "https://lh3.googleusercontent.com/p/AF1QipNOvl2buz068u30O2nUTzFw6rcZnCGvPt3dM8cc=s1600-w800-h608",
-          "https://lh3.googleusercontent.com/p/AF1QipPRc8ckp0dhEtnk2tQa6Fc3HzqLEcoOdeFlpszT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMY5u3c5xHZQJ4--girUH-VFJgh00xXl-x-Y7kN=s1600-w640-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPIf-8FhqQMiAEVdKlbq-xYJz7xX66MTpyT6yj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvHzdvXBMuEbB79aWXi4dFD2hOeZWE844Lu4Yb=s1600-w800-h718",
-          "https://lh3.googleusercontent.com/p/AF1QipOXqHaBpvc100RWPs-1FAd7IC-qxc2K0iNC71Vh=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipN3x956JZWns9VUcBzXZsEKeu1NpJW7eF3Fc0k2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOb3fQiESlE8YyoKaaHHGtfn-n7GdwlGDaVGDQy=s1600-w800-h800"
-        ]
+      "name": "Kopan Monastery",
+      "location": {
+        "lat": 27.7425438,
+        "lng": 85.3643969
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Kopan Monastery, Kathmandu 44600, Nepal",
+      "phone": "+977 1-4821268",
+      "website": "http://www.kopanmonastery.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP8cpQwvIYyszOnZUP8pm8ZKfN8YTgzvagfcODn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4H2x_lJkeMPZhHD1ruErgmsOMeWnXnuFDXF-4=s1600-w800-h643",
+        "https://lh3.googleusercontent.com/p/AF1QipNOvl2buz068u30O2nUTzFw6rcZnCGvPt3dM8cc=s1600-w800-h608",
+        "https://lh3.googleusercontent.com/p/AF1QipPRc8ckp0dhEtnk2tQa6Fc3HzqLEcoOdeFlpszT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMY5u3c5xHZQJ4--girUH-VFJgh00xXl-x-Y7kN=s1600-w640-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPIf-8FhqQMiAEVdKlbq-xYJz7xX66MTpyT6yj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvHzdvXBMuEbB79aWXi4dFD2hOeZWE844Lu4Yb=s1600-w800-h718",
+        "https://lh3.googleusercontent.com/p/AF1QipOXqHaBpvc100RWPs-1FAd7IC-qxc2K0iNC71Vh=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipN3x956JZWns9VUcBzXZsEKeu1NpJW7eF3Fc0k2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOb3fQiESlE8YyoKaaHHGtfn-n7GdwlGDaVGDQy=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJkTIYyfob6zkRS61ZD-CX16A",
+      "google_maps_url": "https://maps.google.com/?cid=11589899154647264587",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lumbini Sanskritik 32900, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.4871771,
-            "lng": 83.27735899999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.4885381302915,
-              "lng": 83.2781419802915
-            },
-            "southwest": {
-              "lat": 27.4858401697085,
-              "lng": 83.27544401970849
-            }
-          }
-        },
-        "international_phone_number": "+977 71-580425",
-        "name": "Japanese Monastery Lumbini ( Japanese Temple)",
-        "place_id": "ChIJabf8LReTljkRcTs6MhwiGIk",
-        "url": "https://maps.google.com/?cid=9878683287134288753",
-        "website": "http://www.nippondera.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNrJSiyqude58v4mrjvjYs867Vi1pEmT6Wjp0wT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsk01jTIxiO6zZjomP_ja9oB38XIXE7Q7rS2Ug=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMhcXomK2fvIFGksBcYB8FUSrIfpvjmE1jCdTM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQgSgopfVSRKj_lmr1Txo3wgrWSAihKFjid2H9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOefXYRFv7yh1IzoQQ8VqAcSomtm16coBfqf4zR=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipMkBgCZ_P1ZQffZSecCQX7qd_ZvDWi0cpKGyJq0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipML5wjFCF4dBU6YYwOTFr4bwur4XMUppjzctrow=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNo-_YCNF_9Yq1bWKIzw3qRnzWQ4eHfus4BC7HG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnCuPfKvYFv64p7jYp3FLHT88DnWAaIdX8ecGs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpt1QJ0VF3GeewL19qmWupTpdOo5GypeIPs7Jw=s1600-w800-h800"
-        ]
+      "name": "Japanese Monastery Lumbini ( Japanese Temple)",
+      "location": {
+        "lat": 27.4871771,
+        "lng": 83.27735899999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Lumbini Sanskritik 32900, Nepal",
+      "phone": "+977 71-580425",
+      "website": "http://www.nippondera.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNrJSiyqude58v4mrjvjYs867Vi1pEmT6Wjp0wT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsk01jTIxiO6zZjomP_ja9oB38XIXE7Q7rS2Ug=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMhcXomK2fvIFGksBcYB8FUSrIfpvjmE1jCdTM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQgSgopfVSRKj_lmr1Txo3wgrWSAihKFjid2H9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOefXYRFv7yh1IzoQQ8VqAcSomtm16coBfqf4zR=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipMkBgCZ_P1ZQffZSecCQX7qd_ZvDWi0cpKGyJq0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipML5wjFCF4dBU6YYwOTFr4bwur4XMUppjzctrow=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNo-_YCNF_9Yq1bWKIzw3qRnzWQ4eHfus4BC7HG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnCuPfKvYFv64p7jYp3FLHT88DnWAaIdX8ecGs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpt1QJ0VF3GeewL19qmWupTpdOo5GypeIPs7Jw=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJabf8LReTljkRcTs6MhwiGIk",
+      "google_maps_url": "https://maps.google.com/?cid=9878683287134288753",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "32900, लुम्बिनी साँस्कृतिक 32900, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.4850996,
-            "lng": 83.27326389999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.4864435302915,
-              "lng": 83.2743247302915
-            },
-            "southwest": {
-              "lat": 27.4837455697085,
-              "lng": 83.27162676970849
-            }
-          }
-        },
-        "name": "Urgen Dorjee Choling Buddhist Centre Singapore Temple",
-        "place_id": "ChIJyx-0tmGTljkRkZWh9eUGE1I",
-        "url": "https://maps.google.com/?cid=5914078320405878161",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOBaqsX-Uf6YAcc_1-8ipQy1hlZJH8QjHPXFmv-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPItNad2WbaogVv0M0lmrmD65O8iCc4MXM8ISjL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHNz7s7oEMO5C3ztCrjVn0O7sd1oYbZoKhBU0A=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3U4zuGOqQdn4v0b05_Ts4dr3zWX4wCufh-F89=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMA1tQ05DYCYmnwZmVuiPYJ9POlAkQEPnOzP7RD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZSpoTkZxLDSNDptJvXOpDANQnE8v-NVxD5-Yp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-DkGewifyeMsjfuws4o_fKMBtPBeUaRU3i0jN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhvS_lJRr8jaOFaJjbzdcOTBIDR-4mTXs09GA1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDnYEUs8T6EIp5gD68xDFFyRcTZZdPwL4EX9-U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTh5RJyg2d_28Jt2gYO-0ohzq6J9RVUFNPrDqT=s1600-w800-h800"
-        ]
+      "name": "Urgen Dorjee Choling Buddhist Centre Singapore Temple",
+      "location": {
+        "lat": 27.4850996,
+        "lng": 83.27326389999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "32900, लुम्बिनी साँस्कृतिक 32900, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOBaqsX-Uf6YAcc_1-8ipQy1hlZJH8QjHPXFmv-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPItNad2WbaogVv0M0lmrmD65O8iCc4MXM8ISjL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHNz7s7oEMO5C3ztCrjVn0O7sd1oYbZoKhBU0A=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3U4zuGOqQdn4v0b05_Ts4dr3zWX4wCufh-F89=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMA1tQ05DYCYmnwZmVuiPYJ9POlAkQEPnOzP7RD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZSpoTkZxLDSNDptJvXOpDANQnE8v-NVxD5-Yp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-DkGewifyeMsjfuws4o_fKMBtPBeUaRU3i0jN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhvS_lJRr8jaOFaJjbzdcOTBIDR-4mTXs09GA1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDnYEUs8T6EIp5gD68xDFFyRcTZZdPwL4EX9-U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTh5RJyg2d_28Jt2gYO-0ohzq6J9RVUFNPrDqT=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJyx-0tmGTljkRkZWh9eUGE1I",
+      "google_maps_url": "https://maps.google.com/?cid=5914078320405878161",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Boudha Rd, Kathmandu 44600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.72165859999999,
-            "lng": 85.36308149999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7230409302915,
-              "lng": 85.3642036802915
-            },
-            "southwest": {
-              "lat": 27.7203429697085,
-              "lng": 85.36150571970849
-            }
-          }
-        },
-        "international_phone_number": "+977 1-4471186",
-        "name": "Kyidong Tashi Samtenling Monastery བཀྲ་ཤིས་བསམ་གཏན་གླིང།",
-        "place_id": "ChIJ-34pAtsb6zkRsw504-OfBgY",
-        "url": "https://maps.google.com/?cid=434210215210258099",
-        "website": "http://samtenlingmonastery.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMnBdqlv-xci-E_ZgUziL7aO0oTnpeSKmYJCmR4=s1600-w640-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipNh3WFW7duAv6F4MDF-kCa6q3LXs1T6czfS7BlC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJIg6daucGLa1TfOYOQh-fiuGZERVGALcQf3oY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUhcJ0pRFRKwJNCcrkh2jT9R2Sg3-KmFATHJiw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVxCIg3kPL-wto1HHNVItYZRNQUSYzkC21jXp0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO64e3e5kYVDU-xCNvfToOQb3bzBjuscWQc0TgA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHaIMhQ9Yq2V4yCp-9Gm0tHrr1A4_hniTz1yof=s1600-w720-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipMTa9HRkg0SBfFGKgtqzD14OkTbyAyZNpsAL3vm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPDIuZCekRUzVh-WURkO4-tXh1AcLATkmHmpyIz=s1600-w800-h800"
-        ]
+      "name": "Kyidong Tashi Samtenling Monastery བཀྲ་ཤིས་བསམ་གཏན་གླིང།",
+      "location": {
+        "lat": 27.72165859999999,
+        "lng": 85.36308149999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Boudha Rd, Kathmandu 44600, Nepal",
+      "phone": "+977 1-4471186",
+      "website": "http://samtenlingmonastery.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMnBdqlv-xci-E_ZgUziL7aO0oTnpeSKmYJCmR4=s1600-w640-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipNh3WFW7duAv6F4MDF-kCa6q3LXs1T6czfS7BlC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJIg6daucGLa1TfOYOQh-fiuGZERVGALcQf3oY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUhcJ0pRFRKwJNCcrkh2jT9R2Sg3-KmFATHJiw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVxCIg3kPL-wto1HHNVItYZRNQUSYzkC21jXp0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO64e3e5kYVDU-xCNvfToOQb3bzBjuscWQc0TgA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHaIMhQ9Yq2V4yCp-9Gm0tHrr1A4_hniTz1yof=s1600-w720-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipMTa9HRkg0SBfFGKgtqzD14OkTbyAyZNpsAL3vm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPDIuZCekRUzVh-WURkO4-tXh1AcLATkmHmpyIz=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ-34pAtsb6zkRsw504-OfBgY",
+      "google_maps_url": "https://maps.google.com/?cid=434210215210258099",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lho, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.5516509,
-            "lng": 84.71526999999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.5529998802915,
-              "lng": 84.7166189802915
-            },
-            "southwest": {
-              "lat": 28.5503019197085,
-              "lng": 84.7139210197085
-            }
-          }
-        },
-        "name": "Hinang Monastery",
-        "place_id": "ChIJJ2xbDZRYlTkRntYS1dbCzXo",
-        "url": "https://maps.google.com/?cid=8848943070806464158",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOV6_sXU4cGt6IcNmWbC3IA3fIKp9jXzBy3agZ0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsmv0stStApJ2ExvkHWiRv99QSaXxKfNRsHaTy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNu9WCgRNfHKCGj3sg3OSHF7KW3Ml1j1myouNR_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVVSr1AEejM1yKEQuLrHhTc9CiIqFadzIcBAFM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNg-EBwCgrrMYfC8yEzi_zaX4WXOQZ8zxe05qDd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMgOYys1UQNn7spRCCCSxQ1ncHiRB6mYJbuVrj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQzaQCKl0veseFev7MpAO1jneYSa_iJWaQKDo3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOY7sHEIZ51Lj4Ccm3LHk0KCNdz4Z2LxA7wP5Ev=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNIdIDjd51N1d4bWIcR_2rtYwezSkKYOp3qXNzW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNc6lb-Uy3IRSRohpnmt8bf9vJqe6Rl9ohEwzyO=s1600-w800-h800"
-        ]
+      "name": "Hinang Monastery",
+      "location": {
+        "lat": 28.5516509,
+        "lng": 84.71526999999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Lho, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOV6_sXU4cGt6IcNmWbC3IA3fIKp9jXzBy3agZ0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsmv0stStApJ2ExvkHWiRv99QSaXxKfNRsHaTy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNu9WCgRNfHKCGj3sg3OSHF7KW3Ml1j1myouNR_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVVSr1AEejM1yKEQuLrHhTc9CiIqFadzIcBAFM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNg-EBwCgrrMYfC8yEzi_zaX4WXOQZ8zxe05qDd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMgOYys1UQNn7spRCCCSxQ1ncHiRB6mYJbuVrj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQzaQCKl0veseFev7MpAO1jneYSa_iJWaQKDo3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOY7sHEIZ51Lj4Ccm3LHk0KCNdz4Z2LxA7wP5Ev=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNIdIDjd51N1d4bWIcR_2rtYwezSkKYOp3qXNzW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNc6lb-Uy3IRSRohpnmt8bf9vJqe6Rl9ohEwzyO=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJJ2xbDZRYlTkRntYS1dbCzXo",
+      "google_maps_url": "https://maps.google.com/?cid=8848943070806464158",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kathmandu 44600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.7245092,
-            "lng": 85.360615
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7259659302915,
-              "lng": 85.3617626802915
-            },
-            "southwest": {
-              "lat": 27.72326796970849,
-              "lng": 85.3590647197085
-            }
-          }
-        },
-        "international_phone_number": "+977 1-5178321",
-        "name": "Shechen Monastery",
-        "place_id": "ChIJTSyVq94b6zkRgRbJHZMkRT0",
-        "url": "https://maps.google.com/?cid=4414975223985149569",
-        "website": "http://shechen.org/spiritual-development/monasteries/shechen-tennyi-dargyeling-monastery-kathmandu-nepal/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNhLxXl99Mz7erE53g7P084tY9LkwkSiWAWXG8p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPj4IxshQ_kCbQEQS6nsJfsw12IdQwfoQIz9CLR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAVNmGwSodBvNdqDuRztqpZbG9lI2R0h4e8NJT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMQDinA1MS8PAq74L_WP_OFASCK5KOZb39NGSN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEdcA8MQg2BgeOneA8hbTwuT7b3Ehr9usO5q2w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3DM69WoM9mEGIdhd675hUjmxmp6LQsbahnBsZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvxmA7ERaTui1BTAF7U1UL8NqLLfZDpUKCLauz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvmqsrqxUzIrDFWUAC0G9ITFfcwKZ3eN5uZwI6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOr7jsVye-PTuRRf8ig02QzNIExIS33NporoFD0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcKAwLBoFFLeiLHno1vPVZjJ_GHOGNSBxKz5EX=s1600-w800-h800"
-        ]
+      "name": "Shechen Monastery",
+      "location": {
+        "lat": 27.7245092,
+        "lng": 85.360615
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Kathmandu 44600, Nepal",
+      "phone": "+977 1-5178321",
+      "website": "http://shechen.org/spiritual-development/monasteries/shechen-tennyi-dargyeling-monastery-kathmandu-nepal/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNhLxXl99Mz7erE53g7P084tY9LkwkSiWAWXG8p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPj4IxshQ_kCbQEQS6nsJfsw12IdQwfoQIz9CLR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAVNmGwSodBvNdqDuRztqpZbG9lI2R0h4e8NJT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMQDinA1MS8PAq74L_WP_OFASCK5KOZb39NGSN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEdcA8MQg2BgeOneA8hbTwuT7b3Ehr9usO5q2w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3DM69WoM9mEGIdhd675hUjmxmp6LQsbahnBsZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvxmA7ERaTui1BTAF7U1UL8NqLLfZDpUKCLauz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvmqsrqxUzIrDFWUAC0G9ITFfcwKZ3eN5uZwI6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOr7jsVye-PTuRRf8ig02QzNIExIS33NporoFD0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcKAwLBoFFLeiLHno1vPVZjJ_GHOGNSBxKz5EX=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTSyVq94b6zkRgRbJHZMkRT0",
+      "google_maps_url": "https://maps.google.com/?cid=4414975223985149569",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Swayambhunath, Kathmandu 44600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.71591349999999,
-            "lng": 85.2880524
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7172624802915,
-              "lng": 85.28940138029151
-            },
-            "southwest": {
-              "lat": 27.71456451970849,
-              "lng": 85.28670341970849
-            }
-          }
-        },
-        "name": "Wochen Thukje Choeling Monastery",
-        "place_id": "ChIJE-63m1EZ6zkR3zaTOh9U9uQ",
-        "url": "https://maps.google.com/?cid=16498466778021836511",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPy7Ozr-gy_O_PpzbZH2N8Vw46rjGQtIEhvbzj4=s1600-w600-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBNLdagF1OBdVncHEWlPWMWA5VU2YywZyi4tzH=s1600-w800-h600",
-          "https://lh3.googleusercontent.com/p/AF1QipNiG9yeMhv-cTPbftmgfmKTbA570coD3IDwlmaQ=s1600-w800-h600"
-        ]
+      "name": "Wochen Thukje Choeling Monastery",
+      "location": {
+        "lat": 27.71591349999999,
+        "lng": 85.2880524
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Swayambhunath, Kathmandu 44600, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPy7Ozr-gy_O_PpzbZH2N8Vw46rjGQtIEhvbzj4=s1600-w600-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBNLdagF1OBdVncHEWlPWMWA5VU2YywZyi4tzH=s1600-w800-h600",
+        "https://lh3.googleusercontent.com/p/AF1QipNiG9yeMhv-cTPbftmgfmKTbA570coD3IDwlmaQ=s1600-w800-h600"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJE-63m1EZ6zkR3zaTOh9U9uQ",
+      "google_maps_url": "https://maps.google.com/?cid=16498466778021836511",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lumbini Sanskritik 32900, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.4781864,
-            "lng": 83.2732183
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.4795292302915,
-              "lng": 83.27505418029149
-            },
-            "southwest": {
-              "lat": 27.47683126970849,
-              "lng": 83.27235621970848
-            }
-          }
-        },
-        "name": "Drubgyud Choling Monastery",
-        "place_id": "ChIJP7xtisGVljkRre91bBIZjH8",
-        "url": "https://maps.google.com/?cid=9190748506476113837",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipONJfrVffOHzF4pPKMTCTPz_MxpEOagbgL8aK4k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOo3xWo2YkB-qiA058zaIj6Q9R1IKYUGzsZFRJN=s1600-w800-h800"
-        ]
+      "name": "Drubgyud Choling Monastery",
+      "location": {
+        "lat": 27.4781864,
+        "lng": 83.2732183
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Lumbini Sanskritik 32900, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipONJfrVffOHzF4pPKMTCTPz_MxpEOagbgL8aK4k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOo3xWo2YkB-qiA058zaIj6Q9R1IKYUGzsZFRJN=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJP7xtisGVljkRre91bBIZjH8",
+      "google_maps_url": "https://maps.google.com/?cid=9190748506476113837",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Nagarjun 44609, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.7250258,
-            "lng": 85.2622221
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7262907302915,
-              "lng": 85.26363943029152
-            },
-            "southwest": {
-              "lat": 27.7235927697085,
-              "lng": 85.26094146970851
-            }
-          }
-        },
-        "name": "Druk Amitabha Monastery",
-        "place_id": "ChIJQzsdXG0i6zkRDpMBhMMEh4w",
-        "url": "https://maps.google.com/?cid=10126067524945679118",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNV88nqEGlnV12jUUO47puHwJocrP6h1llIPV6p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMaCxqA5ySomJ6T-Wh4f-9EhXymzzgxUpTc-oYt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPJYJ2MrTfyPqHJB4fbInrAa1eKaVC5ylhaUij=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdCMgCOqLHJNCSyP-lOsfQHRNHNvlgVdMbWKSX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwrsMaWkYKWRyoJQ2CAv2dp3IK01JKb7ehoyWl=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMMgmotrZa32tz1YW2rf0j5PgqI2C3aTd5Lf_ey=s1600-w800-h750",
-          "https://lh3.googleusercontent.com/p/AF1QipNypwyW3atCAQlwll6Mxmxcb5fQbARVFW7Q6Izc=s1600-w800-h750",
-          "https://lh3.googleusercontent.com/p/AF1QipNf7Ip56g4U9Yu3ztysHk2orHuuu56myLVGoCb-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMll_YEUoDAC1fAYn24Tn7YypLiEzWzZgqOha4e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPz4y3N6TdqBmrYsF6yrye3OOVkSmr_yjC0RIA0=s1600-w800-h659"
-        ]
+      "name": "Druk Amitabha Monastery",
+      "location": {
+        "lat": 27.7250258,
+        "lng": 85.2622221
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Nagarjun 44609, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNV88nqEGlnV12jUUO47puHwJocrP6h1llIPV6p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMaCxqA5ySomJ6T-Wh4f-9EhXymzzgxUpTc-oYt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPJYJ2MrTfyPqHJB4fbInrAa1eKaVC5ylhaUij=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdCMgCOqLHJNCSyP-lOsfQHRNHNvlgVdMbWKSX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwrsMaWkYKWRyoJQ2CAv2dp3IK01JKb7ehoyWl=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMMgmotrZa32tz1YW2rf0j5PgqI2C3aTd5Lf_ey=s1600-w800-h750",
+        "https://lh3.googleusercontent.com/p/AF1QipNypwyW3atCAQlwll6Mxmxcb5fQbARVFW7Q6Izc=s1600-w800-h750",
+        "https://lh3.googleusercontent.com/p/AF1QipNf7Ip56g4U9Yu3ztysHk2orHuuu56myLVGoCb-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMll_YEUoDAC1fAYn24Tn7YypLiEzWzZgqOha4e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPz4y3N6TdqBmrYsF6yrye3OOVkSmr_yjC0RIA0=s1600-w800-h659"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJQzsdXG0i6zkRDpMBhMMEh4w",
+      "google_maps_url": "https://maps.google.com/?cid=10126067524945679118",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mukot 21400, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.8850381,
-            "lng": 83.3090727
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.8863870802915,
-              "lng": 83.31042168029151
-            },
-            "southwest": {
-              "lat": 28.8836891197085,
-              "lng": 83.30772371970849
-            }
-          }
-        },
-        "name": "Shanteng monastery",
-        "place_id": "ChIJv1H9EDrBvTkRV_oNa0Jr044",
-        "url": "https://maps.google.com/?cid=10291687506479807063",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMoz0OuPBltAuZcxgA0JpL6UFYtlQlaBGs3eAtJ=s1600-w800-h800"
-        ]
+      "name": "Shanteng monastery",
+      "location": {
+        "lat": 28.8850381,
+        "lng": 83.3090727
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Mukot 21400, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMoz0OuPBltAuZcxgA0JpL6UFYtlQlaBGs3eAtJ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJv1H9EDrBvTkRV_oNa0Jr044",
+      "google_maps_url": "https://maps.google.com/?cid=10291687506479807063",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dakshinkali 44600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.6250263,
-            "lng": 85.2666414
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.6264021302915,
-              "lng": 85.2680645302915
-            },
-            "southwest": {
-              "lat": 27.6237041697085,
-              "lng": 85.26536656970849
-            }
-          }
-        },
-        "name": "Samye Memorial Monastery",
-        "place_id": "ChIJJcWWe2Q96zkRQ1S4igXwkFs",
-        "url": "https://maps.google.com/?cid=6598037360690615363",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPzvqF6US5MRW9d6QF_kLEPVYTOl1zjbup3djGP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4SnszeANBmsgUn7UftU5s4f1BO_HsRR59jm_G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYQXH4DidcQWXWsceu1jvfT6-TO_pK7WAkdaWD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWSJJbI6BCFx8kNFzLqApyglj5ULawldLnYya-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMb6Kc7WQHRrJgeunE0vH8MYDUlAqU44xQynXTB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOppx1xNur6Q_c5PVDc6HZST24j6yiW8GlQUFeZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXrvD7-AP84iNWSSGc4-SyIhl5_rrRkXn-SOGk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7utvXKZ7f8WFMDC_70Voshn_DDzPP9FfDjDcK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMMNNGe9_9bYhkJkmF5i65smtjZgjMnd8tBqQrW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBtWS7hXGPmRkyyIVrIt_yUv5Ck8eCXMup9rvY=s1600-w800-h800"
-        ]
+      "name": "Samye Memorial Monastery",
+      "location": {
+        "lat": 27.6250263,
+        "lng": 85.2666414
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Dakshinkali 44600, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPzvqF6US5MRW9d6QF_kLEPVYTOl1zjbup3djGP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4SnszeANBmsgUn7UftU5s4f1BO_HsRR59jm_G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYQXH4DidcQWXWsceu1jvfT6-TO_pK7WAkdaWD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWSJJbI6BCFx8kNFzLqApyglj5ULawldLnYya-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMb6Kc7WQHRrJgeunE0vH8MYDUlAqU44xQynXTB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOppx1xNur6Q_c5PVDc6HZST24j6yiW8GlQUFeZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXrvD7-AP84iNWSSGc4-SyIhl5_rrRkXn-SOGk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7utvXKZ7f8WFMDC_70Voshn_DDzPP9FfDjDcK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMMNNGe9_9bYhkJkmF5i65smtjZgjMnd8tBqQrW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBtWS7hXGPmRkyyIVrIt_yUv5Ck8eCXMup9rvY=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJJcWWe2Q96zkRQ1S4igXwkFs",
+      "google_maps_url": "https://maps.google.com/?cid=6598037360690615363",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Nagarjun 44600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.7179701,
-            "lng": 85.2766717
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7194138302915,
-              "lng": 85.2781494302915
-            },
-            "southwest": {
-              "lat": 27.7167158697085,
-              "lng": 85.27545146970849
-            }
-          }
-        },
-        "name": "तेर्गार गुम्बा Tergar Osel Ling Monastery",
-        "place_id": "ChIJrcG7j5wY6zkR3gX-Bh0NYug",
-        "url": "https://maps.google.com/?cid=16744960782839449054",
-        "website": "http://tergar.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPKqQrHOMDaSzS4MuiqsHTduEAvzRnkB2Q1LOUK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7c-vrH8dsY591PP06m4S5Vjdjw64AT6Jh_Mzk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9-Z2imU_AyeJsfT3OjGX-6rA6eStfkE8E2ecQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEHsFWVD6MWqLuQMfcR_XN4OaJw1rjl5OASZU5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlZrnL1O-c4m5LIL8qD31smz4RKXyPCm_huYUY=s1600-w720-h405",
-          "https://lh3.googleusercontent.com/p/AF1QipMplL6vOcetCv5WAax1PHWg6M_sdSdjOCBMS8I1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEzYqk2HISfgzeIv3kDrMw_Fuc-yT-k48Ak1yh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPOLtEoqDraEOupbNniVMfm_01lx9yQjdZixPlQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXIH22ITnzTBgLAfoQJfNh1mxT2pXvkgCwE4sK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoXCxRBmJC8fw8jTU9t4AzC-o4m7KyFhlO6T_j=s1600-w800-h800"
-        ]
+      "name": "तेर्गार गुम्बा Tergar Osel Ling Monastery",
+      "location": {
+        "lat": 27.7179701,
+        "lng": 85.2766717
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:20:54.129Z"
-      }
+      "address": "Nagarjun 44600, Nepal",
+      "website": "http://tergar.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPKqQrHOMDaSzS4MuiqsHTduEAvzRnkB2Q1LOUK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7c-vrH8dsY591PP06m4S5Vjdjw64AT6Jh_Mzk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9-Z2imU_AyeJsfT3OjGX-6rA6eStfkE8E2ecQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEHsFWVD6MWqLuQMfcR_XN4OaJw1rjl5OASZU5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlZrnL1O-c4m5LIL8qD31smz4RKXyPCm_huYUY=s1600-w720-h405",
+        "https://lh3.googleusercontent.com/p/AF1QipMplL6vOcetCv5WAax1PHWg6M_sdSdjOCBMS8I1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEzYqk2HISfgzeIv3kDrMw_Fuc-yT-k48Ak1yh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPOLtEoqDraEOupbNniVMfm_01lx9yQjdZixPlQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXIH22ITnzTBgLAfoQJfNh1mxT2pXvkgCwE4sK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoXCxRBmJC8fw8jTU9t4AzC-o4m7KyFhlO6T_j=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJrcG7j5wY6zkR3gX-Bh0NYug",
+      "google_maps_url": "https://maps.google.com/?cid=16744960782839449054",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

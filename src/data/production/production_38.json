@@ -1,647 +1,508 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "4350 NE 133rd Ave, Portland, OR 97230, USA",
-        "geometry": {
-          "location": {
-            "lat": 45.5544279,
-            "lng": -122.5251267
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.5557901302915,
-              "lng": -122.5238642197085
-            },
-            "southwest": {
-              "lat": 45.5530921697085,
-              "lng": -122.5265621802915
-            }
-          }
-        },
-        "international_phone_number": "+1 503-408-6911",
-        "name": "Wat Buddhatham-Aram",
-        "place_id": "ChIJl8hZxb-jlVQRCSQiH7ajF-w",
-        "url": "https://maps.google.com/?cid=17012246120017044489",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMpUFxXV0HbcQn85p7gvNvWKfqdLcghyNY9PLqB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgAKzD3X7vLjGVvVTjBVeHBprOjVOVMPy68hRf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgqf-CRNTK3DEryGZxeIlKGTeycmlGG579Vw8E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMM_afdHKfYVo9oAF8ce70rJs4-iPaQb7tcHMa5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWHUNe4596adIaDVMFHugzBKr2pi1SZIw9KO0e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHmVYubP6rrhAxg8iM-jCzFCHrZDmXt6g2WZkB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0PpUOq261QKa9xS6pwz9KGh6JZDn5hm_5C8yA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPtYNlF1nSUFRF66PPHHLjcsmbwT9yFrTFu8Tns=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOAjVRsQ_NqqTEXVRrsLA1YUN27PlwaVCNKbiTm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNS6_Ugd7CVEMFmfYqUr04wT5qdiHWdgYJ9m59b=s1600-w800-h800"
-        ]
+      "name": "Wat Buddhatham-Aram",
+      "location": {
+        "lat": 45.5544279,
+        "lng": -122.5251267
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "4350 NE 133rd Ave, Portland, OR 97230, USA",
+      "phone": "+1 503-408-6911",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMpUFxXV0HbcQn85p7gvNvWKfqdLcghyNY9PLqB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgAKzD3X7vLjGVvVTjBVeHBprOjVOVMPy68hRf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgqf-CRNTK3DEryGZxeIlKGTeycmlGG579Vw8E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMM_afdHKfYVo9oAF8ce70rJs4-iPaQb7tcHMa5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWHUNe4596adIaDVMFHugzBKr2pi1SZIw9KO0e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHmVYubP6rrhAxg8iM-jCzFCHrZDmXt6g2WZkB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0PpUOq261QKa9xS6pwz9KGh6JZDn5hm_5C8yA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPtYNlF1nSUFRF66PPHHLjcsmbwT9yFrTFu8Tns=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOAjVRsQ_NqqTEXVRrsLA1YUN27PlwaVCNKbiTm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNS6_Ugd7CVEMFmfYqUr04wT5qdiHWdgYJ9m59b=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJl8hZxb-jlVQRCSQiH7ajF-w",
+      "google_maps_url": "https://maps.google.com/?cid=17012246120017044489",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3337 NE 148th Ave, Portland, OR 97230, USA",
-        "geometry": {
-          "location": {
-            "lat": 45.5480057,
-            "lng": -122.5107148
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.5492484302915,
-              "lng": -122.5093802197085
-            },
-            "southwest": {
-              "lat": 45.5465504697085,
-              "lng": -122.5120781802915
-            }
-          }
-        },
-        "international_phone_number": "+1 503-254-0875",
-        "name": "Nam-Quang Temple",
-        "place_id": "ChIJkeM-yLCjlVQR9PAaE8u4vq0",
-        "url": "https://maps.google.com/?cid=12519647196474962164",
-        "website": "https://namquangtemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNAAkTzKTRnJ0MkSipFQojw97HRwZgSjzXHsTII=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQO9UKLlpi459qATzeZF54pSccc2Iv-D5FWs4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAwrQm1Cpu4tyZw-hKl1ws1c_3b4rZnySmqKU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNzDozoUVvemgYx8bM_VyRBr2-_vjTwqoqhb-Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrIbR1XSJE-0GGlOZ9P4H55R9kjc2sWgG3gLo=s1600-w523-h684",
-          "https://lh3.googleusercontent.com/p/AF1QipNOKLL8h5JCV7dSZZNxk-h_CJEYLxDrJTwVpqf1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOd5ycY8tc6DgvAMDTLA1oVx1-7iGdWyExQftlY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUh8pD6R9GseCRS8SYlt864XRxwn7fjH5woh5M=s1600-w800-h800"
-        ]
+      "name": "Nam-Quang Temple",
+      "location": {
+        "lat": 45.5480057,
+        "lng": -122.5107148
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "3337 NE 148th Ave, Portland, OR 97230, USA",
+      "phone": "+1 503-254-0875",
+      "website": "https://namquangtemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNAAkTzKTRnJ0MkSipFQojw97HRwZgSjzXHsTII=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQO9UKLlpi459qATzeZF54pSccc2Iv-D5FWs4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAwrQm1Cpu4tyZw-hKl1ws1c_3b4rZnySmqKU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNzDozoUVvemgYx8bM_VyRBr2-_vjTwqoqhb-Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrIbR1XSJE-0GGlOZ9P4H55R9kjc2sWgG3gLo=s1600-w523-h684",
+        "https://lh3.googleusercontent.com/p/AF1QipNOKLL8h5JCV7dSZZNxk-h_CJEYLxDrJTwVpqf1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOd5ycY8tc6DgvAMDTLA1oVx1-7iGdWyExQftlY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUh8pD6R9GseCRS8SYlt864XRxwn7fjH5woh5M=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJkeM-yLCjlVQR9PAaE8u4vq0",
+      "google_maps_url": "https://maps.google.com/?cid=12519647196474962164",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "14719 SE Powell Blvd, Portland, OR 97236, USA",
-        "geometry": {
-          "location": {
-            "lat": 45.4987007,
-            "lng": -122.511596
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.5000497802915,
-              "lng": -122.5102459197085
-            },
-            "southwest": {
-              "lat": 45.49735181970851,
-              "lng": -122.5129438802915
-            }
-          }
-        },
-        "name": "Minh Quang Temple",
-        "place_id": "ChIJqdOPK_2hlVQRFqymP9dUreE",
-        "url": "https://maps.google.com/?cid=16261747112967318550",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOPdTYOYQHihLyiOG4NZEGQZwtY4XoAOl67yCYx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWX2LYXRAofcjeSNkc6R5r4Sw6mhwdVRelhn2t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_F8_E13MtKFgatkQhRy0yjWnmYzZ19Xf_0cqw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONbngJ6OS9t0AM7I8tdUj2QZR2wdKYEE5e_vKM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYK9FcIaeGt-24TMDRphtyVQYWuYWxOXnC3kfn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1oYP6vxEQmZh4Mf0er2K698vM7GrS2kqP-7sE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdAIY_CUZTZx1EUz0NgRLmuEzg5A0Bm27TiFw4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPigBvmPY8QEHUgz8HRPAoAce4Z9HO7PuKcWgVV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPc_QIIlDMlKZHsYNFax9pkHDZrOTMYZ_u_C-iU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM6DKi4SvdtM8-GWbKUTtPD7ijgoYcO2Q7ueUuT=s1600-w800-h800"
-        ]
+      "name": "Minh Quang Temple",
+      "location": {
+        "lat": 45.4987007,
+        "lng": -122.511596
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "14719 SE Powell Blvd, Portland, OR 97236, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOPdTYOYQHihLyiOG4NZEGQZwtY4XoAOl67yCYx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWX2LYXRAofcjeSNkc6R5r4Sw6mhwdVRelhn2t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_F8_E13MtKFgatkQhRy0yjWnmYzZ19Xf_0cqw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONbngJ6OS9t0AM7I8tdUj2QZR2wdKYEE5e_vKM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYK9FcIaeGt-24TMDRphtyVQYWuYWxOXnC3kfn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1oYP6vxEQmZh4Mf0er2K698vM7GrS2kqP-7sE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdAIY_CUZTZx1EUz0NgRLmuEzg5A0Bm27TiFw4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPigBvmPY8QEHUgz8HRPAoAce4Z9HO7PuKcWgVV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPc_QIIlDMlKZHsYNFax9pkHDZrOTMYZ_u_C-iU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM6DKi4SvdtM8-GWbKUTtPD7ijgoYcO2Q7ueUuT=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqdOPK_2hlVQRFqymP9dUreE",
+      "google_maps_url": "https://maps.google.com/?cid=16261747112967318550",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "19301 176th Ave NE, Woodinville, WA 98072, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.76726099999999,
-            "lng": -122.1069106
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.76869523029149,
-              "lng": -122.1055512197085
-            },
-            "southwest": {
-              "lat": 47.7659972697085,
-              "lng": -122.1082491802915
-            }
-          }
-        },
-        "international_phone_number": "+1 425-481-6640",
-        "name": "Atammayatarama Buddhist Monastery",
-        "place_id": "ChIJTQXNyfgLkFQRDImEj_BlgZg",
-        "url": "https://maps.google.com/?cid=10989176649635105036",
-        "website": "http://www.atamma.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPkgxWWt2VHMtn7WqP3204fcHDUGBRnBQi7M5aP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTd7pNLDaUhcbIs0BkHrbwTv-IkMFcUDRFJZTt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9im5PAbu5XLGaa_PhSBUd1zF9wtm6PScPkV0o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMu_0t3SzptrfjqVF8PchX5_erpR1x9O_F9bh1n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMmRMMNfxMbB7GwA9pdTpso-aW-bcZf0543SSFJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNA_gQ09nO0HuhSPPy_tKUzQtQEkuOWtlStRwRs=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNL_MvfzhDNFcT_mZXF_ffxPzQmO9bz8Y8LFHUi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPlmvrQsuJzjsEwAOX4ipOtnTOJ57hztkbsfB6a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtfd9QSSo4deTc13A1bgl39gSSEELvFDHLZ80Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvFsUFXxgnKAT1TxqvJg_2MfSjiTN__SVW0WVU=s1600-w800-h800"
-        ]
+      "name": "Atammayatarama Buddhist Monastery",
+      "location": {
+        "lat": 47.76726099999999,
+        "lng": -122.1069106
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "19301 176th Ave NE, Woodinville, WA 98072, USA",
+      "phone": "+1 425-481-6640",
+      "website": "http://www.atamma.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPkgxWWt2VHMtn7WqP3204fcHDUGBRnBQi7M5aP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTd7pNLDaUhcbIs0BkHrbwTv-IkMFcUDRFJZTt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9im5PAbu5XLGaa_PhSBUd1zF9wtm6PScPkV0o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMu_0t3SzptrfjqVF8PchX5_erpR1x9O_F9bh1n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMmRMMNfxMbB7GwA9pdTpso-aW-bcZf0543SSFJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNA_gQ09nO0HuhSPPy_tKUzQtQEkuOWtlStRwRs=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNL_MvfzhDNFcT_mZXF_ffxPzQmO9bz8Y8LFHUi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPlmvrQsuJzjsEwAOX4ipOtnTOJ57hztkbsfB6a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtfd9QSSo4deTc13A1bgl39gSSEELvFDHLZ80Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvFsUFXxgnKAT1TxqvJg_2MfSjiTN__SVW0WVU=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTQXNyfgLkFQRDImEj_BlgZg",
+      "google_maps_url": "https://maps.google.com/?cid=10989176649635105036",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "102 NW 179th St, Ridgefield, WA 98642, USA",
-        "geometry": {
-          "location": {
-            "lat": 45.7507495,
-            "lng": -122.6699603
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.7520573802915,
-              "lng": -122.6686113697085
-            },
-            "southwest": {
-              "lat": 45.7493594197085,
-              "lng": -122.6713093302915
-            }
-          }
-        },
-        "international_phone_number": "+1 360-887-6966",
-        "name": "Watt RattanakRaingsey In Ridgefield WA",
-        "place_id": "ChIJEy-tqIKylVQRxF3htrnUeIM",
-        "url": "https://maps.google.com/?cid=9473555710276099524",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP8jGHw3MZUcVKM50wjXxkz8_htdy8PHAzhil5Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcy-zAGI3_PuH79WklaX-3noeyaJygaNogZTLc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNt5V6upeXGMl5itRHZlhEoliY51OEEeL6jUmQo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgHp41aS65GXzuUsbNH8w16RIQLWzFNoiscspa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMyhlw4PexO82sfexWBwIoOmI8m3r3IwDz3ZQgD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqu1_iE9vDmQ1aIwQ0PEpEF177qnOSCqKHo7YD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYCxdWlnixWoVAnoU-r1UqjOGzHRUh9rZ3YOia=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0rCx8vriR2rKrr8I6xlyBgc9jxfPp344aXlSu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFaSpPp-wtfOco9wmTxtiPVupvDs-C14_fLk8K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYcy3tBjKY53q-3_QjkbIvwkSo5bxudlCfrnlq=s1600-w800-h800"
-        ]
+      "name": "Watt RattanakRaingsey In Ridgefield WA",
+      "location": {
+        "lat": 45.7507495,
+        "lng": -122.6699603
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "102 NW 179th St, Ridgefield, WA 98642, USA",
+      "phone": "+1 360-887-6966",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP8jGHw3MZUcVKM50wjXxkz8_htdy8PHAzhil5Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcy-zAGI3_PuH79WklaX-3noeyaJygaNogZTLc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNt5V6upeXGMl5itRHZlhEoliY51OEEeL6jUmQo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgHp41aS65GXzuUsbNH8w16RIQLWzFNoiscspa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMyhlw4PexO82sfexWBwIoOmI8m3r3IwDz3ZQgD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqu1_iE9vDmQ1aIwQ0PEpEF177qnOSCqKHo7YD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYCxdWlnixWoVAnoU-r1UqjOGzHRUh9rZ3YOia=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0rCx8vriR2rKrr8I6xlyBgc9jxfPp344aXlSu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFaSpPp-wtfOco9wmTxtiPVupvDs-C14_fLk8K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYcy3tBjKY53q-3_QjkbIvwkSo5bxudlCfrnlq=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJEy-tqIKylVQRxF3htrnUeIM",
+      "google_maps_url": "https://maps.google.com/?cid=9473555710276099524",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1921 SE 174th Ave, Portland, OR 97233, USA",
-        "geometry": {
-          "location": {
-            "lat": 45.5086463,
-            "lng": -122.4858883
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.51000243029149,
-              "lng": -122.4839487697085
-            },
-            "southwest": {
-              "lat": 45.50730446970849,
-              "lng": -122.4866467302915
-            }
-          }
-        },
-        "international_phone_number": "+1 503-760-4497",
-        "name": "Bokwangsah Temple of America",
-        "place_id": "ChIJj5-M6AiilVQRhsHf4L_jKns",
-        "url": "https://maps.google.com/?cid=8875156428938002822",
-        "website": "http://www.bokwangsah.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOIQFWsVvvMJNt0TV6RikWp-Gh4lusmHkda2Alw=s1600-w800-h612"
-        ]
+      "name": "Bokwangsah Temple of America",
+      "location": {
+        "lat": 45.5086463,
+        "lng": -122.4858883
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "1921 SE 174th Ave, Portland, OR 97233, USA",
+      "phone": "+1 503-760-4497",
+      "website": "http://www.bokwangsah.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOIQFWsVvvMJNt0TV6RikWp-Gh4lusmHkda2Alw=s1600-w800-h612"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJj5-M6AiilVQRhsHf4L_jKns",
+      "google_maps_url": "https://maps.google.com/?cid=8875156428938002822",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4224 SE 62nd Ave, Portland, OR 97206, USA",
-        "geometry": {
-          "location": {
-            "lat": 45.491929,
-            "lng": -122.59915
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.4932799302915,
-              "lng": -122.5979517197085
-            },
-            "southwest": {
-              "lat": 45.4905819697085,
-              "lng": -122.6006496802915
-            }
-          }
-        },
-        "international_phone_number": "+1 971-271-8150",
-        "name": "Hui Lin Temple",
-        "place_id": "ChIJzwfTvQAKlVQR5wtuxYRWX4w",
-        "url": "https://maps.google.com/?cid=10114898416345418727",
-        "website": "http://www.huilinlife.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPcHRavLFbt9Qw2FfqNKLP5F97TtJQp2QW_Ydpb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNViLIBV0dv0CNWZBRRwUNr31dbwZApnPgQ5gL9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlTM-kqrHi5u5cQyAgEVWfDJa-L13pFSVkpjlF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfHU58St-u8obEGiBczEn-5frReGbBbMlTm3Ww=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUY96kyGMVLCLK9Mgg-Vvf2OF_BtAT1uegu7FF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORJ5qQ7rxYqcK7GvK1pS4youspBuJz9HwhjDjs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPbjLVwwhDgA7dhOAqcWPBitWBaijAAxZqx4QMH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0SE6nof4vv8Wasc5HLiEos7txBYQhWwzmcILJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEyYNrZO7QIonkStygA7dnuBE2ipDbHEPykhC9=s1600-w800-h800"
-        ]
+      "name": "Hui Lin Temple",
+      "location": {
+        "lat": 45.491929,
+        "lng": -122.59915
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "4224 SE 62nd Ave, Portland, OR 97206, USA",
+      "phone": "+1 971-271-8150",
+      "website": "http://www.huilinlife.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPcHRavLFbt9Qw2FfqNKLP5F97TtJQp2QW_Ydpb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNViLIBV0dv0CNWZBRRwUNr31dbwZApnPgQ5gL9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlTM-kqrHi5u5cQyAgEVWfDJa-L13pFSVkpjlF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfHU58St-u8obEGiBczEn-5frReGbBbMlTm3Ww=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUY96kyGMVLCLK9Mgg-Vvf2OF_BtAT1uegu7FF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORJ5qQ7rxYqcK7GvK1pS4youspBuJz9HwhjDjs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPbjLVwwhDgA7dhOAqcWPBitWBaijAAxZqx4QMH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0SE6nof4vv8Wasc5HLiEos7txBYQhWwzmcILJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEyYNrZO7QIonkStygA7dnuBE2ipDbHEPykhC9=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzwfTvQAKlVQR5wtuxYRWX4w",
+      "google_maps_url": "https://maps.google.com/?cid=10114898416345418727",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "38702 NW Pacific Hwy, Woodland, WA 98674, USA",
-        "geometry": {
-          "location": {
-            "lat": 45.9008417,
-            "lng": -122.7330024
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.9022794302915,
-              "lng": -122.7314454697085
-            },
-            "southwest": {
-              "lat": 45.89958146970851,
-              "lng": -122.7341434302915
-            }
-          }
-        },
-        "international_phone_number": "+1 360-225-1675",
-        "name": "Wat Pa Lao Woodland",
-        "place_id": "ChIJVVVlHzBPlFQRPOXhtxfj7Uk",
-        "url": "https://maps.google.com/?cid=5327163625257952572",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPVWublM_McVyekVK7X2mHQYFs0yAFlfaJ4F5PY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNfAHw9Fhbnq8CzIf2pecUmBVqFqgkX2CsmCrRN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtPj4zYJlrj_B5dWjR5CqV-xqj5Qm4z38h3pni=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP33GiO3Jaby9MIS1bjVbPMOKpgzJn6k9U7-mJt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7Knqi8U6ahR-2bMkdGvlQiWkxsQMPEUxMgC9z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1e5pvuCWoCpoou3JALa-Clsq66-je5nOOs0zO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_WH4LmwYjmwxoSlbx7ZW8NBVjafeGBWYl84Aa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPw4OGr11Eb3qPVr4zElqDpZWdsoGJDshpgQ2A=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzSF565d1LQiw8IK2E7TIW-232xlTX46cS7P_P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQDSpnbbsp3dMYEllX_ov34-A1EVS4BIgw3QEC=s1600-w800-h800"
-        ]
+      "name": "Wat Pa Lao Woodland",
+      "location": {
+        "lat": 45.9008417,
+        "lng": -122.7330024
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "38702 NW Pacific Hwy, Woodland, WA 98674, USA",
+      "phone": "+1 360-225-1675",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPVWublM_McVyekVK7X2mHQYFs0yAFlfaJ4F5PY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNfAHw9Fhbnq8CzIf2pecUmBVqFqgkX2CsmCrRN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtPj4zYJlrj_B5dWjR5CqV-xqj5Qm4z38h3pni=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP33GiO3Jaby9MIS1bjVbPMOKpgzJn6k9U7-mJt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7Knqi8U6ahR-2bMkdGvlQiWkxsQMPEUxMgC9z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1e5pvuCWoCpoou3JALa-Clsq66-je5nOOs0zO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_WH4LmwYjmwxoSlbx7ZW8NBVjafeGBWYl84Aa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPw4OGr11Eb3qPVr4zElqDpZWdsoGJDshpgQ2A=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzSF565d1LQiw8IK2E7TIW-232xlTX46cS7P_P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQDSpnbbsp3dMYEllX_ov34-A1EVS4BIgw3QEC=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVVVlHzBPlFQRPOXhtxfj7Uk",
+      "google_maps_url": "https://maps.google.com/?cid=5327163625257952572",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Eastfields House, Alrewas Rd, Burton-on-Trent DE13 7HR, UK",
-        "geometry": {
-          "location": {
-            "lat": 52.7481842,
-            "lng": -1.8039467
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.7492469302915,
-              "lng": -1.802706369708499
-            },
-            "southwest": {
-              "lat": 52.7465489697085,
-              "lng": -1.805404330291502
-            }
-          }
-        },
-        "international_phone_number": "+44 1543 472315",
-        "name": "Wat Mahathat Kings Bromley",
-        "place_id": "ChIJn9evYpkIekgR3JHHF9WLqMw",
-        "url": "https://maps.google.com/?cid=14747190727167939036",
-        "website": "http://www.watmahathatuk.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO6xobWdjcJgMfiWqYv744yY4CgG1xhmgy20GHW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuMp3tThIqlnWTPbwHuVGUcdkr9Y4_MZ1TF5Z1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhQHPhefQ6GkF9OQvUhlgv05WuLl0T-15ZYhnF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMCvmDjDBDj1WgnElc6CjsWLIu974G31kSATTu3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzXIr8s-8jbmDnTd6Rn3-0nISSw8bcaQZKSNmL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTFQRiRh9jTttOp7X680-U9GPxGEAZy4Rk7DP-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM91pzHpuV3OKrWWmHz9UJqTO_ls0bfhbIShyWR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfay85rYoq9dhPHfbeusAI5I7Vta2N6TZ38Fx8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-SglyxzRs1GBks_kk7cDe9mk4rBf75T7uXcfj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6mHH5U_DM3t_sIFnFPnCo2ekd-jQ5kqzieaC2=s1600-w800-h800"
-        ]
+      "name": "Wat Mahathat Kings Bromley",
+      "location": {
+        "lat": 52.7481842,
+        "lng": -1.8039467
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "Eastfields House, Alrewas Rd, Burton-on-Trent DE13 7HR, UK",
+      "phone": "+44 1543 472315",
+      "website": "http://www.watmahathatuk.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO6xobWdjcJgMfiWqYv744yY4CgG1xhmgy20GHW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuMp3tThIqlnWTPbwHuVGUcdkr9Y4_MZ1TF5Z1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhQHPhefQ6GkF9OQvUhlgv05WuLl0T-15ZYhnF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMCvmDjDBDj1WgnElc6CjsWLIu974G31kSATTu3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzXIr8s-8jbmDnTd6Rn3-0nISSw8bcaQZKSNmL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTFQRiRh9jTttOp7X680-U9GPxGEAZy4Rk7DP-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM91pzHpuV3OKrWWmHz9UJqTO_ls0bfhbIShyWR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfay85rYoq9dhPHfbeusAI5I7Vta2N6TZ38Fx8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-SglyxzRs1GBks_kk7cDe9mk4rBf75T7uXcfj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6mHH5U_DM3t_sIFnFPnCo2ekd-jQ5kqzieaC2=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJn9evYpkIekgR3JHHF9WLqMw",
+      "google_maps_url": "https://maps.google.com/?cid=14747190727167939036",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "9 Una Ave, Braunstone Town, Leicester LE3 2GS, UK",
-        "geometry": {
-          "location": {
-            "lat": 52.6095754,
-            "lng": -1.1716093
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.6108700302915,
-              "lng": -1.170314319708498
-            },
-            "southwest": {
-              "lat": 52.6081720697085,
-              "lng": -1.173012280291502
-            }
-          }
-        },
-        "international_phone_number": "+44 116 282 5003",
-        "name": "Leicester Buddhist Vihara ( EMBA )",
-        "place_id": "ChIJA5IucE1nd0gRmA8Xj2Kg1Kw",
-        "url": "https://maps.google.com/?cid=12453755214754156440",
-        "website": "http://www.leicesterbuddhistvihara.co.uk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPBFq3cwcyyTLuN5A0HDvqelwb__h8JstWMuEet=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAECdTGyCCPanxphN_Koj3-IVwCX01ICrqS8hf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOxPdgViPmgZT8XKopj2EyrfRzG6gx3Na2lJFY1=s1600-w760-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5SvmoXavS7YlEQH-Hf6TQxDno9ViFm2nUKMUq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBh8xUt2CqHw3xgCVxMH39oBtCmechpfZhzRZq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOFfUvEeNJH2J_li7d-xoRVTZRWTQVPlT0RtJJl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPU-4glxhMmuNHwFyWUdg9WgBQ8a95RCMAakjDE=s1600-w800-h800"
-        ]
+      "name": "Leicester Buddhist Vihara ( EMBA )",
+      "location": {
+        "lat": 52.6095754,
+        "lng": -1.1716093
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "9 Una Ave, Braunstone Town, Leicester LE3 2GS, UK",
+      "phone": "+44 116 282 5003",
+      "website": "http://www.leicesterbuddhistvihara.co.uk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPBFq3cwcyyTLuN5A0HDvqelwb__h8JstWMuEet=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAECdTGyCCPanxphN_Koj3-IVwCX01ICrqS8hf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOxPdgViPmgZT8XKopj2EyrfRzG6gx3Na2lJFY1=s1600-w760-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5SvmoXavS7YlEQH-Hf6TQxDno9ViFm2nUKMUq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBh8xUt2CqHw3xgCVxMH39oBtCmechpfZhzRZq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOFfUvEeNJH2J_li7d-xoRVTZRWTQVPlT0RtJJl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPU-4glxhMmuNHwFyWUdg9WgBQ8a95RCMAakjDE=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA5IucE1nd0gRmA8Xj2Kg1Kw",
+      "google_maps_url": "https://maps.google.com/?cid=12453755214754156440",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Via Vincenzo Monti, 31, 20080 Zibido San Giacomo MI, Italy",
-        "geometry": {
-          "location": {
-            "lat": 45.367647,
-            "lng": 9.119524000000002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.3690293802915,
-              "lng": 9.120855430291506
-            },
-            "southwest": {
-              "lat": 45.3663314197085,
-              "lng": 9.118157469708501
-            }
-          }
-        },
-        "international_phone_number": "+39 02 2106 6186",
-        "name": "Mahamevnawa Meditation Monastery",
-        "place_id": "ChIJc2-tOOjchkcRaxUyPhyeSkM",
-        "url": "https://maps.google.com/?cid=4848861792957502827",
-        "website": "http://mahamevnawa.it/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mahamevnawa Meditation Monastery",
+      "location": {
+        "lat": 45.367647,
+        "lng": 9.119524000000002
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Via Vincenzo Monti, 31, 20080 Zibido San Giacomo MI, Italy",
+      "phone": "+39 02 2106 6186",
+      "website": "http://mahamevnawa.it/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJc2-tOOjchkcRaxUyPhyeSkM",
+      "google_maps_url": "https://maps.google.com/?cid=4848861792957502827",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Via Vincenzo Monti, 31, 20016 Pero MI, Italy",
-        "geometry": {
-          "location": {
-            "lat": 45.513755,
-            "lng": 9.094199000000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.5151535802915,
-              "lng": 9.095733530291504
-            },
-            "southwest": {
-              "lat": 45.5124556197085,
-              "lng": 9.0930355697085
-            }
-          }
-        },
-        "international_phone_number": "+39 02 2106 6186",
-        "name": "Mahamevnawa Meditation Monastery, Italy",
-        "place_id": "ChIJS5O4v-fchkcR4PLhPtxQI8g",
-        "url": "https://maps.google.com/?cid=14421459338648482528",
-        "website": "http://www.mahamevnawa.it/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNL-MUqklb2ZqHxPri9VSTNbV7doZT7J9twvyNU=s1600-w470-h702",
-          "https://lh3.googleusercontent.com/p/AF1QipMGvr-QxHALK96PS9BkQqofi0A01bRpt2_1psvx=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Meditation Monastery, Italy",
+      "location": {
+        "lat": 45.513755,
+        "lng": 9.094199000000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "Via Vincenzo Monti, 31, 20016 Pero MI, Italy",
+      "phone": "+39 02 2106 6186",
+      "website": "http://www.mahamevnawa.it/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNL-MUqklb2ZqHxPri9VSTNbV7doZT7J9twvyNU=s1600-w470-h702",
+        "https://lh3.googleusercontent.com/p/AF1QipMGvr-QxHALK96PS9BkQqofi0A01bRpt2_1psvx=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJS5O4v-fchkcR4PLhPtxQI8g",
+      "google_maps_url": "https://maps.google.com/?cid=14421459338648482528",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "56040 Santa Luce, Province of Pisa, Italy",
-        "geometry": {
-          "location": {
-            "lat": 43.4446538,
-            "lng": 10.5710452
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.4456809802915,
-              "lng": 10.5718768
-            },
-            "southwest": {
-              "lat": 43.4429830197085,
-              "lng": 10.5685504
-            }
-          }
-        },
-        "name": "Lhungtok Choekhorling Monastery",
-        "place_id": "ChIJ_ZyHo-b51RIRew-P4cFNBx0",
-        "url": "https://maps.google.com/?cid=2091726047045160827",
-        "website": "http://www.sangha.it/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOGiFMdr4YqjrGc7m202RLFTpct2c2G2ncDg-jl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7LbyS8nXn_qVWLWeP25J6_EULWg7JPhsuiHMP=s1600-w800-h800"
-        ]
+      "name": "Lhungtok Choekhorling Monastery",
+      "location": {
+        "lat": 43.4446538,
+        "lng": 10.5710452
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:53:07.187Z"
-      }
+      "address": "56040 Santa Luce, Province of Pisa, Italy",
+      "website": "http://www.sangha.it/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOGiFMdr4YqjrGc7m202RLFTpct2c2G2ncDg-jl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7LbyS8nXn_qVWLWeP25J6_EULWg7JPhsuiHMP=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_ZyHo-b51RIRew-P4cFNBx0",
+      "google_maps_url": "https://maps.google.com/?cid=2091726047045160827",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

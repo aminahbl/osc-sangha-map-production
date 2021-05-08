@@ -1,2648 +1,2090 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Phước Thái, Long Thành District, Dong Nai, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 10.6578099,
-            "lng": 107.0361716
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 10.6591988802915,
-              "lng": 107.0376311802915
-            },
-            "southwest": {
-              "lat": 10.6565009197085,
-              "lng": 107.0349332197085
-            }
-          }
-        },
-        "international_phone_number": "+84 251 3841 382",
-        "name": "Lieu Duc Monastery",
-        "place_id": "ChIJ_____6MQdTERj6yI42mSExw",
-        "url": "https://maps.google.com/?cid=2023121641106091151",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMk1hQqxtzTe60ITffWJevR8w0otvGH2fcMBpKJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPA9f0_YmKmZNCtMFrsqkEUt5Sk8-Cwm6cz4X5U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN2GOXkcJcK0b1PM47xLp_w6pRfpN5yULu4lJTk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoEX7gbIKrASPkjh5UXJJumTj_kciSjnr_xLnf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNoz3TeSpGmweKEizs3uGY-ZzEzKEhpR_a8ruPr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgQlNJdycq5hvr9eIFzWyMkbfsm_Y8z44WvrJp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUZqPHZ0M57QQLtz6E6_sDnog4RwfJwdKv6ozC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMM86d-AaHzwqURcSe2oTxKjzhtmaCgcqJSS5ot=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOATB_QPt-NwdlX4qQtCXB-gW9LukDeaqWTan2k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEVc2x9yt_df78h4-kLK3MlPdXIxNA748FWdKT=s1600-w800-h800"
-        ]
+      "name": "Lieu Duc Monastery",
+      "location": {
+        "lat": 10.6578099,
+        "lng": 107.0361716
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Phước Thái, Long Thành District, Dong Nai, Vietnam",
+      "phone": "+84 251 3841 382",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMk1hQqxtzTe60ITffWJevR8w0otvGH2fcMBpKJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPA9f0_YmKmZNCtMFrsqkEUt5Sk8-Cwm6cz4X5U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN2GOXkcJcK0b1PM47xLp_w6pRfpN5yULu4lJTk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoEX7gbIKrASPkjh5UXJJumTj_kciSjnr_xLnf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNoz3TeSpGmweKEizs3uGY-ZzEzKEhpR_a8ruPr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgQlNJdycq5hvr9eIFzWyMkbfsm_Y8z44WvrJp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUZqPHZ0M57QQLtz6E6_sDnog4RwfJwdKv6ozC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMM86d-AaHzwqURcSe2oTxKjzhtmaCgcqJSS5ot=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOATB_QPt-NwdlX4qQtCXB-gW9LukDeaqWTan2k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEVc2x9yt_df78h4-kLK3MlPdXIxNA748FWdKT=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_____6MQdTERj6yI42mSExw",
+      "google_maps_url": "https://maps.google.com/?cid=2023121641106091151",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Thạnh Tân, Tân Phước District, Tien Giang, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 10.543597,
-            "lng": 106.1651289
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 10.5449258802915,
-              "lng": 106.1664779302915
-            },
-            "southwest": {
-              "lat": 10.5422279197085,
-              "lng": 106.1637799697085
-            }
-          }
-        },
-        "international_phone_number": "+84 273 3643 643",
-        "name": "Trúc Lâm Chánh Giác Zen Monastery",
-        "place_id": "ChIJN6Ye_--_CjERIOs8Nbw6icM",
-        "url": "https://maps.google.com/?cid=14089857489226754848",
-        "website": "http://thuongchieu.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNhBJvGXbKV9FXNQdv97nLVM8YjJeLc1gtExCB7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONba0gkenZchiSC84OAhi637HfO0-i-zbNFAR6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3Q7x5bnz5kmK52aUsiPbb7nNdd4sYBkK1e4dy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtgSHu6G4JX-tDZzNv99xXBxrR3Kf_0m6U1edx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnjJGpQqAMXlEPUxxkB4RGU343A5DFnj4LJxbi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOoohXDPBpKMhR2w_9Ysrx4WXEhe_g7YRxrNQp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNf7inHrQwZNtCsvdBlvrCum9mfkrKyHFXUObUo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMf-TCQ8bjAtM9SwPREvFiLxauerPudeOzBJoNt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8PPObVeykb7fgMImidv2yG61Qy3VNUSPYwgY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMymdBWdeX9KcuYaCx_I6lH0CZn_--7w1_gtLAX=s1600-w800-h800"
-        ]
+      "name": "Trúc Lâm Chánh Giác Zen Monastery",
+      "location": {
+        "lat": 10.543597,
+        "lng": 106.1651289
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Thạnh Tân, Tân Phước District, Tien Giang, Vietnam",
+      "phone": "+84 273 3643 643",
+      "website": "http://thuongchieu.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNhBJvGXbKV9FXNQdv97nLVM8YjJeLc1gtExCB7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONba0gkenZchiSC84OAhi637HfO0-i-zbNFAR6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3Q7x5bnz5kmK52aUsiPbb7nNdd4sYBkK1e4dy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtgSHu6G4JX-tDZzNv99xXBxrR3Kf_0m6U1edx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnjJGpQqAMXlEPUxxkB4RGU343A5DFnj4LJxbi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOoohXDPBpKMhR2w_9Ysrx4WXEhe_g7YRxrNQp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNf7inHrQwZNtCsvdBlvrCum9mfkrKyHFXUObUo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMf-TCQ8bjAtM9SwPREvFiLxauerPudeOzBJoNt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8PPObVeykb7fgMImidv2yG61Qy3VNUSPYwgY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMymdBWdeX9KcuYaCx_I6lH0CZn_--7w1_gtLAX=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJN6Ye_--_CjERIOs8Nbw6icM",
+      "google_maps_url": "https://maps.google.com/?cid=14089857489226754848",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Chùa Phước Sơn, 368 Bắc Sơn - Long Thành, Phước Tân, Long Thành, Đồng Nai, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 10.9329126,
-            "lng": 106.9458919
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 10.9342204802915,
-              "lng": 106.9486252
-            },
-            "southwest": {
-              "lat": 10.9315225197085,
-              "lng": 106.9449808
-            }
-          }
-        },
-        "international_phone_number": "+84 251 3967 237",
-        "name": "Phuoc Son Monastery",
-        "place_id": "ChIJJbKZhcTgdDERqagKbA8VUx8",
-        "url": "https://maps.google.com/?cid=2257170994224081065",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMCasdXuXK7928ITfnK6GW715SONgRyvr72H-GU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1q_jrgkIAiNsfSwQx7nftmHydNTgBnDT40G4m=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeZ6L0b4c4Pvs6eAz88KKuSU0JZY88beW7QLtf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNp7paisXXHIIrP2Xf3La4T5B1jVssDLXOYOIhE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2XLJc40Od0EIdUMeJG-Wf7OxuiGBWvpnI52uD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMq8XYS0XUgevGlc9wyl-k05kCMEo5rcPBA2LEV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXZT6WTp9phHy665VopI_u5xtIgf1Weewgv6SH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnbGqqMB27mfN8xOfE9_9WLfxC4__YgYh_3Oue=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNVJSNa1bzuHMpPXPTQd-P92HQuBhJ63-4IbXs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNl7jaqIbeJtz9IpduVqbFeJfUg7zdjzbNU99s=s1600-w800-h800"
-        ]
+      "name": "Phuoc Son Monastery",
+      "location": {
+        "lat": 10.9329126,
+        "lng": 106.9458919
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Chùa Phước Sơn, 368 Bắc Sơn - Long Thành, Phước Tân, Long Thành, Đồng Nai, Vietnam",
+      "phone": "+84 251 3967 237",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMCasdXuXK7928ITfnK6GW715SONgRyvr72H-GU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1q_jrgkIAiNsfSwQx7nftmHydNTgBnDT40G4m=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeZ6L0b4c4Pvs6eAz88KKuSU0JZY88beW7QLtf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNp7paisXXHIIrP2Xf3La4T5B1jVssDLXOYOIhE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2XLJc40Od0EIdUMeJG-Wf7OxuiGBWvpnI52uD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMq8XYS0XUgevGlc9wyl-k05kCMEo5rcPBA2LEV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXZT6WTp9phHy665VopI_u5xtIgf1Weewgv6SH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnbGqqMB27mfN8xOfE9_9WLfxC4__YgYh_3Oue=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNVJSNa1bzuHMpPXPTQd-P92HQuBhJ63-4IbXs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNl7jaqIbeJtz9IpduVqbFeJfUg7zdjzbNU99s=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJJbKZhcTgdDERqagKbA8VUx8",
+      "google_maps_url": "https://maps.google.com/?cid=2257170994224081065",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "QL51, Long Đức, Long Thành, Đồng Nai, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 10.8387358,
-            "lng": 106.9344714
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 10.8396535802915,
-              "lng": 106.9351965802915
-            },
-            "southwest": {
-              "lat": 10.8369556197085,
-              "lng": 106.9324986197085
-            }
-          }
-        },
-        "name": "Lotus Temple",
-        "place_id": "ChIJQT4onJUfdTERQz81c4ZOS6w",
-        "url": "https://maps.google.com/?cid=12415103137142357827",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMzkmchOxoHwhyrkpYnuS4joK6Gpyh5tc47h-Nc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvMCtvfxvpIcv7K-KHnsSeVTrh7O-Sxge6tHag=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO873-LFSrvsuH16S6dF_PQn3sw-q-deJiC2cfd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEY4TGjbJCbi9q2ojUjpTdPUfWUj6qoAiGq-if=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYVTOzTAQChIEYD1fi7hwpVRa2MkXKv7THiN48=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTmyTV_7SjbcTq0h28Ru_hek2qhCbwfXryS-5M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKKXRi-jZjtoNUxveVR3H5rxAMnZfLs3iDr2Ym=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNY2l40bJt9DprA5JUqHI173NuZAduIRrcRJmqw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4LfLPiJm_KZIlT_lbi8377KxxaNVY55qoTbGA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4webiCP1vEdm-23dGSpjBrEWAYKnkMKJQrCmD=s1600-w800-h800"
-        ]
+      "name": "Lotus Temple",
+      "location": {
+        "lat": 10.8387358,
+        "lng": 106.9344714
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "QL51, Long Đức, Long Thành, Đồng Nai, Vietnam",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMzkmchOxoHwhyrkpYnuS4joK6Gpyh5tc47h-Nc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvMCtvfxvpIcv7K-KHnsSeVTrh7O-Sxge6tHag=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO873-LFSrvsuH16S6dF_PQn3sw-q-deJiC2cfd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEY4TGjbJCbi9q2ojUjpTdPUfWUj6qoAiGq-if=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYVTOzTAQChIEYD1fi7hwpVRa2MkXKv7THiN48=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTmyTV_7SjbcTq0h28Ru_hek2qhCbwfXryS-5M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKKXRi-jZjtoNUxveVR3H5rxAMnZfLs3iDr2Ym=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNY2l40bJt9DprA5JUqHI173NuZAduIRrcRJmqw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4LfLPiJm_KZIlT_lbi8377KxxaNVY55qoTbGA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4webiCP1vEdm-23dGSpjBrEWAYKnkMKJQrCmD=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJQT4onJUfdTERQz81c4ZOS6w",
+      "google_maps_url": "https://maps.google.com/?cid=12415103137142357827",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "TL 923, Mỹ Khánh, Phong Điền, Cần Thơ, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 9.989645399999999,
-            "lng": 105.7039729
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 9.991344130291504,
-              "lng": 105.7052657302915
-            },
-            "southwest": {
-              "lat": 9.988646169708499,
-              "lng": 105.7025677697085
-            }
-          }
-        },
-        "name": "Trúc Lâm Phương Nam Zen Monastery",
-        "place_id": "ChIJWfJgaEaJoDERmIoFJ89z2v4",
-        "url": "https://maps.google.com/?cid=18364117764106717848",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMt3WKnO8qgNYPYsEhZPxHI6QUDYc8gNnPZeP_H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMm4m3mwmO4TZWf4QzborfipgGEiWoEQmC4uAvj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNfnPnxSd6-X2Qje5snOy2H2i6o6Fgkg7yYRFht=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBODZDSd2GlyiDzcDKVOILF2uJ7X1M5WcXgLad=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNU4eqRYD5HDstMI2UUIC7DUdHSAdt7sZVpMI2L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNLFfdnemCa-ZAzuUFGGhGFoxGtk33YIhdhJdc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPST66xAUsedrAFCUbPA0Q9et4_JbE-vMOsUeyv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkKKLooXOIcgPXyTgzEXcoBiPzl9RfbYO5_Rw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuyLosjvNGQzik8tJJ7GIuEoD9wP7FGGr2qQqX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwbKwxV0-9Ahap_zJa6DXhOUbujQTMj6N1R7KI=s1600-w800-h800"
-        ]
+      "name": "Trúc Lâm Phương Nam Zen Monastery",
+      "location": {
+        "lat": 9.989645399999999,
+        "lng": 105.7039729
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "TL 923, Mỹ Khánh, Phong Điền, Cần Thơ, Vietnam",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMt3WKnO8qgNYPYsEhZPxHI6QUDYc8gNnPZeP_H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMm4m3mwmO4TZWf4QzborfipgGEiWoEQmC4uAvj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNfnPnxSd6-X2Qje5snOy2H2i6o6Fgkg7yYRFht=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBODZDSd2GlyiDzcDKVOILF2uJ7X1M5WcXgLad=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNU4eqRYD5HDstMI2UUIC7DUdHSAdt7sZVpMI2L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNLFfdnemCa-ZAzuUFGGhGFoxGtk33YIhdhJdc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPST66xAUsedrAFCUbPA0Q9et4_JbE-vMOsUeyv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkKKLooXOIcgPXyTgzEXcoBiPzl9RfbYO5_Rw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuyLosjvNGQzik8tJJ7GIuEoD9wP7FGGr2qQqX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwbKwxV0-9Ahap_zJa6DXhOUbujQTMj6N1R7KI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJWfJgaEaJoDERmIoFJ89z2v4",
+      "google_maps_url": "https://maps.google.com/?cid=18364117764106717848",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ấp 1, Tân Phước, Tiền Giang, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 10.5436515,
-            "lng": 106.1659681
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 10.5450994802915,
-              "lng": 106.1673164302915
-            },
-            "southwest": {
-              "lat": 10.5424015197085,
-              "lng": 106.1646184697085
-            }
-          }
-        },
-        "international_phone_number": "+84 273 3643 643",
-        "name": "Main Hall - Trúc Lâm Chánh Giác Zen Monastery",
-        "place_id": "ChIJR5VO7uS_CjERg7cTaK53bNI",
-        "url": "https://maps.google.com/?cid=15162625636403754883",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOhr6AXeVn6b67KqxbaY0F8iaebrt6Xu7FmJspB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMTECSPeZPAovapPyArkipuDyYO8L14zLP3uQPO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPk0_d7Tkf8o9kGc_ByAi81vGjwHOQqxr6c1sRw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPRJvxo4hxq7dueaMkvA7RhPvtizcVc2MlH1LSJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNxcZ9hUjiYYe83QKM-TZGj9Zg6Jdbh8WoxxIGO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMi-2IfGm0bnG2wlC742zeS7jl528NJQJUThdIr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEgAvZheDRQmeGwDhNL1XeIPlw8OTf3eln-F0_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOgl85E_yI8_8kj8Oqyj49mjIoLPoo3pksriNDB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxe2uiMJajyL0KgxJSbvl6mUj_TW9JYPabXXPt=s1600-w800-h639",
-          "https://lh3.googleusercontent.com/p/AF1QipOEtB6YAiXN7g56Q60sJ6MNSEZT2KYlMADoPX-c=s1600-w800-h800"
-        ]
+      "name": "Main Hall - Trúc Lâm Chánh Giác Zen Monastery",
+      "location": {
+        "lat": 10.5436515,
+        "lng": 106.1659681
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Ấp 1, Tân Phước, Tiền Giang, Vietnam",
+      "phone": "+84 273 3643 643",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOhr6AXeVn6b67KqxbaY0F8iaebrt6Xu7FmJspB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMTECSPeZPAovapPyArkipuDyYO8L14zLP3uQPO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPk0_d7Tkf8o9kGc_ByAi81vGjwHOQqxr6c1sRw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPRJvxo4hxq7dueaMkvA7RhPvtizcVc2MlH1LSJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNxcZ9hUjiYYe83QKM-TZGj9Zg6Jdbh8WoxxIGO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMi-2IfGm0bnG2wlC742zeS7jl528NJQJUThdIr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEgAvZheDRQmeGwDhNL1XeIPlw8OTf3eln-F0_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOgl85E_yI8_8kj8Oqyj49mjIoLPoo3pksriNDB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxe2uiMJajyL0KgxJSbvl6mUj_TW9JYPabXXPt=s1600-w800-h639",
+        "https://lh3.googleusercontent.com/p/AF1QipOEtB6YAiXN7g56Q60sJ6MNSEZT2KYlMADoPX-c=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJR5VO7uS_CjERg7cTaK53bNI",
+      "google_maps_url": "https://maps.google.com/?cid=15162625636403754883",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Hưng Thành, Vĩnh Lợi, Bạc Liêu, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 9.3858968,
-            "lng": 105.8352702
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 9.387237980291502,
-              "lng": 105.8366927802915
-            },
-            "southwest": {
-              "lat": 9.384540019708497,
-              "lng": 105.8339948197085
-            }
-          }
-        },
-        "international_phone_number": "+84 814 509 856",
-        "name": "Chùa Vạn Linh - Van Linh Monastery",
-        "place_id": "ChIJUTAzj_OooTERcRqyFX219PI",
-        "url": "https://maps.google.com/?cid=17506817200335493745",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNJt4TMluHihxz-q_VIl14CRlFH87KXbGPU5UND=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMnlsOdGvmpF2j6rG4U4-2QgimMwmPF7YcGdBe2=s1600-w800-h640"
-        ]
+      "name": "Chùa Vạn Linh - Van Linh Monastery",
+      "location": {
+        "lat": 9.3858968,
+        "lng": 105.8352702
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Hưng Thành, Vĩnh Lợi, Bạc Liêu, Vietnam",
+      "phone": "+84 814 509 856",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNJt4TMluHihxz-q_VIl14CRlFH87KXbGPU5UND=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMnlsOdGvmpF2j6rG4U4-2QgimMwmPF7YcGdBe2=s1600-w800-h640"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJUTAzj_OooTERcRqyFX219PI",
+      "google_maps_url": "https://maps.google.com/?cid=17506817200335493745",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "341 Nguyễn Tất Thành, Chợ Lầu, Bắc Bình, Bình Thuận, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 11.2213649,
-            "lng": 108.5045684
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.2227593802915,
-              "lng": 108.5059256802915
-            },
-            "southwest": {
-              "lat": 11.2200614197085,
-              "lng": 108.5032277197085
-            }
-          }
-        },
-        "name": "Sangha Monastery",
-        "place_id": "ChIJ8x_oob7GdjERGuOGSP61isk",
-        "url": "https://maps.google.com/?cid=14522620052152705818",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNqtwelqigDHAbxpaxjiwprkxLZS9M6y5skev2W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhEHLLnuGWJp7esadjN8SBUPd7RtePCUEtmGL3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAWHMWANBVmWs_RLMs-VzD1wSu5OtWs9qOBjxB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcNGNUFyopRiiDODtpkB7TTeQsoDmCBIzDSESq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpiT7OvqleAUGVv294nEt9REXQmBtwk9zLBROF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcy_OnncWFr3HJM6NP5lnDQldDKaGghivrbzLE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNj_FMMqRuIBZ6Xc6g4TWU9SPQ5cGUfI2xMHLTk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSITOEVlI21hrpobnT9O0ho43eRMLXib_3Hoj_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0Z58OW6Tg4p0J_eFxhucdfvRTnj1nJ31Crg2W=s1600-w800-h592",
-          "https://lh3.googleusercontent.com/p/AF1QipP9C42UB8nau8J1EIAJeakJvUOogECTtX7v--2F=s1600-w712-h403"
-        ]
+      "name": "Sangha Monastery",
+      "location": {
+        "lat": 11.2213649,
+        "lng": 108.5045684
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "341 Nguyễn Tất Thành, Chợ Lầu, Bắc Bình, Bình Thuận, Vietnam",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNqtwelqigDHAbxpaxjiwprkxLZS9M6y5skev2W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhEHLLnuGWJp7esadjN8SBUPd7RtePCUEtmGL3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAWHMWANBVmWs_RLMs-VzD1wSu5OtWs9qOBjxB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcNGNUFyopRiiDODtpkB7TTeQsoDmCBIzDSESq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpiT7OvqleAUGVv294nEt9REXQmBtwk9zLBROF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcy_OnncWFr3HJM6NP5lnDQldDKaGghivrbzLE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNj_FMMqRuIBZ6Xc6g4TWU9SPQ5cGUfI2xMHLTk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSITOEVlI21hrpobnT9O0ho43eRMLXib_3Hoj_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0Z58OW6Tg4p0J_eFxhucdfvRTnj1nJ31Crg2W=s1600-w800-h592",
+        "https://lh3.googleusercontent.com/p/AF1QipP9C42UB8nau8J1EIAJeakJvUOogECTtX7v--2F=s1600-w712-h403"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ8x_oob7GdjERGuOGSP61isk",
+      "google_maps_url": "https://maps.google.com/?cid=14522620052152705818",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "An Phước, Long Thành, Đồng Nai, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 10.8167292,
-            "lng": 106.9615589
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 10.8179775302915,
-              "lng": 106.9630925802915
-            },
-            "southwest": {
-              "lat": 10.8152795697085,
-              "lng": 106.9603946197085
-            }
-          }
-        },
-        "international_phone_number": "+84 93 345 18 48",
-        "name": "Yin Buddhist Temple",
-        "place_id": "ChIJaadvvf8edTERZn8MVBZmubw",
-        "url": "https://maps.google.com/?cid=13599012795907342182",
-        "website": "http://chuaphatanlongthanh.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOiBk3aTIMruRZg89dTpF6UBl3ul7un9kN7pjR1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPt-FZaPOuCxOrvN5SGv1cSJvQvAgqc5CL7wa1w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPbrdDNMSvPo0WfeYNamDJePkIARUFlc7Gf6XWx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVsYJX9kzT_bRui3HFLvg1f-ufCht5o3gudFBZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPL5lRsPulpWXmbsO7SC5nfd_N7iXEIrHEPi0Y4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvWbMvIX6SjEJOckNUIAet3QLtrKAQhOTAifM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQIrHbp4bi4ZLS_NqhYk4LMwRi4H4IC-BJQFXZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvp0RivnPUkQfUz0v6mRfcF9ZK0Ekij8TUg8vO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPn-1I7rN2JApm-8WPSrxbWsFxDFSu2PWZ23JZ7=s1600-w800-h754",
-          "https://lh3.googleusercontent.com/p/AF1QipNi8_W5S_Tgx_6Xkp-Ig1WtwedhbuEu3ai-ftXx=s1600-w800-h800"
-        ]
+      "name": "Yin Buddhist Temple",
+      "location": {
+        "lat": 10.8167292,
+        "lng": 106.9615589
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "An Phước, Long Thành, Đồng Nai, Vietnam",
+      "phone": "+84 93 345 18 48",
+      "website": "http://chuaphatanlongthanh.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOiBk3aTIMruRZg89dTpF6UBl3ul7un9kN7pjR1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPt-FZaPOuCxOrvN5SGv1cSJvQvAgqc5CL7wa1w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPbrdDNMSvPo0WfeYNamDJePkIARUFlc7Gf6XWx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVsYJX9kzT_bRui3HFLvg1f-ufCht5o3gudFBZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPL5lRsPulpWXmbsO7SC5nfd_N7iXEIrHEPi0Y4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvWbMvIX6SjEJOckNUIAet3QLtrKAQhOTAifM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQIrHbp4bi4ZLS_NqhYk4LMwRi4H4IC-BJQFXZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvp0RivnPUkQfUz0v6mRfcF9ZK0Ekij8TUg8vO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPn-1I7rN2JApm-8WPSrxbWsFxDFSu2PWZ23JZ7=s1600-w800-h754",
+        "https://lh3.googleusercontent.com/p/AF1QipNi8_W5S_Tgx_6Xkp-Ig1WtwedhbuEu3ai-ftXx=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJaadvvf8edTERZn8MVBZmubw",
+      "google_maps_url": "https://maps.google.com/?cid=13599012795907342182",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "158 Bùi Đình Tuý, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 10.8082376,
-            "lng": 106.7041755
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 10.8094093802915,
-              "lng": 106.7055480802915
-            },
-            "southwest": {
-              "lat": 10.8067114197085,
-              "lng": 106.7028501197085
-            }
-          }
-        },
-        "international_phone_number": "+84 28 3510 1432",
-        "name": "Vihara Ngoc Dang",
-        "place_id": "ChIJ0yFL9b4odTER3l7Q9wdsDwk",
-        "url": "https://maps.google.com/?cid=652859252470210270",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNWU0Pm1tkpYVT7IRIFd5VBVddOZpaJ8-Wi8L40=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPanaavK8pojzFmPmZ2vmrFn1wjsPhNTeW5Pi2S=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQISISdnIRj9UmNoOL2nZhRyAr9OAnhLaoHrVg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgJ5QA7Maf8aBNjQmPKQFa1dtqjkotgTVkgRc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIgmF-fX1ND2CCnhTqr3zxwvhytbvUlvW0hqhA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2dfo0e1xWFciv9jxehUhCxlkBCbeC6PKJc6HO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPeGnvV3gHHIBewedDCLYQ2_cnyBnvAlIka3d6q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOSDlzZqqMjFfPNVpx0BLOwyUgjVSPP_TSNwIcc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOBot02fQHJH8idB7GY-ALUI8UWafRKPEyyCpn5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFd0VeTR22Qqgzuh198AgzyNXCc--6QrVnjIB6=s1600-w800-h800"
-        ]
+      "name": "Vihara Ngoc Dang",
+      "location": {
+        "lat": 10.8082376,
+        "lng": 106.7041755
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "158 Bùi Đình Tuý, Phường 12, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam",
+      "phone": "+84 28 3510 1432",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNWU0Pm1tkpYVT7IRIFd5VBVddOZpaJ8-Wi8L40=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPanaavK8pojzFmPmZ2vmrFn1wjsPhNTeW5Pi2S=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQISISdnIRj9UmNoOL2nZhRyAr9OAnhLaoHrVg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgJ5QA7Maf8aBNjQmPKQFa1dtqjkotgTVkgRc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIgmF-fX1ND2CCnhTqr3zxwvhytbvUlvW0hqhA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2dfo0e1xWFciv9jxehUhCxlkBCbeC6PKJc6HO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPeGnvV3gHHIBewedDCLYQ2_cnyBnvAlIka3d6q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOSDlzZqqMjFfPNVpx0BLOwyUgjVSPP_TSNwIcc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOBot02fQHJH8idB7GY-ALUI8UWafRKPEyyCpn5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFd0VeTR22Qqgzuh198AgzyNXCc--6QrVnjIB6=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ0yFL9b4odTER3l7Q9wdsDwk",
+      "google_maps_url": "https://maps.google.com/?cid=652859252470210270",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Chợ Lầu, Bắc Bình District, Bình Thuận Province, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 11.2210505,
-            "lng": 108.5043002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.2224487802915,
-              "lng": 108.5056146302915
-            },
-            "southwest": {
-              "lat": 11.21975081970849,
-              "lng": 108.5029166697085
-            }
-          }
-        },
-        "name": "Chùa Giáo Hội Thị Trấn Chợ Lầu (GIAO HOI Monastery)",
-        "place_id": "ChIJv_4_pL7GdjER6thDDZA_S6o",
-        "url": "https://maps.google.com/?cid=12270971497631439082",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOrDzSOnlMjrI7mUXg1RZYB0_i3MQ53jWrjKX14=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOF5YLW5Gr3kQPvhr4-UR5y3FXDv5pfP0o9JqP=s1600-w720-h420",
-          "https://lh3.googleusercontent.com/p/AF1QipPx6zXUL0JMpWK8O3KmXKtHZw0GfkvotY0T4pPX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMnI4HGqNayU2CjbNqx8p7Khfz9ZTfhXFWAOKZD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNjzCuJM6eRY_ra-xdiITFv2GkgBNll1uqJxYqy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMIcJarY2JK00XVtFbv9evFLYX9ZrDXXQCN7oTS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORHHADgnYvv4MAXkhinR5xPK73h6VZVrUsOXM-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMiqKsrml3GXDkfd_ysdcmIOBDxr0Z3Y20ESwG-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPDnvfgHuKF_gkiOY32YqWndAfV1sHGlClLd-H-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1OsUD7rZw9z64tnSuoe5Kwm2yRi1C_j5Is9Hd=s1600-w800-h800"
-        ]
+      "name": "Chùa Giáo Hội Thị Trấn Chợ Lầu (GIAO HOI Monastery)",
+      "location": {
+        "lat": 11.2210505,
+        "lng": 108.5043002
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Chợ Lầu, Bắc Bình District, Bình Thuận Province, Vietnam",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOrDzSOnlMjrI7mUXg1RZYB0_i3MQ53jWrjKX14=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOF5YLW5Gr3kQPvhr4-UR5y3FXDv5pfP0o9JqP=s1600-w720-h420",
+        "https://lh3.googleusercontent.com/p/AF1QipPx6zXUL0JMpWK8O3KmXKtHZw0GfkvotY0T4pPX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMnI4HGqNayU2CjbNqx8p7Khfz9ZTfhXFWAOKZD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNjzCuJM6eRY_ra-xdiITFv2GkgBNll1uqJxYqy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMIcJarY2JK00XVtFbv9evFLYX9ZrDXXQCN7oTS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORHHADgnYvv4MAXkhinR5xPK73h6VZVrUsOXM-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMiqKsrml3GXDkfd_ysdcmIOBDxr0Z3Y20ESwG-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPDnvfgHuKF_gkiOY32YqWndAfV1sHGlClLd-H-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1OsUD7rZw9z64tnSuoe5Kwm2yRi1C_j5Is9Hd=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJv_4_pL7GdjER6thDDZA_S6o",
+      "google_maps_url": "https://maps.google.com/?cid=12270971497631439082",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 12.0161146,
-            "lng": 105.4643834
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.0175226302915,
-              "lng": 105.4657407302915
-            },
-            "southwest": {
-              "lat": 12.0148246697085,
-              "lng": 105.4630427697085
-            }
-          }
-        },
-        "name": "Thmor Korl Monastery",
-        "place_id": "ChIJiwCgac9BDDERHmIKoMVUFSI",
-        "url": "https://maps.google.com/?cid=2455962379570799134",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP2P5kKPQyxjK07AoNpQNMzIZK82cDFQRlyfQnj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvYxc5emrWAW2ZDdbs3Y-ZuGqtszC4GBOTls_-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPG5ATqNG1vmBOI7jktPwDP3ZjGpVsYH3AzoOxE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPVO7Xwl3UXxBiAPPea3hE3fWRNkh37CQ9qKtn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4CJwcB_a-FBnxcNQ8AFpPKFsuCG1QBVNEKeXh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEHvziQ1JPs0RLZbl25e_H6wrqmGCoBRB8rk6q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCh6o3Kl0m4DEBFmFJWQyk6sqw48j6ABu6XUjG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_O5EGeEt_BKtj1h0kvlZLkcYA2W2jOgVqAk1s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFYzS1MkM02pska9UI0d3PKr0tMCFCm8lFD_Fm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOSM6y4bq1ZQ3V2gReDWtQWB8N5GscB-LqhrESF=s1600-w800-h800"
-        ]
+      "name": "Thmor Korl Monastery",
+      "location": {
+        "lat": 12.0161146,
+        "lng": 105.4643834
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP2P5kKPQyxjK07AoNpQNMzIZK82cDFQRlyfQnj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvYxc5emrWAW2ZDdbs3Y-ZuGqtszC4GBOTls_-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPG5ATqNG1vmBOI7jktPwDP3ZjGpVsYH3AzoOxE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPVO7Xwl3UXxBiAPPea3hE3fWRNkh37CQ9qKtn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4CJwcB_a-FBnxcNQ8AFpPKFsuCG1QBVNEKeXh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEHvziQ1JPs0RLZbl25e_H6wrqmGCoBRB8rk6q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCh6o3Kl0m4DEBFmFJWQyk6sqw48j6ABu6XUjG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_O5EGeEt_BKtj1h0kvlZLkcYA2W2jOgVqAk1s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFYzS1MkM02pska9UI0d3PKr0tMCFCm8lFD_Fm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOSM6y4bq1ZQ3V2gReDWtQWB8N5GscB-LqhrESF=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJiwCgac9BDDERHmIKoMVUFSI",
+      "google_maps_url": "https://maps.google.com/?cid=2455962379570799134",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "ភូមិល្អក់, ឃុំកំពង់ថ្ម, ស្រុកសន្ទុក, ខេត្តកំពង់ធំ, ប្រទេសកម្ពុជា, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 12.5557113,
-            "lng": 105.1788893
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.5570558302915,
-              "lng": 105.1800489302915
-            },
-            "southwest": {
-              "lat": 12.5543578697085,
-              "lng": 105.1773509697085
-            }
-          }
-        },
-        "name": "វត្តល្អក់ - Laak Monastery",
-        "place_id": "ChIJiTHD44PaDTERhzgHBBCYfDI",
-        "url": "https://maps.google.com/?cid=3637949793562998919",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNbhqr77LXfoU9w-v7soFDSJT9UOwGwoZJWUvtP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOW_hziyuK9sRkK8kAPui8Psgx2_VX8uXCVgzTd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQt3SF23lfFsYnVgwvx0beLOjNilUnjL1oznss=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPhatED0x0gbDTeznNT3L_cNL3EjuQBRZD1oyNp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtb1ObBCHZFZZpiWajA5P6Cr1Ws-sbSKA8fpG9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5ODetZvzVt7bnAgsCS4w9F4LMy7JSJMXtnNiS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTma-uVY-tb2G4cPl_m62mSziZF2ljuv7mYbCt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhskJryf3lvBFshigzU2T84rQudhKvbD0DbW0A=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXirsHkomfE8mV3uY80Bpf5x77ij5tZgd1hV-t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1rsWnsNSZybvmlc-vPw5_dR_ElcC-pfEsDL57=s1600-w800-h800"
-        ]
+      "name": "វត្តល្អក់ - Laak Monastery",
+      "location": {
+        "lat": 12.5557113,
+        "lng": 105.1788893
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "ភូមិល្អក់, ឃុំកំពង់ថ្ម, ស្រុកសន្ទុក, ខេត្តកំពង់ធំ, ប្រទេសកម្ពុជា, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNbhqr77LXfoU9w-v7soFDSJT9UOwGwoZJWUvtP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOW_hziyuK9sRkK8kAPui8Psgx2_VX8uXCVgzTd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQt3SF23lfFsYnVgwvx0beLOjNilUnjL1oznss=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPhatED0x0gbDTeznNT3L_cNL3EjuQBRZD1oyNp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtb1ObBCHZFZZpiWajA5P6Cr1Ws-sbSKA8fpG9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5ODetZvzVt7bnAgsCS4w9F4LMy7JSJMXtnNiS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTma-uVY-tb2G4cPl_m62mSziZF2ljuv7mYbCt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhskJryf3lvBFshigzU2T84rQudhKvbD0DbW0A=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXirsHkomfE8mV3uY80Bpf5x77ij5tZgd1hV-t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1rsWnsNSZybvmlc-vPw5_dR_ElcC-pfEsDL57=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJiTHD44PaDTERhzgHBBCYfDI",
+      "google_maps_url": "https://maps.google.com/?cid=3637949793562998919",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Unnamed Road, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.7119139,
-            "lng": 105.2220066
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.7130084302915,
-              "lng": 105.2233463802915
-            },
-            "southwest": {
-              "lat": 11.7103104697085,
-              "lng": 105.2206484197085
-            }
-          }
-        },
-        "name": "វត្តឧត្តមវង្សារាម (វត្តក្រឡាញ់ធំ) Udom Vongsaramma Monastery",
-        "place_id": "ChIJBSxzj2wJDDERPwmaYYvVIGU",
-        "url": "https://maps.google.com/?cid=7287058991700117823",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "វត្តឧត្តមវង្សារាម (វត្តក្រឡាញ់ធំ) Udom Vongsaramma Monastery",
+      "location": {
+        "lat": 11.7119139,
+        "lng": 105.2220066
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Unnamed Road, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJBSxzj2wJDDERPwmaYYvVIGU",
+      "google_maps_url": "https://maps.google.com/?cid=7287058991700117823",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Cambodia, Samdach Sothearos Blvd (3), Phnom Penh 12206, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.5683468,
-            "lng": 104.9298964
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.5697341802915,
-              "lng": 104.9314335802915
-            },
-            "southwest": {
-              "lat": 11.56703621970849,
-              "lng": 104.9287356197085
-            }
-          }
-        },
-        "name": "Wat Ounalom Monastery",
-        "place_id": "ChIJo_7O_UhRCTERP2j7y4km8O4",
-        "url": "https://maps.google.com/?cid=17217303748712032319",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPA4Ug4H3YC0NqxI-wb8cZvLWJnQimXOxvxHeRc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3F7SHZUNmhz1WQZJeRlziNykIGqOT5IxXfcAj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhmWOYb4dXqRy1bqKiNHGdzKem11h2IEu6eYSj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3c7OreFrkRV2-l9TKAHGeMBRry2f1bJkZWrR-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgTaFES4bBr_D4vUbCCHqW0GqHFe36VYoTWirU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUhrmyoFQZ7BTIMimApbjDXCH08Ki_93J0hjUK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPy4rYHBivK9YBBqKIKCb8QjAprIonnm1iqP6es=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMvVrhR0RWYlLg11MIysc85pFLibiePuOwhC1W4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMS--DZFOx3MCLfZ1eZENVQgvYVpDCtHU15cQ_K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzVF4pWdTH7MFDOKH28nCtt7Y6MjFnSZKYGTUd=s1600-w800-h800"
-        ]
+      "name": "Wat Ounalom Monastery",
+      "location": {
+        "lat": 11.5683468,
+        "lng": 104.9298964
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Cambodia, Samdach Sothearos Blvd (3), Phnom Penh 12206, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPA4Ug4H3YC0NqxI-wb8cZvLWJnQimXOxvxHeRc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3F7SHZUNmhz1WQZJeRlziNykIGqOT5IxXfcAj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhmWOYb4dXqRy1bqKiNHGdzKem11h2IEu6eYSj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3c7OreFrkRV2-l9TKAHGeMBRry2f1bJkZWrR-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgTaFES4bBr_D4vUbCCHqW0GqHFe36VYoTWirU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUhrmyoFQZ7BTIMimApbjDXCH08Ki_93J0hjUK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPy4rYHBivK9YBBqKIKCb8QjAprIonnm1iqP6es=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMvVrhR0RWYlLg11MIysc85pFLibiePuOwhC1W4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMS--DZFOx3MCLfZ1eZENVQgvYVpDCtHU15cQ_K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzVF4pWdTH7MFDOKH28nCtt7Y6MjFnSZKYGTUd=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJo_7O_UhRCTERP2j7y4km8O4",
+      "google_maps_url": "https://maps.google.com/?cid=17217303748712032319",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Santuk, សន្ទុក, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 12.5637338,
-            "lng": 105.044218
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.5650975302915,
-              "lng": 105.0457051302915
-            },
-            "southwest": {
-              "lat": 12.5623995697085,
-              "lng": 105.0430071697085
-            }
-          }
-        },
-        "name": "វត្តសង់ឃ្លាំង - Saing Klaing Monastery",
-        "place_id": "ChIJpfe_XerZDTER3PX-PAhL_lE",
-        "url": "https://maps.google.com/?cid=5908242259911833052",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOhzCzNuEZXCP-C8QuH1FMHECD0OEu6zf1LvWJa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPt7jrtAulPsIBAn4op0M4Ri1P-CRiR216aUwPt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7LIMRUWzHQ87QoPuADeOa9HT1tLuG7MTL5yYR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPEa5RlNebDKWvMG3uofqfCyDlNK0U5jmOkp5Mk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNASRhQGZnn31Nrkdj2IqEMv7RWkQhycofTL7CV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3Yz4uW9govcPEQfxV8615WLt62zH1O7DAMVHG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZY7RZt5vwKPUvBaCX3PoiZb1UCYVl-9f-6m7-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnysglP87dnk4MrRzK9MwR51axOxTMyAGrMmw6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUAJJVn-kIqiJRGeV0R4KLnL5rrN2WtXH5EdbD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM6sj1j6iVuMqWVumQP_Ue_JdFPoFOIWpPF59-h=s1600-w800-h800"
-        ]
+      "name": "វត្តសង់ឃ្លាំង - Saing Klaing Monastery",
+      "location": {
+        "lat": 12.5637338,
+        "lng": 105.044218
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Santuk, សន្ទុក, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOhzCzNuEZXCP-C8QuH1FMHECD0OEu6zf1LvWJa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPt7jrtAulPsIBAn4op0M4Ri1P-CRiR216aUwPt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7LIMRUWzHQ87QoPuADeOa9HT1tLuG7MTL5yYR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPEa5RlNebDKWvMG3uofqfCyDlNK0U5jmOkp5Mk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNASRhQGZnn31Nrkdj2IqEMv7RWkQhycofTL7CV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3Yz4uW9govcPEQfxV8615WLt62zH1O7DAMVHG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZY7RZt5vwKPUvBaCX3PoiZb1UCYVl-9f-6m7-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnysglP87dnk4MrRzK9MwR51axOxTMyAGrMmw6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUAJJVn-kIqiJRGeV0R4KLnL5rrN2WtXH5EdbD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM6sj1j6iVuMqWVumQP_Ue_JdFPoFOIWpPF59-h=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJpfe_XerZDTER3PX-PAhL_lE",
+      "google_maps_url": "https://maps.google.com/?cid=5908242259911833052",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lvea Aem, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.5210264,
-            "lng": 105.0920175
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.5225648802915,
-              "lng": 105.0934309802915
-            },
-            "southwest": {
-              "lat": 11.5198669197085,
-              "lng": 105.0907330197085
-            }
-          }
-        },
-        "name": "Thmor Kor Monastery (វត្តថ្មគរ)",
-        "place_id": "ChIJ88vNpIf9CzERSMBX-NeIRJQ",
-        "url": "https://maps.google.com/?cid=10683814677195505736",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Thmor Kor Monastery (វត្តថ្មគរ)",
+      "location": {
+        "lat": 11.5210264,
+        "lng": 105.0920175
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Lvea Aem, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ88vNpIf9CzERSMBX-NeIRJQ",
+      "google_maps_url": "https://maps.google.com/?cid=10683814677195505736",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "ឃុំ ក្រាំងល្វា, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.9613619,
-            "lng": 104.5233631
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.9628261802915,
-              "lng": 104.5246697802915
-            },
-            "southwest": {
-              "lat": 11.9601282197085,
-              "lng": 104.5219718197085
-            }
-          }
-        },
-        "name": "វត្តទេពអប្សរ Tebapsor Monastery",
-        "place_id": "ChIJGabZMR7FDjERd_r_L0UAfQA",
-        "url": "https://maps.google.com/?cid=35184669246880375",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "វត្តទេពអប្សរ Tebapsor Monastery",
+      "location": {
+        "lat": 11.9613619,
+        "lng": 104.5233631
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "ឃុំ ក្រាំងល្វា, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGabZMR7FDjERd_r_L0UAfQA",
+      "google_maps_url": "https://maps.google.com/?cid=35184669246880375",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "ឃុំ ពានី, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.9431386,
-            "lng": 104.6804634
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.9444772302915,
-              "lng": 104.6817801302915
-            },
-            "southwest": {
-              "lat": 11.9417792697085,
-              "lng": 104.6790821697085
-            }
-          }
-        },
-        "name": "Peany Monastery វត្តពានី",
-        "place_id": "ChIJe4PpqzO5DjERX2_tQqzRxM4",
-        "url": "https://maps.google.com/?cid=14899264005035880287",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Peany Monastery វត្តពានី",
+      "location": {
+        "lat": 11.9431386,
+        "lng": 104.6804634
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "ឃុំ ពានី, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJe4PpqzO5DjERX2_tQqzRxM4",
+      "google_maps_url": "https://maps.google.com/?cid=14899264005035880287",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "ឃុំ ទួលខ្ពស់, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.9806337,
-            "lng": 104.3664529
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.9820730302915,
-              "lng": 104.3674701802915
-            },
-            "southwest": {
-              "lat": 11.9793750697085,
-              "lng": 104.3647722197085
-            }
-          }
-        },
-        "name": "វត្តមង្គលវណ្ឌ៍ Mongkulvanda Monastery",
-        "place_id": "ChIJwWz9Vy7fDjERIVccHt6395M",
-        "url": "https://maps.google.com/?cid=10662192807438735137",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "វត្តមង្គលវណ្ឌ៍ Mongkulvanda Monastery",
+      "location": {
+        "lat": 11.9806337,
+        "lng": 104.3664529
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "ឃុំ ទួលខ្ពស់, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJwWz9Vy7fDjERIVccHt6395M",
+      "google_maps_url": "https://maps.google.com/?cid=10662192807438735137",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Thnal Chheuteal, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 12.510683,
-            "lng": 104.6417531
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.5120319802915,
-              "lng": 104.6431020802915
-            },
-            "southwest": {
-              "lat": 12.5093340197085,
-              "lng": 104.6404041197085
-            }
-          }
-        },
-        "name": "វត្តថ្នាលជន្ទាល Thnal Chheuteal Monastery",
-        "place_id": "ChIJd0LqSiBdDjERcT4S9lqEcM0",
-        "url": "https://maps.google.com/?cid=14803477501377134193",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "វត្តថ្នាលជន្ទាល Thnal Chheuteal Monastery",
+      "location": {
+        "lat": 12.510683,
+        "lng": 104.6417531
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Thnal Chheuteal, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJd0LqSiBdDjERcT4S9lqEcM0",
+      "google_maps_url": "https://maps.google.com/?cid=14803477501377134193",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Phnom Penh, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.5700666,
-            "lng": 104.9169889
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.5714255302915,
-              "lng": 104.9184361302915
-            },
-            "southwest": {
-              "lat": 11.5687275697085,
-              "lng": 104.9157381697085
-            }
-          }
-        },
-        "name": "Mongkolvan Monastery, វត្តមង្គលវ័ន​",
-        "place_id": "ChIJPTzNlEFRCTERQKEqWWL14FA",
-        "url": "https://maps.google.com/?cid=5827927720568987968",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipODa9GC-vVRwF0kJVWsdqgLEk_bMq9JsAMW4nmt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOssN7BN3NSaZQZRVmyoGAH1V0nJq3w4FX_3hhm=s1600-w800-h800"
-        ]
+      "name": "Mongkolvan Monastery, វត្តមង្គលវ័ន​",
+      "location": {
+        "lat": 11.5700666,
+        "lng": 104.9169889
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Phnom Penh, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipODa9GC-vVRwF0kJVWsdqgLEk_bMq9JsAMW4nmt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOssN7BN3NSaZQZRVmyoGAH1V0nJq3w4FX_3hhm=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJPTzNlEFRCTERQKEqWWL14FA",
+      "google_maps_url": "https://maps.google.com/?cid=5827927720568987968",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Plauv Thnoal Totueng, Phum Samraong, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 12.0128844,
-            "lng": 104.7235357
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.0145606802915,
-              "lng": 104.7251691802915
-            },
-            "southwest": {
-              "lat": 12.0118627197085,
-              "lng": 104.7224712197085
-            }
-          }
-        },
-        "name": "SAMRONG RANGSEY MONASTERY",
-        "place_id": "ChIJLRo58kO-DjERliUoJc7Kvik",
-        "url": "https://maps.google.com/?cid=3008064587865531798",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO_FWYv-Wwo9mjlnsvPkW1h5xLjSHtRZx7XDapO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN2lA_IOuw3YZQdeQ0FcuvJOIpukW6FTXNYdw7D=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5Srn9TTCP80W6JqYq73Dtu6RKhwCX-aFeEsyD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXc-OR8A4fDhzgHkRQTHFblxByq1_f41qxx227=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfaTxmfY1o9HJiid8JSo2IdjujOolHgQOYEttq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeT3lg1BgKBaHmESR26VTnrIAbiO20jyX3_wLu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPRWoXGiZew1nFFsR7JH6kY0m2GWCU8srLz7BjO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOSz0F7f3RcR553MX9sX54uRNThfMul-NZSZvn0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOP-997yzW_mF5XnAH18DtvSiJQJA4jXwG_vDxH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNzDfHGvPfQkJHXcSYT8tgJRgTh6OShwQml2Z55=s1600-w800-h576"
-        ]
+      "name": "SAMRONG RANGSEY MONASTERY",
+      "location": {
+        "lat": 12.0128844,
+        "lng": 104.7235357
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Plauv Thnoal Totueng, Phum Samraong, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO_FWYv-Wwo9mjlnsvPkW1h5xLjSHtRZx7XDapO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN2lA_IOuw3YZQdeQ0FcuvJOIpukW6FTXNYdw7D=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5Srn9TTCP80W6JqYq73Dtu6RKhwCX-aFeEsyD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXc-OR8A4fDhzgHkRQTHFblxByq1_f41qxx227=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfaTxmfY1o9HJiid8JSo2IdjujOolHgQOYEttq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeT3lg1BgKBaHmESR26VTnrIAbiO20jyX3_wLu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPRWoXGiZew1nFFsR7JH6kY0m2GWCU8srLz7BjO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOSz0F7f3RcR553MX9sX54uRNThfMul-NZSZvn0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOP-997yzW_mF5XnAH18DtvSiJQJA4jXwG_vDxH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNzDfHGvPfQkJHXcSYT8tgJRgTh6OShwQml2Z55=s1600-w800-h576"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJLRo58kO-DjERliUoJc7Kvik",
+      "google_maps_url": "https://maps.google.com/?cid=3008064587865531798",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 12.1626094,
-            "lng": 105.528236
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.1639727802915,
-              "lng": 105.5295174802915
-            },
-            "southwest": {
-              "lat": 12.1612748197085,
-              "lng": 105.5268195197085
-            }
-          }
-        },
-        "international_phone_number": "+855 93 377 470",
-        "name": "Hanchey Temple",
-        "place_id": "ChIJMZoDa5JFDDERwUPTNtQhgDM",
-        "url": "https://maps.google.com/?cid=3711003288289887169",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOd9xOAIdMtuW1amjVFZ0iduDCSBr4aJEbzKhHu=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipNO2KlZabFO5d-aB187JWF6xKH5DFECZgqANZAE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMN-nVsJZCyuqtVumJBf7tfTUvDb9NU42Y_38YA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQMOj1NdUdjqN5LGdJyNNw3pBD4stlp4akEcat=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCzU3blfohOhvVwxoyzJWyh14cYS79o3GWLp_i=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7sAe74keuoMLSxEkEsfZnjmGysMExLR37qM4h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNpdfdVedTcbyAUOdM0ygzH0HkAzqh6NPHyO3f4=s1600-w800-h666",
-          "https://lh3.googleusercontent.com/p/AF1QipNiFtZ5QxNcemnPnseFDjbr2MFXLsXLvIkEmEvJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqKJFRUxbH7AVLhPH27r2U5Ateqczj3rLxBuCB=s1600-w550-h413",
-          "https://lh3.googleusercontent.com/p/AF1QipOTjg_6I6en7PhyZRa37OOAlah_iaNFN9yhDzuR=s1600-w800-h800"
-        ]
+      "name": "Hanchey Temple",
+      "location": {
+        "lat": 12.1626094,
+        "lng": 105.528236
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Cambodia",
+      "phone": "+855 93 377 470",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOd9xOAIdMtuW1amjVFZ0iduDCSBr4aJEbzKhHu=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipNO2KlZabFO5d-aB187JWF6xKH5DFECZgqANZAE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMN-nVsJZCyuqtVumJBf7tfTUvDb9NU42Y_38YA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQMOj1NdUdjqN5LGdJyNNw3pBD4stlp4akEcat=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCzU3blfohOhvVwxoyzJWyh14cYS79o3GWLp_i=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7sAe74keuoMLSxEkEsfZnjmGysMExLR37qM4h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNpdfdVedTcbyAUOdM0ygzH0HkAzqh6NPHyO3f4=s1600-w800-h666",
+        "https://lh3.googleusercontent.com/p/AF1QipNiFtZ5QxNcemnPnseFDjbr2MFXLsXLvIkEmEvJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqKJFRUxbH7AVLhPH27r2U5Ateqczj3rLxBuCB=s1600-w550-h413",
+        "https://lh3.googleusercontent.com/p/AF1QipOTjg_6I6en7PhyZRa37OOAlah_iaNFN9yhDzuR=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJMZoDa5JFDDERwUPTNtQhgDM",
+      "google_maps_url": "https://maps.google.com/?cid=3711003288289887169",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kampong Svay, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.1362144,
-            "lng": 105.059528
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.1375160802915,
-              "lng": 105.0610238302915
-            },
-            "southwest": {
-              "lat": 11.1348181197085,
-              "lng": 105.0583258697085
-            }
-          }
-        },
-        "name": "Pheakdey Serei Dey Dos Monastery",
-        "place_id": "ChIJR1cQncjXCzERE7FrBXJP1r0",
-        "url": "https://maps.google.com/?cid=13679208269320270099",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Pheakdey Serei Dey Dos Monastery",
+      "location": {
+        "lat": 11.1362144,
+        "lng": 105.059528
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Kampong Svay, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJR1cQncjXCzERE7FrBXJP1r0",
+      "google_maps_url": "https://maps.google.com/?cid=13679208269320270099",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ou Ruessei, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.9144184,
-            "lng": 104.7162348
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.9157949802915,
-              "lng": 104.7174953302915
-            },
-            "southwest": {
-              "lat": 11.9130970197085,
-              "lng": 104.7147973697085
-            }
-          }
-        },
-        "name": "Leach Monastery វត្តលាជ",
-        "place_id": "ChIJScpk_Vm5DjERYINkekC8bes",
-        "url": "https://maps.google.com/?cid=16964422356491862880",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Leach Monastery វត្តលាជ",
+      "location": {
+        "lat": 11.9144184,
+        "lng": 104.7162348
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Ou Ruessei, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJScpk_Vm5DjERYINkekC8bes",
+      "google_maps_url": "https://maps.google.com/?cid=16964422356491862880",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "ផ្ទះលេខ 10D ផ្លូវ271 សង្កាត់ទឹកល្អក់៣, Phnom Penh, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.558077,
-            "lng": 104.8884507
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.5593232302915,
-              "lng": 104.8897303802915
-            },
-            "southwest": {
-              "lat": 11.5566252697085,
-              "lng": 104.8870324197085
-            }
-          }
-        },
-        "name": "Phnom Penh buddhist temple",
-        "place_id": "ChIJw0RCmRhRCTEReqrwO7bMY30",
-        "url": "https://maps.google.com/?cid=9035290360497089146",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Phnom Penh buddhist temple",
+      "location": {
+        "lat": 11.558077,
+        "lng": 104.8884507
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "ផ្ទះលេខ 10D ផ្លូវ271 សង្កាត់ទឹកល្អក់៣, Phnom Penh, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJw0RCmRhRCTEReqrwO7bMY30",
+      "google_maps_url": "https://maps.google.com/?cid=9035290360497089146",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ou Ruessei, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.9246195,
-            "lng": 104.7283319
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.9258471302915,
-              "lng": 104.7296345302915
-            },
-            "southwest": {
-              "lat": 11.9231491697085,
-              "lng": 104.7269365697085
-            }
-          }
-        },
-        "name": "Chansorya Monastery (Kralanh)",
-        "place_id": "ChIJe47yi9K5DjERdChc8vBZ7EQ",
-        "url": "https://maps.google.com/?cid=4966443380475963508",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Chansorya Monastery (Kralanh)",
+      "location": {
+        "lat": 11.9246195,
+        "lng": 104.7283319
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Ou Ruessei, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJe47yi9K5DjERdChc8vBZ7EQ",
+      "google_maps_url": "https://maps.google.com/?cid=4966443380475963508",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "ឃុំ កំពង់ព្រះគគីរ, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 12.3591108,
-            "lng": 104.6074114
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.3604597802915,
-              "lng": 104.6087603802915
-            },
-            "southwest": {
-              "lat": 12.3577618197085,
-              "lng": 104.6060624197085
-            }
-          }
-        },
-        "name": "វត្តកំពង់ព្រះគគីរ Kompong Preah Korki Monastery",
-        "place_id": "ChIJUT8710v1DjERohBGdLOvqlA",
-        "url": "https://maps.google.com/?cid=5812651454359802018",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "វត្តកំពង់ព្រះគគីរ Kompong Preah Korki Monastery",
+      "location": {
+        "lat": 12.3591108,
+        "lng": 104.6074114
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "ឃុំ កំពង់ព្រះគគីរ, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJUT8710v1DjERohBGdLOvqlA",
+      "google_maps_url": "https://maps.google.com/?cid=5812651454359802018",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Unnamed Road, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 13.0435792,
-            "lng": 104.7756229
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 13.0445853802915,
-              "lng": 104.7769718802915
-            },
-            "southwest": {
-              "lat": 13.0418874197085,
-              "lng": 104.7742739197085
-            }
-          }
-        },
-        "name": "Phan Nherm Monastery វត្តផាន់ញើម",
-        "place_id": "ChIJp5xd5esdDjERHTHv0kdSBSU",
-        "url": "https://maps.google.com/?cid=2667628822721933597",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Phan Nherm Monastery វត្តផាន់ញើម",
+      "location": {
+        "lat": 13.0435792,
+        "lng": 104.7756229
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Unnamed Road, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJp5xd5esdDjERHTHv0kdSBSU",
+      "google_maps_url": "https://maps.google.com/?cid=2667628822721933597",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Phnom Penh, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.6513987,
-            "lng": 104.7521707
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.6527292802915,
-              "lng": 104.7534207302915
-            },
-            "southwest": {
-              "lat": 11.6500313197085,
-              "lng": 104.7507227697085
-            }
-          }
-        },
-        "name": "Phnom Reap Monastery",
-        "place_id": "ChIJL0XyqYJMCTERd2cqjAUEwlw",
-        "url": "https://maps.google.com/?cid=6683909218844174199",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMpivM3PzWhgYnJGFvbC_Fp3rUY_X7HViWDhaV1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOFzEZB2DiqDU_Tws7VklcFiHL7fvniDER5e33l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHRix1BiPgjp2-YTvhEnf7jXLk40qRQS5ZDH7R=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMCYpLxW3q368b-Vp-eGARo7v7bB7-j1T7QQsTJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMFfojWZqdR6_Hwav70Oqpr2eUC-BQrfg10OhVQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqCrxmkSbBpVvdFwt7haBrzFF2wkPfjLOhEgB8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSpKQro2p1vw_LHTQVUSMwC_2lCQwYOQZWWgcP=s1600-w800-h780",
-          "https://lh3.googleusercontent.com/p/AF1QipPsPe7WEf9VpXCtRDLh-3QQu2vtOPg6KHXZ4wMk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcyT0PHVIhzAVND1mmfYJ-eFiXW26fdtE-YPtE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPn7cchLXJoxN8SSM6DM0dgbL5ojMRmBX5wHFNg=s1600-w800-h800"
-        ]
+      "name": "Phnom Reap Monastery",
+      "location": {
+        "lat": 11.6513987,
+        "lng": 104.7521707
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Phnom Penh, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMpivM3PzWhgYnJGFvbC_Fp3rUY_X7HViWDhaV1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOFzEZB2DiqDU_Tws7VklcFiHL7fvniDER5e33l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHRix1BiPgjp2-YTvhEnf7jXLk40qRQS5ZDH7R=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMCYpLxW3q368b-Vp-eGARo7v7bB7-j1T7QQsTJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMFfojWZqdR6_Hwav70Oqpr2eUC-BQrfg10OhVQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqCrxmkSbBpVvdFwt7haBrzFF2wkPfjLOhEgB8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSpKQro2p1vw_LHTQVUSMwC_2lCQwYOQZWWgcP=s1600-w800-h780",
+        "https://lh3.googleusercontent.com/p/AF1QipPsPe7WEf9VpXCtRDLh-3QQu2vtOPg6KHXZ4wMk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcyT0PHVIhzAVND1mmfYJ-eFiXW26fdtE-YPtE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPn7cchLXJoxN8SSM6DM0dgbL5ojMRmBX5wHFNg=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJL0XyqYJMCTERd2cqjAUEwlw",
+      "google_maps_url": "https://maps.google.com/?cid=6683909218844174199",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Unnamed Road, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 12.5962504,
-            "lng": 104.051003
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.59763083029151,
-              "lng": 104.0523502302915
-            },
-            "southwest": {
-              "lat": 12.5949328697085,
-              "lng": 104.0496522697085
-            }
-          }
-        },
-        "name": "វត្តសុគន្ធារាម (រលួស) Sokunthearama Monastery (Ro Luos)",
-        "place_id": "ChIJG2T2YPSlDzERaPryCQXoAks",
-        "url": "https://maps.google.com/?cid=5405137611137415784",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "វត្តសុគន្ធារាម (រលួស) Sokunthearama Monastery (Ro Luos)",
+      "location": {
+        "lat": 12.5962504,
+        "lng": 104.051003
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Unnamed Road, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJG2T2YPSlDzERaPryCQXoAks",
+      "google_maps_url": "https://maps.google.com/?cid=5405137611137415784",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sangkat Kouk Roka, Phnom Penh, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.590343,
-            "lng": 104.8287188
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.5916804802915,
-              "lng": 104.8300051302915
-            },
-            "southwest": {
-              "lat": 11.5889825197085,
-              "lng": 104.8273071697085
-            }
-          }
-        },
-        "international_phone_number": "+855 12 961 429",
-        "name": "Maha Panna Vihara (វត្តបញ្ញាធំ)",
-        "place_id": "ChIJm1XcvIJPCTER2fxtDByQWGA",
-        "url": "https://maps.google.com/?cid=6942457275733638361",
-        "website": "http://www.mahapanna.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPeCioMEZ1PR9NzrX5BGrfZ8-bvceeqgGPkx7zk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeHjM9S7pyi6wcWcnz2hYgFgnYrBQ0Zb_EuAgb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNc_4OBRVgJxXKz_SiEPTht4HTEqGY7k0EPfxL9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlBXv82642l_nGxTYrKeSh_z5OlZQgADgNJ_r9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxnMPYP0uqzeO0vO-n4S8tBdfx8dtalxM33b2P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZqHeRiAY7UMM_UrniSjamREG93aUlvdbW81Vj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTxckeySTDakkjobg3kvoyxwUcLLQHMzy60AI1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkjTWbiF9rsbb7otHEzj0eEsOG4pOOZGqXfFjh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvsS9WfPLcxAx3vrJsxJZ2RtL3RGDmKbhv_oNg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOdKWHskqxuslzPcXx9_oPmpLbZvSr5OskyIEXI=s1600-w800-h800"
-        ]
+      "name": "Maha Panna Vihara (វត្តបញ្ញាធំ)",
+      "location": {
+        "lat": 11.590343,
+        "lng": 104.8287188
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Sangkat Kouk Roka, Phnom Penh, Cambodia",
+      "phone": "+855 12 961 429",
+      "website": "http://www.mahapanna.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPeCioMEZ1PR9NzrX5BGrfZ8-bvceeqgGPkx7zk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeHjM9S7pyi6wcWcnz2hYgFgnYrBQ0Zb_EuAgb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNc_4OBRVgJxXKz_SiEPTht4HTEqGY7k0EPfxL9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlBXv82642l_nGxTYrKeSh_z5OlZQgADgNJ_r9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxnMPYP0uqzeO0vO-n4S8tBdfx8dtalxM33b2P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZqHeRiAY7UMM_UrniSjamREG93aUlvdbW81Vj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTxckeySTDakkjobg3kvoyxwUcLLQHMzy60AI1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkjTWbiF9rsbb7otHEzj0eEsOG4pOOZGqXfFjh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvsS9WfPLcxAx3vrJsxJZ2RtL3RGDmKbhv_oNg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOdKWHskqxuslzPcXx9_oPmpLbZvSr5OskyIEXI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJm1XcvIJPCTER2fxtDByQWGA",
+      "google_maps_url": "https://maps.google.com/?cid=6942457275733638361",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "khu di tích, Gò Tháp, Tân Kiều, huyện Tháp Mười, Đồng Tháp, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 10.6043708,
-            "lng": 105.8254841
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 10.60515890000001,
-              "lng": 105.8270926302915
-            },
-            "southwest": {
-              "lat": 10.6020065,
-              "lng": 105.8243946697085
-            }
-          }
-        },
-        "international_phone_number": "+84 365 500 500",
-        "name": "Trúc Lâm Tháp Mười Zen Monastery",
-        "place_id": "ChIJMcrJzR31CjERvh6Tz82DGzM",
-        "url": "https://maps.google.com/?cid=3682682040279572158",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNvcZRl8J6H_m_5gbmxNRWvGhYELnxHuINNyERR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPRxhmvaIIHqAHLfZzgAkXwp0p0qaAOH0DQ9ogo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP0EVWrO7LfjoIWodObWsRzoaDPc_Gh1h2UM7VH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNoRjWX02iqy-KrbjbjZBpshfnGg1LCROb6nVJf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwI2ENVqdcCDA0kDLUjuxebG3oS70r5PSIVfNU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNW28OY_GJbM0YSYXM_4VQIkmLPBZvMtOYKo6Fa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOy4rMPafi0_PDL2kkGNjU8usd3GzFhGCTo7Vfm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_DyXoCcAfPP7bz40f_hZtPQiQBik8zaDHTeOd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdt2bfG5GXHRomQtNROPPTIwlRpEJ3DTlP6WoH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOa32bsG_h8mxObHND-wtVHtMpHA1Oq8vfwep9c=s1600-w800-h800"
-        ]
+      "name": "Trúc Lâm Tháp Mười Zen Monastery",
+      "location": {
+        "lat": 10.6043708,
+        "lng": 105.8254841
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "khu di tích, Gò Tháp, Tân Kiều, huyện Tháp Mười, Đồng Tháp, Vietnam",
+      "phone": "+84 365 500 500",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNvcZRl8J6H_m_5gbmxNRWvGhYELnxHuINNyERR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPRxhmvaIIHqAHLfZzgAkXwp0p0qaAOH0DQ9ogo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP0EVWrO7LfjoIWodObWsRzoaDPc_Gh1h2UM7VH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNoRjWX02iqy-KrbjbjZBpshfnGg1LCROb6nVJf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwI2ENVqdcCDA0kDLUjuxebG3oS70r5PSIVfNU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNW28OY_GJbM0YSYXM_4VQIkmLPBZvMtOYKo6Fa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOy4rMPafi0_PDL2kkGNjU8usd3GzFhGCTo7Vfm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_DyXoCcAfPP7bz40f_hZtPQiQBik8zaDHTeOd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdt2bfG5GXHRomQtNROPPTIwlRpEJ3DTlP6WoH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOa32bsG_h8mxObHND-wtVHtMpHA1Oq8vfwep9c=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJMcrJzR31CjERvh6Tz82DGzM",
+      "google_maps_url": "https://maps.google.com/?cid=3682682040279572158",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Preah Theat, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.8467072,
-            "lng": 105.4743438
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.8479667802915,
-              "lng": 105.4757176302915
-            },
-            "southwest": {
-              "lat": 11.8452688197085,
-              "lng": 105.4730196697085
-            }
-          }
-        },
-        "name": "Wat Preah theat",
-        "place_id": "ChIJr5P0yr9tDDERYkYbuIxNpuE",
-        "url": "https://maps.google.com/?cid=16259768771447309922",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP_5KifVG44C06z0F89ev0Z1IuAWpyesaOqc57F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNy3_8W7hfKwWH7u-hQaWNtD4Alc99EkJFaaMvc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTx6hEB_gTckl4NYiXKGe4YAEZDZFm0fxjXe4T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYzf38QeD5H5IqnxoT4wrtKsvK_BT_al9eJotn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5cK8kGeJBEzq0vBU8FZa0P_2EjS3usn3Of_BA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrkTGjTVBktp_kEPycSfPNNJOrdJI6kygdQl1l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOi59b5gLZnN9cN4Xp0ytrVWFk5vAJpJix_VOTm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYygwotem5-UObeEhuDXuAZaM5moRFrtrxgmbB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOK4vs35lF5OCqiRPrVeoeEo9GdqQ_WMXCt1-iC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjmXQ0FYosLVDVfyS2nbJiNF_xoBAxSrY36PE=s1600-w800-h800"
-        ]
+      "name": "Wat Preah theat",
+      "location": {
+        "lat": 11.8467072,
+        "lng": 105.4743438
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Preah Theat, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP_5KifVG44C06z0F89ev0Z1IuAWpyesaOqc57F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNy3_8W7hfKwWH7u-hQaWNtD4Alc99EkJFaaMvc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTx6hEB_gTckl4NYiXKGe4YAEZDZFm0fxjXe4T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYzf38QeD5H5IqnxoT4wrtKsvK_BT_al9eJotn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5cK8kGeJBEzq0vBU8FZa0P_2EjS3usn3Of_BA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrkTGjTVBktp_kEPycSfPNNJOrdJI6kygdQl1l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOi59b5gLZnN9cN4Xp0ytrVWFk5vAJpJix_VOTm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYygwotem5-UObeEhuDXuAZaM5moRFrtrxgmbB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOK4vs35lF5OCqiRPrVeoeEo9GdqQ_WMXCt1-iC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjmXQ0FYosLVDVfyS2nbJiNF_xoBAxSrY36PE=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJr5P0yr9tDDERYkYbuIxNpuE",
+      "google_maps_url": "https://maps.google.com/?cid=16259768771447309922",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Phsar Daek Commune, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.7918552,
-            "lng": 104.7722138
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.7932041802915,
-              "lng": 104.7735627802915
-            },
-            "southwest": {
-              "lat": 11.7905062197085,
-              "lng": 104.7708648197085
-            }
-          }
-        },
-        "international_phone_number": "+855 10 405 086",
-        "name": "Oudong Temple",
-        "place_id": "ChIJv09xAUGxDjERpvW1wNBa8rQ",
-        "url": "https://maps.google.com/?cid=13038583723823855014",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN3XwFUk3qSVAHL_BKbHxAssu7ERi9lJvngILL1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOka7JlRhyThBHhfTHdskDqgx4qO2Gwx0-5QS_Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzgZ8PX2pbNYTbBB5PsfPdzuxZgKpCG2fA2p-X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNA44vlSY8iIfIY_85TqXkIUJFXfwoZYUbRkSmh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJfrjrFhBT4KdN1Q9ZNlvPR7VElzRf_Hr64h3L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrHfBC0fDiNM3kLwuHK3c7qNHcSJLcG748URZG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsa9UYTpUXvvUqUlFj3oIfFDeeye9Eo8kK7Avx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSr8z_jA3jlFofOD_oHTM1GAlAg3RO2K4mafg4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNElpKcJjymzEC_fUkcqPXOsY4vfKTrOGsTo0U2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMyHqLUiL-ZNkTBRM8vvK5Eo2_a3IoZWuxgbB2Y=s1600-w800-h800"
-        ]
+      "name": "Oudong Temple",
+      "location": {
+        "lat": 11.7918552,
+        "lng": 104.7722138
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Phsar Daek Commune, Cambodia",
+      "phone": "+855 10 405 086",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN3XwFUk3qSVAHL_BKbHxAssu7ERi9lJvngILL1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOka7JlRhyThBHhfTHdskDqgx4qO2Gwx0-5QS_Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzgZ8PX2pbNYTbBB5PsfPdzuxZgKpCG2fA2p-X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNA44vlSY8iIfIY_85TqXkIUJFXfwoZYUbRkSmh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJfrjrFhBT4KdN1Q9ZNlvPR7VElzRf_Hr64h3L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrHfBC0fDiNM3kLwuHK3c7qNHcSJLcG748URZG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsa9UYTpUXvvUqUlFj3oIfFDeeye9Eo8kK7Avx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSr8z_jA3jlFofOD_oHTM1GAlAg3RO2K4mafg4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNElpKcJjymzEC_fUkcqPXOsY4vfKTrOGsTo0U2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMyHqLUiL-ZNkTBRM8vvK5Eo2_a3IoZWuxgbB2Y=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJv09xAUGxDjERpvW1wNBa8rQ",
+      "google_maps_url": "https://maps.google.com/?cid=13038583723823855014",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kranhung, Ponhea Kraek District, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.7987362,
-            "lng": 105.8835972
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.8001002302915,
-              "lng": 105.8848412302915
-            },
-            "southwest": {
-              "lat": 11.7974022697085,
-              "lng": 105.8821432697085
-            }
-          }
-        },
-        "name": "Wat Kranhung",
-        "place_id": "ChIJVQKi6_iFDDERDmHN0Ka6SJY",
-        "url": "https://maps.google.com/?cid=10829110529642815758",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPs4FRbnR-KUQrGVdl1RGIS3QOEIj5WVtEr9HC4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdrdy7XHi-ZcwsFuSgkGATQyFnXwLg70D8Uj8f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBDeXU8weF9AZVbcFzgccBSZIxfucUfmHfcVeS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-BqM9d-jjLksrbwIHFkA_UtVLBxH-dtl__IBi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPqXy1WGqrf4Q8uBX5x8DPjHeSUBaXw6gQNLgo6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3e_qwUEKEoZ0Fov9qtTKRMMO9DJHCyT63nOve=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvWLePSDUmW6DbyI0oKF1ZCEN1PnyH5Kr81X8U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsW5BXb1EwxB9FFYpEDwReQwvLzD-TQuRBrwfg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNiMeqWgU7bDQhlvLU_rcdgbx5VY7QveWVX7H7-=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOFmySkmmYQgLnuNajRTWrkCwTPVlRR7-5A6_dO=s1600-w800-h800"
-        ]
+      "name": "Wat Kranhung",
+      "location": {
+        "lat": 11.7987362,
+        "lng": 105.8835972
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Kranhung, Ponhea Kraek District, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPs4FRbnR-KUQrGVdl1RGIS3QOEIj5WVtEr9HC4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdrdy7XHi-ZcwsFuSgkGATQyFnXwLg70D8Uj8f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBDeXU8weF9AZVbcFzgccBSZIxfucUfmHfcVeS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-BqM9d-jjLksrbwIHFkA_UtVLBxH-dtl__IBi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPqXy1WGqrf4Q8uBX5x8DPjHeSUBaXw6gQNLgo6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3e_qwUEKEoZ0Fov9qtTKRMMO9DJHCyT63nOve=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvWLePSDUmW6DbyI0oKF1ZCEN1PnyH5Kr81X8U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsW5BXb1EwxB9FFYpEDwReQwvLzD-TQuRBrwfg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNiMeqWgU7bDQhlvLU_rcdgbx5VY7QveWVX7H7-=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOFmySkmmYQgLnuNajRTWrkCwTPVlRR7-5A6_dO=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVQKi6_iFDDERDmHN0Ka6SJY",
+      "google_maps_url": "https://maps.google.com/?cid=10829110529642815758",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kbal Tuek, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 11.9503273,
-            "lng": 104.3214614
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.9516466802915,
-              "lng": 104.3228171802915
-            },
-            "southwest": {
-              "lat": 11.9489487197085,
-              "lng": 104.3201192197085
-            }
-          }
-        },
-        "name": "វត្តប្រាសាទប្រសើរ ក្រសាំងដុះឡើង Prasart Pror Ser Kror Sang Dos Lerng Monastery",
-        "place_id": "ChIJnZTJKYbZDjER2epD3E2Nwcg",
-        "url": "https://maps.google.com/?cid=14465998843638180569",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "វត្តប្រាសាទប្រសើរ ក្រសាំងដុះឡើង Prasart Pror Ser Kror Sang Dos Lerng Monastery",
+      "location": {
+        "lat": 11.9503273,
+        "lng": 104.3214614
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Kbal Tuek, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJnZTJKYbZDjER2epD3E2Nwcg",
+      "google_maps_url": "https://maps.google.com/?cid=14465998843638180569",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Phước Thái, Long Thành District, Dong Nai, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 10.6874144,
-            "lng": 107.0250911
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 10.6887617802915,
-              "lng": 107.0264380802915
-            },
-            "southwest": {
-              "lat": 10.6860638197085,
-              "lng": 107.0237401197085
-            }
-          }
-        },
-        "name": "Đạo Huệ Zen Monastery",
-        "place_id": "ChIJHRUW0AsadTER2dHUS_NRFMA",
-        "url": "https://maps.google.com/?cid=13840777660207518169",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMQNXDTTdsO9nmL5KUJXl-ggra-SUvPECgT7xX5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVGZAKTdp-8kDYwM-YjT8Gv9-xCQmrn7iNyq54=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSePBeybXFZj03rfLOnKZ5FO07IfkOny_DVY0O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPlroqArU7ol9WgiOcb-ByMB1wniXmnTtRUBO46=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNl_2BOqVX7_PMtbf-DQqhLxTGA45bgVMe4mVf-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8nfxNNaEy2uRolUoxtjYoLFUxSs6mE2fH95ug=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhUSOyFOznWzmBXFTj7y_o2PhmzGoHkF-yt_4c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8pIDH0sSHrO-cfjlaP207z-lMcV7d8hu1m3_B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPqbm5_433V_n4lmZkTM5JqZxOx960VfFM773Jb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMR0yMVDP7BlGWN36w6UXj_pTKucA1uRmIQA4_=s1600-w800-h800"
-        ]
+      "name": "Đạo Huệ Zen Monastery",
+      "location": {
+        "lat": 10.6874144,
+        "lng": 107.0250911
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Phước Thái, Long Thành District, Dong Nai, Vietnam",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMQNXDTTdsO9nmL5KUJXl-ggra-SUvPECgT7xX5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVGZAKTdp-8kDYwM-YjT8Gv9-xCQmrn7iNyq54=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSePBeybXFZj03rfLOnKZ5FO07IfkOny_DVY0O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPlroqArU7ol9WgiOcb-ByMB1wniXmnTtRUBO46=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNl_2BOqVX7_PMtbf-DQqhLxTGA45bgVMe4mVf-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8nfxNNaEy2uRolUoxtjYoLFUxSs6mE2fH95ug=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhUSOyFOznWzmBXFTj7y_o2PhmzGoHkF-yt_4c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8pIDH0sSHrO-cfjlaP207z-lMcV7d8hu1m3_B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPqbm5_433V_n4lmZkTM5JqZxOx960VfFM773Jb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMR0yMVDP7BlGWN36w6UXj_pTKucA1uRmIQA4_=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJHRUW0AsadTER2dHUS_NRFMA",
+      "google_maps_url": "https://maps.google.com/?cid=13840777660207518169",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Gia Lam Hamlet, Gia Loc Commune, Trang Bang District, Tay Ninh Province, Gia Lộc, Trảng Bàng, Tây Ninh, Vietnam",
-        "geometry": {
-          "location": {
-            "lat": 11.0509214,
-            "lng": 106.3726474
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 11.0521960802915,
-              "lng": 106.3739559802915
-            },
-            "southwest": {
-              "lat": 11.0494981197085,
-              "lng": 106.3712580197085
-            }
-          }
-        },
-        "international_phone_number": "+84 276 3880 178",
-        "name": "Chon Nhu Monastery",
-        "place_id": "ChIJZ0TZNQYwCzER4JE4PXGfgFA",
-        "url": "https://maps.google.com/?cid=5800811628760437216",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPnbwCKYZMflAXcatWcL9yhP2YkYYWI2bdz-TJ3=s1600-w800-h800"
-        ]
+      "name": "Chon Nhu Monastery",
+      "location": {
+        "lat": 11.0509214,
+        "lng": 106.3726474
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Gia Lam Hamlet, Gia Loc Commune, Trang Bang District, Tay Ninh Province, Gia Lộc, Trảng Bàng, Tây Ninh, Vietnam",
+      "phone": "+84 276 3880 178",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPnbwCKYZMflAXcatWcL9yhP2YkYYWI2bdz-TJ3=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZ0TZNQYwCzER4JE4PXGfgFA",
+      "google_maps_url": "https://maps.google.com/?cid=5800811628760437216",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "19 Pattayaklang 12-6, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 12.9378446,
-            "lng": 100.8921356
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.9389352302915,
-              "lng": 100.8932040302915
-            },
-            "southwest": {
-              "lat": 12.9362372697085,
-              "lng": 100.8905060697085
-            }
-          }
-        },
-        "name": "Wat Nong Ao (Monastery)",
-        "place_id": "ChIJ_d_P7hmVAjER97jv4AYedSc",
-        "url": "https://maps.google.com/?cid=2843211754646780151",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMpJoQJ1WNez02wqUakmbm4aiyAO32Vb8NkY5HA=s1600-w428-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipNprAEsBjhxmzpUES_Jm4F_p8Trd4WxQJoaeiyN=s1600-w640-h428",
-          "https://lh3.googleusercontent.com/p/AF1QipMRC56VGlp16Yp-ydMhhTeQduZUbs4Um-h-WCJc=s1600-w428-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipPYnQkGJf-YaARfJDi59fQj9xt5P3NRpGMlblc3=s1600-w640-h428",
-          "https://lh3.googleusercontent.com/p/AF1QipNdYWcr981x5YRfuoonnuuTkpZE2OumhR7T6I1j=s1600-w428-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOifK-4xRqrEfutC4UhIZiU44AYPHkWjC2qHrtZ=s1600-w428-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOwGCcttUfM1Ntnd4cUFh8k3pWyOu7Kq2qSSNS_=s1600-w640-h428",
-          "https://lh3.googleusercontent.com/p/AF1QipPOP9wShtjRAfNvxNSZTVI8jRjwYLPlAVWxuMcX=s1600-w404-h606",
-          "https://lh3.googleusercontent.com/p/AF1QipObiHnsgcMyWDsiG4f7A2Qf6GKzDaTduXbRSQUr=s1600-w640-h428",
-          "https://lh3.googleusercontent.com/p/AF1QipN8ovmyjKRsaPW0F_EjzVJAPoQjQdTsliI9K8Bo=s1600-w428-h640"
-        ]
+      "name": "Wat Nong Ao (Monastery)",
+      "location": {
+        "lat": 12.9378446,
+        "lng": 100.8921356
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "19 Pattayaklang 12-6, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMpJoQJ1WNez02wqUakmbm4aiyAO32Vb8NkY5HA=s1600-w428-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipNprAEsBjhxmzpUES_Jm4F_p8Trd4WxQJoaeiyN=s1600-w640-h428",
+        "https://lh3.googleusercontent.com/p/AF1QipMRC56VGlp16Yp-ydMhhTeQduZUbs4Um-h-WCJc=s1600-w428-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipPYnQkGJf-YaARfJDi59fQj9xt5P3NRpGMlblc3=s1600-w640-h428",
+        "https://lh3.googleusercontent.com/p/AF1QipNdYWcr981x5YRfuoonnuuTkpZE2OumhR7T6I1j=s1600-w428-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOifK-4xRqrEfutC4UhIZiU44AYPHkWjC2qHrtZ=s1600-w428-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOwGCcttUfM1Ntnd4cUFh8k3pWyOu7Kq2qSSNS_=s1600-w640-h428",
+        "https://lh3.googleusercontent.com/p/AF1QipPOP9wShtjRAfNvxNSZTVI8jRjwYLPlAVWxuMcX=s1600-w404-h606",
+        "https://lh3.googleusercontent.com/p/AF1QipObiHnsgcMyWDsiG4f7A2Qf6GKzDaTduXbRSQUr=s1600-w640-h428",
+        "https://lh3.googleusercontent.com/p/AF1QipN8ovmyjKRsaPW0F_EjzVJAPoQjQdTsliI9K8Bo=s1600-w428-h640"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_d_P7hmVAjER97jv4AYedSc",
+      "google_maps_url": "https://maps.google.com/?cid=2843211754646780151",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8/1 Moo 7, แกลง, เมือง, Rayong 21160, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 12.6777567,
-            "lng": 101.4279349
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.6790998802915,
-              "lng": 101.4293158302915
-            },
-            "southwest": {
-              "lat": 12.6764019197085,
-              "lng": 101.4266178697085
-            }
-          }
-        },
-        "international_phone_number": "+66 38 026 251",
-        "name": "วัดมาบจันทร์ Wat Marp Jan",
-        "place_id": "ChIJn1cFAIwDAzER0au2FjQkvFc",
-        "url": "https://maps.google.com/?cid=6321967783059303377",
-        "website": "http://www.watmarpjan.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNUY7dprOKlIdrQ3DXsbAA6aJ5MUmvT4XLAu7_v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1eN9-FWZFAKy5QaDpQQMJNKhWMnbwseBL0WXw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNh1VqlDT6DUAZpqu5VWQSkluMMtgXLGRFl4cxH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuC52fSx1hrt9_L-joNFNjC8fFBuJclWl45ACq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNiSlVUEpePRI65ZzGk-OzCuncaDALarQIGZvtf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOgFj7iARqfFNi3LYxoRYIhSOMvPzPFOP9g7jfL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8Pwvp5KENGWabajZ5KEqnLEa6b5E5UUuZA4x4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSdcF5gJTCXC0mwlx2898Fax5A__ew3nBU9BeO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSoS5EgE2WwXgTOBLeESQ2Wv3Ho_D-2JT2LL-H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJuhg-0ceFtpiASEZor83BNRTr-SXF_Uhlmw=s1600-w800-h800"
-        ]
+      "name": "วัดมาบจันทร์ Wat Marp Jan",
+      "location": {
+        "lat": 12.6777567,
+        "lng": 101.4279349
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "8/1 Moo 7, แกลง, เมือง, Rayong 21160, Thailand",
+      "phone": "+66 38 026 251",
+      "website": "http://www.watmarpjan.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNUY7dprOKlIdrQ3DXsbAA6aJ5MUmvT4XLAu7_v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1eN9-FWZFAKy5QaDpQQMJNKhWMnbwseBL0WXw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNh1VqlDT6DUAZpqu5VWQSkluMMtgXLGRFl4cxH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuC52fSx1hrt9_L-joNFNjC8fFBuJclWl45ACq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNiSlVUEpePRI65ZzGk-OzCuncaDALarQIGZvtf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOgFj7iARqfFNi3LYxoRYIhSOMvPzPFOP9g7jfL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8Pwvp5KENGWabajZ5KEqnLEa6b5E5UUuZA4x4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSdcF5gJTCXC0mwlx2898Fax5A__ew3nBU9BeO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSoS5EgE2WwXgTOBLeESQ2Wv3Ho_D-2JT2LL-H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJuhg-0ceFtpiASEZor83BNRTr-SXF_Uhlmw=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJn1cFAIwDAzER0au2FjQkvFc",
+      "google_maps_url": "https://maps.google.com/?cid=6321967783059303377",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Toongklom-Talman 26, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 12.8818711,
-            "lng": 100.952072
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.8831733302915,
-              "lng": 100.9534297302915
-            },
-            "southwest": {
-              "lat": 12.8804753697085,
-              "lng": 100.9507317697085
-            }
-          }
-        },
-        "name": "Wat Khao Din",
-        "place_id": "ChIJNRB0zu6UAjERd1gHqNuInj4",
-        "url": "https://maps.google.com/?cid=4512194353670084727",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOAyQTUlvYKyegeDgbf0fXCi3YfINhiENWKEZ7e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzWioN1pRJ9-Bt7IlHShWmHFCG5Kf0HkTvlxem=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMP9LqXmnawU-gIHR_98_Uecqq1zCnBC6vLfANY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgMny2pYV2kGjCGsP3eSInNGaa5QAAkgFbxvLp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0L6PlSzHDlfJ0ibXM4NZ3vGzHzN7_c_PAkgTS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoKTxwfyaq9gOXpTDFjy60OR4-BcFMWMKtycAp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOg35u2KG7hwSdGoGb8Y874MDfcjRMi8VmTJBPk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSFImrDQgAK-mYIVV4HlwvCaCoPcdW5YnlVDYX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVo25zl_qz7yVc4ja709Nka16hUF5Ms1Cwq2sz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNv-HHimWU-4VFM0dcSFAbXWgcYWBtXNHQP8P2M=s1600-w800-h800"
-        ]
+      "name": "Wat Khao Din",
+      "location": {
+        "lat": 12.8818711,
+        "lng": 100.952072
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Toongklom-Talman 26, Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOAyQTUlvYKyegeDgbf0fXCi3YfINhiENWKEZ7e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzWioN1pRJ9-Bt7IlHShWmHFCG5Kf0HkTvlxem=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMP9LqXmnawU-gIHR_98_Uecqq1zCnBC6vLfANY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgMny2pYV2kGjCGsP3eSInNGaa5QAAkgFbxvLp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0L6PlSzHDlfJ0ibXM4NZ3vGzHzN7_c_PAkgTS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoKTxwfyaq9gOXpTDFjy60OR4-BcFMWMKtycAp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOg35u2KG7hwSdGoGb8Y874MDfcjRMi8VmTJBPk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSFImrDQgAK-mYIVV4HlwvCaCoPcdW5YnlVDYX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVo25zl_qz7yVc4ja709Nka16hUF5Ms1Cwq2sz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNv-HHimWU-4VFM0dcSFAbXWgcYWBtXNHQP8P2M=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJNRB0zu6UAjERd1gHqNuInj4",
+      "google_maps_url": "https://maps.google.com/?cid=4512194353670084727",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bo Thong, Bo Thong District, Chon Buri 20270, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 13.1138869,
-            "lng": 101.5382926
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 13.1152667302915,
-              "lng": 101.5395829302915
-            },
-            "southwest": {
-              "lat": 13.1125687697085,
-              "lng": 101.5368849697085
-            }
-          }
-        },
-        "international_phone_number": "+66 87 999 6154",
-        "name": "Wat Boonyawad",
-        "place_id": "ChIJzS5GQREwAzERibfg2Y-yzXg",
-        "url": "https://maps.google.com/?cid=8704809985682487177",
-        "website": "http://www.watboonyawad.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNINUCYiKEyE1MBAvXNOLoBpePR2nDXm-i7XXHq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHGFUqdgFFNqij-2MWmRySk0-8p8LKVMjjd6_T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCXBy5OYSzoM5k_5NLD-_i7d1xNQg_l-Xgj3PR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-WkM2rTqxI756kWTUC0qHtkmGaxm8gkadjFfj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKsT2R1cNQqhbj3RrjjcjMkqC7RETTeq8DM2r5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMCPQNz0ntXa8kKNKsPQatSAew7b7U0JLP0UiBg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHB3BsCxaux2wbn1rcnyIlfLuXVYLKjdDWYQtH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOM7be8slXr9BV_qVZvYPBnYyWmH5E_UxlnYjx0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOdYCw2dO28OZzcBZagBBbN_tef-9DgcBWYQXo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNjXzWuTFQfQs_ZgM0XThMfM1uo4ZxcheSNudzJ=s1600-w800-h800"
-        ]
+      "name": "Wat Boonyawad",
+      "location": {
+        "lat": 13.1138869,
+        "lng": 101.5382926
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Bo Thong, Bo Thong District, Chon Buri 20270, Thailand",
+      "phone": "+66 87 999 6154",
+      "website": "http://www.watboonyawad.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNINUCYiKEyE1MBAvXNOLoBpePR2nDXm-i7XXHq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHGFUqdgFFNqij-2MWmRySk0-8p8LKVMjjd6_T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCXBy5OYSzoM5k_5NLD-_i7d1xNQg_l-Xgj3PR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-WkM2rTqxI756kWTUC0qHtkmGaxm8gkadjFfj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKsT2R1cNQqhbj3RrjjcjMkqC7RETTeq8DM2r5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMCPQNz0ntXa8kKNKsPQatSAew7b7U0JLP0UiBg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHB3BsCxaux2wbn1rcnyIlfLuXVYLKjdDWYQtH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOM7be8slXr9BV_qVZvYPBnYyWmH5E_UxlnYjx0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOdYCw2dO28OZzcBZagBBbN_tef-9DgcBWYQXo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNjXzWuTFQfQs_ZgM0XThMfM1uo4ZxcheSNudzJ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzS5GQREwAzERibfg2Y-yzXg",
+      "google_maps_url": "https://maps.google.com/?cid=8704809985682487177",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Moo 3, Tambon Nong Prue, Amphoe Bang Lamung, Chon Buri, 20150, เมืองพัทยา อำเภอบางละมุง ชลบุรี 20150, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 12.9294097,
-            "lng": 100.9219963
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.9307550802915,
-              "lng": 100.9233700802915
-            },
-            "southwest": {
-              "lat": 12.9280571197085,
-              "lng": 100.9206721197085
-            }
-          }
-        },
-        "name": "Wat Nong Prue",
-        "place_id": "ChIJX8bqV5CVAjERxsu78FikWQE",
-        "url": "https://maps.google.com/?cid=97289568868092870",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Wat Nong Prue",
+      "location": {
+        "lat": 12.9294097,
+        "lng": 100.9219963
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Moo 3, Tambon Nong Prue, Amphoe Bang Lamung, Chon Buri, 20150, เมืองพัทยา อำเภอบางละมุง ชลบุรี 20150, Thailand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJX8bqV5CVAjERxsu78FikWQE",
+      "google_maps_url": "https://maps.google.com/?cid=97289568868092870",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bang Phra, Si Racha District, Chon Buri 20110, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 13.2596055,
-            "lng": 101.0082907
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 13.2607226802915,
-              "lng": 101.0094679302915
-            },
-            "southwest": {
-              "lat": 13.2580247197085,
-              "lng": 101.0067699697085
-            }
-          }
-        },
-        "name": "Lunwa Monastery",
-        "place_id": "ChIJmyy23PXKAjERRKZwVpINPUI",
-        "url": "https://maps.google.com/?cid=4772986102249203268",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Lunwa Monastery",
+      "location": {
+        "lat": 13.2596055,
+        "lng": 101.0082907
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Bang Phra, Si Racha District, Chon Buri 20110, Thailand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJmyy23PXKAjERRKZwVpINPUI",
+      "google_maps_url": "https://maps.google.com/?cid=4772986102249203268",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Krong Poi Pet, Cambodia",
-        "geometry": {
-          "location": {
-            "lat": 13.6569622,
-            "lng": 102.5592162
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 13.6584924802915,
-              "lng": 102.5603102302915
-            },
-            "southwest": {
-              "lat": 13.6557945197085,
-              "lng": 102.5576122697085
-            }
-          }
-        },
-        "name": "វត្តបាលិលេយ្យ Palilay Monastery",
-        "place_id": "ChIJBy29VuEXGzER5XVwLV2xhXA",
-        "url": "https://maps.google.com/?cid=8108081717902865893",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "វត្តបាលិលេយ្យ Palilay Monastery",
+      "location": {
+        "lat": 13.6569622,
+        "lng": 102.5592162
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Krong Poi Pet, Cambodia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJBy29VuEXGzER5XVwLV2xhXA",
+      "google_maps_url": "https://maps.google.com/?cid=8108081717902865893",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Nong Bua, Ban Khai, Ban Khai District, Rayong 21120, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 12.8938749,
-            "lng": 101.3791858
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.8951285802915,
-              "lng": 101.3807433302915
-            },
-            "southwest": {
-              "lat": 12.8924306197085,
-              "lng": 101.3780453697085
-            }
-          }
-        },
-        "international_phone_number": "+66 81 256 7112",
-        "name": "Wat Pipphalivanaram",
-        "place_id": "ChIJGWW87aQfAzERoO7RAVA6gFs",
-        "url": "https://maps.google.com/?cid=6593333969772736160",
-        "website": "http://www.awareinsight.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOkqKOUoWmRYrbxoTiXI4DBdEphYXom5T1GJ1BS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmzKgRYCcDNjcEHe-W4XlA9Oa2E967fmDnn_Ce=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2m_6Ce5yR99CcXqu_X_AplfUY4pLJNtmpdPec=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHRg8eXGpiN_XcFdGu4hAOeqD1Es1FjX8P92Xl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQGV7VsfaIiiQS3AvuQVhXbot4pV-XT4JwIMN8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlWJ1S7bqJtT9YBrlWe0f_G42AaM2IxhzEv9Jo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMmcxk7OF0ObLZuAeAqnGr4KAuc-mdF3hDJdDvL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmuadjbDD54oIdagsNy04AIqFgIOy0kmSbadgj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-P7VMMv9irBTm7QJk7cW6UCyDxuEJ2qTcWhFW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMCEtKax6kIbQMuRKZEgc7EhcbvYQ18hzq-Ya9G=s1600-w800-h800"
-        ]
+      "name": "Wat Pipphalivanaram",
+      "location": {
+        "lat": 12.8938749,
+        "lng": 101.3791858
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Nong Bua, Ban Khai, Ban Khai District, Rayong 21120, Thailand",
+      "phone": "+66 81 256 7112",
+      "website": "http://www.awareinsight.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOkqKOUoWmRYrbxoTiXI4DBdEphYXom5T1GJ1BS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmzKgRYCcDNjcEHe-W4XlA9Oa2E967fmDnn_Ce=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2m_6Ce5yR99CcXqu_X_AplfUY4pLJNtmpdPec=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHRg8eXGpiN_XcFdGu4hAOeqD1Es1FjX8P92Xl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQGV7VsfaIiiQS3AvuQVhXbot4pV-XT4JwIMN8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlWJ1S7bqJtT9YBrlWe0f_G42AaM2IxhzEv9Jo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMmcxk7OF0ObLZuAeAqnGr4KAuc-mdF3hDJdDvL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmuadjbDD54oIdagsNy04AIqFgIOy0kmSbadgj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-P7VMMv9irBTm7QJk7cW6UCyDxuEJ2qTcWhFW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMCEtKax6kIbQMuRKZEgc7EhcbvYQ18hzq-Ya9G=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGWW87aQfAzERoO7RAVA6gFs",
+      "google_maps_url": "https://maps.google.com/?cid=6593333969772736160",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Na Kluea, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 12.9143463,
-            "lng": 100.8685943
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.9156952802915,
-              "lng": 100.8699432802915
-            },
-            "southwest": {
-              "lat": 12.91299731970849,
-              "lng": 100.8672453197085
-            }
-          }
-        },
-        "name": "Big Buddha Temple",
-        "place_id": "ChIJk0BiMmiWAjERQelm_nN2EVg",
-        "url": "https://maps.google.com/?cid=6345983590503213377",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNmbzjjtm2iGCfhzw_C0x8qmMkcUOsogVA4WAyW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8TChmZER7-OfABYdGwQT0Onr8nc_wGMphSnLi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjiXSb64iIVHBHq8g8uwmHoO-Y821pcGeo0sUk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtvtllQ-TPDsMXzLzNP5wMgNKLZDsN1O2kZM8h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_5r6HqKiC5t9U0hxuXrw3G745HF1JeIwu6opG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOgXoUbPUThYseoiXG4bSGn3RZ3-92_qMBiWZ4B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeaIgM3Bb_BWzxh39E_2rA4TLUYWab-ByLa7lh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkg96QQlRJwYDVawbDClEfVbvNkzIhdJ5gsWY1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzCOSpqw6f_sQd-CKFYGbGUT44jQAwC9p1qV1U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMytkRuv0xO0ExdcgzbyhhBO0BMZE82NY2xvBil=s1600-w800-h800"
-        ]
+      "name": "Big Buddha Temple",
+      "location": {
+        "lat": 12.9143463,
+        "lng": 100.8685943
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Na Kluea, Pattaya City, Bang Lamung District, Chon Buri 20150, Thailand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNmbzjjtm2iGCfhzw_C0x8qmMkcUOsogVA4WAyW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8TChmZER7-OfABYdGwQT0Onr8nc_wGMphSnLi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjiXSb64iIVHBHq8g8uwmHoO-Y821pcGeo0sUk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtvtllQ-TPDsMXzLzNP5wMgNKLZDsN1O2kZM8h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_5r6HqKiC5t9U0hxuXrw3G745HF1JeIwu6opG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOgXoUbPUThYseoiXG4bSGn3RZ3-92_qMBiWZ4B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeaIgM3Bb_BWzxh39E_2rA4TLUYWab-ByLa7lh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkg96QQlRJwYDVawbDClEfVbvNkzIhdJ5gsWY1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzCOSpqw6f_sQd-CKFYGbGUT44jQAwC9p1qV1U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMytkRuv0xO0ExdcgzbyhhBO0BMZE82NY2xvBil=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJk0BiMmiWAjERQelm_nN2EVg",
+      "google_maps_url": "https://maps.google.com/?cid=6345983590503213377",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "เลขที่ 1 หมู่ที่ 8 Tambon Nong Lalok, Amphoe Ban Khai, Chang Wat Rayong 21120, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 12.8538415,
-            "lng": 101.3003635
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.8550695802915,
-              "lng": 101.301782
-            },
-            "southwest": {
-              "lat": 12.8523716197085,
-              "lng": 101.296938
-            }
-          }
-        },
-        "name": "Wat Lahan Rai",
-        "place_id": "ChIJa7urSoPhAjERiup6QLWKDkE",
-        "url": "https://maps.google.com/?cid=4687836773214775946",
-        "website": "http://watlahanrai.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMOZPOZpuW3yXHiD23FXNp6j-S5M6L6d9qw4RdR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPwH_-xJeXnlGTbQDHDuKaG6_Me_t_qqr8zWsi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPiKb3qaqkM4zYDC65SbfJed5vHYtE_3Nou71NL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZWql6x2D7RGruUdmN3TMnJO-XSsY1C0dKB48Z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOECc6tX7MjaRIKXHzBdZWQXFFR8EB9aKFJt0YP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfHSM0BLCbGnz21cI3I_i3r4e4oDU3XltQPYRM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOaHwfwzpzWucY3a0YYzv_Ca4_MupHnBuEYiZK7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhsPyz9KqHQ0YkbeIuVJ1nbeyWWA6imnw9aHFw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNzUyvW2CnCthJPODzXfxMe8j6BILcKpA2q2WNI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDIUVEFxumhh1qISTUwtUEQg0YJef3iyVkIFZ7=s1600-w800-h800"
-        ]
+      "name": "Wat Lahan Rai",
+      "location": {
+        "lat": 12.8538415,
+        "lng": 101.3003635
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "เลขที่ 1 หมู่ที่ 8 Tambon Nong Lalok, Amphoe Ban Khai, Chang Wat Rayong 21120, Thailand",
+      "website": "http://watlahanrai.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMOZPOZpuW3yXHiD23FXNp6j-S5M6L6d9qw4RdR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPwH_-xJeXnlGTbQDHDuKaG6_Me_t_qqr8zWsi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPiKb3qaqkM4zYDC65SbfJed5vHYtE_3Nou71NL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZWql6x2D7RGruUdmN3TMnJO-XSsY1C0dKB48Z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOECc6tX7MjaRIKXHzBdZWQXFFR8EB9aKFJt0YP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfHSM0BLCbGnz21cI3I_i3r4e4oDU3XltQPYRM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOaHwfwzpzWucY3a0YYzv_Ca4_MupHnBuEYiZK7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhsPyz9KqHQ0YkbeIuVJ1nbeyWWA6imnw9aHFw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNzUyvW2CnCthJPODzXfxMe8j6BILcKpA2q2WNI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDIUVEFxumhh1qISTUwtUEQg0YJef3iyVkIFZ7=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJa7urSoPhAjERiup6QLWKDkE",
+      "google_maps_url": "https://maps.google.com/?cid=4687836773214775946",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "บ้านชากหมาก เลขที่59 Tambon Sam Nak Thon, Amphoe Ban Chang, Chang Wat Rayong 21130, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 12.7950071,
-            "lng": 101.0309255
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.7963663302915,
-              "lng": 101.0322674802915
-            },
-            "southwest": {
-              "lat": 12.7936683697085,
-              "lng": 101.0295695197085
-            }
-          }
-        },
-        "international_phone_number": "+66 98 903 2231",
-        "name": "Wat Chak Mak",
-        "place_id": "ChIJWTjKJKntAjERf4MCVfl44qY",
-        "url": "https://maps.google.com/?cid=12025306967301063551",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM3SViJqhxx44N5T0qXCJBssDbTBvD0_U7etf01=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNO9By9dCimmCwQkOc-84_wZ7a7WLuR-nmoLnl5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7I6fRhENcOeWW7rA7c7X0uZxSu86htSxEddC0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOplgkH_HvQl-0fnL9lTBI7T1LkE66rD_aB8RsI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6mh6GD2eUtVVggqoh-rWwqsszoErxIeWnlYfp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNT2Xk-Cm9w60oIdoq1ISItbpe558W8pFBYxFqI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFP0tCwq3dt8ns5NY7X09_sFsp2FFBlxUWlQVC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPEOhrSKolqLIJdtYQ7YxU_qBa_7vgGRoDaQlB-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTYsKPUzxG1OtfYy6d-40ThznoCg3gocTJei1P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMK0CNB9QW4mKmryNMZa4i0fYLB3_JjrkN4B-VK=s1600-w800-h800"
-        ]
+      "name": "Wat Chak Mak",
+      "location": {
+        "lat": 12.7950071,
+        "lng": 101.0309255
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "บ้านชากหมาก เลขที่59 Tambon Sam Nak Thon, Amphoe Ban Chang, Chang Wat Rayong 21130, Thailand",
+      "phone": "+66 98 903 2231",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM3SViJqhxx44N5T0qXCJBssDbTBvD0_U7etf01=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNO9By9dCimmCwQkOc-84_wZ7a7WLuR-nmoLnl5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7I6fRhENcOeWW7rA7c7X0uZxSu86htSxEddC0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOplgkH_HvQl-0fnL9lTBI7T1LkE66rD_aB8RsI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6mh6GD2eUtVVggqoh-rWwqsszoErxIeWnlYfp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNT2Xk-Cm9w60oIdoq1ISItbpe558W8pFBYxFqI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFP0tCwq3dt8ns5NY7X09_sFsp2FFBlxUWlQVC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPEOhrSKolqLIJdtYQ7YxU_qBa_7vgGRoDaQlB-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTYsKPUzxG1OtfYy6d-40ThznoCg3gocTJei1P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMK0CNB9QW4mKmryNMZa4i0fYLB3_JjrkN4B-VK=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJWTjKJKntAjERf4MCVfl44qY",
+      "google_maps_url": "https://maps.google.com/?cid=12025306967301063551",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "ถนนพิศาลธีรคุณ จันทนิมิต จ.จันทบุรี 22000 Tel.086-794-8949 Tambon Chanthanimit, Amphoe Mueang Chanthaburi, Chang Wat Chanthaburi 22000, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 12.6057377,
-            "lng": 102.1192093
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.6069880302915,
-              "lng": 102.1205391302915
-            },
-            "southwest": {
-              "lat": 12.6042900697085,
-              "lng": 102.1178411697085
-            }
-          }
-        },
-        "international_phone_number": "+66 86 794 8949",
-        "name": "Wat Phai Lom (Royal Monastery)",
-        "place_id": "ChIJg9bHOXaBBDER0aMmCU7LFcU",
-        "url": "https://maps.google.com/?cid=14201480536004142033",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMdwL2lW-nGNA-qH8zVdCcULI891SheTOUvSzZI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6akKqaqOeoL3mKUOw8VhPqZ587Ms_GKYCwKwp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZKNVlajEUmVoWR0KR6nb8Y2O9ik3SFENDlJx7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPk-H5v_pjQRVNta4ZUlpXO-gkwSMj3-GBi9OoA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOSMdDiG1KLvlYljvSl6DT3IjOG2PF9ODYwEy08=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNs8bgw_2K044qpF5opaHsdJSVBiLzb3--gEEeD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6BQuH6Q-Fe_9aP99vEKTN3VHf-9qQxMWg1CMB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwV8bVCxoPMebZ1GkfADarbnVNRogNRnHp6p0-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlVB__xHvmAl-2D-Hcr0HHtEsdss0-uDZW_6rB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPEbkuNZo9AGuBz--E5ysWGOMoIjpSIrnBKN9Gu=s1600-w800-h800"
-        ]
+      "name": "Wat Phai Lom (Royal Monastery)",
+      "location": {
+        "lat": 12.6057377,
+        "lng": 102.1192093
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "ถนนพิศาลธีรคุณ จันทนิมิต จ.จันทบุรี 22000 Tel.086-794-8949 Tambon Chanthanimit, Amphoe Mueang Chanthaburi, Chang Wat Chanthaburi 22000, Thailand",
+      "phone": "+66 86 794 8949",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMdwL2lW-nGNA-qH8zVdCcULI891SheTOUvSzZI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6akKqaqOeoL3mKUOw8VhPqZ587Ms_GKYCwKwp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZKNVlajEUmVoWR0KR6nb8Y2O9ik3SFENDlJx7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPk-H5v_pjQRVNta4ZUlpXO-gkwSMj3-GBi9OoA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOSMdDiG1KLvlYljvSl6DT3IjOG2PF9ODYwEy08=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNs8bgw_2K044qpF5opaHsdJSVBiLzb3--gEEeD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6BQuH6Q-Fe_9aP99vEKTN3VHf-9qQxMWg1CMB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwV8bVCxoPMebZ1GkfADarbnVNRogNRnHp6p0-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlVB__xHvmAl-2D-Hcr0HHtEsdss0-uDZW_6rB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPEbkuNZo9AGuBz--E5ysWGOMoIjpSIrnBKN9Gu=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJg9bHOXaBBDER0aMmCU7LFcU",
+      "google_maps_url": "https://maps.google.com/?cid=14201480536004142033",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Phe, Mueang Rayong District, Rayong 21160, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 12.619748,
-            "lng": 101.402026
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.6211132802915,
-              "lng": 101.4032693802915
-            },
-            "southwest": {
-              "lat": 12.6184153197085,
-              "lng": 101.4005714197085
-            }
-          }
-        },
-        "name": "Wat Nai Rai",
-        "place_id": "ChIJ_Tf_URABAzERxffQaZfNfAE",
-        "url": "https://maps.google.com/?cid=107186541349107653",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP0Z1XnjDyvHnANcDe7cEA5toxFciAo8n6hV7KK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOSkGpq-4fQirDt9vaLievR-fiqO_PhJ8f2an9c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9JASiTJwup0pMIvhOhuISwhTPDXVMzqCC9Yoy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjD6ZaVMKXDwZZZFPcP86M3J6qeKJA1M7gh6Bo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPaLoWk_fsieC_m4aPd5o5gajurfpUNzNat63_K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPIvArYf04ffzDYQbmDVQvj2FZSR4xr4SVuxAuV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0Az_XIWNLymlBJBXHpIU1CG4AkQruwKf8y6E8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwI6RIBOzHgFXsYAi7DaHy1eC0JbfxHaJSKD_y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqYSmc21PuiXSMrAlAQEYsC_-MIfyu7QKYIQ97=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTaNbANoveYtqJGtnq4-GLEk7UHTdmnwhIBquQ=s1600-w800-h800"
-        ]
+      "name": "Wat Nai Rai",
+      "location": {
+        "lat": 12.619748,
+        "lng": 101.402026
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Phe, Mueang Rayong District, Rayong 21160, Thailand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP0Z1XnjDyvHnANcDe7cEA5toxFciAo8n6hV7KK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOSkGpq-4fQirDt9vaLievR-fiqO_PhJ8f2an9c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9JASiTJwup0pMIvhOhuISwhTPDXVMzqCC9Yoy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjD6ZaVMKXDwZZZFPcP86M3J6qeKJA1M7gh6Bo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPaLoWk_fsieC_m4aPd5o5gajurfpUNzNat63_K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPIvArYf04ffzDYQbmDVQvj2FZSR4xr4SVuxAuV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0Az_XIWNLymlBJBXHpIU1CG4AkQruwKf8y6E8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwI6RIBOzHgFXsYAi7DaHy1eC0JbfxHaJSKD_y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqYSmc21PuiXSMrAlAQEYsC_-MIfyu7QKYIQ97=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTaNbANoveYtqJGtnq4-GLEk7UHTdmnwhIBquQ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_Tf_URABAzERxffQaZfNfAE",
+      "google_maps_url": "https://maps.google.com/?cid=107186541349107653",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Nong Bua, Ban Khai District, Rayong 21120, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 12.9207678,
-            "lng": 101.3403339
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 12.9221293302915,
-              "lng": 101.3416406802915
-            },
-            "southwest": {
-              "lat": 12.9194313697085,
-              "lng": 101.3389427197085
-            }
-          }
-        },
-        "international_phone_number": "+66 86 883 4667",
-        "name": "Wat Pa Wai",
-        "place_id": "ChIJn-VHeQHgAjERhzw-bYRC8dg",
-        "url": "https://maps.google.com/?cid=15632348918115613831",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMYsTn8fxTDfvMikVbgkNWg0NvynwIISIxLbbRM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMnxikBrTyx896Lgb5WbO4WmQBJss7cBxIVeVXd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEyhyB-EvHkYDy529j3PoIMIK0AGdxrPjsApRv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgF7z3nUQUqxNbLec0bplHUngkTbD469wU0sRe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBvaOkJJ5LzJlX-I5E0sk_TPG-Ut7jWfNDw9Qj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMuJ5VKNiStxElCBFifhCpl9Qc_P1NAZ4Lk6-Qw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2ATZN0iqVeX9FVz4dA1fMmnuOS5Rju9v-ofGd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvp8NB9a8Lr4sJzEoWuw5GRLbMFZNsLyk7HKCg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNa5xwtsTb52DW76AjyIrv58gzS-Q9t6odFCRnr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPGUJvANbBhBvmHK8VtBr2nLi-qokaAw8ylygM=s1600-w800-h800"
-        ]
+      "name": "Wat Pa Wai",
+      "location": {
+        "lat": 12.9207678,
+        "lng": 101.3403339
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:10:42.519Z"
-      }
+      "address": "Nong Bua, Ban Khai District, Rayong 21120, Thailand",
+      "phone": "+66 86 883 4667",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMYsTn8fxTDfvMikVbgkNWg0NvynwIISIxLbbRM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMnxikBrTyx896Lgb5WbO4WmQBJss7cBxIVeVXd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEyhyB-EvHkYDy529j3PoIMIK0AGdxrPjsApRv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgF7z3nUQUqxNbLec0bplHUngkTbD469wU0sRe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBvaOkJJ5LzJlX-I5E0sk_TPG-Ut7jWfNDw9Qj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMuJ5VKNiStxElCBFifhCpl9Qc_P1NAZ4Lk6-Qw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2ATZN0iqVeX9FVz4dA1fMmnuOS5Rju9v-ofGd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvp8NB9a8Lr4sJzEoWuw5GRLbMFZNsLyk7HKCg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNa5xwtsTb52DW76AjyIrv58gzS-Q9t6odFCRnr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPGUJvANbBhBvmHK8VtBr2nLi-qokaAw8ylygM=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJn-VHeQHgAjERhzw-bYRC8dg",
+      "google_maps_url": "https://maps.google.com/?cid=15632348918115613831",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "ซอย วัดปัญญานันทาราม Tambon Khlong Hok, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 14.1291357,
-            "lng": 100.7235246
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 14.1307422802915,
-              "lng": 100.7248722302915
-            },
-            "southwest": {
-              "lat": 14.1280443197085,
-              "lng": 100.7221742697085
-            }
-          }
-        },
-        "name": "Wat-Panyanantaram International Buddhist Center (PIBC)",
-        "place_id": "ChIJN_a5vEKDHTERjmbmeW4pRxc",
-        "url": "https://maps.google.com/?cid=1677354940687083150",
-        "website": "http://watpanya.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Wat-Panyanantaram International Buddhist Center (PIBC)",
+      "location": {
+        "lat": 14.1291357,
+        "lng": 100.7235246
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "ซอย วัดปัญญานันทาราม Tambon Khlong Hok, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+      "website": "http://watpanya.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJN_a5vEKDHTERjmbmeW4pRxc",
+      "google_maps_url": "https://maps.google.com/?cid=1677354940687083150",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

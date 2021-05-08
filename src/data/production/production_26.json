@@ -1,1347 +1,1064 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Japan, 〒479-0866 愛知県常滑市大野町７丁目８９",
-        "geometry": {
-          "location": {
-            "lat": 34.934808,
-            "lng": 136.824389
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.9361720302915,
-              "lng": 136.8256521802915
-            },
-            "southwest": {
-              "lat": 34.9334740697085,
-              "lng": 136.8229542197085
-            }
-          }
-        },
-        "international_phone_number": "+81 569-42-1613",
-        "name": "Dosen Temple",
-        "place_id": "ChIJa1oCuth_BGARK3M0MrX2Yzk",
-        "url": "https://maps.google.com/?cid=4135420140948058923",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPkvKvBZN1O7DAQPy2yeqb3Xm8mTmThMPVMSTdy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzAoQSqThdeeilciL2pdJ9yQ9CF1Wdv3yHHFyc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzI7vgZBnO8DWWcBQWUB8XbiNik9xxGokYEZFo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYW2dsbaZkPk-YH6YFOoN78DoH2xz7erUmp3GD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyFPetD_WaOImUnFvtkHqXbCQhUyjbGi7O5l7y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQGfhEgbDVbUg19qbg4v6Ucj_TJnXN4wejPMjo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSFW67Ykt7PDfABrxr31uFbF12Xy2pw56b1BK3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuFA-lTRZSHJVCGUOpuQJcTVzfVSTSJclAQkPv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOFs15TKp7b6zimepzbQuL2WZ5mzkmIpvlrZ5lD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjiF5-xrx9RL8uHja2mdCgJ2N1iXbcguH5-ejB=s1600-w800-h800"
-        ]
+      "name": "Dosen Temple",
+      "location": {
+        "lat": 34.934808,
+        "lng": 136.824389
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "Japan, 〒479-0866 愛知県常滑市大野町７丁目８９",
+      "phone": "+81 569-42-1613",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPkvKvBZN1O7DAQPy2yeqb3Xm8mTmThMPVMSTdy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzAoQSqThdeeilciL2pdJ9yQ9CF1Wdv3yHHFyc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzI7vgZBnO8DWWcBQWUB8XbiNik9xxGokYEZFo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYW2dsbaZkPk-YH6YFOoN78DoH2xz7erUmp3GD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyFPetD_WaOImUnFvtkHqXbCQhUyjbGi7O5l7y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQGfhEgbDVbUg19qbg4v6Ucj_TJnXN4wejPMjo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSFW67Ykt7PDfABrxr31uFbF12Xy2pw56b1BK3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuFA-lTRZSHJVCGUOpuQJcTVzfVSTSJclAQkPv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOFs15TKp7b6zimepzbQuL2WZ5mzkmIpvlrZ5lD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjiF5-xrx9RL8uHja2mdCgJ2N1iXbcguH5-ejB=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJa1oCuth_BGARK3M0MrX2Yzk",
+      "google_maps_url": "https://maps.google.com/?cid=4135420140948058923",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Motomachi-50-1 Terano, Kiyosu, Aichi 452-0908, Japan",
-        "geometry": {
-          "location": {
-            "lat": 35.206997,
-            "lng": 136.846567
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.20834033029149,
-              "lng": 136.8478550802915
-            },
-            "southwest": {
-              "lat": 35.20564236970849,
-              "lng": 136.8451571197085
-            }
-          }
-        },
-        "international_phone_number": "+81 52-400-5774",
-        "name": "Shinkyo Temple",
-        "place_id": "ChIJm6Q_t711A2AR6rZZsdkFrDU",
-        "url": "https://maps.google.com/?cid=3867472612545902314",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO0oYHZGlL42EfY8mPKM9Mnj_Qfk_VkAdY94O_u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUADRymzrDt_SMRqOlskK4f_oLGAUCca3OwZ9B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtx-0VBrPC3k7kcKhY28-L2xxERXuTi9wuFBbZ=s1600-w800-h800"
-        ]
+      "name": "Shinkyo Temple",
+      "location": {
+        "lat": 35.206997,
+        "lng": 136.846567
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "Motomachi-50-1 Terano, Kiyosu, Aichi 452-0908, Japan",
+      "phone": "+81 52-400-5774",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO0oYHZGlL42EfY8mPKM9Mnj_Qfk_VkAdY94O_u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUADRymzrDt_SMRqOlskK4f_oLGAUCca3OwZ9B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtx-0VBrPC3k7kcKhY28-L2xxERXuTi9wuFBbZ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJm6Q_t711A2AR6rZZsdkFrDU",
+      "google_maps_url": "https://maps.google.com/?cid=3867472612545902314",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "6946 Komono, Mie District, Mie 510-1233, Japan",
-        "geometry": {
-          "location": {
-            "lat": 35.006905,
-            "lng": 136.498789
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.0081696302915,
-              "lng": 136.5000873802915
-            },
-            "southwest": {
-              "lat": 35.0054716697085,
-              "lng": 136.4973894197085
-            }
-          }
-        },
-        "international_phone_number": "+81 59-393-4751",
-        "name": "Encho Temple",
-        "place_id": "ChIJsaJhhcHsA2ARbGYBNAzhG_Y",
-        "url": "https://maps.google.com/?cid=17734015400229824108",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOB9r_U0s6n9G3G9TongXjwdWfDybvaRwlpC_0o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN55lppLrbvskgD_HSykezgZurS0SID0AFcSSFk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRpltyJ0lDzx2CJO0sgvEk2Tbtu1KdX27ADGo3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-ao7wRh6M8zuOsFYf26N2RF6w117UCIm45DYx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMa1AmY7xHEuclKh1iRuJSvYUQ45ItHkklvYf7q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQ-KiTAEs7JHCTMsNNX-PDE2QEgUp2dJX1Vi3g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOiXQHJ1drTzz9aiICEA9fvCArqA18d9SL4x1B-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOx_UZ_sMm2UdHxPC1XrCSvhh3-HEY3SWZJpvNV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPT-iZm92iVSopWnukxK9GZBj65O57IR-dz_cE1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPF0jpHUpwmEYnn1PmQPGfDOLfwKsxt3ywvT7Wl=s1600-w800-h800"
-        ]
+      "name": "Encho Temple",
+      "location": {
+        "lat": 35.006905,
+        "lng": 136.498789
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "6946 Komono, Mie District, Mie 510-1233, Japan",
+      "phone": "+81 59-393-4751",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOB9r_U0s6n9G3G9TongXjwdWfDybvaRwlpC_0o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN55lppLrbvskgD_HSykezgZurS0SID0AFcSSFk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRpltyJ0lDzx2CJO0sgvEk2Tbtu1KdX27ADGo3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-ao7wRh6M8zuOsFYf26N2RF6w117UCIm45DYx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMa1AmY7xHEuclKh1iRuJSvYUQ45ItHkklvYf7q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQ-KiTAEs7JHCTMsNNX-PDE2QEgUp2dJX1Vi3g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOiXQHJ1drTzz9aiICEA9fvCArqA18d9SL4x1B-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOx_UZ_sMm2UdHxPC1XrCSvhh3-HEY3SWZJpvNV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPT-iZm92iVSopWnukxK9GZBj65O57IR-dz_cE1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPF0jpHUpwmEYnn1PmQPGfDOLfwKsxt3ywvT7Wl=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJsaJhhcHsA2ARbGYBNAzhG_Y",
+      "google_maps_url": "https://maps.google.com/?cid=17734015400229824108",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2-chōme-13 Ushidatechō, Nakagawa Ward, Nagoya, Aichi 454-0043, Japan",
-        "geometry": {
-          "location": {
-            "lat": 35.13945799999999,
-            "lng": 136.8837513
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.14061023029149,
-              "lng": 136.8852643802915
-            },
-            "southwest": {
-              "lat": 35.13791226970849,
-              "lng": 136.8825664197085
-            }
-          }
-        },
-        "international_phone_number": "+81 52-352-1053",
-        "name": "Shimon Temple",
-        "place_id": "ChIJW33qeUJ3A2ARobNBhV64qcM",
-        "url": "https://maps.google.com/?cid=14099002824562160545",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Shimon Temple",
+      "location": {
+        "lat": 35.13945799999999,
+        "lng": 136.8837513
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "2-chōme-13 Ushidatechō, Nakagawa Ward, Nagoya, Aichi 454-0043, Japan",
+      "phone": "+81 52-352-1053",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJW33qeUJ3A2ARobNBhV64qcM",
+      "google_maps_url": "https://maps.google.com/?cid=14099002824562160545",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Japan, 〒454-0972 Aichi, Nagoya, Nakagawa Ward, Niie, 3-chōme−３１０１ 心楽寺",
-        "geometry": {
-          "location": {
-            "lat": 35.159075,
-            "lng": 136.8034
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.1604239802915,
-              "lng": 136.8047489802915
-            },
-            "southwest": {
-              "lat": 35.15772601970851,
-              "lng": 136.8020510197085
-            }
-          }
-        },
-        "international_phone_number": "+81 52-431-0970",
-        "name": "Kokorotano Temple",
-        "place_id": "ChIJU8aQMtydA2ARUr8Ty3eCFyk",
-        "url": "https://maps.google.com/?cid=2960978731039178578",
-        "website": "https://yaokami.jp/1235819/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNBT5E7IhdZc0X-iU02jscZdGyZ8Mqqu8uqMFxn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRT7hVK6EJZlWeTpSd77WQ8sXGb_wk9oBgDbrI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKFQ2oTlR0N_-Lx5_x4RXW2Th0z29dF72OqhK0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNU1gqoopO05yGrstRXcryD31RwRdCthKv4PsDt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO55KgkBQaJApfiWw7L-OHY9Dfv4nZBKdybKhCD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKkf6UwDdrvZ1cxqFY8BZgRZzn5QCs1YLETclX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNclLbFV0_Okbb7ljzpZkcNJeBoRYw5YrQxljmK=s1600-w800-h800"
-        ]
+      "name": "Kokorotano Temple",
+      "location": {
+        "lat": 35.159075,
+        "lng": 136.8034
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "Japan, 〒454-0972 Aichi, Nagoya, Nakagawa Ward, Niie, 3-chōme−３１０１ 心楽寺",
+      "phone": "+81 52-431-0970",
+      "website": "https://yaokami.jp/1235819/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNBT5E7IhdZc0X-iU02jscZdGyZ8Mqqu8uqMFxn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRT7hVK6EJZlWeTpSd77WQ8sXGb_wk9oBgDbrI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKFQ2oTlR0N_-Lx5_x4RXW2Th0z29dF72OqhK0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNU1gqoopO05yGrstRXcryD31RwRdCthKv4PsDt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO55KgkBQaJApfiWw7L-OHY9Dfv4nZBKdybKhCD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKkf6UwDdrvZ1cxqFY8BZgRZzn5QCs1YLETclX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNclLbFV0_Okbb7ljzpZkcNJeBoRYw5YrQxljmK=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJU8aQMtydA2ARUr8Ty3eCFyk",
+      "google_maps_url": "https://maps.google.com/?cid=2960978731039178578",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Androkleous 1, Nicosia 1060, Cyprus",
-        "geometry": {
-          "location": {
-            "lat": 35.1681468,
-            "lng": 33.3671986
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.1695101302915,
-              "lng": 33.3684972302915
-            },
-            "southwest": {
-              "lat": 35.1668121697085,
-              "lng": 33.36579926970851
-            }
-          }
-        },
-        "international_phone_number": "+357 96 411371",
-        "name": "Great Cloud Buddhist Monastery Nicosia",
-        "place_id": "ChIJkak0X1wX3hQR6pm1J6ddFa4",
-        "url": "https://maps.google.com/?cid=12544035309617519082",
-        "website": "http://buddhistnicosia.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMIRUWk3tqA6Z4rVCU2P7qou_ltxUPU-kDDH4Uf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6ZLSYu5Cmw5UiQ4RRn656QYcSIgKdEhDadSXS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNv0sBF8zkusTmKZcVwFwAqk3WeZlO6UFwHQOno=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBcDj6fsCIk4mDEDOv_1lXrLUg8rb7jwjYWlvo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNLELWoy7F6ZdYhuBXtmTFbwUvaQm_6C6tXSx_g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_RgWkb_JnCoFDBfjLWTbXj4DiC00EBGB1oQYN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1M338rAadDCudhsTkEZZrHjxzvlavPUTgEdj7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFhmR3a6n8tQQ3L2g2QuI7jsZxNW1Oj6FUV71a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOis6UTbkIg9pSNTD0oXxXb_6gueJ6mgAIxdOfo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfI5Xj8FSNO32WA6AD15rayTTW_WS54b0kgQbq=s1600-w800-h800"
-        ]
+      "name": "Great Cloud Buddhist Monastery Nicosia",
+      "location": {
+        "lat": 35.1681468,
+        "lng": 33.3671986
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "Androkleous 1, Nicosia 1060, Cyprus",
+      "phone": "+357 96 411371",
+      "website": "http://buddhistnicosia.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMIRUWk3tqA6Z4rVCU2P7qou_ltxUPU-kDDH4Uf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6ZLSYu5Cmw5UiQ4RRn656QYcSIgKdEhDadSXS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNv0sBF8zkusTmKZcVwFwAqk3WeZlO6UFwHQOno=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBcDj6fsCIk4mDEDOv_1lXrLUg8rb7jwjYWlvo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNLELWoy7F6ZdYhuBXtmTFbwUvaQm_6C6tXSx_g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_RgWkb_JnCoFDBfjLWTbXj4DiC00EBGB1oQYN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1M338rAadDCudhsTkEZZrHjxzvlavPUTgEdj7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFhmR3a6n8tQQ3L2g2QuI7jsZxNW1Oj6FUV71a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOis6UTbkIg9pSNTD0oXxXb_6gueJ6mgAIxdOfo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfI5Xj8FSNO32WA6AD15rayTTW_WS54b0kgQbq=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJkak0X1wX3hQR6pm1J6ddFa4",
+      "google_maps_url": "https://maps.google.com/?cid=12544035309617519082",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "F966, Cyprus",
-        "geometry": {
-          "location": {
-            "lat": 34.9837335,
-            "lng": 32.741195
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.9848828802915,
-              "lng": 32.7424230802915
-            },
-            "southwest": {
-              "lat": 34.9821849197085,
-              "lng": 32.7397251197085
-            }
-          }
-        },
-        "international_phone_number": "+357 22 942435",
-        "name": "Kykkos Monastery",
-        "place_id": "ChIJzdzD9kFC5xQRsnZp3YCcCcM",
-        "url": "https://maps.google.com/?cid=14053936189470766770",
-        "website": "http://www.kykkos.org.cy/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO0qiP8nzn7-4mEyxCV4rvoIZtO2BYSZcru79Wl=s1600-w800-h740",
-          "https://lh3.googleusercontent.com/p/AF1QipNUwSRbzv5Ay6h5GlPXqnTrdgjW7wygbYONogyI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNN--loi7Fvetnz1I6Bge2GgJGp9-3ubN2B1ZKA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP0VoHwH7-70s4rktqxCdbSo-O4QePYhqtCtUUj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPftZ1JHppI1SkTKhm7zOjOul3jct4unPG8Eb_E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdqGFkqHihFAja8THzz2PEKo4OZhL7Cb877PNG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqHLJQunT0lmENYUhBAjZmkwe2WL_OG7Y-PLYu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGJQek-BvIHbQGcdvBC1ssQJ5UmTu3OvfuTj5l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVZFSDR_GGmHSujRBbrXPcZgeX4L0jmLni3JCe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMrgzgNPhSe18O7uBBrO9sppga7-KWhuJwr2M7z=s1600-w800-h800"
-        ]
+      "name": "Kykkos Monastery",
+      "location": {
+        "lat": 34.9837335,
+        "lng": 32.741195
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "F966, Cyprus",
+      "phone": "+357 22 942435",
+      "website": "http://www.kykkos.org.cy/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO0qiP8nzn7-4mEyxCV4rvoIZtO2BYSZcru79Wl=s1600-w800-h740",
+        "https://lh3.googleusercontent.com/p/AF1QipNUwSRbzv5Ay6h5GlPXqnTrdgjW7wygbYONogyI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNN--loi7Fvetnz1I6Bge2GgJGp9-3ubN2B1ZKA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP0VoHwH7-70s4rktqxCdbSo-O4QePYhqtCtUUj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPftZ1JHppI1SkTKhm7zOjOul3jct4unPG8Eb_E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdqGFkqHihFAja8THzz2PEKo4OZhL7Cb877PNG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqHLJQunT0lmENYUhBAjZmkwe2WL_OG7Y-PLYu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGJQek-BvIHbQGcdvBC1ssQJ5UmTu3OvfuTj5l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVZFSDR_GGmHSujRBbrXPcZgeX4L0jmLni3JCe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMrgzgNPhSe18O7uBBrO9sppga7-KWhuJwr2M7z=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzdzD9kFC5xQRsnZp3YCcCcM",
+      "google_maps_url": "https://maps.google.com/?cid=14053936189470766770",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Cyprus",
-        "geometry": {
-          "location": {
-            "lat": 34.79468229999999,
-            "lng": 33.0423716
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.7961435802915,
-              "lng": 33.04350933029149
-            },
-            "southwest": {
-              "lat": 34.7934456197085,
-              "lng": 33.0408113697085
-            }
-          }
-        },
-        "international_phone_number": "+357 25 542035",
-        "name": "Panagia Amirous Monastery",
-        "place_id": "ChIJvZvif4NK5xQRgVZUQgxJtJg",
-        "url": "https://maps.google.com/?cid=11003500106574222977",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNDb-f31UE4hgPIv-nAPZO_9kwNzYlj88Yjvd1e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMm3qKjomBNXx0hHPNgY676yxEcoiJgKvbJVuw2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSoXcQzofmmyWS3-B7d4eZ5xfDIz3fp7_T-F4b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO19VjVz3i7IW7WgF1ermm6mg5YXPBcS83J_jh0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOyOg4wYvzs465lt8rbYohFbdCjuhxybKa6_iJR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNc-zQFrbM0aYha3Brk7ajNwFapper0v4_2Jk2j=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNw5DL3eZaNwY3Y8yKes79iuNR1ndC2PPgqe_R-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYqmv9Fk-Vq93qEWcLHZOfrvVxeeg1yX-B3oU2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZFqMZsa5KQv23XobsmMocxVTEM0IcnHlLQm7B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9j_FhJue-OqUz3BcPPvwUh7jNBJaBhcHz94Hs=s1600-w800-h800"
-        ]
+      "name": "Panagia Amirous Monastery",
+      "location": {
+        "lat": 34.79468229999999,
+        "lng": 33.0423716
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "Cyprus",
+      "phone": "+357 25 542035",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNDb-f31UE4hgPIv-nAPZO_9kwNzYlj88Yjvd1e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMm3qKjomBNXx0hHPNgY676yxEcoiJgKvbJVuw2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSoXcQzofmmyWS3-B7d4eZ5xfDIz3fp7_T-F4b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO19VjVz3i7IW7WgF1ermm6mg5YXPBcS83J_jh0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOyOg4wYvzs465lt8rbYohFbdCjuhxybKa6_iJR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNc-zQFrbM0aYha3Brk7ajNwFapper0v4_2Jk2j=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNw5DL3eZaNwY3Y8yKes79iuNR1ndC2PPgqe_R-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYqmv9Fk-Vq93qEWcLHZOfrvVxeeg1yX-B3oU2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZFqMZsa5KQv23XobsmMocxVTEM0IcnHlLQm7B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9j_FhJue-OqUz3BcPPvwUh7jNBJaBhcHz94Hs=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJvZvif4NK5xQRgVZUQgxJtJg",
+      "google_maps_url": "https://maps.google.com/?cid=11003500106574222977",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Monastère Zen Kanshoji Lieu dit La Barde, 24450 La Coquille, France",
-        "geometry": {
-          "location": {
-            "lat": 45.5566214,
-            "lng": 1.0031785
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.5579304302915,
-              "lng": 1.004562480291502
-            },
-            "southwest": {
-              "lat": 45.5552324697085,
-              "lng": 1.001864519708498
-            }
-          }
-        },
-        "international_phone_number": "+33 5 53 52 06 35",
-        "name": "Zen Buddhist Monastery Kanshoji",
-        "place_id": "ChIJI5juFtUm_0cRPJX090C5v-M",
-        "url": "https://maps.google.com/?cid=16411039255850423612",
-        "website": "http://www.kanshoji.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNI8Er7wDXsQkIUuslHY7bNJgEp7CBoYgAQqw2R=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMOBQg9lswohDDwxGIAIelM7H-au9TSaAS9qd9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkc7R61vMGr3WPT0yDe2hehHCW6WU198HXCHbq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOz5c110sEyO2qJCADfVBG900eC8RHqxUBBOqRI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMU4W26P7M3xBkZSNMlOQ06ZcHoxyt2LlBuubtI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgfSKShfY2suwRqw85gmwWOy9IpaDqv-B82c5x=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtmsF2EbAp65CwX0TXWhnv8TCeFZHODwfJ-z9N=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP68UemxUNJyNJjdWDRmnKffQRmWvyesBrsZc7r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmEM27tv-dGs_idUs1_hBKyyfeHxi0yoluRjqj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsdXdY-2uw-Kod0jktI75QhNUq85yDUg7XLc_i=s1600-w800-h800"
-        ]
+      "name": "Zen Buddhist Monastery Kanshoji",
+      "location": {
+        "lat": 45.5566214,
+        "lng": 1.0031785
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "Monastère Zen Kanshoji Lieu dit La Barde, 24450 La Coquille, France",
+      "phone": "+33 5 53 52 06 35",
+      "website": "http://www.kanshoji.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNI8Er7wDXsQkIUuslHY7bNJgEp7CBoYgAQqw2R=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMOBQg9lswohDDwxGIAIelM7H-au9TSaAS9qd9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkc7R61vMGr3WPT0yDe2hehHCW6WU198HXCHbq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOz5c110sEyO2qJCADfVBG900eC8RHqxUBBOqRI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMU4W26P7M3xBkZSNMlOQ06ZcHoxyt2LlBuubtI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgfSKShfY2suwRqw85gmwWOy9IpaDqv-B82c5x=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtmsF2EbAp65CwX0TXWhnv8TCeFZHODwfJ-z9N=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP68UemxUNJyNJjdWDRmnKffQRmWvyesBrsZc7r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmEM27tv-dGs_idUs1_hBKyyfeHxi0yoluRjqj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsdXdY-2uw-Kod0jktI75QhNUq85yDUg7XLc_i=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJI5juFtUm_0cRPJX090C5v-M",
+      "google_maps_url": "https://maps.google.com/?cid=16411039255850423612",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "320 Louisiana Blvd SE, Albuquerque, NM 87108, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.07311430000001,
-            "lng": -106.5677724
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.0745282802915,
-              "lng": -106.5664216197085
-            },
-            "southwest": {
-              "lat": 35.0718303197085,
-              "lng": -106.5691195802915
-            }
-          }
-        },
-        "international_phone_number": "+1 505-268-4983",
-        "name": "Wat Buddhamongkolnimit",
-        "place_id": "ChIJydrwGPcKIocREEPh20hvlv8",
-        "url": "https://maps.google.com/?cid=18417030084895523600",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNE8QDJojA0fbQPphTUNf40y2qLaJdqfJGthTtM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtYF0vZs5AFutTGluQXGF8wxdlJLVSM_38cdDv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1vd__ckj9dszfNErwkaVBmt88Soj9hECWJ1C7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOls5vTO7Wkey-613-MfSzfKNtjfv8063AFDhuI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTzE45JL4wU5gLI9r_mN4Kf_Jy2HHPIhWNvrPk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDJd4fS0-jcLlXdF5XBHTljQBcEjJzDPA8lddc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBm0xspEnUV7FSKennVIjW0KqDv16GMFYevcN-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoHUMAxnL2qGVETaA2PgGXMZWbx7e1_chkA-KQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMaPcHe-HcjCr4vbYDOls6x17emLU3I9mVVrDfx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO66WkfYq-dMq5jONfiwWx4E3f73NYYfukWKRY-=s1600-w800-h800"
-        ]
+      "name": "Wat Buddhamongkolnimit",
+      "location": {
+        "lat": 35.07311430000001,
+        "lng": -106.5677724
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "320 Louisiana Blvd SE, Albuquerque, NM 87108, USA",
+      "phone": "+1 505-268-4983",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNE8QDJojA0fbQPphTUNf40y2qLaJdqfJGthTtM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtYF0vZs5AFutTGluQXGF8wxdlJLVSM_38cdDv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1vd__ckj9dszfNErwkaVBmt88Soj9hECWJ1C7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOls5vTO7Wkey-613-MfSzfKNtjfv8063AFDhuI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTzE45JL4wU5gLI9r_mN4Kf_Jy2HHPIhWNvrPk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDJd4fS0-jcLlXdF5XBHTljQBcEjJzDPA8lddc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBm0xspEnUV7FSKennVIjW0KqDv16GMFYevcN-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoHUMAxnL2qGVETaA2PgGXMZWbx7e1_chkA-KQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMaPcHe-HcjCr4vbYDOls6x17emLU3I9mVVrDfx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO66WkfYq-dMq5jONfiwWx4E3f73NYYfukWKRY-=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJydrwGPcKIocREEPh20hvlv8",
+      "google_maps_url": "https://maps.google.com/?cid=18417030084895523600",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "7241 Old Santa Fe Trail, Santa Fe, NM 87505, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.6383475,
-            "lng": -105.9169268
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.6398218302915,
-              "lng": -105.9155960697085
-            },
-            "southwest": {
-              "lat": 35.6371238697085,
-              "lng": -105.9182940302915
-            }
-          }
-        },
-        "name": "ZEN Mountain Temple",
-        "place_id": "ChIJX29TvyhRGIcRnAXt01OKAZE",
-        "url": "https://maps.google.com/?cid=10448784703118706076",
-        "website": "https://www.mountaincloud.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "ZEN Mountain Temple",
+      "location": {
+        "lat": 35.6383475,
+        "lng": -105.9169268
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "7241 Old Santa Fe Trail, Santa Fe, NM 87505, USA",
+      "website": "https://www.mountaincloud.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJX29TvyhRGIcRnAXt01OKAZE",
+      "google_maps_url": "https://maps.google.com/?cid=10448784703118706076",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5710 NM-518, Vadito, NM 87579, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.1681059,
-            "lng": -105.6032843
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.1696499302915,
-              "lng": -105.6019009197085
-            },
-            "southwest": {
-              "lat": 36.1669519697085,
-              "lng": -105.6045988802915
-            }
-          }
-        },
-        "international_phone_number": "+1 575-587-2259",
-        "name": "FaYun Prajna Monastery",
-        "place_id": "ChIJIx1eNnPaGYcR_cDdFjhSsDo",
-        "url": "https://maps.google.com/?cid=4228970450956173565",
-        "website": "http://fayunpm.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOEDHvKEJiS3ztNWsfe5GQKbc5kDLmBnVhs9wE3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhhNNJzJ7rAwoKMwhu3qocNXN7UFJxgR0bstvN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMFU9JoXJHrHt0lmj7xiUrkEN1fnDJZ9CxHjodg=s1600-w472-h354",
-          "https://lh3.googleusercontent.com/p/AF1QipNHWikkAJPtQL-ejGm8HgPobkVZAvHH9KrxwX0F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKwMF0eMVkDdj0bG8_N0H05WFGErqKsYfKhEPz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_mwSm-lVjJPhiIWmHpRv_z2GLSuJ2GPARGeVo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhufbkCuMZNGF0wiXg8BQMdnbmlrTSlS5j-dYj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNc5yAtNaQl47dexh_xRYi03BQBlP4gi4pa2mdh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZxThBl7lOoieVlyYIwumoRlqjPyfXyKiK4u0i=s1600-w434-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOUFfYbfc0VcyfO2rZbTptyyo5Jy4FvM_ED83_t=s1600-w800-h800"
-        ]
+      "name": "FaYun Prajna Monastery",
+      "location": {
+        "lat": 36.1681059,
+        "lng": -105.6032843
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "5710 NM-518, Vadito, NM 87579, USA",
+      "phone": "+1 575-587-2259",
+      "website": "http://fayunpm.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOEDHvKEJiS3ztNWsfe5GQKbc5kDLmBnVhs9wE3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhhNNJzJ7rAwoKMwhu3qocNXN7UFJxgR0bstvN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMFU9JoXJHrHt0lmj7xiUrkEN1fnDJZ9CxHjodg=s1600-w472-h354",
+        "https://lh3.googleusercontent.com/p/AF1QipNHWikkAJPtQL-ejGm8HgPobkVZAvHH9KrxwX0F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKwMF0eMVkDdj0bG8_N0H05WFGErqKsYfKhEPz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_mwSm-lVjJPhiIWmHpRv_z2GLSuJ2GPARGeVo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhufbkCuMZNGF0wiXg8BQMdnbmlrTSlS5j-dYj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNc5yAtNaQl47dexh_xRYi03BQBlP4gi4pa2mdh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZxThBl7lOoieVlyYIwumoRlqjPyfXyKiK4u0i=s1600-w434-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOUFfYbfc0VcyfO2rZbTptyyo5Jy4FvM_ED83_t=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJIx1eNnPaGYcR_cDdFjhSsDo",
+      "google_maps_url": "https://maps.google.com/?cid=4228970450956173565",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1947 Lawrence St, Denver, CO 80202, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.75226199999999,
-            "lng": -104.9920771
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.7535418802915,
-              "lng": -104.9906361197085
-            },
-            "southwest": {
-              "lat": 39.7508439197085,
-              "lng": -104.9933340802915
-            }
-          }
-        },
-        "international_phone_number": "+1 303-295-1844",
-        "name": "Denver Buddhist Temple",
-        "place_id": "ChIJNRXm8Nt4bIcRsHX3UWkBzgk",
-        "url": "https://maps.google.com/?cid=706503743402112432",
-        "website": "http://www.tsdbt.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP5_LaUtlbCk6i_T9KacaT7OJ1UPUsDA6MhfhBv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeDgfzpUZTGkCNMFVyn-meRck_026_PTeaHr87=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPI8ptMDnv1CDfyTOf6xET6sci2s2JePBjPu6WC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnVWTT1uEOkSOy5AtM32aVT9CFcKYgswxZdtFQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_IrpZ_P3qlvfEEztAM8k7wl6SAOvTQ6xAJGJ-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuSuEuLfMWBGZn5SLRvZQxugxRKDuXCRmbWw4q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODxoOWy9V5xv9H4o3TvkE_YerQbeksbCTPk4_c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOen8pSY78vdvnOdWxP7eMl6EOdLo8d8dKSotnF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP94UFzitXXkTVVYcy0gn9zij3MWZr9E42yVBJx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMio9KsNb3AMSylsyAG7IiMwpcy3tA3h9BZOndq=s1600-w800-h800"
-        ]
+      "name": "Denver Buddhist Temple",
+      "location": {
+        "lat": 39.75226199999999,
+        "lng": -104.9920771
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "1947 Lawrence St, Denver, CO 80202, USA",
+      "phone": "+1 303-295-1844",
+      "website": "http://www.tsdbt.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP5_LaUtlbCk6i_T9KacaT7OJ1UPUsDA6MhfhBv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeDgfzpUZTGkCNMFVyn-meRck_026_PTeaHr87=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPI8ptMDnv1CDfyTOf6xET6sci2s2JePBjPu6WC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnVWTT1uEOkSOy5AtM32aVT9CFcKYgswxZdtFQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_IrpZ_P3qlvfEEztAM8k7wl6SAOvTQ6xAJGJ-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuSuEuLfMWBGZn5SLRvZQxugxRKDuXCRmbWw4q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODxoOWy9V5xv9H4o3TvkE_YerQbeksbCTPk4_c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOen8pSY78vdvnOdWxP7eMl6EOdLo8d8dKSotnF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP94UFzitXXkTVVYcy0gn9zij3MWZr9E42yVBJx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMio9KsNb3AMSylsyAG7IiMwpcy3tA3h9BZOndq=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJNRXm8Nt4bIcRsHX3UWkBzgk",
+      "google_maps_url": "https://maps.google.com/?cid=706503743402112432",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "211 W 100 S, Salt Lake City, UT 84101, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.7668909,
-            "lng": -111.897338
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.7683707802915,
-              "lng": -111.8959893197085
-            },
-            "southwest": {
-              "lat": 40.7656728197085,
-              "lng": -111.8986872802915
-            }
-          }
-        },
-        "international_phone_number": "+1 801-363-4742",
-        "name": "Salt Lake Buddhist Temple",
-        "place_id": "ChIJZwEmowb1UocRhG0SmYbjp1U",
-        "url": "https://maps.google.com/?cid=6172151981567798660",
-        "website": "http://www.slbuddhist.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPLvBqO9nz7bgUyKRWYz_B0SGOriLZA08NOMQJe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCaFQ3H06lvU1fXbCU7XvAXW4EOCHr3QrsWJsN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZJV5dGvXMY4mGTW0W12iYHzDsBC8tudjG0zFe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM34z4NTPylSZ02b39JjOIg-ACngqSpwhw0fZ0j=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOacsdKKrl8l_aBc5E4bnGA6Qhr3oFa60dPonCx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-Yw-T6JFiuXwhD-i11ufcf2LmKo4PZcuTSGOv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAp5FCcG5jCvz9SIBDheu931mQmQ01UDCK7mdI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMid-87tR10NsxztlKrWGQwvZK4mmwLdxctSlGY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNj3RmGLQBxNFQ3YK9c3EIbE7-jae8pzYuLolCE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPIo6bzd8_KJyGKtTaVcwE0-rbp_AdL0I-EtHn3=s1600-w800-h800"
-        ]
+      "name": "Salt Lake Buddhist Temple",
+      "location": {
+        "lat": 40.7668909,
+        "lng": -111.897338
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "211 W 100 S, Salt Lake City, UT 84101, USA",
+      "phone": "+1 801-363-4742",
+      "website": "http://www.slbuddhist.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPLvBqO9nz7bgUyKRWYz_B0SGOriLZA08NOMQJe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCaFQ3H06lvU1fXbCU7XvAXW4EOCHr3QrsWJsN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZJV5dGvXMY4mGTW0W12iYHzDsBC8tudjG0zFe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM34z4NTPylSZ02b39JjOIg-ACngqSpwhw0fZ0j=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOacsdKKrl8l_aBc5E4bnGA6Qhr3oFa60dPonCx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-Yw-T6JFiuXwhD-i11ufcf2LmKo4PZcuTSGOv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAp5FCcG5jCvz9SIBDheu931mQmQ01UDCK7mdI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMid-87tR10NsxztlKrWGQwvZK4mmwLdxctSlGY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNj3RmGLQBxNFQ3YK9c3EIbE7-jae8pzYuLolCE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPIo6bzd8_KJyGKtTaVcwE0-rbp_AdL0I-EtHn3=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZwEmowb1UocRhG0SmYbjp1U",
+      "google_maps_url": "https://maps.google.com/?cid=6172151981567798660",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4901 Ross Rd, Memphis, TN 38141, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.014842,
-            "lng": -89.840261
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.01619313029149,
-              "lng": -89.83868816970849
-            },
-            "southwest": {
-              "lat": 35.0134951697085,
-              "lng": -89.84138613029151
-            }
-          }
-        },
-        "international_phone_number": "+1 901-249-2361",
-        "name": "Tennessee Buddhist Vihara",
-        "place_id": "ChIJPSuIOz2Qf4gR2Q0YFx4zLU4",
-        "url": "https://maps.google.com/?cid=5633214913239846361",
-        "website": "http://www.tnbvihara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPceS3uHQdZpu9sVHAxn-VkfBS0Srx0ML96NYdP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtEz2M34WYn4miiN7tZsmFrr0QTGJIMEoJrWiQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKp8XwMe20wo7elXpJEE43tw9S6ssaBwlZ_Jz_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-imj5TZl7tdBH_qfndmkOv3ggqCcc52YSKIKH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNjvM8eUHU5N83boqg1A7nFBLoGBE92Hm8Gct7e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNnouJbWbqyAiMEhcGl1cabXoGkrvFaUAisbkGS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYJjvOXLoDP4_xrEXfNLDI1XFt3CPtGI6Mamps=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSdyHe_3cSHm5YQ7afBVSLZhdc9XNdSSzZhcaA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOimTogv6cyQebLwcdOtRI3S0Sga8kZYk1NWpqu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPT4dzAuhZfj3-CWNL8wteNlD6t3KY_HBv0fmav=s1600-w800-h800"
-        ]
+      "name": "Tennessee Buddhist Vihara",
+      "location": {
+        "lat": 35.014842,
+        "lng": -89.840261
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "4901 Ross Rd, Memphis, TN 38141, USA",
+      "phone": "+1 901-249-2361",
+      "website": "http://www.tnbvihara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPceS3uHQdZpu9sVHAxn-VkfBS0Srx0ML96NYdP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtEz2M34WYn4miiN7tZsmFrr0QTGJIMEoJrWiQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKp8XwMe20wo7elXpJEE43tw9S6ssaBwlZ_Jz_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-imj5TZl7tdBH_qfndmkOv3ggqCcc52YSKIKH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNjvM8eUHU5N83boqg1A7nFBLoGBE92Hm8Gct7e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNnouJbWbqyAiMEhcGl1cabXoGkrvFaUAisbkGS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYJjvOXLoDP4_xrEXfNLDI1XFt3CPtGI6Mamps=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSdyHe_3cSHm5YQ7afBVSLZhdc9XNdSSzZhcaA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOimTogv6cyQebLwcdOtRI3S0Sga8kZYk1NWpqu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPT4dzAuhZfj3-CWNL8wteNlD6t3KY_HBv0fmav=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJPSuIOz2Qf4gR2Q0YFx4zLU4",
+      "google_maps_url": "https://maps.google.com/?cid=5633214913239846361",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3004 S Mendenhall Rd, Memphis, TN 38115, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.0666571,
-            "lng": -89.885172
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.0680142802915,
-              "lng": -89.88402791970849
-            },
-            "southwest": {
-              "lat": 35.0653163197085,
-              "lng": -89.88672588029151
-            }
-          }
-        },
-        "international_phone_number": "+1 901-370-5696",
-        "name": "Pu-Lin Buddhist Temple",
-        "place_id": "ChIJ_____8N-1YcRffx65neDnmY",
-        "url": "https://maps.google.com/?cid=7394492189180099709",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOmN_1GwkIX6EA3ScH8prVztCc1IsD8YdypglYf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPeoQ71Qd76m-QadLKc2J8x325dCrHIqpv0PHoB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPftkguTasD8pMC9ehs20zw0QreIBm2OttoRtWJ=s1600-w800-h800"
-        ]
+      "name": "Pu-Lin Buddhist Temple",
+      "location": {
+        "lat": 35.0666571,
+        "lng": -89.885172
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "3004 S Mendenhall Rd, Memphis, TN 38115, USA",
+      "phone": "+1 901-370-5696",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOmN_1GwkIX6EA3ScH8prVztCc1IsD8YdypglYf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPeoQ71Qd76m-QadLKc2J8x325dCrHIqpv0PHoB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPftkguTasD8pMC9ehs20zw0QreIBm2OttoRtWJ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_____8N-1YcRffx65neDnmY",
+      "google_maps_url": "https://maps.google.com/?cid=7394492189180099709",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1000 Tom Rd, Bauxite, AR 72011, USA",
-        "geometry": {
-          "location": {
-            "lat": 34.5670395,
-            "lng": -92.4997652
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.56850808029149,
-              "lng": -92.49868611970848
-            },
-            "southwest": {
-              "lat": 34.5658101197085,
-              "lng": -92.5013840802915
-            }
-          }
-        },
-        "international_phone_number": "+1 501-557-9958",
-        "name": "Bat Nha Temple",
-        "place_id": "ChIJQfEybG1RzYcRhvhvmVZckGg",
-        "url": "https://maps.google.com/?cid=7534623703602034822",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMq1PcQIrDMZm0vQ3JGPzZBh7DyXw_OijeUFCjM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMe-4q0zh90ekKFDii06vi6yKmdPorAcM65znqu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOd30EkGWOR-TFKAirWxDp7oOOFj9F79vAfwcgy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGBm9UI2zPfsGB2cQpBtxvGwAgu0ah-1NJwOMh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLY1LKK3iUQ3xXU_5qWrcM0iCdJsKJGq8FCdvV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCNptBb_lcRxNIblJVo5hQdeLGElWxfJJ44Wij=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJomjN9K-8RorqrZM46mF_p6Qq_e8rfsvl5xDP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-mE6CytoE_TJsOXTDwPoqIDWFjA2y_aqX2KKR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMbofDDL3issYk7N4KnyCcgZq_MOlM693aYuYXu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPghbFVTlD5GeTyWvHxLgtvP0DVsCjFNsmmdhjR=s1600-w800-h800"
-        ]
+      "name": "Bat Nha Temple",
+      "location": {
+        "lat": 34.5670395,
+        "lng": -92.4997652
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "1000 Tom Rd, Bauxite, AR 72011, USA",
+      "phone": "+1 501-557-9958",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMq1PcQIrDMZm0vQ3JGPzZBh7DyXw_OijeUFCjM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMe-4q0zh90ekKFDii06vi6yKmdPorAcM65znqu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOd30EkGWOR-TFKAirWxDp7oOOFj9F79vAfwcgy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGBm9UI2zPfsGB2cQpBtxvGwAgu0ah-1NJwOMh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLY1LKK3iUQ3xXU_5qWrcM0iCdJsKJGq8FCdvV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCNptBb_lcRxNIblJVo5hQdeLGElWxfJJ44Wij=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJomjN9K-8RorqrZM46mF_p6Qq_e8rfsvl5xDP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-mE6CytoE_TJsOXTDwPoqIDWFjA2y_aqX2KKR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMbofDDL3issYk7N4KnyCcgZq_MOlM693aYuYXu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPghbFVTlD5GeTyWvHxLgtvP0DVsCjFNsmmdhjR=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJQfEybG1RzYcRhvhvmVZckGg",
+      "google_maps_url": "https://maps.google.com/?cid=7534623703602034822",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "444 Indian Creek Rd NW, Huntsville, AL 35806, USA",
-        "geometry": {
-          "location": {
-            "lat": 34.7689728,
-            "lng": -86.687947
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.7703203302915,
-              "lng": -86.6863904697085
-            },
-            "southwest": {
-              "lat": 34.7676223697085,
-              "lng": -86.68908843029152
-            }
-          }
-        },
-        "international_phone_number": "+1 256-337-7652",
-        "name": "Temple Giac Lam",
-        "place_id": "ChIJjShtPAlpYogRZdWaMyCXHAw",
-        "url": "https://maps.google.com/?cid=872738592363566437",
-        "website": "https://www.facebook.com/TempleGiacLam/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNfXm7hE2rP_laHXvEiTHRt76UzyNaGKL56psNl=s1600-w800-h800"
-        ]
+      "name": "Temple Giac Lam",
+      "location": {
+        "lat": 34.7689728,
+        "lng": -86.687947
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "444 Indian Creek Rd NW, Huntsville, AL 35806, USA",
+      "phone": "+1 256-337-7652",
+      "website": "https://www.facebook.com/TempleGiacLam/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNfXm7hE2rP_laHXvEiTHRt76UzyNaGKL56psNl=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJjShtPAlpYogRZdWaMyCXHAw",
+      "google_maps_url": "https://maps.google.com/?cid=872738592363566437",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "416 Geronimo Ln, Taos, NM 87571, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.4084462,
-            "lng": -105.5837132
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.4098916802915,
-              "lng": -105.5820592697085
-            },
-            "southwest": {
-              "lat": 36.4071937197085,
-              "lng": -105.5847572302915
-            }
-          }
-        },
-        "international_phone_number": "+1 575-751-4080",
-        "name": "Hanuman Temple",
-        "place_id": "ChIJAbjggTplF4cRhwZzC9TsZ9s",
-        "url": "https://maps.google.com/?cid=15809865412376725127",
-        "website": "http://nkbashram.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO1kTcoF1RfE2PPUMl4hTRnMp6oKqHojHdw3-Fj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6z2OLaXc2RSnleC_0PbA2IYJMwrRPH0edOiYh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZ2pokk7ZVFLwMRC8t_dQUY5ZZN7Ik8AH4Q1Ar=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZmT2HIp5JZ7KloFOOLJobI0643MUelZ2bvn1-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNffhLf8PE5OdDwE8RJsELv9Hiy-2qAHMsWGzmd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtYbXrHMRAKgpSzQwpeFy2BY__AB-tPVJAlKq6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPxSCc2pXqTPJS90bihS0bAZYmFBjVHTdwXRkzV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNLJZJjvVPAfYnIwppYBwR3O4f129CpBLZCpdi5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhuN-PaEWpWHi44WsuzQ7lIYBn6iC15NojrYg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdXpOUfCNHzulO7muCUh5ArrQWWsG8VLG42Qat=s1600-w800-h800"
-        ]
+      "name": "Hanuman Temple",
+      "location": {
+        "lat": 36.4084462,
+        "lng": -105.5837132
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "416 Geronimo Ln, Taos, NM 87571, USA",
+      "phone": "+1 575-751-4080",
+      "website": "http://nkbashram.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO1kTcoF1RfE2PPUMl4hTRnMp6oKqHojHdw3-Fj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6z2OLaXc2RSnleC_0PbA2IYJMwrRPH0edOiYh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZ2pokk7ZVFLwMRC8t_dQUY5ZZN7Ik8AH4Q1Ar=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZmT2HIp5JZ7KloFOOLJobI0643MUelZ2bvn1-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNffhLf8PE5OdDwE8RJsELv9Hiy-2qAHMsWGzmd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtYbXrHMRAKgpSzQwpeFy2BY__AB-tPVJAlKq6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPxSCc2pXqTPJS90bihS0bAZYmFBjVHTdwXRkzV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNLJZJjvVPAfYnIwppYBwR3O4f129CpBLZCpdi5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhuN-PaEWpWHi44WsuzQ7lIYBn6iC15NojrYg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdXpOUfCNHzulO7muCUh5ArrQWWsG8VLG42Qat=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJAbjggTplF4cRhwZzC9TsZ9s",
+      "google_maps_url": "https://maps.google.com/?cid=15809865412376725127",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1919 NC-24, Cameron, NC 28326, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.2718124,
-            "lng": -79.07783739999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.27278325,
-              "lng": -79.07662986970848
-            },
-            "southwest": {
-              "lat": 35.26889985,
-              "lng": -79.0793278302915
-            }
-          }
-        },
-        "international_phone_number": "+1 919-499-0567",
-        "name": "Anantachin Buddhist Monastery",
-        "place_id": "ChIJmY4W3ehcq4kRfpprjBJ7Sc4",
-        "url": "https://maps.google.com/?cid=14864547364708522622",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO-_xx_ATDy218SiEVnHqTe5CP_xQbXDRCJllw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4CWYA02Sd8jjDnB75P78bxUlowwH8vo0LAOxC=s1600-w800-h682",
-          "https://lh3.googleusercontent.com/p/AF1QipMRHF-YtaRJPiNddlTZ3WEzm1xgM-WO_Aob178J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-ACRFBLevc5mZILlheBIyyV6KSgNYGpv76h0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPqxg7jEYwSzoV4LFUOFTXWXOAF3cnmvpHL1tU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODA5gamihOY9sMBZASZXbxEniWEdzd1uZk1vk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlkWilPy8hpjzm638GZWaoSSlH8ikW2KOPlfbM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjLpfnDOAqRIYZmayAxxms56cpDnVzHGGQrUey=s1600-w800-h682",
-          "https://lh3.googleusercontent.com/p/AF1QipN0bxBV2F-JCZibGkbwKIBUi86JeVkH2I540P2G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYzonDm5yZ8o5nHQqzDJyu4uW9ClAJzj_Tvmi-=s1600-w800-h800"
-        ]
+      "name": "Anantachin Buddhist Monastery",
+      "location": {
+        "lat": 35.2718124,
+        "lng": -79.07783739999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "1919 NC-24, Cameron, NC 28326, USA",
+      "phone": "+1 919-499-0567",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO-_xx_ATDy218SiEVnHqTe5CP_xQbXDRCJllw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4CWYA02Sd8jjDnB75P78bxUlowwH8vo0LAOxC=s1600-w800-h682",
+        "https://lh3.googleusercontent.com/p/AF1QipMRHF-YtaRJPiNddlTZ3WEzm1xgM-WO_Aob178J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-ACRFBLevc5mZILlheBIyyV6KSgNYGpv76h0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPqxg7jEYwSzoV4LFUOFTXWXOAF3cnmvpHL1tU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODA5gamihOY9sMBZASZXbxEniWEdzd1uZk1vk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlkWilPy8hpjzm638GZWaoSSlH8ikW2KOPlfbM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjLpfnDOAqRIYZmayAxxms56cpDnVzHGGQrUey=s1600-w800-h682",
+        "https://lh3.googleusercontent.com/p/AF1QipN0bxBV2F-JCZibGkbwKIBUi86JeVkH2I540P2G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYzonDm5yZ8o5nHQqzDJyu4uW9ClAJzj_Tvmi-=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJmY4W3ehcq4kRfpprjBJ7Sc4",
+      "google_maps_url": "https://maps.google.com/?cid=14864547364708522622",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8021 Old NC 86, Chapel Hill, NC 27516, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.9586268,
-            "lng": -79.10839229999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.95993198029149,
-              "lng": -79.10659896970849
-            },
-            "southwest": {
-              "lat": 35.9572340197085,
-              "lng": -79.1092969302915
-            }
-          }
-        },
-        "international_phone_number": "+1 919-933-6946",
-        "name": "Won Buddhism Temple of North Carolina",
-        "place_id": "ChIJVeA286DcrIkR5ei7abl9RnM",
-        "url": "https://maps.google.com/?cid=8306464798027802853",
-        "website": "http://www.wonbuddhismnc.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPow6f5M7Ym6I7FxiH4gMfZzSNllegUO_ZsHaBK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWyPYXpgsIb1yNb8auL2BLtgDS3GPXIDHUr_3V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmMmthG0yH-sodQZSfxK7MAF8cto284Z1YfOEI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNn37G5PEd1fum0Wv4Jh1pT0oGz53HODuapYc5c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP401otPd3ILMAg_NLnYMTCOyZrp9rJMIYKTOsX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPaP8eKHqTMrEndIOwLmtv18pPtKlIz0UdnLTUk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMFEmaMqHcURQCIOwNabRmQ2tMb7f8cTL3tstMg=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMIqTA86OBgZdqxXF2VPPNi0JgGEG9y0MuaykAx=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipP_D28no6cHFOJ-txchNa5UgTvLnWsN8KUs0NmJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMq2a9KzW57AXolKnoLsTVm_OTmmozAK-tZkdQE=s1600-w800-h800"
-        ]
+      "name": "Won Buddhism Temple of North Carolina",
+      "location": {
+        "lat": 35.9586268,
+        "lng": -79.10839229999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "8021 Old NC 86, Chapel Hill, NC 27516, USA",
+      "phone": "+1 919-933-6946",
+      "website": "http://www.wonbuddhismnc.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPow6f5M7Ym6I7FxiH4gMfZzSNllegUO_ZsHaBK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWyPYXpgsIb1yNb8auL2BLtgDS3GPXIDHUr_3V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmMmthG0yH-sodQZSfxK7MAF8cto284Z1YfOEI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNn37G5PEd1fum0Wv4Jh1pT0oGz53HODuapYc5c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP401otPd3ILMAg_NLnYMTCOyZrp9rJMIYKTOsX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPaP8eKHqTMrEndIOwLmtv18pPtKlIz0UdnLTUk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMFEmaMqHcURQCIOwNabRmQ2tMb7f8cTL3tstMg=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMIqTA86OBgZdqxXF2VPPNi0JgGEG9y0MuaykAx=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipP_D28no6cHFOJ-txchNa5UgTvLnWsN8KUs0NmJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMq2a9KzW57AXolKnoLsTVm_OTmmozAK-tZkdQE=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVeA286DcrIkR5ei7abl9RnM",
+      "google_maps_url": "https://maps.google.com/?cid=8306464798027802853",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8921 Poole Rd, Knightdale, NC 27545, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.7490339,
-            "lng": -78.46379540000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.7501083802915,
-              "lng": -78.4624953197085
-            },
-            "southwest": {
-              "lat": 35.74741041970851,
-              "lng": -78.46519328029152
-            }
-          }
-        },
-        "international_phone_number": "+1 919-266-6967",
-        "name": "Buddha Raleigh Temple",
-        "place_id": "ChIJCfL0H9hCrIkR2jQ2fjzbK40",
-        "url": "https://maps.google.com/?cid=10172465236208399578",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNaPrP4lFx8X-yj5iKxZQ1HrD0_dbqnUW0fEuwL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMc9QV4MAwRi1tFLm3G2hjCchMZFPUgg75rWy_N=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNoovwJqX9srzgsOJMdTzNshA6zP3V51FXUafAT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMespd8A8XnMrXVQ_P5PswVoYSapKUgSOhSJcr0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMyBX8s2jn1AqDA_pyZ8W75Qb3qAa6m3nxe7uuK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOroCnhmwIx5kia45vkbPcaF-_pPyohKp5ou8k5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNHM5PHPXFS53esj46kJXa5VuiJuE9J8OuCJGxy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNfbFVL4eyMkocgI-ExQqsN1Q9wVixKNICC_HkB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLDUEqr6qdOR5oeaWTH0w6sOj8CHYDZYu3CS_L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOY-eswUciruAyJf9ESEv7kg9oKHq19s9csUEgT=s1600-w800-h800"
-        ]
+      "name": "Buddha Raleigh Temple",
+      "location": {
+        "lat": 35.7490339,
+        "lng": -78.46379540000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "8921 Poole Rd, Knightdale, NC 27545, USA",
+      "phone": "+1 919-266-6967",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNaPrP4lFx8X-yj5iKxZQ1HrD0_dbqnUW0fEuwL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMc9QV4MAwRi1tFLm3G2hjCchMZFPUgg75rWy_N=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNoovwJqX9srzgsOJMdTzNshA6zP3V51FXUafAT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMespd8A8XnMrXVQ_P5PswVoYSapKUgSOhSJcr0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMyBX8s2jn1AqDA_pyZ8W75Qb3qAa6m3nxe7uuK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOroCnhmwIx5kia45vkbPcaF-_pPyohKp5ou8k5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNHM5PHPXFS53esj46kJXa5VuiJuE9J8OuCJGxy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNfbFVL4eyMkocgI-ExQqsN1Q9wVixKNICC_HkB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLDUEqr6qdOR5oeaWTH0w6sOj8CHYDZYu3CS_L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOY-eswUciruAyJf9ESEv7kg9oKHq19s9csUEgT=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJCfL0H9hCrIkR2jQ2fjzbK40",
+      "google_maps_url": "https://maps.google.com/?cid=10172465236208399578",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "360 Chittenden St, Akron, OH 44306, USA",
-        "geometry": {
-          "location": {
-            "lat": 41.0605402,
-            "lng": -81.4889458
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.0618888802915,
-              "lng": -81.48746546970848
-            },
-            "southwest": {
-              "lat": 41.0591909197085,
-              "lng": -81.49016343029149
-            }
-          }
-        },
-        "name": "Mon Buddhist Temple Ohio Akron",
-        "place_id": "ChIJZbzP55MpMYgRVYAvtzFPsTc",
-        "url": "https://maps.google.com/?cid=4013075817909157973",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMOSHTNHv0riYqTeva_TvWWIcIW5EVRracQ8n7B=s1600-w800-h720"
-        ]
+      "name": "Mon Buddhist Temple Ohio Akron",
+      "location": {
+        "lat": 41.0605402,
+        "lng": -81.4889458
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "360 Chittenden St, Akron, OH 44306, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMOSHTNHv0riYqTeva_TvWWIcIW5EVRracQ8n7B=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZbzP55MpMYgRVYAvtzFPsTc",
+      "google_maps_url": "https://maps.google.com/?cid=4013075817909157973",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "22155 Glenn Dr, Sterling, VA 20164, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.0030624,
-            "lng": -77.4313217
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.00443468029149,
-              "lng": -77.42986876970849
-            },
-            "southwest": {
-              "lat": 39.0017367197085,
-              "lng": -77.4325667302915
-            }
-          }
-        },
-        "international_phone_number": "+1 703-406-8290",
-        "name": "Тайландски будистки храм в Стърлинг",
-        "place_id": "ChIJqcNnP_o4tokR0Szg0Qteq_I",
-        "url": "https://maps.google.com/?cid=17486173383054863569",
-        "website": "https://www.facebook.com/WatYarnnaRangseeOfficialFanpage/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNPkIPCpwUv-YkyWMVCQ-OwRUJ8EnrIckzUvdx9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNx55gGb5UVMS_GeHZlBWlddV-LNa3ZhgIIymjF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNe8PBhYSAKD9X2_Vh-MkCX4mViiGpD3xdQmEoJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7TuceWhMsBAKSIofIYHIKcqpJ1EAGVu-asRTr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrrshhc9WrkejC1g72nzSoEmc99r64bwlsNiNQ=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRlnHndHF4LlNzqfht_Hr7eElSiIhnH7XiJ6yL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBA57DW8bwxqptQD55VPLl15sarJwvk-a8zTsG=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPA6JNsfI-N3AMclpMUbDbEsoo6xkbUUsTmYdl1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8ra7UILwOePDu_ZUsoT8Qk9YNnjjaLWl7aHRF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNalF_B-05ujq45U69fTyCnqpRgV7_NkQlxHh-a=s1600-w800-h800"
-        ]
+      "name": "Тайландски будистки храм в Стърлинг",
+      "location": {
+        "lat": 39.0030624,
+        "lng": -77.4313217
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "22155 Glenn Dr, Sterling, VA 20164, USA",
+      "phone": "+1 703-406-8290",
+      "website": "https://www.facebook.com/WatYarnnaRangseeOfficialFanpage/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNPkIPCpwUv-YkyWMVCQ-OwRUJ8EnrIckzUvdx9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNx55gGb5UVMS_GeHZlBWlddV-LNa3ZhgIIymjF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNe8PBhYSAKD9X2_Vh-MkCX4mViiGpD3xdQmEoJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7TuceWhMsBAKSIofIYHIKcqpJ1EAGVu-asRTr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrrshhc9WrkejC1g72nzSoEmc99r64bwlsNiNQ=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRlnHndHF4LlNzqfht_Hr7eElSiIhnH7XiJ6yL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBA57DW8bwxqptQD55VPLl15sarJwvk-a8zTsG=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPA6JNsfI-N3AMclpMUbDbEsoo6xkbUUsTmYdl1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8ra7UILwOePDu_ZUsoT8Qk9YNnjjaLWl7aHRF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNalF_B-05ujq45U69fTyCnqpRgV7_NkQlxHh-a=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqcNnP_o4tokR0Szg0Qteq_I",
+      "google_maps_url": "https://maps.google.com/?cid=17486173383054863569",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2017 NW 10th Ave, Amarillo, TX 79107, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.22379709999999,
-            "lng": -101.8593462
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.22527548029148,
-              "lng": -101.8579967697085
-            },
-            "southwest": {
-              "lat": 35.22257751970849,
-              "lng": -101.8606947302915
-            }
-          }
-        },
-        "international_phone_number": "+1 806-443-5034",
-        "name": "Karen Buddhist Temple",
-        "place_id": "ChIJo4Fep1pPAYcREdgC5IFDT3c",
-        "url": "https://maps.google.com/?cid=8597164438828800017",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNYMAA_Yw9WpZQwbuOFfwWzihKJ1nRgp4Kmqxcp=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNFrX7JEzsTmhOtbnorV3iGMIj91Ox-bpblEHJ8=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipP-5CNNQeLWkCmsrfa8jaqL_ztP4w0xp-bfvUYf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOBoZq2lCm2GktZBcYnPHrBb36-lu_dvDIb2min=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNtbvCNngN9Qv2SzmUsg16tdgzucjQ25OpbP0cm=s1600-w800-h720"
-        ]
+      "name": "Karen Buddhist Temple",
+      "location": {
+        "lat": 35.22379709999999,
+        "lng": -101.8593462
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "2017 NW 10th Ave, Amarillo, TX 79107, USA",
+      "phone": "+1 806-443-5034",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNYMAA_Yw9WpZQwbuOFfwWzihKJ1nRgp4Kmqxcp=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNFrX7JEzsTmhOtbnorV3iGMIj91Ox-bpblEHJ8=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipP-5CNNQeLWkCmsrfa8jaqL_ztP4w0xp-bfvUYf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOBoZq2lCm2GktZBcYnPHrBb36-lu_dvDIb2min=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNtbvCNngN9Qv2SzmUsg16tdgzucjQ25OpbP0cm=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJo4Fep1pPAYcREdgC5IFDT3c",
+      "google_maps_url": "https://maps.google.com/?cid=8597164438828800017",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1714 N Mirror St, Amarillo, TX 79107, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.2321164,
-            "lng": -101.8174644
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.2334097302915,
-              "lng": -101.8161135197085
-            },
-            "southwest": {
-              "lat": 35.2307117697085,
-              "lng": -101.8188114802915
-            }
-          }
-        },
-        "international_phone_number": "+1 806-383-3741",
-        "name": "Giác Hoa Temple",
-        "place_id": "ChIJ1aWUM7xOAYcR1rhyF10ejQo",
-        "url": "https://maps.google.com/?cid=760297297269668054",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Giác Hoa Temple",
+      "location": {
+        "lat": 35.2321164,
+        "lng": -101.8174644
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "1714 N Mirror St, Amarillo, TX 79107, USA",
+      "phone": "+1 806-383-3741",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1aWUM7xOAYcR1rhyF10ejQo",
+      "google_maps_url": "https://maps.google.com/?cid=760297297269668054",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2713 N Eastern St, Amarillo, TX 79108, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.24257139999999,
-            "lng": -101.7776706
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.2439208802915,
-              "lng": -101.7762830697085
-            },
-            "southwest": {
-              "lat": 35.2412229197085,
-              "lng": -101.7789810302915
-            }
-          }
-        },
-        "international_phone_number": "+1 806-567-5351",
-        "name": "Wat Phouttha Samakheetham",
-        "place_id": "ChIJk-6qHF1JAYcRFs_A3Qq54VE",
-        "url": "https://maps.google.com/?cid=5900200443153272598",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOB4gIAp146NbUlVSw4hwm9VgsgH_CpXeCZ50vc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNM1Nuq0C8dNjmHRy6ar84ekW0ZilekwVEAJJWX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZkXjuwYPjh9svObmpH9BP6me7PcLGq3MKBQTp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMi_fGFT-XxQYX9_N5oYbwaeLxt5d77W820EvbO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNByIyZ3NHMhLi1YLris2JMtQnvRyFFF5Bby54z=s1600-w800-h800"
-        ]
+      "name": "Wat Phouttha Samakheetham",
+      "location": {
+        "lat": 35.24257139999999,
+        "lng": -101.7776706
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:37:59.835Z"
-      }
+      "address": "2713 N Eastern St, Amarillo, TX 79108, USA",
+      "phone": "+1 806-567-5351",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOB4gIAp146NbUlVSw4hwm9VgsgH_CpXeCZ50vc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNM1Nuq0C8dNjmHRy6ar84ekW0ZilekwVEAJJWX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZkXjuwYPjh9svObmpH9BP6me7PcLGq3MKBQTp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMi_fGFT-XxQYX9_N5oYbwaeLxt5d77W820EvbO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNByIyZ3NHMhLi1YLris2JMtQnvRyFFF5Bby54z=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJk-6qHF1JAYcRFs_A3Qq54VE",
+      "google_maps_url": "https://maps.google.com/?cid=5900200443153272598",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

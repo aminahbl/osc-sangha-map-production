@@ -1,2605 +1,2063 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Gg. Vihara 1 No.7, RT.001/RW.008, Sukajadi, Kec. Karawaci, Kota Tangerang, Banten 15113, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.1840547,
-            "lng": 106.6267817
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.182705919708498,
-              "lng": 106.6281306302915
-            },
-            "southwest": {
-              "lat": -6.185403880291503,
-              "lng": 106.6254326697085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 55242800",
-        "name": "Vihara Jetavana",
-        "place_id": "ChIJY6vBEdX-aS4RD7CH_7OHLsc",
-        "url": "https://maps.google.com/?cid=14352558269632327695",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOcVQmkFF35MftnTOjU64MicoFrfypO-atXZ2ws=s1600-w800-h780",
-          "https://lh3.googleusercontent.com/p/AF1QipOvT1XVXJd4rI8lh7l4OxnitN8jSFuEXBer_l2e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjIQ8n8xd2oh3qwa8tWotUcVhhSBDlu959Djaz=s1600-w800-h780",
-          "https://lh3.googleusercontent.com/p/AF1QipNaoz38bQZj1f_tlY3TwRuEgTjW6EQJdTEPPBru=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBrX0hoMMczr2kFF3aRmvNeiZ_BrlLWqNopNdW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMy30GfhBIAMeKAlWyhqOi7LOT9BKpZt-yGRkJP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNzdBNWsW7mL4lPhe_np16mm5QadOCJHLbWus9o=s1600-w800-h780",
-          "https://lh3.googleusercontent.com/p/AF1QipPUaygPZHohfmgpteLRs4xEIrDem76BilkFKq1j=s1600-w800-h780",
-          "https://lh3.googleusercontent.com/p/AF1QipMbF6NlVfvZETEaRx3d5uCJDMVg3UWfY96zLToi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNL7sacDM7FwCGz4jdCU9LfWKcT53xjuh_w0QGU=s1600-w800-h780"
-        ]
+      "name": "Vihara Jetavana",
+      "location": {
+        "lat": -6.1840547,
+        "lng": 106.6267817
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Gg. Vihara 1 No.7, RT.001/RW.008, Sukajadi, Kec. Karawaci, Kota Tangerang, Banten 15113, Indonesia",
+      "phone": "+62 21 55242800",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOcVQmkFF35MftnTOjU64MicoFrfypO-atXZ2ws=s1600-w800-h780",
+        "https://lh3.googleusercontent.com/p/AF1QipOvT1XVXJd4rI8lh7l4OxnitN8jSFuEXBer_l2e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjIQ8n8xd2oh3qwa8tWotUcVhhSBDlu959Djaz=s1600-w800-h780",
+        "https://lh3.googleusercontent.com/p/AF1QipNaoz38bQZj1f_tlY3TwRuEgTjW6EQJdTEPPBru=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBrX0hoMMczr2kFF3aRmvNeiZ_BrlLWqNopNdW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMy30GfhBIAMeKAlWyhqOi7LOT9BKpZt-yGRkJP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNzdBNWsW7mL4lPhe_np16mm5QadOCJHLbWus9o=s1600-w800-h780",
+        "https://lh3.googleusercontent.com/p/AF1QipPUaygPZHohfmgpteLRs4xEIrDem76BilkFKq1j=s1600-w800-h780",
+        "https://lh3.googleusercontent.com/p/AF1QipMbF6NlVfvZETEaRx3d5uCJDMVg3UWfY96zLToi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNL7sacDM7FwCGz4jdCU9LfWKcT53xjuh_w0QGU=s1600-w800-h780"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJY6vBEdX-aS4RD7CH_7OHLsc",
+      "google_maps_url": "https://maps.google.com/?cid=14352558269632327695",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Duta Harapan Indah No.25-26, RT.8/RW.2, Kapuk Muara, Kec. Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14460, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.138186999999999,
-            "lng": 106.7746455
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.136841269708497,
-              "lng": 106.7760310302915
-            },
-            "southwest": {
-              "lat": -6.139539230291502,
-              "lng": 106.7733330697085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 6605750",
-        "name": "Vihara Prajnaparamita LPUB",
-        "place_id": "ChIJyU0-aSr2aS4RSudkjVniNYk",
-        "url": "https://maps.google.com/?cid=9887057431213958986",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPuK2o_OZNrfvzJt0mnP60t9_TpapG6XHTz_ip3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyyeHO0NlhDOr9A-ulqPRH1j6LT0N21_4HaHMh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMozvv0ySlGDFzttEjdcOJinHPoat6Q7J5JXPPn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvMrFEcQ3usd2QqqpLSBVO-68C6WYJj1ANFFVh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPDH-C4o2z0X6jsIdMSt3gXvLzafpYaxyWquCVx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGNoneqHbNmqPmbJU0dPJYocB6aa5N1Jx6AHTJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3u8fatRMYi5T1AzOKxo-7-GIvpmTrg8ES43yb=s1600-w320-h320",
-          "https://lh3.googleusercontent.com/p/AF1QipOT0L5Ghx1pQislrgSaYp6cqOfgipiG2tVs728U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJt4PsPEb9dyQLGktmGGxTM4aE62JWH4Bhw_LN=s1600-w800-h765",
-          "https://lh3.googleusercontent.com/p/AF1QipMKWBb_qVVB88vml6-VyYiTf7GRtHYi18u-hEVC=s1600-w800-h800"
-        ]
+      "name": "Vihara Prajnaparamita LPUB",
+      "location": {
+        "lat": -6.138186999999999,
+        "lng": 106.7746455
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jl. Duta Harapan Indah No.25-26, RT.8/RW.2, Kapuk Muara, Kec. Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14460, Indonesia",
+      "phone": "+62 21 6605750",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPuK2o_OZNrfvzJt0mnP60t9_TpapG6XHTz_ip3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyyeHO0NlhDOr9A-ulqPRH1j6LT0N21_4HaHMh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMozvv0ySlGDFzttEjdcOJinHPoat6Q7J5JXPPn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvMrFEcQ3usd2QqqpLSBVO-68C6WYJj1ANFFVh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPDH-C4o2z0X6jsIdMSt3gXvLzafpYaxyWquCVx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGNoneqHbNmqPmbJU0dPJYocB6aa5N1Jx6AHTJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3u8fatRMYi5T1AzOKxo-7-GIvpmTrg8ES43yb=s1600-w320-h320",
+        "https://lh3.googleusercontent.com/p/AF1QipOT0L5Ghx1pQislrgSaYp6cqOfgipiG2tVs728U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJt4PsPEb9dyQLGktmGGxTM4aE62JWH4Bhw_LN=s1600-w800-h765",
+        "https://lh3.googleusercontent.com/p/AF1QipMKWBb_qVVB88vml6-VyYiTf7GRtHYi18u-hEVC=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJyU0-aSr2aS4RSudkjVniNYk",
+      "google_maps_url": "https://maps.google.com/?cid=9887057431213958986",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Pangeran Jayakarta 66 blok A 1-3, RT.5/RW.9, South Mangga Dua, Sawah Besar, Central Jakarta City, Jakarta 10730, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.1458057,
-            "lng": 106.8315871
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.144452769708497,
-              "lng": 106.8329385302915
-            },
-            "southwest": {
-              "lat": -6.147150730291502,
-              "lng": 106.8302405697085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 6006914",
-        "name": "Vihara Tharpa Ling",
-        "place_id": "ChIJTXHe2O_1aS4R6Z1SSsNaxOQ",
-        "url": "https://maps.google.com/?cid=16484400330894908905",
-        "website": "https://tharpaling-pangjay.business.site/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNTD_Rdd1UTUVbgCZMJ67iw_9xaxayFTCJEfniW=s1600-w800-h721",
-          "https://lh3.googleusercontent.com/p/AF1QipMI2CkjJvpsV79D_Qm7h2oBH__qjlXPzOOvPmZx=s1600-w615-h385",
-          "https://lh3.googleusercontent.com/p/AF1QipNYII3DQIUfAf-HmoQaIO6Uf4p5mBQg3J641-OM=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVHp-r9pk9z-DSlb63KwJ1NzGsRQqMlmvRne13=s1600-w413-h550",
-          "https://lh3.googleusercontent.com/p/AF1QipN-Pju9PihExes2DP5NUw8Ve2oOgpXFx4LLQZfB=s1600-w640-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipN3bp2kvhD8WsS6uJF4Yj2ni_jEpR2PAczxlfiI=s1600-w600-h450",
-          "https://lh3.googleusercontent.com/p/AF1QipNvkGRQjDPhmshT4EpmwQd3aCO9OG6f5mJabMMA=s1600-w600-h450",
-          "https://lh3.googleusercontent.com/p/AF1QipOmgDjlQXBN3Y4VG84gU5IT3tI1kcWZ386iOiaV=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9xG1i_EKi8lIe8OIJCcNw1oqRSdnq43HQtKqV=s1600-w720-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipMjzKG9pCgMTFG0ZwoSjgNxG7SEA4SVvI3RX55g=s1600-w700-h800"
-        ]
+      "name": "Vihara Tharpa Ling",
+      "location": {
+        "lat": -6.1458057,
+        "lng": 106.8315871
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Pangeran Jayakarta 66 blok A 1-3, RT.5/RW.9, South Mangga Dua, Sawah Besar, Central Jakarta City, Jakarta 10730, Indonesia",
+      "phone": "+62 21 6006914",
+      "website": "https://tharpaling-pangjay.business.site/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNTD_Rdd1UTUVbgCZMJ67iw_9xaxayFTCJEfniW=s1600-w800-h721",
+        "https://lh3.googleusercontent.com/p/AF1QipMI2CkjJvpsV79D_Qm7h2oBH__qjlXPzOOvPmZx=s1600-w615-h385",
+        "https://lh3.googleusercontent.com/p/AF1QipNYII3DQIUfAf-HmoQaIO6Uf4p5mBQg3J641-OM=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVHp-r9pk9z-DSlb63KwJ1NzGsRQqMlmvRne13=s1600-w413-h550",
+        "https://lh3.googleusercontent.com/p/AF1QipN-Pju9PihExes2DP5NUw8Ve2oOgpXFx4LLQZfB=s1600-w640-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipN3bp2kvhD8WsS6uJF4Yj2ni_jEpR2PAczxlfiI=s1600-w600-h450",
+        "https://lh3.googleusercontent.com/p/AF1QipNvkGRQjDPhmshT4EpmwQd3aCO9OG6f5mJabMMA=s1600-w600-h450",
+        "https://lh3.googleusercontent.com/p/AF1QipOmgDjlQXBN3Y4VG84gU5IT3tI1kcWZ386iOiaV=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9xG1i_EKi8lIe8OIJCcNw1oqRSdnq43HQtKqV=s1600-w720-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipMjzKG9pCgMTFG0ZwoSjgNxG7SEA4SVvI3RX55g=s1600-w700-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTXHe2O_1aS4R6Z1SSsNaxOQ",
+      "google_maps_url": "https://maps.google.com/?cid=16484400330894908905",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Blok C, Jl. Agung Permai 15 No.12, RT.11/RW.11, Sunter Agung, Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14350, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.143905600000001,
-            "lng": 106.8649313
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.142509369708499,
-              "lng": 106.8664044802915
-            },
-            "southwest": {
-              "lat": -6.145207330291503,
-              "lng": 106.8637065197085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 6414304",
-        "name": "Vihara Jakarta Dhammacakka Jaya",
-        "place_id": "ChIJCwbigoL1aS4RFwjliLmGl7Q",
-        "url": "https://maps.google.com/?cid=13013017779734120471",
-        "website": "http://dhammacakka.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOBCBifJmtV4M0gLwe2O07Aq91_D6rArozha9Y=s1600-w800-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipPJKFpL3wWMVnKF8inFQe-SwBtfQlZ-nMDFSWmg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYYUSpMVj7tD06QBK_xjGkblOUmPEr0i02oc0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnWGYKvPsMSpOE4kFCF85Oz7gVIKQDCLSC1cYV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPEamU5ufBm18wl9jQ1EEiJr3qXl09m40KGvDD7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWQLN5962mkykAKXMARkeNng9-E5r4_xJ6dEKz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMD6kTSfySq_MwMoW4q6hNIepW7tWz6gDjpLnQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfPqZAFjEIbItA-35mGtD1p-ljoPZm5cgj0H4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPX_J8rDoP2nqzW_uAmU5xa1zLxZqxhJLvU4ep2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoLFHsw5e0FQG6-MAV-6BBbIM5eKnzs9XIVg94=s1600-w800-h800"
-        ]
+      "name": "Vihara Jakarta Dhammacakka Jaya",
+      "location": {
+        "lat": -6.143905600000001,
+        "lng": 106.8649313
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Blok C, Jl. Agung Permai 15 No.12, RT.11/RW.11, Sunter Agung, Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14350, Indonesia",
+      "phone": "+62 21 6414304",
+      "website": "http://dhammacakka.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOBCBifJmtV4M0gLwe2O07Aq91_D6rArozha9Y=s1600-w800-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipPJKFpL3wWMVnKF8inFQe-SwBtfQlZ-nMDFSWmg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYYUSpMVj7tD06QBK_xjGkblOUmPEr0i02oc0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnWGYKvPsMSpOE4kFCF85Oz7gVIKQDCLSC1cYV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPEamU5ufBm18wl9jQ1EEiJr3qXl09m40KGvDD7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWQLN5962mkykAKXMARkeNng9-E5r4_xJ6dEKz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMD6kTSfySq_MwMoW4q6hNIepW7tWz6gDjpLnQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfPqZAFjEIbItA-35mGtD1p-ljoPZm5cgj0H4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPX_J8rDoP2nqzW_uAmU5xa1zLxZqxhJLvU4ep2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoLFHsw5e0FQG6-MAV-6BBbIM5eKnzs9XIVg94=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJCwbigoL1aS4RFwjliLmGl7Q",
+      "google_maps_url": "https://maps.google.com/?cid=13013017779734120471",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Pusaka Rakyat, Pusaka Rakyat, Kec. Tarumajaya, Bekasi, Jawa Barat 17214, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.1595672,
-            "lng": 106.981876
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.158098219708497,
-              "lng": 106.9832523302915
-            },
-            "southwest": {
-              "lat": -6.160796180291502,
-              "lng": 106.9805543697085
-            }
-          }
-        },
-        "international_phone_number": "+62 859-5992-5656",
-        "name": "Vihara Buddha Jayanti",
-        "place_id": "ChIJcRyDlkeKaS4R2b0kFozMG7I",
-        "url": "https://maps.google.com/?cid=12834076465161354713",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPf1jBDK8hlq1_X7KhAMy8HYTKd6skEHfsb2e0j=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvmZppCVTybU9KvqSeTC0-z48Ofx31ZaqocYuF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFmA_LwPa7wAlmNZEvU5n9DYneQ8sVlCFO_POH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEVCoQS2Jbq0vn4E7pNoc30v7Rwrs8DRNdhpzx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVKdOv9WhuOu9Co7nrohbMD89hfv4_ZXSizN6v=s1600-w800-h800"
-        ]
+      "name": "Vihara Buddha Jayanti",
+      "location": {
+        "lat": -6.1595672,
+        "lng": 106.981876
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jl. Pusaka Rakyat, Pusaka Rakyat, Kec. Tarumajaya, Bekasi, Jawa Barat 17214, Indonesia",
+      "phone": "+62 859-5992-5656",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPf1jBDK8hlq1_X7KhAMy8HYTKd6skEHfsb2e0j=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvmZppCVTybU9KvqSeTC0-z48Ofx31ZaqocYuF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFmA_LwPa7wAlmNZEvU5n9DYneQ8sVlCFO_POH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEVCoQS2Jbq0vn4E7pNoc30v7Rwrs8DRNdhpzx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVKdOv9WhuOu9Co7nrohbMD89hfv4_ZXSizN6v=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJcRyDlkeKaS4R2b0kFozMG7I",
+      "google_maps_url": "https://maps.google.com/?cid=12834076465161354713",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2, Jl. Pluit Permai 1 No.26, RT.2/RW.4, Pluit, Kec. Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14450, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.115025699999999,
-            "lng": 106.7886824
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.113730969708498,
-              "lng": 106.7900312802915
-            },
-            "southwest": {
-              "lat": -6.116428930291502,
-              "lng": 106.7873333197085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 6602725",
-        "name": "Vihara Pluit Dharma Sukha",
-        "place_id": "ChIJg3lUbL4dai4Rofw0feabHzg",
-        "url": "https://maps.google.com/?cid=4044122404647402657",
-        "website": "http://dharmasukha.or.id/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNiRlGgW1d38zYR1kTOeSMDAgngQGdGULsuf9uE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNxTfnAP_C33VCGnXDhhuFvUFkEoCZeqvnA1_lC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpzgwhXFXhvcr8h_BTEfewYu0X5H7qmSFAFfZi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPf39we3qprpqiZROl14j6zpyGRZBFN28lp6GxM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmJdv08E3lKJcaworJ2fIVJPEPyIX9dEKXD2MG=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMzpDJrkYelN4YtZ14-5i6ZKRkHDl41djz9YFUS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1R1dX38Gka-OQhX5ggTch3XYCHqGBzTk1x1pZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZK1DCr6DSbefEkcziQaYTjbH8HU5TQtfFhCI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQ9ThwFUQCLErTPq0NyLIXCExHDAa3OGFQvji9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeoqqJvH-dGc9CvY3ddHxPjhTkW_LCEMrl4HZf=s1600-w800-h800"
-        ]
+      "name": "Vihara Pluit Dharma Sukha",
+      "location": {
+        "lat": -6.115025699999999,
+        "lng": 106.7886824
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "2, Jl. Pluit Permai 1 No.26, RT.2/RW.4, Pluit, Kec. Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14450, Indonesia",
+      "phone": "+62 21 6602725",
+      "website": "http://dharmasukha.or.id/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNiRlGgW1d38zYR1kTOeSMDAgngQGdGULsuf9uE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNxTfnAP_C33VCGnXDhhuFvUFkEoCZeqvnA1_lC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpzgwhXFXhvcr8h_BTEfewYu0X5H7qmSFAFfZi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPf39we3qprpqiZROl14j6zpyGRZBFN28lp6GxM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmJdv08E3lKJcaworJ2fIVJPEPyIX9dEKXD2MG=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMzpDJrkYelN4YtZ14-5i6ZKRkHDl41djz9YFUS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1R1dX38Gka-OQhX5ggTch3XYCHqGBzTk1x1pZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZK1DCr6DSbefEkcziQaYTjbH8HU5TQtfFhCI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQ9ThwFUQCLErTPq0NyLIXCExHDAa3OGFQvji9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeoqqJvH-dGc9CvY3ddHxPjhTkW_LCEMrl4HZf=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJg3lUbL4dai4Rofw0feabHzg",
+      "google_maps_url": "https://maps.google.com/?cid=4044122404647402657",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Blok A, Jl. Bisma Raya No.68, RT.2/RW.17, Sunter Agung, Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14350, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.1323009,
-            "lng": 106.8693478
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.130878169708497,
-              "lng": 106.8706679302915
-            },
-            "southwest": {
-              "lat": -6.133576130291502,
-              "lng": 106.8679699697085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 65305315",
-        "name": "Mudita Center Temple 喜來寺",
-        "place_id": "ChIJBR_4uNUfai4Ry7tiNYOA7Uk",
-        "url": "https://maps.google.com/?cid=5327055235273898955",
-        "website": "http://www.muditacenter.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMk0agPfFpMtQwTL_KM-zR-d6LdXcC5P3Rc1mRY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM8TX7Y6gPlwOSKSI2dV-UWnXUN2yR830leUxkL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdOdQqy-QpLF-nki0BHG67x61unwKDGrYGGUBl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMe9Mi1pmv4_rBwr35fYX0HF2Z6xyk857NgIpGU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLUaGTEfCr84EbNr8IoCbz05UlDPLnxQ0CbzG1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXV3G0YZi7YPOYPwCfNfoMrF88zsbJzOpDbZUe=s1600-w800-h636",
-          "https://lh3.googleusercontent.com/p/AF1QipPU0CSNSJ6AF-UJ5Whxunq6h8yKPIYhldAtuz8x=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORcMvCAAeAEcOHRuBCfM8QWhPd-L5YdF_qGHLO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN01OXEcR21P7Q_l84ecNxrvZZ990Ly1RF-JhZR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM6gyFGVO1gKdqRqkzrnlWuEZ_RLQlA0ztPXpFB=s1600-w800-h800"
-        ]
+      "name": "Mudita Center Temple 喜來寺",
+      "location": {
+        "lat": -6.1323009,
+        "lng": 106.8693478
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Blok A, Jl. Bisma Raya No.68, RT.2/RW.17, Sunter Agung, Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14350, Indonesia",
+      "phone": "+62 21 65305315",
+      "website": "http://www.muditacenter.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMk0agPfFpMtQwTL_KM-zR-d6LdXcC5P3Rc1mRY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM8TX7Y6gPlwOSKSI2dV-UWnXUN2yR830leUxkL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdOdQqy-QpLF-nki0BHG67x61unwKDGrYGGUBl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMe9Mi1pmv4_rBwr35fYX0HF2Z6xyk857NgIpGU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLUaGTEfCr84EbNr8IoCbz05UlDPLnxQ0CbzG1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXV3G0YZi7YPOYPwCfNfoMrF88zsbJzOpDbZUe=s1600-w800-h636",
+        "https://lh3.googleusercontent.com/p/AF1QipPU0CSNSJ6AF-UJ5Whxunq6h8yKPIYhldAtuz8x=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORcMvCAAeAEcOHRuBCfM8QWhPd-L5YdF_qGHLO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN01OXEcR21P7Q_l84ecNxrvZZ990Ly1RF-JhZR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM6gyFGVO1gKdqRqkzrnlWuEZ_RLQlA0ztPXpFB=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJBR_4uNUfai4Ry7tiNYOA7Uk",
+      "google_maps_url": "https://maps.google.com/?cid=5327055235273898955",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Bakti No.14, RT.001/RW.004, Sukasari, Kec. Tangerang, Kota Tangerang, Banten 15118, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.1789193,
-            "lng": 106.6295504
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.177560769708497,
-              "lng": 106.6309964802915
-            },
-            "southwest": {
-              "lat": -6.180258730291501,
-              "lng": 106.6282985197085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 55792445",
-        "name": "Vihara Padumuttara",
-        "place_id": "ChIJ9UWLttT4aS4RVRqOrJ-_QNs",
-        "url": "https://maps.google.com/?cid=15798838185331399253",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNmO8goxN9F_rmqYiyvEr_SLy-1MwvWgzOlMQSH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipML7iX04j2NZibJ6XPBO90mUYCk7-tKjz4LmoGN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOd1N8vOPBjxPC9n8s_4C9f4ryXnElarWFX7yi1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAwcgwGUgo-E6NvqFX_bhu-QbZRW81rwZSbLG_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAXwtfJiSqE5aP23JlISgO8KHtF3rAtRrSk8S5=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipP5BnNLdp3fjf-a_yIG82ZAiFCGfcyY4AbKRlJ1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIlDOKez4_w_QOd5doYM1elLefJiLsRhGsrDOK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMh4f2RRkBqq_wKdo02-UWJTwYtr1AZEOd8_FLY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsOEDhPJhErDEbQgq0h9gefYQ07eViW9chN-Pb=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOzXlJ-Z6BDfp_7Agt_AMSxW_CVvfSRkIAl0G9v=s1600-w800-h640"
-        ]
+      "name": "Vihara Padumuttara",
+      "location": {
+        "lat": -6.1789193,
+        "lng": 106.6295504
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jl. Bakti No.14, RT.001/RW.004, Sukasari, Kec. Tangerang, Kota Tangerang, Banten 15118, Indonesia",
+      "phone": "+62 21 55792445",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNmO8goxN9F_rmqYiyvEr_SLy-1MwvWgzOlMQSH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipML7iX04j2NZibJ6XPBO90mUYCk7-tKjz4LmoGN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOd1N8vOPBjxPC9n8s_4C9f4ryXnElarWFX7yi1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAwcgwGUgo-E6NvqFX_bhu-QbZRW81rwZSbLG_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAXwtfJiSqE5aP23JlISgO8KHtF3rAtRrSk8S5=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipP5BnNLdp3fjf-a_yIG82ZAiFCGfcyY4AbKRlJ1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIlDOKez4_w_QOd5doYM1elLefJiLsRhGsrDOK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMh4f2RRkBqq_wKdo02-UWJTwYtr1AZEOd8_FLY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsOEDhPJhErDEbQgq0h9gefYQ07eViW9chN-Pb=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOzXlJ-Z6BDfp_7Agt_AMSxW_CVvfSRkIAl0G9v=s1600-w800-h640"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9UWLttT4aS4RVRqOrJ-_QNs",
+      "google_maps_url": "https://maps.google.com/?cid=15798838185331399253",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Petak Sembilan, RT.1/RW.6, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11230, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.144473700000001,
-            "lng": 106.8126018
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.143258069708497,
-              "lng": 106.8139122302915
-            },
-            "southwest": {
-              "lat": -6.145956030291502,
-              "lng": 106.8112142697085
-            }
-          }
-        },
-        "name": "Jin De Yuan Temple",
-        "place_id": "ChIJcU1e4gP2aS4RdBru2-mBXwM",
-        "url": "https://maps.google.com/?cid=243055746318473844",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipORfxmaRXFImjjmyv8a0jZzdeiujrXcNQt-dnRt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_VwEMj8XzpG8GzoUpxa5dqjGPKHOTq1sASX-V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8r8GOWxClijjEpHtxcRdVtqcXkafNIz9r5bDi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCK-2sbhJYlAbklmE5ld8Qgmi1wipb6XvTzrGT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5UzB4uXKHI9bY9MKarxNYaC010UHCrXNCsDh-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVuwyCxr34gIjavFGNYiGwDU2X8Rqukmja3hWH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzZf0rlWStGGD6qXBh0XdjD219CMEKdKLYcUDT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYJj2bW7meO-fdpa35QKQkxr_HK63h1feKm70z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMib4d0TnlvhjQn7HV_JqAKXVVr9TQuEqBc-c5B=s1600-w750-h713",
-          "https://lh3.googleusercontent.com/p/AF1QipNGZ1cjd2uaGAevo_Ti88crRN7xeBsMShztwr7W=s1600-w800-h800"
-        ]
+      "name": "Jin De Yuan Temple",
+      "location": {
+        "lat": -6.144473700000001,
+        "lng": 106.8126018
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jl. Petak Sembilan, RT.1/RW.6, Pinangsia, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11230, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipORfxmaRXFImjjmyv8a0jZzdeiujrXcNQt-dnRt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_VwEMj8XzpG8GzoUpxa5dqjGPKHOTq1sASX-V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8r8GOWxClijjEpHtxcRdVtqcXkafNIz9r5bDi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCK-2sbhJYlAbklmE5ld8Qgmi1wipb6XvTzrGT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5UzB4uXKHI9bY9MKarxNYaC010UHCrXNCsDh-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVuwyCxr34gIjavFGNYiGwDU2X8Rqukmja3hWH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzZf0rlWStGGD6qXBh0XdjD219CMEKdKLYcUDT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYJj2bW7meO-fdpa35QKQkxr_HK63h1feKm70z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMib4d0TnlvhjQn7HV_JqAKXVVr9TQuEqBc-c5B=s1600-w750-h713",
+        "https://lh3.googleusercontent.com/p/AF1QipNGZ1cjd2uaGAevo_Ti88crRN7xeBsMShztwr7W=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJcU1e4gP2aS4RdBru2-mBXwM",
+      "google_maps_url": "https://maps.google.com/?cid=243055746318473844",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jalan Raya Taman Mini, RW.2, Ceger, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13560, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.303352299999999,
-            "lng": 106.8942639
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.301883669708498,
-              "lng": 106.8956136302915
-            },
-            "southwest": {
-              "lat": -6.304581630291502,
-              "lng": 106.8929156697085
-            }
-          }
-        },
-        "name": "Vihara Budha Arya Dwipa Arama",
-        "place_id": "ChIJiZZndFztaS4RbXfL6WdrIBE",
-        "url": "https://maps.google.com/?cid=1234104391947745133",
-        "website": "http://www.tamanmini.com/tempat-ibadah/wihara-arya-dwipa-arama",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMSMDpISWvBQUpmfC0JWhgK6ADve3X0PRR3i4O5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPte4v6YwyOv75DMP4qXFJMJ2kKjzWl5xRxtLXJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLY-3ZQwTL_bccZFq3WP6O0OG-Yg4_QpCkm73y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwSgtaO4CDYHeNbo0O4S2nztOXgcerONNoqUAH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1AX-Cygz4JxML1nxkhooQvw9Wgw9xd85sKvL6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhka25GquI0wXincmR915R19eY52E01u_CgO-k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzSyjHmpdi1kxDZcvedcr7VMQr5gR0jh2gCxFd=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAj4K9zi12odRpOoynuJUlkLblBMgJGW-ixFbJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdMnaPnFamrNgeuWgOvqscEEhfGtAaedOoFP4Z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtAoT4npDypFwKzL-PbNcIQhoVk1GMpPPWx_ir=s1600-w800-h800"
-        ]
+      "name": "Vihara Budha Arya Dwipa Arama",
+      "location": {
+        "lat": -6.303352299999999,
+        "lng": 106.8942639
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jalan Raya Taman Mini, RW.2, Ceger, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13560, Indonesia",
+      "website": "http://www.tamanmini.com/tempat-ibadah/wihara-arya-dwipa-arama",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMSMDpISWvBQUpmfC0JWhgK6ADve3X0PRR3i4O5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPte4v6YwyOv75DMP4qXFJMJ2kKjzWl5xRxtLXJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLY-3ZQwTL_bccZFq3WP6O0OG-Yg4_QpCkm73y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwSgtaO4CDYHeNbo0O4S2nztOXgcerONNoqUAH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1AX-Cygz4JxML1nxkhooQvw9Wgw9xd85sKvL6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhka25GquI0wXincmR915R19eY52E01u_CgO-k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzSyjHmpdi1kxDZcvedcr7VMQr5gR0jh2gCxFd=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAj4K9zi12odRpOoynuJUlkLblBMgJGW-ixFbJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdMnaPnFamrNgeuWgOvqscEEhfGtAaedOoFP4Z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtAoT4npDypFwKzL-PbNcIQhoVk1GMpPPWx_ir=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJiZZndFztaS4RbXfL6WdrIBE",
+      "google_maps_url": "https://maps.google.com/?cid=1234104391947745133",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jalan Kemenangan III Petak Sembilan No. 19, RT.3/RW.2, Glodok, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11120, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.144699200000001,
-            "lng": 106.8125211
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.143356819708497,
-              "lng": 106.8138680302915
-            },
-            "southwest": {
-              "lat": -6.146054780291502,
-              "lng": 106.8111700697085
-            }
-          }
-        },
-        "name": "Dharma Bhakti Temple",
-        "place_id": "ChIJ5ylWYwb2aS4RtfK4a4Nh69g",
-        "url": "https://maps.google.com/?cid=15630694148795331253",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM0nhDRXy9Ud_08-BjHlXqn7Sn-QgnXact-Mhrk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNoF3VNa812oGHkoNARteyMReaQRx1fvssWosFo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNt2P3qAJp6uHzdeySW4S15LfofIPraqa1zkVb4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8CnB0DahNP3ZMMZdVfK-GbZYnv5-jlzc0KJvb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNjaDdoEPuIVTVvWYZ7jPIvWVadwE2adJJjsp-k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWRMLqjTfsfplM98k5NImx5ZrFfqwb52-mvcju=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNkd5sOT9Io2EkTgSxmt-rwrwqwLbvbb26R2Cs_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNy40zlaj6zp8dxLEQxPbfamAKqY0_BvoOlOBFj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPRP6GVc75ST6lWudOWxBZeeGjm4EqeohDn8y6U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpmDbs-H1i2te7Npm7qRcLBBL_t2bfmrvuDeqO=s1600-w800-h800"
-        ]
+      "name": "Dharma Bhakti Temple",
+      "location": {
+        "lat": -6.144699200000001,
+        "lng": 106.8125211
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jalan Kemenangan III Petak Sembilan No. 19, RT.3/RW.2, Glodok, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11120, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM0nhDRXy9Ud_08-BjHlXqn7Sn-QgnXact-Mhrk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNoF3VNa812oGHkoNARteyMReaQRx1fvssWosFo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNt2P3qAJp6uHzdeySW4S15LfofIPraqa1zkVb4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8CnB0DahNP3ZMMZdVfK-GbZYnv5-jlzc0KJvb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNjaDdoEPuIVTVvWYZ7jPIvWVadwE2adJJjsp-k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWRMLqjTfsfplM98k5NImx5ZrFfqwb52-mvcju=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNkd5sOT9Io2EkTgSxmt-rwrwqwLbvbb26R2Cs_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNy40zlaj6zp8dxLEQxPbfamAKqY0_BvoOlOBFj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPRP6GVc75ST6lWudOWxBZeeGjm4EqeohDn8y6U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpmDbs-H1i2te7Npm7qRcLBBL_t2bfmrvuDeqO=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ5ylWYwb2aS4RtfK4a4Nh69g",
+      "google_maps_url": "https://maps.google.com/?cid=15630694148795331253",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "RT.02/RW.04, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.611905499999999,
-            "lng": 106.8066992
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.610579419708497,
-              "lng": 106.8080228302915
-            },
-            "southwest": {
-              "lat": -6.613277380291501,
-              "lng": 106.8053248697085
-            }
-          }
-        },
-        "name": "Vihara Dharmakaya",
-        "place_id": "ChIJiYr2Oo7FaS4RZLGbeWgEp5g",
-        "url": "https://maps.google.com/?cid=10999765461639082340",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMV_vpy3GQdD9cf-uWFcIUmQuHmZvkJ_w4mWgr3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOA-oJvPaHJpqUqxzNK4FLbewPPMkv8K9Sy2Nmw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZHtIBUDdLtOnGWClP5jbUxr2LJK_DiHFrR8EW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8agQdPAZvFKJtsEQeYmUzmkKW4YigEk7AMiJu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPc9Xh2OlgXzqBVSvkzos5ja7KznGahs0o8Kpc8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXkHdqdQGgKyzkagHLT58XoEa8s_WBUydmbwpn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO40Re4TNGNpZfzX81uXpT3kxvGDaZMApQHYxjd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyW-w4NgvXeKdSAaklBMwfAMJbfhU9N4gTA0Am=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOubkxbejQGH0G7VFpJMLx3hgCK7PWhGpa6YCv3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOxi8jHlcfnIrWK9r3vsvvPNQsfmh3mCYR7fV9j=s1600-w800-h800"
-        ]
+      "name": "Vihara Dharmakaya",
+      "location": {
+        "lat": -6.611905499999999,
+        "lng": 106.8066992
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "RT.02/RW.04, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMV_vpy3GQdD9cf-uWFcIUmQuHmZvkJ_w4mWgr3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOA-oJvPaHJpqUqxzNK4FLbewPPMkv8K9Sy2Nmw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZHtIBUDdLtOnGWClP5jbUxr2LJK_DiHFrR8EW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8agQdPAZvFKJtsEQeYmUzmkKW4YigEk7AMiJu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPc9Xh2OlgXzqBVSvkzos5ja7KznGahs0o8Kpc8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXkHdqdQGgKyzkagHLT58XoEa8s_WBUydmbwpn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO40Re4TNGNpZfzX81uXpT3kxvGDaZMApQHYxjd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyW-w4NgvXeKdSAaklBMwfAMJbfhU9N4gTA0Am=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOubkxbejQGH0G7VFpJMLx3hgCK7PWhGpa6YCv3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOxi8jHlcfnIrWK9r3vsvvPNQsfmh3mCYR7fV9j=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJiYr2Oo7FaS4RZLGbeWgEp5g",
+      "google_maps_url": "https://maps.google.com/?cid=10999765461639082340",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Prof. DR. Satrio No.2, RT.4/RW.4, Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12930, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.219241099999999,
-            "lng": 106.8195514
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.217882019708498,
-              "lng": 106.8209304302915
-            },
-            "southwest": {
-              "lat": -6.220579980291503,
-              "lng": 106.8182324697085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 5256115",
-        "name": "Amurva Bhumi Vihara",
-        "place_id": "ChIJy5oYwP_zaS4RCGcIFXTsB2s",
-        "url": "https://maps.google.com/?cid=7712392870208497416",
-        "website": "https://www.facebook.com/vihara.amurvabhumi/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMCVVP0-mwJVC83OB6rH13ro_-YZIV09gNJMx3f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMbHiEf9tDvSCxRzyLpo-SQGdIE0vIFFo_1GWU5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLj3SWPUwJ3kw3uSiyR6LY4ImaqKAbGH-GnfAy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzkR_QsUx78NVX3BCh596Angyl6Tnz4t-PJTij=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMmuT-tMaZ707MLiMCwO983GZh8QCMUMVyHdhm6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNg1nL0Ecd-0ZoCZ45vjjPrsQPLoxYEt7gyjhlM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGyC69u6_4pDR9LoqVSa_8HFrzw5v-j3dTLaGK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPRL1SXxl5eiFiUKfQ_CzUhERfqol_w7QCZeORG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPakSVF7z9RJ_jbgbErXza4su0zHxTnIHRrC08l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfSMOFTgb4jZ2WG-ikm2aJ5EX70kraHji_XUqy=s1600-w800-h800"
-        ]
+      "name": "Amurva Bhumi Vihara",
+      "location": {
+        "lat": -6.219241099999999,
+        "lng": 106.8195514
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jl. Prof. DR. Satrio No.2, RT.4/RW.4, Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12930, Indonesia",
+      "phone": "+62 21 5256115",
+      "website": "https://www.facebook.com/vihara.amurvabhumi/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMCVVP0-mwJVC83OB6rH13ro_-YZIV09gNJMx3f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMbHiEf9tDvSCxRzyLpo-SQGdIE0vIFFo_1GWU5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLj3SWPUwJ3kw3uSiyR6LY4ImaqKAbGH-GnfAy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzkR_QsUx78NVX3BCh596Angyl6Tnz4t-PJTij=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMmuT-tMaZ707MLiMCwO983GZh8QCMUMVyHdhm6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNg1nL0Ecd-0ZoCZ45vjjPrsQPLoxYEt7gyjhlM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGyC69u6_4pDR9LoqVSa_8HFrzw5v-j3dTLaGK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPRL1SXxl5eiFiUKfQ_CzUhERfqol_w7QCZeORG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPakSVF7z9RJ_jbgbErXza4su0zHxTnIHRrC08l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfSMOFTgb4jZ2WG-ikm2aJ5EX70kraHji_XUqy=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJy5oYwP_zaS4RCGcIFXTsB2s",
+      "google_maps_url": "https://maps.google.com/?cid=7712392870208497416",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Ir. Soekarno Kp, Jl. Raya Rawa Kompeni No.66, RT.003/RW.008, Benda, Kota Tangerang, Banten 15125, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.1092089,
-            "lng": 106.6856524
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.107900319708498,
-              "lng": 106.6870117802915
-            },
-            "southwest": {
-              "lat": -6.110598280291502,
-              "lng": 106.6843138197085
-            }
-          }
-        },
-        "name": "Vihara Dharma Pala",
-        "place_id": "ChIJq6qqqvECai4RyRWIVBdLkgU",
-        "url": "https://maps.google.com/?cid=401465880363931081",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMOTSh80-SNiC2U6v7kRR4FwaSn3uOUnAJDgdGz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5mQlAVnioJ7Wf2T7amOHnVfDvkUQ8wLhWig08=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvEJo7gPLaCuFHWiIeU8l8w2l1Ggfsvncqpi6Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNY_aYoe1z_SEC43gsfBvhFBVRFIM3IqdFD08D0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPL0tKDbj3pRa3Ifo3vddb3VmXlNKX46kddsTlh=s1600-w800-h655",
-          "https://lh3.googleusercontent.com/p/AF1QipO_v6CtpRuFh0CTQhf4lU3ob3ff9uK-O-LyoWtg=s1600-w800-h800"
-        ]
+      "name": "Vihara Dharma Pala",
+      "location": {
+        "lat": -6.1092089,
+        "lng": 106.6856524
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jl. Ir. Soekarno Kp, Jl. Raya Rawa Kompeni No.66, RT.003/RW.008, Benda, Kota Tangerang, Banten 15125, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMOTSh80-SNiC2U6v7kRR4FwaSn3uOUnAJDgdGz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5mQlAVnioJ7Wf2T7amOHnVfDvkUQ8wLhWig08=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvEJo7gPLaCuFHWiIeU8l8w2l1Ggfsvncqpi6Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNY_aYoe1z_SEC43gsfBvhFBVRFIM3IqdFD08D0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPL0tKDbj3pRa3Ifo3vddb3VmXlNKX46kddsTlh=s1600-w800-h655",
+        "https://lh3.googleusercontent.com/p/AF1QipO_v6CtpRuFh0CTQhf4lU3ob3ff9uK-O-LyoWtg=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJq6qqqvECai4RyRWIVBdLkgU",
+      "google_maps_url": "https://maps.google.com/?cid=401465880363931081",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jalan Kompleks Graha Indah Green Ville Blok Al No.3, Duri Kepa, Kebon Jeruk, RT.5/RW.14, Duri Kepa, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11510, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.1675679,
-            "lng": 106.7737759
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.166144569708497,
-              "lng": 106.7751237802915
-            },
-            "southwest": {
-              "lat": -6.168842530291502,
-              "lng": 106.7724258197085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 5604728",
-        "name": "Vihara RATANA GRAHA",
-        "place_id": "ChIJdwJBgk32aS4R49UPez_DiqI",
-        "url": "https://maps.google.com/?cid=11712388458345387491",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNdMNSobej2EdQ8lqceYuGYJhD-DAj2jVnVyBIw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfcvR4FejDr7_FmwRAPWRfT0n2xKBb5bD45aim=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIFcamocd3rj794qB1HCm3d_hrnmK1DMh28q36=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBXR_SmHMtbb2WO_Ys4Tp-9ntODVlLPKI86CEh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMUfO0hFJ6AZzP5eTtw2nBOqHwfGCm2Qfg7pPM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5YdVnxrI6RaR8WnouCFwvrg14icCVU-HWrFHy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlI9gKV3dilOadDTucXBYQEJrmwhAGfYaOV51D=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPy9w6vItwzlL8FpCmAt74EJHgGvQCxQFIgBPAb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipObBUEupHjeTllQl13Zfcl720oAdr1hwpYtnkRS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGfXFNuEM8nfKvxTUh7XZDL45FTTkIhXUY4Gbv=s1600-w800-h800"
-        ]
+      "name": "Vihara RATANA GRAHA",
+      "location": {
+        "lat": -6.1675679,
+        "lng": 106.7737759
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jalan Kompleks Graha Indah Green Ville Blok Al No.3, Duri Kepa, Kebon Jeruk, RT.5/RW.14, Duri Kepa, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11510, Indonesia",
+      "phone": "+62 21 5604728",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNdMNSobej2EdQ8lqceYuGYJhD-DAj2jVnVyBIw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfcvR4FejDr7_FmwRAPWRfT0n2xKBb5bD45aim=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIFcamocd3rj794qB1HCm3d_hrnmK1DMh28q36=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBXR_SmHMtbb2WO_Ys4Tp-9ntODVlLPKI86CEh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMUfO0hFJ6AZzP5eTtw2nBOqHwfGCm2Qfg7pPM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5YdVnxrI6RaR8WnouCFwvrg14icCVU-HWrFHy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlI9gKV3dilOadDTucXBYQEJrmwhAGfYaOV51D=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPy9w6vItwzlL8FpCmAt74EJHgGvQCxQFIgBPAb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipObBUEupHjeTllQl13Zfcl720oAdr1hwpYtnkRS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGfXFNuEM8nfKvxTUh7XZDL45FTTkIhXUY4Gbv=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJdwJBgk32aS4R49UPez_DiqI",
+      "google_maps_url": "https://maps.google.com/?cid=11712388458345387491",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jalan Nusa Indah I Blok A7 No. 10 Perumahan Taman Cibodas, RT.006/RW.010, Sangiang Jaya, Kec. Periuk, Kota Tangerang, Banten 15132, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.1811849,
-            "lng": 106.6000521
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.179840819708498,
-              "lng": 106.6014382802915
-            },
-            "southwest": {
-              "lat": -6.182538780291503,
-              "lng": 106.5987403197085
-            }
-          }
-        },
-        "name": "Vihara Punna Sampada",
-        "place_id": "ChIJwfjZfR7_aS4RYmLCE15CFeY",
-        "url": "https://maps.google.com/?cid=16579230575060214370",
-        "website": "https://m.facebook.com/pages/Vihara-Punna-Sampada-Taman-Cibodas/415080608548708?_rdr",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOfq8Z7mqgaHHHbyTePGCY3gmj1GFGxtgKJqhJZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP0iJlZbK307v_3j9DZh-lGGnn5mZRZfAzLKJTv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUv3qp8ymwfTbN6tUP2EZmpyHbe-8Bo6XlPl6i=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmdzxj3kHS3jFrat5LP4EkiHNC_JBKV4mJ9AZO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLzNE6cLEzOLdzBGN3VHB0Nng1EgU7GKYfWuNh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_Zs_oCJyhm9Clzou9G5WOTZC34KeOzIUz3m3h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_T8vyri4krooGClEKrw1wUzWTEUaSpNrSkWIq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKIp4wAGZA0uthsXKlw1Y7QVxwNwjLk6gJfpxb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3QnP3qm0R6xIU2lND85eFCSv4HqzOKScoXrua=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyKqkniwksMa_fq3ycvtYfAW0ilR20wCq2QRWQ=s1600-w800-h800"
-        ]
+      "name": "Vihara Punna Sampada",
+      "location": {
+        "lat": -6.1811849,
+        "lng": 106.6000521
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jalan Nusa Indah I Blok A7 No. 10 Perumahan Taman Cibodas, RT.006/RW.010, Sangiang Jaya, Kec. Periuk, Kota Tangerang, Banten 15132, Indonesia",
+      "website": "https://m.facebook.com/pages/Vihara-Punna-Sampada-Taman-Cibodas/415080608548708?_rdr",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOfq8Z7mqgaHHHbyTePGCY3gmj1GFGxtgKJqhJZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP0iJlZbK307v_3j9DZh-lGGnn5mZRZfAzLKJTv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUv3qp8ymwfTbN6tUP2EZmpyHbe-8Bo6XlPl6i=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmdzxj3kHS3jFrat5LP4EkiHNC_JBKV4mJ9AZO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLzNE6cLEzOLdzBGN3VHB0Nng1EgU7GKYfWuNh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_Zs_oCJyhm9Clzou9G5WOTZC34KeOzIUz3m3h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_T8vyri4krooGClEKrw1wUzWTEUaSpNrSkWIq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKIp4wAGZA0uthsXKlw1Y7QVxwNwjLk6gJfpxb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3QnP3qm0R6xIU2lND85eFCSv4HqzOKScoXrua=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyKqkniwksMa_fq3ycvtYfAW0ilR20wCq2QRWQ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJwfjZfR7_aS4RYmLCE15CFeY",
+      "google_maps_url": "https://maps.google.com/?cid=16579230575060214370",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "11, Jl. Kemenangan III No.48, RT.11/RW.3, Glodok, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11120, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.1427742,
-            "lng": 106.8117512
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.141468119708497,
-              "lng": 106.8131875302915
-            },
-            "southwest": {
-              "lat": -6.144166080291502,
-              "lng": 106.8104895697085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 6497849",
-        "name": "Dharma Jaya Toasebio Temple",
-        "place_id": "ChIJ9zmhMgb2aS4RNWI_GR2ZcEM",
-        "url": "https://maps.google.com/?cid=4859552348189450805",
-        "website": "http://viharatoasebio.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP0fUAl_jcTuDp0XqDJoqs6sm43Q6PZlqugsQeL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN92JFZEi5SY5DeJ0hegqHg2OeWhhS0EEtI-MVZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKY7_IqvB1Euc-5-cgVAxXwEnCaQbicoH18HZh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYBFhtp8z36qMQMIrg5fytw63ltnnEagRF7MUj=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipO7fDXr4dAC04my5_x1-Xiwc3vRx0-mYa2wElG_=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMWtatzV1AtuCYyp6M4AQMANJKNlZWqQsoMAFB2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMI9ytVAaQFd3xla8s0EuzWnDM1FzkciE6zRNxV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPK2Pa-lIcILPUNdfLichvlAeiR1aJuBCq9yzZv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQV3nCl7Mgq-lnCqmRx5Ik-5lsuY01diCS2DsJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCGBFEaXSrtOTxYLS_bkO5Oq0yt0fHfXZ0hfzp=s1600-w800-h800"
-        ]
+      "name": "Dharma Jaya Toasebio Temple",
+      "location": {
+        "lat": -6.1427742,
+        "lng": 106.8117512
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "11, Jl. Kemenangan III No.48, RT.11/RW.3, Glodok, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11120, Indonesia",
+      "phone": "+62 21 6497849",
+      "website": "http://viharatoasebio.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP0fUAl_jcTuDp0XqDJoqs6sm43Q6PZlqugsQeL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN92JFZEi5SY5DeJ0hegqHg2OeWhhS0EEtI-MVZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKY7_IqvB1Euc-5-cgVAxXwEnCaQbicoH18HZh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYBFhtp8z36qMQMIrg5fytw63ltnnEagRF7MUj=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipO7fDXr4dAC04my5_x1-Xiwc3vRx0-mYa2wElG_=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMWtatzV1AtuCYyp6M4AQMANJKNlZWqQsoMAFB2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMI9ytVAaQFd3xla8s0EuzWnDM1FzkciE6zRNxV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPK2Pa-lIcILPUNdfLichvlAeiR1aJuBCq9yzZv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQV3nCl7Mgq-lnCqmRx5Ik-5lsuY01diCS2DsJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCGBFEaXSrtOTxYLS_bkO5Oq0yt0fHfXZ0hfzp=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9zmhMgb2aS4RNWI_GR2ZcEM",
+      "google_maps_url": "https://maps.google.com/?cid=4859552348189450805",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Taman Sari Raya No. 78, Mangga Besar, RT.12/RW.1, Taman Sari, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11140, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.150963900000001,
-            "lng": 106.8268614
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.149608319708499,
-              "lng": 106.8282575802915
-            },
-            "southwest": {
-              "lat": -6.152306280291503,
-              "lng": 106.8255596197085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 6291941",
-        "name": "Vihara Dharmasagara",
-        "place_id": "ChIJ-z0BdN31aS4RhFTSEeeO7xQ",
-        "url": "https://maps.google.com/?cid=1508581523279991940",
-        "website": "https://www.facebook.com/Dharmaland",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPT0EgaAiM7zX4_CX1N11VpaLq0woklUvNcxGtO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTIhH-1Box1UC3HX7jEwo4um0PNFBqXt2iQs5r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZ59tKQy-Nd12w2chyEO6EbJMZu9jSbhdc_uP5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwi2bgOKG59xNFPBklbIGgM0HQQstJHsQQfhzw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMH8LVJhyHaVA3m_NTkUebM46F_1v7NdFOU2otG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNfZdxprb7u_h9omAMbb1fQB3hPujMyO6NjblCX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMc-qSWZZ9T3W4N3_3rSb1fGd9ctQwdi-Yy-lZK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNKRNHL3e6rR3aKgWJY-jrMv4tcvz7p9mE7a5v9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVSXK27HBguMv_rqHjbQPbTahFcbnkwqKMZr9m=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGr6EgdO5IaXnxNTaLSUxbXZ1R-VJbngup--pX=s1600-w800-h800"
-        ]
+      "name": "Vihara Dharmasagara",
+      "location": {
+        "lat": -6.150963900000001,
+        "lng": 106.8268614
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jl. Taman Sari Raya No. 78, Mangga Besar, RT.12/RW.1, Taman Sari, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11140, Indonesia",
+      "phone": "+62 21 6291941",
+      "website": "https://www.facebook.com/Dharmaland",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPT0EgaAiM7zX4_CX1N11VpaLq0woklUvNcxGtO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTIhH-1Box1UC3HX7jEwo4um0PNFBqXt2iQs5r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZ59tKQy-Nd12w2chyEO6EbJMZu9jSbhdc_uP5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwi2bgOKG59xNFPBklbIGgM0HQQstJHsQQfhzw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMH8LVJhyHaVA3m_NTkUebM46F_1v7NdFOU2otG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNfZdxprb7u_h9omAMbb1fQB3hPujMyO6NjblCX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMc-qSWZZ9T3W4N3_3rSb1fGd9ctQwdi-Yy-lZK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNKRNHL3e6rR3aKgWJY-jrMv4tcvz7p9mE7a5v9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVSXK27HBguMv_rqHjbQPbTahFcbnkwqKMZr9m=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGr6EgdO5IaXnxNTaLSUxbXZ1R-VJbngup--pX=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ-z0BdN31aS4RhFTSEeeO7xQ",
+      "google_maps_url": "https://maps.google.com/?cid=1508581523279991940",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Gadog 1, Gadog, Cipanas, Gadog, Kec. Pacet, Kabupaten Cianjur, Jawa Barat 43253, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.739298199999999,
-            "lng": 107.0540493
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.737956719708499,
-              "lng": 107.0553591802915
-            },
-            "southwest": {
-              "lat": -6.740654680291503,
-              "lng": 107.0526612197085
-            }
-          }
-        },
-        "international_phone_number": "+62 263 512963",
-        "name": "Vihara Aryamularama",
-        "place_id": "ChIJ1aFey1SyaS4R6_Hd6RlypcE",
-        "url": "https://maps.google.com/?cid=13953684476100735467",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMgsfNSj6kS7RN0NwYKbiUrPbDcNMC2r9UKs6Pg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNuozhztehoovvo6fUMYOcFGpyZE4gEybuUSLDK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOK7wA82C6qp3m-1u7LJ_3Yij-L1m0OcXyKxIH7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPG6hGt-OsT55cPUd44tDQES8VJuFguYQAHQkRZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNpvCjmv3RGNclQBW5zlD_7OiQVmvvOljJC6NGT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLc1lDtaMOG7nzTxBXUGLYvIABC8WWr49BvZ_s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2PmHxkS6LYJE6LID0NvC8xjVyMxHPHHEmR8j-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgvZjpD2QgHyBvXCTHAZJJmRwtJXQiMRiIaggW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTelf09XiRySCO8tCTDyIymT4cW_tWOPp6QB4t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqpSKh00Mt-200yJmPy-xBuIDZlBKNKzAqaUgY=s1600-w800-h800"
-        ]
+      "name": "Vihara Aryamularama",
+      "location": {
+        "lat": -6.739298199999999,
+        "lng": 107.0540493
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Jl. Gadog 1, Gadog, Cipanas, Gadog, Kec. Pacet, Kabupaten Cianjur, Jawa Barat 43253, Indonesia",
+      "phone": "+62 263 512963",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMgsfNSj6kS7RN0NwYKbiUrPbDcNMC2r9UKs6Pg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNuozhztehoovvo6fUMYOcFGpyZE4gEybuUSLDK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOK7wA82C6qp3m-1u7LJ_3Yij-L1m0OcXyKxIH7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPG6hGt-OsT55cPUd44tDQES8VJuFguYQAHQkRZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNpvCjmv3RGNclQBW5zlD_7OiQVmvvOljJC6NGT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLc1lDtaMOG7nzTxBXUGLYvIABC8WWr49BvZ_s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2PmHxkS6LYJE6LID0NvC8xjVyMxHPHHEmR8j-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgvZjpD2QgHyBvXCTHAZJJmRwtJXQiMRiIaggW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTelf09XiRySCO8tCTDyIymT4cW_tWOPp6QB4t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqpSKh00Mt-200yJmPy-xBuIDZlBKNKzAqaUgY=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1aFey1SyaS4R6_Hd6RlypcE",
+      "google_maps_url": "https://maps.google.com/?cid=13953684476100735467",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "RT.03/RW.07, Babakan Ps., Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16126, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.6033995,
-            "lng": 106.7996187
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.602022819708498,
-              "lng": 106.8011436302915
-            },
-            "southwest": {
-              "lat": -6.604720780291502,
-              "lng": 106.7984456697085
-            }
-          }
-        },
-        "international_phone_number": "+62 251 8381650",
-        "name": "Vihara Dhanagun",
-        "place_id": "ChIJixR3RcHFaS4R9Av1RZzJ8Dc",
-        "url": "https://maps.google.com/?cid=4030943339522362356",
-        "website": "http://www.capgomehbogor.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPwSdetSvtpAaipKBeeRA9ZjI20MC5OSmHqYEWB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMabQqBVwTrMU2eYJWrRdFb2Z-El_4KYql18GD2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOosOvJBSo8HNVM65PWWWuaiX3GEgodTgBPrRQg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvLkelmGDqEihRMiHhVWGxFQW8dI5JuU9Qqs4k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRAcyNIKy43_b6BCJsGwV9l3yjHM7u9Yl76Avj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP65FT90d8KG1FCFTkc3BnUwqSmGJ_wTPBdJ7r0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIsuCt68jXAu4iPitEpIPtO6b5ukmDRpKaL1as=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCjGabyaMX9uhGjJGPF45dAnaN61nU2zvf3nuU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8RUgjhHWO5iu1LTpe_13oPhRI6UuxpnOlBiNB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXxEoB7lw4VduSaSvuOSeTpgXa7ZJT7JB8AYkY=s1600-w800-h800"
-        ]
+      "name": "Vihara Dhanagun",
+      "location": {
+        "lat": -6.6033995,
+        "lng": 106.7996187
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "RT.03/RW.07, Babakan Ps., Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16126, Indonesia",
+      "phone": "+62 251 8381650",
+      "website": "http://www.capgomehbogor.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPwSdetSvtpAaipKBeeRA9ZjI20MC5OSmHqYEWB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMabQqBVwTrMU2eYJWrRdFb2Z-El_4KYql18GD2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOosOvJBSo8HNVM65PWWWuaiX3GEgodTgBPrRQg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvLkelmGDqEihRMiHhVWGxFQW8dI5JuU9Qqs4k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRAcyNIKy43_b6BCJsGwV9l3yjHM7u9Yl76Avj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP65FT90d8KG1FCFTkc3BnUwqSmGJ_wTPBdJ7r0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIsuCt68jXAu4iPitEpIPtO6b5ukmDRpKaL1as=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCjGabyaMX9uhGjJGPF45dAnaN61nU2zvf3nuU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8RUgjhHWO5iu1LTpe_13oPhRI6UuxpnOlBiNB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXxEoB7lw4VduSaSvuOSeTpgXa7ZJT7JB8AYkY=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJixR3RcHFaS4R9Av1RZzJ8Dc",
+      "google_maps_url": "https://maps.google.com/?cid=4030943339522362356",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Parklands/Highridge Loresho Ridge, Rd, Nairobi, Kenya",
-        "geometry": {
-          "location": {
-            "lat": -1.252172,
-            "lng": 36.74886999999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -1.250729219708498,
-              "lng": 36.75022353029149
-            },
-            "southwest": {
-              "lat": -1.253427180291502,
-              "lng": 36.74752556970849
-            }
-          }
-        },
-        "international_phone_number": "+254 786 573846",
-        "name": "Nairobi Buddhist Temple",
-        "place_id": "ChIJze1bb7IZLxgRbVe1O1nmh5E",
-        "url": "https://maps.google.com/?cid=10486603528283707245",
-        "website": "https://nairobibuddhisttemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipODAMh33CVtZ6q891DsKbpJaixXu-JCQQL6buRf=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOSDmhIcPXNIaUKR2_xZTrDAIuGTAGAKjAcFXUZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFGYwubEzoC29jx5OxlmZp4T6Vy6k2ywv_rWG0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3l7Q7O6afxJGqgYlJ7nxIiJ6YLnQsNJixfAwQ=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPf78LXofk9aJFbN6XPxR1lQtzkaHJAbBSzKiZ7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNoQIB2afZdxqTzpv7dy4pz6tKbYf6zpnYFRNLm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNx2--H_t9q9aTWg1Zi1WAoK9L_zU2g-LmkMAvZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZNgw9zkDqOzbBc5MyHBRW91pIWCiEilMWLkFA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5MIJz1kDlTX-hTjBi1DZ3IsDS80SBEnU8meKa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNz-EYBB6MZ_Qh3ClpNxyiMD0vr8iDOiXiCxz85=s1600-w800-h800"
-        ]
+      "name": "Nairobi Buddhist Temple",
+      "location": {
+        "lat": -1.252172,
+        "lng": 36.74886999999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Parklands/Highridge Loresho Ridge, Rd, Nairobi, Kenya",
+      "phone": "+254 786 573846",
+      "website": "https://nairobibuddhisttemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipODAMh33CVtZ6q891DsKbpJaixXu-JCQQL6buRf=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOSDmhIcPXNIaUKR2_xZTrDAIuGTAGAKjAcFXUZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFGYwubEzoC29jx5OxlmZp4T6Vy6k2ywv_rWG0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3l7Q7O6afxJGqgYlJ7nxIiJ6YLnQsNJixfAwQ=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPf78LXofk9aJFbN6XPxR1lQtzkaHJAbBSzKiZ7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNoQIB2afZdxqTzpv7dy4pz6tKbYf6zpnYFRNLm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNx2--H_t9q9aTWg1Zi1WAoK9L_zU2g-LmkMAvZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZNgw9zkDqOzbBc5MyHBRW91pIWCiEilMWLkFA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5MIJz1kDlTX-hTjBi1DZ3IsDS80SBEnU8meKa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNz-EYBB6MZ_Qh3ClpNxyiMD0vr8iDOiXiCxz85=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJze1bb7IZLxgRbVe1O1nmh5E",
+      "google_maps_url": "https://maps.google.com/?cid=10486603528283707245",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "14 Tai Gin Rd, Singapore 327873",
-        "geometry": {
-          "location": {
-            "lat": 1.3283666,
-            "lng": 103.8467916
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.329683580291502,
-              "lng": 103.8480504802915
-            },
-            "southwest": {
-              "lat": 1.326985619708498,
-              "lng": 103.8453525197085
-            }
-          }
-        },
-        "international_phone_number": "+65 6251 1717",
-        "name": "Burmese Buddhist Temple",
-        "place_id": "ChIJ_cuHWmAX2jERzZmTjrfrcyA",
-        "url": "https://maps.google.com/?cid=2338471805138999757",
-        "website": "http://www.bbt.org.sg/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNx3RZon3xoTC60lpyCff4pFDOBZMglnsTPDgLP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpnccOgoIf8DfKUS9uURm49sXZN2uEW8Yrk_8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwYwL5ajM4dXve3p4i6VqWmKddZctuLXdeLMbY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkBSKbhxA8EO6srT6YjCJ6OOsmKHwXnDfDL1Uh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJialUttO2YzVzSiaPEtViX100otkUcW_RDEw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9sg6jTSAX5o6n9jYfMX8asxAfDpQlHmZQWf_7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipObO6TOEoCHzhDxdpnREzTuj9rOF5QealUhA0Pt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM6d3zxmJvqUPKaD8lNCXjlPN6PnfAX8plS6IU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2GcbGtAPSo6A7Zh6d5qeUXRftI6c6PdUYUPAi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWk-BSYy9P16WDHSHUbGTDiM4RBA2TfnmrN4NM=s1600-w800-h800"
-        ]
+      "name": "Burmese Buddhist Temple",
+      "location": {
+        "lat": 1.3283666,
+        "lng": 103.8467916
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "14 Tai Gin Rd, Singapore 327873",
+      "phone": "+65 6251 1717",
+      "website": "http://www.bbt.org.sg/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNx3RZon3xoTC60lpyCff4pFDOBZMglnsTPDgLP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpnccOgoIf8DfKUS9uURm49sXZN2uEW8Yrk_8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwYwL5ajM4dXve3p4i6VqWmKddZctuLXdeLMbY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkBSKbhxA8EO6srT6YjCJ6OOsmKHwXnDfDL1Uh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJialUttO2YzVzSiaPEtViX100otkUcW_RDEw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9sg6jTSAX5o6n9jYfMX8asxAfDpQlHmZQWf_7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipObO6TOEoCHzhDxdpnREzTuj9rOF5QealUhA0Pt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM6d3zxmJvqUPKaD8lNCXjlPN6PnfAX8plS6IU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2GcbGtAPSo6A7Zh6d5qeUXRftI6c6PdUYUPAi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWk-BSYy9P16WDHSHUbGTDiM4RBA2TfnmrN4NM=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_cuHWmAX2jERzZmTjrfrcyA",
+      "google_maps_url": "https://maps.google.com/?cid=2338471805138999757",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "87 Tampines Link, Singapore 528742",
-        "geometry": {
-          "location": {
-            "lat": 1.3680775,
-            "lng": 103.9296203
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.369491830291502,
-              "lng": 103.9309292802915
-            },
-            "southwest": {
-              "lat": 1.366793869708498,
-              "lng": 103.9282313197085
-            }
-          }
-        },
-        "international_phone_number": "+65 6582 4971",
-        "name": "Kwang Hua Buddhist Monastery",
-        "place_id": "ChIJmzyAe5w92jERlFFjzR20dEA",
-        "url": "https://maps.google.com/?cid=4644535155818713492",
-        "website": "https://www.facebook.com/Kwang-Hua-Buddhist-Monastery-%E4%BD%9B%E6%95%99%E5%BB%A3%E5%8C%96%E5%AF%BA-349601425068855/timeline",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPWsS8a3xcPEUQ9Mms3MLv7moKeYZh2GlCtkKdG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOs_6baNduqzmBjtVJNBg28Dab-keYGwNnevkGf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOE0RGhaONUZx3IBeeyNn_pdUzrhiqx5NM7i_GB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4n1TDpB46W1fDy4hso2FRZzfGoCxjlg3ILYBG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMj_OqXU3rTK3EJ0hjHsOR9UlQHdSGjti0GuHp1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2yHKizr51NxiU8edbat94HtzwK8__cC5BFVjO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtvWb__OHGn8wwk4fHHVzkPdRl4EUvH5KrJnlk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOv45dYev-AB_-R0_ZcdfL_FHCVXbw78RS0yZGU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOY4XHHPeYy8tgLciDdl0-J8DUEDrrbwM7aDRaY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOgGq1pDTvvhySqcof-JCmqmegjFfxoHra1tVDm=s1600-w800-h800"
-        ]
+      "name": "Kwang Hua Buddhist Monastery",
+      "location": {
+        "lat": 1.3680775,
+        "lng": 103.9296203
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "87 Tampines Link, Singapore 528742",
+      "phone": "+65 6582 4971",
+      "website": "https://www.facebook.com/Kwang-Hua-Buddhist-Monastery-%E4%BD%9B%E6%95%99%E5%BB%A3%E5%8C%96%E5%AF%BA-349601425068855/timeline",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPWsS8a3xcPEUQ9Mms3MLv7moKeYZh2GlCtkKdG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOs_6baNduqzmBjtVJNBg28Dab-keYGwNnevkGf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOE0RGhaONUZx3IBeeyNn_pdUzrhiqx5NM7i_GB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4n1TDpB46W1fDy4hso2FRZzfGoCxjlg3ILYBG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMj_OqXU3rTK3EJ0hjHsOR9UlQHdSGjti0GuHp1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2yHKizr51NxiU8edbat94HtzwK8__cC5BFVjO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtvWb__OHGn8wwk4fHHVzkPdRl4EUvH5KrJnlk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOv45dYev-AB_-R0_ZcdfL_FHCVXbw78RS0yZGU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOY4XHHPeYy8tgLciDdl0-J8DUEDrrbwM7aDRaY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOgGq1pDTvvhySqcof-JCmqmegjFfxoHra1tVDm=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJmzyAe5w92jERlFFjzR20dEA",
+      "google_maps_url": "https://maps.google.com/?cid=4644535155818713492",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8 Lor Kilat, Singapore 598114",
-        "geometry": {
-          "location": {
-            "lat": 1.3413289,
-            "lng": 103.7740412
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.342524880291502,
-              "lng": 103.7753871802915
-            },
-            "southwest": {
-              "lat": 1.339826919708498,
-              "lng": 103.7726892197085
-            }
-          }
-        },
-        "international_phone_number": "+65 6466 4425",
-        "name": "Temple Mahabodhi Monastery 菩提閣",
-        "place_id": "ChIJ_R1l9GEQ2jERH6gT5KwmLo0",
-        "url": "https://maps.google.com/?cid=10173111132279253023",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMZ85rhmFu2iJ-aIduq4NhfVN9Gb3zN7SOZ-TC1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOOZ52LWTMx8AOpAF1_UiAebxZ3HhFF8rmEd9GR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIfBq77VIwM8YmMM061JCqQrdSpAwoOcn39r2p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9fIlMUJnd7XX_tZiSyTZzPdqwrTs3fq3A5P7f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMPy9WYaVNk95G50UXPbXaqyvaurqvthZ4cNz5J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNI-G-InHawdg1ATi95GDWgPjwwVZN6cFka3cL0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAFpw1LPASHEUtEHnhXOx3N6xoeMoY9d0xG4s9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeMOBDgVbkYgXyVxMqsh9s-kmbAf33DnIzA6u5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOsGvQDiYQ1u2I1toRMGuNzlPNC99hCNUPgHbqu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuWqX_4jvp-aRjLmWFHVBttR6xBEunfbBf7peE=s1600-w800-h800"
-        ]
+      "name": "Temple Mahabodhi Monastery 菩提閣",
+      "location": {
+        "lat": 1.3413289,
+        "lng": 103.7740412
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "8 Lor Kilat, Singapore 598114",
+      "phone": "+65 6466 4425",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMZ85rhmFu2iJ-aIduq4NhfVN9Gb3zN7SOZ-TC1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOOZ52LWTMx8AOpAF1_UiAebxZ3HhFF8rmEd9GR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIfBq77VIwM8YmMM061JCqQrdSpAwoOcn39r2p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9fIlMUJnd7XX_tZiSyTZzPdqwrTs3fq3A5P7f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMPy9WYaVNk95G50UXPbXaqyvaurqvthZ4cNz5J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNI-G-InHawdg1ATi95GDWgPjwwVZN6cFka3cL0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAFpw1LPASHEUtEHnhXOx3N6xoeMoY9d0xG4s9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeMOBDgVbkYgXyVxMqsh9s-kmbAf33DnIzA6u5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOsGvQDiYQ1u2I1toRMGuNzlPNC99hCNUPgHbqu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuWqX_4jvp-aRjLmWFHVBttR6xBEunfbBf7peE=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_R1l9GEQ2jERH6gT5KwmLo0",
+      "google_maps_url": "https://maps.google.com/?cid=10173111132279253023",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "88 Bright Hill Rd, Singapore 574117",
-        "geometry": {
-          "location": {
-            "lat": 1.3615696,
-            "lng": 103.8355122
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.362961830291502,
-              "lng": 103.8367717302915
-            },
-            "southwest": {
-              "lat": 1.360263869708498,
-              "lng": 103.8340737697085
-            }
-          }
-        },
-        "international_phone_number": "+65 6849 5300",
-        "name": "Kong Meng San Phor Kark See Monastery",
-        "place_id": "ChIJY1NWWCYX2jERmucc5S9Y96g",
-        "url": "https://maps.google.com/?cid=12175297080350009242",
-        "website": "https://www.kmspks.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNzsJQ_o_di4a4jrr3F7cxlJJGG0c1hJfAhK7wF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOI1snwIMhpg9vXKNKyY8qVzwXWcgZgu5xRmhSH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOT52shM_QtzcprExHgZxYN_3jlTtBWIH1_HLKs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkQNIOF0R9zR1Pf_UQZX3zwDCdRPM2ZkCX0yRV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP07H3S_-0kiN0-syeWSSFgVzeDXSS3xSXL6IiR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPffRPA-f1BwXUw79GHGAw3nUjQZO7t81jtYA9K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPPn48MVcVJd5VSlPC_iJWZPUgoldc-Ql9YoRQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcFKuedRb2Ax0BctvvBzlrxW8YdFhvLhlQ9By_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4AXuoeKySCDHEhIN4zrY5kn6JUV8qZSvAFhUl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOinMV_rwBBugla1GwYkqjQ-nF4WLj0098jOCzu=s1600-w800-h800"
-        ]
+      "name": "Kong Meng San Phor Kark See Monastery",
+      "location": {
+        "lat": 1.3615696,
+        "lng": 103.8355122
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "88 Bright Hill Rd, Singapore 574117",
+      "phone": "+65 6849 5300",
+      "website": "https://www.kmspks.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNzsJQ_o_di4a4jrr3F7cxlJJGG0c1hJfAhK7wF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOI1snwIMhpg9vXKNKyY8qVzwXWcgZgu5xRmhSH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOT52shM_QtzcprExHgZxYN_3jlTtBWIH1_HLKs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkQNIOF0R9zR1Pf_UQZX3zwDCdRPM2ZkCX0yRV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP07H3S_-0kiN0-syeWSSFgVzeDXSS3xSXL6IiR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPffRPA-f1BwXUw79GHGAw3nUjQZO7t81jtYA9K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPPn48MVcVJd5VSlPC_iJWZPUgoldc-Ql9YoRQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcFKuedRb2Ax0BctvvBzlrxW8YdFhvLhlQ9By_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4AXuoeKySCDHEhIN4zrY5kn6JUV8qZSvAFhUl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOinMV_rwBBugla1GwYkqjQ-nF4WLj0098jOCzu=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJY1NWWCYX2jERmucc5S9Y96g",
+      "google_maps_url": "https://maps.google.com/?cid=12175297080350009242",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "19 Novena Terrace, Singapore 307912",
-        "geometry": {
-          "location": {
-            "lat": 1.3212855,
-            "lng": 103.8428678
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.322549230291502,
-              "lng": 103.8442447802915
-            },
-            "southwest": {
-              "lat": 1.319851269708498,
-              "lng": 103.8415468197085
-            }
-          }
-        },
-        "international_phone_number": "+65 6689 3359",
-        "name": "Oxford Buddha Vihara",
-        "place_id": "ChIJrYkpOucZ2jER29qDezR82YA",
-        "url": "https://maps.google.com/?cid=9284588671653370587",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOvqgycLjX4iXrVEDU5O3vXeKWW8XPjLll6heMQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPEJeTcUMy5_LeCL5ZIbSYn6d-EmA-vVAqYK54w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-LnAeVVrB3BISXX6h-jCtz4zcenIsdmW5XXZY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdLRXyItpZvaYO7c1G0jvFHfuZ8Dgk4UbI-waK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMFjoqmZ1lcp_mCm69SmqC92_fQw6OPuCkTph8c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmuUH5vuPTj3fm_eAA7kGx4bWHaMxui4ckx9AR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGd5phMbAFJzGVHOw-pkUuw6wFOZBha_Ns4XjW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfXaM-Y_GMoOHBN5DSShtrtepTn_xZTDITejvQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXbafq1Zv9Nhsl4xWxa3iFUO2VkUY_aBO4tWfl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLsSlO2rTPTMFf_LH6YU7Qzc79QuUMH7ZwvpTU=s1600-w800-h800"
-        ]
+      "name": "Oxford Buddha Vihara",
+      "location": {
+        "lat": 1.3212855,
+        "lng": 103.8428678
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "19 Novena Terrace, Singapore 307912",
+      "phone": "+65 6689 3359",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOvqgycLjX4iXrVEDU5O3vXeKWW8XPjLll6heMQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPEJeTcUMy5_LeCL5ZIbSYn6d-EmA-vVAqYK54w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-LnAeVVrB3BISXX6h-jCtz4zcenIsdmW5XXZY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdLRXyItpZvaYO7c1G0jvFHfuZ8Dgk4UbI-waK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMFjoqmZ1lcp_mCm69SmqC92_fQw6OPuCkTph8c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmuUH5vuPTj3fm_eAA7kGx4bWHaMxui4ckx9AR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGd5phMbAFJzGVHOw-pkUuw6wFOZBha_Ns4XjW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfXaM-Y_GMoOHBN5DSShtrtepTn_xZTDITejvQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXbafq1Zv9Nhsl4xWxa3iFUO2VkUY_aBO4tWfl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLsSlO2rTPTMFf_LH6YU7Qzc79QuUMH7ZwvpTU=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJrYkpOucZ2jER29qDezR82YA",
+      "google_maps_url": "https://maps.google.com/?cid=9284588671653370587",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "50B Jalan Bukit Merah, Singapore 169545",
-        "geometry": {
-          "location": {
-            "lat": 1.2783507,
-            "lng": 103.8289896
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.279931730291502,
-              "lng": 103.8304840302915
-            },
-            "southwest": {
-              "lat": 1.277233769708498,
-              "lng": 103.8277860697085
-            }
-          }
-        },
-        "international_phone_number": "+65 6276 9646",
-        "name": "Wat Ananda Metyarama (Thai Buddhist Temple)",
-        "place_id": "ChIJo82C7GQZ2jERhglugJ1oAAs",
-        "url": "https://maps.google.com/?cid=792748560091056518",
-        "website": "https://watananda.org.sg/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNdkdyBz7b2QlMfkQCnjAtq0_Z8B6jSjnQaB3M0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOc5M1ODkFP_Wg6MdXfb_Jeej7F8y5jB_sQffJp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNHBjEBd5XCQzTTtjguWd8V8KcOs_17Z63garfh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNs9qbY0Kd8is2ZqJteaglLvxmob5vRcN6L-XYo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCJVgBzUhS0yj0C1sos5IDoncKeokc_0dEi0gQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMIQWtLpDy8vD7J9QtpF1NCK_1T-yt5uHBtuJc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPs7FmsrMGUpmxHG_ypk7xXGcnF7ZcPeCnKUeGJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1DL8rM4Dhb6j6VmIt_HRAdCPKe8vI4JXBvLf7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5d2UI-VegqI9k5JrgqfCOslKCKxyXJKLmPEKx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOz8voNQR9sKIuggROscEJKk-kk1H5zNki6aBIY=s1600-w800-h640"
-        ]
+      "name": "Wat Ananda Metyarama (Thai Buddhist Temple)",
+      "location": {
+        "lat": 1.2783507,
+        "lng": 103.8289896
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "50B Jalan Bukit Merah, Singapore 169545",
+      "phone": "+65 6276 9646",
+      "website": "https://watananda.org.sg/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNdkdyBz7b2QlMfkQCnjAtq0_Z8B6jSjnQaB3M0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOc5M1ODkFP_Wg6MdXfb_Jeej7F8y5jB_sQffJp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNHBjEBd5XCQzTTtjguWd8V8KcOs_17Z63garfh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNs9qbY0Kd8is2ZqJteaglLvxmob5vRcN6L-XYo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCJVgBzUhS0yj0C1sos5IDoncKeokc_0dEi0gQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMIQWtLpDy8vD7J9QtpF1NCK_1T-yt5uHBtuJc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPs7FmsrMGUpmxHG_ypk7xXGcnF7ZcPeCnKUeGJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1DL8rM4Dhb6j6VmIt_HRAdCPKe8vI4JXBvLf7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5d2UI-VegqI9k5JrgqfCOslKCKxyXJKLmPEKx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOz8voNQR9sKIuggROscEJKk-kk1H5zNki6aBIY=s1600-w800-h640"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJo82C7GQZ2jERhglugJ1oAAs",
+      "google_maps_url": "https://maps.google.com/?cid=792748560091056518",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Woodlands Drive 16, No. 1, Singapore 737764",
-        "geometry": {
-          "location": {
-            "lat": 1.430605,
-            "lng": 103.7988422
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.432098630291502,
-              "lng": 103.8002673302915
-            },
-            "southwest": {
-              "lat": 1.429400669708498,
-              "lng": 103.7975693697085
-            }
-          }
-        },
-        "international_phone_number": "+65 6547 1580",
-        "name": "BW Monastery",
-        "place_id": "ChIJTefSzLwT2jERG8NxUUBpMxo",
-        "url": "https://maps.google.com/?cid=1887968393763603227",
-        "website": "http://bwmonastery.org.sg/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMin30RVZ5ZAJMdb7voSa91i8hERlifVaMMb_Qo=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipNCU77lPfNZxC5fUGpb_0EtyMXFihXvBaKndhDa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO47nw8YCDMn7YJ0O5QnyO4VN3ij3Y6kTZTOa8b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGiHvPqaVZIWdBBX7oNf4k26HoaBcPRLC4y9gs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNytMRp6GclGwoqT_CkArsLdK73ja4Zu-_VdzlB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDBJ7J6FoMARcVxTZt-ShQJf6dbH36qVVMQ6gE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_WGWYRouE0b7nwHBTA0oGeZxZLFc6-MFHD_t9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqksjfa9k1w31uh7luVeCVmHKaIwcPqAAfuAqQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGDOY8O7oFVv4JW65bGn80Sboi5CH1CdDNEDGf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNthB-9iAI6JspbLn7TCY4lDOdV5FyoLlWj0IaS=s1600-w800-h800"
-        ]
+      "name": "BW Monastery",
+      "location": {
+        "lat": 1.430605,
+        "lng": 103.7988422
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Woodlands Drive 16, No. 1, Singapore 737764",
+      "phone": "+65 6547 1580",
+      "website": "http://bwmonastery.org.sg/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMin30RVZ5ZAJMdb7voSa91i8hERlifVaMMb_Qo=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipNCU77lPfNZxC5fUGpb_0EtyMXFihXvBaKndhDa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO47nw8YCDMn7YJ0O5QnyO4VN3ij3Y6kTZTOa8b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGiHvPqaVZIWdBBX7oNf4k26HoaBcPRLC4y9gs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNytMRp6GclGwoqT_CkArsLdK73ja4Zu-_VdzlB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDBJ7J6FoMARcVxTZt-ShQJf6dbH36qVVMQ6gE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_WGWYRouE0b7nwHBTA0oGeZxZLFc6-MFHD_t9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqksjfa9k1w31uh7luVeCVmHKaIwcPqAAfuAqQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGDOY8O7oFVv4JW65bGn80Sboi5CH1CdDNEDGf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNthB-9iAI6JspbLn7TCY4lDOdV5FyoLlWj0IaS=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTefSzLwT2jERG8NxUUBpMxo",
+      "google_maps_url": "https://maps.google.com/?cid=1887968393763603227",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "381 Upper Paya Lebar Rd, Singapore 534974",
-        "geometry": {
-          "location": {
-            "lat": 1.3494444,
-            "lng": 103.8797222
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.350819480291502,
-              "lng": 103.8811368302915
-            },
-            "southwest": {
-              "lat": 1.348121519708498,
-              "lng": 103.8784388697085
-            }
-          }
-        },
-        "international_phone_number": "+65 6288 7548",
-        "name": "Fa Hua Monastery",
-        "place_id": "ChIJ2VMqrbwX2jER85I1hgACaOc",
-        "url": "https://maps.google.com/?cid=16674579821614174963",
-        "website": "http://www.beokeng.com/disptemple.php?temple=fa-hua-monastery",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMxKqPKT-B99OA_QuWWPL60vnFs60SJdhywXsyd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBEeIS8RBqcCDHgBBoozL9zL_UE0kC5wbhU9BR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUFueE9aP1_daZZNgLclbhyCICM2-ti9jAu2X4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMH1Vs4GF6jQZvQyKwKNAy6uVNnl6xGSGg1KSKE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMa0y9PY5yjef2fRVejg-KSRvdO8bvxzNbUZtBp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM46S4cqvP-rxers0mdmfz1Ey4Dz0HfRi92aEar=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1p8bhRvmhFSiSn2nPjZfsg_nPzfRxdIB9x9LT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6XF62mkgBeyRAmfxLWxiacRSF-iU3OgaWIS2C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOaxFNAhlYm81j2xiiTZbphOpUJVbs49f0THKWt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1qG-KTu26wUzIocds5xqU9zxfp2KhkiET2r94=s1600-w800-h800"
-        ]
+      "name": "Fa Hua Monastery",
+      "location": {
+        "lat": 1.3494444,
+        "lng": 103.8797222
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "381 Upper Paya Lebar Rd, Singapore 534974",
+      "phone": "+65 6288 7548",
+      "website": "http://www.beokeng.com/disptemple.php?temple=fa-hua-monastery",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMxKqPKT-B99OA_QuWWPL60vnFs60SJdhywXsyd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBEeIS8RBqcCDHgBBoozL9zL_UE0kC5wbhU9BR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUFueE9aP1_daZZNgLclbhyCICM2-ti9jAu2X4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMH1Vs4GF6jQZvQyKwKNAy6uVNnl6xGSGg1KSKE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMa0y9PY5yjef2fRVejg-KSRvdO8bvxzNbUZtBp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM46S4cqvP-rxers0mdmfz1Ey4Dz0HfRi92aEar=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1p8bhRvmhFSiSn2nPjZfsg_nPzfRxdIB9x9LT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6XF62mkgBeyRAmfxLWxiacRSF-iU3OgaWIS2C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOaxFNAhlYm81j2xiiTZbphOpUJVbs49f0THKWt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1qG-KTu26wUzIocds5xqU9zxfp2KhkiET2r94=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ2VMqrbwX2jER85I1hgACaOc",
+      "google_maps_url": "https://maps.google.com/?cid=16674579821614174963",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "36R Paya Lebar Cres, Singapore 536074",
-        "geometry": {
-          "location": {
-            "lat": 1.347696,
-            "lng": 103.882372
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.348853980291502,
-              "lng": 103.8837648302915
-            },
-            "southwest": {
-              "lat": 1.346156019708498,
-              "lng": 103.8810668697085
-            }
-          }
-        },
-        "name": "Zhi Hui Guang Monastery",
-        "place_id": "ChIJP8sy_7wX2jER49iIurORP4Q",
-        "url": "https://maps.google.com/?cid=9529495537653962979",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN01tHlk_NhI02BKycrmegOwD2wlupC7R4Hfjlb=s1600-w800-h800"
-        ]
+      "name": "Zhi Hui Guang Monastery",
+      "location": {
+        "lat": 1.347696,
+        "lng": 103.882372
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "36R Paya Lebar Cres, Singapore 536074",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN01tHlk_NhI02BKycrmegOwD2wlupC7R4Hfjlb=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJP8sy_7wX2jER49iIurORP4Q",
+      "google_maps_url": "https://maps.google.com/?cid=9529495537653962979",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "49 Bedok Walk, Singapore 469145",
-        "geometry": {
-          "location": {
-            "lat": 1.3312851,
-            "lng": 103.9461594
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.332661180291502,
-              "lng": 103.9476972802915
-            },
-            "southwest": {
-              "lat": 1.329963219708498,
-              "lng": 103.9449993197085
-            }
-          }
-        },
-        "international_phone_number": "+65 6443 3324",
-        "name": "Palelai Buddhist Temple",
-        "place_id": "ChIJDVzWgzE92jERX6OcS1jlgtc",
-        "url": "https://maps.google.com/?cid=15529226632515330911",
-        "website": "http://watpalelai.org.sg/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNrwx-69qL5u5VE9hWDwZ-MZbTFY0pljdDjrNxd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOm_IaJ-5AAYF-mkr7R84bHpivFhdqu3BAkyVWg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONLbf5DNVJTfOr2nh7YdNTi5rG2jU-dMiwuv5V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVR1t-HS0vak_4gYsmWJLK8MBWP6BqvS1KjBGJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2QBXYDnDpmFeqD4iX26C1KyFArHKyXIbg_jyn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9u70vYmsA0d1U25zgANjOSBfvNyk60fuX2hqz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMnLxW5l4cp6U_5DqWkEDQbbB-BioDq8P6k-WA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYzwL8P3TN3iLz0pLzzPUT6IYPXUJec89dYG4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWj9Md8flhlw5Zx-LBqO1SG9SlGiNhahr9D8Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMn9IPqrzOwnSKfA-HFMdPLt0m6LWJC1XqSCMHo=s1600-w800-h800"
-        ]
+      "name": "Palelai Buddhist Temple",
+      "location": {
+        "lat": 1.3312851,
+        "lng": 103.9461594
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "49 Bedok Walk, Singapore 469145",
+      "phone": "+65 6443 3324",
+      "website": "http://watpalelai.org.sg/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNrwx-69qL5u5VE9hWDwZ-MZbTFY0pljdDjrNxd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOm_IaJ-5AAYF-mkr7R84bHpivFhdqu3BAkyVWg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONLbf5DNVJTfOr2nh7YdNTi5rG2jU-dMiwuv5V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVR1t-HS0vak_4gYsmWJLK8MBWP6BqvS1KjBGJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2QBXYDnDpmFeqD4iX26C1KyFArHKyXIbg_jyn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9u70vYmsA0d1U25zgANjOSBfvNyk60fuX2hqz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMnLxW5l4cp6U_5DqWkEDQbbB-BioDq8P6k-WA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYzwL8P3TN3iLz0pLzzPUT6IYPXUJec89dYG4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWj9Md8flhlw5Zx-LBqO1SG9SlGiNhahr9D8Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMn9IPqrzOwnSKfA-HFMdPLt0m6LWJC1XqSCMHo=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJDVzWgzE92jERX6OcS1jlgtc",
+      "google_maps_url": "https://maps.google.com/?cid=15529226632515330911",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8 Lor Kilat, Singapore 598114",
-        "geometry": {
-          "location": {
-            "lat": 1.3413289,
-            "lng": 103.7740412
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.342524880291502,
-              "lng": 103.7753871802915
-            },
-            "southwest": {
-              "lat": 1.339826919708498,
-              "lng": 103.7726892197085
-            }
-          }
-        },
-        "name": "Mahabodhi Monastery",
-        "place_id": "ChIJ__-P82EQ2jERn9t_YDyQFLU",
-        "url": "https://maps.google.com/?cid=13048212609390599071",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mahabodhi Monastery",
+      "location": {
+        "lat": 1.3413289,
+        "lng": 103.7740412
       },
-      "meta": {
-        "category": "duplicate",
-        "last_updated": "2021-05-02T09:27:11.709Z",
-        "notes": ["TODO: data crosscheck with / copy to Temple Mahabodhi Monastery 菩提閣 above."]
-      }
+      "address": "8 Lor Kilat, Singapore 598114",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ__-P82EQ2jERn9t_YDyQFLU",
+      "google_maps_url": "https://maps.google.com/?cid=13048212609390599071",
+      "category": "duplicate",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        "TODO: data crosscheck with / copy to Temple Mahabodhi Monastery 菩提閣 above."
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "33/A Lor J Telok Kurau, Singapore 425814",
-        "geometry": {
-          "location": {
-            "lat": 1.3136486,
-            "lng": 103.9098318
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.315074580291502,
-              "lng": 103.9111655802915
-            },
-            "southwest": {
-              "lat": 1.312376619708498,
-              "lng": 103.9084676197085
-            }
-          }
-        },
-        "name": "Buddha Vihara Society",
-        "place_id": "ChIJ3zFfQQMZ2jER7Yg8ElnRdAs",
-        "url": "https://maps.google.com/?cid=825514812203895021",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddha Vihara Society",
+      "location": {
+        "lat": 1.3136486,
+        "lng": 103.9098318
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "33/A Lor J Telok Kurau, Singapore 425814",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ3zFfQQMZ2jER7Yg8ElnRdAs",
+      "google_maps_url": "https://maps.google.com/?cid=825514812203895021",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "33 Brickland Rd, Singapore 688254",
-        "geometry": {
-          "location": {
-            "lat": 1.3761111,
-            "lng": 103.7344444
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.377638330291502,
-              "lng": 103.7359732302915
-            },
-            "southwest": {
-              "lat": 1.374940369708498,
-              "lng": 103.7332752697085
-            }
-          }
-        },
-        "international_phone_number": "+65 6769 1515",
-        "name": "Hai Inn Temple",
-        "place_id": "ChIJFxiwhtkR2jEROTU4IM3R3Ho",
-        "url": "https://maps.google.com/?cid=8853181646442607929",
-        "website": "http://www.haiinn.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNIKQy1ErZDXHipkyPP22PuitfJ6dTmlbCaw44Z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnNVfq524GKlcZQPmekGsihMlrZCuiKWLVf6-K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkeL7qFUhuqB7z1kHvwYASY-pnblECKb29MWdI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMd4fxWHEAQS52oWa7CXbbdGvSR4xA-Say_N10n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP0abxeNW_njeNA8fLfOXMaD3gdgh-Jd1PK_Lmi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqDr_i_GuxsBOpOJk7catcmxQLaFN_nm-myZ4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9M827zVVjGCmo3c-13ugch0Eavghj0x-UQW9d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMme2kXNPUtw0EwrDdElZBsE2mMfoHdYL80NAKg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN2ELlch_snp-7U-gLwxr04kvi229yXfSl9LZrD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNC6TbOt8S4sc3zUbK6AgCTO18-xy6CWh7YGVQi=s1600-w800-h800"
-        ]
+      "name": "Hai Inn Temple",
+      "location": {
+        "lat": 1.3761111,
+        "lng": 103.7344444
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "33 Brickland Rd, Singapore 688254",
+      "phone": "+65 6769 1515",
+      "website": "http://www.haiinn.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNIKQy1ErZDXHipkyPP22PuitfJ6dTmlbCaw44Z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnNVfq524GKlcZQPmekGsihMlrZCuiKWLVf6-K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkeL7qFUhuqB7z1kHvwYASY-pnblECKb29MWdI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMd4fxWHEAQS52oWa7CXbbdGvSR4xA-Say_N10n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP0abxeNW_njeNA8fLfOXMaD3gdgh-Jd1PK_Lmi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqDr_i_GuxsBOpOJk7catcmxQLaFN_nm-myZ4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9M827zVVjGCmo3c-13ugch0Eavghj0x-UQW9d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMme2kXNPUtw0EwrDdElZBsE2mMfoHdYL80NAKg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN2ELlch_snp-7U-gLwxr04kvi229yXfSl9LZrD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNC6TbOt8S4sc3zUbK6AgCTO18-xy6CWh7YGVQi=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJFxiwhtkR2jEROTU4IM3R3Ho",
+      "google_maps_url": "https://maps.google.com/?cid=8853181646442607929",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "184 Jalan Toa Payoh, Singapore 319944",
-        "geometry": {
-          "location": {
-            "lat": 1.3298827,
-            "lng": 103.8564568
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.331069480291502,
-              "lng": 103.8576300802915
-            },
-            "southwest": {
-              "lat": 1.328371519708498,
-              "lng": 103.8549321197085
-            }
-          }
-        },
-        "international_phone_number": "+65 6259 6924",
-        "name": "Lian Shan Shuang Lin Monastery",
-        "place_id": "ChIJgYafsHwX2jER-AQ5JrAd_pc",
-        "url": "https://maps.google.com/?cid=10952223986204345592",
-        "website": "https://shuanglin.sg/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP19bvCNM1XDRvoaEZRZ1L76lYhcd37303Uv-kH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMVC6L9W-OdKpVz1dsXZfRytd-c_LQMD4JzzCG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXVdkzN8666PNwiW60Of_ChB-mpjONpx1YsObj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3p3K_LLHdFtnWOtOCSp2HM9T_4pGoYIc1aXTm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMObfTufWC7ozy_Yac4eD1XFF6qrpZbfFWo9xD-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhGRLrvqZWyEcBSLCiWHFe69_q_U08dBuh6FSG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMX4eJAStbNj5vOsQgxdzT2SgzQRE_2cWfiOtO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBoOfzIwnLP4VIdXE9ohUjBYrN0ccnWD0pgkbn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP55h4qhqr89snPK4UX2MTOy52MGtN8BH_aE0u0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMrmoUQLjPMUgcGFsJAM9KYaXE_fuOoyFa8MZ_=s1600-w800-h800"
-        ]
+      "name": "Lian Shan Shuang Lin Monastery",
+      "location": {
+        "lat": 1.3298827,
+        "lng": 103.8564568
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "184 Jalan Toa Payoh, Singapore 319944",
+      "phone": "+65 6259 6924",
+      "website": "https://shuanglin.sg/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP19bvCNM1XDRvoaEZRZ1L76lYhcd37303Uv-kH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMVC6L9W-OdKpVz1dsXZfRytd-c_LQMD4JzzCG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXVdkzN8666PNwiW60Of_ChB-mpjONpx1YsObj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3p3K_LLHdFtnWOtOCSp2HM9T_4pGoYIc1aXTm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMObfTufWC7ozy_Yac4eD1XFF6qrpZbfFWo9xD-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhGRLrvqZWyEcBSLCiWHFe69_q_U08dBuh6FSG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMX4eJAStbNj5vOsQgxdzT2SgzQRE_2cWfiOtO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBoOfzIwnLP4VIdXE9ohUjBYrN0ccnWD0pgkbn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP55h4qhqr89snPK4UX2MTOy52MGtN8BH_aE0u0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMrmoUQLjPMUgcGFsJAM9KYaXE_fuOoyFa8MZ_=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJgYafsHwX2jER-AQ5JrAd_pc",
+      "google_maps_url": "https://maps.google.com/?cid=10952223986204345592",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "23A Jln Mas Puteh, Pasir Panjang Gardens, Singapore 128628",
-        "geometry": {
-          "location": {
-            "lat": 1.3082871,
-            "lng": 103.761968
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.309651730291502,
-              "lng": 103.7633852302915
-            },
-            "southwest": {
-              "lat": 1.306953769708498,
-              "lng": 103.7606872697085
-            }
-          }
-        },
-        "international_phone_number": "+65 6778 1678",
-        "name": "Jayamangala Buddhist Vihara",
-        "place_id": "ChIJ83hby5Ia2jERKsTGo3fGkpI",
-        "url": "https://maps.google.com/?cid=10561722293288354858",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMo2R77yHwhmQJNZr8ziK4BejACVXMimjyTL6TG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMrXEjPS91A6kRkdpcE2cAOrJEgDS17Z9i40o6C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN2iP7OrCNkzQiitrjyW7XW8FrRheF6o27_EhEQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPksYwWJUUJxYiN5xKbqGsc8KgETbgSvM3ovXSo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM93NGm-qkn3afb9Pr0ttG85830RfWbSdlbFhZE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPhFHgeODm1Prp_UmRlRocGQTEZwuAEdI7B6TlX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP-zTvPMivo-MiwznVMpQ2lT5fBaHWuqHO2TLuH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMPpw2gYQp9wb5-vjbkcKi5Mc7m44A2fqvSuF7p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOrBi2vBRi1M5SctorXw8upKXiJ0t2dyhcWdxWZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBA4f5kqqncUSeQLt_8NXV2HKAnoWUUmyK5cTL=s1600-w800-h800"
-        ]
+      "name": "Jayamangala Buddhist Vihara",
+      "location": {
+        "lat": 1.3082871,
+        "lng": 103.761968
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "23A Jln Mas Puteh, Pasir Panjang Gardens, Singapore 128628",
+      "phone": "+65 6778 1678",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMo2R77yHwhmQJNZr8ziK4BejACVXMimjyTL6TG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMrXEjPS91A6kRkdpcE2cAOrJEgDS17Z9i40o6C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN2iP7OrCNkzQiitrjyW7XW8FrRheF6o27_EhEQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPksYwWJUUJxYiN5xKbqGsc8KgETbgSvM3ovXSo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM93NGm-qkn3afb9Pr0ttG85830RfWbSdlbFhZE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPhFHgeODm1Prp_UmRlRocGQTEZwuAEdI7B6TlX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP-zTvPMivo-MiwznVMpQ2lT5fBaHWuqHO2TLuH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMPpw2gYQp9wb5-vjbkcKi5Mc7m44A2fqvSuF7p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOrBi2vBRi1M5SctorXw8upKXiJ0t2dyhcWdxWZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBA4f5kqqncUSeQLt_8NXV2HKAnoWUUmyK5cTL=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ83hby5Ia2jERKsTGo3fGkpI",
+      "google_maps_url": "https://maps.google.com/?cid=10561722293288354858",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lot 1413, Jalan Ponorogo, 81800 Ulu Tiram, Johor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 1.5652083,
-            "lng": 103.874563
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.566545530291502,
-              "lng": 103.8759294802915
-            },
-            "southwest": {
-              "lat": 1.563847569708498,
-              "lng": 103.8732315197085
-            }
-          }
-        },
-        "international_phone_number": "+60 19-773 1410",
-        "name": "Santi Forest Monas",
-        "place_id": "ChIJqVLC8Lxp2jER4ieEE11Ga4A",
-        "url": "https://maps.google.com/?cid=9253567224936146914",
-        "website": "https://m.facebook.com/santiforestmonasteryofficial/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPKDTLyHrGWdBf3FLAfJ1JWP0Ev4hfhEl0e4MEz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsC9k2oMGjnn9aSNFuIkC2rSoXTVYvwcOn-sBq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoH6xm_fngkjYCHnAml0eXCAVbKxcJ82pkrReK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQjubSU_-Ev3YF8toPF0ytQ70EVA0RApLQ78EI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNyaqX-5WdVo50u_LUd-lpRoItGi-znp4OoDtLn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsTL2Ch2YHlN0TuzN9Qqf9g3bqAYaPSzLeph0O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPP2z6cgvnHgjBoHVSVWrsx_AkgZc_TmgVUMrZO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjxPHb0jS6RJ4vikrupz2LRA7OZpUi5tkplKlI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNY6cIt1JO28ZuvXLQimpkq0MrJ7jjOpPlrxTXO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPepE7XPKwg-qXvqxl4EuryaNXY_YYUTaASNoz1=s1600-w800-h800"
-        ]
+      "name": "Santi Forest Monas",
+      "location": {
+        "lat": 1.5652083,
+        "lng": 103.874563
       },
-      "meta": {
-        "category": "vinaya-based, accepts lay guests",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Lot 1413, Jalan Ponorogo, 81800 Ulu Tiram, Johor, Malaysia",
+      "phone": "+60 19-773 1410",
+      "website": "https://m.facebook.com/santiforestmonasteryofficial/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPKDTLyHrGWdBf3FLAfJ1JWP0Ev4hfhEl0e4MEz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsC9k2oMGjnn9aSNFuIkC2rSoXTVYvwcOn-sBq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoH6xm_fngkjYCHnAml0eXCAVbKxcJ82pkrReK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQjubSU_-Ev3YF8toPF0ytQ70EVA0RApLQ78EI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNyaqX-5WdVo50u_LUd-lpRoItGi-znp4OoDtLn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsTL2Ch2YHlN0TuzN9Qqf9g3bqAYaPSzLeph0O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPP2z6cgvnHgjBoHVSVWrsx_AkgZc_TmgVUMrZO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjxPHb0jS6RJ4vikrupz2LRA7OZpUi5tkplKlI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNY6cIt1JO28ZuvXLQimpkq0MrJ7jjOpPlrxTXO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPepE7XPKwg-qXvqxl4EuryaNXY_YYUTaASNoz1=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqVLC8Lxp2jER4ieEE11Ga4A",
+      "google_maps_url": "https://maps.google.com/?cid=9253567224936146914",
+      "category": "vinaya-based, accepts lay guests",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1 Bedok North Street 5, Singapore 486115",
-        "geometry": {
-          "location": {
-            "lat": 1.3355285,
-            "lng": 103.9494701
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.337020430291502,
-              "lng": 103.9507059802915
-            },
-            "southwest": {
-              "lat": 1.334322469708498,
-              "lng": 103.9480080197085
-            }
-          }
-        },
-        "international_phone_number": "+65 6246 6055",
-        "name": "Hock Chuan Monastery",
-        "place_id": "ChIJR6CrVSU92jERBAhtLUVZTFw",
-        "url": "https://maps.google.com/?cid=6650788903369115652",
-        "website": "https://moovitapp.com/index/en-gb/public_transportation-Hock_Chuan_Monastery-Singapore_%E6%96%B0%E5%8A%A0%E5%9D%A1-site_40547515-1678",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM5SoxBlzlItXce7FD95FacOJuwHpFv_H2a5o-x=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4B0R2KP4JOcNV7-Jid1qr0EntHTwdseVywlk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnigEgxkJHqbxlpBnJuDv-r8JCeWwlSut2u-k1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOicubhbHeWsnrNVePuzLDFTKCQToWoQGVMoiDV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNxvB4kX_edj_uYnIX3vVyF3MhioQednjZMmVE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBihx1_SWdZeIQ_UGyZzjFRPnMVTz6EcoWvdA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN74XQbFMb2UFt9m7yP17bOBdisONTrvKhCAjQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjf_bL1nR-qcrmEr-p8w-bLI-JPBpWEMlBTugK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZ-iuAUODYDGrCRfOo1d3DlZJMc9bcrjNl4A0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvHFPqRSprnlM0A9imXjBGeBXXhAg1a68Ft3Rf=s1600-w800-h800"
-        ]
+      "name": "Hock Chuan Monastery",
+      "location": {
+        "lat": 1.3355285,
+        "lng": 103.9494701
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "1 Bedok North Street 5, Singapore 486115",
+      "phone": "+65 6246 6055",
+      "website": "https://moovitapp.com/index/en-gb/public_transportation-Hock_Chuan_Monastery-Singapore_%E6%96%B0%E5%8A%A0%E5%9D%A1-site_40547515-1678",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM5SoxBlzlItXce7FD95FacOJuwHpFv_H2a5o-x=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4B0R2KP4JOcNV7-Jid1qr0EntHTwdseVywlk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnigEgxkJHqbxlpBnJuDv-r8JCeWwlSut2u-k1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOicubhbHeWsnrNVePuzLDFTKCQToWoQGVMoiDV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNxvB4kX_edj_uYnIX3vVyF3MhioQednjZMmVE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBihx1_SWdZeIQ_UGyZzjFRPnMVTz6EcoWvdA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN74XQbFMb2UFt9m7yP17bOBdisONTrvKhCAjQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjf_bL1nR-qcrmEr-p8w-bLI-JPBpWEMlBTugK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZ-iuAUODYDGrCRfOo1d3DlZJMc9bcrjNl4A0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvHFPqRSprnlM0A9imXjBGeBXXhAg1a68Ft3Rf=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJR6CrVSU92jERBAhtLUVZTFw",
+      "google_maps_url": "https://maps.google.com/?cid=6650788903369115652",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "32 Tai Seng Ave, Singapore 534084",
-        "geometry": {
-          "location": {
-            "lat": 1.338641,
-            "lng": 103.889438
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.339850580291502,
-              "lng": 103.8907015802915
-            },
-            "southwest": {
-              "lat": 1.337152619708498,
-              "lng": 103.8880036197085
-            }
-          }
-        },
-        "name": "Jin Long Si Temple",
-        "place_id": "ChIJZZnMEJMX2jER5U_bch-gRmc",
-        "url": "https://maps.google.com/?cid=7441811491207729125",
-        "website": "http://www.beokeng.com/disptemple.php?temple=jin-long-si",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPErnlRsHo-EYWKwt1ZPO_HM6GLOGBZw6uevQ1E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMibRfJ4KvEBIUZPsbpLVKhuPrOBS6gvNiJxsGN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgzIKTvU9oE2B4PJy8_fEPlEtaYTxomubZQZrU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZWWpkQdc1ZUU6vB_pW4pDOuBUmpvDFdZ537kl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPqHN1M3JRmgXtMxq_MEN86TkR7ck1mxtQu4cPP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPh51lVYaeu9IILfY95_-E3sqqKRGZrz_W4gdO3=s1600-w800-h800"
-        ]
+      "name": "Jin Long Si Temple",
+      "location": {
+        "lat": 1.338641,
+        "lng": 103.889438
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "32 Tai Seng Ave, Singapore 534084",
+      "website": "http://www.beokeng.com/disptemple.php?temple=jin-long-si",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPErnlRsHo-EYWKwt1ZPO_HM6GLOGBZw6uevQ1E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMibRfJ4KvEBIUZPsbpLVKhuPrOBS6gvNiJxsGN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgzIKTvU9oE2B4PJy8_fEPlEtaYTxomubZQZrU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZWWpkQdc1ZUU6vB_pW4pDOuBUmpvDFdZ537kl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPqHN1M3JRmgXtMxq_MEN86TkR7ck1mxtQu4cPP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPh51lVYaeu9IILfY95_-E3sqqKRGZrz_W4gdO3=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZZnMEJMX2jER5U_bch-gRmc",
+      "google_maps_url": "https://maps.google.com/?cid=7441811491207729125",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "409 Sin Ming Ave, Singapore 570409",
-        "geometry": {
-          "location": {
-            "lat": 1.3621883,
-            "lng": 103.8366283
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.363916080291502,
-              "lng": 103.8381334302915
-            },
-            "southwest": {
-              "lat": 1.361218119708498,
-              "lng": 103.8354354697085
-            }
-          }
-        },
-        "international_phone_number": "+65 6849 5300",
-        "name": "Kong Meng San Temple",
-        "place_id": "ChIJXTtgmicX2jERJl2D8LB4lzo",
-        "url": "https://maps.google.com/?cid=4221975877027847462",
-        "website": "https://www.kmspks.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOgqcmGxpKdwVVEq1eSXND_k9RGMp7hIUgURjHf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNScxBzWtmG7lC8EUVLpyUsHWOLMxnoizFysnGj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXUQ_hCOqx4TKZ605uagZmWsDGVeWUVjMIBjmd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSK-jJdQqEh1XEv3hyVwH72wddHYC3LvCA-H9R=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPI8pF_aP1VpCUiFmYBWbyeuM1AxM139KwvoxTH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2ulMweJnw-IVhRBBz95UQzk4a6W47w3pIOwTK=s1600-w800-h779",
-          "https://lh3.googleusercontent.com/p/AF1QipMlaXUPmLlTyi2E6gkhISy7-G9pOZaftJzbeH4K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMJvLO9srjC7p1xJscPpjtnUXmlJL8HwBQeu4ba=s1600-w800-h779",
-          "https://lh3.googleusercontent.com/p/AF1QipNbhCcGjmO4tLcYozIQmVCurRrOCExq627jOijk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODRuUBJuooMUg1jiEcpyGcwvURR87E0mz99Eyf=s1600-w800-h779"
-        ]
+      "name": "Kong Meng San Temple",
+      "location": {
+        "lat": 1.3621883,
+        "lng": 103.8366283
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "409 Sin Ming Ave, Singapore 570409",
+      "phone": "+65 6849 5300",
+      "website": "https://www.kmspks.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOgqcmGxpKdwVVEq1eSXND_k9RGMp7hIUgURjHf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNScxBzWtmG7lC8EUVLpyUsHWOLMxnoizFysnGj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXUQ_hCOqx4TKZ605uagZmWsDGVeWUVjMIBjmd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSK-jJdQqEh1XEv3hyVwH72wddHYC3LvCA-H9R=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPI8pF_aP1VpCUiFmYBWbyeuM1AxM139KwvoxTH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2ulMweJnw-IVhRBBz95UQzk4a6W47w3pIOwTK=s1600-w800-h779",
+        "https://lh3.googleusercontent.com/p/AF1QipMlaXUPmLlTyi2E6gkhISy7-G9pOZaftJzbeH4K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMJvLO9srjC7p1xJscPpjtnUXmlJL8HwBQeu4ba=s1600-w800-h779",
+        "https://lh3.googleusercontent.com/p/AF1QipNbhCcGjmO4tLcYozIQmVCurRrOCExq627jOijk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODRuUBJuooMUg1jiEcpyGcwvURR87E0mz99Eyf=s1600-w800-h779"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJXTtgmicX2jERJl2D8LB4lzo",
+      "google_maps_url": "https://maps.google.com/?cid=4221975877027847462",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "67 Shrewsbury Rd, Singapore 307834",
-        "geometry": {
-          "location": {
-            "lat": 1.3184706,
-            "lng": 103.848237
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.319706780291502,
-              "lng": 103.8496072802915
-            },
-            "southwest": {
-              "lat": 1.317008819708498,
-              "lng": 103.8469093197085
-            }
-          }
-        },
-        "international_phone_number": "+65 6253 3532",
-        "name": "Leong Wah Temple 龍華禪寺",
-        "place_id": "ChIJDeeo59wZ2jER5qE91EfPnvo",
-        "url": "https://maps.google.com/?cid=18059099463212704230",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNfydxfAznKQWTG6_JEwqieZSABgXr9-6eK2x37=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7VY7xsSx_fUqJLaRj_-w_HY5QKILT21rgdiJy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9h1aOxutraBgoGR7nNkB2I5-hJRI6ONPCVAEb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORzsJ7L44SyUyLwu0rsZqe5MNyvWI5Ka9-sQTA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZora75w2oryByFvXVEgV78Xhn-1ubagLyX-Q0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO69ltIwT1ibUtkQl3rn0yX3IGBar1qw4W7kAuu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBS51L8vIVquIdTwI55xK9rL5ZT0rMuRbDGpq7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVQq87kGoeHC373tXUPGdR3oPxgNNJdfP5Q4WD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdPMBKgvNnefyz3RS1tpVYJB97nTN9NWdSPYnJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYZXt93x6ODeCJPC8d2oknFo1UGyBhrbFNN-Cb=s1600-w768-h800"
-        ]
+      "name": "Leong Wah Temple 龍華禪寺",
+      "location": {
+        "lat": 1.3184706,
+        "lng": 103.848237
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "67 Shrewsbury Rd, Singapore 307834",
+      "phone": "+65 6253 3532",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNfydxfAznKQWTG6_JEwqieZSABgXr9-6eK2x37=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7VY7xsSx_fUqJLaRj_-w_HY5QKILT21rgdiJy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9h1aOxutraBgoGR7nNkB2I5-hJRI6ONPCVAEb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORzsJ7L44SyUyLwu0rsZqe5MNyvWI5Ka9-sQTA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZora75w2oryByFvXVEgV78Xhn-1ubagLyX-Q0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO69ltIwT1ibUtkQl3rn0yX3IGBar1qw4W7kAuu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBS51L8vIVquIdTwI55xK9rL5ZT0rMuRbDGpq7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVQq87kGoeHC373tXUPGdR3oPxgNNJdfP5Q4WD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdPMBKgvNnefyz3RS1tpVYJB97nTN9NWdSPYnJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYZXt93x6ODeCJPC8d2oknFo1UGyBhrbFNN-Cb=s1600-w768-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJDeeo59wZ2jER5qE91EfPnvo",
+      "google_maps_url": "https://maps.google.com/?cid=18059099463212704230",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "121C Punggol Rd, Singapore 546637",
-        "geometry": {
-          "location": {
-            "lat": 1.3805673,
-            "lng": 103.8965588
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.381870780291502,
-              "lng": 103.8981444302915
-            },
-            "southwest": {
-              "lat": 1.379172819708498,
-              "lng": 103.8954464697085
-            }
-          }
-        },
-        "international_phone_number": "+65 6386 3392",
-        "name": "菩提佛院 Pu Ti Buddhist Temple",
-        "place_id": "ChIJ0dJUej4W2jERpvI9txrzxEo",
-        "url": "https://maps.google.com/?cid=5387698350310945446",
-        "website": "http://puti.org.sg/contact.html",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMj1tFHtke4i9oaPA2NcL0WW0QmWtXk1pEuH8rj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMmG4UbbyWs6d-2V4u2Q9paEZ0n8SyRRmRGMgi-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoyMjrxm4J1xtIqggWKplaqhizSv0_aMMlBTTj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQSFj5YLjA9d7Cn-9DKuPVgnBO_eC3aZ-bMU0L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPV-SBrJVODLi60do6n3V_VJhZtuGOQzaUTM05r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwkdJwLG76XiBLAQjFN0blpLBmRRxNunYH963H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPeVwH57WmzJ04vY1f5MOFEVnTHYRsKgAzWIY_7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8AbjPe832s0FvdM9Mo0LE3VI7e1QkpqXHPca1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpjOvm5j6riIKTq98MQhooNbtaD4-QX8YNpKVs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipME8oXG96rnWZxTVHC241xZHEACoDdtQeq75F1G=s1600-w800-h800"
-        ]
+      "name": "菩提佛院 Pu Ti Buddhist Temple",
+      "location": {
+        "lat": 1.3805673,
+        "lng": 103.8965588
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "121C Punggol Rd, Singapore 546637",
+      "phone": "+65 6386 3392",
+      "website": "http://puti.org.sg/contact.html",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMj1tFHtke4i9oaPA2NcL0WW0QmWtXk1pEuH8rj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMmG4UbbyWs6d-2V4u2Q9paEZ0n8SyRRmRGMgi-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoyMjrxm4J1xtIqggWKplaqhizSv0_aMMlBTTj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQSFj5YLjA9d7Cn-9DKuPVgnBO_eC3aZ-bMU0L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPV-SBrJVODLi60do6n3V_VJhZtuGOQzaUTM05r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwkdJwLG76XiBLAQjFN0blpLBmRRxNunYH963H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPeVwH57WmzJ04vY1f5MOFEVnTHYRsKgAzWIY_7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8AbjPe832s0FvdM9Mo0LE3VI7e1QkpqXHPca1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpjOvm5j6riIKTq98MQhooNbtaD4-QX8YNpKVs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipME8oXG96rnWZxTVHC241xZHEACoDdtQeq75F1G=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ0dJUej4W2jERpvI9txrzxEo",
+      "google_maps_url": "https://maps.google.com/?cid=5387698350310945446",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "184 Jln Toa Payoh, Singapore 319944",
-        "geometry": {
-          "location": {
-            "lat": 1.3305652,
-            "lng": 103.8578924
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.331946980291502,
-              "lng": 103.8594873802915
-            },
-            "southwest": {
-              "lat": 1.329249019708498,
-              "lng": 103.8567894197085
-            }
-          }
-        },
-        "name": "Guan Yin Temple 觀音殿",
-        "place_id": "ChIJz7ZYvXwX2jERpHnmRo76RI4",
-        "url": "https://maps.google.com/?cid=10251594140783901092",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMRT5T7Lrf0Y7H0NeTEFk3QrqLAm47siedi47oJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJFkP8S0gUG3nU7w-sFPL4IFNUKXBnNR_EAUj-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMN60ssW5B0mnD2uc0J_h2UU_hf0D22E732okVV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVWzTnVWgOMWYparYRAnAz72VCDJDtyLjyheMo=s1600-w537-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPKY3iobxHgX6rGikHFnp9YJlzk9wIHtCQvD1Bn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMm5ymjGOlLyl50z1cFTZvKc_LnJcHZXh0vDU9s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeBWt1edeg4yrp3VBuZxpxPzaqyy5XJRZ2vCdK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxgOkEyDMlpyVP3uQCVJ1rEb60lSjwG3RGxr4x=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4TipTVkLnV5BxeVYHPFnm2hUYT8ZHyqcQ4rtp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqXTqBUK_98z3ypseUq6soTAeCVk3W_5Swgh8z=s1600-w800-h800"
-        ]
+      "name": "Guan Yin Temple 觀音殿",
+      "location": {
+        "lat": 1.3305652,
+        "lng": 103.8578924
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "184 Jln Toa Payoh, Singapore 319944",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMRT5T7Lrf0Y7H0NeTEFk3QrqLAm47siedi47oJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJFkP8S0gUG3nU7w-sFPL4IFNUKXBnNR_EAUj-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMN60ssW5B0mnD2uc0J_h2UU_hf0D22E732okVV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVWzTnVWgOMWYparYRAnAz72VCDJDtyLjyheMo=s1600-w537-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPKY3iobxHgX6rGikHFnp9YJlzk9wIHtCQvD1Bn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMm5ymjGOlLyl50z1cFTZvKc_LnJcHZXh0vDU9s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeBWt1edeg4yrp3VBuZxpxPzaqyy5XJRZ2vCdK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxgOkEyDMlpyVP3uQCVJ1rEb60lSjwG3RGxr4x=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4TipTVkLnV5BxeVYHPFnm2hUYT8ZHyqcQ4rtp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqXTqBUK_98z3ypseUq6soTAeCVk3W_5Swgh8z=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJz7ZYvXwX2jERpHnmRo76RI4",
+      "google_maps_url": "https://maps.google.com/?cid=10251594140783901092",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Duku 429229, 65 Duku Rd, Singapore 429229",
-        "geometry": {
-          "location": {
-            "lat": 1.3098134,
-            "lng": 103.9057126
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.311213880291502,
-              "lng": 103.9070273802915
-            },
-            "southwest": {
-              "lat": 1.308515919708498,
-              "lng": 103.9043294197085
-            }
-          }
-        },
-        "international_phone_number": "+65 9239 5421",
-        "name": "Wat Buddhaguna",
-        "place_id": "ChIJ7SXKqg0Y2jERwQn6ilhBNkE",
-        "url": "https://maps.google.com/?cid=4699015109752261057",
-        "website": "https://www.facebook.com/buddhaguna/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPbi1knk6KcHncsXNBnUQcGTpXq9TOPjkmN0jSi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8clWb9af5TjEeZw0kMc_E-dE5AbsCpvcDx3Rc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP24_rwfg-_kGitpk8Mb5yk1BymJO9pqmiajSny=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGbT1SEhyMS7xxCZLK4um3NbQmewqC-B3wvXsd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPf6kaE6XZue-f72Pt2Is0l_1DfqbG6QYP7IPxS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqP3qebU2XxlkwFbYrSYU9_bDshnjmIzAr65AM=s1600-w800-h800"
-        ]
+      "name": "Wat Buddhaguna",
+      "location": {
+        "lat": 1.3098134,
+        "lng": 103.9057126
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "Duku 429229, 65 Duku Rd, Singapore 429229",
+      "phone": "+65 9239 5421",
+      "website": "https://www.facebook.com/buddhaguna/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPbi1knk6KcHncsXNBnUQcGTpXq9TOPjkmN0jSi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8clWb9af5TjEeZw0kMc_E-dE5AbsCpvcDx3Rc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP24_rwfg-_kGitpk8Mb5yk1BymJO9pqmiajSny=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGbT1SEhyMS7xxCZLK4um3NbQmewqC-B3wvXsd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPf6kaE6XZue-f72Pt2Is0l_1DfqbG6QYP7IPxS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqP3qebU2XxlkwFbYrSYU9_bDshnjmIzAr65AM=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ7SXKqg0Y2jERwQn6ilhBNkE",
+      "google_maps_url": "https://maps.google.com/?cid=4699015109752261057",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "30 Jln Eunos, Singapore 419495",
-        "geometry": {
-          "location": {
-            "lat": 1.3197063,
-            "lng": 103.9054713
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.321076380291502,
-              "lng": 103.9066347302915
-            },
-            "southwest": {
-              "lat": 1.318378419708498,
-              "lng": 103.9039367697085
-            }
-          }
-        },
-        "international_phone_number": "+65 6744 4285",
-        "name": "Mangala Vihara Buddhist Temple",
-        "place_id": "ChIJLSu_VwQY2jERbHH4irG3BlE",
-        "url": "https://maps.google.com/?cid=5838555940101058924",
-        "website": "http://mv.org.sg/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNDIRjtLs6GJGaszkHKQnnK_nFcL1y_35dH7vqH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN50f3zoVCdsiCSA03SbjsQk5so6uGvp6ibIPKb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6tTbwbTSC4cLxX1xvZFIY8Ppn8EoXFdg1I2IG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOdB03Lq1Y00dJ8XBg55zdTj6f5B4NxUNpjpTdX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHKI_P5uHRVcnEcHiZGIPgRT2d3uuz90l3xtQf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNpVX6sLc021Cv8auxCEgnhebbwAsRJTyJfrMgW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQFdZ-BOUeEODeQTnZuzAuFNVZGyuYLP0bU7ze=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmJqfvJ2-wXnjgXGyY1w4DgN3junduCFAHrFkZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGZcuj9-3jkxt102kmNMPgEwUgfLFKn8sC91k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8CrfCS4FUfjrb7Zds8_X_VBeyZ6Be4pO6GX5e=s1600-w800-h800"
-        ]
+      "name": "Mangala Vihara Buddhist Temple",
+      "location": {
+        "lat": 1.3197063,
+        "lng": 103.9054713
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "30 Jln Eunos, Singapore 419495",
+      "phone": "+65 6744 4285",
+      "website": "http://mv.org.sg/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNDIRjtLs6GJGaszkHKQnnK_nFcL1y_35dH7vqH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN50f3zoVCdsiCSA03SbjsQk5so6uGvp6ibIPKb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6tTbwbTSC4cLxX1xvZFIY8Ppn8EoXFdg1I2IG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOdB03Lq1Y00dJ8XBg55zdTj6f5B4NxUNpjpTdX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHKI_P5uHRVcnEcHiZGIPgRT2d3uuz90l3xtQf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNpVX6sLc021Cv8auxCEgnhebbwAsRJTyJfrMgW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQFdZ-BOUeEODeQTnZuzAuFNVZGyuYLP0bU7ze=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmJqfvJ2-wXnjgXGyY1w4DgN3junduCFAHrFkZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGZcuj9-3jkxt102kmNMPgEwUgfLFKn8sC91k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8CrfCS4FUfjrb7Zds8_X_VBeyZ6Be4pO6GX5e=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJLSu_VwQY2jERbHH4irG3BlE",
+      "google_maps_url": "https://maps.google.com/?cid=5838555940101058924",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "366 Race Course Rd, Singapore 218638",
-        "geometry": {
-          "location": {
-            "lat": 1.3147222,
-            "lng": 103.8569444
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.316139030291502,
-              "lng": 103.8582266802915
-            },
-            "southwest": {
-              "lat": 1.313441069708498,
-              "lng": 103.8555287197085
-            }
-          }
-        },
-        "international_phone_number": "+65 6294 0714",
-        "name": "Sakya Muni Buddha Gaya Temple",
-        "place_id": "ChIJSwVgeM8Z2jERfldmTAVtnyA",
-        "url": "https://maps.google.com/?cid=2350717400034727806",
-        "website": "http://www.singaporetravelhub.com/temples/sakya-muni-buddha-gaya-temple/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOgp8wOovCJ4_eP3cUMXiKUkJTz7fEpiI-u5FLc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEwNZWEf16aM1jImjeKAAqJ9qZXPjePXR7iueS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOchM9kYbYs20sjR_NMCIR5-Jl-1csCPkb2KdwJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpoc9uTK646dIVh7gLlHRR9sIAGC-k7WQk-rLK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZi7-1sHxn5aPtEaEecvtrpnyTa165f-W2Uz4k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPiXT2s1EY0F3cTmQvDdDflEL4A2ggv1F8v8LA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNf75XP_AznsA3AQsVkOTVrJKtNGKawmesoLhai=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM561RzIhSOp3u0HngFOtWT2Y2t3NbHi-ul-MQm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPP0qMMscZ_3HLKwWbegXkBjyXnu_u9WG-lp-IG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvXOhUbzi60qAd2CLQQQM5u8FsOs1-shNspJum=s1600-w800-h800"
-        ]
+      "name": "Sakya Muni Buddha Gaya Temple",
+      "location": {
+        "lat": 1.3147222,
+        "lng": 103.8569444
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "366 Race Course Rd, Singapore 218638",
+      "phone": "+65 6294 0714",
+      "website": "http://www.singaporetravelhub.com/temples/sakya-muni-buddha-gaya-temple/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOgp8wOovCJ4_eP3cUMXiKUkJTz7fEpiI-u5FLc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEwNZWEf16aM1jImjeKAAqJ9qZXPjePXR7iueS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOchM9kYbYs20sjR_NMCIR5-Jl-1csCPkb2KdwJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpoc9uTK646dIVh7gLlHRR9sIAGC-k7WQk-rLK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZi7-1sHxn5aPtEaEecvtrpnyTa165f-W2Uz4k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPiXT2s1EY0F3cTmQvDdDflEL4A2ggv1F8v8LA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNf75XP_AznsA3AQsVkOTVrJKtNGKawmesoLhai=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM561RzIhSOp3u0HngFOtWT2Y2t3NbHi-ul-MQm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPP0qMMscZ_3HLKwWbegXkBjyXnu_u9WG-lp-IG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvXOhUbzi60qAd2CLQQQM5u8FsOs1-shNspJum=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJSwVgeM8Z2jERfldmTAVtnyA",
+      "google_maps_url": "https://maps.google.com/?cid=2350717400034727806",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "149, Jalan Molek 2, Taman Molek, 81100 Johor Bahru, Johor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 1.5153725,
-            "lng": 103.682586
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.516733130291502,
-              "lng": 103.6838405802915
-            },
-            "southwest": {
-              "lat": 1.514035169708498,
-              "lng": 103.6811426197085
-            }
-          }
-        },
-        "name": "Buddhist Temple",
-        "place_id": "ChIJq6qqqqpz2jERobaWK2jW05s",
-        "url": "https://maps.google.com/?cid=11228554038861018785",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddhist Temple",
+      "location": {
+        "lat": 1.5153725,
+        "lng": 103.682586
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "149, Jalan Molek 2, Taman Molek, 81100 Johor Bahru, Johor, Malaysia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJq6qqqqpz2jERobaWK2jW05s",
+      "google_maps_url": "https://maps.google.com/?cid=11228554038861018785",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "601 Sin Ming Dr, Singapore 575719",
-        "geometry": {
-          "location": {
-            "lat": 1.3616317,
-            "lng": 103.8384908
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.362936930291502,
-              "lng": 103.8399283302915
-            },
-            "southwest": {
-              "lat": 1.360238969708498,
-              "lng": 103.8372303697085
-            }
-          }
-        },
-        "international_phone_number": "+65 6454 7666",
-        "name": "Tse Tho Aum Temple",
-        "place_id": "ChIJy-GOJicX2jERJlTopG5uGM8",
-        "url": "https://maps.google.com/?cid=14922798786784285734",
-        "website": "https://www.facebook.com/Tse-Tho-Aum-Temple-112498590602480",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMhenig68M0-c-ZHWZi3gDVoZ9RyEVT-Shzx4HI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPc1FV1d8YaCyOPvWognDJ5xQdjOxVZCkFGWRZj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmTpWY_s57zCzuXAQuapCH_8cjTbflYYiTo5Za=s1600-w800-h794",
-          "https://lh3.googleusercontent.com/p/AF1QipNJJGKFQQ01SIpDn0FflTsCvpDP_hxhCD5CMHz8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOufCWX70QZph8ubixIlCmlZzySG6oGlfiDhRG0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3_e1RAYAI6yuAQQj3eK5PTa4Lgq4nH0MDdKCT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLlEvkJLPguqXTZCHLaR01e2bmslcCw7kfRajz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4eazot2kfmzYPEvbSfTQHCdbAPUVLsDUOOB1a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNzE5yvLQcqwJhLOK6CNnzmX7WZzT6gE9uwRUKH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPqsJ7KK8Ry69Vx4MRLRIRo-R8LmLSmP8QWEUrr=s1600-w800-h800"
-        ]
+      "name": "Tse Tho Aum Temple",
+      "location": {
+        "lat": 1.3616317,
+        "lng": 103.8384908
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "601 Sin Ming Dr, Singapore 575719",
+      "phone": "+65 6454 7666",
+      "website": "https://www.facebook.com/Tse-Tho-Aum-Temple-112498590602480",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMhenig68M0-c-ZHWZi3gDVoZ9RyEVT-Shzx4HI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPc1FV1d8YaCyOPvWognDJ5xQdjOxVZCkFGWRZj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmTpWY_s57zCzuXAQuapCH_8cjTbflYYiTo5Za=s1600-w800-h794",
+        "https://lh3.googleusercontent.com/p/AF1QipNJJGKFQQ01SIpDn0FflTsCvpDP_hxhCD5CMHz8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOufCWX70QZph8ubixIlCmlZzySG6oGlfiDhRG0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3_e1RAYAI6yuAQQj3eK5PTa4Lgq4nH0MDdKCT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLlEvkJLPguqXTZCHLaR01e2bmslcCw7kfRajz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4eazot2kfmzYPEvbSfTQHCdbAPUVLsDUOOB1a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNzE5yvLQcqwJhLOK6CNnzmX7WZzT6gE9uwRUKH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPqsJ7KK8Ry69Vx4MRLRIRo-R8LmLSmP8QWEUrr=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJy-GOJicX2jERJlTopG5uGM8",
+      "google_maps_url": "https://maps.google.com/?cid=14922798786784285734",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "99 Sin Ming Rd, Singapore 575586",
-        "geometry": {
-          "location": {
-            "lat": 1.3577466,
-            "lng": 103.8404375
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.359007630291502,
-              "lng": 103.8417441302915
-            },
-            "southwest": {
-              "lat": 1.356309669708498,
-              "lng": 103.8390461697085
-            }
-          }
-        },
-        "international_phone_number": "+65 6455 5105",
-        "name": "Lian Huay Temple",
-        "place_id": "ChIJzxkt9SMX2jERhkK-oZc7Q6Y",
-        "url": "https://maps.google.com/?cid=11980484956175352454",
-        "website": "http://www.beokeng.com/disptemple.php?temple=lian-huay-temple",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNXW8derTDbpZ0fb_dWx1qLlaBBtKarblyAT-wT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeVwEhidNAH4HHeaWguOKV6Kj519XYqeyIwr-9=s1600-w800-h800"
-        ]
+      "name": "Lian Huay Temple",
+      "location": {
+        "lat": 1.3577466,
+        "lng": 103.8404375
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "99 Sin Ming Rd, Singapore 575586",
+      "phone": "+65 6455 5105",
+      "website": "http://www.beokeng.com/disptemple.php?temple=lian-huay-temple",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNXW8derTDbpZ0fb_dWx1qLlaBBtKarblyAT-wT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeVwEhidNAH4HHeaWguOKV6Kj519XYqeyIwr-9=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzxkt9SMX2jERhkK-oZc7Q6Y",
+      "google_maps_url": "https://maps.google.com/?cid=11980484956175352454",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "63, Jalan Indah 1/1, Taman Bukit Indah, 81200 Johor Bahru, Johor, Malaysia",
-        "geometry": {
-          "location": {
-            "lat": 1.485627,
-            "lng": 103.6632082
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.486962780291502,
-              "lng": 103.6644923302915
-            },
-            "southwest": {
-              "lat": 1.484264819708498,
-              "lng": 103.6617943697085
-            }
-          }
-        },
-        "name": "Tibetan Buddhism Temple",
-        "place_id": "ChIJO9Ntcm5z2jERyDpGUBw8bSk",
-        "url": "https://maps.google.com/?cid=2985108220320037576",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO9I9__zDjV7gNHq8D1GM9xeIwzRxmBF3z475ig=s1600-w800-h800"
-        ]
+      "name": "Tibetan Buddhism Temple",
+      "location": {
+        "lat": 1.485627,
+        "lng": 103.6632082
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "63, Jalan Indah 1/1, Taman Bukit Indah, 81200 Johor Bahru, Johor, Malaysia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO9I9__zDjV7gNHq8D1GM9xeIwzRxmBF3z475ig=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJO9Ntcm5z2jERyDpGUBw8bSk",
+      "google_maps_url": "https://maps.google.com/?cid=2985108220320037576",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "83 Tampines Link, Singapore 528740",
-        "geometry": {
-          "location": {
-            "lat": 1.3683232,
-            "lng": 103.9300773
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.369752080291502,
-              "lng": 103.9313745802915
-            },
-            "southwest": {
-              "lat": 1.367054119708498,
-              "lng": 103.9286766197085
-            }
-          }
-        },
-        "international_phone_number": "+65 6582 0988",
-        "name": "Golden Pagoda Buddhist Temple",
-        "place_id": "ChIJIZk7dpw92jERso_E8D_0gbg",
-        "url": "https://maps.google.com/?cid=13295176130433945522",
-        "website": "https://www.gpbt.org.sg/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPUWxcaFXBUOgbwaY0VSwwNutT3jrQut6xGPKM2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGEQp-MISH3UPkyYGe0TuI-yGh3Ei443m_sj9U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuM3uplyjNAkrpKDwiLM4maEcJxMtghrGS86mm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6D8rvI6ffg31nnyg7hP272JUoyRaPCusQnl5b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOk-9RvPbIbuN0F1T-IuliZ6jM-po3FDuetMquc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNxEuPGwiOnv-QG4j3IGDN-G4yMzejQ9tvQtzvn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXzUjHdNMIul9xC9sDGlhcHVTx8Jq84m5d7DIx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJf_lynkq2rnVAUeZWLRS9eDpqXmUimSOcISQ2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNs38Q0sUOs3d-1GyLaQdeoEP4vkDnZ3FdbuebA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP0KgPB5k1KylANfwfxaghnfjHB20BAkFNjJJFI=s1600-w800-h800"
-        ]
+      "name": "Golden Pagoda Buddhist Temple",
+      "location": {
+        "lat": 1.3683232,
+        "lng": 103.9300773
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:00:25.324Z"
-      }
+      "address": "83 Tampines Link, Singapore 528740",
+      "phone": "+65 6582 0988",
+      "website": "https://www.gpbt.org.sg/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPUWxcaFXBUOgbwaY0VSwwNutT3jrQut6xGPKM2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGEQp-MISH3UPkyYGe0TuI-yGh3Ei443m_sj9U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuM3uplyjNAkrpKDwiLM4maEcJxMtghrGS86mm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6D8rvI6ffg31nnyg7hP272JUoyRaPCusQnl5b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOk-9RvPbIbuN0F1T-IuliZ6jM-po3FDuetMquc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNxEuPGwiOnv-QG4j3IGDN-G4yMzejQ9tvQtzvn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXzUjHdNMIul9xC9sDGlhcHVTx8Jq84m5d7DIx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJf_lynkq2rnVAUeZWLRS9eDpqXmUimSOcISQ2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNs38Q0sUOs3d-1GyLaQdeoEP4vkDnZ3FdbuebA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP0KgPB5k1KylANfwfxaghnfjHB20BAkFNjJJFI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJIZk7dpw92jERso_E8D_0gbg",
+      "google_maps_url": "https://maps.google.com/?cid=13295176130433945522",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

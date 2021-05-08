@@ -1,761 +1,604 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Sandhagsvägen 34, 697 93 Hjortkvarn, Sweden",
-        "geometry": {
-          "location": {
-            "lat": 58.89822319999999,
-            "lng": 15.4404664
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 58.8996416802915,
-              "lng": 15.4417481302915
-            },
-            "southwest": {
-              "lat": 58.89694371970848,
-              "lng": 15.43905016970849
-            }
-          }
-        },
-        "name": "TIRATANA BUDDHIST TEMPLE",
-        "place_id": "ChIJQWCaUof_W0YRi8UsOans7qU",
-        "website": "https://www.buddhism-sbs.se/english/index.html",
-        "url": "https://maps.google.com/?cid=11956754272268109195",
-        "description": "",
-        "tradition": "Theravada, Burmese",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPvbhTovNzN41K6G9-Wk2Up68M0kAeKALeuHsVB=s1600-w800-h800"
-        ]
+      "name": "TIRATANA BUDDHIST TEMPLE",
+      "location": {
+        "lat": 58.89822319999999,
+        "lng": 15.4404664
       },
-      "meta": {
-        "category": "vinaya-based",
-        "last_updated": "2021-05-06T13:10:39.368Z"
-      }
+      "address": "Sandhagsvägen 34, 697 93 Hjortkvarn, Sweden",
+      "website": "https://www.buddhism-sbs.se/english/index.html",
+      "tradition": "Theravada, Burmese",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPvbhTovNzN41K6G9-Wk2Up68M0kAeKALeuHsVB=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJQWCaUof_W0YRi8UsOans7qU",
+      "google_maps_url": "https://maps.google.com/?cid=11956754272268109195",
+      "category": "vinaya-based",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Moisiontie 225, 20400 Turku, Finland",
-        "geometry": {
-          "location": {
-            "lat": 60.5416903,
-            "lng": 22.2979098
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 60.5431579302915,
-              "lng": 22.29870693029151
-            },
-            "southwest": {
-              "lat": 60.54045996970849,
-              "lng": 22.2960089697085
-            }
-          }
-        },
-        "name": "Lien Tam Buddhist Monastery",
-        "place_id": "ChIJPbhLpQx1jEYR3UxpfQdGAYE",
-        "url": "https://maps.google.com/?cid=9295788103852182749",
-        "website": "https://lientam.fi/",
-        "description": "",
-        "tradition": "Zen and Pureland, Vietnamese",
-        "monastics": [
-          "Venerable Thich Hanh Bao Abbot"
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNBxkbJrXf1MbtPX4wJfKXFGEF7mm-AyWkjcsMh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlMHXZrj_RC-EYtdAZ45XOu_OQeKaZ-GXyEOFO=s1600-w800-h667",
-          "https://lh3.googleusercontent.com/p/AF1QipPsJ4wolmyD_7c3t_hkcqFM0If_eO8UGNFk1hsx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQMZ26yC18pMlYBa_D7xRLegAdi_wZxf2SiQ1p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4mxhsGp2yEJIhdJWXex_sJHSNZwHiuG0P5HjJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhl2SSYbGOCi-Pfoxj0efpj9mJCa4pNZ4In3tX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7PZLAIxOPQNgsxYzbTqVByyCwAzCnaQCegGQa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTL0yojUu6JgzLBIbtIPE3gHfMelnxQK30PtYy=s1600-w800-h750",
-          "https://lh3.googleusercontent.com/p/AF1QipNVkm00v4S8ZdPoZeRG7B9_imeZMVeguYtthTpK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4iS7bjMO4atJm26tl1RZ_afGeUEblTDeE3Kg_=s1600-w800-h800"
-        ]
+      "name": "Lien Tam Buddhist Monastery",
+      "location": {
+        "lat": 60.5416903,
+        "lng": 22.2979098
       },
-      "meta": {
-        "category": "vinaya-based",
-        "last_updated": "2021-05-06T13:15:39.368Z"
-      }
+      "address": "Moisiontie 225, 20400 Turku, Finland",
+      "website": "https://lientam.fi/",
+      "tradition": "Zen and Pureland, Vietnamese",
+      "monastics": [
+        "Venerable Thich Hanh Bao Abbot"
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNBxkbJrXf1MbtPX4wJfKXFGEF7mm-AyWkjcsMh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlMHXZrj_RC-EYtdAZ45XOu_OQeKaZ-GXyEOFO=s1600-w800-h667",
+        "https://lh3.googleusercontent.com/p/AF1QipPsJ4wolmyD_7c3t_hkcqFM0If_eO8UGNFk1hsx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQMZ26yC18pMlYBa_D7xRLegAdi_wZxf2SiQ1p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4mxhsGp2yEJIhdJWXex_sJHSNZwHiuG0P5HjJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhl2SSYbGOCi-Pfoxj0efpj9mJCa4pNZ4In3tX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7PZLAIxOPQNgsxYzbTqVByyCwAzCnaQCegGQa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTL0yojUu6JgzLBIbtIPE3gHfMelnxQK30PtYy=s1600-w800-h750",
+        "https://lh3.googleusercontent.com/p/AF1QipNVkm00v4S8ZdPoZeRG7B9_imeZMVeguYtthTpK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4iS7bjMO4atJm26tl1RZ_afGeUEblTDeE3Kg_=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJPbhLpQx1jEYR3UxpfQdGAYE",
+      "google_maps_url": "https://maps.google.com/?cid=9295788103852182749",
+      "category": "vinaya-based",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sångvägen 9, 177 36 Järfälla, Sweden",
-        "geometry": {
-          "location": {
-            "lat": 59.4277208,
-            "lng": 17.8347238
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 59.42894983029149,
-              "lng": 17.8361701802915
-            },
-            "southwest": {
-              "lat": 59.42625186970848,
-              "lng": 17.83347221970849
-            }
-          }
-        },
-        "international_phone_number": "+46 8 580 313 23",
-        "name": "Stockholm Buddhist Vihara",
-        "place_id": "ChIJA_L2i96hX0YRMCvh0mTG0eg",
-        "url": "https://maps.google.com/?cid=16776408223268809520",
-        "website": "http://buddhistviharastockholm.org/",
-        "description": "",
-        "tradition": "Theravada, Sri Lankan",
-        "monastics": [
-          "Bhante K. Siri Dhammaratana Maha Thera", "Bhante Maratugoda Uparathana Thera", "Bhante U Sobhana", "Rev.Dhammakkanda Thero"
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPCqcmb7fOqWLgom2Vc8cejs5gwGZa1Zv5ZPwC8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM8Si78IUdvq3WBp9lzBNJYcCCuVJ3X6Ud4looL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6j-UOo2QYAifoocrup8rLU9t4HlvUcv4Xwksy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMaPHk3ASGD2LVz6kFRzHuyW0gA0P0fIHIgw2tH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBquzguBWU5lYPAesogOFbpv5AkYstt1wnSCjz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcsFu-jpd_fvDfXJwhh19IkKbsRB3YfErRzBKC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMrmpK9Y0La5lISKTUf4fKgk_QdPSsqt7ANADF-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvNJplmbsl6EN_4BbpHZtS_47Fk1ohuRaZm881=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6v7cbSi8SekKYWUWauauzaifmzY-YDUc4yr_I=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOL6B76HM6ZYa0bMB6ATQs2V30NXM_4nMG93wdL=s1600-w800-h800"
-        ]
+      "name": "Stockholm Buddhist Vihara",
+      "location": {
+        "lat": 59.4277208,
+        "lng": 17.8347238
       },
-      "meta": {
-        "category": "vinaya-based",
-        "last_updated": "2021-05-06T13:18:39.368Z"
-      }
+      "address": "Sångvägen 9, 177 36 Järfälla, Sweden",
+      "phone": "+46 8 580 313 23",
+      "website": "http://buddhistviharastockholm.org/",
+      "tradition": "Theravada, Sri Lankan",
+      "monastics": [
+        "Bhante K. Siri Dhammaratana Maha Thera",
+        "Bhante Maratugoda Uparathana Thera",
+        "Bhante U Sobhana",
+        "Rev.Dhammakkanda Thero"
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPCqcmb7fOqWLgom2Vc8cejs5gwGZa1Zv5ZPwC8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM8Si78IUdvq3WBp9lzBNJYcCCuVJ3X6Ud4looL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6j-UOo2QYAifoocrup8rLU9t4HlvUcv4Xwksy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMaPHk3ASGD2LVz6kFRzHuyW0gA0P0fIHIgw2tH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBquzguBWU5lYPAesogOFbpv5AkYstt1wnSCjz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcsFu-jpd_fvDfXJwhh19IkKbsRB3YfErRzBKC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMrmpK9Y0La5lISKTUf4fKgk_QdPSsqt7ANADF-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvNJplmbsl6EN_4BbpHZtS_47Fk1ohuRaZm881=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6v7cbSi8SekKYWUWauauzaifmzY-YDUc4yr_I=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOL6B76HM6ZYa0bMB6ATQs2V30NXM_4nMG93wdL=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA_L2i96hX0YRMCvh0mTG0eg",
+      "google_maps_url": "https://maps.google.com/?cid=16776408223268809520",
+      "category": "vinaya-based",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Hööksgatan 27B, 652 29 Karlstad, Sweden",
-        "geometry": {
-          "location": {
-            "lat": 59.37468219999998,
-            "lng": 13.4885266
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 59.37596193029149,
-              "lng": 13.4899064802915
-            },
-            "southwest": {
-              "lat": 59.37326396970847,
-              "lng": 13.4872085197085
-            }
-          }
-        },
-        "international_phone_number": "+46 76 558 85 99",
-        "name": "Buddharama Temple Karlstad",
-        "place_id": "ChIJ8XC9rdKzXEYR-S0bU1YdYec",
-        "url": "https://maps.google.com/?cid=16672639552100969977",
-        "website": "https://buddharam.com/",        
-        "description": "",
-        "tradition": "Theravada",
-        "monastics": [
-          "Phramaha Boonthin Taosiri"
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPnDhYh3MJ6UWLHFSrsg2FYRxJhpsnT8aLlVNET=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOqi-P0q1H0n_p978l0pvrs2UXRFr_dsjM-jspO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNx0GP_9PhWJwh0ESJRlrH9STpTQ2cG4nmkS6sD=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipO7nfNhKRTkZvlRsTln8lAJi83Dj7hszqNGrCug=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTKQmz2XzoPHNhpCg8wb4AO1FuwDPQhUluSYmf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipObx5DN1QICADh7ppUBwWgo22LG8ZJVTOZmADxJ=s1600-w528-h800"
-        ]
+      "name": "Buddharama Temple Karlstad",
+      "location": {
+        "lat": 59.37468219999998,
+        "lng": 13.4885266
       },
-      "meta": {
-        "category": "vinaya-based",
-        "last_updated": "2021-05-06T14:16:39.368Z"
-      }
+      "address": "Hööksgatan 27B, 652 29 Karlstad, Sweden",
+      "phone": "+46 76 558 85 99",
+      "website": "https://buddharam.com/",
+      "tradition": "Theravada",
+      "monastics": [
+        "Phramaha Boonthin Taosiri"
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPnDhYh3MJ6UWLHFSrsg2FYRxJhpsnT8aLlVNET=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOqi-P0q1H0n_p978l0pvrs2UXRFr_dsjM-jspO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNx0GP_9PhWJwh0ESJRlrH9STpTQ2cG4nmkS6sD=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipO7nfNhKRTkZvlRsTln8lAJi83Dj7hszqNGrCug=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTKQmz2XzoPHNhpCg8wb4AO1FuwDPQhUluSYmf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipObx5DN1QICADh7ppUBwWgo22LG8ZJVTOZmADxJ=s1600-w528-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ8XC9rdKzXEYR-S0bU1YdYec",
+      "google_maps_url": "https://maps.google.com/?cid=16672639552100969977",
+      "category": "vinaya-based",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Almvägen 11, 136 71 Vendelsö, Sweden",
-        "geometry": {
-          "location": {
-            "lat": 59.2011324,
-            "lng": 18.1935074
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 59.2025439802915,
-              "lng": 18.1946144802915
-            },
-            "southwest": {
-              "lat": 59.1998460197085,
-              "lng": 18.1919165197085
-            }
-          }
-        },
-        "international_phone_number": "+46 8 776 33 09",
-        "name": "Wat Santinivas",
-        "place_id": "ChIJ0ZfKeRB8X0YRrdZ-Srz97D8",
-        "url": "https://maps.google.com/?cid=4606335504038680237",
-        "description": "",
-        "tradition": "Theravada, Thai",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMoYxjknt7feCbdzQvupaUuctXCPkR1uFUX3vwi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWd19M7tVguQS_upKbH-khPaa3ZzDmXLZjaCy6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5fprUcMA7hd__lydjODVB4jSXfsEyhGlAgNjE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0wWDZXUuc2CW3jUap5brxTDIi3Nynddy8SdV4=s1600-w712-h712",
-          "https://lh3.googleusercontent.com/p/AF1QipNUAhW_zf_tnF-6nS_tnhPdM76LJnUPQwb0Y4X3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNaOBLG42JipFonE3lfnd0qky31CtNuNMjf2iDW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZZIDS3H6GGs4_1CQte_i6rSCIA2QZwDyATEg3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMI-7pIksqz9COKH3VAA0Cc5kW6J9xBX_Fagjf2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4GQ2SDo7_-amrQqGxW-dHbkfKEtltp_3fzQ4G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7A8uIAa_qbT7OHlw0vVp0acoPusohIj91Dk0J=s1600-w800-h800"
-        ]
+      "name": "Wat Santinivas",
+      "location": {
+        "lat": 59.2011324,
+        "lng": 18.1935074
       },
-      "meta": {
-        "category": "vinaya-based",
-        "last_updated": "2021-05-06T14:27:39.368Z"
-      }
+      "address": "Almvägen 11, 136 71 Vendelsö, Sweden",
+      "phone": "+46 8 776 33 09",
+      "website": "",
+      "tradition": "Theravada, Thai",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMoYxjknt7feCbdzQvupaUuctXCPkR1uFUX3vwi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWd19M7tVguQS_upKbH-khPaa3ZzDmXLZjaCy6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5fprUcMA7hd__lydjODVB4jSXfsEyhGlAgNjE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0wWDZXUuc2CW3jUap5brxTDIi3Nynddy8SdV4=s1600-w712-h712",
+        "https://lh3.googleusercontent.com/p/AF1QipNUAhW_zf_tnF-6nS_tnhPdM76LJnUPQwb0Y4X3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNaOBLG42JipFonE3lfnd0qky31CtNuNMjf2iDW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZZIDS3H6GGs4_1CQte_i6rSCIA2QZwDyATEg3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMI-7pIksqz9COKH3VAA0Cc5kW6J9xBX_Fagjf2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4GQ2SDo7_-amrQqGxW-dHbkfKEtltp_3fzQ4G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7A8uIAa_qbT7OHlw0vVp0acoPusohIj91Dk0J=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ0ZfKeRB8X0YRrdZ-Srz97D8",
+      "google_maps_url": "https://maps.google.com/?cid=4606335504038680237",
+      "category": "vinaya-based",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Korsnäs gård, 147 92 Grödinge, Sweden",
-        "geometry": {
-          "location": {
-            "lat": 59.15423550000001,
-            "lng": 17.8030035
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 59.15561303029151,
-              "lng": 17.8043264302915
-            },
-            "southwest": {
-              "lat": 59.15291506970849,
-              "lng": 17.8016284697085
-            }
-          }
-        },
-        "international_phone_number": "+46 73 142 64 95",
-        "name": "Iskcon, Hare Krishna temple Stockholm",
-        "place_id": "ChIJ5dFeu-FtX0YRGK9v3FjBLB0",
-        "url": "https://maps.google.com/?cid=2102267713474768664",
-        "website": "http://www.krishna.se/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMGkAxp7L5N73mTuRcTTEZZimGTwBCaVe4i5E_K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-zeCGtk-GwqIsjWa0cRLHxIW5lntG5Cvh9R0w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdewy4FUm5MXA6fqjJf40JcmQEgU4Pa_DcuP5d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRmFlUezySdUVOf-8XAvEsOadbedGMXVAgvYKc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTja7XeKvefo76HvDZR96GU7FBUJMlV2YjFaes=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNu5saRlqyuEoRENxYJy2IZDtqQVhUR5LNjuING=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMH7dL_f15w6yMrEEBP6F9ILNL4hBDPTegvFpHm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzswrATT053gHRMQAts1G9gcNVMKkQKh6GsNiR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKLLRrbY0_JQYOgroTYutPsEMgUq6iFEFk_Y_j=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNt3ksolI3QTxNJRJ2s4hLhO9Bds0hbU2rE8LIz=s1600-w800-h800"
-        ]
+      "name": "Iskcon, Hare Krishna temple Stockholm",
+      "location": {
+        "lat": 59.15423550000001,
+        "lng": 17.8030035
       },
-      "meta": {
-        "category": "remove",
-        "last_updated": "2021-05-06T14:29:39.368Z"
-      }
+      "address": "Korsnäs gård, 147 92 Grödinge, Sweden",
+      "phone": "+46 73 142 64 95",
+      "website": "http://www.krishna.se/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMGkAxp7L5N73mTuRcTTEZZimGTwBCaVe4i5E_K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-zeCGtk-GwqIsjWa0cRLHxIW5lntG5Cvh9R0w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdewy4FUm5MXA6fqjJf40JcmQEgU4Pa_DcuP5d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRmFlUezySdUVOf-8XAvEsOadbedGMXVAgvYKc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTja7XeKvefo76HvDZR96GU7FBUJMlV2YjFaes=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNu5saRlqyuEoRENxYJy2IZDtqQVhUR5LNjuING=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMH7dL_f15w6yMrEEBP6F9ILNL4hBDPTegvFpHm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzswrATT053gHRMQAts1G9gcNVMKkQKh6GsNiR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKLLRrbY0_JQYOgroTYutPsEMgUq6iFEFk_Y_j=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNt3ksolI3QTxNJRJ2s4hLhO9Bds0hbU2rE8LIz=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ5dFeu-FtX0YRGK9v3FjBLB0",
+      "google_maps_url": "https://maps.google.com/?cid=2102267713474768664",
+      "category": "remove",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tempelvägen 5, 137 42 Västerhaninge, Sweden",
-        "geometry": {
-          "location": {
-            "lat": 59.1247122,
-            "lng": 18.1091263
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 59.1259192302915,
-              "lng": 18.11113583029151
-            },
-            "southwest": {
-              "lat": 59.12322126970849,
-              "lng": 18.1084378697085
-            }
-          }
-        },
-        "international_phone_number": "+46 8 500 655 00",
-        "name": "Stockholm Sweden Temple",
-        "place_id": "ChIJR_HSI6pkX0YR9lK2pdZVXWU",
-        "url": "https://maps.google.com/?cid=7304088551056364278",
-        "website": "https://www.churchofjesuschrist.org/temples/details/stockholm-sweden-temple?lang=swe",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOWUWYuTJe1_KciLdpagLiBpyGjoy6YtHoN6KkQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-3pbdPmo1Wj6cdIvp6zDHqAUotZLJlIbtykNU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWmWG2WrU--KKuYWR352uYaMTqP9lJ_JRFgxvf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPeePUW5Ty4shiccCKRD0_4xLcLNC91BRIN0_fi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoFhqKZL3lK4oodsbAGU3ecFqzjMbU1qbL0KRh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNycNJkfq3ZuLdHMxbtDjc6e5l6XRlMZXPAdHlf=s1600-w640-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOL-WUdfeytfvDO7zOBDzEiRu-BVfylkgMR9tyb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRBZ8oXQyVCIugDiRdtJQGK-bScLKy5-7HssQd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMnQ7i2rUV_awtszvqK-sSpZ0IainLtH7LxwTE6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1v0oLftwTuoNhqdmCc3vM9FH-xTeUg_Sr_473=s1600-w800-h800"
-        ]
+      "name": "Stockholm Sweden Temple",
+      "location": {
+        "lat": 59.1247122,
+        "lng": 18.1091263
       },
-      "meta": {
-        "category": "remove",
-        "last_updated": "2021-05-06T14:33:39.368Z"
-      }
+      "address": "Tempelvägen 5, 137 42 Västerhaninge, Sweden",
+      "phone": "+46 8 500 655 00",
+      "website": "https://www.churchofjesuschrist.org/temples/details/stockholm-sweden-temple?lang=swe",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOWUWYuTJe1_KciLdpagLiBpyGjoy6YtHoN6KkQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-3pbdPmo1Wj6cdIvp6zDHqAUotZLJlIbtykNU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWmWG2WrU--KKuYWR352uYaMTqP9lJ_JRFgxvf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPeePUW5Ty4shiccCKRD0_4xLcLNC91BRIN0_fi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoFhqKZL3lK4oodsbAGU3ecFqzjMbU1qbL0KRh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNycNJkfq3ZuLdHMxbtDjc6e5l6XRlMZXPAdHlf=s1600-w640-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOL-WUdfeytfvDO7zOBDzEiRu-BVfylkgMR9tyb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRBZ8oXQyVCIugDiRdtJQGK-bScLKy5-7HssQd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMnQ7i2rUV_awtszvqK-sSpZ0IainLtH7LxwTE6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1v0oLftwTuoNhqdmCc3vM9FH-xTeUg_Sr_473=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJR_HSI6pkX0YR9lK2pdZVXWU",
+      "google_maps_url": "https://maps.google.com/?cid=7304088551056364278",
+      "category": "remove",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Skiveien 123, 1415 Oppegård, Norway",
-        "geometry": {
-          "location": {
-            "lat": 59.78907659999999,
-            "lng": 10.7993332
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 59.79041743029151,
-              "lng": 10.8004524802915
-            },
-            "southwest": {
-              "lat": 59.7877194697085,
-              "lng": 10.7977545197085
-            }
-          }
-        },
-        "name": "Oslo Buddhist Vihara",
-        "place_id": "ChIJO3WbkBJoQUYRrNdkTmOiFOY",
-        "url": "https://maps.google.com/?cid=16579054675658332076",
-        "website": "http://www.tisarana.no/",       
-        "description": "",
-        "tradition": "Theravada, Sri Lankan",
-        "monastics": [
-          "Venerable Marathugoda Manirathana thero", "Venerable Unapane Pemananda thero"        
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Oslo Buddhist Vihara",
+      "location": {
+        "lat": 59.78907659999999,
+        "lng": 10.7993332
       },
-      "meta": {
-        "category": "vinaya-based",
-        "last_updated": "2021-05-06T14:45:11.709Z"
-      }
+      "address": "Skiveien 123, 1415 Oppegård, Norway",
+      "website": "http://www.tisarana.no/",
+      "tradition": "Theravada, Sri Lankan",
+      "monastics": [
+        "Venerable Marathugoda Manirathana thero",
+        "Venerable Unapane Pemananda thero"
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJO3WbkBJoQUYRrNdkTmOiFOY",
+      "google_maps_url": "https://maps.google.com/?cid=16579054675658332076",
+      "category": "vinaya-based",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Trondheimsveien 582, 2016 Frogner, Norway",
-        "geometry": {
-          "location": {
-            "lat": 60.0504528,
-            "lng": 11.1187226
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 60.0518212302915,
-              "lng": 11.1203078802915
-            },
-            "southwest": {
-              "lat": 60.04912326970849,
-              "lng": 11.1176099197085
-            }
-          }
-        },
-        "international_phone_number": "+47 63 82 01 30",
-        "name": "Wat Thai Norway",
-        "place_id": "ChIJuw6pZsF-QUYRAEbULUKkM_4",
-        "url": "https://maps.google.com/?cid=18317164713589622272",
-        "website": "http://watthainorway.net/Norge/index.php",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM5JePQTfxTryHPRnvl3WqCboURxjBB9R9K-ekK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3MByVLLEYsfNFktWPNtQdJOVzOYSHk24u92nS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZXcBVm1cnWY_IgxLfpcnx_D7abDDxU4VqnlE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMMbMCyWWVXypAbpaD6Z2cmrDj8v75KCf9fxwU5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwaotG1fIY5EghwKImXDPom5Mxcx6gqT76d20k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIWkjadswImn4Vna3kzmTJGeIQFkKAGwSMrLcD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO79kJautP-LtQNtX347rnBLVxK_IttnVXWrbYV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmQv95bXhQE6PF3VbSBMWHjqWMgOwMH3-uZwg4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMOtCdiknisqWrYISsi0pGvjp2bGix1rLRVk7uN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPhzFOl30HQkS2MaEaXR8apvRTUgSYrt7MF6Zrw=s1600-w800-h800"
-        ]
+      "name": "Wat Thai Norway",
+      "location": {
+        "lat": 60.0504528,
+        "lng": 11.1187226
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:59:39.368Z"
-      }
+      "address": "Trondheimsveien 582, 2016 Frogner, Norway",
+      "phone": "+47 63 82 01 30",
+      "website": "http://watthainorway.net/Norge/index.php",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM5JePQTfxTryHPRnvl3WqCboURxjBB9R9K-ekK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3MByVLLEYsfNFktWPNtQdJOVzOYSHk24u92nS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZXcBVm1cnWY_IgxLfpcnx_D7abDDxU4VqnlE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMMbMCyWWVXypAbpaD6Z2cmrDj8v75KCf9fxwU5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwaotG1fIY5EghwKImXDPom5Mxcx6gqT76d20k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIWkjadswImn4Vna3kzmTJGeIQFkKAGwSMrLcD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO79kJautP-LtQNtX347rnBLVxK_IttnVXWrbYV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmQv95bXhQE6PF3VbSBMWHjqWMgOwMH3-uZwg4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMOtCdiknisqWrYISsi0pGvjp2bGix1rLRVk7uN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPhzFOl30HQkS2MaEaXR8apvRTUgSYrt7MF6Zrw=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJuw6pZsF-QUYRAEbULUKkM_4",
+      "google_maps_url": "https://maps.google.com/?cid=18317164713589622272",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Aallokontie 25, 05450 Nurmijärvi, Finland",
-        "geometry": {
-          "location": {
-            "lat": 60.5482379,
-            "lng": 24.8988979
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 60.5497104802915,
-              "lng": 24.9000825802915
-            },
-            "southwest": {
-              "lat": 60.54701251970849,
-              "lng": 24.89738461970849
-            }
-          }
-        },
-        "international_phone_number": "+358 40 1756292",
-        "name": "Watbuddharama Finland",
-        "place_id": "ChIJt32XdDEGjkYRzpmMRaomtlE",
-        "url": "https://maps.google.com/?cid=5887936075586640334",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP-n1L90WMKw6fbfq5p8w0oVewR-bxxOokAWkzk=s1600-w600-h400",
-          "https://lh3.googleusercontent.com/p/AF1QipNPHeKRkF3qqCP2uNRMOd1jw_KXtb2k3Hg-ZZof=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOP_0gSilEWgDU-YZNmjwMA7anmSW6l6IFPVyD1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFngPli6YpKjZ7vIH46qGvzlufv8CqYFpuXo0P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNH_mwaPA_6bSuG7e7BbLbRgB3LhLoBZ4tmNhPN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPRFhQ_l4h-iPKFgbO8WPv0X_Lb45gQG7IccslU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqynTHPZ4Q_eMiSkPbedK4sjryfbQJLXAS8bKD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOK8c9cU0PJOzBbyJFy3auSxau8oKAxXiel8TGk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMbadc3k8ff3YwgrRHpmTvtbcvhJQuKbf3szfKL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3RcNDE2lPhnY5oi1aftK4O1jAvPeCXaQmbco=s1600-w800-h800"
-        ]
+      "name": "Watbuddharama Finland",
+      "location": {
+        "lat": 60.5482379,
+        "lng": 24.8988979
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:59:39.368Z"
-      }
+      "address": "Aallokontie 25, 05450 Nurmijärvi, Finland",
+      "phone": "+358 40 1756292",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP-n1L90WMKw6fbfq5p8w0oVewR-bxxOokAWkzk=s1600-w600-h400",
+        "https://lh3.googleusercontent.com/p/AF1QipNPHeKRkF3qqCP2uNRMOd1jw_KXtb2k3Hg-ZZof=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOP_0gSilEWgDU-YZNmjwMA7anmSW6l6IFPVyD1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFngPli6YpKjZ7vIH46qGvzlufv8CqYFpuXo0P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNH_mwaPA_6bSuG7e7BbLbRgB3LhLoBZ4tmNhPN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPRFhQ_l4h-iPKFgbO8WPv0X_Lb45gQG7IccslU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqynTHPZ4Q_eMiSkPbedK4sjryfbQJLXAS8bKD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOK8c9cU0PJOzBbyJFy3auSxau8oKAxXiel8TGk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMbadc3k8ff3YwgrRHpmTvtbcvhJQuKbf3szfKL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3RcNDE2lPhnY5oi1aftK4O1jAvPeCXaQmbco=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJt32XdDEGjkYRzpmMRaomtlE",
+      "google_maps_url": "https://maps.google.com/?cid=5887936075586640334",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2309 D St, Anchorage, AK 99503, USA",
-        "geometry": {
-          "location": {
-            "lat": 61.19949649999999,
-            "lng": -149.8880503
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 61.2008448802915,
-              "lng": -149.8869467697085
-            },
-            "southwest": {
-              "lat": 61.19814691970848,
-              "lng": -149.8896447302915
-            }
-          }
-        },
-        "international_phone_number": "+1 907-272-3699",
-        "name": "Wat Alaska Yanna Vararam",
-        "place_id": "ChIJUyyYM86XyFYRM5Sytlj2F50",
-        "url": "https://maps.google.com/?cid=11319787049301742643",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO1N1SXqhlgFUIEhCWFjfkAszSz-JDGHbaxk__M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMq58TslOy3N8qfzneBCczO7sVjVDdrh01YqcZ9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMMQCxPfazXfES2I2eI2ML5FLxmbruBoiCzOfNf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvtyiZux4oFq95c2kKw2sUQvIOSNhOqYKUo9rQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeSBqczv6SsxV3oYEiBPpRdj-bzPKLBMoH_uvO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_t4Xwuk0pLY0wJLZ67wyCDK6kkMKD61cPOCQN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvw9g6vQvv_kNfmXLXqF68_Xaoyhmv-S3OTA2Z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUj1jsJbVKxjR7CZscEkljRLm8v0CDQ56AqNAK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSp79wIt69QCO0DTi8X3npEnYYNjV-0XRvUvbU=s1600-w800-h800"
-        ]
+      "name": "Wat Alaska Yanna Vararam",
+      "location": {
+        "lat": 61.19949649999999,
+        "lng": -149.8880503
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:59:39.368Z"
-      }
+      "address": "2309 D St, Anchorage, AK 99503, USA",
+      "phone": "+1 907-272-3699",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO1N1SXqhlgFUIEhCWFjfkAszSz-JDGHbaxk__M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMq58TslOy3N8qfzneBCczO7sVjVDdrh01YqcZ9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMMQCxPfazXfES2I2eI2ML5FLxmbruBoiCzOfNf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvtyiZux4oFq95c2kKw2sUQvIOSNhOqYKUo9rQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeSBqczv6SsxV3oYEiBPpRdj-bzPKLBMoH_uvO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_t4Xwuk0pLY0wJLZ67wyCDK6kkMKD61cPOCQN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvw9g6vQvv_kNfmXLXqF68_Xaoyhmv-S3OTA2Z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUj1jsJbVKxjR7CZscEkljRLm8v0CDQ56AqNAK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSp79wIt69QCO0DTi8X3npEnYYNjV-0XRvUvbU=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJUyyYM86XyFYRM5Sytlj2F50",
+      "google_maps_url": "https://maps.google.com/?cid=11319787049301742643",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3840 O'Malley Rd, Anchorage, AK 99507, USA",
-        "geometry": {
-          "location": {
-            "lat": 61.1226588,
-            "lng": -149.8109992
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 61.12421168029151,
-              "lng": -149.8096498697085
-            },
-            "southwest": {
-              "lat": 61.1215137197085,
-              "lng": -149.8123478302915
-            }
-          }
-        },
-        "international_phone_number": "+1 907-344-9994",
-        "name": "Wat Dhamma Bhavana Buddhist Center",
-        "place_id": "ChIJpwP01veZyFYRBDY_KkecpbQ",
-        "url": "https://maps.google.com/?cid=13016982127449683460",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMjKkx3vkKMdQxOSg1MOHWU24y14Qr6n9Sp5ZWs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOxHnPJd8Mxso61m8iipRtKr4IV1Exw21DPUF3_=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipNVBJfH_wzjaZQROkbXA3HiKXFWdBQ8TJuDx9hV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6FT8wwO4Vd5cxtkw3WEInHZv1y0y7BQaskuT1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM01lvBYx1MOe1S4euTd6Kh6NHh-pRqUnAhbbL1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPB7JjxsHdWN3sofUfNX9zCAkq0xTqJpZd55TG4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPlzeBbujjPd-xG_b14zpf_S1cJijkiER9_Ngmp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOo8gKpJzdN0NMHTDjVKAUf24t2Hvn1jP0o55mU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6oB0lAV3y56p_br7Vd_4Mgilpxa2trZ6txKcp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOrfuRmDdPPkZQ80-e-zIXwwp37daP47EN5I8zp=s1600-w800-h640"
-        ]
+      "name": "Wat Dhamma Bhavana Buddhist Center",
+      "location": {
+        "lat": 61.1226588,
+        "lng": -149.8109992
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:59:39.368Z"
-      }
+      "address": "3840 O'Malley Rd, Anchorage, AK 99507, USA",
+      "phone": "+1 907-344-9994",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMjKkx3vkKMdQxOSg1MOHWU24y14Qr6n9Sp5ZWs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOxHnPJd8Mxso61m8iipRtKr4IV1Exw21DPUF3_=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipNVBJfH_wzjaZQROkbXA3HiKXFWdBQ8TJuDx9hV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6FT8wwO4Vd5cxtkw3WEInHZv1y0y7BQaskuT1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM01lvBYx1MOe1S4euTd6Kh6NHh-pRqUnAhbbL1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPB7JjxsHdWN3sofUfNX9zCAkq0xTqJpZd55TG4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPlzeBbujjPd-xG_b14zpf_S1cJijkiER9_Ngmp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOo8gKpJzdN0NMHTDjVKAUf24t2Hvn1jP0o55mU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6oB0lAV3y56p_br7Vd_4Mgilpxa2trZ6txKcp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOrfuRmDdPPkZQ80-e-zIXwwp37daP47EN5I8zp=s1600-w800-h640"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJpwP01veZyFYRBDY_KkecpbQ",
+      "google_maps_url": "https://maps.google.com/?cid=13016982127449683460",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4025 Raspberry Rd, Anchorage, AK 99502, USA",
-        "geometry": {
-          "location": {
-            "lat": 61.15941829999999,
-            "lng": -149.9546389
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 61.16062663029151,
-              "lng": -149.9532839697085
-            },
-            "southwest": {
-              "lat": 61.1579286697085,
-              "lng": -149.9559819302915
-            }
-          }
-        },
-        "name": "Sri Ganesha Temple of Alaska",
-        "place_id": "ChIJVwrfaw-YyFYRY-Mb8y2EZJQ",
-        "url": "https://maps.google.com/?cid=10692816748171486051",
-        "website": "https://m.facebook.com/GaneshaTempleOfAlaska/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN8kb3CMcabwA1a6QYyVxcrhE3_QwsaoSnFWAwP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZ6nxSL_2D_EL9ye4iOBVZ0ix-4mda5yvYX_Ay=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6xGHR7x-uOQ43xn0k51QbxTRP9yO1i1IIpouq=s1600-w800-h800"
-        ]
+      "name": "Sri Ganesha Temple of Alaska",
+      "location": {
+        "lat": 61.15941829999999,
+        "lng": -149.9546389
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:59:39.368Z"
-      }
+      "address": "4025 Raspberry Rd, Anchorage, AK 99502, USA",
+      "website": "https://m.facebook.com/GaneshaTempleOfAlaska/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN8kb3CMcabwA1a6QYyVxcrhE3_QwsaoSnFWAwP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZ6nxSL_2D_EL9ye4iOBVZ0ix-4mda5yvYX_Ay=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6xGHR7x-uOQ43xn0k51QbxTRP9yO1i1IIpouq=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVwrfaw-YyFYRY-Mb8y2EZJQ",
+      "google_maps_url": "https://maps.google.com/?cid=10692816748171486051",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1500 Heather Dr, Fairbanks, AK 99709, USA",
-        "geometry": {
-          "location": {
-            "lat": 64.7999006,
-            "lng": -147.9825105
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 64.80063335,
-              "lng": -147.98182125
-            },
-            "southwest": {
-              "lat": 64.79770235,
-              "lng": -147.98457825
-            }
-          }
-        },
-        "international_phone_number": "+1 907-479-0269",
-        "name": "Vatta Buddhajayanti 2600 Mahavihara Bhikkhuni",
-        "place_id": "ChIJF-W2a_hbMlERBdb3yctVya4",
-        "url": "https://maps.google.com/?cid=12594692166673487365",
-        "website": "http://buddhacatuparisainternationalfoundation.wordpress.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOiN6WQf1FSlB6OoPRhq5nVAJPVKfr-bm89O8XU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEcjxXFHMAU7aZ9D60-5tXIgJUVPZvr-xreIms=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9T1zR-7wXBHv3m7wCz_qMyb3WMVrruovl9HW6=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipNYqfopj4F2O310DLDBVheVqDLqLfyR40SrQKmZ=s1600-w800-h538",
-          "https://lh3.googleusercontent.com/p/AF1QipM55y2fOV5gW7rlIxZ5QHgVlyR2CfnrJZmPWPN5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHquFmQMwgAJvZeA542S-cltkXgARjKmbpGGE1=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOy8LlY_gAo-kpMQBNlrHxmEOxVumvYOQVmVmPO=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipMU-3yJAVTz7g7OrLxduPMp-G-iqqjqEIbykoii=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipMnyCikg9SMCWG2stc0R_LDZDryLTi_SkBfR3CF=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPvjc5aUk4zFANhwV_WwlnJWCMlMo28vF2Pp38y=s1600-w800-h720"
-        ]
+      "name": "Vatta Buddhajayanti 2600 Mahavihara Bhikkhuni",
+      "location": {
+        "lat": 64.7999006,
+        "lng": -147.9825105
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:59:39.368Z"
-      }
+      "address": "1500 Heather Dr, Fairbanks, AK 99709, USA",
+      "phone": "+1 907-479-0269",
+      "website": "http://buddhacatuparisainternationalfoundation.wordpress.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOiN6WQf1FSlB6OoPRhq5nVAJPVKfr-bm89O8XU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEcjxXFHMAU7aZ9D60-5tXIgJUVPZvr-xreIms=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9T1zR-7wXBHv3m7wCz_qMyb3WMVrruovl9HW6=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipNYqfopj4F2O310DLDBVheVqDLqLfyR40SrQKmZ=s1600-w800-h538",
+        "https://lh3.googleusercontent.com/p/AF1QipM55y2fOV5gW7rlIxZ5QHgVlyR2CfnrJZmPWPN5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHquFmQMwgAJvZeA542S-cltkXgARjKmbpGGE1=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOy8LlY_gAo-kpMQBNlrHxmEOxVumvYOQVmVmPO=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipMU-3yJAVTz7g7OrLxduPMp-G-iqqjqEIbykoii=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipMnyCikg9SMCWG2stc0R_LDZDryLTi_SkBfR3CF=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPvjc5aUk4zFANhwV_WwlnJWCMlMo28vF2Pp38y=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJF-W2a_hbMlERBdb3yctVya4",
+      "google_maps_url": "https://maps.google.com/?cid=12594692166673487365",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "69 Pix Rd, Letchworth Garden City SG6 1PZ, UK",
-        "geometry": {
-          "location": {
-            "lat": 51.9785645,
-            "lng": -0.2167881
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.9798941802915,
-              "lng": -0.215533619708498
-            },
-            "southwest": {
-              "lat": 51.9771962197085,
-              "lng": -0.218231580291502
-            }
-          }
-        },
-        "international_phone_number": "+44 7983 466105",
-        "name": "Letchworth Dhamma Nikethanaya Buddhist Temple",
-        "place_id": "ChIJQRzjjF8ydkgRipAMH2nxYuU",
-        "url": "https://maps.google.com/?cid=16529039016197918858",
-        "website": "http://www.buddhistacademy.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNWixtn8EEHl8juH_TIjq-eqHalGaTdYJYttOM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPp7CkgGAXDdrD57_vQe3zFF8fuoXxELSf4bkw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoPGSccUVeuOnf3jL2w3w_mBMEEheDPZwH5Nw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZgVarJQZ6NyVOhJuKTtJLFa9umPJAdeiwW8c=s1600-w800-h663",
-          "https://lh3.googleusercontent.com/p/AF1QipMMjYbRmUGB8HWRjAdfGGvoRGdbWzId8Wqe-YI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPklN5IgJd-SQgDy35FsV3bEN1-IJfYlOGspk8=s1600-w800-h737",
-          "https://lh3.googleusercontent.com/p/AF1QipPb_rb2bLOGXD-9zlw4dl0FJn2raqJmBkHd1Iw=s1600-w800-h714",
-          "https://lh3.googleusercontent.com/p/AF1QipO5jhgXTrotpl63MuWAe8ty_7gBTNxd7sw5CxQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMmnL9rhtoZxy6H5kfdHt7m0gKL02YRTqj9ZOQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNosAx-C7u2hp0uUJJ7xsuk4Vc5Q1ADzjU0NmM=s1600-w800-h683"
-        ]
+      "name": "Letchworth Dhamma Nikethanaya Buddhist Temple",
+      "location": {
+        "lat": 51.9785645,
+        "lng": -0.2167881
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:59:39.368Z"
-      }
+      "address": "69 Pix Rd, Letchworth Garden City SG6 1PZ, UK",
+      "phone": "+44 7983 466105",
+      "website": "http://www.buddhistacademy.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNWixtn8EEHl8juH_TIjq-eqHalGaTdYJYttOM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPp7CkgGAXDdrD57_vQe3zFF8fuoXxELSf4bkw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoPGSccUVeuOnf3jL2w3w_mBMEEheDPZwH5Nw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZgVarJQZ6NyVOhJuKTtJLFa9umPJAdeiwW8c=s1600-w800-h663",
+        "https://lh3.googleusercontent.com/p/AF1QipMMjYbRmUGB8HWRjAdfGGvoRGdbWzId8Wqe-YI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPklN5IgJd-SQgDy35FsV3bEN1-IJfYlOGspk8=s1600-w800-h737",
+        "https://lh3.googleusercontent.com/p/AF1QipPb_rb2bLOGXD-9zlw4dl0FJn2raqJmBkHd1Iw=s1600-w800-h714",
+        "https://lh3.googleusercontent.com/p/AF1QipO5jhgXTrotpl63MuWAe8ty_7gBTNxd7sw5CxQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMmnL9rhtoZxy6H5kfdHt7m0gKL02YRTqj9ZOQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNosAx-C7u2hp0uUJJ7xsuk4Vc5Q1ADzjU0NmM=s1600-w800-h683"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJQRzjjF8ydkgRipAMH2nxYuU",
+      "google_maps_url": "https://maps.google.com/?cid=16529039016197918858",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

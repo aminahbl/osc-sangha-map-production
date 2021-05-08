@@ -1,1874 +1,1495 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "22 Castle Peak Road (Lam Tei), Tuen Mun, Hong Kong",
-        "geometry": {
-          "location": {
-            "lat": 22.420355,
-            "lng": 113.984492
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.4219068302915,
-              "lng": 113.9856003802915
-            },
-            "southwest": {
-              "lat": 22.4192088697085,
-              "lng": 113.9829024197085
-            }
-          }
-        },
-        "international_phone_number": "+852 2461 9566",
-        "name": "Madam Lau Kam Lung Secondary School of Miu Fat Buddhist Monastery",
-        "place_id": "ChIJGykmx-76AzQRDAOYa4HgDvs",
-        "url": "https://maps.google.com/?cid=18090643599654388492",
-        "website": "http://www.lkl.edu.hk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPPjym0oe5vehEby_XunRX-SGQDcJ9GRiy5mRwO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5O7xd_FmJKqhGgKni9YTdZRGcjsuFm_BJoOly=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxeCZgKd2voHhPo_KjJ7XVkVIFx2RsCx10m6rN=s1600-w625-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCEEJfcA6axKoQMsXi2Tb2LlbKPYZk7KRd6Gb-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNyKjQjNjWPkjhEM2IxgupB477FcXJePK6gFp5p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQitQncE-55K2RtyJ3HQvIzDbNvLueYb-Kke7s=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOx4SdOAyYzDOke42Kq2wE4qIBlR8Fi4bSIpyB4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsLKbhr3M1YLnnBfgiiFP4TLi4_Eq-8VHmjx1g=s1600-w657-h796",
-          "https://lh3.googleusercontent.com/p/AF1QipPuUw3sNpcqKA0fP2SjVwxECoJjD9xZezu_Jj2h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPNSBy4DC4NJ16lG5c3cbjoDdic5cbWC1ECxMl=s1600-w800-h800"
-        ]
+      "name": "Madam Lau Kam Lung Secondary School of Miu Fat Buddhist Monastery",
+      "location": {
+        "lat": 22.420355,
+        "lng": 113.984492
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "22 Castle Peak Road (Lam Tei), Tuen Mun, Hong Kong",
+      "phone": "+852 2461 9566",
+      "website": "http://www.lkl.edu.hk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPPjym0oe5vehEby_XunRX-SGQDcJ9GRiy5mRwO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5O7xd_FmJKqhGgKni9YTdZRGcjsuFm_BJoOly=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxeCZgKd2voHhPo_KjJ7XVkVIFx2RsCx10m6rN=s1600-w625-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCEEJfcA6axKoQMsXi2Tb2LlbKPYZk7KRd6Gb-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNyKjQjNjWPkjhEM2IxgupB477FcXJePK6gFp5p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQitQncE-55K2RtyJ3HQvIzDbNvLueYb-Kke7s=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOx4SdOAyYzDOke42Kq2wE4qIBlR8Fi4bSIpyB4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsLKbhr3M1YLnnBfgiiFP4TLi4_Eq-8VHmjx1g=s1600-w657-h796",
+        "https://lh3.googleusercontent.com/p/AF1QipPuUw3sNpcqKA0fP2SjVwxECoJjD9xZezu_Jj2h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPNSBy4DC4NJ16lG5c3cbjoDdic5cbWC1ECxMl=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGykmx-76AzQRDAOYa4HgDvs",
+      "google_maps_url": "https://maps.google.com/?cid=18090643599654388492",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3 Av. do Gen. Castelo Branco, Macao",
-        "geometry": {
-          "location": {
-            "lat": 22.2073655,
-            "lng": 113.5456719
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.2087491302915,
-              "lng": 113.5470505802915
-            },
-            "southwest": {
-              "lat": 22.20605116970849,
-              "lng": 113.5443526197085
-            }
-          }
-        },
-        "international_phone_number": "+853 2878 1633",
-        "name": "Chee Hon Monastery",
-        "place_id": "ChIJu48QgkF7ATQRWrgqHoUMXXc",
-        "url": "https://maps.google.com/?cid=8601044629223815258",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Chee Hon Monastery",
+      "location": {
+        "lat": 22.2073655,
+        "lng": 113.5456719
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "3 Av. do Gen. Castelo Branco, Macao",
+      "phone": "+853 2878 1633",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJu48QgkF7ATQRWrgqHoUMXXc",
+      "google_maps_url": "https://maps.google.com/?cid=8601044629223815258",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Luohu District, Shenzhen, Guangdong Province, China",
-        "geometry": {
-          "location": {
-            "lat": 22.577848,
-            "lng": 114.181528
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.5792111302915,
-              "lng": 114.1828327802915
-            },
-            "southwest": {
-              "lat": 22.5765131697085,
-              "lng": 114.1801348197085
-            }
-          }
-        },
-        "international_phone_number": "+86 755 2573 7095",
-        "name": "Hongfa Temple",
-        "place_id": "ChIJAQ084twKBDQRgYpTCn-y5CM",
-        "url": "https://maps.google.com/?cid=2586388344721345153",
-        "website": "https://www.hongfasi.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNYRQJdqYyA6ukQxjmSfYtVNYuAGHv8nVBKwYbz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJwiWJHNV_HMUFH9X3VxH5BPLbzByjjBjjaRTz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqCIAwqJKKwQvzuXv3WB8fIeEZFh9THn3xDiP8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_WZfHCxgqweYlrEESLoOaN3apEK-p67iVFYVj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3-6lr9QAAJkgYIIBEEo5IlmJgAHMO9sla9Zg1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqPWbvaHpsAxaBTQQ6W-T_xW0xZku5ySBTAwK9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP61byig_swAHQOWDbBpFPPur0y2KnQ9QoqdhdI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMFQVGBNVw-oazO3EsBmSOm3sCC9x8NI6jRnkxd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNb91sCIVOfl1hdnw9_N4zVdXwAMn56Q7Ylsces=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMm-dbpsusQfjU3AbLH7sswWYEEH7iQayVKeJok=s1600-w800-h800"
-        ]
+      "name": "Hongfa Temple",
+      "location": {
+        "lat": 22.577848,
+        "lng": 114.181528
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Luohu District, Shenzhen, Guangdong Province, China",
+      "phone": "+86 755 2573 7095",
+      "website": "https://www.hongfasi.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNYRQJdqYyA6ukQxjmSfYtVNYuAGHv8nVBKwYbz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJwiWJHNV_HMUFH9X3VxH5BPLbzByjjBjjaRTz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqCIAwqJKKwQvzuXv3WB8fIeEZFh9THn3xDiP8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_WZfHCxgqweYlrEESLoOaN3apEK-p67iVFYVj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3-6lr9QAAJkgYIIBEEo5IlmJgAHMO9sla9Zg1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqPWbvaHpsAxaBTQQ6W-T_xW0xZku5ySBTAwK9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP61byig_swAHQOWDbBpFPPur0y2KnQ9QoqdhdI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMFQVGBNVw-oazO3EsBmSOm3sCC9x8NI6jRnkxd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNb91sCIVOfl1hdnw9_N4zVdXwAMn56Q7Ylsces=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMm-dbpsusQfjU3AbLH7sswWYEEH7iQayVKeJok=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJAQ084twKBDQRgYpTCn-y5CM",
+      "google_maps_url": "https://maps.google.com/?cid=2586388344721345153",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "119 Pok Fu Lam Rd, Pok Fu Lam, Hong Kong",
-        "geometry": {
-          "location": {
-            "lat": 22.274871,
-            "lng": 114.1293246
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.2762912802915,
-              "lng": 114.1309181302915
-            },
-            "southwest": {
-              "lat": 22.2735933197085,
-              "lng": 114.1282201697085
-            }
-          }
-        },
-        "international_phone_number": "+852 2817 9005",
-        "name": "Kai Ming Temple",
-        "place_id": "ChIJE46wSZL_AzQRzpARsgzzA7c",
-        "url": "https://maps.google.com/?cid=13187651369723597006",
-        "website": "https://kaimingtemple.business.site/?utm_source=gmb&utm_medium=referral",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOzE2nRXNSp8Rcb-Z6S9lfmojTwRQtZr5Ukx7lx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPq5RAjEwFpyAENyDaXPIA-fulzSEJxcDWiL3mD=s1600-w800-h664",
-          "https://lh3.googleusercontent.com/p/AF1QipN2ETkTMpeZQHSHy47bo8WpWbRBJHMg8U7hVihn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmcdB7wlGHrcdkZw6mZ2Wpc6MtD-Tqb45whxGS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4gJv4efmRq_iIFlcqlhbpWSQB4jBNwWa-p2L0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdskWw3WX2QHISF90eP4SQ8lldCtiFkCswtNkC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXI4whlCDulq3fp1QmApH92WYVmkcPe57FP7bW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPoJrp2pYFq40xEvKpzgGMwYK6ZYdMzyyVE5hp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcUC3NNgYGdiRY5gMLKQQbWGW0ObRvZZB6m3da=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOAwHqsGGAsdM5BalW4qKtvH1kkk80b22NMoa5j=s1600-w800-h800"
-        ]
+      "name": "Kai Ming Temple",
+      "location": {
+        "lat": 22.274871,
+        "lng": 114.1293246
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "119 Pok Fu Lam Rd, Pok Fu Lam, Hong Kong",
+      "phone": "+852 2817 9005",
+      "website": "https://kaimingtemple.business.site/?utm_source=gmb&utm_medium=referral",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOzE2nRXNSp8Rcb-Z6S9lfmojTwRQtZr5Ukx7lx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPq5RAjEwFpyAENyDaXPIA-fulzSEJxcDWiL3mD=s1600-w800-h664",
+        "https://lh3.googleusercontent.com/p/AF1QipN2ETkTMpeZQHSHy47bo8WpWbRBJHMg8U7hVihn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmcdB7wlGHrcdkZw6mZ2Wpc6MtD-Tqb45whxGS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4gJv4efmRq_iIFlcqlhbpWSQB4jBNwWa-p2L0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdskWw3WX2QHISF90eP4SQ8lldCtiFkCswtNkC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXI4whlCDulq3fp1QmApH92WYVmkcPe57FP7bW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPoJrp2pYFq40xEvKpzgGMwYK6ZYdMzyyVE5hp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcUC3NNgYGdiRY5gMLKQQbWGW0ObRvZZB6m3da=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOAwHqsGGAsdM5BalW4qKtvH1kkk80b22NMoa5j=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJE46wSZL_AzQRzpARsgzzA7c",
+      "google_maps_url": "https://maps.google.com/?cid=13187651369723597006",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Surguja, Chhattisgarh 497111, India",
-        "geometry": {
-          "location": {
-            "lat": 22.82690779999999,
-            "lng": 83.26903999999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.8278846302915,
-              "lng": 83.27095233029151
-            },
-            "southwest": {
-              "lat": 22.82518666970849,
-              "lng": 83.26825436970849
-            }
-          }
-        },
-        "name": "Old Tibetan Buddhist monastery",
-        "place_id": "ChIJrTtMbqfriTkRvFHT9KWZtcA",
-        "url": "https://maps.google.com/?cid=13886173964122935740",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOQDPb8SDlHsSZE4I8aGr5ZddA_qWfvStRRNfrH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGxj43jRtX6gQMq3_toZVvYUUbFtBtZx5L2i1J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOaQdoHzsl5-sPaYdRbbVyI8dKIgJVGGMSd_o5C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMoKx7nFBYW0R4ZUF3BS_pvBbHtQ7tWTjvy8amJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfSXjOgEnJjEA5OAtSGENCYXc-LPDDfdHkeuJb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNbZ_1wOzlEMs8OhZR-pSTa2MRHyORedU_79GPp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVGsqucVNs1W45xDL6QqnKjeaE6hIxFZAWAUke=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM8va0y9JlqhYIQnWMNLKaYKyEdbLhH_Q63APQC=s1600-w800-h800"
-        ]
+      "name": "Old Tibetan Buddhist monastery",
+      "location": {
+        "lat": 22.82690779999999,
+        "lng": 83.26903999999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Surguja, Chhattisgarh 497111, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOQDPb8SDlHsSZE4I8aGr5ZddA_qWfvStRRNfrH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGxj43jRtX6gQMq3_toZVvYUUbFtBtZx5L2i1J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOaQdoHzsl5-sPaYdRbbVyI8dKIgJVGGMSd_o5C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMoKx7nFBYW0R4ZUF3BS_pvBbHtQ7tWTjvy8amJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfSXjOgEnJjEA5OAtSGENCYXc-LPDDfdHkeuJb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNbZ_1wOzlEMs8OhZR-pSTa2MRHyORedU_79GPp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVGsqucVNs1W45xDL6QqnKjeaE6hIxFZAWAUke=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM8va0y9JlqhYIQnWMNLKaYKyEdbLhH_Q63APQC=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJrTtMbqfriTkRvFHT9KWZtcA",
+      "google_maps_url": "https://maps.google.com/?cid=13886173964122935740",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kamleshwarpur, Chhattisgarh 497111, India",
-        "geometry": {
-          "location": {
-            "lat": 22.8210058,
-            "lng": 83.2772684
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.8222814302915,
-              "lng": 83.27871573029151
-            },
-            "southwest": {
-              "lat": 22.8195834697085,
-              "lng": 83.27601776970849
-            }
-          }
-        },
-        "name": "GYALTON KARYING DUBDE LING (GKDL) Monastery, Camp # 3, Kamleshwarpur",
-        "place_id": "ChIJF5FfKvLqiTkRxub_OrkuqGk",
-        "url": "https://maps.google.com/?cid=7613386543163500230",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPdtW2WWup7dsLdt0-s68Rf6UwTrt2tYpq44mQp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNG5or2w6hJpE4aQlCDoBf6IMOGKyZ51Bz-iZ3a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7OBC7LBGZz1nSxWsPaOHY6vKyruoF-YskzMvf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOiVyLQ709Yo5-Ns9OOkhnGhtuuiZVDF4vSb0iM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGAtyFs6LWAzu3DF3--h97swouQbujnL83OjF6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2n-tDj0QDqcMZCQFtuNBWdytUOqpFR9BGaU-H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNl2phyQCBXauUETV-ngQO7H1yOVJxNIXSUIy-s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzvjNQUhzoLLD-CtnFkSSoxeXLfzOsiane6cqE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJatWXU2-vlAGgMtHinbVm99aoSzq8WDCNzRdG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNxmVO_qyULequdXVuJsr5-sUgEjewvFXi9aCvN=s1600-w800-h800"
-        ]
+      "name": "GYALTON KARYING DUBDE LING (GKDL) Monastery, Camp # 3, Kamleshwarpur",
+      "location": {
+        "lat": 22.8210058,
+        "lng": 83.2772684
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Kamleshwarpur, Chhattisgarh 497111, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPdtW2WWup7dsLdt0-s68Rf6UwTrt2tYpq44mQp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNG5or2w6hJpE4aQlCDoBf6IMOGKyZ51Bz-iZ3a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7OBC7LBGZz1nSxWsPaOHY6vKyruoF-YskzMvf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOiVyLQ709Yo5-Ns9OOkhnGhtuuiZVDF4vSb0iM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGAtyFs6LWAzu3DF3--h97swouQbujnL83OjF6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2n-tDj0QDqcMZCQFtuNBWdytUOqpFR9BGaU-H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNl2phyQCBXauUETV-ngQO7H1yOVJxNIXSUIy-s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzvjNQUhzoLLD-CtnFkSSoxeXLfzOsiane6cqE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJatWXU2-vlAGgMtHinbVm99aoSzq8WDCNzRdG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNxmVO_qyULequdXVuJsr5-sUgEjewvFXi9aCvN=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJF5FfKvLqiTkRxub_OrkuqGk",
+      "google_maps_url": "https://maps.google.com/?cid=7613386543163500230",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kamleshwarpur, Chhattisgarh 497111, India",
-        "geometry": {
-          "location": {
-            "lat": 22.8322788,
-            "lng": 83.28258389999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.8336249302915,
-              "lng": 83.2839296802915
-            },
-            "southwest": {
-              "lat": 22.8309269697085,
-              "lng": 83.28123171970849
-            }
-          }
-        },
-        "name": "Mainpat Monastery (camp No. 1)",
-        "place_id": "ChIJHWDvgujqiTkRMSHtj7J7Fkk",
-        "url": "https://maps.google.com/?cid=5266532821105451313",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNiXITr05wmFrt7F9Gol-JUHAkpO5vZHBriQgKv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpwd9s6EqKi9KiKJfMspYD1JuVV9ZaYZVNiJ1Z=s1600-w800-h719",
-          "https://lh3.googleusercontent.com/p/AF1QipMlM-U_2-WXH1OGTGvO3LCXkyfc-CH03FWtq_Ez=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlK1aRCfD1y5r5BW-wPmYuyvqUW0D2iDZPAybQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWoa_lwHfN6WB9sbKD269M7I48Zy2meWhvXZeK=s1600-w719-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPp8Uzmmq7o4RSPRt6-AvZo6YSwkXBLrk1dIsHi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPtP9ASeEpRQaYrU0TwotbGNmo_ETaNWywoG2Hc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4ZW6AqIAs28YHfJ2Y4i7S-RvdWNs-5UHP4uk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNizfgNPvAeMJaSxhnLlPxCtTCaAowr7xGzVe9W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvY9eqcmMumVAwi2qwm5PPfpkOFdg2NME5_gZV=s1600-w719-h800"
-        ]
+      "name": "Mainpat Monastery (camp No. 1)",
+      "location": {
+        "lat": 22.8322788,
+        "lng": 83.28258389999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Kamleshwarpur, Chhattisgarh 497111, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNiXITr05wmFrt7F9Gol-JUHAkpO5vZHBriQgKv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpwd9s6EqKi9KiKJfMspYD1JuVV9ZaYZVNiJ1Z=s1600-w800-h719",
+        "https://lh3.googleusercontent.com/p/AF1QipMlM-U_2-WXH1OGTGvO3LCXkyfc-CH03FWtq_Ez=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlK1aRCfD1y5r5BW-wPmYuyvqUW0D2iDZPAybQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWoa_lwHfN6WB9sbKD269M7I48Zy2meWhvXZeK=s1600-w719-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPp8Uzmmq7o4RSPRt6-AvZo6YSwkXBLrk1dIsHi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPtP9ASeEpRQaYrU0TwotbGNmo_ETaNWywoG2Hc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4ZW6AqIAs28YHfJ2Y4i7S-RvdWNs-5UHP4uk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNizfgNPvAeMJaSxhnLlPxCtTCaAowr7xGzVe9W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvY9eqcmMumVAwi2qwm5PPfpkOFdg2NME5_gZV=s1600-w719-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJHWDvgujqiTkRMSHtj7J7Fkk",
+      "google_maps_url": "https://maps.google.com/?cid=5266532821105451313",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Nepali Temple Rd, Bodh Gaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.695099,
-            "lng": 84.986722
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.6964162302915,
-              "lng": 84.98813758029151
-            },
-            "southwest": {
-              "lat": 24.6937182697085,
-              "lng": 84.9854396197085
-            }
-          }
-        },
-        "name": "Tamang Buddhist Monastery",
-        "place_id": "ChIJqYrikJct8zkRnj1lnWBkKAw",
-        "url": "https://maps.google.com/?cid=876060493643857310",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNqmfjSphJv94rfschT74m71ncxQ0wdxoLkTAGl=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOn8d7RGn2r_pd2KvhNUlZWYDsvR3bPgJloGoAs=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOCi_kI4D6_rlXOcHouE4FxhZuSmdVon18PsVt0=s1600-w800-h800"
-        ]
+      "name": "Tamang Buddhist Monastery",
+      "location": {
+        "lat": 24.695099,
+        "lng": 84.986722
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Nepali Temple Rd, Bodh Gaya, Bihar 824231, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNqmfjSphJv94rfschT74m71ncxQ0wdxoLkTAGl=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOn8d7RGn2r_pd2KvhNUlZWYDsvR3bPgJloGoAs=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOCi_kI4D6_rlXOcHouE4FxhZuSmdVon18PsVt0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqYrikJct8zkRnj1lnWBkKAw",
+      "google_maps_url": "https://maps.google.com/?cid=876060493643857310",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bodh Gaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.697212,
-            "lng": 84.9900476
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.6985371802915,
-              "lng": 84.99148363029151
-            },
-            "southwest": {
-              "lat": 24.6958392197085,
-              "lng": 84.98878566970849
-            }
-          }
-        },
-        "name": "Tibetan Temple",
-        "place_id": "ChIJJflPhVws8zkRkm3IWwUYdOw",
-        "url": "https://maps.google.com/?cid=17038269701543194002",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNQru6oH9r87vKoHAYc4QSG1yUQNxZmhkbVrgXm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZ85DZxOWh6Sw4k9g3l2g5oBxsOeq695yywGHv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMR9uDiyNor4yEMP1l-BX3urnpYeyT9fsU3B3qd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAeJmN1_D7aVbsZ0K2cwH3XxpnU39wDeXZTUoV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNiIL3WSDB4u6wXOhsILULf1NsrZWzCLaoo5SL0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2bjINCTuGMldsVvajL8Q3vlJckF7eqKQ7cyZ7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJnHm0Nro7RAPnbCYmU7Aqv0ciUUH4j1TfyITF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPIySgw_FsPBEQUVRi3Ifxp4j1hHlIaF5kt536Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_OWSIx5EUaGPQ4HTUcVV64YeMgEv-lReysfPZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkAOeeHui5ebWR01NB0IQtXwHyRDMHnLQI5WAp=s1600-w800-h800"
-        ]
+      "name": "Tibetan Temple",
+      "location": {
+        "lat": 24.697212,
+        "lng": 84.9900476
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Bodh Gaya, Bihar 824231, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNQru6oH9r87vKoHAYc4QSG1yUQNxZmhkbVrgXm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZ85DZxOWh6Sw4k9g3l2g5oBxsOeq695yywGHv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMR9uDiyNor4yEMP1l-BX3urnpYeyT9fsU3B3qd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAeJmN1_D7aVbsZ0K2cwH3XxpnU39wDeXZTUoV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNiIL3WSDB4u6wXOhsILULf1NsrZWzCLaoo5SL0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2bjINCTuGMldsVvajL8Q3vlJckF7eqKQ7cyZ7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJnHm0Nro7RAPnbCYmU7Aqv0ciUUH4j1TfyITF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPIySgw_FsPBEQUVRi3Ifxp4j1hHlIaF5kt536Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_OWSIx5EUaGPQ4HTUcVV64YeMgEv-lReysfPZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkAOeeHui5ebWR01NB0IQtXwHyRDMHnLQI5WAp=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJJflPhVws8zkRkm3IWwUYdOw",
+      "google_maps_url": "https://maps.google.com/?cid=17038269701543194002",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "80 feet statue Rd, Bodh Gaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.6926753,
-            "lng": 84.98352299999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.6940183802915,
-              "lng": 84.9849060302915
-            },
-            "southwest": {
-              "lat": 24.6913204197085,
-              "lng": 84.98220806970849
-            }
-          }
-        },
-        "name": "Royal Bhutanese Monastery",
-        "place_id": "ChIJo2XoT1gs8zkRghxFjZLn6fQ",
-        "url": "https://maps.google.com/?cid=17647891231449357442",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN7t0fTULV2Vyp4Xj80hHWIVu6FKT2CoXAuLZ_A=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN7z2lQi71stCa7UxQYx7LonPp44xp8cYqX7O_l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMPofPOsKEsPe4zc54DSV3M4ENysLlanl2aI0sz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOY_gOKiwy3FkZ2-KtcPDYz3KYZTQcJxpBxsk3c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpnh-fJzYQwxLymwIZ5AAPTWGozC42g_XxvgYc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzuraVzi-Vvj-dI-tx2i0k8BsIR7D3gladg096=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZI9Zf9MSbsU5oEjG6OClOoO_X1M1vfWF-E_ND=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3hjl-CY-8xIyyxAuImRcuIiAouXuS9tb0zqqK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNl7VGHLlcgCYRd2tsmsfRiaNAHXW2YlnCeywsP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNnhboPLczEPnhh5gc-SgJQg4QmdZnWoWn00H-u=s1600-w800-h800"
-        ]
+      "name": "Royal Bhutanese Monastery",
+      "location": {
+        "lat": 24.6926753,
+        "lng": 84.98352299999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "80 feet statue Rd, Bodh Gaya, Bihar 824231, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN7t0fTULV2Vyp4Xj80hHWIVu6FKT2CoXAuLZ_A=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN7z2lQi71stCa7UxQYx7LonPp44xp8cYqX7O_l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMPofPOsKEsPe4zc54DSV3M4ENysLlanl2aI0sz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOY_gOKiwy3FkZ2-KtcPDYz3KYZTQcJxpBxsk3c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpnh-fJzYQwxLymwIZ5AAPTWGozC42g_XxvgYc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzuraVzi-Vvj-dI-tx2i0k8BsIR7D3gladg096=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZI9Zf9MSbsU5oEjG6OClOoO_X1M1vfWF-E_ND=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3hjl-CY-8xIyyxAuImRcuIiAouXuS9tb0zqqK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNl7VGHLlcgCYRd2tsmsfRiaNAHXW2YlnCeywsP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNnhboPLczEPnhh5gc-SgJQg4QmdZnWoWn00H-u=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJo2XoT1gs8zkRghxFjZLn6fQ",
+      "google_maps_url": "https://maps.google.com/?cid=17647891231449357442",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Berma Temple,, Bodh Gaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.6941299,
-            "lng": 84.9861597
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.69553763029151,
-              "lng": 84.9875243302915
-            },
-            "southwest": {
-              "lat": 24.6928396697085,
-              "lng": 84.9848263697085
-            }
-          }
-        },
-        "name": "Great HolyLand Monastery",
-        "place_id": "ChIJcQjMblks8zkRUfDKhxMWgaU",
-        "url": "https://maps.google.com/?cid=11925837561392197713",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO-bITnDzgs401UGm9h27ohPZwUGRehn7Lw0zHo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1HWBnbzpvO9kvNvonipkSxKMZ9ZXlw4mdtbav=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2AA1OJFO_8buqviCZRRQoL_zhTW0f-CN5zMwl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZKE8Ng9bQwAe9EV5Ss-xSmHUtLrWpYsmjWAfd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1_Pqyvw7hJTfRsiIHlqM9cZsw18OxbPupIde-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWTJTjXNziWbvyS3gt_efDCSEBUEr9hAI6su1r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO59oJ9TAtc0NTVGr4y9yx7r2LqMyPbI2RJxfnO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkdiSn6T1hRVF3n8n8KdZX7PNNq9olaGlLqUOg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLrmF68AtIvioiviGi1AVDtwZmUa40H4vKpEEr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvB5YafAHnj8kTGeaeuVNQxTAfmkR2UqsV2e5n=s1600-w800-h800"
-        ]
+      "name": "Great HolyLand Monastery",
+      "location": {
+        "lat": 24.6941299,
+        "lng": 84.9861597
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Berma Temple,, Bodh Gaya, Bihar 824231, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO-bITnDzgs401UGm9h27ohPZwUGRehn7Lw0zHo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1HWBnbzpvO9kvNvonipkSxKMZ9ZXlw4mdtbav=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2AA1OJFO_8buqviCZRRQoL_zhTW0f-CN5zMwl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZKE8Ng9bQwAe9EV5Ss-xSmHUtLrWpYsmjWAfd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1_Pqyvw7hJTfRsiIHlqM9cZsw18OxbPupIde-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWTJTjXNziWbvyS3gt_efDCSEBUEr9hAI6su1r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO59oJ9TAtc0NTVGr4y9yx7r2LqMyPbI2RJxfnO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkdiSn6T1hRVF3n8n8KdZX7PNNq9olaGlLqUOg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLrmF68AtIvioiviGi1AVDtwZmUa40H4vKpEEr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvB5YafAHnj8kTGeaeuVNQxTAfmkR2UqsV2e5n=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJcQjMblks8zkRUfDKhxMWgaU",
+      "google_maps_url": "https://maps.google.com/?cid=11925837561392197713",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bodh Gaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.7018288,
-            "lng": 84.993112
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.7032229302915,
-              "lng": 84.99419498029151
-            },
-            "southwest": {
-              "lat": 24.7005249697085,
-              "lng": 84.99149701970849
-            }
-          }
-        },
-        "name": "Burmese Monastery",
-        "place_id": "ChIJISvIkUIs8zkR4Az5QTwAD8w",
-        "url": "https://maps.google.com/?cid=14703971567192837344",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO4zTgkdPVXjE5Tk2PjYf800KMNeDizEBkEFObd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO412mcB_Huq_V3lZeqquQoM_K-jHYRIJ1qElLA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvN8TlD_BfQieWSyfKA9aU1E_soGk820TivHEg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7908wh-CMj1-4m_hPJMj3toU1uty5C3np6Nrt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXsGtKJ7ZOntQfbFJEE9DiKKMgT3F-He_pmc0I=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNt554oM8_RMU6IhAWHF4rDCVyNgjb_E4jh0vU5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCoGsNZ0CbvmdxYE92B_9sFMF3CqmKmDxMLuPp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkfySmccokFvD_jydd-1HlqpUMbH0reXe7YNVD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzzaN3TI3ihH-5H97-3-otrNku5FBpnnN0kQ0X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNzVmtCNmkrIpdqFbM4k2-9BFgCtk5UtnzMrSBQ=s1600-w800-h800"
-        ]
+      "name": "Burmese Monastery",
+      "location": {
+        "lat": 24.7018288,
+        "lng": 84.993112
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Bodh Gaya, Bihar 824231, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO4zTgkdPVXjE5Tk2PjYf800KMNeDizEBkEFObd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO412mcB_Huq_V3lZeqquQoM_K-jHYRIJ1qElLA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvN8TlD_BfQieWSyfKA9aU1E_soGk820TivHEg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7908wh-CMj1-4m_hPJMj3toU1uty5C3np6Nrt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXsGtKJ7ZOntQfbFJEE9DiKKMgT3F-He_pmc0I=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNt554oM8_RMU6IhAWHF4rDCVyNgjb_E4jh0vU5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCoGsNZ0CbvmdxYE92B_9sFMF3CqmKmDxMLuPp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkfySmccokFvD_jydd-1HlqpUMbH0reXe7YNVD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzzaN3TI3ihH-5H97-3-otrNku5FBpnnN0kQ0X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNzVmtCNmkrIpdqFbM4k2-9BFgCtk5UtnzMrSBQ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJISvIkUIs8zkR4Az5QTwAD8w",
+      "google_maps_url": "https://maps.google.com/?cid=14703971567192837344",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Belsar, Bodh Gaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.7028958,
-            "lng": 84.9828197
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.7042726802915,
-              "lng": 84.9840179302915
-            },
-            "southwest": {
-              "lat": 24.7015747197085,
-              "lng": 84.98131996970848
-            }
-          }
-        },
-        "name": "Tergar Monastery",
-        "place_id": "ChIJB_y4E2As8zkRMfdFbq-fbdg",
-        "url": "https://maps.google.com/?cid=15595296660472067889",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNFI7saRp8aWH4_UEYXXYNUgLPclGr12HBX38T9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvWQQ2W3Hn199vO9UL3CuieFgXqdOv-CbuWPeW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1ijyGIcINnSv5VxLS7szLDI3OniUPbkHP3p-B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyDy9l5zopI7csUCPMRD0thqfHiUU6Un5Ny8Dm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGNqNf2ZKOj9MFinrS6ErtbpYRi9XkqYy-GHOG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpK4kKxXiH40Ha67iNvB3PRpdlDbB-6WKtIrHu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOC-yX9efLEO3-m1VZ0Tp3o9A8z7w5tYpiOebn4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMum-jXcicQFBSweRZRFPdDNOeDFAAkcYmdXPQj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXR3h8ejRBAujnAVPz07YqghaTPVt38I62bayG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzxzA2Er4hsvkLZ9CiJf17MmFyWQe2jQBS6YRM=s1600-w800-h800"
-        ]
+      "name": "Tergar Monastery",
+      "location": {
+        "lat": 24.7028958,
+        "lng": 84.9828197
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Belsar, Bodh Gaya, Bihar 824231, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNFI7saRp8aWH4_UEYXXYNUgLPclGr12HBX38T9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvWQQ2W3Hn199vO9UL3CuieFgXqdOv-CbuWPeW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1ijyGIcINnSv5VxLS7szLDI3OniUPbkHP3p-B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyDy9l5zopI7csUCPMRD0thqfHiUU6Un5Ny8Dm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGNqNf2ZKOj9MFinrS6ErtbpYRi9XkqYy-GHOG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpK4kKxXiH40Ha67iNvB3PRpdlDbB-6WKtIrHu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOC-yX9efLEO3-m1VZ0Tp3o9A8z7w5tYpiOebn4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMum-jXcicQFBSweRZRFPdDNOeDFAAkcYmdXPQj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXR3h8ejRBAujnAVPz07YqghaTPVt38I62bayG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzxzA2Er4hsvkLZ9CiJf17MmFyWQe2jQBS6YRM=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJB_y4E2As8zkRMfdFbq-fbdg",
+      "google_maps_url": "https://maps.google.com/?cid=15595296660472067889",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bodh Gaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.69228,
-            "lng": 84.9844385
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.6936289802915,
-              "lng": 84.9857874802915
-            },
-            "southwest": {
-              "lat": 24.6909310197085,
-              "lng": 84.9830895197085
-            }
-          }
-        },
-        "name": "Royal Bhutan Monastery",
-        "place_id": "ChIJB-buslks8zkRNF_Al6pa0mc",
-        "url": "https://maps.google.com/?cid=7481141619752722228",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNwy5i19aJn3MXLoIksGEIGj1xRPjo88mRpUcq_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2Jv4KKILk_jFYb6wRWz7B6W2QWFqqfNH5Tn5w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5r_b231cdTsfazkMCfzbXXfUAEMcr2-4bu0BK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNEu2DaH9-9oKL2i2HhScFD_haE1nfWSk4rN8U3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmw0qoUEVNuk0Nma9h4e3i0tzRvxzbAeCig1Lk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNnM-ATJcTYffW0GaAMD5mGj0NXQ2GxXLM87Z8w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOG6C_w0Xa0y5kizP_dESuDBmDdNkk4uJrcZAq0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipObZWJzYzV3taEEEDuCVvi_Y0TGZK4YYNztVy41=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQksh4yR0y9FnzA0-qIGwTMdiRMKr8WZSbZO7N=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNE4X9yldQpT9gtxIXG0CMAL571yYHNWUkEtBE=s1600-w800-h800"
-        ]
+      "name": "Royal Bhutan Monastery",
+      "location": {
+        "lat": 24.69228,
+        "lng": 84.9844385
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Bodh Gaya, Bihar 824231, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNwy5i19aJn3MXLoIksGEIGj1xRPjo88mRpUcq_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2Jv4KKILk_jFYb6wRWz7B6W2QWFqqfNH5Tn5w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5r_b231cdTsfazkMCfzbXXfUAEMcr2-4bu0BK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNEu2DaH9-9oKL2i2HhScFD_haE1nfWSk4rN8U3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmw0qoUEVNuk0Nma9h4e3i0tzRvxzbAeCig1Lk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNnM-ATJcTYffW0GaAMD5mGj0NXQ2GxXLM87Z8w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOG6C_w0Xa0y5kizP_dESuDBmDdNkk4uJrcZAq0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipObZWJzYzV3taEEEDuCVvi_Y0TGZK4YYNztVy41=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQksh4yR0y9FnzA0-qIGwTMdiRMKr8WZSbZO7N=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNE4X9yldQpT9gtxIXG0CMAL571yYHNWUkEtBE=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJB-buslks8zkRNF_Al6pa0mc",
+      "google_maps_url": "https://maps.google.com/?cid=7481141619752722228",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bodh Gaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.6899213,
-            "lng": 84.9827889
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.6912627802915,
-              "lng": 84.98417808029151
-            },
-            "southwest": {
-              "lat": 24.6885648197085,
-              "lng": 84.98148011970851
-            }
-          }
-        },
-        "name": "Cambodian Monastery",
-        "place_id": "ChIJ99p5-Fcs8zkR7lIMsRBJXEc",
-        "url": "https://maps.google.com/?cid=5142065210588943086",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOyXeWX9xacTulWBWQaCD-GfJmXV5pc1vntN4WH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkMfkb8xgdnrfoNrI1is8nyYr44_nDfSe91F7Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqR4Vt3iaWCw0dBWil5q6L6DQC11WmjajUgtTW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMh8BB9tRnxpnZrJ00wFGHxQkA_LcTnyMOqneMl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmIA3CRiOxgxgsPCZswXW-eaQJR-4_yMpOvGtf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRF1gsYKXXrwu4Ty_o-N_QyxsruVmvoPVnuphI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6Z0aCh-FGEBICsHXk0uouORtgi2qhF6_77Ss5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUE_oi4Rj4tmF8ZnH0oA5iFqJKdPhScHl0wDx3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7-m9-vxncVMUE_8kOIafUTNDIB_SR618tkYQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeF-TOxFoNT4EQidxLPJqbSU_JZuHgcVfR7ziI=s1600-w800-h800"
-        ]
+      "name": "Cambodian Monastery",
+      "location": {
+        "lat": 24.6899213,
+        "lng": 84.9827889
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Bodh Gaya, Bihar 824231, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOyXeWX9xacTulWBWQaCD-GfJmXV5pc1vntN4WH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkMfkb8xgdnrfoNrI1is8nyYr44_nDfSe91F7Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqR4Vt3iaWCw0dBWil5q6L6DQC11WmjajUgtTW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMh8BB9tRnxpnZrJ00wFGHxQkA_LcTnyMOqneMl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmIA3CRiOxgxgsPCZswXW-eaQJR-4_yMpOvGtf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRF1gsYKXXrwu4Ty_o-N_QyxsruVmvoPVnuphI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6Z0aCh-FGEBICsHXk0uouORtgi2qhF6_77Ss5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUE_oi4Rj4tmF8ZnH0oA5iFqJKdPhScHl0wDx3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7-m9-vxncVMUE_8kOIafUTNDIB_SR618tkYQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeF-TOxFoNT4EQidxLPJqbSU_JZuHgcVfR7ziI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ99p5-Fcs8zkR7lIMsRBJXEc",
+      "google_maps_url": "https://maps.google.com/?cid=5142065210588943086",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mainpat, Chhattisgarh 497111, India",
-        "geometry": {
-          "location": {
-            "lat": 22.8112064,
-            "lng": 83.29852989999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.8127162802915,
-              "lng": 83.2997919802915
-            },
-            "southwest": {
-              "lat": 22.8100183197085,
-              "lng": 83.2970940197085
-            }
-          }
-        },
-        "name": "Karma Temple Camp No 2",
-        "place_id": "ChIJO3q7IarriTkRte5uFVmeWs4",
-        "url": "https://maps.google.com/?cid=14869371225165983413",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOzH_DiwaJiQDxV9nrxHkFz1_xMDPTwzEXhsKto=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-AhMf_MXZWXw65dcrNiyC3ercYLiwjIQvoaLi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKaeMrPUrZT1I2V_4wtdn6kQ37X2GB8Q0bC2S-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOxM_Yt6uWe8YA5xRBSes0NjzgznXamI7irE2P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBUFIjrK140SwAxTteCWex99S5VG0T-EmuLOhf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqTH22dL44SfpvyOqZ8dP0igKjWeWx4BBFrW2f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBmbU0yERI0qzBr46s9zn_zIG6ANJZ9e4FmER0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6ZnRiwwn-xTWnlgXUhEVJtS5-3_Lo4IL52zmb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipND3-V9Ye73V8Z8d6HXrNta_CdBsr-b5WAb_1-a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-ZQPJiZOLx0sYC91oJS-hLXzAgcqqE1ABCK3e=s1600-w800-h800"
-        ]
+      "name": "Karma Temple Camp No 2",
+      "location": {
+        "lat": 22.8112064,
+        "lng": 83.29852989999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Mainpat, Chhattisgarh 497111, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOzH_DiwaJiQDxV9nrxHkFz1_xMDPTwzEXhsKto=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-AhMf_MXZWXw65dcrNiyC3ercYLiwjIQvoaLi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKaeMrPUrZT1I2V_4wtdn6kQ37X2GB8Q0bC2S-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOxM_Yt6uWe8YA5xRBSes0NjzgznXamI7irE2P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBUFIjrK140SwAxTteCWex99S5VG0T-EmuLOhf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqTH22dL44SfpvyOqZ8dP0igKjWeWx4BBFrW2f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBmbU0yERI0qzBr46s9zn_zIG6ANJZ9e4FmER0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6ZnRiwwn-xTWnlgXUhEVJtS5-3_Lo4IL52zmb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipND3-V9Ye73V8Z8d6HXrNta_CdBsr-b5WAb_1-a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-ZQPJiZOLx0sYC91oJS-hLXzAgcqqE1ABCK3e=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJO3q7IarriTkRte5uFVmeWs4",
+      "google_maps_url": "https://maps.google.com/?cid=14869371225165983413",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Vidyasagar Sarani, Barabagan Rd, Bara Bagan, Nutan Pally, Purba Barisha, Kolkata, West Bengal 700063, India",
-        "geometry": {
-          "location": {
-            "lat": 22.4737465,
-            "lng": 88.3131554
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.4750488802915,
-              "lng": 88.3145220302915
-            },
-            "southwest": {
-              "lat": 22.47235091970849,
-              "lng": 88.31182406970848
-            }
-          }
-        },
-        "name": "Anand Buddhist Temple & Monastery",
-        "place_id": "ChIJ4wj1XmN6AjoR2nuQbwPOO7Y",
-        "url": "https://maps.google.com/?cid=13131315652680776666",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipON1EKOXLaQelgwT0F6IJbSxzjaqcVo8L3SBv2G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPb1zDiBavYgNlRjcw15Fb6GghQKiZI-PBOWvpy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNVSYi6Dqtt7a9LzWsQa-e-RY_jiGfaNnUUDE50=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8MPJnPrbBb26Pl0jHGjVSKpT3q7LMekwaOq94=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMerj-rDafB3LTHfjaQkWae75vbQI_3vupufSDt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOs_QGD2m1Wuyz4OlU8xagoY8Rwmw_Q5B2OY-HM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVAd4N2k0scid9QNDb3yo8jQVz-B0WXLdvPJRh=s1600-w800-h800"
-        ]
+      "name": "Anand Buddhist Temple & Monastery",
+      "location": {
+        "lat": 22.4737465,
+        "lng": 88.3131554
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Vidyasagar Sarani, Barabagan Rd, Bara Bagan, Nutan Pally, Purba Barisha, Kolkata, West Bengal 700063, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipON1EKOXLaQelgwT0F6IJbSxzjaqcVo8L3SBv2G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPb1zDiBavYgNlRjcw15Fb6GghQKiZI-PBOWvpy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNVSYi6Dqtt7a9LzWsQa-e-RY_jiGfaNnUUDE50=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8MPJnPrbBb26Pl0jHGjVSKpT3q7LMekwaOq94=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMerj-rDafB3LTHfjaQkWae75vbQI_3vupufSDt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOs_QGD2m1Wuyz4OlU8xagoY8Rwmw_Q5B2OY-HM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVAd4N2k0scid9QNDb3yo8jQVz-B0WXLdvPJRh=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ4wj1XmN6AjoR2nuQbwPOO7Y",
+      "google_maps_url": "https://maps.google.com/?cid=13131315652680776666",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ravangla, Sikkim 737139, India",
-        "geometry": {
-          "location": {
-            "lat": 27.3065811,
-            "lng": 88.3639986
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.3079898302915,
-              "lng": 88.36535123029151
-            },
-            "southwest": {
-              "lat": 27.3052918697085,
-              "lng": 88.3626532697085
-            }
-          }
-        },
-        "name": "Buddha Monastery",
-        "place_id": "ChIJVVVVFVWa5jkRg03ERplOqKo",
-        "url": "https://maps.google.com/?cid=12297165202759372163",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNBDGjbvsPobU6ldr-d5aG4jQJtd8wcdHZQRswX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_Hem7xcEdMk1He-aRszMr39Am57Z8tt8FUYeX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPH6iMAPFAOMplAuhxM2vl1ZzUyLM4Ek2SNsYB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdSXm77u5N3JNzG8UDC5NiZIgS_QyqRSdgB2jx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOetbHDCVwSJCeovDhDa6q2HzEDeuXmCyxFX6I1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVJ5elX-l5meg-EKeIUQieq2-AElh9MmORQYWw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-ZZUouV-k55t5lXrfhcvQB_PwJKE376jex9yf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmjQV1AoJXtSsW-sdOrLHfEoU6L980mY0oieUR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOdU_ZvQAuQJ4d_sGjETZrspi3B6K8WfESAoc9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODq2P0mhzNqcKNjnWXVQeYKj9Ly1hU5yNV0dEI=s1600-w800-h585"
-        ]
+      "name": "Buddha Monastery",
+      "location": {
+        "lat": 27.3065811,
+        "lng": 88.3639986
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Ravangla, Sikkim 737139, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNBDGjbvsPobU6ldr-d5aG4jQJtd8wcdHZQRswX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_Hem7xcEdMk1He-aRszMr39Am57Z8tt8FUYeX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPH6iMAPFAOMplAuhxM2vl1ZzUyLM4Ek2SNsYB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdSXm77u5N3JNzG8UDC5NiZIgS_QyqRSdgB2jx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOetbHDCVwSJCeovDhDa6q2HzEDeuXmCyxFX6I1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVJ5elX-l5meg-EKeIUQieq2-AElh9MmORQYWw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-ZZUouV-k55t5lXrfhcvQB_PwJKE376jex9yf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmjQV1AoJXtSsW-sdOrLHfEoU6L980mY0oieUR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOdU_ZvQAuQJ4d_sGjETZrspi3B6K8WfESAoc9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODq2P0mhzNqcKNjnWXVQeYKj9Ly1hU5yNV0dEI=s1600-w800-h585"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVVVVFVWa5jkRg03ERplOqKo",
+      "google_maps_url": "https://maps.google.com/?cid=12297165202759372163",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Madhusudan Marg, Unit-9, UNIT- 9, Bhubaneswar, Odisha 751022, India",
-        "geometry": {
-          "location": {
-            "lat": 20.2790264,
-            "lng": 85.8358689
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 20.2802938302915,
-              "lng": 85.8372037302915
-            },
-            "southwest": {
-              "lat": 20.2775958697085,
-              "lng": 85.8345057697085
-            }
-          }
-        },
-        "name": "Budhha Temple",
-        "place_id": "ChIJlWf5VVinGToRrbFsZ6RzNi0",
-        "url": "https://maps.google.com/?cid=3257918530396139949",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMCh9C85Xgk5KaPFpHoJUuxwnPVZdy8ZlVZ7Qg3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGsmQ2wA2WvcvqG72mCUZHxwWjVm4K5Ln5O-HW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9GmI0WNzv-WmriLSIVrJs9ppVJxW4vVFM4U10=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6ZzdyOwZvOby_BoUFP7vYRQHVAVw3i5W482c8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBBRcuivWPPYdUu9YAsNS3DgcgTigGkGO3Of8p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM8LYI9WvAWQGAJdjnHK2k0lK0oyLnKS26TwD1t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdxDOF1p8-T-I7O5MITybkV3e3-qIBDHCRiUAU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2ufM9ZmrtA4FeUbepcPXjG4hdACYgSWk-fcY7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTD_W8DGQ3uhrmK4gN8eyK0AoClGUfpjYEspt-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMp7SFePWONoTIn7F0cKG78N34cEf8dGERtOtxL=s1600-w800-h800"
-        ]
+      "name": "Budhha Temple",
+      "location": {
+        "lat": 20.2790264,
+        "lng": 85.8358689
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Madhusudan Marg, Unit-9, UNIT- 9, Bhubaneswar, Odisha 751022, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMCh9C85Xgk5KaPFpHoJUuxwnPVZdy8ZlVZ7Qg3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGsmQ2wA2WvcvqG72mCUZHxwWjVm4K5Ln5O-HW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9GmI0WNzv-WmriLSIVrJs9ppVJxW4vVFM4U10=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6ZzdyOwZvOby_BoUFP7vYRQHVAVw3i5W482c8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBBRcuivWPPYdUu9YAsNS3DgcgTigGkGO3Of8p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM8LYI9WvAWQGAJdjnHK2k0lK0oyLnKS26TwD1t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdxDOF1p8-T-I7O5MITybkV3e3-qIBDHCRiUAU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2ufM9ZmrtA4FeUbepcPXjG4hdACYgSWk-fcY7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTD_W8DGQ3uhrmK4gN8eyK0AoClGUfpjYEspt-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMp7SFePWONoTIn7F0cKG78N34cEf8dGERtOtxL=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJlWf5VVinGToRrbFsZ6RzNi0",
+      "google_maps_url": "https://maps.google.com/?cid=3257918530396139949",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Giant Buddha Rd, Bodh Gaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.6909878,
-            "lng": 84.9825851
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.6922122302915,
-              "lng": 84.98393043029151
-            },
-            "southwest": {
-              "lat": 24.6895142697085,
-              "lng": 84.98123246970849
-            }
-          }
-        },
-        "international_phone_number": "+91 631 220 0747",
-        "name": "Daijokyo Buddist Temple",
-        "place_id": "ChIJqSw3EVgs8zkRtKVXr-uC8dI",
-        "url": "https://maps.google.com/?cid=15200074166122816948",
-        "website": "http://www.daijokyo.or.jp/80-foot-buddha-statue/precincts.htm",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMJAz-N2TbeEqCuy7SSc4ROtULmeKJm9X_vOdhz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNT3kFyZMZuwoQY5EVYuDktXDlBiXa1Ji-FSB-k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPb4l0otMN1x7y8iSVicvTva3D5oUeCLdN48xGw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNN8QTpfZex-sk2CujSEbvOY74Svk4Elf75qRhp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3iD0nTfuxXBgYSVEZinZ0WZv8GRbDhL_3bXDd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNs_Rs4JHmyDiv9JaCmoHrwtNA3XIHo4399DGNk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9pqzcJVgtxR7Znz3J7afw8p-R3IH3PaaJELM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdVYzatzDLAOb6s_BaSwUTiw8DVzEF_UXwGlFS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXNeqa5wlELD_rxU_zbkMgjsUJwugkeb7aJK0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNbxMIeQbFQBdOogjmd1gRtXvN6wdLMy64bWkzD=s1600-w780-h800"
-        ]
+      "name": "Daijokyo Buddist Temple",
+      "location": {
+        "lat": 24.6909878,
+        "lng": 84.9825851
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Giant Buddha Rd, Bodh Gaya, Bihar 824231, India",
+      "phone": "+91 631 220 0747",
+      "website": "http://www.daijokyo.or.jp/80-foot-buddha-statue/precincts.htm",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMJAz-N2TbeEqCuy7SSc4ROtULmeKJm9X_vOdhz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNT3kFyZMZuwoQY5EVYuDktXDlBiXa1Ji-FSB-k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPb4l0otMN1x7y8iSVicvTva3D5oUeCLdN48xGw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNN8QTpfZex-sk2CujSEbvOY74Svk4Elf75qRhp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3iD0nTfuxXBgYSVEZinZ0WZv8GRbDhL_3bXDd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNs_Rs4JHmyDiv9JaCmoHrwtNA3XIHo4399DGNk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9pqzcJVgtxR7Znz3J7afw8p-R3IH3PaaJELM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdVYzatzDLAOb6s_BaSwUTiw8DVzEF_UXwGlFS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXNeqa5wlELD_rxU_zbkMgjsUJwugkeb7aJK0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNbxMIeQbFQBdOogjmd1gRtXvN6wdLMy64bWkzD=s1600-w780-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqSw3EVgs8zkRtKVXr-uC8dI",
+      "google_maps_url": "https://maps.google.com/?cid=15200074166122816948",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Boudha Rd, काठमाडौँ 44600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.7216058,
-            "lng": 85.3613811
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7229547802915,
-              "lng": 85.36273008029151
-            },
-            "southwest": {
-              "lat": 27.72025681970849,
-              "lng": 85.3600321197085
-            }
-          }
-        },
-        "name": "Tibetan monastery",
-        "place_id": "ChIJfaKHytsb6zkRQOkILO2GvaA",
-        "url": "https://maps.google.com/?cid=11582562169870936384",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMy54Lv-UBZYkZUFMdxQfqXz3mwJ19x2xH9SgRk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6aEEz0iYIE8R5LXM8jbgFswQczh9oxnozE7Sm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7RfHCOgCk9VxW0rqWX8gWoBUb8q3rfTZI2ldg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEYgggyzFwC1BycCDLJ-0CzW-eDTT49g0ZtP1w=s1600-w600-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNo08R1Jdj_q40LD1fsP-39GXq7XnJ9WMrCUEEH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnXAZtpXApnhKnB0S1iLh_AAxduCALZOpcSkHx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCe4fWTrnKQ3tXX0rd-6lUV3JeITKBz7PUP2Ip=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_l58k6rb_4oa37LwBhZe5c8dl_xs-vx6D7bQw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOInAjTYo0spnVVkt3xyjk34SyEnK6MAB_-4Tl3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8Q2_iacId-Wwo6nL6RBOOyuZ0vSw8qH1fJYmI=s1600-w800-h800"
-        ]
+      "name": "Tibetan monastery",
+      "location": {
+        "lat": 27.7216058,
+        "lng": 85.3613811
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Boudha Rd, काठमाडौँ 44600, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMy54Lv-UBZYkZUFMdxQfqXz3mwJ19x2xH9SgRk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6aEEz0iYIE8R5LXM8jbgFswQczh9oxnozE7Sm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7RfHCOgCk9VxW0rqWX8gWoBUb8q3rfTZI2ldg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEYgggyzFwC1BycCDLJ-0CzW-eDTT49g0ZtP1w=s1600-w600-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNo08R1Jdj_q40LD1fsP-39GXq7XnJ9WMrCUEEH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnXAZtpXApnhKnB0S1iLh_AAxduCALZOpcSkHx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCe4fWTrnKQ3tXX0rd-6lUV3JeITKBz7PUP2Ip=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_l58k6rb_4oa37LwBhZe5c8dl_xs-vx6D7bQw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOInAjTYo0spnVVkt3xyjk34SyEnK6MAB_-4Tl3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8Q2_iacId-Wwo6nL6RBOOyuZ0vSw8qH1fJYmI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJfaKHytsb6zkRQOkILO2GvaA",
+      "google_maps_url": "https://maps.google.com/?cid=11582562169870936384",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Manglabari Pradhan Rd, Busti, West Bengal 735182, India",
-        "geometry": {
-          "location": {
-            "lat": 26.8410111,
-            "lng": 89.3940652
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 26.8418360802915,
-              "lng": 89.39528683029151
-            },
-            "southwest": {
-              "lat": 26.8391381197085,
-              "lng": 89.39258886970849
-            }
-          }
-        },
-        "name": "MAHAYANA BUDDHIST MONASTERY",
-        "place_id": "ChIJuZvOsEPL4zkRHL0d5sR9Sok",
-        "url": "https://maps.google.com/?cid=9892857816100486428",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMu-Tcsf38jOmerHawD-XI_cxmse98JoSSVNwSI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwzHIpfyg4DRSA6E-u7keNIwMnO2mkbXVVHP6b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKoA_au8NtMw-AtomVD_FrOI6GNDRWzL1WwlSt=s1600-w796-h347",
-          "https://lh3.googleusercontent.com/p/AF1QipNMYFXJXbtuLwSIOc9gw5JxI8puZ8lkF1PXQvj1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4FTiq4PzZ9d7j75AVspKpUIfxNLKI9gFaqKG4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQNRYQLgsSBEzq45guuFnfwZIsAzOgwMYIDzCB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkeJLt4C9AmoiHQ__A4yLITqKCGsBLcWGIcESx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7QDHgyUM2IZTflcS4fZyeJvZ2YcFf9x3fk4Wt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAaPtE1a6mtjn6KJseilnDO2LDcpZ05Bz73Bzh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXjwH7Br-zY_SlSK4yykzbPqXV56bCTgnZ7crF=s1600-w800-h800"
-        ]
+      "name": "MAHAYANA BUDDHIST MONASTERY",
+      "location": {
+        "lat": 26.8410111,
+        "lng": 89.3940652
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Manglabari Pradhan Rd, Busti, West Bengal 735182, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMu-Tcsf38jOmerHawD-XI_cxmse98JoSSVNwSI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwzHIpfyg4DRSA6E-u7keNIwMnO2mkbXVVHP6b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKoA_au8NtMw-AtomVD_FrOI6GNDRWzL1WwlSt=s1600-w796-h347",
+        "https://lh3.googleusercontent.com/p/AF1QipNMYFXJXbtuLwSIOc9gw5JxI8puZ8lkF1PXQvj1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4FTiq4PzZ9d7j75AVspKpUIfxNLKI9gFaqKG4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQNRYQLgsSBEzq45guuFnfwZIsAzOgwMYIDzCB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkeJLt4C9AmoiHQ__A4yLITqKCGsBLcWGIcESx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7QDHgyUM2IZTflcS4fZyeJvZ2YcFf9x3fk4Wt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAaPtE1a6mtjn6KJseilnDO2LDcpZ05Bz73Bzh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXjwH7Br-zY_SlSK4yykzbPqXV56bCTgnZ7crF=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJuZvOsEPL4zkRHL0d5sR9Sok",
+      "google_maps_url": "https://maps.google.com/?cid=9892857816100486428",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Bhodhgaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.6941683,
-            "lng": 84.9849856
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.69551728029151,
-              "lng": 84.9863345802915
-            },
-            "southwest": {
-              "lat": 24.6928193197085,
-              "lng": 84.98363661970849
-            }
-          }
-        },
-        "name": "Wat Thai Buddhagaya",
-        "place_id": "ChIJf0R8Glks8zkRo41RraTxUOQ",
-        "url": "https://maps.google.com/?cid=16451915128369155491",
-        "website": "http://www.watthaibuddhagaya935.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM_LndFMFQ24Gjo31dZ5sVreGTdVL3Oy_oqKt1n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNaevEAbvVft3Ea3YROb7VMKtpWiz7rlxUOXf4u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkYfaoKGhaYeCXbGfjwfPNByvwjA6sRJQoDE_b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJlfBpTQumiud5gQlDv-cBolrlGJmimKZj4hIP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN--sqezfUWanes4XIDUy5uUrVcFqedW7FIWMzy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMf_dxniFxuImIj6XyMQaWNuflcZM6X2UB3dkHS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM6LFn1o2BstB1XEnTGss3JB4E6M6QvckAKQJzZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUvbCdpMMfwAcbzL4_pAOFs-A1hF9aUNtz0ehg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMt4efyn1uP7ThC8aRg4TE1BdqtDp2jYP5KLhZs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3mG-_y4R2HvaX3XLQiPP4AEYHDK4ri55YkCuE=s1600-w800-h800"
-        ]
+      "name": "Wat Thai Buddhagaya",
+      "location": {
+        "lat": 24.6941683,
+        "lng": 84.9849856
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Bhodhgaya, Bihar 824231, India",
+      "website": "http://www.watthaibuddhagaya935.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM_LndFMFQ24Gjo31dZ5sVreGTdVL3Oy_oqKt1n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNaevEAbvVft3Ea3YROb7VMKtpWiz7rlxUOXf4u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkYfaoKGhaYeCXbGfjwfPNByvwjA6sRJQoDE_b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJlfBpTQumiud5gQlDv-cBolrlGJmimKZj4hIP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN--sqezfUWanes4XIDUy5uUrVcFqedW7FIWMzy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMf_dxniFxuImIj6XyMQaWNuflcZM6X2UB3dkHS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM6LFn1o2BstB1XEnTGss3JB4E6M6QvckAKQJzZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUvbCdpMMfwAcbzL4_pAOFs-A1hF9aUNtz0ehg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMt4efyn1uP7ThC8aRg4TE1BdqtDp2jYP5KLhZs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3mG-_y4R2HvaX3XLQiPP4AEYHDK4ri55YkCuE=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJf0R8Glks8zkRo41RraTxUOQ",
+      "google_maps_url": "https://maps.google.com/?cid=16451915128369155491",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mahmudi Chak, Rajendra Nagar, Patna, Bihar 800016, India",
-        "geometry": {
-          "location": {
-            "lat": 25.6040286,
-            "lng": 85.1613744
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.6053168302915,
-              "lng": 85.16271528029151
-            },
-            "southwest": {
-              "lat": 25.6026188697085,
-              "lng": 85.16001731970849
-            }
-          }
-        },
-        "international_phone_number": "+91 99316 61588",
-        "name": "Myanmar Buddhist Vihara",
-        "place_id": "ChIJt7tfBpNY7TkRGslbcloJRiQ",
-        "url": "https://maps.google.com/?cid=2613786917805476122",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNbA9Z0d2HgdGb1jkwSCj790OVZS8_Oy7RajSWx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgolNAPqFjMmVNXALNtjgpSOMbf6eh5MzrRaCf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmhTLZP_VlTJJ4x9wT6jsr3I8_AM_zKMOrkCeQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_WrWeFj-d9fS7gYwD5CvUC6CVPFXXszhOLcya=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOw1xMrn2RBJCzMCzDHAFJm-k1m1f2U7yDz1T1I=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqHLlfHb0-eItI-sGrXWK7u0nsq9i6kjERZ4Ci=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAsO2CWaX0yCR4XOuOrjDCMsDPDf3iAC_05oFL=s1600-w800-h780",
-          "https://lh3.googleusercontent.com/p/AF1QipMlnLoV_rAv0byFmtCGkJemPCQqJ_sP-Su9Nlxj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMu1NXgyEhzHKjpCQFINev1OEeZU5iQ90MavdrA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqNGrjxvI2oKiA8TLhbI9MWXtVvUqH8dqhaAOd=s1600-w800-h800"
-        ]
+      "name": "Myanmar Buddhist Vihara",
+      "location": {
+        "lat": 25.6040286,
+        "lng": 85.1613744
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Mahmudi Chak, Rajendra Nagar, Patna, Bihar 800016, India",
+      "phone": "+91 99316 61588",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNbA9Z0d2HgdGb1jkwSCj790OVZS8_Oy7RajSWx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgolNAPqFjMmVNXALNtjgpSOMbf6eh5MzrRaCf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmhTLZP_VlTJJ4x9wT6jsr3I8_AM_zKMOrkCeQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_WrWeFj-d9fS7gYwD5CvUC6CVPFXXszhOLcya=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOw1xMrn2RBJCzMCzDHAFJm-k1m1f2U7yDz1T1I=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqHLlfHb0-eItI-sGrXWK7u0nsq9i6kjERZ4Ci=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAsO2CWaX0yCR4XOuOrjDCMsDPDf3iAC_05oFL=s1600-w800-h780",
+        "https://lh3.googleusercontent.com/p/AF1QipMlnLoV_rAv0byFmtCGkJemPCQqJ_sP-Su9Nlxj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMu1NXgyEhzHKjpCQFINev1OEeZU5iQ90MavdrA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqNGrjxvI2oKiA8TLhbI9MWXtVvUqH8dqhaAOd=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJt7tfBpNY7TkRGslbcloJRiQ",
+      "google_maps_url": "https://maps.google.com/?cid=2613786917805476122",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "tika, Teka Bigha, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.6897973,
-            "lng": 84.9939686
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.6911148302915,
-              "lng": 84.99531093029152
-            },
-            "southwest": {
-              "lat": 24.6884168697085,
-              "lng": 84.9926129697085
-            }
-          }
-        },
-        "international_phone_number": "+91 96311 95441",
-        "name": "Do Sanh Vietnam Temple",
-        "place_id": "ChIJER_Tj08s8zkRmAB_h20sE8E",
-        "url": "https://maps.google.com/?cid=13912512522813898904",
-        "website": "http://chuadosanh.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOxmLvkdSbDEMC21Xyhda7rfrnfVhMoGZGSXNBX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMPiVzSQVdAo4CnKuLdsWfFX1Dt6Vr7j0aVDYsv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOypOVZ3G9ir7L3IZAALCldJeeOsQbf9axt32yY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMduxSm5A5rUmZZHJCv92V8hc6Bzdn_2EGUr-8B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMG0YmJDu_FFOVUrsCP9VvvHetrP9xzrqpKozv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeWgdjjmoNSKe8OH7MVSt2CsQ_eFv4FIjE_07I=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNg4NFXjOio5pDAndA2Om-b39uG5kaPdAmCNLax=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPz51VNWcBN0f3KR8gl1rOsrs1f9QQ3Rh7ojggG=s1600-w521-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlRNl1KZfDMLj_Cp0RUbOoyVX1GrnPq213UYrw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOAQoptXUvANotorwa6lLlcvPj88Dv1grLO16Vg=s1600-w800-h800"
-        ]
+      "name": "Do Sanh Vietnam Temple",
+      "location": {
+        "lat": 24.6897973,
+        "lng": 84.9939686
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "tika, Teka Bigha, Bihar 824231, India",
+      "phone": "+91 96311 95441",
+      "website": "http://chuadosanh.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOxmLvkdSbDEMC21Xyhda7rfrnfVhMoGZGSXNBX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMPiVzSQVdAo4CnKuLdsWfFX1Dt6Vr7j0aVDYsv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOypOVZ3G9ir7L3IZAALCldJeeOsQbf9axt32yY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMduxSm5A5rUmZZHJCv92V8hc6Bzdn_2EGUr-8B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMG0YmJDu_FFOVUrsCP9VvvHetrP9xzrqpKozv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeWgdjjmoNSKe8OH7MVSt2CsQ_eFv4FIjE_07I=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNg4NFXjOio5pDAndA2Om-b39uG5kaPdAmCNLax=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPz51VNWcBN0f3KR8gl1rOsrs1f9QQ3Rh7ojggG=s1600-w521-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlRNl1KZfDMLj_Cp0RUbOoyVX1GrnPq213UYrw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOAQoptXUvANotorwa6lLlcvPj88Dv1grLO16Vg=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJER_Tj08s8zkRmAB_h20sE8E",
+      "google_maps_url": "https://maps.google.com/?cid=13912512522813898904",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Singhpur, Sarnath, Varanasi, Uttar Pradesh 221007, India",
-        "geometry": {
-          "location": {
-            "lat": 25.38471299999999,
-            "lng": 83.0186803
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 25.3861112302915,
-              "lng": 83.02001103029151
-            },
-            "southwest": {
-              "lat": 25.38341326970849,
-              "lng": 83.01731306970849
-            }
-          }
-        },
-        "name": "Tara Temple, yulo koepa",
-        "place_id": "ChIJ1yg2tOkvjjkRGslH0C-5rt0",
-        "url": "https://maps.google.com/?cid=15973908543338694938",
-        "website": "https://khachonunnery.org/about/our-nunnery/yulo-koepa-nunnery",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPir-TvMHJKrnduIWXaZTBE0GVFbw74Yy7mOryB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMy4w-vyNyDmwAI-5Bt9M5eJXZVDbxQC-V7vWfs=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipNEIoXp4De-JoAfLYHkvJSA5Hs8AdjRiZLE7Epb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOiUR0nEVS4V9GG2AT0xaFMTqveI7s-eypU-_g0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgf66zaz5Wbj1NwIgtw9paJ66TpF7nIlp22zRv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMiez9kRZj3xRf1wobIxZ6ch24z47MvzTGchH0v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgotmiT8YBVmV-ybTFx4T6VHRmhA89z4SHUzkL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPuXaR7mrHFFIjszsR3F672XTUh72E22OyyeSDI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNXzNVNKLey9rEtKm5JSssB6atS6pDKL7Vljjs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0h2nNAluAJ_-bJkeBcCIhtz7GWWzVjvQ1QFCn=s1600-w800-h800"
-        ]
+      "name": "Tara Temple, yulo koepa",
+      "location": {
+        "lat": 25.38471299999999,
+        "lng": 83.0186803
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Singhpur, Sarnath, Varanasi, Uttar Pradesh 221007, India",
+      "website": "https://khachonunnery.org/about/our-nunnery/yulo-koepa-nunnery",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPir-TvMHJKrnduIWXaZTBE0GVFbw74Yy7mOryB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMy4w-vyNyDmwAI-5Bt9M5eJXZVDbxQC-V7vWfs=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipNEIoXp4De-JoAfLYHkvJSA5Hs8AdjRiZLE7Epb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOiUR0nEVS4V9GG2AT0xaFMTqveI7s-eypU-_g0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgf66zaz5Wbj1NwIgtw9paJ66TpF7nIlp22zRv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMiez9kRZj3xRf1wobIxZ6ch24z47MvzTGchH0v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgotmiT8YBVmV-ybTFx4T6VHRmhA89z4SHUzkL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPuXaR7mrHFFIjszsR3F672XTUh72E22OyyeSDI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNXzNVNKLey9rEtKm5JSssB6atS6pDKL7Vljjs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0h2nNAluAJ_-bJkeBcCIhtz7GWWzVjvQ1QFCn=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1yg2tOkvjjkRGslH0C-5rt0",
+      "google_maps_url": "https://maps.google.com/?cid=15973908543338694938",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sikkim 737113, India",
-        "geometry": {
-          "location": {
-            "lat": 27.43281679999999,
-            "lng": 88.1804042
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.4341657802915,
-              "lng": 88.18175318029151
-            },
-            "southwest": {
-              "lat": 27.43146781970849,
-              "lng": 88.1790552197085
-            }
-          }
-        },
-        "name": "Tshoka Buddhist Monastery",
-        "place_id": "ChIJkQVUBvKJ5jkR37a-_mQLZ2I",
-        "url": "https://maps.google.com/?cid=7090648666716681951",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPa64vavrYveKIK1od9NDRx6hjYQTtwzvJw8Ks-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8DWY-7Z48Y1n-NRygtbQ2qyLNdvoduAAG3So7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwgIlpSVB18Ho3yfcYlP_jAT5rEATvvV2zbtKS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMnLH8LoVz05yeeQuO5qdVXuXatO3_8SpCS94uF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmIAc-gkM7vs7lMGG1g4J6bgAfByU2it4lX6vK=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipN7Gbfmak5bm199PebEJxgCCJXoEe7RmnOd_VLZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMnXyQTqhFKUnHDgVqvi5DJ60ceA7WN0lU7glYL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpGFAq0-_DHrsnKIxburD9E4EOnyPsRNV2aWt0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQs337gO1UNqx6zNIyPtsrUbEe8-SY9uKwz868=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOceztqX5zwijongyXi7PFtXPGlXEfF9HFWm64K=s1600-w800-h800"
-        ]
+      "name": "Tshoka Buddhist Monastery",
+      "location": {
+        "lat": 27.43281679999999,
+        "lng": 88.1804042
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Sikkim 737113, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPa64vavrYveKIK1od9NDRx6hjYQTtwzvJw8Ks-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8DWY-7Z48Y1n-NRygtbQ2qyLNdvoduAAG3So7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwgIlpSVB18Ho3yfcYlP_jAT5rEATvvV2zbtKS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMnLH8LoVz05yeeQuO5qdVXuXatO3_8SpCS94uF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmIAc-gkM7vs7lMGG1g4J6bgAfByU2it4lX6vK=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipN7Gbfmak5bm199PebEJxgCCJXoEe7RmnOd_VLZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMnXyQTqhFKUnHDgVqvi5DJ60ceA7WN0lU7glYL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpGFAq0-_DHrsnKIxburD9E4EOnyPsRNV2aWt0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQs337gO1UNqx6zNIyPtsrUbEe8-SY9uKwz868=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOceztqX5zwijongyXi7PFtXPGlXEfF9HFWm64K=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJkQVUBvKJ5jkR37a-_mQLZ2I",
+      "google_maps_url": "https://maps.google.com/?cid=7090648666716681951",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Chandragiri, Odisha 761017, India",
-        "geometry": {
-          "location": {
-            "lat": 19.2935502,
-            "lng": 84.2851688
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 19.2950062302915,
-              "lng": 84.2865091302915
-            },
-            "southwest": {
-              "lat": 19.2923082697085,
-              "lng": 84.2838111697085
-            }
-          }
-        },
-        "name": "Buddist Temple",
-        "place_id": "ChIJs0P8ZwkoPToRVhAS7Kvq59w",
-        "url": "https://maps.google.com/?cid=15917949432085221462",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNQW3u1LlKqNUmeZm9W0vVAwpdum_G_ybnVYp7h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOv3evy_eHPHkWEQvmnEUHe4amTEbT6-MX9n4y0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqWeGQJbPolNjuN3ZHi3NZwSxxYTaRUHdXPyjf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjZAUiLxLvVVAnv-cDwzYLerDUe8zce1-P9LJx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDYmWozdqCGQ1RCIaFIFthGl6tv_d6Z4BmI58E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgnZMotgR8wwnO5lrUGYcw9fOk84lPUU2PEaYN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOm9103jkFeL15ZUcAbVvpckCXwyHZHniZWsFOY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhZq6t9-3yH3aORN2e4ihjPYqj92asLawEAvPt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMaA5it-1iIdGWEZYjZmBZyFWYyDB9vhOrlftO3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPuoC3TeKEtP9bQzNAnp_YXArDCCjUhThwfCUtf=s1600-w800-h800"
-        ]
+      "name": "Buddist Temple",
+      "location": {
+        "lat": 19.2935502,
+        "lng": 84.2851688
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Chandragiri, Odisha 761017, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNQW3u1LlKqNUmeZm9W0vVAwpdum_G_ybnVYp7h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOv3evy_eHPHkWEQvmnEUHe4amTEbT6-MX9n4y0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqWeGQJbPolNjuN3ZHi3NZwSxxYTaRUHdXPyjf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjZAUiLxLvVVAnv-cDwzYLerDUe8zce1-P9LJx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDYmWozdqCGQ1RCIaFIFthGl6tv_d6Z4BmI58E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgnZMotgR8wwnO5lrUGYcw9fOk84lPUU2PEaYN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOm9103jkFeL15ZUcAbVvpckCXwyHZHniZWsFOY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhZq6t9-3yH3aORN2e4ihjPYqj92asLawEAvPt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMaA5it-1iIdGWEZYjZmBZyFWYyDB9vhOrlftO3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPuoC3TeKEtP9bQzNAnp_YXArDCCjUhThwfCUtf=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJs0P8ZwkoPToRVhAS7Kvq59w",
+      "google_maps_url": "https://maps.google.com/?cid=15917949432085221462",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lumbini Sanskritik 32900, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.4803409,
-            "lng": 83.2720566
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.4816686802915,
-              "lng": 83.2731981302915
-            },
-            "southwest": {
-              "lat": 27.4789707197085,
-              "lng": 83.2705001697085
-            }
-          }
-        },
-        "name": "Zhong Hua Buddhist Monastery [Chinese Temple]",
-        "place_id": "ChIJSfb895-UljkRReXRX_PAfAY",
-        "url": "https://maps.google.com/?cid=467460612856866117",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNLvdmtx2NiqB6hCYDEEj79r6a7xYSjR6FqSYCg=s1600-w800-h666",
-          "https://lh3.googleusercontent.com/p/AF1QipOd1pIZCgDHuyin1xOsN_HDLBAqiYtakVCVdMUm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUdwMiofWCe7zVoOynrkNxOYN5-bfe9A0HSKcM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN47EQOVrp6tHptZm4NONvUxVfK4FK1bSRlrTtd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPMb_SaLEalmqRTC_dUQK_1mSIeazU0B2yAend2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNStTktAG9oBkupN9-7YouQmNB7dETTx7uQQsk1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNG031ewgTYYhBUjVL1aaUfuQGaw6QPup1Z_YVB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGjy1EuqDxRsEcaYBiDvEdGQP6b0d9XldVgPaV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-ac3tQm67llzH8CqolTNo_WTl1J61JQiYteno=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3yGHnBFbJ5dg_ir747vOVV02Lp_FNGjKi03SO=s1600-w800-h800"
-        ]
+      "name": "Zhong Hua Buddhist Monastery [Chinese Temple]",
+      "location": {
+        "lat": 27.4803409,
+        "lng": 83.2720566
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Lumbini Sanskritik 32900, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNLvdmtx2NiqB6hCYDEEj79r6a7xYSjR6FqSYCg=s1600-w800-h666",
+        "https://lh3.googleusercontent.com/p/AF1QipOd1pIZCgDHuyin1xOsN_HDLBAqiYtakVCVdMUm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUdwMiofWCe7zVoOynrkNxOYN5-bfe9A0HSKcM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN47EQOVrp6tHptZm4NONvUxVfK4FK1bSRlrTtd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPMb_SaLEalmqRTC_dUQK_1mSIeazU0B2yAend2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNStTktAG9oBkupN9-7YouQmNB7dETTx7uQQsk1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNG031ewgTYYhBUjVL1aaUfuQGaw6QPup1Z_YVB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGjy1EuqDxRsEcaYBiDvEdGQP6b0d9XldVgPaV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-ac3tQm67llzH8CqolTNo_WTl1J61JQiYteno=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3yGHnBFbJ5dg_ir747vOVV02Lp_FNGjKi03SO=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJSfb895-UljkRReXRX_PAfAY",
+      "google_maps_url": "https://maps.google.com/?cid=467460612856866117",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "बौद्ध सडक, Kathmandu 44600, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 27.7225521,
-            "lng": 85.36176019999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.7239051802915,
-              "lng": 85.3631180302915
-            },
-            "southwest": {
-              "lat": 27.7212072197085,
-              "lng": 85.36042006970848
-            }
-          }
-        },
-        "international_phone_number": "+977 1-4470763",
-        "name": "Thrangu Tashi Choling Monastery (GUMBA)",
-        "place_id": "ChIJEx1RvNsb6zkRjpgydyXi4cA",
-        "url": "https://maps.google.com/?cid=13898638575583533198",
-        "website": "http://www.rinpoche.com/ttcboudha/boudhaindex.html",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNvnD7VowSE_NWTD69OUMGnoUNazsubAowBx5iG=s1600-w444-h250",
-          "https://lh3.googleusercontent.com/p/AF1QipNFN6O7wh7yODArkmpKm427zBoRSam8vyUVXtHm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGWIdkRaFDtK_9ZKvoOrib4HEKoTTBHWF7cKH0=s1600-w720-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipOGXpWwRtzPucfdkLgMFCDwOlYiiImYTk9PfZYK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwPuA5QC18redDX5QRQ4tq1S3zJXKB5NzhpoNl=s1600-w638-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHYZehppB-vi7hGwgf3Ji47O5fuyvXxtNAeyQa=s1600-w284-h309",
-          "https://lh3.googleusercontent.com/p/AF1QipNpka90sWGV51ZsIrKQSAYn5Fbb_AJrN3xDAHCf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWppUbpMaJ0yhZfjJjCeMyEkpPSWrvozNPnn1a=s1600-w800-h800"
-        ]
+      "name": "Thrangu Tashi Choling Monastery (GUMBA)",
+      "location": {
+        "lat": 27.7225521,
+        "lng": 85.36176019999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "बौद्ध सडक, Kathmandu 44600, Nepal",
+      "phone": "+977 1-4470763",
+      "website": "http://www.rinpoche.com/ttcboudha/boudhaindex.html",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNvnD7VowSE_NWTD69OUMGnoUNazsubAowBx5iG=s1600-w444-h250",
+        "https://lh3.googleusercontent.com/p/AF1QipNFN6O7wh7yODArkmpKm427zBoRSam8vyUVXtHm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGWIdkRaFDtK_9ZKvoOrib4HEKoTTBHWF7cKH0=s1600-w720-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipOGXpWwRtzPucfdkLgMFCDwOlYiiImYTk9PfZYK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwPuA5QC18redDX5QRQ4tq1S3zJXKB5NzhpoNl=s1600-w638-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHYZehppB-vi7hGwgf3Ji47O5fuyvXxtNAeyQa=s1600-w284-h309",
+        "https://lh3.googleusercontent.com/p/AF1QipNpka90sWGV51ZsIrKQSAYn5Fbb_AJrN3xDAHCf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWppUbpMaJ0yhZfjJjCeMyEkpPSWrvozNPnn1a=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJEx1RvNsb6zkRjpgydyXi4cA",
+      "google_maps_url": "https://maps.google.com/?cid=13898638575583533198",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kamleshwarpur, Chhattisgarh 497111, India",
-        "geometry": {
-          "location": {
-            "lat": 22.8323176,
-            "lng": 83.2826295
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 22.8336336802915,
-              "lng": 83.2839429802915
-            },
-            "southwest": {
-              "lat": 22.8309357197085,
-              "lng": 83.28124501970849
-            }
-          }
-        },
-        "name": "First Temple Of Camp.No 1",
-        "place_id": "ChIJy8d-gujqiTkR4HZjlFCSEUc",
-        "url": "https://maps.google.com/?cid=5121035126081550048",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOCcEeiFuo4vNvH6PuxoX-vNh90MwbIGPwuHjNW=s1600-w800-h576",
-          "https://lh3.googleusercontent.com/p/AF1QipO90dwI8qPm_W97x6V_HoN_zfJ1KJcK0LQu1SBO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLGSzwMLDK_NYqW-aYYKFWBYrIfKSkjWg9fV1l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdMOWMa59UuB_Is07fhw8Up4CtbJ0ZsLIyOLBM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEQXsBPXDLMYMv1r6aeB7t2BvJqXJz2xdN41IW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfxmL-LcckVWf1tG_tdgO43g2_7f6-2I4HLhDC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOFb9RhpVEM0jWFMnmazrgfT92__T3doC7K9OKW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOaYYNAvbXj2858qFrjvmJa7Bk-xJsFlCtakFGl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuI1FJ9nkljkzNzPVCNtupbIP8-xnDb0bPGal8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBjOLbPQUC6NFMSiXlhWtL2fWqvcmLI5gng8Tl=s1600-w800-h800"
-        ]
+      "name": "First Temple Of Camp.No 1",
+      "location": {
+        "lat": 22.8323176,
+        "lng": 83.2826295
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Kamleshwarpur, Chhattisgarh 497111, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOCcEeiFuo4vNvH6PuxoX-vNh90MwbIGPwuHjNW=s1600-w800-h576",
+        "https://lh3.googleusercontent.com/p/AF1QipO90dwI8qPm_W97x6V_HoN_zfJ1KJcK0LQu1SBO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLGSzwMLDK_NYqW-aYYKFWBYrIfKSkjWg9fV1l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdMOWMa59UuB_Is07fhw8Up4CtbJ0ZsLIyOLBM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEQXsBPXDLMYMv1r6aeB7t2BvJqXJz2xdN41IW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfxmL-LcckVWf1tG_tdgO43g2_7f6-2I4HLhDC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOFb9RhpVEM0jWFMnmazrgfT92__T3doC7K9OKW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOaYYNAvbXj2858qFrjvmJa7Bk-xJsFlCtakFGl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuI1FJ9nkljkzNzPVCNtupbIP8-xnDb0bPGal8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBjOLbPQUC6NFMSiXlhWtL2fWqvcmLI5gng8Tl=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJy8d-gujqiTkR4HZjlFCSEUc",
+      "google_maps_url": "https://maps.google.com/?cid=5121035126081550048",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Rina, Shankar Rd, Chand Chaura, Bodh Gaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.7786516,
-            "lng": 85.00656289999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.7799861802915,
-              "lng": 85.00794273029149
-            },
-            "southwest": {
-              "lat": 24.77728821970849,
-              "lng": 85.00524476970848
-            }
-          }
-        },
-        "name": "Burmese Temple Bodhgaya",
-        "place_id": "ChIJVyLFN1ot8zkRnIqSIpF-XDI",
-        "url": "https://maps.google.com/?cid=3628914561569163932",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOlqOHzTsBxXX1C27EPeXwCi8rMeuOsm76Jis2K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9mR6IID5o4ax5aR0fyLMGxPIYOZpufcvVOGrT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCf2-E7F5ZVXeN0WLIDIJ7xBsdQnrRSJLYOzna=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNc_qNM52Mlt0Wy0EhtiSGc_NO0CfyYnsZ5XNcV=s1600-w720-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipP9nx9P0WCsIcmD0268K7vy3nofPX1E4Q2H529h=s1600-w800-h800"
-        ]
+      "name": "Burmese Temple Bodhgaya",
+      "location": {
+        "lat": 24.7786516,
+        "lng": 85.00656289999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Rina, Shankar Rd, Chand Chaura, Bodh Gaya, Bihar 824231, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOlqOHzTsBxXX1C27EPeXwCi8rMeuOsm76Jis2K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9mR6IID5o4ax5aR0fyLMGxPIYOZpufcvVOGrT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCf2-E7F5ZVXeN0WLIDIJ7xBsdQnrRSJLYOzna=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNc_qNM52Mlt0Wy0EhtiSGc_NO0CfyYnsZ5XNcV=s1600-w720-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipP9nx9P0WCsIcmD0268K7vy3nofPX1E4Q2H529h=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVyLFN1ot8zkRnIqSIpF-XDI",
+      "google_maps_url": "https://maps.google.com/?cid=3628914561569163932",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Thonje, Tachi Bagarchhap 33500, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.5270264,
-            "lng": 84.354553
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.5278737302915,
-              "lng": 84.3553774
-            },
-            "southwest": {
-              "lat": 28.5251757697085,
-              "lng": 84.3520798
-            }
-          }
-        },
-        "name": "Thonje Buddhist Monastery (Gumba)",
-        "place_id": "ChIJkQZeU999lTkRaO2_4SElZqQ",
-        "url": "https://maps.google.com/?cid=11846196697296268648",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMlTYuU8bTaJUryy9DeSRXofdWtTdE9-pF-4xCL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwmUqrt9CeobmmNbazpCD7Uj9MjZiaCbnKMcbt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPogvLw7EJF8UKH3TLXa9nqqOA7BlKsGRIS6UOJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9WsmhQbbtIqsOHnEDPBzEgIG06lL5LqbH-I-U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhhQk4UbbAMOuerK7FjZsNqp83hKaHcpG9P996=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeVO1j2YUPj97gV9DqqO1IF_bpXFJNfUbu-9Jq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1Keqy2wiJHmAmjrotNkXPNOHDJl4HOBuq4xE4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOT54CacgmqSUppGy471pKq7-C_Zj61UnufDTZf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAJiK9KPTCDoeyy1IxkCm3QxNtHzkIctSCasMC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCNY09WN7YC4M4q0_p9Kg1ELGmBUiBnVs1UgVM=s1600-w800-h532"
-        ]
+      "name": "Thonje Buddhist Monastery (Gumba)",
+      "location": {
+        "lat": 28.5270264,
+        "lng": 84.354553
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Thonje, Tachi Bagarchhap 33500, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMlTYuU8bTaJUryy9DeSRXofdWtTdE9-pF-4xCL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwmUqrt9CeobmmNbazpCD7Uj9MjZiaCbnKMcbt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPogvLw7EJF8UKH3TLXa9nqqOA7BlKsGRIS6UOJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9WsmhQbbtIqsOHnEDPBzEgIG06lL5LqbH-I-U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhhQk4UbbAMOuerK7FjZsNqp83hKaHcpG9P996=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeVO1j2YUPj97gV9DqqO1IF_bpXFJNfUbu-9Jq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1Keqy2wiJHmAmjrotNkXPNOHDJl4HOBuq4xE4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOT54CacgmqSUppGy471pKq7-C_Zj61UnufDTZf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAJiK9KPTCDoeyy1IxkCm3QxNtHzkIctSCasMC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCNY09WN7YC4M4q0_p9Kg1ELGmBUiBnVs1UgVM=s1600-w800-h532"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJkQZeU999lTkRaO2_4SElZqQ",
+      "google_maps_url": "https://maps.google.com/?cid=11846196697296268648",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ghoom, Darjeeling, West Bengal 734102, India",
-        "geometry": {
-          "location": {
-            "lat": 27.0075089,
-            "lng": 88.2463181
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 27.0086424802915,
-              "lng": 88.2476865802915
-            },
-            "southwest": {
-              "lat": 27.0059445197085,
-              "lng": 88.2449886197085
-            }
-          }
-        },
-        "name": "Yiga Choeling Monastery",
-        "place_id": "ChIJiXXZ2Xcu5DkRxXQSAbBnVac",
-        "url": "https://maps.google.com/?cid=12057657582984262853",
-        "website": "http://yigachoeling.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPXlQaph3vBFLXbteY-LTEblquB3dTpWko0at9T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcRJ6fJ6xyWn8lqgPzuzFLrYdThwVDlEr7T6Wg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPONeaYi7X8gbKWnX6HAkm-mRGh1w1ThDndv6RW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_jEmDxm_MMUeLMWZUVEoCz0KkO3dq4dpfyb7X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNU5Wzcf30IUQY4xCu5WASmyXeW3YbYItKAc8U3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOk-gntoPiOBPHvjPfDDugs-gtEaBe-XVrHwgj7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXduS61ZjovXp2enc7rL4JkTqC_Mqr_SP3fMra=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPD0gLLfxu8ZxNFih_dm4DXejbWxQCcIYM5pxcY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMarnsieUh0ce2EEfyMzPIKSmT8hXUD_Xr3E4Yo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYRpslc-BY-vgCaISoU1MLPL7jfDIAmwPsSrU=s1600-w800-h800"
-        ]
+      "name": "Yiga Choeling Monastery",
+      "location": {
+        "lat": 27.0075089,
+        "lng": 88.2463181
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Ghoom, Darjeeling, West Bengal 734102, India",
+      "website": "http://yigachoeling.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPXlQaph3vBFLXbteY-LTEblquB3dTpWko0at9T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcRJ6fJ6xyWn8lqgPzuzFLrYdThwVDlEr7T6Wg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPONeaYi7X8gbKWnX6HAkm-mRGh1w1ThDndv6RW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_jEmDxm_MMUeLMWZUVEoCz0KkO3dq4dpfyb7X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNU5Wzcf30IUQY4xCu5WASmyXeW3YbYItKAc8U3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOk-gntoPiOBPHvjPfDDugs-gtEaBe-XVrHwgj7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXduS61ZjovXp2enc7rL4JkTqC_Mqr_SP3fMra=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPD0gLLfxu8ZxNFih_dm4DXejbWxQCcIYM5pxcY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMarnsieUh0ce2EEfyMzPIKSmT8hXUD_Xr3E4Yo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYRpslc-BY-vgCaISoU1MLPL7jfDIAmwPsSrU=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJiXXZ2Xcu5DkRxXQSAbBnVac",
+      "google_maps_url": "https://maps.google.com/?cid=12057657582984262853",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "P.O.pin.824231, Bodh Gaya, Bihar 824231, India",
-        "geometry": {
-          "location": {
-            "lat": 24.696287,
-            "lng": 84.9875341
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 24.6975869802915,
-              "lng": 84.98892593029151
-            },
-            "southwest": {
-              "lat": 24.6948890197085,
-              "lng": 84.9862279697085
-            }
-          }
-        },
-        "international_phone_number": "+91 631 220 0769",
-        "name": "Mahabodhi Chinese Temple",
-        "place_id": "ChIJIQXHB1ws8zkRy8QJs8m9vlA",
-        "url": "https://maps.google.com/?cid=5818296442599097547",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPIMUMV3IH9Qvhq1sFCjrSLEf_Cmthn9m_eaUhx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoOLyqZRcQAXBoBmheYypvuIQIfP-gscDID-3n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMOPSnsvVOhTvj5A1Uzz2-9ExpXNv-Xo_bo9M-l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAlae4ZOVuYw1kwOmoqDCeRGVMnKiP0TAJQu8i=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzi4Lc5hZBmfso9hI8NgKJPgnQAOw808m54zEj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPn_3FX8Mj23g27sIeSMtnvM_zrJiyvi9V0cO_j=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO13dgNloXh2LjaQYmZwlVrl564EqRaTUk1Q06u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5NfKYiweMETOwDZ8ci09m5D0wRJVD__La3Ugf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCWeNXnZJsqw7VScbSq5wrei4jUmKD3gR3xWHD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-wrAYX-7VAZZsJtW4J18CNrlyiSLg0yy1-_K5=s1600-w800-h800"
-        ]
+      "name": "Mahabodhi Chinese Temple",
+      "location": {
+        "lat": 24.696287,
+        "lng": 84.9875341
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "P.O.pin.824231, Bodh Gaya, Bihar 824231, India",
+      "phone": "+91 631 220 0769",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPIMUMV3IH9Qvhq1sFCjrSLEf_Cmthn9m_eaUhx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoOLyqZRcQAXBoBmheYypvuIQIfP-gscDID-3n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMOPSnsvVOhTvj5A1Uzz2-9ExpXNv-Xo_bo9M-l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAlae4ZOVuYw1kwOmoqDCeRGVMnKiP0TAJQu8i=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzi4Lc5hZBmfso9hI8NgKJPgnQAOw808m54zEj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPn_3FX8Mj23g27sIeSMtnvM_zrJiyvi9V0cO_j=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO13dgNloXh2LjaQYmZwlVrl564EqRaTUk1Q06u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5NfKYiweMETOwDZ8ci09m5D0wRJVD__La3Ugf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCWeNXnZJsqw7VScbSq5wrei4jUmKD3gR3xWHD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-wrAYX-7VAZZsJtW4J18CNrlyiSLg0yy1-_K5=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJIQXHB1ws8zkRy8QJs8m9vlA",
+      "google_maps_url": "https://maps.google.com/?cid=5818296442599097547",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kota Rd, Chhota Ashok Nagar, Gogaon, Raipur, Chhattisgarh 492009, India",
-        "geometry": {
-          "location": {
-            "lat": 21.265003,
-            "lng": 81.6162279
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 21.2663448302915,
-              "lng": 81.6175818302915
-            },
-            "southwest": {
-              "lat": 21.2636468697085,
-              "lng": 81.61488386970849
-            }
-          }
-        },
-        "name": "Budha Vihar Temple",
-        "place_id": "ChIJzYxGx_fdKDoRNmi6-ia3w0g",
-        "url": "https://maps.google.com/?cid=5243235769232549942",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOfJ6VpG6BsiuiXnkGGAPVbrM7N0Mb3YSpH4FIc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwdupEzRLprOC3Y43Ot-O64unJe--kL1CZskyl=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipO5Ow1fM8n-6RaqYOGSVqlLDcKVECkrjLt-HKTV=s1600-w720-h800"
-        ]
+      "name": "Budha Vihar Temple",
+      "location": {
+        "lat": 21.265003,
+        "lng": 81.6162279
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Kota Rd, Chhota Ashok Nagar, Gogaon, Raipur, Chhattisgarh 492009, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOfJ6VpG6BsiuiXnkGGAPVbrM7N0Mb3YSpH4FIc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwdupEzRLprOC3Y43Ot-O64unJe--kL1CZskyl=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipO5Ow1fM8n-6RaqYOGSVqlLDcKVECkrjLt-HKTV=s1600-w720-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzYxGx_fdKDoRNmi6-ia3w0g",
+      "google_maps_url": "https://maps.google.com/?cid=5243235769232549942",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Baglung Rajmarg, Pokhara 33700, Nepal",
-        "geometry": {
-          "location": {
-            "lat": 28.2613851,
-            "lng": 83.95702059999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 28.2627525302915,
-              "lng": 83.95836023029149
-            },
-            "southwest": {
-              "lat": 28.2600545697085,
-              "lng": 83.95566226970848
-            }
-          }
-        },
-        "name": "Jangchub Choeling Monastery",
-        "place_id": "ChIJ8bKEvmGTlTkRQOKFK_VwCks",
-        "url": "https://maps.google.com/?cid=5407258500911194688",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOQlVQNkbV1ksmB-qpJRwAhplMtnNhNdIxl0HO9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM5PnbczrnIsqYDQgIFakGodurjASa3ywMsi9WS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdSYz4lOkXek4-nist2kfgZjKCL7Htw4Vk1iut=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSXGFITMyqMVEHymx250IK1ldz6OCg9WYr7oJ_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPagGz7n4mv5lOTvBptmGAO8FHAznq9TvuQhESs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcIXw3Qrpn7ZoxPRgCi8jFirLenXn4yBfDhPI1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYl2GwHP0iQAeMDC6sEh5HyzSUaL17UUd1nqBi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPm_za4c8NhWtXi8g-gtWCXYgTx3gS69TJhWtov=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOSW0rQx1i0gMrB7UvvGLUzMUHAIcryl_PEn7U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFSfb6OkBi1LihiQEzeL1pXYCNp3VoXURALMAN=s1600-w800-h800"
-        ]
+      "name": "Jangchub Choeling Monastery",
+      "location": {
+        "lat": 28.2613851,
+        "lng": 83.95702059999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:19:54.027Z"
-      }
+      "address": "Baglung Rajmarg, Pokhara 33700, Nepal",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOQlVQNkbV1ksmB-qpJRwAhplMtnNhNdIxl0HO9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM5PnbczrnIsqYDQgIFakGodurjASa3ywMsi9WS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdSYz4lOkXek4-nist2kfgZjKCL7Htw4Vk1iut=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSXGFITMyqMVEHymx250IK1ldz6OCg9WYr7oJ_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPagGz7n4mv5lOTvBptmGAO8FHAznq9TvuQhESs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcIXw3Qrpn7ZoxPRgCi8jFirLenXn4yBfDhPI1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYl2GwHP0iQAeMDC6sEh5HyzSUaL17UUd1nqBi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPm_za4c8NhWtXi8g-gtWCXYgTx3gS69TJhWtov=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOSW0rQx1i0gMrB7UvvGLUzMUHAIcryl_PEn7U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFSfb6OkBi1LihiQEzeL1pXYCNp3VoXURALMAN=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ8bKEvmGTlTkRQOKFK_VwCks",
+      "google_maps_url": "https://maps.google.com/?cid=5407258500911194688",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

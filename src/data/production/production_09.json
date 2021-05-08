@@ -1,1371 +1,1097 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "91 Aria Wewsirigama, Kantale 31300, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.385151999999998,
-            "lng": 81.0088991
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.3865440802915,
-              "lng": 81.0101177802915
-            },
-            "southwest": {
-              "lat": 8.383846119708496,
-              "lng": 81.00741981970847
-            }
-          }
-        },
-        "international_phone_number": "+94 264 929 024",
-        "name": "Mahamevnawa Dhammagiri Buddhist Monastery - Kantale",
-        "place_id": "ChIJ-61zJl6d-zoRfjD9bY5aaLM",
-        "url": "https://maps.google.com/?cid=12927682298144174206",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMVDKytmsAZccw18VckCtMeklCHjxYq4mwc0SMW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7mZC0HMhEkb0e_cwaxxOWsR3u96sPiQygsEK_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNl45MedDiWfpq1CVTh3mlEdAbJXz5MXqjHl1xM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNEqkz-vkcVHWdsI9AEWamPduRPeUQCMj0iw-Tw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5P_xemHABVVfYaA7bC6ESJZmfzxwPCtKG6kCF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP-d13czzp3_92_D841EXWn60t3MNfHR3Um7uUm=s1600-w720-h481",
-          "https://lh3.googleusercontent.com/p/AF1QipOx2uTcBMlvxRN26XkFx_NWObw0r5OWTY7mhdBJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSu6PalHQCEadL0xE81VWJIz6jPX2BsJILE4xm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxd0bDdrLWOSrK16ZOh7-iT1-dQsL1FCfSSweV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQ2ct_I__HQseHYgtBoT3fxd0qpveSJRosiAAV=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Dhammagiri Buddhist Monastery - Kantale",
+      "location": {
+        "lat": 8.385151999999998,
+        "lng": 81.0088991
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "91 Aria Wewsirigama, Kantale 31300, Sri Lanka",
+      "phone": "+94 264 929 024",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMVDKytmsAZccw18VckCtMeklCHjxYq4mwc0SMW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7mZC0HMhEkb0e_cwaxxOWsR3u96sPiQygsEK_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNl45MedDiWfpq1CVTh3mlEdAbJXz5MXqjHl1xM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNEqkz-vkcVHWdsI9AEWamPduRPeUQCMj0iw-Tw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5P_xemHABVVfYaA7bC6ESJZmfzxwPCtKG6kCF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP-d13czzp3_92_D841EXWn60t3MNfHR3Um7uUm=s1600-w720-h481",
+        "https://lh3.googleusercontent.com/p/AF1QipOx2uTcBMlvxRN26XkFx_NWObw0r5OWTY7mhdBJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSu6PalHQCEadL0xE81VWJIz6jPX2BsJILE4xm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxd0bDdrLWOSrK16ZOh7-iT1-dQsL1FCfSSweV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQ2ct_I__HQseHYgtBoT3fxd0qpveSJRosiAAV=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ-61zJl6d-zoRfjD9bY5aaLM",
+      "google_maps_url": "https://maps.google.com/?cid=12927682298144174206",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.661859199999999,
-            "lng": 80.4775733
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.663131130291502,
-              "lng": 80.47894248029151
-            },
-            "southwest": {
-              "lat": 7.660433169708498,
-              "lng": 80.4762445197085
-            }
-          }
-        },
-        "name": "Ranagiri Raja Maha Viharaya",
-        "place_id": "ChIJI5g3osBK4zoR-63n6zWtXM4",
-        "url": "https://maps.google.com/?cid=14869950516773236219",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNxGM8yfU-_5SticmyzZR1P__SlY7TyNTnxXUAU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4gQJXvRN7WlUlv7B3iK7TDZfIQmaH-cVzsyWv=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNnAV9ZhLtCg7vb7od_Z_YlEgAuk8FKM7sxhekS=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPI3_uKqgcBHfb3iOUHUBaPkRult_tsed0mVdIy=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNFcPAHPDFcypFanc8ZheqWivVNKE9SilL-GLxj=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOz4jiGLy7L4BbvADxCBZ3diXYKVA7BBZKrQLCP=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOy43mmur6Ev-k09ytTywZm6rjQisOM4BEvWyCJ=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMAMQUXGzk_c9uHXkvEOBUUHzNVBgqpZaZKigX=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNF5FOG0MG0a0gWBW2l-ANAcHFRCuD487Qm4h8-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2lYFmsEGtICGqDXtRwMPBz8C1sNSfEN0sdCiu=s1600-w800-h720"
-        ]
+      "name": "Ranagiri Raja Maha Viharaya",
+      "location": {
+        "lat": 7.661859199999999,
+        "lng": 80.4775733
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNxGM8yfU-_5SticmyzZR1P__SlY7TyNTnxXUAU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4gQJXvRN7WlUlv7B3iK7TDZfIQmaH-cVzsyWv=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNnAV9ZhLtCg7vb7od_Z_YlEgAuk8FKM7sxhekS=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPI3_uKqgcBHfb3iOUHUBaPkRult_tsed0mVdIy=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNFcPAHPDFcypFanc8ZheqWivVNKE9SilL-GLxj=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOz4jiGLy7L4BbvADxCBZ3diXYKVA7BBZKrQLCP=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOy43mmur6Ev-k09ytTywZm6rjQisOM4BEvWyCJ=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMAMQUXGzk_c9uHXkvEOBUUHzNVBgqpZaZKigX=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNF5FOG0MG0a0gWBW2l-ANAcHFRCuD487Qm4h8-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2lYFmsEGtICGqDXtRwMPBz8C1sNSfEN0sdCiu=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJI5g3osBK4zoR-63n6zWtXM4",
+      "google_maps_url": "https://maps.google.com/?cid=14869950516773236219",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kahatagasdigiliya, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.4604112,
-            "lng": 80.7156129
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.462107780291502,
-              "lng": 80.7171078302915
-            },
-            "southwest": {
-              "lat": 8.459409819708497,
-              "lng": 80.71440986970849
-            }
-          }
-        },
-        "international_phone_number": "+94 257 223 403",
-        "name": "Mahamevnawa Dhammagiri Forest Monastery - Kahatagasdigiliya",
-        "place_id": "ChIJL8jwSwd8_DoROyYjxZ4kbUI",
-        "url": "https://maps.google.com/?cid=4786522243295553083",
-        "website": "https://mahamevnawa.lk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNKsxgQI3Y3UhP512BzMBl8tACGNC2EnCIwbcCK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNbpfXpUT95tM5TfMTwqjMffBYJGMNPwgYbNzsd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPL_J4m5FEYoqJtgzEWq_RPlVRFKIIaRY_EtbCf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjwGE5JoYAb30KeET4_mWUdyisF9GdJ08MvkT3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOSVbBm-zUc-xgQjMpMvFmftYcwhrjtP1f7RjVe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPb0U8ugBEi9_KrwhLX2e2T1XXmvY5Pd2v8P2v7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9MP3SQ743is-Zph6KX8em26i7eXfzjtgQV0hn=s1600-w800-h641",
-          "https://lh3.googleusercontent.com/p/AF1QipOKj0JbaHwSmHWd67R2U0q0hv_tdvpLd7f2xSAy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPovI4-QLJHkDgP4O3x3OnqgTBpeUWqfgVhdNjK=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Dhammagiri Forest Monastery - Kahatagasdigiliya",
+      "location": {
+        "lat": 8.4604112,
+        "lng": 80.7156129
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Kahatagasdigiliya, Sri Lanka",
+      "phone": "+94 257 223 403",
+      "website": "https://mahamevnawa.lk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNKsxgQI3Y3UhP512BzMBl8tACGNC2EnCIwbcCK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNbpfXpUT95tM5TfMTwqjMffBYJGMNPwgYbNzsd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPL_J4m5FEYoqJtgzEWq_RPlVRFKIIaRY_EtbCf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjwGE5JoYAb30KeET4_mWUdyisF9GdJ08MvkT3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOSVbBm-zUc-xgQjMpMvFmftYcwhrjtP1f7RjVe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPb0U8ugBEi9_KrwhLX2e2T1XXmvY5Pd2v8P2v7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9MP3SQ743is-Zph6KX8em26i7eXfzjtgQV0hn=s1600-w800-h641",
+        "https://lh3.googleusercontent.com/p/AF1QipOKj0JbaHwSmHWd67R2U0q0hv_tdvpLd7f2xSAy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPovI4-QLJHkDgP4O3x3OnqgTBpeUWqfgVhdNjK=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJL8jwSwd8_DoROyYjxZ4kbUI",
+      "google_maps_url": "https://maps.google.com/?cid=4786522243295553083",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kurunegala, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.913528100000001,
-            "lng": 80.3792354
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.914877080291502,
-              "lng": 80.3805843802915
-            },
-            "southwest": {
-              "lat": 7.912179119708498,
-              "lng": 80.37788641970849
-            }
-          }
-        },
-        "name": "Saliya Monastery",
-        "place_id": "ChIJY71Zj5fG_DoRkdT0DVVK1EA",
-        "url": "https://maps.google.com/?cid=4671440442656871569",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN7XYWlX1NXwvHtla18HEyRweZq9bFPdeXuG-pA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNbqHLqdPQLPxTkY3u4pxDdVsgKVQo55N6A-NgG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLoR71Xtf2tDXq2wT12bz2AA4CBeidZwRvETO_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNyLNDWBIQ5Mx5WwrUZ5b-y35oEJBRwncQtEHQ2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_0UhQyFtBImdqex2OFJbhRcOL-BjRU_16F7V3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXYcjOZtwpAgbwPVg2JCdNHbXL7jGUpanUDaw1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXVBaNkcyJDzrk8RyUZPBlB--AmNO-lUHDVg50=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWJb95xk_g7G99b5ZB1TxcIOO_1cZW6PdA5rur=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMt_YBWEBUKVAUG_dQkWfxij29mnM3PD-u7jVqY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPL24yQKv15-3OSV_wDXx3EtpHpfZVFzVRBat8W=s1600-w800-h800"
-        ]
+      "name": "Saliya Monastery",
+      "location": {
+        "lat": 7.913528100000001,
+        "lng": 80.3792354
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Kurunegala, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN7XYWlX1NXwvHtla18HEyRweZq9bFPdeXuG-pA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNbqHLqdPQLPxTkY3u4pxDdVsgKVQo55N6A-NgG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLoR71Xtf2tDXq2wT12bz2AA4CBeidZwRvETO_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNyLNDWBIQ5Mx5WwrUZ5b-y35oEJBRwncQtEHQ2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_0UhQyFtBImdqex2OFJbhRcOL-BjRU_16F7V3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXYcjOZtwpAgbwPVg2JCdNHbXL7jGUpanUDaw1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXVBaNkcyJDzrk8RyUZPBlB--AmNO-lUHDVg50=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWJb95xk_g7G99b5ZB1TxcIOO_1cZW6PdA5rur=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMt_YBWEBUKVAUG_dQkWfxij29mnM3PD-u7jVqY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPL24yQKv15-3OSV_wDXx3EtpHpfZVFzVRBat8W=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJY71Zj5fG_DoRkdT0DVVK1EA",
+      "google_maps_url": "https://maps.google.com/?cid=4671440442656871569",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Melsiripura, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.6613946,
-            "lng": 80.47808599999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.662858630291503,
-              "lng": 80.47954363029149
-            },
-            "southwest": {
-              "lat": 7.660160669708499,
-              "lng": 80.47684566970848
-            }
-          }
-        },
-        "name": "රණගිරිලෙන ආරණ්‍ය සේනාසනය ‐ Ranagirilena Forest Monastery",
-        "place_id": "ChIJVc4lksBK4zoRficClfUKi1g",
-        "url": "https://maps.google.com/?cid=6380205346983651198",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNWdFp6yqv46VRi-FfKrL6nMpRlPMJKuFHuva3m=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlUs3Xn2G1_kuIja07LNoxbWjw3NmGBd6wVidd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlX7byS2VvCLfP4NHQboLxrk4WrCV8cOgWmqhU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3g6HKJJGwGUhSur1lA9MdmFWcTEnCf2qBqBMh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOapb4qOvb8qrzYyb2AGKkIGXrdSB7ALq0Mk4z3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXkfTK1zEZHajZ6Br8bo_VFECt56GcKkewBKQ0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNg6qo1AzxVPddAz6uTsBomKccegjN2l07oXqCn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWlMgKuosdSgjIUQ9M2PMa-WD5WXeQSrlUKz7t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0njYkMyA3Y0k42QINTQgoPiP-l_Pq1nzNrcYL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsHfrpMAlj5mWITkBoJV9RBvrxAHW72kOcPTKB=s1600-w800-h800"
-        ]
+      "name": "රණගිරිලෙන ආරණ්‍ය සේනාසනය ‐ Ranagirilena Forest Monastery",
+      "location": {
+        "lat": 7.6613946,
+        "lng": 80.47808599999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Melsiripura, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNWdFp6yqv46VRi-FfKrL6nMpRlPMJKuFHuva3m=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlUs3Xn2G1_kuIja07LNoxbWjw3NmGBd6wVidd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlX7byS2VvCLfP4NHQboLxrk4WrCV8cOgWmqhU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3g6HKJJGwGUhSur1lA9MdmFWcTEnCf2qBqBMh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOapb4qOvb8qrzYyb2AGKkIGXrdSB7ALq0Mk4z3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXkfTK1zEZHajZ6Br8bo_VFECt56GcKkewBKQ0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNg6qo1AzxVPddAz6uTsBomKccegjN2l07oXqCn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWlMgKuosdSgjIUQ9M2PMa-WD5WXeQSrlUKz7t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0njYkMyA3Y0k42QINTQgoPiP-l_Pq1nzNrcYL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsHfrpMAlj5mWITkBoJV9RBvrxAHW72kOcPTKB=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVc4lksBK4zoRficClfUKi1g",
+      "google_maps_url": "https://maps.google.com/?cid=6380205346983651198",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Poojapitiya, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.400449699999999,
-            "lng": 80.5418443
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.403927450000004,
-              "lng": 80.54428524999999
-            },
-            "southwest": {
-              "lat": 7.399290449999999,
-              "lng": 80.54103065
-            }
-          }
-        },
-        "international_phone_number": "+94 813 153 109",
-        "name": "Rathanaghara Buddhist Monastery",
-        "place_id": "ChIJIzht5whB4zoR7Z9Yxokbopw",
-        "url": "https://maps.google.com/?cid=11286613894696050669",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPbWanzgb0AQHkXRk_EYP9c9FMHl-aGtcwBIi8V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWox81wMbX_8z0X1rQpimhWmMjMCrQBr7P53lo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_bq8V9C6193UzITm4lEz6xKk7jyODlWb3kX5z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQP3BHFQmLv7WCz9SsUgfBcPTw9XxwuqtyGFQ-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPOiALhzSFGZ3Xir69K0PlkcIvBWi65XcFW-mJ0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPF-MMr9SnmlikDzthx95AAcEWclUdUpKS_fVx4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEXfyNENYaW9j5rZsu7enOljDgX44gdutG4NrN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRKsl8IGSwk79vq1xboIu1hfkUX97xoywhtymw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPqDXDkodf2wn5VpUfwDZN4vwakQuSftSszfpYo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM82knzV2tvXi2vtkWPYy3Z-4BqM9_Rhd9is77X=s1600-w800-h800"
-        ]
+      "name": "Rathanaghara Buddhist Monastery",
+      "location": {
+        "lat": 7.400449699999999,
+        "lng": 80.5418443
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Poojapitiya, Sri Lanka",
+      "phone": "+94 813 153 109",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPbWanzgb0AQHkXRk_EYP9c9FMHl-aGtcwBIi8V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWox81wMbX_8z0X1rQpimhWmMjMCrQBr7P53lo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_bq8V9C6193UzITm4lEz6xKk7jyODlWb3kX5z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQP3BHFQmLv7WCz9SsUgfBcPTw9XxwuqtyGFQ-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPOiALhzSFGZ3Xir69K0PlkcIvBWi65XcFW-mJ0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPF-MMr9SnmlikDzthx95AAcEWclUdUpKS_fVx4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEXfyNENYaW9j5rZsu7enOljDgX44gdutG4NrN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRKsl8IGSwk79vq1xboIu1hfkUX97xoywhtymw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPqDXDkodf2wn5VpUfwDZN4vwakQuSftSszfpYo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM82knzV2tvXi2vtkWPYy3Z-4BqM9_Rhd9is77X=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJIzht5whB4zoR7Z9Yxokbopw",
+      "google_maps_url": "https://maps.google.com/?cid=11286613894696050669",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Malkaduwawa South, Kurunegala, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.478742599999999,
-            "lng": 80.34448379999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.480087330291502,
-              "lng": 80.34565573029151
-            },
-            "southwest": {
-              "lat": 7.477389369708497,
-              "lng": 80.34295776970849
-            }
-          }
-        },
-        "name": "\"ගිලන් භික්ෂු මධ්‍යස්ථානය\" (Healthcare Monastery)",
-        "place_id": "ChIJSQO5tok74zoRhUkFW5_2hHs",
-        "url": "https://maps.google.com/?cid=8900509927878248837",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "\"ගිලන් භික්ෂු මධ්‍යස්ථානය\" (Healthcare Monastery)",
+      "location": {
+        "lat": 7.478742599999999,
+        "lng": 80.34448379999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Malkaduwawa South, Kurunegala, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJSQO5tok74zoRhUkFW5_2hHs",
+      "google_maps_url": "https://maps.google.com/?cid=8900509927878248837",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Melsiripura - Madahapola Rd, Madahapola, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.716737800000002,
-            "lng": 80.49476659999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.718078180291501,
-              "lng": 80.4961196302915
-            },
-            "southwest": {
-              "lat": 7.715380219708497,
-              "lng": 80.4934216697085
-            }
-          }
-        },
-        "international_phone_number": "+94 77 544 0888",
-        "name": "Umandawa Maha Vihara Monastery",
-        "place_id": "ChIJ5RNOpwa1_DoR-NC0nBhcKY0",
-        "url": "https://maps.google.com/?cid=10171762494171042040",
-        "website": "http://www.umandawa.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOPzX3Z3y58IFfuYUzjrfOvTNIR5eflKydrnFu_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNxs3E-ZHIoiORvlgtP-3xXfv4qGkJr4AmdcEYL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMyfcx3chAGmPh6QssXgZpmojwKhn7OuLeK9c2y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM8LQVxkagWiuW6o5_IeWpHsWAUhb4JODwY5Cii=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOj0dXetVJvQ-rVdHwz1ZZLsFxINQrVRvKsH6eq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO79NabgZj2ttwsh9d7CAuGNqpucC0YuwYlRi6d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDkEI66OUH2lcUPB9bxTQBbGxT2psCE9DQwpp6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0RrRbdzCqhf2r4CRkObgtmLbvyV-2fhGc8sXs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8AVvvBMmN4Dai7rXsd9L5BcdXabOGzVTixoXP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPK4O9FNeBBSMqRUGM4x4Icl8n6xWtGDtdcBZfN=s1600-w800-h800"
-        ]
+      "name": "Umandawa Maha Vihara Monastery",
+      "location": {
+        "lat": 7.716737800000002,
+        "lng": 80.49476659999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Melsiripura - Madahapola Rd, Madahapola, Sri Lanka",
+      "phone": "+94 77 544 0888",
+      "website": "http://www.umandawa.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOPzX3Z3y58IFfuYUzjrfOvTNIR5eflKydrnFu_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNxs3E-ZHIoiORvlgtP-3xXfv4qGkJr4AmdcEYL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMyfcx3chAGmPh6QssXgZpmojwKhn7OuLeK9c2y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM8LQVxkagWiuW6o5_IeWpHsWAUhb4JODwY5Cii=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOj0dXetVJvQ-rVdHwz1ZZLsFxINQrVRvKsH6eq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO79NabgZj2ttwsh9d7CAuGNqpucC0YuwYlRi6d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDkEI66OUH2lcUPB9bxTQBbGxT2psCE9DQwpp6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0RrRbdzCqhf2r4CRkObgtmLbvyV-2fhGc8sXs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8AVvvBMmN4Dai7rXsd9L5BcdXabOGzVTixoXP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPK4O9FNeBBSMqRUGM4x4Icl8n6xWtGDtdcBZfN=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ5RNOpwa1_DoR-NC0nBhcKY0",
+      "google_maps_url": "https://maps.google.com/?cid=10171762494171042040",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.379354399999999,
-            "lng": 81.01411700000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.3807775802915,
-              "lng": 81.01544933029152
-            },
-            "southwest": {
-              "lat": 8.378079619708496,
-              "lng": 81.0127513697085
-            }
-          }
-        },
-        "name": "Sri Meththarama Buddhist Monastery",
-        "place_id": "ChIJUSGgJd93-zoRcdi5gkVDIag",
-        "url": "https://maps.google.com/?cid=12115038438428366961",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOV_HMYFDC5-kAhUA09gvbgJxjEtBXa8wdsbV6o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAQeoFavLkvo2h4PG89y8T5kK3zR4kERRxhsjH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNbWragGugDmdtHj-EG4gax39LZ8deTwPUsM60W=s1600-w540-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPxg7VkOVwj-nNAOPYunDBF1oc6PkIG2D71qDID=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipNPbtc486B6BRUv1xi8JMK-d2hVnvubbrqmJd2B=s1600-w540-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeAs4wlIOHV7UHxX5D1gVMmcFpX3cTC4QCcKdU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0k92JqkXNgeBbQx-UqnAYhg3WRKr7g3XQqJGM=s1600-w800-h800"
-        ]
+      "name": "Sri Meththarama Buddhist Monastery",
+      "location": {
+        "lat": 8.379354399999999,
+        "lng": 81.01411700000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOV_HMYFDC5-kAhUA09gvbgJxjEtBXa8wdsbV6o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAQeoFavLkvo2h4PG89y8T5kK3zR4kERRxhsjH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNbWragGugDmdtHj-EG4gax39LZ8deTwPUsM60W=s1600-w540-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPxg7VkOVwj-nNAOPYunDBF1oc6PkIG2D71qDID=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipNPbtc486B6BRUv1xi8JMK-d2hVnvubbrqmJd2B=s1600-w540-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeAs4wlIOHV7UHxX5D1gVMmcFpX3cTC4QCcKdU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0k92JqkXNgeBbQx-UqnAYhg3WRKr7g3XQqJGM=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJUSGgJd93-zoRcdi5gkVDIag",
+      "google_maps_url": "https://maps.google.com/?cid=12115038438428366961",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "sapumalgaskada, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.8964073,
-            "lng": 80.655672
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.897693380291502,
-              "lng": 80.6571873802915
-            },
-            "southwest": {
-              "lat": 8.894995419708497,
-              "lng": 80.65448941970848
-            }
-          }
-        },
-        "international_phone_number": "+94 77 457 8791",
-        "name": "Sapumalgaskada Buddhist Monastery (සපුමල්ගස්කඩ බොදුබිම)",
-        "place_id": "ChIJwwzTRjQb_DoR5oQEbl7RDWA",
-        "url": "https://maps.google.com/?cid=6921418405841241318",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPpPoXQkDvNRSUVGvLcACugd4pHvio1J8Lq9Fca=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtWmiy_vLNg_hS1GoJpl6DVYrJLe_zNBA7bUTP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgL0FPbBtx4CZtO6AnnKHe69XrO_7gnK2PrhNd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMoVmIdjKh1tm6vq1BABypWxr5ZoFg-Kf5UpEG1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkMxQGWzgJhUrDMeb-0T4QofrzihSRytIV1m4a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNyO3hsPuMa5UjwFZkxXr3LW340i1uDpWu6t4eo=s1600-w800-h576",
-          "https://lh3.googleusercontent.com/p/AF1QipNplcP_Qo3NknceHxxihraNEe4AKSa1fKIKiXMs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5geL04RI7F5NwYXVb3qgHMEzpfsg1fZbhu421=s1600-w720-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipNZaGe5FVuTRKiyva4cRf0w99ScV-FL8whsnNp1=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipPAmPBarz3vd8TwOkK8UQFK3xG2yqbcSRxOCwlT=s1600-w800-h800"
-        ]
+      "name": "Sapumalgaskada Buddhist Monastery (සපුමල්ගස්කඩ බොදුබිම)",
+      "location": {
+        "lat": 8.8964073,
+        "lng": 80.655672
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "sapumalgaskada, Sri Lanka",
+      "phone": "+94 77 457 8791",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPpPoXQkDvNRSUVGvLcACugd4pHvio1J8Lq9Fca=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtWmiy_vLNg_hS1GoJpl6DVYrJLe_zNBA7bUTP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgL0FPbBtx4CZtO6AnnKHe69XrO_7gnK2PrhNd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMoVmIdjKh1tm6vq1BABypWxr5ZoFg-Kf5UpEG1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkMxQGWzgJhUrDMeb-0T4QofrzihSRytIV1m4a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNyO3hsPuMa5UjwFZkxXr3LW340i1uDpWu6t4eo=s1600-w800-h576",
+        "https://lh3.googleusercontent.com/p/AF1QipNplcP_Qo3NknceHxxihraNEe4AKSa1fKIKiXMs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5geL04RI7F5NwYXVb3qgHMEzpfsg1fZbhu421=s1600-w720-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipNZaGe5FVuTRKiyva4cRf0w99ScV-FL8whsnNp1=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipPAmPBarz3vd8TwOkK8UQFK3xG2yqbcSRxOCwlT=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJwwzTRjQb_DoR5oQEbl7RDWA",
+      "google_maps_url": "https://maps.google.com/?cid=6921418405841241318",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Anuradhapura, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.3679465,
-            "lng": 80.3890559
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.369295480291502,
-              "lng": 80.39040488029151
-            },
-            "southwest": {
-              "lat": 8.366597519708497,
-              "lng": 80.3877069197085
-            }
-          }
-        },
-        "name": "Square Stupa Abhayagiri Monastery",
-        "place_id": "ChIJL1rGE2Bf_DoRpgt72SM5pqc",
-        "url": "https://maps.google.com/?cid=12080405876603292582",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMwf5iB2b6PfRFTUpGwRlVviZbcTasnRVQaWNOj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjdI77dhn604OWoPeQBD0uG6RkZtkuLk8qjDQT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPp_v1ZpCxuslAeXUeZQK7NF2rm4jVIQeuM0hGi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMMOi2yQkx0YZNtPh63lL4bC3C-TbQyjbg1n_ul=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNRNI1cAq8kDKXBp9lyM6aUAdGL7pNTwl_eWBd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6g1tQcC3aperwbzuYgngLMIiT0NWDTaO9v-Co=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVZcuR-FUIvVb9X0RTAUcYdRvI9ufT5Pw54U4t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9488F-7f_e2N0ae0QOev1VtjKW04kigfryS2Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6kCGiKTTj2ShWANRU0L461n7kD6Kt_TD4GCLu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6r-AZ2BWfLu_VoiwAulb91Snh3agdY41IiCMo=s1600-w800-h800"
-        ]
+      "name": "Square Stupa Abhayagiri Monastery",
+      "location": {
+        "lat": 8.3679465,
+        "lng": 80.3890559
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Anuradhapura, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMwf5iB2b6PfRFTUpGwRlVviZbcTasnRVQaWNOj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjdI77dhn604OWoPeQBD0uG6RkZtkuLk8qjDQT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPp_v1ZpCxuslAeXUeZQK7NF2rm4jVIQeuM0hGi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMMOi2yQkx0YZNtPh63lL4bC3C-TbQyjbg1n_ul=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNRNI1cAq8kDKXBp9lyM6aUAdGL7pNTwl_eWBd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6g1tQcC3aperwbzuYgngLMIiT0NWDTaO9v-Co=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVZcuR-FUIvVb9X0RTAUcYdRvI9ufT5Pw54U4t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9488F-7f_e2N0ae0QOev1VtjKW04kigfryS2Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6kCGiKTTj2ShWANRU0L461n7kD6Kt_TD4GCLu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6r-AZ2BWfLu_VoiwAulb91Snh3agdY41IiCMo=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJL1rGE2Bf_DoRpgt72SM5pqc",
+      "google_maps_url": "https://maps.google.com/?cid=12080405876603292582",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Puttalam-Anuradhapura-Trincomalee Hwy, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.5830422,
-            "lng": 80.8546114
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.584473380291502,
-              "lng": 80.85602868029152
-            },
-            "southwest": {
-              "lat": 8.581775419708498,
-              "lng": 80.85333071970851
-            }
-          }
-        },
-        "name": "Ralapanawa Monastery",
-        "place_id": "ChIJ3_8c4feI-zoRys3AqRA1Gv0",
-        "url": "https://maps.google.com/?cid=18237947986673978826",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM5KWvI8hmeIiyOPqLlSKsq8VYYdXtlScoZCwHS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPlc8SuWC5c3g3OgmgKRjWyFlsaPhDw2s9a-FBP=s1600-w800-h542",
-          "https://lh3.googleusercontent.com/p/AF1QipPlxgBqk2LlLpyjm3n9HpAmGp925hjojIV3Mxhe=s1600-w800-h542",
-          "https://lh3.googleusercontent.com/p/AF1QipONPDcLFv0OqcQfP_EgaY1Pzix-JK_HIWn-qRkO=s1600-w800-h542",
-          "https://lh3.googleusercontent.com/p/AF1QipPzGoyV4sFV2943LSjZVeYCGF9gtucWLyscFVVG=s1600-w800-h542",
-          "https://lh3.googleusercontent.com/p/AF1QipNYfQfbG84gcs2pCR2FQvIub_rqwU4_ImduDRU7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3cFbOxngEdi0Qv-sV_6Vi_7RGd0lzppYumEwg=s1600-w800-h542",
-          "https://lh3.googleusercontent.com/p/AF1QipOFjYiVrtyWqDLugqt_F77-wr5n7kzFbVF8WAsJ=s1600-w542-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgncMjQ1YUeH1wNtGaH0DRvFJyNsWHVIyGzJxg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUCzgnd-sWeJFIHW2dpDnJvaS1qZZxWe_zWHPR=s1600-w800-h800"
-        ]
+      "name": "Ralapanawa Monastery",
+      "location": {
+        "lat": 8.5830422,
+        "lng": 80.8546114
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Puttalam-Anuradhapura-Trincomalee Hwy, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM5KWvI8hmeIiyOPqLlSKsq8VYYdXtlScoZCwHS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPlc8SuWC5c3g3OgmgKRjWyFlsaPhDw2s9a-FBP=s1600-w800-h542",
+        "https://lh3.googleusercontent.com/p/AF1QipPlxgBqk2LlLpyjm3n9HpAmGp925hjojIV3Mxhe=s1600-w800-h542",
+        "https://lh3.googleusercontent.com/p/AF1QipONPDcLFv0OqcQfP_EgaY1Pzix-JK_HIWn-qRkO=s1600-w800-h542",
+        "https://lh3.googleusercontent.com/p/AF1QipPzGoyV4sFV2943LSjZVeYCGF9gtucWLyscFVVG=s1600-w800-h542",
+        "https://lh3.googleusercontent.com/p/AF1QipNYfQfbG84gcs2pCR2FQvIub_rqwU4_ImduDRU7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3cFbOxngEdi0Qv-sV_6Vi_7RGd0lzppYumEwg=s1600-w800-h542",
+        "https://lh3.googleusercontent.com/p/AF1QipOFjYiVrtyWqDLugqt_F77-wr5n7kzFbVF8WAsJ=s1600-w542-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgncMjQ1YUeH1wNtGaH0DRvFJyNsWHVIyGzJxg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUCzgnd-sWeJFIHW2dpDnJvaS1qZZxWe_zWHPR=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ3_8c4feI-zoRys3AqRA1Gv0",
+      "google_maps_url": "https://maps.google.com/?cid=18237947986673978826",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Eropothana, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.812306399999999,
-            "lng": 80.5946809
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.814071080291502,
-              "lng": 80.5955122302915
-            },
-            "southwest": {
-              "lat": 8.811373119708497,
-              "lng": 80.5928142697085
-            }
-          }
-        },
-        "name": "Kibulagala ancient buddhist rock monastery /කිඹුලාගල ගල් ලෙන් පර්වත විහාරය",
-        "place_id": "ChIJ8WjKQBwR_DoRcZPK_S95sSM",
-        "url": "https://maps.google.com/?cid=2571970109233599345",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPAxDM7ChlIzwSV634y64k6brpL84fmEshNf6yA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXANvTtwXl6Dbjve_nMs7xdnvSF3voYWfLWG_C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFoRkQAFE9PUFpbN-ghA6y3wDoHbJ9oUkuN8R7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdVrbsq_NJWGGsgyMZpFl9yjhtLIxQin02v5aO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2yRZeUMBM002UV3mAa2LFx_83hOo3EhjC2gGs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5A7QJPuBu66Yh1MzL8xYVzyWsO8nc8EEILpHt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO56EPOMB0I5gkp4R4_hkUTi940BJuxw4lz4VzO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOO2j1WFF9SccznMuuwXoWqMf-TnmJIPfjqzABy=s1600-w800-h800"
-        ]
+      "name": "Kibulagala ancient buddhist rock monastery /කිඹුලාගල ගල් ලෙන් පර්වත විහාරය",
+      "location": {
+        "lat": 8.812306399999999,
+        "lng": 80.5946809
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Eropothana, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPAxDM7ChlIzwSV634y64k6brpL84fmEshNf6yA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXANvTtwXl6Dbjve_nMs7xdnvSF3voYWfLWG_C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFoRkQAFE9PUFpbN-ghA6y3wDoHbJ9oUkuN8R7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdVrbsq_NJWGGsgyMZpFl9yjhtLIxQin02v5aO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2yRZeUMBM002UV3mAa2LFx_83hOo3EhjC2gGs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5A7QJPuBu66Yh1MzL8xYVzyWsO8nc8EEILpHt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO56EPOMB0I5gkp4R4_hkUTi940BJuxw4lz4VzO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOO2j1WFF9SccznMuuwXoWqMf-TnmJIPfjqzABy=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ8WjKQBwR_DoRcZPK_S95sSM",
+      "google_maps_url": "https://maps.google.com/?cid=2571970109233599345",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Pahala Usgollewa, Kebitigollewa, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.6517259,
-            "lng": 80.7017468
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.652912830291502,
-              "lng": 80.70316653029151
-            },
-            "southwest": {
-              "lat": 8.650214869708499,
-              "lng": 80.70046856970849
-            }
-          }
-        },
-        "international_phone_number": "+94 253 243 409",
-        "name": "Mahamevnawa Bhatiyagiri Forest Monastery - Kebitigollewa",
-        "place_id": "ChIJdc5GLOpz_DoRvQ53VjY04CI",
-        "url": "https://maps.google.com/?cid=2513066000056258237",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPbCg1zYO76LRe1Wx6OLFILl29t4wlut897y2xh=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipPkI7W5NE2fTy_63aZx4J6DLsOwXI7a6uxLj2pR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_FgqWM7wly99XplSXmG0qJX-O9NwDA02OTXUk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_uHBZmtp2Z9te4u2rxnJ8g-lvUQMsXmnUMJSr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVfTU5xkSX79GK6LKtnli-bVtbFXDVbUKkL9s0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVT2bDqLfsACHB9nRBSWe4kRdJzUvporuVNp5O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1t7pVbZzXljsf-VZ_npFbHgWkGX23P_sVVlyI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNnOUtZ8LZaPEJ9-KKFGXbWW5MXYhdfsPEJDbEO=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipPZZJkVaiGy4fo6T2r0wrk1YsiLxsSFI3MFE93N=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkgfDYgJvq7S8wAKKhmx1Nq876GGQo4Upl32Ot=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Bhatiyagiri Forest Monastery - Kebitigollewa",
+      "location": {
+        "lat": 8.6517259,
+        "lng": 80.7017468
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Pahala Usgollewa, Kebitigollewa, Sri Lanka",
+      "phone": "+94 253 243 409",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPbCg1zYO76LRe1Wx6OLFILl29t4wlut897y2xh=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipPkI7W5NE2fTy_63aZx4J6DLsOwXI7a6uxLj2pR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_FgqWM7wly99XplSXmG0qJX-O9NwDA02OTXUk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_uHBZmtp2Z9te4u2rxnJ8g-lvUQMsXmnUMJSr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVfTU5xkSX79GK6LKtnli-bVtbFXDVbUKkL9s0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVT2bDqLfsACHB9nRBSWe4kRdJzUvporuVNp5O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1t7pVbZzXljsf-VZ_npFbHgWkGX23P_sVVlyI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNnOUtZ8LZaPEJ9-KKFGXbWW5MXYhdfsPEJDbEO=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipPZZJkVaiGy4fo6T2r0wrk1YsiLxsSFI3MFE93N=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkgfDYgJvq7S8wAKKhmx1Nq876GGQo4Upl32Ot=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJdc5GLOpz_DoRvQ53VjY04CI",
+      "google_maps_url": "https://maps.google.com/?cid=2513066000056258237",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Anuradhapura, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.3691256,
-            "lng": 80.3929249
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.370550530291501,
-              "lng": 80.3942724302915
-            },
-            "southwest": {
-              "lat": 8.367852569708496,
-              "lng": 80.39157446970849
-            }
-          }
-        },
-        "name": "Second Samadhi Statue at Abayagiri Monastery",
-        "place_id": "ChIJdbDdmmFf_DoR8k44_iKmJYc",
-        "url": "https://maps.google.com/?cid=9738372438482767602",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPCFQf2MWIN95_YKJUcTNb7CdsxeZnEmRCSJCnq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPDhFKwnY9VK9Kn-t7onyVGQWrJUqLXesKxcJeG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcUmn_ZZ7bqlzaVoW2Rsx7OhejXIsIcjp-r9MA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMrRaLy8GrkSTNrs8jCjtwUUV3tN9TXdTRIOgV7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOb-LV0EyIW_8ByD1djvWKc3aux4HSbDaJYnmpc=s1600-w533-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNjgywwgT-iQYxdG867ty-PT_RInvcF4OUOE2oK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOiRv8IjyIjcHFUs5GurVSCcBZdu2ZeI0PYSdL4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPg-2KyrvHGS5KsBs8cs5ThqgNRN0lGdF1j-VeF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4fIzgPOb8JN7NFx3pRi7QXGwfCb_WEImTcEGG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9w4HlIQEz9WNBrFhqZrnpJS34wTnidgsmHEUV=s1600-w800-h800"
-        ]
+      "name": "Second Samadhi Statue at Abayagiri Monastery",
+      "location": {
+        "lat": 8.3691256,
+        "lng": 80.3929249
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Anuradhapura, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPCFQf2MWIN95_YKJUcTNb7CdsxeZnEmRCSJCnq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPDhFKwnY9VK9Kn-t7onyVGQWrJUqLXesKxcJeG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcUmn_ZZ7bqlzaVoW2Rsx7OhejXIsIcjp-r9MA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMrRaLy8GrkSTNrs8jCjtwUUV3tN9TXdTRIOgV7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOb-LV0EyIW_8ByD1djvWKc3aux4HSbDaJYnmpc=s1600-w533-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNjgywwgT-iQYxdG867ty-PT_RInvcF4OUOE2oK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOiRv8IjyIjcHFUs5GurVSCcBZdu2ZeI0PYSdL4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPg-2KyrvHGS5KsBs8cs5ThqgNRN0lGdF1j-VeF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4fIzgPOb8JN7NFx3pRi7QXGwfCb_WEImTcEGG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9w4HlIQEz9WNBrFhqZrnpJS34wTnidgsmHEUV=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJdbDdmmFf_DoR8k44_iKmJYc",
+      "google_maps_url": "https://maps.google.com/?cid=9738372438482767602",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Arisimalai Beach, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.935333,
-            "lng": 81.007235
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.9361563,
-              "lng": 81.0079825302915
-            },
-            "southwest": {
-              "lat": 8.932863100000002,
-              "lng": 81.0052845697085
-            }
-          }
-        },
-        "name": "Arisimalai Forest Monastery",
-        "place_id": "ChIJ6YuvCGLl-zoRv1bWV16eV_8",
-        "url": "https://maps.google.com/?cid=18399348930683229887",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMbOSkv5Qlpp-19n13-ny7dUVBBCxSOnY_gKTPO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzJhgw8zBIQoWhDRbKSJ06okDr1Av0Wq6nhNNI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzbDmrmAM8U4aM0gQvtVHH3rDSD-sf5Zd04nHj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4QnehZTzOUm1DpanwEKtv-fkWYWnaIuS67wKY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9r1lMSOx6Fkub1pzBadihCuW0953eoicZEmsH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP-bFq8pDGYzoA8KSdAGoOkri2e0Nrv6faPojak=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjwmTWm9xJVi_sbCP1TpAJSGxmpwEeCDMNFSbi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgZ9RzcjboHnPv404EqgHSXhfpMqulobQeKfcb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMf2-eByCZvMgWzBN-H6Ne4IZHGDxcbBxK2wWqF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOu59CK0DkvOk1osE80IswkIB06rZ9G4rG-jns3=s1600-w800-h800"
-        ]
+      "name": "Arisimalai Forest Monastery",
+      "location": {
+        "lat": 8.935333,
+        "lng": 81.007235
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Arisimalai Beach, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMbOSkv5Qlpp-19n13-ny7dUVBBCxSOnY_gKTPO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzJhgw8zBIQoWhDRbKSJ06okDr1Av0Wq6nhNNI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzbDmrmAM8U4aM0gQvtVHH3rDSD-sf5Zd04nHj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4QnehZTzOUm1DpanwEKtv-fkWYWnaIuS67wKY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9r1lMSOx6Fkub1pzBadihCuW0953eoicZEmsH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP-bFq8pDGYzoA8KSdAGoOkri2e0Nrv6faPojak=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjwmTWm9xJVi_sbCP1TpAJSGxmpwEeCDMNFSbi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgZ9RzcjboHnPv404EqgHSXhfpMqulobQeKfcb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMf2-eByCZvMgWzBN-H6Ne4IZHGDxcbBxK2wWqF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOu59CK0DkvOk1osE80IswkIB06rZ9G4rG-jns3=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ6YuvCGLl-zoRv1bWV16eV_8",
+      "google_maps_url": "https://maps.google.com/?cid=18399348930683229887",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Anuradhapura, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.3446885,
-            "lng": 80.3965833
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.346036380291503,
-              "lng": 80.3979449802915
-            },
-            "southwest": {
-              "lat": 8.343338419708498,
-              "lng": 80.39524701970849
-            }
-          }
-        },
-        "international_phone_number": "+94 252 222 367",
-        "name": "මහා විහාරය (Maha Viharaya), Anuradhapura",
-        "place_id": "ChIJ7WiMd731_DoR5s41sXQ8QYY",
-        "url": "https://maps.google.com/?cid=9674079946455502566",
-        "website": "http://www.srimahabodhi.lk/web",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMEhXsHiWTsBkWspnYjDCt_OfRy1SBPC7CC_C9V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9wEs9HK1cBum8XXED6IFsRCSRK4h2FUeGd887=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5bLhpySlnKqW7KTNk66J7TGsVeAhgt3nQwYJD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPth_mdg3pdGtaUyESm0hQjbjtCd-KioUqDjnET=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_6B0qwlS7F6aV2my4Rx6fF6a-t84goC2IdVG7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXPzxfLxhjq7mYd2FkSMEvpjlkoxj5ciIGo6ZJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPt_rsdGX0gS1BvZqGQoMTdA4a57tu3WHNtu7Ku=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPeGu0W9nY3j-lP-jaTvInUql5uyNvxzejp00w6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgS79OaChGbTvm1aGXQRBA7Q8vXdCwEbxnEmT6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNN9MhV29tS_JhADHfsUUUpAVe6Fx71SlXtl0Jm=s1600-w800-h800"
-        ]
+      "name": "මහා විහාරය (Maha Viharaya), Anuradhapura",
+      "location": {
+        "lat": 8.3446885,
+        "lng": 80.3965833
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Anuradhapura, Sri Lanka",
+      "phone": "+94 252 222 367",
+      "website": "http://www.srimahabodhi.lk/web",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMEhXsHiWTsBkWspnYjDCt_OfRy1SBPC7CC_C9V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9wEs9HK1cBum8XXED6IFsRCSRK4h2FUeGd887=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5bLhpySlnKqW7KTNk66J7TGsVeAhgt3nQwYJD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPth_mdg3pdGtaUyESm0hQjbjtCd-KioUqDjnET=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_6B0qwlS7F6aV2my4Rx6fF6a-t84goC2IdVG7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXPzxfLxhjq7mYd2FkSMEvpjlkoxj5ciIGo6ZJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPt_rsdGX0gS1BvZqGQoMTdA4a57tu3WHNtu7Ku=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPeGu0W9nY3j-lP-jaTvInUql5uyNvxzejp00w6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgS79OaChGbTvm1aGXQRBA7Q8vXdCwEbxnEmT6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNN9MhV29tS_JhADHfsUUUpAVe6Fx71SlXtl0Jm=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ7WiMd731_DoR5s41sXQ8QYY",
+      "google_maps_url": "https://maps.google.com/?cid=9674079946455502566",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Eropothana, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.806033200000002,
-            "lng": 80.58817479999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.807505930291503,
-              "lng": 80.58908758029149
-            },
-            "southwest": {
-              "lat": 8.804807969708499,
-              "lng": 80.58638961970848
-            }
-          }
-        },
-        "name": "Erupothana Ancient Buddhist Cave Monastery",
-        "place_id": "ChIJMy4pSuMT_DoRvP7eHpH7bns",
-        "url": "https://maps.google.com/?cid=8894322914810068668",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPpy1v0-7pwiMgaTxS9TZFaBhBYFk7g9r1PXQz7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnIZyl4X0kgmii3A-gfXMLLz9ZdFEYuwSkFaPD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsdriJV0jE5IPgypp-K-DEoiSO2WM2fQ86l2hh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8pFXScA_EFm9f9yUlAi7ObNVZ5wpsS-L5AekQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2ylCSZ0I_Yxz31hc4jrDYvTyoQr2DpFYV2brr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwcrlCE7yx1dnjfb2GWEEELAMGkzKdCMizLuR7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRGEa-CocxMbp1R3_HYfxIHebP713ULJ7QW04T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOajIzgF83tOIIUwzPNo9mpJ1X2Xc9NnobNPdhm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOFGUMOMIGmdpl3R61fQ7mZ1O_HLhXEpDVWfyli=s1600-w800-h800"
-        ]
+      "name": "Erupothana Ancient Buddhist Cave Monastery",
+      "location": {
+        "lat": 8.806033200000002,
+        "lng": 80.58817479999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Eropothana, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPpy1v0-7pwiMgaTxS9TZFaBhBYFk7g9r1PXQz7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnIZyl4X0kgmii3A-gfXMLLz9ZdFEYuwSkFaPD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsdriJV0jE5IPgypp-K-DEoiSO2WM2fQ86l2hh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8pFXScA_EFm9f9yUlAi7ObNVZ5wpsS-L5AekQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2ylCSZ0I_Yxz31hc4jrDYvTyoQr2DpFYV2brr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwcrlCE7yx1dnjfb2GWEEELAMGkzKdCMizLuR7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRGEa-CocxMbp1R3_HYfxIHebP713ULJ7QW04T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOajIzgF83tOIIUwzPNo9mpJ1X2Xc9NnobNPdhm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOFGUMOMIGmdpl3R61fQ7mZ1O_HLhXEpDVWfyli=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJMy4pSuMT_DoRvP7eHpH7bns",
+      "google_maps_url": "https://maps.google.com/?cid=8894322914810068668",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kiwlekada,Kokawewa,Gatalawa,Galenbindunuwewa, 50390, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.3300544,
-            "lng": 80.81057489999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.33364555,
-              "lng": 80.81181495
-            },
-            "southwest": {
-              "lat": 8.32885735,
-              "lng": 80.80685474999999
-            }
-          }
-        },
-        "name": "Hinnakandha monastery, හීන්නකන්ද ආරණ්‍ය සේනාසනය.",
-        "place_id": "ChIJGRTwcCp--zoRGqohwG5WiTU",
-        "url": "https://maps.google.com/?cid=3857709589489363482",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMrNkrkctGUd6tBX469VYVJkdFaMzrNloVF5Btd=s1600-w800-h474",
-          "https://lh3.googleusercontent.com/p/AF1QipO2nim2QGDCLVZ7CDwd6c6bZtUytleFv3l6Ndmb=s1600-w540-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOsTxCTZt7dDmyXBrnHDphw2yXsY_MuodG86uCC=s1600-w540-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMc4NeVFXpcHX8JIiQ3-ITv9U07TUgrLL-kSwKi=s1600-w800-h474",
-          "https://lh3.googleusercontent.com/p/AF1QipNP7i0mDfA-ggxpJDhT6Xq_2wDgup4fHSOM8t3Y=s1600-w800-h474",
-          "https://lh3.googleusercontent.com/p/AF1QipP_tl6cLBH0JhdLuhkwITwj_hpXJuEsIOrfE27I=s1600-w800-h474",
-          "https://lh3.googleusercontent.com/p/AF1QipOGVj0JTLotRgULuNKZ394j9SZcd1b7Tm5jWAYo=s1600-w528-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8ISLWxEkGw-nvOE0GFxEEJNj46RxgyzTpPuCz=s1600-w800-h474",
-          "https://lh3.googleusercontent.com/p/AF1QipPlLY3CWVEWrqWexjuVZ8A6VtrwDmAgJB7n7l_q=s1600-w800-h463",
-          "https://lh3.googleusercontent.com/p/AF1QipMD40gNZ6ctxYqSclsLSC43mwjPT00TY-wTdy-L=s1600-w800-h800"
-        ]
+      "name": "Hinnakandha monastery, හීන්නකන්ද ආරණ්‍ය සේනාසනය.",
+      "location": {
+        "lat": 8.3300544,
+        "lng": 80.81057489999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Kiwlekada,Kokawewa,Gatalawa,Galenbindunuwewa, 50390, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMrNkrkctGUd6tBX469VYVJkdFaMzrNloVF5Btd=s1600-w800-h474",
+        "https://lh3.googleusercontent.com/p/AF1QipO2nim2QGDCLVZ7CDwd6c6bZtUytleFv3l6Ndmb=s1600-w540-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOsTxCTZt7dDmyXBrnHDphw2yXsY_MuodG86uCC=s1600-w540-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMc4NeVFXpcHX8JIiQ3-ITv9U07TUgrLL-kSwKi=s1600-w800-h474",
+        "https://lh3.googleusercontent.com/p/AF1QipNP7i0mDfA-ggxpJDhT6Xq_2wDgup4fHSOM8t3Y=s1600-w800-h474",
+        "https://lh3.googleusercontent.com/p/AF1QipP_tl6cLBH0JhdLuhkwITwj_hpXJuEsIOrfE27I=s1600-w800-h474",
+        "https://lh3.googleusercontent.com/p/AF1QipOGVj0JTLotRgULuNKZ394j9SZcd1b7Tm5jWAYo=s1600-w528-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8ISLWxEkGw-nvOE0GFxEEJNj46RxgyzTpPuCz=s1600-w800-h474",
+        "https://lh3.googleusercontent.com/p/AF1QipPlLY3CWVEWrqWexjuVZ8A6VtrwDmAgJB7n7l_q=s1600-w800-h463",
+        "https://lh3.googleusercontent.com/p/AF1QipMD40gNZ6ctxYqSclsLSC43mwjPT00TY-wTdy-L=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGRTwcCp--zoRGqohwG5WiTU",
+      "google_maps_url": "https://maps.google.com/?cid=3857709589489363482",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Baswakkulama Rd, Anuradhapura, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.3573954,
-            "lng": 80.3868476
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.35810125,
-              "lng": 80.38839463029151
-            },
-            "southwest": {
-              "lat": 8.35527785,
-              "lng": 80.3856966697085
-            }
-          }
-        },
-        "international_phone_number": "+94 71 407 9712",
-        "name": "Dammahadaya Viharaya",
-        "place_id": "ChIJnQhswPL1_DoRQfvCDwyPv8c",
-        "url": "https://maps.google.com/?cid=14393380216066210625",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPkAYQVERMMU1oHx7HtzG875oKsBV83Xgd70ojc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQjJUmaemwrva3KwBwlPQpVNTW9FYZlTMXsLV7=s1600-w800-h800"
-        ]
+      "name": "Dammahadaya Viharaya",
+      "location": {
+        "lat": 8.3573954,
+        "lng": 80.3868476
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Baswakkulama Rd, Anuradhapura, Sri Lanka",
+      "phone": "+94 71 407 9712",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPkAYQVERMMU1oHx7HtzG875oKsBV83Xgd70ojc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQjJUmaemwrva3KwBwlPQpVNTW9FYZlTMXsLV7=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJnQhswPL1_DoRQfvCDwyPv8c",
+      "google_maps_url": "https://maps.google.com/?cid=14393380216066210625",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Yanoya Aniket, pulmuddai, Trincomalee, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.855134,
-            "lng": 80.93171
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.856592580291501,
-              "lng": 80.9330933802915
-            },
-            "southwest": {
-              "lat": 8.853894619708496,
-              "lng": 80.93039541970849
-            }
-          }
-        },
-        "name": "Mihindulena Forest Monastery",
-        "place_id": "ChIJ6ZGarBzx-zoRbZD8aYJpuHM",
-        "url": "https://maps.google.com/?cid=8338530718921298029",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNdF-FdenokCtW7ci3O52eA_Igx8a6vE5ybAfbv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcM8b9KAVaKPzfQJxMs5l7YpEZtD3GS8KWVAlr=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipPnuo3JPqSso_MVBxj9BLqHDIKAz0aJPuVEv0Di=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcjefDToUehRDYRKA7T3WMqqbG3xNhOHXfIgpN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfb1tgAjVdx83G99VdsstGyHPRUqCUvIJ_NSub=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipOGDrzhT11ExI29L-kRcR2yHR0XXKUvxLhO23Uv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRUqpIldOeoFdLzu70r9cYIyfD97EQAfxVzCC0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_OvRb0NxVr-4dmwJK3wxMUVkFRrtmmpahh7pd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM06FiUTcVjK-JBG_vjFYHkZz4OFclL7bqG7eqi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5nA5gfq2aWlRCEu4Ts_A9nI4-w49BIIIGIkCi=s1600-w800-h800"
-        ]
+      "name": "Mihindulena Forest Monastery",
+      "location": {
+        "lat": 8.855134,
+        "lng": 80.93171
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Yanoya Aniket, pulmuddai, Trincomalee, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNdF-FdenokCtW7ci3O52eA_Igx8a6vE5ybAfbv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcM8b9KAVaKPzfQJxMs5l7YpEZtD3GS8KWVAlr=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipPnuo3JPqSso_MVBxj9BLqHDIKAz0aJPuVEv0Di=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcjefDToUehRDYRKA7T3WMqqbG3xNhOHXfIgpN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfb1tgAjVdx83G99VdsstGyHPRUqCUvIJ_NSub=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipOGDrzhT11ExI29L-kRcR2yHR0XXKUvxLhO23Uv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRUqpIldOeoFdLzu70r9cYIyfD97EQAfxVzCC0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_OvRb0NxVr-4dmwJK3wxMUVkFRrtmmpahh7pd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM06FiUTcVjK-JBG_vjFYHkZz4OFclL7bqG7eqi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5nA5gfq2aWlRCEu4Ts_A9nI4-w49BIIIGIkCi=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ6ZGarBzx-zoRbZD8aYJpuHM",
+      "google_maps_url": "https://maps.google.com/?cid=8338530718921298029",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Anuradhapura, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.5701514,
-            "lng": 80.85037419999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.571177130291503,
-              "lng": 80.8510694302915
-            },
-            "southwest": {
-              "lat": 8.568479169708498,
-              "lng": 80.8483714697085
-            }
-          }
-        },
-        "name": "Madagama Kanda Temple",
-        "place_id": "ChIJi4fQGGGI-zoRPEY4346T-Js",
-        "url": "https://maps.google.com/?cid=11238895111942719036",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMtu0x59wQnoVYeeYU4nGM10gN8VyEXGZRfrGXf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBeOpXh7JfSWdWSGxGwnAFoNsztQ7Dtli6FCoh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNN_iExFNO4viRqj8m8eCqYHbQIz2RCmCZ4Ab2E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMuslAyEECP5FSfAmuWC-rx9ldG7hQQhGBqUITX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqwZoeC_W2SCtjDb35YAIBDw5O9qbZCN4r6JeX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrs7BUPMDABgPMwaEYFi-oapMW4WEVyIPCL6uD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKIy4K3G3G5etP9ydM4vdfTAdycDIZWVQSo-UP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMU2WEcxhKo_EuLGBHSXUGVYbWETHlxdE-LGef7=s1600-w720-h800"
-        ]
+      "name": "Madagama Kanda Temple",
+      "location": {
+        "lat": 8.5701514,
+        "lng": 80.85037419999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Anuradhapura, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMtu0x59wQnoVYeeYU4nGM10gN8VyEXGZRfrGXf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBeOpXh7JfSWdWSGxGwnAFoNsztQ7Dtli6FCoh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNN_iExFNO4viRqj8m8eCqYHbQIz2RCmCZ4Ab2E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMuslAyEECP5FSfAmuWC-rx9ldG7hQQhGBqUITX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqwZoeC_W2SCtjDb35YAIBDw5O9qbZCN4r6JeX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrs7BUPMDABgPMwaEYFi-oapMW4WEVyIPCL6uD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKIy4K3G3G5etP9ydM4vdfTAdycDIZWVQSo-UP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMU2WEcxhKo_EuLGBHSXUGVYbWETHlxdE-LGef7=s1600-w720-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJi4fQGGGI-zoRPEY4346T-Js",
+      "google_maps_url": "https://maps.google.com/?cid=11238895111942719036",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dakunu Paliyagama, ආණමඩුව 61500, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.913194199999999,
-            "lng": 79.9873188
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.914210330291501,
-              "lng": 79.9886349302915
-            },
-            "southwest": {
-              "lat": 7.911512369708497,
-              "lng": 79.98593696970849
-            }
-          }
-        },
-        "international_phone_number": "+94 324 930 974",
-        "name": "Mahamevnawa Buddhist Monastery - Anamaduwa",
-        "place_id": "ChIJ2VeAxhIk_ToRvClV4pwsRV8",
-        "url": "https://maps.google.com/?cid=6864942259319941564",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMPaCtIW_uOVY5safeO3RbjtPJdU7S4isohg3Wy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZeXwyAQUAgED7vUEva3IlPFCHY6RldsMOwkH0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMj13at7JfxVuP7M7hcMkI_IAR5jmCoIlrpTAfF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGviaxNck6NzM6_A7bFlAXebwqnscSHgfbid_o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0E5a6L59bBe-308D52v1Iua53O6s1b336LAhL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQfsRdPzWr2tgeLcSUJFlPn6gB31Av8vJzy0YE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPDrVpuLXSqw8dbwSxBwQ2i1pYkivZfh0RpD-ku=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNHJAG1N3NTgLKEHTyT7ZvGHZ5rRTnL-IhSl8hM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPOacSwqKgv5QNTuKUL9I6z2IkD1TRAeItsj8q9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvv5safS4yOf67icY_tmgfxjRzlPsBkuCquu8v=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Buddhist Monastery - Anamaduwa",
+      "location": {
+        "lat": 7.913194199999999,
+        "lng": 79.9873188
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Dakunu Paliyagama, ආණමඩුව 61500, Sri Lanka",
+      "phone": "+94 324 930 974",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMPaCtIW_uOVY5safeO3RbjtPJdU7S4isohg3Wy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZeXwyAQUAgED7vUEva3IlPFCHY6RldsMOwkH0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMj13at7JfxVuP7M7hcMkI_IAR5jmCoIlrpTAfF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGviaxNck6NzM6_A7bFlAXebwqnscSHgfbid_o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0E5a6L59bBe-308D52v1Iua53O6s1b336LAhL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQfsRdPzWr2tgeLcSUJFlPn6gB31Av8vJzy0YE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPDrVpuLXSqw8dbwSxBwQ2i1pYkivZfh0RpD-ku=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNHJAG1N3NTgLKEHTyT7ZvGHZ5rRTnL-IhSl8hM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPOacSwqKgv5QNTuKUL9I6z2IkD1TRAeItsj8q9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvv5safS4yOf67icY_tmgfxjRzlPsBkuCquu8v=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ2VeAxhIk_ToRvClV4pwsRV8",
+      "google_maps_url": "https://maps.google.com/?cid=6864942259319941564",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kuchchaveli, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.773229899999999,
-            "lng": 81.1051835
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.774578880291502,
-              "lng": 81.1065324802915
-            },
-            "southwest": {
-              "lat": 8.771880919708497,
-              "lng": 81.10383451970849
-            }
-          }
-        },
-        "international_phone_number": "+94 262 228 600",
-        "name": "Bambaragala Cave Monastery",
-        "place_id": "ChIJ9QST--br-zoRxD-E29uIQ4c",
-        "url": "https://maps.google.com/?cid=9746784496421978052",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPBEN_Csi_rMTgwEbnDW7aZzIjlZn6hT8Li83Qt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrdiemMQVN7C53J_-bfPbuAe2WbzYNs3_iQNty=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhYydZGX1Mf46sXCsj3moXjhBDYosfx9g4cQJp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGzuuO4vZ7zoJPVIfw7vl43ePb7YQZuZ3CqP7I=s1600-w800-h721",
-          "https://lh3.googleusercontent.com/p/AF1QipP04VzitLRGxCgJhlpUXhZfFXiAywDHrt1t2-tY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVILQGaLiTWq-TkCn-Ef3eNqCOe9OfWIqfRcm5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrXYsUiC7nrUy-CFa2kuQop6oYfmfzT44_xLkI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpvO_aifB9ER4KC1NbYaLEy0ZApVOrB5ZCcfUs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPW3f9yA7KgVB0S73jqbATMD_xzJh0v7bLqoL1w=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipM2boPX_j2dfEPUWbW6jRf3f35gh7ux14hxOzFI=s1600-w800-h721"
-        ]
+      "name": "Bambaragala Cave Monastery",
+      "location": {
+        "lat": 8.773229899999999,
+        "lng": 81.1051835
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Kuchchaveli, Sri Lanka",
+      "phone": "+94 262 228 600",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPBEN_Csi_rMTgwEbnDW7aZzIjlZn6hT8Li83Qt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrdiemMQVN7C53J_-bfPbuAe2WbzYNs3_iQNty=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhYydZGX1Mf46sXCsj3moXjhBDYosfx9g4cQJp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGzuuO4vZ7zoJPVIfw7vl43ePb7YQZuZ3CqP7I=s1600-w800-h721",
+        "https://lh3.googleusercontent.com/p/AF1QipP04VzitLRGxCgJhlpUXhZfFXiAywDHrt1t2-tY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVILQGaLiTWq-TkCn-Ef3eNqCOe9OfWIqfRcm5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrXYsUiC7nrUy-CFa2kuQop6oYfmfzT44_xLkI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpvO_aifB9ER4KC1NbYaLEy0ZApVOrB5ZCcfUs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPW3f9yA7KgVB0S73jqbATMD_xzJh0v7bLqoL1w=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipM2boPX_j2dfEPUWbW6jRf3f35gh7ux14hxOzFI=s1600-w800-h721"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9QST--br-zoRxD-E29uIQ4c",
+      "google_maps_url": "https://maps.google.com/?cid=9746784496421978052",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Maunawa, Bowatta, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 7.593924299999999,
-            "lng": 79.9678943
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 7.595298530291501,
-              "lng": 79.96938588029151
-            },
-            "southwest": {
-              "lat": 7.592600569708496,
-              "lng": 79.96668791970849
-            }
-          }
-        },
-        "international_phone_number": "+94 76 825 5705",
-        "name": "Mahamevnawa Buddhist Monastery - Bowatta",
-        "place_id": "ChIJ-5ixlc3T4joR--js4MOIkig",
-        "url": "https://maps.google.com/?cid=2923549482990495995",
-        "website": "https://mahamevnawa.lk/sri-angulimala-seya/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPQNYOhp1baEC2zEfT49yZLzA_7DP1lk3BnesNn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO52_ncYRiFgUj--e8bHhJ0GTpcX75sfRPscUcF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNF1CU3tcOEdLtFthQJ7BbPAok7sGliy9Ld8w64=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPo9pU0giPs_ycf2V2gRXbneacyPzBHCmlkPBow=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMrXD0Y0wx8iW_S9ck4bxLA8fzz6zqljqi7Lft=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWS_Qhfqr3N4k2G4-nJ69YPBohc0pQfuQhTjG0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWzZj0yyelXe6LoNTUcWaFt8IRkERAzrI3JZVL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9a8FncdPegDQnE3nLs3RsQnFqOGE8ZVDC0Svo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMClLfjF7RGT0MlaBdFst-LLzS4x6TF7JmG3caS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOindXoLtuoqM2fRKPsWxITtNB-Gm6ugduz4idl=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Buddhist Monastery - Bowatta",
+      "location": {
+        "lat": 7.593924299999999,
+        "lng": 79.9678943
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Maunawa, Bowatta, Sri Lanka",
+      "phone": "+94 76 825 5705",
+      "website": "https://mahamevnawa.lk/sri-angulimala-seya/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPQNYOhp1baEC2zEfT49yZLzA_7DP1lk3BnesNn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO52_ncYRiFgUj--e8bHhJ0GTpcX75sfRPscUcF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNF1CU3tcOEdLtFthQJ7BbPAok7sGliy9Ld8w64=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPo9pU0giPs_ycf2V2gRXbneacyPzBHCmlkPBow=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMrXD0Y0wx8iW_S9ck4bxLA8fzz6zqljqi7Lft=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWS_Qhfqr3N4k2G4-nJ69YPBohc0pQfuQhTjG0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWzZj0yyelXe6LoNTUcWaFt8IRkERAzrI3JZVL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9a8FncdPegDQnE3nLs3RsQnFqOGE8ZVDC0Svo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMClLfjF7RGT0MlaBdFst-LLzS4x6TF7JmG3caS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOindXoLtuoqM2fRKPsWxITtNB-Gm6ugduz4idl=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ-5ixlc3T4joR--js4MOIkig",
+      "google_maps_url": "https://maps.google.com/?cid=2923549482990495995",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kuchchaveli, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.7889114,
-            "lng": 81.12062139999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.790119880291503,
-              "lng": 81.1223689802915
-            },
-            "southwest": {
-              "lat": 8.787421919708498,
-              "lng": 81.11967101970849
-            }
-          }
-        },
-        "international_phone_number": "+94 76 151 8106",
-        "name": "Bahiya Pabbatha Monastery",
-        "place_id": "ChIJD1ZZykbr-zoRcmXkP8iNSCM",
-        "url": "https://maps.google.com/?cid=2542437880855553394",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNzV5T9BQfyOV45p4dUSjl8rqDca3orJUjkAEMh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQacBCrnTXIKhrrxx4Gqg6pkIadHmAw3j2qnbV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9sElyCeY_d6Uf-x4ZPpOuUP-FABvNder7Olgr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNw6zbl5vhIBEDGWiwKfPIiSFds86oufcVe0xBQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXoX7PeElR2sCNCFerSZ-9Xe9A9RQf4_hTX8tw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQrFrIDSVrUn1WpYOuEBwCWVxPVTjgMZMTkQih=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsHmAp2Q4W5RUgXyNzwJd24yzsI5gctFT8Py6y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_5WOV3D6Fl3S3Go_hpMkoss6ex8TJGb7ruz-_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOejCvdzkFiyIHXa0w7CzeGs55LFWTjIvGJclDO=s1600-w800-h721",
-          "https://lh3.googleusercontent.com/p/AF1QipN7Z_kr--ygWQBLdTAZz3616e8-6-Q_Ayuw1H4E=s1600-w800-h800"
-        ]
+      "name": "Bahiya Pabbatha Monastery",
+      "location": {
+        "lat": 8.7889114,
+        "lng": 81.12062139999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Kuchchaveli, Sri Lanka",
+      "phone": "+94 76 151 8106",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNzV5T9BQfyOV45p4dUSjl8rqDca3orJUjkAEMh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQacBCrnTXIKhrrxx4Gqg6pkIadHmAw3j2qnbV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9sElyCeY_d6Uf-x4ZPpOuUP-FABvNder7Olgr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNw6zbl5vhIBEDGWiwKfPIiSFds86oufcVe0xBQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXoX7PeElR2sCNCFerSZ-9Xe9A9RQf4_hTX8tw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQrFrIDSVrUn1WpYOuEBwCWVxPVTjgMZMTkQih=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsHmAp2Q4W5RUgXyNzwJd24yzsI5gctFT8Py6y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_5WOV3D6Fl3S3Go_hpMkoss6ex8TJGb7ruz-_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOejCvdzkFiyIHXa0w7CzeGs55LFWTjIvGJclDO=s1600-w800-h721",
+        "https://lh3.googleusercontent.com/p/AF1QipN7Z_kr--ygWQBLdTAZz3616e8-6-Q_Ayuw1H4E=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJD1ZZykbr-zoRcmXkP8iNSCM",
+      "google_maps_url": "https://maps.google.com/?cid=2542437880855553394",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Medawachchiya Thalaimannar, Hwy Road, Medawachchiya, Sri Lanka",
-        "geometry": {
-          "location": {
-            "lat": 8.578861999999999,
-            "lng": 80.4390933
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 8.580210980291504,
-              "lng": 80.44044228029149
-            },
-            "southwest": {
-              "lat": 8.5775130197085,
-              "lng": 80.43774431970849
-            }
-          }
-        },
-        "name": "Wannangala Monastery - (වන්නංගල ආරණ්‍ය සේනාසනය)",
-        "place_id": "ChIJSVkRCf1D_DoRQN8cDFCLW1o",
-        "url": "https://maps.google.com/?cid=6510950862211047232",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPVMayovXexFZWL9_FmEo4qB0QErtV9lQoJDgBl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_OjaqggSG0SWEghRBSJ4xJKNRyMLnWQ0dksbH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpI_-Cxz4KbKELHZgnL69bht5M57sLDiZPoo4r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNX95NkCUh8RRVKIjBh6ifpS2cQMCCBBQ4UJH5D=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtyxo7wN0J40T86s0CzeFWGzwniGtmfgDAvmIX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWxQZbn3qQCvRMnyBPwSly3OMawFLcgGhEBrGc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPs4iwd0XSb8C0mJ9iyA5XnLf4Zld0OE1wR7wvN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMiwFApb0T7UMnHJ76qtdJdsiHLjvz2AQxK1w9V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPlkM8UjnMk7DgZ7mT4YU3a2_FB-EvUrIHlHO0n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSFFXOKtUdR-TYkSSAfdF9uVz6-XjM8fU8phhk=s1600-w800-h800"
-        ]
+      "name": "Wannangala Monastery - (වන්නංගල ආරණ්‍ය සේනාසනය)",
+      "location": {
+        "lat": 8.578861999999999,
+        "lng": 80.4390933
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:07:07.127Z"
-      }
+      "address": "Medawachchiya Thalaimannar, Hwy Road, Medawachchiya, Sri Lanka",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPVMayovXexFZWL9_FmEo4qB0QErtV9lQoJDgBl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_OjaqggSG0SWEghRBSJ4xJKNRyMLnWQ0dksbH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpI_-Cxz4KbKELHZgnL69bht5M57sLDiZPoo4r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNX95NkCUh8RRVKIjBh6ifpS2cQMCCBBQ4UJH5D=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtyxo7wN0J40T86s0CzeFWGzwniGtmfgDAvmIX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWxQZbn3qQCvRMnyBPwSly3OMawFLcgGhEBrGc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPs4iwd0XSb8C0mJ9iyA5XnLf4Zld0OE1wR7wvN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMiwFApb0T7UMnHJ76qtdJdsiHLjvz2AQxK1w9V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPlkM8UjnMk7DgZ7mT4YU3a2_FB-EvUrIHlHO0n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSFFXOKtUdR-TYkSSAfdF9uVz6-XjM8fU8phhk=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJSVkRCf1D_DoRQN8cDFCLW1o",
+      "google_maps_url": "https://maps.google.com/?cid=6510950862211047232",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

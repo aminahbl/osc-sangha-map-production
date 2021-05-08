@@ -1,1262 +1,995 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Chemin du Dérochoz 2, 1801 Le Mont-Pèlerin, Switzerland",
-        "geometry": {
-          "location": {
-            "lat": 46.4826734,
-            "lng": 6.8268371
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 46.4840832802915,
-              "lng": 6.828183580291503
-            },
-            "southwest": {
-              "lat": 46.4813853197085,
-              "lng": 6.825485619708498
-            }
-          }
-        },
-        "international_phone_number": "+41 21 921 36 00",
-        "name": "Center of Tibetan Studies, Rabten Choeling Monastery",
-        "place_id": "ChIJDXddtdyCjkcRxc6MzmRjnO0",
-        "url": "https://maps.google.com/?cid=17121669167968997061",
-        "website": "http://www.rabten.eu/eventsSwiss_fr.htm",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPQDZLT0spcT81dylEbPqrSvUj4kve5f-Rl1kcp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvfVQuwWZh3Oq7z4JrN4iQdXDgPp35ltzg_cw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPR9I58J-6FgFRg6Pp8zEvJEDVBqhoVvwcyfeo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMV9pl-oKWXCpUe1A51TuI6tJ93ZR1816fhmEQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkraqyNlN0qC1l0y73rP-_8qrNSRmrdmLnzYTS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLBpLMIBMuAs17p4W2diokU28NCW3mSf824G4c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjWwbcEM7z0AGtn2VaVjHPwJQZDioEEO66Hzxs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdp768PZ-6wp4pdPdrEW4utdsq-U7LPV9DZBeU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAQk_FCcQr4yRVD7IwS1PDxfyRMvwkxBFAhyei=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPN8GKdf-AblWqIZSbwoMqaqunvb9OSx_PiywRn=s1600-w800-h800"
-        ]
+      "name": "Center of Tibetan Studies, Rabten Choeling Monastery",
+      "location": {
+        "lat": 46.4826734,
+        "lng": 6.8268371
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "Chemin du Dérochoz 2, 1801 Le Mont-Pèlerin, Switzerland",
+      "phone": "+41 21 921 36 00",
+      "website": "http://www.rabten.eu/eventsSwiss_fr.htm",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPQDZLT0spcT81dylEbPqrSvUj4kve5f-Rl1kcp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvfVQuwWZh3Oq7z4JrN4iQdXDgPp35ltzg_cw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPR9I58J-6FgFRg6Pp8zEvJEDVBqhoVvwcyfeo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMV9pl-oKWXCpUe1A51TuI6tJ93ZR1816fhmEQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkraqyNlN0qC1l0y73rP-_8qrNSRmrdmLnzYTS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLBpLMIBMuAs17p4W2diokU28NCW3mSf824G4c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjWwbcEM7z0AGtn2VaVjHPwJQZDioEEO66Hzxs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdp768PZ-6wp4pdPdrEW4utdsq-U7LPV9DZBeU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAQk_FCcQr4yRVD7IwS1PDxfyRMvwkxBFAhyei=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPN8GKdf-AblWqIZSbwoMqaqunvb9OSx_PiywRn=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJDXddtdyCjkcRxc6MzmRjnO0",
+      "google_maps_url": "https://maps.google.com/?cid=17121669167968997061",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3006 S Juneau St, Seattle, WA 98108, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.5501637,
-            "lng": -122.2939848
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.5514775302915,
-              "lng": -122.2925801197085
-            },
-            "southwest": {
-              "lat": 47.5487795697085,
-              "lng": -122.2952780802915
-            }
-          }
-        },
-        "international_phone_number": "+1 206-446-3570",
-        "name": "Watt Dhammacakkaram",
-        "place_id": "ChIJ6ZBUJONBkFQRLhwqZL3-Jlg",
-        "url": "https://maps.google.com/?cid=6352044413835418670",
-        "website": "http://facebook.com/wattchasseattle",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMuOE4eXCZXzOrlNEPUKI7QWmrSuEorn6h7wUwz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_dnoObLkwAOYUD0oUQr-MD2x3wecV1Ah0umCC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFyaGs-7_RZJhHnk4UDPyVEmVdRDfnbhBdoiVO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPbNQK0bPW1NyVEynDFP1AOLLph_bDNHzaXeh49=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3T6CkN5kuU2N_v3E-4LBLPocfdjXsZqOz-tFE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM5sohIflNRW1zjW5bWRtDH8z5mzbQfjPQYSwkt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMuBoAtmA7vBjc0jMvWJPktfZNKHBi4xw63m9yk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWezQva52kV7wkNAGMIAIcw45PJzHFsDuNXjuN=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYaW4usIQzKHDqY_FqBqkVDbx343RKmz_9xqla=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOp83_kbRRed-XmZsu40R8yUvXAJJCdTtUNey3X=s1600-w800-h800"
-        ]
+      "name": "Watt Dhammacakkaram",
+      "location": {
+        "lat": 47.5501637,
+        "lng": -122.2939848
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "3006 S Juneau St, Seattle, WA 98108, USA",
+      "phone": "+1 206-446-3570",
+      "website": "http://facebook.com/wattchasseattle",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMuOE4eXCZXzOrlNEPUKI7QWmrSuEorn6h7wUwz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_dnoObLkwAOYUD0oUQr-MD2x3wecV1Ah0umCC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFyaGs-7_RZJhHnk4UDPyVEmVdRDfnbhBdoiVO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPbNQK0bPW1NyVEynDFP1AOLLph_bDNHzaXeh49=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3T6CkN5kuU2N_v3E-4LBLPocfdjXsZqOz-tFE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM5sohIflNRW1zjW5bWRtDH8z5mzbQfjPQYSwkt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMuBoAtmA7vBjc0jMvWJPktfZNKHBi4xw63m9yk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWezQva52kV7wkNAGMIAIcw45PJzHFsDuNXjuN=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYaW4usIQzKHDqY_FqBqkVDbx343RKmz_9xqla=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOp83_kbRRed-XmZsu40R8yUvXAJJCdTtUNey3X=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ6ZBUJONBkFQRLhwqZL3-Jlg",
+      "google_maps_url": "https://maps.google.com/?cid=6352044413835418670",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "501 S Jackson St UNIT 202, Seattle, WA 98104, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.5991988,
-            "lng": -122.3267899
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.60056128029149,
-              "lng": -122.3254408197085
-            },
-            "southwest": {
-              "lat": 47.59786331970849,
-              "lng": -122.3281387802915
-            }
-          }
-        },
-        "international_phone_number": "+1 206-356-7405",
-        "name": "Seattle Choeizan Enkyoji Nichiren Buddhist Temple",
-        "place_id": "ChIJSTj4gbxqkFQR3wClqCBQBCM",
-        "url": "https://maps.google.com/?cid=2523229792432881887",
-        "website": "http://seattlebuddhist.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMHmmahoIYWJHFsNEjpK1ddC8OBfvS401Vf-WrB=s1600-w800-h750",
-          "https://lh3.googleusercontent.com/p/AF1QipOy0TpCCqnSPwUKXXYzWHinLeg2UkdsCr3iwXJQ=s1600-w800-h750",
-          "https://lh3.googleusercontent.com/p/AF1QipMu40OxhKQzWvvs5IWkiDyeJHsCafViFM-sQGyz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHnh6mbzz9_Tnu2dWfFH6p_AZXCngWtCedIYzd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPT8eBYc98Kno0jDx0T0WeqtP57TLlcKX5NiGP4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMfrL4nYp6DpPmr6a11QTqeKTQIhVviFuqg2Je5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyvDpsVI6NiT4WyMPA1rMRE46T0NhUDxkLgzYZ=s1600-w800-h800"
-        ]
+      "name": "Seattle Choeizan Enkyoji Nichiren Buddhist Temple",
+      "location": {
+        "lat": 47.5991988,
+        "lng": -122.3267899
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "501 S Jackson St UNIT 202, Seattle, WA 98104, USA",
+      "phone": "+1 206-356-7405",
+      "website": "http://seattlebuddhist.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMHmmahoIYWJHFsNEjpK1ddC8OBfvS401Vf-WrB=s1600-w800-h750",
+        "https://lh3.googleusercontent.com/p/AF1QipOy0TpCCqnSPwUKXXYzWHinLeg2UkdsCr3iwXJQ=s1600-w800-h750",
+        "https://lh3.googleusercontent.com/p/AF1QipMu40OxhKQzWvvs5IWkiDyeJHsCafViFM-sQGyz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHnh6mbzz9_Tnu2dWfFH6p_AZXCngWtCedIYzd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPT8eBYc98Kno0jDx0T0WeqtP57TLlcKX5NiGP4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMfrL4nYp6DpPmr6a11QTqeKTQIhVviFuqg2Je5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyvDpsVI6NiT4WyMPA1rMRE46T0NhUDxkLgzYZ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJSTj4gbxqkFQR3wClqCBQBCM",
+      "google_maps_url": "https://maps.google.com/?cid=2523229792432881887",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "227 E 72nd St, Tacoma, WA 98404, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.1920671,
-            "lng": -122.4275014
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.1934151802915,
-              "lng": -122.4260883697085
-            },
-            "southwest": {
-              "lat": 47.1907172197085,
-              "lng": -122.4287863302915
-            }
-          }
-        },
-        "international_phone_number": "+1 253-474-3376",
-        "name": "Seu Mi Sa Temple",
-        "place_id": "ChIJ_arFZtP_kFQRLiDz27V4mo4",
-        "url": "https://maps.google.com/?cid=10275658222273765422",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMT1llIu1vRaMZqvXlamiNomRQNWN9ffeiv3LpA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPi7GWmiOC3VxsadQk01svO3aLOqI-AJLOQAlUh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3Umdf--9wUSu0vmPaH7oycXjrtda5tEaDo2_8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO93Jxy-ReE3wg8nMNoqz1UTNmXc3FH5nbeUR36=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOi2diFF0IfJdHXoWQpbRZiHgD5-MEgPkLt9zNL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNB9zOEh4T6mgA7O6GsujnMhkxPUXL4p-g40ma4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwIlovRO63WDV_yebpXzBASg6iShyokkD-i7Bc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsnNb4FU6Bq9YmoKXe5UYNFZjknPjG4IZXz9bu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2-fOKPLj9mKM3iCM_3wCHrKlyXvlz7wi_W7jc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEDeugcDvNpDy884WYrOb4RXJf83j5UkwTxgYY=s1600-w800-h800"
-        ]
+      "name": "Seu Mi Sa Temple",
+      "location": {
+        "lat": 47.1920671,
+        "lng": -122.4275014
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "227 E 72nd St, Tacoma, WA 98404, USA",
+      "phone": "+1 253-474-3376",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMT1llIu1vRaMZqvXlamiNomRQNWN9ffeiv3LpA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPi7GWmiOC3VxsadQk01svO3aLOqI-AJLOQAlUh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3Umdf--9wUSu0vmPaH7oycXjrtda5tEaDo2_8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO93Jxy-ReE3wg8nMNoqz1UTNmXc3FH5nbeUR36=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOi2diFF0IfJdHXoWQpbRZiHgD5-MEgPkLt9zNL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNB9zOEh4T6mgA7O6GsujnMhkxPUXL4p-g40ma4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwIlovRO63WDV_yebpXzBASg6iShyokkD-i7Bc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsnNb4FU6Bq9YmoKXe5UYNFZjknPjG4IZXz9bu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2-fOKPLj9mKM3iCM_3wCHrKlyXvlz7wi_W7jc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEDeugcDvNpDy884WYrOb4RXJf83j5UkwTxgYY=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_arFZtP_kFQRLiDz27V4mo4",
+      "google_maps_url": "https://maps.google.com/?cid=10275658222273765422",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3946 S Kenyon St, Seattle, WA 98118, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.531762,
-            "lng": -122.2811017
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.5329960302915,
-              "lng": -122.2797497197085
-            },
-            "southwest": {
-              "lat": 47.5302980697085,
-              "lng": -122.2824476802915
-            }
-          }
-        },
-        "name": "Wat Lao Dhammacetiyaram",
-        "place_id": "ChIJl9dEYQVCkFQR1w0FbZebDhQ",
-        "url": "https://maps.google.com/?cid=1445263605103922647",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP12NpqHeA7klNrRuqRv01JD0VgQqc6ae8uhWm5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvMj4qd_w7ZoLZA9huwtwPKw31FmWtCRl4ev3b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDbBGyS28Dx5jjVERDtlXWvCq-PQwNkEkzQLMm=s1600-w441-h588",
-          "https://lh3.googleusercontent.com/p/AF1QipO6Oe-gQiQZ4BHYyNeEaS-c5xznViDWTVkSkUaK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPV95lb1DDHLhnxZzzckzMvpW4De8TC4JkwSk3K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM765kRRseCFdoEC7l22LcsosKG24l8rkK__Dvd=s1600-w784-h588"
-        ]
+      "name": "Wat Lao Dhammacetiyaram",
+      "location": {
+        "lat": 47.531762,
+        "lng": -122.2811017
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "3946 S Kenyon St, Seattle, WA 98118, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP12NpqHeA7klNrRuqRv01JD0VgQqc6ae8uhWm5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvMj4qd_w7ZoLZA9huwtwPKw31FmWtCRl4ev3b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDbBGyS28Dx5jjVERDtlXWvCq-PQwNkEkzQLMm=s1600-w441-h588",
+        "https://lh3.googleusercontent.com/p/AF1QipO6Oe-gQiQZ4BHYyNeEaS-c5xznViDWTVkSkUaK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPV95lb1DDHLhnxZzzckzMvpW4De8TC4JkwSk3K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM765kRRseCFdoEC7l22LcsosKG24l8rkK__Dvd=s1600-w784-h588"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJl9dEYQVCkFQR1w0FbZebDhQ",
+      "google_maps_url": "https://maps.google.com/?cid=1445263605103922647",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Im Buchholz 26, 6820 Frastanz, Austria",
-        "geometry": {
-          "location": {
-            "lat": 47.22885459999999,
-            "lng": 9.5896013
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.23015893029149,
-              "lng": 9.5909426302915
-            },
-            "southwest": {
-              "lat": 47.2274609697085,
-              "lng": 9.588244669708496
-            }
-          }
-        },
-        "international_phone_number": "+43 720 510880",
-        "name": "Buddhist Monastery Letzehof",
-        "place_id": "ChIJTVg2IZI5m0cRuGmheAKZoa4",
-        "url": "https://maps.google.com/?cid=12583507069742705080",
-        "website": "https://www.rabten.eu/visitVlbg_de.htm",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOD0bANP6ptm7BwlJ89C6FApSZYw6O6dQ6BFhk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNbQBt2321UAAOggiMU1jgqgu-Z7HaEcRg5V5s=s1600-w800-h686",
-          "https://lh3.googleusercontent.com/p/AF1QipMvS4wPKIMtWtQceyCA-NUCvbWChJ7e-kaRQmQL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMbFidhDyR3g-xaDj0Y38CBaMMzMr_K46TlSNOz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQhJ9L-mwZnCbesFqSfuvqsK11_0jcxNCeKJYT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZmr5MNJBqqtywu7dRwFLtQPpt62I7k3xudRge=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHdyhxDpW0Hir5NQWpgBwuW9XGto7I9_tbCX8Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOW9vFdwsq72tPNR4UOK8a7BFfrt9tObmmrcVo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPU874OgzQ1ATfVSXB4LRHUdPGk8AlzBWkK-E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLdGvhD13FpuPpfNJOecp9R3y3C27n_BjSEU0=s1600-w800-h686"
-        ]
+      "name": "Buddhist Monastery Letzehof",
+      "location": {
+        "lat": 47.22885459999999,
+        "lng": 9.5896013
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "Im Buchholz 26, 6820 Frastanz, Austria",
+      "phone": "+43 720 510880",
+      "website": "https://www.rabten.eu/visitVlbg_de.htm",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOD0bANP6ptm7BwlJ89C6FApSZYw6O6dQ6BFhk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNbQBt2321UAAOggiMU1jgqgu-Z7HaEcRg5V5s=s1600-w800-h686",
+        "https://lh3.googleusercontent.com/p/AF1QipMvS4wPKIMtWtQceyCA-NUCvbWChJ7e-kaRQmQL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMbFidhDyR3g-xaDj0Y38CBaMMzMr_K46TlSNOz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQhJ9L-mwZnCbesFqSfuvqsK11_0jcxNCeKJYT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZmr5MNJBqqtywu7dRwFLtQPpt62I7k3xudRge=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHdyhxDpW0Hir5NQWpgBwuW9XGto7I9_tbCX8Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOW9vFdwsq72tPNR4UOK8a7BFfrt9tObmmrcVo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPU874OgzQ1ATfVSXB4LRHUdPGk8AlzBWkK-E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLdGvhD13FpuPpfNJOecp9R3y3C27n_BjSEU0=s1600-w800-h686"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTVg2IZI5m0cRuGmheAKZoa4",
+      "google_maps_url": "https://maps.google.com/?cid=12583507069742705080",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "294 Rue de Bajolet, 74800 Saint-Pierre-en-Faucigny, France",
-        "geometry": {
-          "location": {
-            "lat": 46.0755867,
-            "lng": 6.385013400000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 46.0771388802915,
-              "lng": 6.386463630291503
-            },
-            "southwest": {
-              "lat": 46.0744409197085,
-              "lng": 6.383765669708499
-            }
-          }
-        },
-        "international_phone_number": "+33 4 50 97 52 96",
-        "name": "Temple Bouddhiste TU AN",
-        "place_id": "ChIJ5we_EakLjEcRgUeXmFgOKUg",
-        "url": "https://maps.google.com/?cid=5199703018455910273",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOlMOw-_S5DPy3Vl5oC2R5XiBc4qiDDkdw6tJPC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9nvsjw1k-XeQqjo1rW0mby6fv0eTGyB_6Bsqw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlEPexWD3ybTY0ejRIwzZ1nYjaVBNfpyL8VHdv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCKmsEgqMs0F4zYXtuVEWa6RfJnPQqCFGyXDNo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4W6OGY2Xa1i4S-FH295oXggVhPh1upF5LYhjm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNHXF68xhI_jVvtlSsTWd10LXk7oKHTQbcwCWjN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN33rL4NNt8q-ZfjQbYEj5tzxz4jqT0JwPmCLIb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPDOJB5bLPGM1wwk1eMIFuExAO72aXuxteYCj53=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEoF81I9sVW12MMl7Vay0hx1ialQHOIK9Uav-e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsfq9RbtptddNbFK8vFZvjhiJHmZNMnVUFCfVm=s1600-w800-h800"
-        ]
+      "name": "Temple Bouddhiste TU AN",
+      "location": {
+        "lat": 46.0755867,
+        "lng": 6.385013400000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "294 Rue de Bajolet, 74800 Saint-Pierre-en-Faucigny, France",
+      "phone": "+33 4 50 97 52 96",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOlMOw-_S5DPy3Vl5oC2R5XiBc4qiDDkdw6tJPC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9nvsjw1k-XeQqjo1rW0mby6fv0eTGyB_6Bsqw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlEPexWD3ybTY0ejRIwzZ1nYjaVBNfpyL8VHdv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCKmsEgqMs0F4zYXtuVEWa6RfJnPQqCFGyXDNo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4W6OGY2Xa1i4S-FH295oXggVhPh1upF5LYhjm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNHXF68xhI_jVvtlSsTWd10LXk7oKHTQbcwCWjN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN33rL4NNt8q-ZfjQbYEj5tzxz4jqT0JwPmCLIb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPDOJB5bLPGM1wwk1eMIFuExAO72aXuxteYCj53=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEoF81I9sVW12MMl7Vay0hx1ialQHOIK9Uav-e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsfq9RbtptddNbFK8vFZvjhiJHmZNMnVUFCfVm=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ5we_EakLjEcRgUeXmFgOKUg",
+      "google_maps_url": "https://maps.google.com/?cid=5199703018455910273",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "502 Redmond-Fall City Rd SE, Redmond, WA 98053, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.6035972,
-            "lng": -121.9607307
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.60496463029151,
-              "lng": -121.9596715697085
-            },
-            "southwest": {
-              "lat": 47.60226666970851,
-              "lng": -121.9623695302915
-            }
-          }
-        },
-        "international_phone_number": "+1 425-222-4710",
-        "name": "Jingoji Buddhist Temple",
-        "place_id": "ChIJV24J-cBxkFQR8G0hheCHh4k",
-        "url": "https://maps.google.com/?cid=9910038903428050416",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Jingoji Buddhist Temple",
+      "location": {
+        "lat": 47.6035972,
+        "lng": -121.9607307
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "502 Redmond-Fall City Rd SE, Redmond, WA 98053, USA",
+      "phone": "+1 425-222-4710",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJV24J-cBxkFQR8G0hheCHh4k",
+      "google_maps_url": "https://maps.google.com/?cid=9910038903428050416",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3625 Auburn Way N, Auburn, WA 98002, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.3399247,
-            "lng": -122.2231312
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.3412732302915,
-              "lng": -122.2213665697085
-            },
-            "southwest": {
-              "lat": 47.3385752697085,
-              "lng": -122.2240645302915
-            }
-          }
-        },
-        "international_phone_number": "+1 253-833-1442",
-        "name": "White River Buddhist Temple",
-        "place_id": "ChIJ-0xYSeJYkFQROA4ssAlz4Ew",
-        "url": "https://maps.google.com/?cid=5539554027113287224",
-        "website": "https://www.wrbt.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNxbC6jqqHUIrd1CWEVkNAzJ37_uaPTh6osstE-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvvu35a8uE0TsdJNk2LQkEeBLLTMhCZi-seO9I=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMaXdu-uQYIIUVVnxF-jieE0OjuK3iQyzLs9tLD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmjJsX9MqOlKowuEPTvXk1jB_LOl_ETcSJlAzS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOysME2XhL5tWmltmtp05wrI_nAQAnyPSBIGURR=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMMOBJ9zAW5Olz0SVtldx6wq1xl-MgkT7dwozpu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNVDozFWKZPM1y9usV6wiaU_tERF6UiblXBvnmF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOi8Z634m0zmVwwMpDaFVuOIC3_FfYIdQFH0JAp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcggo6BdHmqgN7fJQPaj611KUOy3LD9b6TuzdR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOall0XtWr-8FfxaWfpV7_dg98LshoHjtvrgIdr=s1600-w800-h800"
-        ]
+      "name": "White River Buddhist Temple",
+      "location": {
+        "lat": 47.3399247,
+        "lng": -122.2231312
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "3625 Auburn Way N, Auburn, WA 98002, USA",
+      "phone": "+1 253-833-1442",
+      "website": "https://www.wrbt.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNxbC6jqqHUIrd1CWEVkNAzJ37_uaPTh6osstE-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvvu35a8uE0TsdJNk2LQkEeBLLTMhCZi-seO9I=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMaXdu-uQYIIUVVnxF-jieE0OjuK3iQyzLs9tLD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmjJsX9MqOlKowuEPTvXk1jB_LOl_ETcSJlAzS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOysME2XhL5tWmltmtp05wrI_nAQAnyPSBIGURR=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMMOBJ9zAW5Olz0SVtldx6wq1xl-MgkT7dwozpu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNVDozFWKZPM1y9usV6wiaU_tERF6UiblXBvnmF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOi8Z634m0zmVwwMpDaFVuOIC3_FfYIdQFH0JAp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcggo6BdHmqgN7fJQPaj611KUOy3LD9b6TuzdR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOall0XtWr-8FfxaWfpV7_dg98LshoHjtvrgIdr=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ-0xYSeJYkFQROA4ssAlz4Ew",
+      "google_maps_url": "https://maps.google.com/?cid=5539554027113287224",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8208 E McKinley Ave, Tacoma, WA 98404, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.1823563,
-            "lng": -122.421303
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.1835954302915,
-              "lng": -122.4199007197085
-            },
-            "southwest": {
-              "lat": 47.1808974697085,
-              "lng": -122.4225986802915
-            }
-          }
-        },
-        "international_phone_number": "+1 253-474-5972",
-        "name": "Wat Samakki Ratanaram",
-        "place_id": "ChIJZxS0yywAkVQRwEbz1FbjJSQ",
-        "url": "https://maps.google.com/?cid=2604737921583105728",
-        "website": "https://www.templenews.org/2011/10/31/wat-samakki-ratanaram/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM7EgUH6_Syve2L0WocOHCsKJRgvY8KubH-pknl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPRYBvxnDz8BTxfmFgNCU5KZo2P-ew88O7qfZOi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtizOGFJte3k1eMc5CHTaMSloXLi_SP1oBXbpc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQJmsT94UaDiwmIyoa8Cf9-BRehBsjtNgdB_6e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_pNe-UMCFyETelzB49ERrYn6uBd-bSKm6hkk7=s1600-w800-h800"
-        ]
+      "name": "Wat Samakki Ratanaram",
+      "location": {
+        "lat": 47.1823563,
+        "lng": -122.421303
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "8208 E McKinley Ave, Tacoma, WA 98404, USA",
+      "phone": "+1 253-474-5972",
+      "website": "https://www.templenews.org/2011/10/31/wat-samakki-ratanaram/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM7EgUH6_Syve2L0WocOHCsKJRgvY8KubH-pknl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPRYBvxnDz8BTxfmFgNCU5KZo2P-ew88O7qfZOi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtizOGFJte3k1eMc5CHTaMSloXLi_SP1oBXbpc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQJmsT94UaDiwmIyoa8Cf9-BRehBsjtNgdB_6e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_pNe-UMCFyETelzB49ERrYn6uBd-bSKm6hkk7=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZxS0yywAkVQRwEbz1FbjJSQ",
+      "google_maps_url": "https://maps.google.com/?cid=2604737921583105728",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1420 E 44th St, Tacoma, WA 98404, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.2169475,
-            "lng": -122.4079981
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.2182271302915,
-              "lng": -122.4066316197085
-            },
-            "southwest": {
-              "lat": 47.2155291697085,
-              "lng": -122.4093295802915
-            }
-          }
-        },
-        "international_phone_number": "+1 253-475-1423",
-        "name": "Khmer Theravadin Buddhist Temple",
-        "place_id": "ChIJv8ek66L_kFQR0IBWYWR6yQY",
-        "url": "https://maps.google.com/?cid=489056606094786768",
-        "website": "http://www.vanninh.com/khmertheravadatemple.htm",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN3J0agw7bsdgAmSEhKE2JAlRCY2UdlpyYDOmLi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPExNbEO3AiGCvI7W-btaEKweTMOfQnS0WhauAo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUy6TxnfYalxSyvBII0dj6ELBszQqEH-0sB6z1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyzJlwIpJ_Uo3Jkl6EVsQ94yNqM7RURSc-2La3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-bjtzN8hH7uFv7PRg5Q8o41OQuZjlQePfR9-H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP67qkCDidXzc2uXF7AFmZixydh_rWm1JKEJY50=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXOnbcPcS2-KcDO1deNdmBtS4S9SdpqeBIYK2Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPM5FvomaUDMLS6Fqtq0hyodD1NCBJreb12Ig4f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDNUWtZsqq5cCF29iZVg2IhW3aSqOvzrxMzyuP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXN8mw1gfG7dnTFbiu6BnK44pLfoQvYdg9DWWV=s1600-w800-h800"
-        ]
+      "name": "Khmer Theravadin Buddhist Temple",
+      "location": {
+        "lat": 47.2169475,
+        "lng": -122.4079981
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "1420 E 44th St, Tacoma, WA 98404, USA",
+      "phone": "+1 253-475-1423",
+      "website": "http://www.vanninh.com/khmertheravadatemple.htm",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN3J0agw7bsdgAmSEhKE2JAlRCY2UdlpyYDOmLi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPExNbEO3AiGCvI7W-btaEKweTMOfQnS0WhauAo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUy6TxnfYalxSyvBII0dj6ELBszQqEH-0sB6z1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyzJlwIpJ_Uo3Jkl6EVsQ94yNqM7RURSc-2La3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-bjtzN8hH7uFv7PRg5Q8o41OQuZjlQePfR9-H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP67qkCDidXzc2uXF7AFmZixydh_rWm1JKEJY50=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXOnbcPcS2-KcDO1deNdmBtS4S9SdpqeBIYK2Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPM5FvomaUDMLS6Fqtq0hyodD1NCBJreb12Ig4f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDNUWtZsqq5cCF29iZVg2IhW3aSqOvzrxMzyuP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXN8mw1gfG7dnTFbiu6BnK44pLfoQvYdg9DWWV=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJv8ek66L_kFQR0IBWYWR6yQY",
+      "google_maps_url": "https://maps.google.com/?cid=489056606094786768",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "14334 Yelm Hwy SE, Yelm, WA 98597, USA",
-        "geometry": {
-          "location": {
-            "lat": 46.9596056,
-            "lng": -122.6321389
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 46.96095578029149,
-              "lng": -122.6311237697085
-            },
-            "southwest": {
-              "lat": 46.95825781970849,
-              "lng": -122.6338217302915
-            }
-          }
-        },
-        "international_phone_number": "+1 360-458-9762",
-        "name": "Wat Prochum Rainsey",
-        "place_id": "ChIJ5xNCuUkSkVQRUcCtkZOeyqY",
-        "url": "https://maps.google.com/?cid=12018592912233054289",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPDq-Yb6b6KyJDfJdKTFh86SfTJGRS7ZwImL_m7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPMZbMEwlYP6JddGDmNhuVbACelRT9uM9tV9Zt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1cyFFfV3kNlvTmxNV-SYd-KN40-tRB8Sr-2s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQLCdSMLtw-ABGS52aFicWXlm1KwSy7q7zTF4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2tRNU_TWqi-5zeEg7MGFhKdhb2HNW477mGGio=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOXDHB3p4m0Z_MSWN92RBfm7ftDVqUSAsfowe6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2av8QWViHNiigX3co0jgbCJafwITcrMq0yF0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZ_nXhWv7-37Ctt7fVW6Dd7MF6aKdNStI4byc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOAvfZDMaYbdSYna2AJr6gZUQTdeqMw1e5ZWdBd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuz1Bgk258lgPjC_bMUJPEfrOdnPLVI7fP3Lbb=s1600-w800-h800"
-        ]
+      "name": "Wat Prochum Rainsey",
+      "location": {
+        "lat": 46.9596056,
+        "lng": -122.6321389
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "14334 Yelm Hwy SE, Yelm, WA 98597, USA",
+      "phone": "+1 360-458-9762",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPDq-Yb6b6KyJDfJdKTFh86SfTJGRS7ZwImL_m7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPMZbMEwlYP6JddGDmNhuVbACelRT9uM9tV9Zt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1cyFFfV3kNlvTmxNV-SYd-KN40-tRB8Sr-2s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQLCdSMLtw-ABGS52aFicWXlm1KwSy7q7zTF4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2tRNU_TWqi-5zeEg7MGFhKdhb2HNW477mGGio=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOXDHB3p4m0Z_MSWN92RBfm7ftDVqUSAsfowe6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2av8QWViHNiigX3co0jgbCJafwITcrMq0yF0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZ_nXhWv7-37Ctt7fVW6Dd7MF6aKdNStI4byc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOAvfZDMaYbdSYna2AJr6gZUQTdeqMw1e5ZWdBd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuz1Bgk258lgPjC_bMUJPEfrOdnPLVI7fP3Lbb=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ5xNCuUkSkVQRUcCtkZOeyqY",
+      "google_maps_url": "https://maps.google.com/?cid=12018592912233054289",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "50924 Index-Galena Rd, Index, WA 98256, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.81995999999999,
-            "lng": -121.5496315
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.8213234802915,
-              "lng": -121.5482841197085
-            },
-            "southwest": {
-              "lat": 47.8186255197085,
-              "lng": -121.5509820802915
-            }
-          }
-        },
-        "international_phone_number": "+1 360-799-0699",
-        "name": "Snow Mountain Monastery",
-        "place_id": "ChIJ-YvkIs6VmlQRr-fG49bHprM",
-        "url": "https://maps.google.com/?cid=12945253904681461679",
-        "website": "http://smm.drba.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOKJKeURy2659yoY7LeR51I4QdZsDjeCLEOwOK0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsJRxF0R0uy6Jd2SaG3cuPTYX0HrAYEqqysM_L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNk7t3fewsbB2wZgdHZ4mgDToYNyas34kZezUoq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUBxXpsMOwRyfnlUgUI81ZwU1MHuanuyIvwo9V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyJYfHb3BvM7iShxdTgELaG2EkHYsErpMfTnmE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6I3fEKgZcHXzPozP44X_ZfYXoBgbNJ8nvA6SJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUiTMmLsCOgQC17pIiCq7Gl7m_U6nfeZ0BvXqV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvkxrDyvJJNV3NR328YOKvA6z1Qw4k2vd4U-jp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrXeB6Wd49efbkEg45krhJWmqdRW6MILOMjT9F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtptywBQm4ckpjXzYb0Id8bodSqokyV_iDll-u=s1600-w800-h800"
-        ]
+      "name": "Snow Mountain Monastery",
+      "location": {
+        "lat": 47.81995999999999,
+        "lng": -121.5496315
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "50924 Index-Galena Rd, Index, WA 98256, USA",
+      "phone": "+1 360-799-0699",
+      "website": "http://smm.drba.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOKJKeURy2659yoY7LeR51I4QdZsDjeCLEOwOK0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsJRxF0R0uy6Jd2SaG3cuPTYX0HrAYEqqysM_L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNk7t3fewsbB2wZgdHZ4mgDToYNyas34kZezUoq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUBxXpsMOwRyfnlUgUI81ZwU1MHuanuyIvwo9V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyJYfHb3BvM7iShxdTgELaG2EkHYsErpMfTnmE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6I3fEKgZcHXzPozP44X_ZfYXoBgbNJ8nvA6SJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUiTMmLsCOgQC17pIiCq7Gl7m_U6nfeZ0BvXqV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvkxrDyvJJNV3NR328YOKvA6z1Qw4k2vd4U-jp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrXeB6Wd49efbkEg45krhJWmqdRW6MILOMjT9F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtptywBQm4ckpjXzYb0Id8bodSqokyV_iDll-u=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ-YvkIs6VmlQRr-fG49bHprM",
+      "google_maps_url": "https://maps.google.com/?cid=12945253904681461679",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Lundsveien 196, 1816 Skiptvet, Norway",
-        "geometry": {
-          "location": {
-            "lat": 59.48333329999999,
-            "lng": 11.1291667
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 59.4847025302915,
-              "lng": 11.1306417802915
-            },
-            "southwest": {
-              "lat": 59.48200456970849,
-              "lng": 11.1279438197085
-            }
-          }
-        },
-        "international_phone_number": "+47 909 66 462",
-        "name": "Skiptvet Buddhist Monastery",
-        "place_id": "ChIJp0bjMXX8Q0YRbBYhuPHte9Q",
-        "url": "https://maps.google.com/?cid=15311092980608210540",
-        "website": "https://skiptvet.skogskloster.no/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOvxHSemxi_paDhYpISLS9L8on1zxHQeWU6P4B4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfgyigImCCAB5LB4uuGX5rn5M6M7l6XvynhW7A=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-S7LlgV8ECDfTT77E7SUmzV-rfBFzcKgORTaN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRWIsw3j5kP-PCv2VR2MNqSO8SyhpoVJez36zR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwgH3QiG1luc0iSDPgVzKSXmLJuS-4EV46P0PD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUgTHnfFBHKsOMyu_MN-N2hoGhxRKpjRFmbUI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOr4OhdWhanRYClfjLohfyuE3uK2XUboAiqUJRi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDh7DjHgiR9i8dmLeCGXKbuHn2KeDYeOFHAjDT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMu5R6YEsremINdXELGjSICLRoVUuDx_461h9vT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlg0kBIP_CddhTHpR3E8uufDLXSkJdh54LI6hS=s1600-w800-h800"
-        ]
+      "name": "Skiptvet Buddhist Monastery",
+      "location": {
+        "lat": 59.48333329999999,
+        "lng": 11.1291667
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "Lundsveien 196, 1816 Skiptvet, Norway",
+      "phone": "+47 909 66 462",
+      "website": "https://skiptvet.skogskloster.no/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOvxHSemxi_paDhYpISLS9L8on1zxHQeWU6P4B4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfgyigImCCAB5LB4uuGX5rn5M6M7l6XvynhW7A=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-S7LlgV8ECDfTT77E7SUmzV-rfBFzcKgORTaN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRWIsw3j5kP-PCv2VR2MNqSO8SyhpoVJez36zR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwgH3QiG1luc0iSDPgVzKSXmLJuS-4EV46P0PD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUgTHnfFBHKsOMyu_MN-N2hoGhxRKpjRFmbUI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOr4OhdWhanRYClfjLohfyuE3uK2XUboAiqUJRi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDh7DjHgiR9i8dmLeCGXKbuHn2KeDYeOFHAjDT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMu5R6YEsremINdXELGjSICLRoVUuDx_461h9vT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlg0kBIP_CddhTHpR3E8uufDLXSkJdh54LI6hS=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJp0bjMXX8Q0YRbBYhuPHte9Q",
+      "google_maps_url": "https://maps.google.com/?cid=15311092980608210540",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "6499 Wahl Rd, Freeland, WA 98249, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.97677249999999,
-            "lng": -122.5329142
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.9781516302915,
-              "lng": -122.5316986197085
-            },
-            "southwest": {
-              "lat": 47.9754536697085,
-              "lng": -122.5343965802915
-            }
-          }
-        },
-        "international_phone_number": "+1 360-331-4142",
-        "name": "Tahoma One Drop Zen Monastery",
-        "place_id": "ChIJPSquU0zjj1QRcsyvjnUXLu4",
-        "url": "https://maps.google.com/?cid=17162681023628037234",
-        "website": "https://www.tahomazenmonastery.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOxPolLni3k16wr9SaAaa0YJTIdq7EPSr64bsc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJVS7lk17FOlepJBUrwnOjC4rwOG1FXfWx3zU=s1600-w800-h800"
-        ]
+      "name": "Tahoma One Drop Zen Monastery",
+      "location": {
+        "lat": 47.97677249999999,
+        "lng": -122.5329142
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "6499 Wahl Rd, Freeland, WA 98249, USA",
+      "phone": "+1 360-331-4142",
+      "website": "https://www.tahomazenmonastery.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOxPolLni3k16wr9SaAaa0YJTIdq7EPSr64bsc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJVS7lk17FOlepJBUrwnOjC4rwOG1FXfWx3zU=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJPSquU0zjj1QRcsyvjnUXLu4",
+      "google_maps_url": "https://maps.google.com/?cid=17162681023628037234",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sophie Hämmerli-Strasse 22, 5600 Lenzburg, Switzerland",
-        "geometry": {
-          "location": {
-            "lat": 47.3930741,
-            "lng": 8.16672
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.39434628029149,
-              "lng": 8.168083630291502
-            },
-            "southwest": {
-              "lat": 47.39164831970849,
-              "lng": 8.165385669708497
-            }
-          }
-        },
-        "international_phone_number": "+41 43 534 51 01",
-        "name": "Zürich Buddhist Vihara ( Tempel )",
-        "place_id": "ChIJl3FbBw8XkEcRkGBFIw4AB18",
-        "url": "https://maps.google.com/?cid=6847441819161419920",
-        "website": "http://www.zb-vihara.ch/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOQRWeH5LYGyYlW9wkmL3ExTnGX58lYLIapBC84=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoxhDixDXDXbzSFBA6VX5sgENsQ46C1N35vd18=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8jfd2bWfoJfhxu-wfm2RgmgCpDqm8WGeX7HY4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOq3ScfjtPfHfDe4fpnu8c8KcHaLxMNN7hH9KAg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5MeINm4QECsE0XObAjvqq4AZ3GyLEzY_cxMYM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNB28VpKos8UkbgPLPFuiDyDXw5jp8GNbWTO02J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfog3Mr1CqonHisaI9FMcrBWw_i0atyIcedbSo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOBWbq_fEnwCKwzVcil9vswgqd5PrYk6eWbi7-F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqJD1aCNnXBnooJeDaehNrmPumtMyuuAI9QRvi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLsH--n2KeiY3ckOInzwePCimCH56tqIZhpEQU=s1600-w800-h800"
-        ]
+      "name": "Zürich Buddhist Vihara ( Tempel )",
+      "location": {
+        "lat": 47.3930741,
+        "lng": 8.16672
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "Sophie Hämmerli-Strasse 22, 5600 Lenzburg, Switzerland",
+      "phone": "+41 43 534 51 01",
+      "website": "http://www.zb-vihara.ch/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOQRWeH5LYGyYlW9wkmL3ExTnGX58lYLIapBC84=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoxhDixDXDXbzSFBA6VX5sgENsQ46C1N35vd18=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8jfd2bWfoJfhxu-wfm2RgmgCpDqm8WGeX7HY4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOq3ScfjtPfHfDe4fpnu8c8KcHaLxMNN7hH9KAg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5MeINm4QECsE0XObAjvqq4AZ3GyLEzY_cxMYM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNB28VpKos8UkbgPLPFuiDyDXw5jp8GNbWTO02J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfog3Mr1CqonHisaI9FMcrBWw_i0atyIcedbSo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOBWbq_fEnwCKwzVcil9vswgqd5PrYk6eWbi7-F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqJD1aCNnXBnooJeDaehNrmPumtMyuuAI9QRvi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLsH--n2KeiY3ckOInzwePCimCH56tqIZhpEQU=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJl3FbBw8XkEcRkGBFIw4AB18",
+      "google_maps_url": "https://maps.google.com/?cid=6847441819161419920",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Im Grund 7, 5014 Gretzenbach, Switzerland",
-        "geometry": {
-          "location": {
-            "lat": 47.3582993,
-            "lng": 7.990906600000002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.3597284302915,
-              "lng": 7.992117580291502
-            },
-            "southwest": {
-              "lat": 47.3570304697085,
-              "lng": 7.989419619708498
-            }
-          }
-        },
-        "international_phone_number": "+41 62 858 60 30",
-        "name": "Somdetyas Stiftung für Wat Srinagarindravararam",
-        "place_id": "ChIJOzczS1rAB0ER_DPY_TuU2TQ",
-        "url": "https://maps.google.com/?cid=3808237945301251068",
-        "website": "http://www.wat-srinagarin.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNGCYCmG8f3jjjcUowBdVjQ51ZJXXzwR89L4bCI=s1600-w800-h673",
-          "https://lh3.googleusercontent.com/p/AF1QipOYxN4JcKVsmYBwMvkN8l2ijy00JH0HiL1iBmmj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoZ2_r8Q-TD-gJnWVdxLMqBXqJF0lvELhJfh3i=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMFA-PyEzBpQRwb2IACrNW9HDyqOVymbhp7t0lL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9rw1rtaE0z7Vwihf7pEv2JOuq8OMhcjb4oAPu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPImAKl-G15PJsQs8vrtHQ5RPhQUJ95umhrO54k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNr4EwuniOMzioeXJRA7Wtx4yolnnc_icOWNEWe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvQPjAQVqzC7R0t6Z0w8vZTs7s0T2jSC7lGnU_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMF9i6GbE4ndrgeJCka5kk6VFVl6UgOlDJDFDZo=s1600-w595-h793",
-          "https://lh3.googleusercontent.com/p/AF1QipNCwYz3f8xhZNJO0jNPc07qcNZd_CM4sRX9ge0K=s1600-w800-h800"
-        ]
+      "name": "Somdetyas Stiftung für Wat Srinagarindravararam",
+      "location": {
+        "lat": 47.3582993,
+        "lng": 7.990906600000002
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "Im Grund 7, 5014 Gretzenbach, Switzerland",
+      "phone": "+41 62 858 60 30",
+      "website": "http://www.wat-srinagarin.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNGCYCmG8f3jjjcUowBdVjQ51ZJXXzwR89L4bCI=s1600-w800-h673",
+        "https://lh3.googleusercontent.com/p/AF1QipOYxN4JcKVsmYBwMvkN8l2ijy00JH0HiL1iBmmj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoZ2_r8Q-TD-gJnWVdxLMqBXqJF0lvELhJfh3i=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMFA-PyEzBpQRwb2IACrNW9HDyqOVymbhp7t0lL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9rw1rtaE0z7Vwihf7pEv2JOuq8OMhcjb4oAPu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPImAKl-G15PJsQs8vrtHQ5RPhQUJ95umhrO54k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNr4EwuniOMzioeXJRA7Wtx4yolnnc_icOWNEWe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvQPjAQVqzC7R0t6Z0w8vZTs7s0T2jSC7lGnU_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMF9i6GbE4ndrgeJCka5kk6VFVl6UgOlDJDFDZo=s1600-w595-h793",
+        "https://lh3.googleusercontent.com/p/AF1QipNCwYz3f8xhZNJO0jNPc07qcNZd_CM4sRX9ge0K=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJOzczS1rAB0ER_DPY_TuU2TQ",
+      "google_maps_url": "https://maps.google.com/?cid=3808237945301251068",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Switzerland, Im Grund 7, 5014 Gretzenbach, Switzerland",
-        "geometry": {
-          "location": {
-            "lat": 47.35819169999999,
-            "lng": 7.990994399999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.3594895302915,
-              "lng": 7.992391730291501
-            },
-            "southwest": {
-              "lat": 47.3567915697085,
-              "lng": 7.989693769708496
-            }
-          }
-        },
-        "international_phone_number": "+41 62 858 60 30",
-        "name": "Wat Thai Srinagarin",
-        "place_id": "ChIJzybuNvA6kEcROC8QqIEn44M",
-        "url": "https://maps.google.com/?cid=9503483076505775928",
-        "website": "http://wat-srinagarin.ch/wp/de/home/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM4TOC4_j6UkRAtKe5ee0547s0W1RvumFSOY5Z_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNlm-dK6kXX9XsTqLIgG8xTXhZUoSULzX6mAKO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMm-ySqhUn_sRl2OxHy3-nVsNpbMGW11vGvCYIy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUUPRfcaP4ZP6ApCcIMSsH754mdxOZTNuikZ7T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMMHTXr6n8HYWfAm3okMrZQ82QnqSk6x1uk0Pbc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwg9I0YV_JwcUf_m9f7grBjauVqO_i55xd1op9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkcmbj2xJgIA8lZh3-U9ojT2MtUe12PR67D4-q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOd-i0jXZTn_uUoNWJp9tnbUQyVdmRnwykEmLQP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9-eCOpdM1z0pMW3Su6mdOh43Gy-nFsYqq2Qwt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3v64LUTgFC4pIkb4TvDBFjbocivgb2iEXAjhe=s1600-w640-h480"
-        ]
+      "name": "Wat Thai Srinagarin",
+      "location": {
+        "lat": 47.35819169999999,
+        "lng": 7.990994399999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "Switzerland, Im Grund 7, 5014 Gretzenbach, Switzerland",
+      "phone": "+41 62 858 60 30",
+      "website": "http://wat-srinagarin.ch/wp/de/home/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM4TOC4_j6UkRAtKe5ee0547s0W1RvumFSOY5Z_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNlm-dK6kXX9XsTqLIgG8xTXhZUoSULzX6mAKO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMm-ySqhUn_sRl2OxHy3-nVsNpbMGW11vGvCYIy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUUPRfcaP4ZP6ApCcIMSsH754mdxOZTNuikZ7T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMMHTXr6n8HYWfAm3okMrZQ82QnqSk6x1uk0Pbc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwg9I0YV_JwcUf_m9f7grBjauVqO_i55xd1op9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkcmbj2xJgIA8lZh3-U9ojT2MtUe12PR67D4-q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOd-i0jXZTn_uUoNWJp9tnbUQyVdmRnwykEmLQP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9-eCOpdM1z0pMW3Su6mdOh43Gy-nFsYqq2Qwt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3v64LUTgFC4pIkb4TvDBFjbocivgb2iEXAjhe=s1600-w640-h480"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzybuNvA6kEcROC8QqIEn44M",
+      "google_maps_url": "https://maps.google.com/?cid=9503483076505775928",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Im Grund 7, 5014 Gretzenbach, Switzerland",
-        "geometry": {
-          "location": {
-            "lat": 47.3585253,
-            "lng": 7.9912892
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.3599570302915,
-              "lng": 7.992569180291504
-            },
-            "southwest": {
-              "lat": 47.3572590697085,
-              "lng": 7.989871219708499
-            }
-          }
-        },
-        "name": "Wat Srinagarindravararam",
-        "place_id": "ChIJ7ZZESPA6kEcRL_WQICxauMk",
-        "url": "https://maps.google.com/?cid=14535466942909707567",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Wat Srinagarindravararam",
+      "location": {
+        "lat": 47.3585253,
+        "lng": 7.9912892
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Im Grund 7, 5014 Gretzenbach, Switzerland",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ7ZZESPA6kEcRL_WQICxauMk",
+      "google_maps_url": "https://maps.google.com/?cid=14535466942909707567",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Heideggstrasse, 6284 Gelfingen, Switzerland",
-        "geometry": {
-          "location": {
-            "lat": 47.2172192,
-            "lng": 8.2682563
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.21864478029149,
-              "lng": 8.269521630291502
-            },
-            "southwest": {
-              "lat": 47.2159468197085,
-              "lng": 8.266823669708497
-            }
-          }
-        },
-        "international_phone_number": "+41 41 917 05 31",
-        "name": "Fo Guang Shan Switzerland Temple",
-        "place_id": "ChIJZYT1lJEckEcRvK38GMP06NY",
-        "url": "https://maps.google.com/?cid=15485896437488463292",
-        "website": "https://www.fgs.org.tw/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Fo Guang Shan Switzerland Temple",
+      "location": {
+        "lat": 47.2172192,
+        "lng": 8.2682563
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Heideggstrasse, 6284 Gelfingen, Switzerland",
+      "phone": "+41 41 917 05 31",
+      "website": "https://www.fgs.org.tw/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZYT1lJEckEcRvK38GMP06NY",
+      "google_maps_url": "https://maps.google.com/?cid=15485896437488463292",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Morgen 6, 87549 Rettenberg, Germany",
-        "geometry": {
-          "location": {
-            "lat": 47.6131798,
-            "lng": 10.3631271
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.6148901802915,
-              "lng": 10.3639179
-            },
-            "southwest": {
-              "lat": 47.6121922197085,
-              "lng": 10.3607547
-            }
-          }
-        },
-        "international_phone_number": "+49 8327 930891",
-        "name": "Anenja Vihara",
-        "place_id": "ChIJHXvn7X99nEcRHkN9uXi2MG8",
-        "url": "https://maps.google.com/?cid=8012104366716437278",
-        "website": "http://www.anenja-vihara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPJa9vS5aPRKUcxPtVZz5g6t3uL-wg-F43ySFBb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtnDJi7AkL3mtQBoSyaXFDdFlrHI_yF75gVm9q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXU9Vw05C8tKTzfo3ma6r5ssRmQ_T6NvCTj_Ts=s1600-w800-h600",
-          "https://lh3.googleusercontent.com/p/AF1QipPkerKRGklvsGBmEGr0Eim4oUZTAwSyl7qpXvrd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZ-pEzwnmy5CpYPDpAsXUZe0jZ-5ZIhoC9ocxK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3nKBgZ6PFDCC2j8coIAsg5K8r5_vR_W_8-v0D=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNjqS7vapLhs5mf0SgD1M8SiHaKHuEnmCF8-K0X=s1600-w800-h600",
-          "https://lh3.googleusercontent.com/p/AF1QipP7CEeqXoO9PncMukCGe8LwvrmLFIjz54rAgsMB=s1600-w750-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZb3OqjmTTTBxIKd7VSkCVli06H6ti6cTibL9O=s1600-w800-h600",
-          "https://lh3.googleusercontent.com/p/AF1QipNc-SYU_X2oh0JCTfcluwFVjj6I0vzMdzqG0lZh=s1600-w800-h800"
-        ]
+      "name": "Anenja Vihara",
+      "location": {
+        "lat": 47.6131798,
+        "lng": 10.3631271
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "Morgen 6, 87549 Rettenberg, Germany",
+      "phone": "+49 8327 930891",
+      "website": "http://www.anenja-vihara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPJa9vS5aPRKUcxPtVZz5g6t3uL-wg-F43ySFBb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtnDJi7AkL3mtQBoSyaXFDdFlrHI_yF75gVm9q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXU9Vw05C8tKTzfo3ma6r5ssRmQ_T6NvCTj_Ts=s1600-w800-h600",
+        "https://lh3.googleusercontent.com/p/AF1QipPkerKRGklvsGBmEGr0Eim4oUZTAwSyl7qpXvrd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZ-pEzwnmy5CpYPDpAsXUZe0jZ-5ZIhoC9ocxK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3nKBgZ6PFDCC2j8coIAsg5K8r5_vR_W_8-v0D=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNjqS7vapLhs5mf0SgD1M8SiHaKHuEnmCF8-K0X=s1600-w800-h600",
+        "https://lh3.googleusercontent.com/p/AF1QipP7CEeqXoO9PncMukCGe8LwvrmLFIjz54rAgsMB=s1600-w750-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZb3OqjmTTTBxIKd7VSkCVli06H6ti6cTibL9O=s1600-w800-h600",
+        "https://lh3.googleusercontent.com/p/AF1QipNc-SYU_X2oh0JCTfcluwFVjj6I0vzMdzqG0lZh=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJHXvn7X99nEcRHkN9uXi2MG8",
+      "google_maps_url": "https://maps.google.com/?cid=8012104366716437278",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Budapest, Batthyány u. 51, 1161 Hungary",
-        "geometry": {
-          "location": {
-            "lat": 47.5200482,
-            "lng": 19.1592727
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.5213663802915,
-              "lng": 19.1605533302915
-            },
-            "southwest": {
-              "lat": 47.5186684197085,
-              "lng": 19.1578553697085
-            }
-          }
-        },
-        "international_phone_number": "+36 1 793 1355",
-        "name": "Wat Thai Rattanaprateep",
-        "place_id": "ChIJwT_pmLXEQUcRNoWvTpB43ho",
-        "url": "https://maps.google.com/?cid=1936117451006641462",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOuetLPuiHgE_It2ZEthKVOfxIPbj80fQldn45V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-6gR8j9Cf_9y4VsUsU041RBkqw1Gpx1LC8F6k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdi8ZyKZHmVlC0gVZudfOIST5ynI3MaU0h-BZZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTW2t39BdOibqEAkRU2YjlVsOmALuIS4Diob5z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeMn5uye0j8aGD7Yqii3Nl48SbiapIbqy8kBg8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWsSPWXTXPM8ERdro3n3YdEhKenb3UFYRxAjXV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOzeqXgLMGJbVwBGFh4hrFRuIjwzxnj-wBF_PA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhODYbsM6C79-bM1WFhKzuzxEtCPrIXZAyEf8t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOU30sB3Ji-U83nl2SV6wuEbC57cW7cC97dge2V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNHPkljfJApTPC-qgYDmk2FyfJC6Pg_AFa27K96=s1600-w800-h800"
-        ]
+      "name": "Wat Thai Rattanaprateep",
+      "location": {
+        "lat": 47.5200482,
+        "lng": 19.1592727
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "Budapest, Batthyány u. 51, 1161 Hungary",
+      "phone": "+36 1 793 1355",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOuetLPuiHgE_It2ZEthKVOfxIPbj80fQldn45V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-6gR8j9Cf_9y4VsUsU041RBkqw1Gpx1LC8F6k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdi8ZyKZHmVlC0gVZudfOIST5ynI3MaU0h-BZZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTW2t39BdOibqEAkRU2YjlVsOmALuIS4Diob5z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeMn5uye0j8aGD7Yqii3Nl48SbiapIbqy8kBg8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWsSPWXTXPM8ERdro3n3YdEhKenb3UFYRxAjXV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOzeqXgLMGJbVwBGFh4hrFRuIjwzxnj-wBF_PA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhODYbsM6C79-bM1WFhKzuzxEtCPrIXZAyEf8t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOU30sB3Ji-U83nl2SV6wuEbC57cW7cC97dge2V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNHPkljfJApTPC-qgYDmk2FyfJC6Pg_AFa27K96=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJwT_pmLXEQUcRNoWvTpB43ho",
+      "google_maps_url": "https://maps.google.com/?cid=1936117451006641462",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Esztergom, Búbosbanka 61, 2500 Hungary",
-        "geometry": {
-          "location": {
-            "lat": 47.7873643,
-            "lng": 18.7943723
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.7887095302915,
-              "lng": 18.7959431802915
-            },
-            "southwest": {
-              "lat": 47.7860115697085,
-              "lng": 18.7932452197085
-            }
-          }
-        },
-        "international_phone_number": "+36 20 257 3856",
-        "name": "Won Kwang Sa Zen Temple",
-        "place_id": "ChIJ9Z0viV1iakcRmoSwj1NyvSQ",
-        "url": "https://maps.google.com/?cid=2647397859182281882",
-        "website": "http://wonkwangsa.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPtWaVrqJFiyhwi7_HrIOS85rONV86tvlmQh6R6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOgokwfVkd3lKplqq0vC13hT5LwwUlflQrQGcBU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMlAp9h1B-BkTbp-IYAQKNBKlSElB75Z1Yl1Qku=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPALSPb4lFKn54wSFfdoIK6CIQg64TFqFtXwAxX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7pUrV7jJkW2i_vdoWYzJNMvAPkXfKiDVRv7mw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNP08hTJiaXVWgCdI_sliieAG4T8kEOxeRsd3es=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOaoYlR5dyJF-A6mEuKUqt-93ndjmh1BQDJRwzi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXE3gGZCbmlQtxcjQITFk2KZ1C5oe3EpBBNhg1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3bk7YLS2nFsxsPuzgATR3rGptg4iwatC2Xzk9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYD8oFgDbWHGMomeWdpj3I-4SR1e6cDKYVk6f0=s1600-w800-h800"
-        ]
+      "name": "Won Kwang Sa Zen Temple",
+      "location": {
+        "lat": 47.7873643,
+        "lng": 18.7943723
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "Esztergom, Búbosbanka 61, 2500 Hungary",
+      "phone": "+36 20 257 3856",
+      "website": "http://wonkwangsa.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPtWaVrqJFiyhwi7_HrIOS85rONV86tvlmQh6R6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOgokwfVkd3lKplqq0vC13hT5LwwUlflQrQGcBU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMlAp9h1B-BkTbp-IYAQKNBKlSElB75Z1Yl1Qku=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPALSPb4lFKn54wSFfdoIK6CIQg64TFqFtXwAxX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7pUrV7jJkW2i_vdoWYzJNMvAPkXfKiDVRv7mw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNP08hTJiaXVWgCdI_sliieAG4T8kEOxeRsd3es=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOaoYlR5dyJF-A6mEuKUqt-93ndjmh1BQDJRwzi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXE3gGZCbmlQtxcjQITFk2KZ1C5oe3EpBBNhg1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3bk7YLS2nFsxsPuzgATR3rGptg4iwatC2Xzk9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYD8oFgDbWHGMomeWdpj3I-4SR1e6cDKYVk6f0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9Z0viV1iakcRmoSwj1NyvSQ",
+      "google_maps_url": "https://maps.google.com/?cid=2647397859182281882",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1733 S Horton St, Seattle, WA 98144, USA",
-        "geometry": {
-          "location": {
-            "lat": 47.5738932,
-            "lng": -122.3098782
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 47.57532013029149,
-              "lng": -122.3085295697085
-            },
-            "southwest": {
-              "lat": 47.5726221697085,
-              "lng": -122.3112275302915
-            }
-          }
-        },
-        "international_phone_number": "+1 206-328-3944",
-        "name": "Dai Bai Zan Cho Bo ji Zen Temple",
-        "place_id": "ChIJtYmZbNRqkFQRe1u2jih-SlU",
-        "url": "https://maps.google.com/?cid=6145863354158570363",
-        "website": "http://www.choboji.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN63NGUO2ZZ3rH4H65Oof5z-WZFRF8H-pgkHQ6p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnbzYypmu5kDP2NMJ7hyHdQOHsdiL8gLrNN8kD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLr0Wtu0nrRfA4uqMxB_mO3HlJnEJUpilmzhXp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNaRUlqwWynWhiB98QLxw10Dw8f1Im_5hMV2hpI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwwRGM_hgrJMpWG4VjIFASgiICzZC0VX_8-YwM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPg3hS2-41HnnKn_VU8GkoIhpO-98tF826zeZ-W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvORnyJiVk-O6obrwO1qU6smL9FYZY-QdlgvDb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeGOvzw1DmPY6sQtYfYKjI-vZS2vvrKsOnQfDl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPP_1UPRsURa-ejpHX7jJjT7NcXKpp7BTJQwXgg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfkA178Gf9cci418TuD5PVO-q2W_EYkSKRrytC=s1600-w800-h800"
-        ]
+      "name": "Dai Bai Zan Cho Bo ji Zen Temple",
+      "location": {
+        "lat": 47.5738932,
+        "lng": -122.3098782
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:54:02.672Z"
-      }
+      "address": "1733 S Horton St, Seattle, WA 98144, USA",
+      "phone": "+1 206-328-3944",
+      "website": "http://www.choboji.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN63NGUO2ZZ3rH4H65Oof5z-WZFRF8H-pgkHQ6p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnbzYypmu5kDP2NMJ7hyHdQOHsdiL8gLrNN8kD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLr0Wtu0nrRfA4uqMxB_mO3HlJnEJUpilmzhXp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNaRUlqwWynWhiB98QLxw10Dw8f1Im_5hMV2hpI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwwRGM_hgrJMpWG4VjIFASgiICzZC0VX_8-YwM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPg3hS2-41HnnKn_VU8GkoIhpO-98tF826zeZ-W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvORnyJiVk-O6obrwO1qU6smL9FYZY-QdlgvDb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeGOvzw1DmPY6sQtYfYKjI-vZS2vvrKsOnQfDl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPP_1UPRsURa-ejpHX7jJjT7NcXKpp7BTJQwXgg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfkA178Gf9cci418TuD5PVO-q2W_EYkSKRrytC=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJtYmZbNRqkFQRe1u2jih-SlU",
+      "google_maps_url": "https://maps.google.com/?cid=6145863354158570363",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2013 248 St, Aldergrove, BC V4W 2B7, Canada",
-        "geometry": {
-          "location": {
-            "lat": 49.0380061,
-            "lng": -122.5374285
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.0393537802915,
-              "lng": -122.5358274697085
-            },
-            "southwest": {
-              "lat": 49.0366558197085,
-              "lng": -122.5385254302915
-            }
-          }
-        },
-        "name": "Hoa Nghiem Monastery",
-        "place_id": "ChIJo6lPQVfJhVQRBhZ0olihO-0",
-        "url": "https://maps.google.com/?cid=17094434212669560326",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Hoa Nghiem Monastery",
+      "location": {
+        "lat": 49.0380061,
+        "lng": -122.5374285
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "2013 248 St, Aldergrove, BC V4W 2B7, Canada",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJo6lPQVfJhVQRBhZ0olihO-0",
+      "google_maps_url": "https://maps.google.com/?cid=17094434212669560326",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

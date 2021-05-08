@@ -1,1813 +1,1446 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Sumberjo, Balerejo, Kec. Wlingi, Blitar, Jawa Timur 66184, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -8.024879399999998,
-            "lng": 112.3791232
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -8.023708069708496,
-              "lng": 112.3804915802915
-            },
-            "southwest": {
-              "lat": -8.0264060302915,
-              "lng": 112.3777936197085
-            }
-          }
-        },
-        "name": "Balerejo monastery Wlingi",
-        "place_id": "ChIJdy28jtKReC4R5hkjcHSbOhw",
-        "url": "https://maps.google.com/?cid=2034109106111060454",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPpUZzSJk4OhKtb8sPExYN37HwCxbGwoN_e1wAu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOaizihopTzkvnkLiDZD6NPWzcvQaFLWrF9Rcvj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORAEP9EnrScS20PLkmBdSwqyQ5W9X4Of-TO2Om=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5zIqks4eQAZKLJ3XdnFFBd07Tom0Lf3Sz2PyV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQJhhxYRB_HlFtoKZ3yv5UPLhMhmx1jRx5ItDg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtRkrWlasODuhiaPlAL4nJoxMvgHKGED1uBaxw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjFKfbLpfvpIKcV0wXuGdkZDrAdJDcOZrJCAtD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNH-Axs4aSgfGezaLtqE5-DCy6hixs81T8gUoC7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOumC-5AsPZeplntqibgAPU3SxM26vLaRgW7bvb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONXDe1E9ebTfCcdBQZhQzNvwF7yxMXOn0DYqDF=s1600-w800-h800"
-        ]
+      "name": "Balerejo monastery Wlingi",
+      "location": {
+        "lat": -8.024879399999998,
+        "lng": 112.3791232
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Sumberjo, Balerejo, Kec. Wlingi, Blitar, Jawa Timur 66184, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPpUZzSJk4OhKtb8sPExYN37HwCxbGwoN_e1wAu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOaizihopTzkvnkLiDZD6NPWzcvQaFLWrF9Rcvj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORAEP9EnrScS20PLkmBdSwqyQ5W9X4Of-TO2Om=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5zIqks4eQAZKLJ3XdnFFBd07Tom0Lf3Sz2PyV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQJhhxYRB_HlFtoKZ3yv5UPLhMhmx1jRx5ItDg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtRkrWlasODuhiaPlAL4nJoxMvgHKGED1uBaxw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjFKfbLpfvpIKcV0wXuGdkZDrAdJDcOZrJCAtD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNH-Axs4aSgfGezaLtqE5-DCy6hixs81T8gUoC7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOumC-5AsPZeplntqibgAPU3SxM26vLaRgW7bvb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONXDe1E9ebTfCcdBQZhQzNvwF7yxMXOn0DYqDF=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJdy28jtKReC4R5hkjcHSbOhw",
+      "google_maps_url": "https://maps.google.com/?cid=2034109106111060454",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Gg. Sahadewa, Banjar Tegeha, Kec. Banjar, Kabupaten Buleleng, Bali 81152, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -8.2105937,
-            "lng": 114.9740049
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -8.209216569708497,
-              "lng": 114.9754706802915
-            },
-            "southwest": {
-              "lat": -8.211914530291502,
-              "lng": 114.9727727197085
-            }
-          }
-        },
-        "international_phone_number": "+62 362 92954",
-        "name": "Brahmavihara-Arama",
-        "place_id": "ChIJZ8hawhKD0S0RJiS_lwHbBVM",
-        "url": "https://maps.google.com/?cid=5982428479918908454",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPxIAUhJr9ujM8Ge5RiI66Ul090niRxZhLbEiW4=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPe3aPUiHkmBlG5RbK6LBDx16IZZZqJQWXW5rDA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPinOJwtlDhwN7I6TIG2TGT3T-QEUrtGrAH5xAh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRYA8WRmWVbSSqITArfTn0jXOHPaHYydvowq9U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfO2OzdgzAvov2Pe05SagTEwdDTTtoWI3mZi_f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMvLl24t4sLplW0pV7RIuMMVJoQUQF-BJZCSAt7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8B7oaubwpAz7NVS6qZ5aLtBtXCXhs-y9opHjK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPODOOsa_ix56o9ZPrnWnX4OiLjfTrtjKHf1rWD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMPQVTltScReXfjaXiEZ6PTPD9ttaY8mXAPXpl8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJMqS93Mdqhg_KpoxoyCZHFHKVBeWrC1pDUYwz=s1600-w800-h800"
-        ]
+      "name": "Brahmavihara-Arama",
+      "location": {
+        "lat": -8.2105937,
+        "lng": 114.9740049
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Gg. Sahadewa, Banjar Tegeha, Kec. Banjar, Kabupaten Buleleng, Bali 81152, Indonesia",
+      "phone": "+62 362 92954",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPxIAUhJr9ujM8Ge5RiI66Ul090niRxZhLbEiW4=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPe3aPUiHkmBlG5RbK6LBDx16IZZZqJQWXW5rDA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPinOJwtlDhwN7I6TIG2TGT3T-QEUrtGrAH5xAh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRYA8WRmWVbSSqITArfTn0jXOHPaHYydvowq9U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfO2OzdgzAvov2Pe05SagTEwdDTTtoWI3mZi_f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMvLl24t4sLplW0pV7RIuMMVJoQUQF-BJZCSAt7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8B7oaubwpAz7NVS6qZ5aLtBtXCXhs-y9opHjK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPODOOsa_ix56o9ZPrnWnX4OiLjfTrtjKHf1rWD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMPQVTltScReXfjaXiEZ6PTPD9ttaY8mXAPXpl8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJMqS93Mdqhg_KpoxoyCZHFHKVBeWrC1pDUYwz=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZ8hawhKD0S0RJiS_lwHbBVM",
+      "google_maps_url": "https://maps.google.com/?cid=5982428479918908454",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Gn. Agung Lingkungan Padang Udayana No.3A, Padangsambian, Kec. Denpasar Bar., Kota Denpasar, Bali 80361, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -8.6519699,
-            "lng": 115.1893921
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -8.650722319708498,
-              "lng": 115.1907939302915
-            },
-            "southwest": {
-              "lat": -8.653420280291503,
-              "lng": 115.1880959697085
-            }
-          }
-        },
-        "international_phone_number": "+62 361 427455",
-        "name": "Buddha Sakyamuni Monastery",
-        "place_id": "ChIJCzSX1KlA0i0R0HlsN13z2_4",
-        "url": "https://maps.google.com/?cid=18364539487220693456",
-        "website": "http://www.viharabuddhasakyamuni.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPmlJvS_Kh38E9GxBC8O6mmg7XhKFUAGmvNAmOD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMor479ArCJbotRiCeFT3GcPu6xogiPRoR4QEba=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPc61t8yMGJSKJwhfHcHjuzuj1omyRfPdmLF4_L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOgYn1va7mIcnbm8eE3Rkx0oGB794ddPdPesCNU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPb2tJbp5Evvn-58Uw9ZRezLZ-q8nAssnKgUlr9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5sN-Fm3gI4bCBk5LQ76JGUlyA0QLlIczH1DMg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3RjFdzFzLVzCJG3WGk-Fx8tEAyri4ymQXIU9P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsvHF5aMlBHXeIUq8p_rHsX7A49--JCLS91GRO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7arb3ZhLaUaA3RzsD_RGSpH7-zhzp08V0z6AY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4xi_9YnQ_g6Z9J603ZAgICuNV8JjrBwL3H3Kr=s1600-w800-h800"
-        ]
+      "name": "Buddha Sakyamuni Monastery",
+      "location": {
+        "lat": -8.6519699,
+        "lng": 115.1893921
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Gn. Agung Lingkungan Padang Udayana No.3A, Padangsambian, Kec. Denpasar Bar., Kota Denpasar, Bali 80361, Indonesia",
+      "phone": "+62 361 427455",
+      "website": "http://www.viharabuddhasakyamuni.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPmlJvS_Kh38E9GxBC8O6mmg7XhKFUAGmvNAmOD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMor479ArCJbotRiCeFT3GcPu6xogiPRoR4QEba=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPc61t8yMGJSKJwhfHcHjuzuj1omyRfPdmLF4_L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOgYn1va7mIcnbm8eE3Rkx0oGB794ddPdPesCNU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPb2tJbp5Evvn-58Uw9ZRezLZ-q8nAssnKgUlr9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5sN-Fm3gI4bCBk5LQ76JGUlyA0QLlIczH1DMg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3RjFdzFzLVzCJG3WGk-Fx8tEAyri4ymQXIU9P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsvHF5aMlBHXeIUq8p_rHsX7A49--JCLS91GRO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7arb3ZhLaUaA3RzsD_RGSpH7-zhzp08V0z6AY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4xi_9YnQ_g6Z9J603ZAgICuNV8JjrBwL3H3Kr=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJCzSX1KlA0i0R0HlsN13z2_4",
+      "google_maps_url": "https://maps.google.com/?cid=18364539487220693456",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Soekarno Hatta No.2C, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.948304500000001,
-            "lng": 112.61683
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.946921819708497,
-              "lng": 112.6181327802915
-            },
-            "southwest": {
-              "lat": -7.949619780291502,
-              "lng": 112.6154348197085
-            }
-          }
-        },
-        "international_phone_number": "+62 341 495612",
-        "name": "Vihara Dharma Mitra",
-        "place_id": "ChIJgfCyinaCeC4R10RZAaGgioI",
-        "url": "https://maps.google.com/?cid=9406507385089508567",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMmHKhAB5x2eFeYVmT5RNlZpyxbIf1vNWtjB51i=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHZHT9-AHLgwq2SLRySvbA4Z0wkHIuyRw2kCzl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0JO38bu6CR5HFBq4BmFonFi5SSIMIbSaLvR2P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhZodIBeiMI50Yd3WEQjhkItqHuAnBFVYsvCeZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM5mnxOj63r2ExbFxB4pyxjZwlpsccVM9R0nqZT=s1600-w800-h585",
-          "https://lh3.googleusercontent.com/p/AF1QipNJgReToIxtEFTYd06Du2RCWB32mR-sSfG3-exI=s1600-w480-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQbxZvK75qLrhSS0KaymopA4TyVzwR9Ivj59Tg=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOKKzSyhNGRHr9dJBc8VyEgiifrkZxH5tp2VuTP=s1600-w800-h780",
-          "https://lh3.googleusercontent.com/p/AF1QipONOdtMKsPkZehBisEsThmhTvYc6U_7CbY0SNiD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOSWm_EInuvniuXt2l63q5eeF2T1VUmXXFQERUL=s1600-w800-h800"
-        ]
+      "name": "Vihara Dharma Mitra",
+      "location": {
+        "lat": -7.948304500000001,
+        "lng": 112.61683
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Soekarno Hatta No.2C, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141, Indonesia",
+      "phone": "+62 341 495612",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMmHKhAB5x2eFeYVmT5RNlZpyxbIf1vNWtjB51i=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHZHT9-AHLgwq2SLRySvbA4Z0wkHIuyRw2kCzl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0JO38bu6CR5HFBq4BmFonFi5SSIMIbSaLvR2P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhZodIBeiMI50Yd3WEQjhkItqHuAnBFVYsvCeZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM5mnxOj63r2ExbFxB4pyxjZwlpsccVM9R0nqZT=s1600-w800-h585",
+        "https://lh3.googleusercontent.com/p/AF1QipNJgReToIxtEFTYd06Du2RCWB32mR-sSfG3-exI=s1600-w480-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQbxZvK75qLrhSS0KaymopA4TyVzwR9Ivj59Tg=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOKKzSyhNGRHr9dJBc8VyEgiifrkZxH5tp2VuTP=s1600-w800-h780",
+        "https://lh3.googleusercontent.com/p/AF1QipONOdtMKsPkZehBisEsThmhTvYc6U_7CbY0SNiD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOSWm_EInuvniuXt2l63q5eeF2T1VUmXXFQERUL=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJgfCyinaCeC4R10RZAaGgioI",
+      "google_maps_url": "https://maps.google.com/?cid=9406507385089508567",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Slamet Riyadi No.16, Ronggomulyo, Kec. Tuban, Kabupaten Tuban, Jawa Timur 62312, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.896284800000001,
-            "lng": 112.0579706
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.894968069708497,
-              "lng": 112.0593072302915
-            },
-            "southwest": {
-              "lat": -6.897666030291502,
-              "lng": 112.0566092697085
-            }
-          }
-        },
-        "name": "Lien Sian monastery Poo Kiong",
-        "place_id": "ChIJ7y_EDVe9dy4RIKMw_mDWwIA",
-        "url": "https://maps.google.com/?cid=9277650944453026592",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO75_GsA0eqElYYj0uaaM9gaDONiOYBTVOU7u5o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6JfBulYQ703U_JnAd0n--rtF3iQD4qrxqizr_=s1600-w800-h800"
-        ]
+      "name": "Lien Sian monastery Poo Kiong",
+      "location": {
+        "lat": -6.896284800000001,
+        "lng": 112.0579706
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Slamet Riyadi No.16, Ronggomulyo, Kec. Tuban, Kabupaten Tuban, Jawa Timur 62312, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO75_GsA0eqElYYj0uaaM9gaDONiOYBTVOU7u5o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6JfBulYQ703U_JnAd0n--rtF3iQD4qrxqizr_=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ7y_EDVe9dy4RIKMw_mDWwIA",
+      "google_maps_url": "https://maps.google.com/?cid=9277650944453026592",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Mayor Kusen, Sumberrejo, Mendut, Mungkid, Magelang, Jawa Tengah 56501, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.6054185,
-            "lng": 110.229607
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.604051019708498,
-              "lng": 110.2309990302915
-            },
-            "southwest": {
-              "lat": -7.606748980291503,
-              "lng": 110.2283010697085
-            }
-          }
-        },
-        "international_phone_number": "+62 293 788564",
-        "name": "Mendut Buddhist Monastery",
-        "place_id": "ChIJ_TvEg4SMei4ROWsLhqBHHls",
-        "url": "https://maps.google.com/?cid=6565764061521996601",
-        "website": "https://mendut.business.site/?utm_source=gmb&utm_medium=referral",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOv7FRN6t2OiS3ISz-D-m5hCRygyzNr4vn97rM=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipP8BViCK0wZeh2EyWRoahdlWgH02KfnmdlUb5uu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIpGWXnHfmGPIJvFkwixseALLYzuw7GYb4sd8D=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWhfMRpcgFNf1Pl3E_RtGRPOUC8C3J2NxPG28K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOonnraT1WLvfi2MsNRU6sbO3KavvSPVaXktD2h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMmtn-fcHL6GCtZBlLHfgYFOygRfbBCyPItgSNA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPqDamuYSNDXgkuxxdQmqzqtupsgnQfjbxqz4bW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQxLHB4Y0SGqB375yVbMFcx3t4bKXTPkL0LZvt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPELhOj97v1kkd4tc_SHDvV9rkB9tydat-J2r5t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpXlw3gHChryJzIFqePiHsk0G8MULA000w2UFi=s1600-w800-h800"
-        ]
+      "name": "Mendut Buddhist Monastery",
+      "location": {
+        "lat": -7.6054185,
+        "lng": 110.229607
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Mayor Kusen, Sumberrejo, Mendut, Mungkid, Magelang, Jawa Tengah 56501, Indonesia",
+      "phone": "+62 293 788564",
+      "website": "https://mendut.business.site/?utm_source=gmb&utm_medium=referral",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOv7FRN6t2OiS3ISz-D-m5hCRygyzNr4vn97rM=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipP8BViCK0wZeh2EyWRoahdlWgH02KfnmdlUb5uu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIpGWXnHfmGPIJvFkwixseALLYzuw7GYb4sd8D=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWhfMRpcgFNf1Pl3E_RtGRPOUC8C3J2NxPG28K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOonnraT1WLvfi2MsNRU6sbO3KavvSPVaXktD2h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMmtn-fcHL6GCtZBlLHfgYFOygRfbBCyPItgSNA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPqDamuYSNDXgkuxxdQmqzqtupsgnQfjbxqz4bW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQxLHB4Y0SGqB375yVbMFcx3t4bKXTPkL0LZvt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPELhOj97v1kkd4tc_SHDvV9rkB9tydat-J2r5t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpXlw3gHChryJzIFqePiHsk0G8MULA000w2UFi=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_TvEg4SMei4ROWsLhqBHHls",
+      "google_maps_url": "https://maps.google.com/?cid=6565764061521996601",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jalan Lembah Dieng Kav. 1, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65151, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.971069599999998,
-            "lng": 112.6030483
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.969714419708496,
-              "lng": 112.6043525302915
-            },
-            "southwest": {
-              "lat": -7.972412380291501,
-              "lng": 112.6016545697085
-            }
-          }
-        },
-        "international_phone_number": "+62 341 361402",
-        "name": "Vihara Vajra Earth Kertanegara",
-        "place_id": "ChIJ1YWqHpKCeC4R3DBsWjFMRxw",
-        "url": "https://maps.google.com/?cid=2037681131262587100",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPr-kBnl4XnyqzJJ92tFgveBhCPPQt3-9h0mBME=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNt8ghi6d9Ma37cx8s_kvsIiTxNYJ6bBjOQj-bc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOgNQZgDz0bYNcl6nZpz0ESC-peFPb1VvbnH08P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4Sqo96E92ScLSpfBWJCebsl3DkzkxgbKi4b1-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnKeQfrBoB-NFtwbtHr2kcHG9xcNgzksJPkDVX=s1600-w800-h683",
-          "https://lh3.googleusercontent.com/p/AF1QipMCQrKKogCoEfAMzo1D1GCHJH9WNfu3p3BEqwnC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfygsRNobdFlmvs3JSbH2qC_G5tFmKM1Up3oUt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_1HCoKJDoX-RFJaRNnfaRtAqUGEhG8MhbU6Go=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXQJFWDukXQpPtWa4hizHZgq5g_SiBkstomgPQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYmN6R8jostOXcS5INib3yE0GXZr1_9C_AAfm9=s1600-w800-h683"
-        ]
+      "name": "Vihara Vajra Earth Kertanegara",
+      "location": {
+        "lat": -7.971069599999998,
+        "lng": 112.6030483
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jalan Lembah Dieng Kav. 1, Pisang Candi, Kec. Sukun, Kota Malang, Jawa Timur 65151, Indonesia",
+      "phone": "+62 341 361402",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPr-kBnl4XnyqzJJ92tFgveBhCPPQt3-9h0mBME=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNt8ghi6d9Ma37cx8s_kvsIiTxNYJ6bBjOQj-bc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOgNQZgDz0bYNcl6nZpz0ESC-peFPb1VvbnH08P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4Sqo96E92ScLSpfBWJCebsl3DkzkxgbKi4b1-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnKeQfrBoB-NFtwbtHr2kcHG9xcNgzksJPkDVX=s1600-w800-h683",
+        "https://lh3.googleusercontent.com/p/AF1QipMCQrKKogCoEfAMzo1D1GCHJH9WNfu3p3BEqwnC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfygsRNobdFlmvs3JSbH2qC_G5tFmKM1Up3oUt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_1HCoKJDoX-RFJaRNnfaRtAqUGEhG8MhbU6Go=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXQJFWDukXQpPtWa4hizHZgq5g_SiBkstomgPQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYmN6R8jostOXcS5INib3yE0GXZr1_9C_AAfm9=s1600-w800-h683"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1YWqHpKCeC4R3DBsWjFMRxw",
+      "google_maps_url": "https://maps.google.com/?cid=2037681131262587100",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Lombok No.34-A, Trajeng, Panggungrejo, Kota Pasuruan, Jawa Timur 67132, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.6373294,
-            "lng": 112.9063555
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.635903869708498,
-              "lng": 112.9077271802915
-            },
-            "southwest": {
-              "lat": -7.638601830291503,
-              "lng": 112.9050292197085
-            }
-          }
-        },
-        "name": "Vihara Bahtera Maitreya",
-        "place_id": "ChIJDQYo8nXG1y0Rvi4kKLJgEIk",
-        "url": "https://maps.google.com/?cid=9876500301117402814",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNeoC7srj-nY5_ke6Ip36XGQwdNFOmBqq5Ttd_n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOH9RKeuWOKhtLsVJKlwqKm-dLevMh-V3JLzN-k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYaNFE2cvMsUP9LebZ9pkYVTTp-mOyYXTZlPok=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBs0YjkO5gXyjP5-HK-LOZIXN_RVoCSnYqBtPw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfeUjksX5fwrAY7W4xIKgDX4GEcMkksMp5wH6f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOY9ghVPrBFe3RVusESsLBI3iWUi5uaFaWedVwH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0MVoOn12knHEA2Xnwl5kTu0yJM7sp0JDBa588=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFSMW2Vua4HtPNW2H8hF59mF0jiPAErIvuuk2j=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOA9TZyFenZZvGjLVyPth3NYGYG2p7CUpXG9z-g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2V_w82ihwwYrusQ6jnM07r0s5V2Wu-a8Sqhnh=s1600-w800-h800"
-        ]
+      "name": "Vihara Bahtera Maitreya",
+      "location": {
+        "lat": -7.6373294,
+        "lng": 112.9063555
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Lombok No.34-A, Trajeng, Panggungrejo, Kota Pasuruan, Jawa Timur 67132, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNeoC7srj-nY5_ke6Ip36XGQwdNFOmBqq5Ttd_n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOH9RKeuWOKhtLsVJKlwqKm-dLevMh-V3JLzN-k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYaNFE2cvMsUP9LebZ9pkYVTTp-mOyYXTZlPok=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBs0YjkO5gXyjP5-HK-LOZIXN_RVoCSnYqBtPw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfeUjksX5fwrAY7W4xIKgDX4GEcMkksMp5wH6f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOY9ghVPrBFe3RVusESsLBI3iWUi5uaFaWedVwH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0MVoOn12knHEA2Xnwl5kTu0yJM7sp0JDBa588=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFSMW2Vua4HtPNW2H8hF59mF0jiPAErIvuuk2j=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOA9TZyFenZZvGjLVyPth3NYGYG2p7CUpXG9z-g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2V_w82ihwwYrusQ6jnM07r0s5V2Wu-a8Sqhnh=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJDQYo8nXG1y0Rvi4kKLJgEIk",
+      "google_maps_url": "https://maps.google.com/?cid=9876500301117402814",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Airlanggga, Belik, Kec. Trawas, Mojokerto, Jawa Timur 61375, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.652648199999998,
-            "lng": 112.6161031
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.651334669708496,
-              "lng": 112.6174463802915
-            },
-            "southwest": {
-              "lat": -7.654032630291501,
-              "lng": 112.6147484197085
-            }
-          }
-        },
-        "name": "Vihara Trawas",
-        "place_id": "ChIJqa95zd53eC4RTVBXCm0f8mM",
-        "url": "https://maps.google.com/?cid=7201853307304235085",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOG5NVSVsDVLHcWams4J5zJa5flO-QvWhpXgK-F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTRvjfh_ZKs470Mihpwk5_M1ub5Mk-6hSB6ZJD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4iv0XxGg7Pt1pFsAO-0HH0P7VXua7BQcLvaau=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMrrt06a46H36SsuFSvmtzBrQAEtXtdWmYgCNlM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOS6lW1-D0YBFX9goxZB0bpOnOoY0L8Km-XNMHY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNN_-ZP4b6S2iHaGRfwmJO4n6-uJhV1AFyM7Jh3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGoRQ6yTgMWIvW3q_gcJIB74CgzlXCopADO11l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO13BlIgN-CMWh2cNKCV2ARYZNH107fgqlqm-c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN15DJPgPz1TwJXsFYRy2G8jakArd1YVs6iSq-d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMB6DpcmGezrgT0AD0kXtLOi4GRNAmiq8Vpyrur=s1600-w800-h800"
-        ]
+      "name": "Vihara Trawas",
+      "location": {
+        "lat": -7.652648199999998,
+        "lng": 112.6161031
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Airlanggga, Belik, Kec. Trawas, Mojokerto, Jawa Timur 61375, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOG5NVSVsDVLHcWams4J5zJa5flO-QvWhpXgK-F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTRvjfh_ZKs470Mihpwk5_M1ub5Mk-6hSB6ZJD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4iv0XxGg7Pt1pFsAO-0HH0P7VXua7BQcLvaau=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMrrt06a46H36SsuFSvmtzBrQAEtXtdWmYgCNlM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOS6lW1-D0YBFX9goxZB0bpOnOoY0L8Km-XNMHY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNN_-ZP4b6S2iHaGRfwmJO4n6-uJhV1AFyM7Jh3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGoRQ6yTgMWIvW3q_gcJIB74CgzlXCopADO11l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO13BlIgN-CMWh2cNKCV2ARYZNH107fgqlqm-c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN15DJPgPz1TwJXsFYRy2G8jakArd1YVs6iSq-d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMB6DpcmGezrgT0AD0kXtLOi4GRNAmiq8Vpyrur=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqa95zd53eC4RTVBXCm0f8mM",
+      "google_maps_url": "https://maps.google.com/?cid=7201853307304235085",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Wisma Gajah Mada No.51, Kemenuh, Kec. Blahbatuh, Kabupaten Gianyar, Bali 80581, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -8.565876499999998,
-            "lng": 115.2925446
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -8.564607519708495,
-              "lng": 115.2938849802915
-            },
-            "southwest": {
-              "lat": -8.5673054802915,
-              "lng": 115.2911870197085
-            }
-          }
-        },
-        "international_phone_number": "+62 361 4791542",
-        "name": "Amurva Bhumi, Monastery",
-        "place_id": "ChIJm_XIqxQW0i0R8RyQmCpK7SE",
-        "url": "https://maps.google.com/?cid=2444691719540710641",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNNxddXqSZzHw9TlAMMH2s1uyEhKqLMnHmkPqVH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkKYqQaEOxUyMgFj5gBN_nXvPXNzO4FFFnY-RI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNI-wH3_xHc0mI7prk954RPmKzqo8fYSx-egCKM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYuW8GTq2i-kzoCaD71e1T8vhNe4vGQO-oH-Os=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjzEXhpbyakZWK0AuDUAHVEL9uNkZi7ZOKzNVA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMvaUgz3iqcYY_ysCUDnqe1MdQ1sDrt3c_3nPc-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMOLdDmYxRM5BI1o7IXYnhVjgVX_pM1b9K8JMcv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM8hFontEFgTs3DhVDYrcw4XMX0lKyfhhPuS_CS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWqTWcIY7X1Qzuj0yPYmEvFPzdtOx0yMWQ6erc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOad5O6VwKZzEbJPITE10O1uQQNzE__VVs5DXRh=s1600-w800-h800"
-        ]
+      "name": "Amurva Bhumi, Monastery",
+      "location": {
+        "lat": -8.565876499999998,
+        "lng": 115.2925446
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Wisma Gajah Mada No.51, Kemenuh, Kec. Blahbatuh, Kabupaten Gianyar, Bali 80581, Indonesia",
+      "phone": "+62 361 4791542",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNNxddXqSZzHw9TlAMMH2s1uyEhKqLMnHmkPqVH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkKYqQaEOxUyMgFj5gBN_nXvPXNzO4FFFnY-RI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNI-wH3_xHc0mI7prk954RPmKzqo8fYSx-egCKM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYuW8GTq2i-kzoCaD71e1T8vhNe4vGQO-oH-Os=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjzEXhpbyakZWK0AuDUAHVEL9uNkZi7ZOKzNVA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMvaUgz3iqcYY_ysCUDnqe1MdQ1sDrt3c_3nPc-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMOLdDmYxRM5BI1o7IXYnhVjgVX_pM1b9K8JMcv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM8hFontEFgTs3DhVDYrcw4XMX0lKyfhhPuS_CS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWqTWcIY7X1Qzuj0yPYmEvFPzdtOx0yMWQ6erc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOad5O6VwKZzEbJPITE10O1uQQNzE__VVs5DXRh=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJm_XIqxQW0i0R8RyQmCpK7SE",
+      "google_maps_url": "https://maps.google.com/?cid=2444691719540710641",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sumberawan, Toyomarto, Singosari, Bodean Krajan, Toyomarto, Kec. Singosari, Malang, Jawa Timur 65153, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.8553802,
-            "lng": 112.6447984
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.854175069708497,
-              "lng": 112.6461453302915
-            },
-            "southwest": {
-              "lat": -7.856873030291502,
-              "lng": 112.6434473697085
-            }
-          }
-        },
-        "international_phone_number": "+62 815-5557-177",
-        "name": "Sumberawan Temple",
-        "place_id": "ChIJq6qqqs4q1i0RPbvxsCiDiiQ",
-        "url": "https://maps.google.com/?cid=2633061142942038845",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMXRUn_c-tR3haWJ_Ro7f5bHd4w4bXxVR2gLa7f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMfg_auDIpZ6QxMXo6S71LV_Hh4YKWq4X3zPsqf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODtLxCHmJbn9VbWps17icoutD0n-WeD3HjEV-u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7H8EHDtqWSAJwnu4xhJ0EQCOx23QJm1ctcxHI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2_zPbrGbhwmUEoprLiDSrB3EWdjzXGrtb_2oz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMV-K1-49YI2dfKtb_45QczRf9QpHH07RftIlIM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMN3RGLnqsfnE7i3GO2xqrDVnuXiZWKd0o2xEOK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmKZ_RHpsTKI3rIUcZ_Nr8M1phOwRIqTEjJhMB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHJL1U0v0fJCXH5qP3HPijqYJo80yMnHzFajra=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPW_knTG5uBOtRkFZXIYjONlXJMopt9zJrU00n0=s1600-w800-h800"
-        ]
+      "name": "Sumberawan Temple",
+      "location": {
+        "lat": -7.8553802,
+        "lng": 112.6447984
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Sumberawan, Toyomarto, Singosari, Bodean Krajan, Toyomarto, Kec. Singosari, Malang, Jawa Timur 65153, Indonesia",
+      "phone": "+62 815-5557-177",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMXRUn_c-tR3haWJ_Ro7f5bHd4w4bXxVR2gLa7f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMfg_auDIpZ6QxMXo6S71LV_Hh4YKWq4X3zPsqf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODtLxCHmJbn9VbWps17icoutD0n-WeD3HjEV-u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7H8EHDtqWSAJwnu4xhJ0EQCOx23QJm1ctcxHI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2_zPbrGbhwmUEoprLiDSrB3EWdjzXGrtb_2oz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMV-K1-49YI2dfKtb_45QczRf9QpHH07RftIlIM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMN3RGLnqsfnE7i3GO2xqrDVnuXiZWKd0o2xEOK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmKZ_RHpsTKI3rIUcZ_Nr8M1phOwRIqTEjJhMB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHJL1U0v0fJCXH5qP3HPijqYJo80yMnHzFajra=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPW_knTG5uBOtRkFZXIYjONlXJMopt9zJrU00n0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJq6qqqs4q1i0RPbvxsCiDiiQ",
+      "google_maps_url": "https://maps.google.com/?cid=2633061142942038845",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Raya Candiwates, Jawi, Candi Wates, Kec. Prigen, Pasuruan, Jawa Timur 67157, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.6624998,
-            "lng": 112.6699451
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.661077069708497,
-              "lng": 112.6713519302915
-            },
-            "southwest": {
-              "lat": -7.663775030291502,
-              "lng": 112.6686539697085
-            }
-          }
-        },
-        "international_phone_number": "+62 812-3331-4400",
-        "name": "Candi Jawi (Jawi Temple)",
-        "place_id": "ChIJEdbzFs3Z1y0RkM8ggTvGKKE",
-        "url": "https://maps.google.com/?cid=11612749598046605200",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNJrtI3DwspVn6S7g-w1iiS4F9Xx5dPKHzowlPo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhqx0sXT-dXqW_fqR_pI938NRIRhmz9AuPJl0T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM54VlWe-fEjELsYr83pIDQfURSV3VhHn6rz_9Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMuq_8wpE8Ewqq18Lts3vNUFppHJsTT_A_KP9Xs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNpYVNNPH_BqWfQ9nsw6PP552FNxV30Kd58a3Pq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmMPjgTCsgZ4WTj3MPorKpv_N5djFZrloTYA7O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNV5ZUC1GD3rHneHhc8h4aYiCYDrw9JCv7TES1M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORYzmnR-NGnnBDPVLe7vXPHtNl68UqLTpll2PD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkeSRBLQvR-3HMlfEnB7HaD_bfQL-F1GALCI0r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUXq6JU2FqtLOhcqY4OlSKJCMzHVCC85wrP5XI=s1600-w800-h800"
-        ]
+      "name": "Candi Jawi (Jawi Temple)",
+      "location": {
+        "lat": -7.6624998,
+        "lng": 112.6699451
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Raya Candiwates, Jawi, Candi Wates, Kec. Prigen, Pasuruan, Jawa Timur 67157, Indonesia",
+      "phone": "+62 812-3331-4400",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNJrtI3DwspVn6S7g-w1iiS4F9Xx5dPKHzowlPo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhqx0sXT-dXqW_fqR_pI938NRIRhmz9AuPJl0T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM54VlWe-fEjELsYr83pIDQfURSV3VhHn6rz_9Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMuq_8wpE8Ewqq18Lts3vNUFppHJsTT_A_KP9Xs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNpYVNNPH_BqWfQ9nsw6PP552FNxV30Kd58a3Pq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmMPjgTCsgZ4WTj3MPorKpv_N5djFZrloTYA7O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNV5ZUC1GD3rHneHhc8h4aYiCYDrw9JCv7TES1M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORYzmnR-NGnnBDPVLe7vXPHtNl68UqLTpll2PD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkeSRBLQvR-3HMlfEnB7HaD_bfQL-F1GALCI0r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUXq6JU2FqtLOhcqY4OlSKJCMzHVCC85wrP5XI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJEdbzFs3Z1y0RkM8ggTvGKKE",
+      "google_maps_url": "https://maps.google.com/?cid=11612749598046605200",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Raya Panjang Jiwo Permai No.44, Panjang Jiwo, Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60299, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.314037300000001,
-            "lng": 112.7653198
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.312730869708497,
-              "lng": 112.7667657302915
-            },
-            "southwest": {
-              "lat": -7.315428830291501,
-              "lng": 112.7640677697085
-            }
-          }
-        },
-        "international_phone_number": "+62 31 8492525",
-        "name": "Vihara BDC Surabaya",
-        "place_id": "ChIJz9k5if361y0Rq95jstoi9gs",
-        "url": "https://maps.google.com/?cid=861914701379133099",
-        "website": "http://buddhayanadharmawiracentre.blogspot.com",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP8E-FlVS0Vaqxbe6bDBPG3H6debhbotrn62L91=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBczzO3uOix3knLf3yb8iKHB9oxJw7QmPU0VsM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlxOInT2igfi7WAyPcdeYeg7sbiv4stmbAoTqa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNIG-OJH-F72kTJn8GVEX8lLNXXgx-M03plUIcZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOkOUAxJdLnlywBeofngjJIpgAWAqfuMIYp7Od=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgLZF_gMQGfBhEdN-RqPyEh4e91mc-l00TlmQa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZ8-aEcMnVAfz_TzWz0FBdM_cREpwPU5l1pSyc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIzZL113lNjkC3tsPRA4v5enSTYGk2r9FOd9SQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMe8Q5s37X5Re1zzZiPh__9H2M4nhyYcGtRtpT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOxa1oQGRgBCKnuFUf9zYjCH007zyUhlVQD6rTi=s1600-w800-h800"
-        ]
+      "name": "Vihara BDC Surabaya",
+      "location": {
+        "lat": -7.314037300000001,
+        "lng": 112.7653198
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Raya Panjang Jiwo Permai No.44, Panjang Jiwo, Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60299, Indonesia",
+      "phone": "+62 31 8492525",
+      "website": "http://buddhayanadharmawiracentre.blogspot.com",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP8E-FlVS0Vaqxbe6bDBPG3H6debhbotrn62L91=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBczzO3uOix3knLf3yb8iKHB9oxJw7QmPU0VsM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlxOInT2igfi7WAyPcdeYeg7sbiv4stmbAoTqa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNIG-OJH-F72kTJn8GVEX8lLNXXgx-M03plUIcZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOkOUAxJdLnlywBeofngjJIpgAWAqfuMIYp7Od=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgLZF_gMQGfBhEdN-RqPyEh4e91mc-l00TlmQa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZ8-aEcMnVAfz_TzWz0FBdM_cREpwPU5l1pSyc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIzZL113lNjkC3tsPRA4v5enSTYGk2r9FOd9SQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMe8Q5s37X5Re1zzZiPh__9H2M4nhyYcGtRtpT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOxa1oQGRgBCKnuFUf9zYjCH007zyUhlVQD6rTi=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJz9k5if361y0Rq95jstoi9gs",
+      "google_maps_url": "https://maps.google.com/?cid=861914701379133099",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Mergelo, Balongsari, Kec. Magersari, Kota Mojokerto, Jawa Timur 61314, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.474058599999999,
-            "lng": 112.4414496
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.472662269708498,
-              "lng": 112.4428047302915
-            },
-            "southwest": {
-              "lat": -7.475360230291503,
-              "lng": 112.4401067697085
-            }
-          }
-        },
-        "name": "Vihara CHI TE MOJOKERTO",
-        "place_id": "ChIJieOmBJANeC4RLfw1nog8m0o",
-        "url": "https://maps.google.com/?cid=5375957137664375853",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMkFCPBWDoZwLJPu4Evo0ERMge07vAnFKnx-lQl=s1600-w800-h800"
-        ]
+      "name": "Vihara CHI TE MOJOKERTO",
+      "location": {
+        "lat": -7.474058599999999,
+        "lng": 112.4414496
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Mergelo, Balongsari, Kec. Magersari, Kota Mojokerto, Jawa Timur 61314, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMkFCPBWDoZwLJPu4Evo0ERMge07vAnFKnx-lQl=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJieOmBJANeC4RLfw1nog8m0o",
+      "google_maps_url": "https://maps.google.com/?cid=5375957137664375853",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Danau Tj. Bunga, Maccini Sombala, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90224, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -5.174814800000001,
-            "lng": 119.4007414
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -5.173555419708499,
-              "lng": 119.4019889802915
-            },
-            "southwest": {
-              "lat": -5.176253380291504,
-              "lng": 119.3992910197085
-            }
-          }
-        },
-        "international_phone_number": "+62 411 2016040",
-        "name": "Arama Maha Buddha Monastery",
-        "place_id": "ChIJk5KVWXEdvy0Rn6PX1wYrMQ4",
-        "url": "https://maps.google.com/?cid=1022645898780844959",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMoRQJsY-xjaojUKoUjRv8wvwVR70-KcGkhmcmX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6e23fozuffru7xkfxgCIvs6t1YEuiV_qvhJID=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPk-GUfmq1aOPJeIjGfsA34UKW2f9nAGXMMxBcQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNzSmrEQEM2wH0g7DesUjZ2wwrBI7MSJImil-tt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrXbwWrwRIzourxYziy4nP6DmPLua1CmJAx0t0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvao8-suJi3Qvsr72GiPGiT0utUNKkpGGE1TUW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPof2ypMvNN7FaS4lA9Q03FMdt54zmqFvbEE_BF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMvK8yj8HO7iEz-X2BZHEbE0EN8YnaNhpruhbrI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlTRPc_byh1v6oxGGKSK8OIyMGMkLvZATs3S64=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMiJ3nNHZAgmUK_imydAeJ5lBo_tGramxdEFkzb=s1600-w800-h800"
-        ]
+      "name": "Arama Maha Buddha Monastery",
+      "location": {
+        "lat": -5.174814800000001,
+        "lng": 119.4007414
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Danau Tj. Bunga, Maccini Sombala, Kec. Tamalate, Kota Makassar, Sulawesi Selatan 90224, Indonesia",
+      "phone": "+62 411 2016040",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMoRQJsY-xjaojUKoUjRv8wvwVR70-KcGkhmcmX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6e23fozuffru7xkfxgCIvs6t1YEuiV_qvhJID=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPk-GUfmq1aOPJeIjGfsA34UKW2f9nAGXMMxBcQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNzSmrEQEM2wH0g7DesUjZ2wwrBI7MSJImil-tt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrXbwWrwRIzourxYziy4nP6DmPLua1CmJAx0t0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvao8-suJi3Qvsr72GiPGiT0utUNKkpGGE1TUW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPof2ypMvNN7FaS4lA9Q03FMdt54zmqFvbEE_BF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMvK8yj8HO7iEz-X2BZHEbE0EN8YnaNhpruhbrI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlTRPc_byh1v6oxGGKSK8OIyMGMkLvZATs3S64=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMiJ3nNHZAgmUK_imydAeJ5lBo_tGramxdEFkzb=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJk5KVWXEdvy0Rn6PX1wYrMQ4",
+      "google_maps_url": "https://maps.google.com/?cid=1022645898780844959",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Raya Putat Gede No.1, Putat Gede, Kec. Sukomanunggal, Kota SBY, Jawa Timur 60226, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.2867039,
-            "lng": 112.6980704
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.285333419708497,
-              "lng": 112.6993326802915
-            },
-            "southwest": {
-              "lat": -7.288031380291502,
-              "lng": 112.6966347197085
-            }
-          }
-        },
-        "international_phone_number": "+62 31 7321249",
-        "name": "Vihara Buddhayana Surabaya",
-        "place_id": "ChIJ78cehRP81y0RgLTC3WTxci0",
-        "url": "https://maps.google.com/?cid=3274945294571320448",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMkpdupklEmud_cQis-SvOMZNoaFWBhPf6Q2Z1K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMiJ9u5NVxxiAOJJUKUDk8aTIksuiJ2T0z8745h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRWS9gsb6WUxXKVBmH1aBtTB5ABRaPe4kdDFUg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN2ZbGyM6O-PrO3V5SfUlfLu6WeT2umcM08CZI9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNO-dHCJsqW608q13A9Ig8ASUaUF0Oo016PboGy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRDyU6VQgn9icTHHZDxhCy19qa5dhHlWFq-Un2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOnCJasU0gFbjr8d_B8yS7xmfG9gINpj2StjnXH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-UgfRVddxIJO3DDj8jKDN-FdDxzd6w3dcqNaa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOPD3PCPEPLI8PwbFeJiWL2maSFGPoyHpaKbrlc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcQMySz0kIAlA_6Zn_E-AeAIB2A1YXy51IZbpZ=s1600-w800-h800"
-        ]
+      "name": "Vihara Buddhayana Surabaya",
+      "location": {
+        "lat": -7.2867039,
+        "lng": 112.6980704
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Raya Putat Gede No.1, Putat Gede, Kec. Sukomanunggal, Kota SBY, Jawa Timur 60226, Indonesia",
+      "phone": "+62 31 7321249",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMkpdupklEmud_cQis-SvOMZNoaFWBhPf6Q2Z1K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMiJ9u5NVxxiAOJJUKUDk8aTIksuiJ2T0z8745h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRWS9gsb6WUxXKVBmH1aBtTB5ABRaPe4kdDFUg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN2ZbGyM6O-PrO3V5SfUlfLu6WeT2umcM08CZI9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNO-dHCJsqW608q13A9Ig8ASUaUF0Oo016PboGy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRDyU6VQgn9icTHHZDxhCy19qa5dhHlWFq-Un2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOnCJasU0gFbjr8d_B8yS7xmfG9gINpj2StjnXH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-UgfRVddxIJO3DDj8jKDN-FdDxzd6w3dcqNaa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOPD3PCPEPLI8PwbFeJiWL2maSFGPoyHpaKbrlc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcQMySz0kIAlA_6Zn_E-AeAIB2A1YXy51IZbpZ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ78cehRP81y0RgLTC3WTxci0",
+      "google_maps_url": "https://maps.google.com/?cid=3274945294571320448",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Ps. Besar Wetan No.8, Alun-alun Contong, Kec. Bubutan, Kota SBY, Jawa Timur 60174, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.2471162,
-            "lng": 112.7417924
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.245981969708498,
-              "lng": 112.7430975302915
-            },
-            "southwest": {
-              "lat": -7.248679930291503,
-              "lng": 112.7403995697085
-            }
-          }
-        },
-        "international_phone_number": "+62 31 3532205",
-        "name": "Vihara Mahavira Graha",
-        "place_id": "ChIJzVphtGr51y0Ref21wB3J1oc",
-        "url": "https://maps.google.com/?cid=9788231969760738681",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPm3nL3chtyNyk_t5Rp-cTcTu1IqCTazquyx7HU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1QQAicXNnKQQoIuGRCHfZVvPpwjDJTd5IyWrD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-Q2s1yy4sB-EWc2M0ZvXx0VzdO8VboIvEoIIW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqVzFz9EJG8nUFFrtIKC_lcsDIKdudH2L8-bE1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeOTE6275GlHdueF7VP6dBkLxNgIDAGceV1HOD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBeUm-hlACYqPcYA5lEeToPfhfKIC9vqLp3l8l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUJOOUs3ZdtJxKEAp74_PvfnEL-74MI4oZ17SA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPW7b_R30woEVFZSt5Ndrq9zpcykSyo8AJB2AKL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGJ9YZTJWplg7QCatf2ML2PVjNZiu_JoaGEGpG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMvO7HvO8Ucraw5-Jc52SMfpgVE_RW2eb146UfN=s1600-w800-h800"
-        ]
+      "name": "Vihara Mahavira Graha",
+      "location": {
+        "lat": -7.2471162,
+        "lng": 112.7417924
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Ps. Besar Wetan No.8, Alun-alun Contong, Kec. Bubutan, Kota SBY, Jawa Timur 60174, Indonesia",
+      "phone": "+62 31 3532205",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPm3nL3chtyNyk_t5Rp-cTcTu1IqCTazquyx7HU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1QQAicXNnKQQoIuGRCHfZVvPpwjDJTd5IyWrD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-Q2s1yy4sB-EWc2M0ZvXx0VzdO8VboIvEoIIW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqVzFz9EJG8nUFFrtIKC_lcsDIKdudH2L8-bE1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeOTE6275GlHdueF7VP6dBkLxNgIDAGceV1HOD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBeUm-hlACYqPcYA5lEeToPfhfKIC9vqLp3l8l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUJOOUs3ZdtJxKEAp74_PvfnEL-74MI4oZ17SA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPW7b_R30woEVFZSt5Ndrq9zpcykSyo8AJB2AKL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGJ9YZTJWplg7QCatf2ML2PVjNZiu_JoaGEGpG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMvO7HvO8Ucraw5-Jc52SMfpgVE_RW2eb146UfN=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzVphtGr51y0Ref21wB3J1oc",
+      "google_maps_url": "https://maps.google.com/?cid=9788231969760738681",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Gg. I, Siti Inggil, Bejijong, Kec. Trowulan, Mojokerto, Jawa Timur 61362, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -7.555548699999999,
-            "lng": 112.3702009
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -7.554298019708496,
-              "lng": 112.3715642802915
-            },
-            "southwest": {
-              "lat": -7.556995980291501,
-              "lng": 112.3688663197085
-            }
-          }
-        },
-        "international_phone_number": "+62 321 495533",
-        "name": "Maha Vihara Mojopahit",
-        "place_id": "ChIJp8MyBuVseC4RykLREwXrpTw",
-        "url": "https://maps.google.com/?cid=4370157420472779466",
-        "website": "http://www.mahavihara-mojopahit.or.id/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN60iSGQPuvBYXANE1mLrZiAIl3DfwWa3yTGsE6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdzsa5ko67oRiFmJGyOKbL_qUh9Z9fo8DECV9G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYhyUKZukDyJRMvmvmTXaLEKo5JBTMNILas6n4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPv4Zh9I5l0hb0dzw_tAeiAWmS14V4Zxl3fJXOL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlUsVHMDgqyOTurQPwfzOV7sNDL3XBttzLK8Eg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgZmvds_UJuy4TdUN_7wm9spJKOBx17i4uXt_k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtMegERPAsa4tiqLdh_NtKpqOunPMAHarsBTU5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNs5R5dDVEOoSh-c_Tbk_6SJh_1YkUqWrupfIXE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCIp7N5J3z-J5csy3aoTT-o_n_jQehGt0THypH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-CeyFRwXl3Gcn5XLCHe8J_xuvAH_s_ciYXbON=s1600-w800-h800"
-        ]
+      "name": "Maha Vihara Mojopahit",
+      "location": {
+        "lat": -7.555548699999999,
+        "lng": 112.3702009
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Gg. I, Siti Inggil, Bejijong, Kec. Trowulan, Mojokerto, Jawa Timur 61362, Indonesia",
+      "phone": "+62 321 495533",
+      "website": "http://www.mahavihara-mojopahit.or.id/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN60iSGQPuvBYXANE1mLrZiAIl3DfwWa3yTGsE6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdzsa5ko67oRiFmJGyOKbL_qUh9Z9fo8DECV9G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYhyUKZukDyJRMvmvmTXaLEKo5JBTMNILas6n4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPv4Zh9I5l0hb0dzw_tAeiAWmS14V4Zxl3fJXOL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlUsVHMDgqyOTurQPwfzOV7sNDL3XBttzLK8Eg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgZmvds_UJuy4TdUN_7wm9spJKOBx17i4uXt_k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtMegERPAsa4tiqLdh_NtKpqOunPMAHarsBTU5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNs5R5dDVEOoSh-c_Tbk_6SJh_1YkUqWrupfIXE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCIp7N5J3z-J5csy3aoTT-o_n_jQehGt0THypH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-CeyFRwXl3Gcn5XLCHe8J_xuvAH_s_ciYXbON=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJp8MyBuVseC4RykLREwXrpTw",
+      "google_maps_url": "https://maps.google.com/?cid=4370157420472779466",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Kelenteng No.10/23A, Ciroyom, Kec. Andir, Kota Bandung, Jawa Barat 40182, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.917727499999999,
-            "lng": 107.5923183
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.916381419708499,
-              "lng": 107.5940455802915
-            },
-            "southwest": {
-              "lat": -6.919079380291503,
-              "lng": 107.5913476197085
-            }
-          }
-        },
-        "international_phone_number": "+62 22 6015847",
-        "name": "Vihara Buddha Gaya",
-        "place_id": "ChIJF59gWhfmaC4R2krpEd7-qG0",
-        "url": "https://maps.google.com/?cid=7901845775958231770",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMc3rTRaMcfzAuRVuqeiSafJMGeu3kBKfCL4n06=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9EriktvZWyWHR7-5V0RMTTyRtA8ycsZPdN86C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONhlnBorab8Hg9--P4E8Tfd1G6xbi8qe9qcKO8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_0dbMeyPfgQhOd6nJVsfXR4v7x95ISZgN-RcK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOSUufN2mqkgXbRadFUDgJM1cnGYAfDe--WmrjD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODpFTuw0b0MxhGEypx4Ku3ilC2vUmCZE6W-AuA=s1600-w562-h702",
-          "https://lh3.googleusercontent.com/p/AF1QipOHbzmG0HDDBiZVMRzNSLYlskTaqLwlNb-fsuZl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOrdadm8qiwBUGUAjnojXRDO3bnTqgXKcj-NzO8=s1600-w576-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsZPLtzkZmrg-l0UIeoeogSF1m6VlnUUBGW0Ci=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMd4QxRqzxJcX7xLsw_azPQ4I44rbS01uev8B1A=s1600-w720-h458"
-        ]
+      "name": "Vihara Buddha Gaya",
+      "location": {
+        "lat": -6.917727499999999,
+        "lng": 107.5923183
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Kelenteng No.10/23A, Ciroyom, Kec. Andir, Kota Bandung, Jawa Barat 40182, Indonesia",
+      "phone": "+62 22 6015847",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMc3rTRaMcfzAuRVuqeiSafJMGeu3kBKfCL4n06=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9EriktvZWyWHR7-5V0RMTTyRtA8ycsZPdN86C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONhlnBorab8Hg9--P4E8Tfd1G6xbi8qe9qcKO8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_0dbMeyPfgQhOd6nJVsfXR4v7x95ISZgN-RcK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOSUufN2mqkgXbRadFUDgJM1cnGYAfDe--WmrjD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODpFTuw0b0MxhGEypx4Ku3ilC2vUmCZE6W-AuA=s1600-w562-h702",
+        "https://lh3.googleusercontent.com/p/AF1QipOHbzmG0HDDBiZVMRzNSLYlskTaqLwlNb-fsuZl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOrdadm8qiwBUGUAjnojXRDO3bnTqgXKcj-NzO8=s1600-w576-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsZPLtzkZmrg-l0UIeoeogSF1m6VlnUUBGW0Ci=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMd4QxRqzxJcX7xLsw_azPQ4I44rbS01uev8B1A=s1600-w720-h458"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJF59gWhfmaC4R2krpEd7-qG0",
+      "google_maps_url": "https://maps.google.com/?cid=7901845775958231770",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Pasundan, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.926125,
-            "lng": 107.6086633
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.924773969708498,
-              "lng": 107.6100470302915
-            },
-            "southwest": {
-              "lat": -6.927471930291503,
-              "lng": 107.6073490697085
-            }
-          }
-        },
-        "international_phone_number": "+62 22 4234597",
-        "name": "Vihara Karuna Mukti",
-        "place_id": "ChIJ17_s1CfmaC4R4SjD5c2q-ZY",
-        "url": "https://maps.google.com/?cid=10878914176189933793",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOkjKZ__5aHaLJq7f3h3rOZ05Mn0HWI90SO-M6Y=s1600-w720-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipOwgem6TO0NbBVbcG92QNNeSkQqAK8chHmvnnS1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN952_8omcUyVAjb6nKrZAnSRwj-RSbJ2wlEivH=s1600-w592-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6V3ANUDb0yqWOekwIFWfTVA72VACJqqyMubcn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5mtVnQlhXKU2_aAvKrvs6rYlp15k_pbJihSsa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMFnIq0rLD7edpgjoJSAINwC4adgoyjskaKn4nd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgnMLyAqjZNdc_eh2anI_5MqtYOAwjJ19-kDef=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBne5IIGq88g0SGvAgXW3BpE101yk_EgKCE4RG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtHG4Cr6styV-XJTiATLiPMxMnowJBG0_NJvZ6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBqc5woTUJnqe_DR8dxumZlD9lJFTBd5H0ky4I=s1600-w800-h800"
-        ]
+      "name": "Vihara Karuna Mukti",
+      "location": {
+        "lat": -6.926125,
+        "lng": 107.6086633
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Pasundan, Balonggede, Kec. Regol, Kota Bandung, Jawa Barat 40251, Indonesia",
+      "phone": "+62 22 4234597",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOkjKZ__5aHaLJq7f3h3rOZ05Mn0HWI90SO-M6Y=s1600-w720-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipOwgem6TO0NbBVbcG92QNNeSkQqAK8chHmvnnS1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN952_8omcUyVAjb6nKrZAnSRwj-RSbJ2wlEivH=s1600-w592-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6V3ANUDb0yqWOekwIFWfTVA72VACJqqyMubcn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5mtVnQlhXKU2_aAvKrvs6rYlp15k_pbJihSsa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMFnIq0rLD7edpgjoJSAINwC4adgoyjskaKn4nd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgnMLyAqjZNdc_eh2anI_5MqtYOAwjJ19-kDef=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBne5IIGq88g0SGvAgXW3BpE101yk_EgKCE4RG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtHG4Cr6styV-XJTiATLiPMxMnowJBG0_NJvZ6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBqc5woTUJnqe_DR8dxumZlD9lJFTBd5H0ky4I=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ17_s1CfmaC4R4SjD5c2q-ZY",
+      "google_maps_url": "https://maps.google.com/?cid=10878914176189933793",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Komplek TOHO blok N1-N3, RT.1/RW.3, Kamal Muara, Kec. Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14470, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.131474500000001,
-            "lng": 106.7511778
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.130132219708498,
-              "lng": 106.7525240302915
-            },
-            "southwest": {
-              "lat": -6.132830180291503,
-              "lng": 106.7498260697085
-            }
-          }
-        },
-        "international_phone_number": "+62 812-8786-6663",
-        "name": "Vihara BUDDHA DHARMA CITAVIRIYO",
-        "place_id": "ChIJbX7q52Ydai4RLmGnCasjYHA",
-        "url": "https://maps.google.com/?cid=8097511347520495918",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNjXs1LjrB9xBPB4VHQV2pItTlbTY3Axc2gl6I=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMmVm1vpzLe2O9FuLsZ4EChRYxfNiIekQx7RJA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPijTh1voj4wN7vuFLdo8oN7Hss6EMbndv8dY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2W7k0atwDoM4I1BncvmLaJoBhqpV-KoYoWeY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMp_DdMuLKOPUa6cgWf-t_s0rGMyeyPbsSLWHg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMweu8Okw5JHlYlveNN-BPZiHJSBIVBTgeH6ZaJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNK0EEoObyiiQubJnrdomRP4110cJtIKdEadURq=s1600-w576-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNpj6YgxnRk4KxzPG7vL4PDdYQCCt2i5xOJ5W78=s1600-w576-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUiv4ZKgZ-nJMlws9mpGncSnKZD534Jwyz7-LX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMpg1lXl6PTyJKDMhB7C6qr7mT4wvHPnMgSmr1=s1600-w607-h800"
-        ]
+      "name": "Vihara BUDDHA DHARMA CITAVIRIYO",
+      "location": {
+        "lat": -6.131474500000001,
+        "lng": 106.7511778
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Komplek TOHO blok N1-N3, RT.1/RW.3, Kamal Muara, Kec. Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14470, Indonesia",
+      "phone": "+62 812-8786-6663",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNjXs1LjrB9xBPB4VHQV2pItTlbTY3Axc2gl6I=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMmVm1vpzLe2O9FuLsZ4EChRYxfNiIekQx7RJA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPijTh1voj4wN7vuFLdo8oN7Hss6EMbndv8dY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2W7k0atwDoM4I1BncvmLaJoBhqpV-KoYoWeY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMp_DdMuLKOPUa6cgWf-t_s0rGMyeyPbsSLWHg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMweu8Okw5JHlYlveNN-BPZiHJSBIVBTgeH6ZaJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNK0EEoObyiiQubJnrdomRP4110cJtIKdEadURq=s1600-w576-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNpj6YgxnRk4KxzPG7vL4PDdYQCCt2i5xOJ5W78=s1600-w576-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUiv4ZKgZ-nJMlws9mpGncSnKZD534Jwyz7-LX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMpg1lXl6PTyJKDMhB7C6qr7mT4wvHPnMgSmr1=s1600-w607-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJbX7q52Ydai4RLmGnCasjYHA",
+      "google_maps_url": "https://maps.google.com/?cid=8097511347520495918",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Ruko Marina Coast The Forest C2/A No. 5C, Ancol, Pademangan, North Jakarta City, Jakarta, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.1191546,
-            "lng": 106.8267811
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.117805219708497,
-              "lng": 106.8281323802915
-            },
-            "southwest": {
-              "lat": -6.120503180291502,
-              "lng": 106.8254344197085
-            }
-          }
-        },
-        "name": "Prajna Chan Monastery",
-        "place_id": "ChIJydszMJofai4RvPpuKvT-U-k",
-        "url": "https://maps.google.com/?cid=16813062158541585084",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNjDak1503AmTcHtM92qGB8z6Hj49nJu01IOc4o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXkh25Ntqi5_vk9TODeDMvwF2wakKNapLrtDGa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsF7VAw9Dyd6-QB4VWiXslaAGtZL56sGHliNEj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOC8GGkqi7T1yd1RM-g26v_NdCIb5qpDVLWyNt4=s1600-w800-h800"
-        ]
+      "name": "Prajna Chan Monastery",
+      "location": {
+        "lat": -6.1191546,
+        "lng": 106.8267811
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Ruko Marina Coast The Forest C2/A No. 5C, Ancol, Pademangan, North Jakarta City, Jakarta, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNjDak1503AmTcHtM92qGB8z6Hj49nJu01IOc4o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXkh25Ntqi5_vk9TODeDMvwF2wakKNapLrtDGa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsF7VAw9Dyd6-QB4VWiXslaAGtZL56sGHliNEj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOC8GGkqi7T1yd1RM-g26v_NdCIb5qpDVLWyNt4=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJydszMJofai4RvPpuKvT-U-k",
+      "google_maps_url": "https://maps.google.com/?cid=16813062158541585084",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Taman holis indah H6 no 18-19, Cigondewah Kidul, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40214, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.9427525,
-            "lng": 107.5580581
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.941382419708497,
-              "lng": 107.5594361302915
-            },
-            "southwest": {
-              "lat": -6.944080380291502,
-              "lng": 107.5567381697085
-            }
-          }
-        },
-        "international_phone_number": "+62 22 6003554",
-        "name": "Vihara Vimalakirti",
-        "place_id": "ChIJZXXC9ETvaC4RKT5Ehkoh2BA",
-        "url": "https://maps.google.com/?cid=1213756703540264489",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOVtLOK59I2Bmuv-6T5QhJ-S5yvJanmAAaCukjG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_FvndY-oCeMGEMZv-nktJMPPINLWoOiEhaz9q=s1600-w800-h712",
-          "https://lh3.googleusercontent.com/p/AF1QipOf_zpVm92mLQvKQONYAcmYMiJ9XWuEhV0XBeWe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNk3MEloNw5xjHeHnmEt-1YojwmjekUIaurRvdZ=s1600-w780-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrxyg25nV4LkIM0m_2puKCo57JQKqYNRrZjOmX=s1600-w800-h607",
-          "https://lh3.googleusercontent.com/p/AF1QipPTvEVeTEcJZgkIXZboTe0iXHXv81HKIuSwPJMe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3KpFtNG1ia87dxR2x09RbZ8bMVGVazpq6SZug=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZFYN-K0dqOLhDgYT-8U_Va0Jd4UGLpMtWjHFp=s1600-w800-h581",
-          "https://lh3.googleusercontent.com/p/AF1QipP3YgTnChd53onrO3nMswPLLhIPPwpTkPLcGmVt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsh8JAc0iiRJQR3_uGWi6zSAG5jIgi56thv19x=s1600-w800-h800"
-        ]
+      "name": "Vihara Vimalakirti",
+      "location": {
+        "lat": -6.9427525,
+        "lng": 107.5580581
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Taman holis indah H6 no 18-19, Cigondewah Kidul, Kec. Bandung Kulon, Kota Bandung, Jawa Barat 40214, Indonesia",
+      "phone": "+62 22 6003554",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOVtLOK59I2Bmuv-6T5QhJ-S5yvJanmAAaCukjG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_FvndY-oCeMGEMZv-nktJMPPINLWoOiEhaz9q=s1600-w800-h712",
+        "https://lh3.googleusercontent.com/p/AF1QipOf_zpVm92mLQvKQONYAcmYMiJ9XWuEhV0XBeWe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNk3MEloNw5xjHeHnmEt-1YojwmjekUIaurRvdZ=s1600-w780-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrxyg25nV4LkIM0m_2puKCo57JQKqYNRrZjOmX=s1600-w800-h607",
+        "https://lh3.googleusercontent.com/p/AF1QipPTvEVeTEcJZgkIXZboTe0iXHXv81HKIuSwPJMe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3KpFtNG1ia87dxR2x09RbZ8bMVGVazpq6SZug=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZFYN-K0dqOLhDgYT-8U_Va0Jd4UGLpMtWjHFp=s1600-w800-h581",
+        "https://lh3.googleusercontent.com/p/AF1QipP3YgTnChd53onrO3nMswPLLhIPPwpTkPLcGmVt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsh8JAc0iiRJQR3_uGWi6zSAG5jIgi56thv19x=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZXXC9ETvaC4RKT5Ehkoh2BA",
+      "google_maps_url": "https://maps.google.com/?cid=1213756703540264489",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Ir. H. Juanda No.5, Tamansari, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40116, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.906158100000001,
-            "lng": 107.6103652
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.904811619708497,
-              "lng": 107.6118184302915
-            },
-            "southwest": {
-              "lat": -6.907509580291502,
-              "lng": 107.6091204697085
-            }
-          }
-        },
-        "international_phone_number": "+62 22 4238696",
-        "name": "Vihara Vimala Dharma",
-        "place_id": "ChIJu2tsdEjmaC4R7IWb5s6e5C0",
-        "url": "https://maps.google.com/?cid=3306942637866190316",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNHxI7LaEIkuvXkBkT0S2C6HcfY2_kQIAy1GdCU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9SI6yw_Cffm5ThfygaL992vd0f__hbxcum4ZL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgzVM2Jqyms3sXYoXAwpNNh236pQMFxDeWq3hm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNq6eNGiEu3A7kJdj_agM2cAqzg0L1oWzRx7E2u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7QA038SGj10ul0HqH8Mxkx8EQQSdjPUncjoHa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO91kYwhAQSARjZZ0EcKRd9AhDqt1nKAxK4RCCU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkOe3MAeIypOUFdl96KLB_j-L2vcfr06_jrWVx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNxPjC7oiBa74-VZWybqYbrU3yii7FRAeUOWbpA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNyINxIF-PexPDun646f8Qr_jHW9_Il4aM6fsmI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN24xeqQVGPHT3FnSvqrt9GCVn4UZ4DhPSfGHZE=s1600-w800-h800"
-        ]
+      "name": "Vihara Vimala Dharma",
+      "location": {
+        "lat": -6.906158100000001,
+        "lng": 107.6103652
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Ir. H. Juanda No.5, Tamansari, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40116, Indonesia",
+      "phone": "+62 22 4238696",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNHxI7LaEIkuvXkBkT0S2C6HcfY2_kQIAy1GdCU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9SI6yw_Cffm5ThfygaL992vd0f__hbxcum4ZL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgzVM2Jqyms3sXYoXAwpNNh236pQMFxDeWq3hm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNq6eNGiEu3A7kJdj_agM2cAqzg0L1oWzRx7E2u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7QA038SGj10ul0HqH8Mxkx8EQQSdjPUncjoHa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO91kYwhAQSARjZZ0EcKRd9AhDqt1nKAxK4RCCU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkOe3MAeIypOUFdl96KLB_j-L2vcfr06_jrWVx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNxPjC7oiBa74-VZWybqYbrU3yii7FRAeUOWbpA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNyINxIF-PexPDun646f8Qr_jHW9_Il4aM6fsmI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN24xeqQVGPHT3FnSvqrt9GCVn4UZ4DhPSfGHZE=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJu2tsdEjmaC4R7IWb5s6e5C0",
+      "google_maps_url": "https://maps.google.com/?cid=3306942637866190316",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Kebon Sirih No.21, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.9116412,
-            "lng": 107.6059579
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.910295269708498,
-              "lng": 107.6074184802915
-            },
-            "southwest": {
-              "lat": -6.912993230291502,
-              "lng": 107.6047205197085
-            }
-          }
-        },
-        "name": "Vihara Maitreya Datu",
-        "place_id": "ChIJU6BgU3fnaC4Roepup1ZGaIY",
-        "url": "https://maps.google.com/?cid=9685068336650447521",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOeRj3xAguJEmT8FR-Srn31Mhk_mIUBaQ2cnqCl=s1600-w800-h800"
-        ]
+      "name": "Vihara Maitreya Datu",
+      "location": {
+        "lat": -6.9116412,
+        "lng": 107.6059579
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Kebon Sirih No.21, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOeRj3xAguJEmT8FR-Srn31Mhk_mIUBaQ2cnqCl=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJU6BgU3fnaC4Roepup1ZGaIY",
+      "google_maps_url": "https://maps.google.com/?cid=9685068336650447521",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Cibadak No.281, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.9208737,
-            "lng": 107.5928038
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.919427519708497,
-              "lng": 107.5941313802915
-            },
-            "southwest": {
-              "lat": -6.922125480291501,
-              "lng": 107.5914334197085
-            }
-          }
-        },
-        "name": "Vihara Buddhi",
-        "place_id": "ChIJ_TlEmxnmaC4RrPZKhSgl4Bc",
-        "url": "https://maps.google.com/?cid=1720415913620731564",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMjwF-5H-Y3PV3gWjr8TJki3lb3uxgSg1Y2pGFt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOxNG8rZ03TG3_OymljCNSutU_ThfF2D63sfg7g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMIsg9ZF1XB6FcNvvJQk5uZx1ErpY9uAeBbVIdG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1h9mDbB4nFoSf0HjxQXYFVTaoMCufYaf7U367=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMotg6p5VCmwft6Lx2rLwlAKFuDrb8moPQQzx6g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfbdBfnBV5ikBcEnY_rY6udATL0_qhfNdOqcBB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMO6DLXnbYch1Ugd2VuDxh8meWvmfG9i-exKFTo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORxuVli2WytP7yFZ70gWo9tNe3u9ShKnPIPyqy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNVmZVJIpR1JFi9tSoX5E3rywZsMvws4VkhqTYY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZpY6SJM1XjbCMXuO8cTldOZpQuA46r94DkeEk=s1600-w720-h800"
-        ]
+      "name": "Vihara Buddhi",
+      "location": {
+        "lat": -6.9208737,
+        "lng": 107.5928038
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Cibadak No.281, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMjwF-5H-Y3PV3gWjr8TJki3lb3uxgSg1Y2pGFt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOxNG8rZ03TG3_OymljCNSutU_ThfF2D63sfg7g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMIsg9ZF1XB6FcNvvJQk5uZx1ErpY9uAeBbVIdG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1h9mDbB4nFoSf0HjxQXYFVTaoMCufYaf7U367=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMotg6p5VCmwft6Lx2rLwlAKFuDrb8moPQQzx6g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfbdBfnBV5ikBcEnY_rY6udATL0_qhfNdOqcBB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMO6DLXnbYch1Ugd2VuDxh8meWvmfG9i-exKFTo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORxuVli2WytP7yFZ70gWo9tNe3u9ShKnPIPyqy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNVmZVJIpR1JFi9tSoX5E3rywZsMvws4VkhqTYY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZpY6SJM1XjbCMXuO8cTldOZpQuA46r94DkeEk=s1600-w720-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_TlEmxnmaC4RrPZKhSgl4Bc",
+      "google_maps_url": "https://maps.google.com/?cid=1720415913620731564",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Cibadak, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.9212416,
-            "lng": 107.5956052
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.919818119708498,
-              "lng": 107.5969600802915
-            },
-            "southwest": {
-              "lat": -6.922516080291502,
-              "lng": 107.5942621197085
-            }
-          }
-        },
-        "name": "Vihara Iswari",
-        "place_id": "ChIJfVPa-RjmaC4RUY8fYaPEbxw",
-        "url": "https://maps.google.com/?cid=2049072561465036625",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNM9_apXanQzKciALSqQhXx1eOihOdHflEMGobg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMviO_9L1uyE6xJRY86W8mLbiqHcyoTtMAz7Ddt=s1600-w800-h432"
-        ]
+      "name": "Vihara Iswari",
+      "location": {
+        "lat": -6.9212416,
+        "lng": 107.5956052
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Cibadak, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNM9_apXanQzKciALSqQhXx1eOihOdHflEMGobg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMviO_9L1uyE6xJRY86W8mLbiqHcyoTtMAz7Ddt=s1600-w800-h432"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJfVPa-RjmaC4RUY8fYaPEbxw",
+      "google_maps_url": "https://maps.google.com/?cid=2049072561465036625",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Bojongloa No.70, Panjunan, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40242, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.930453200000001,
-            "lng": 107.5994862
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.929103719708498,
-              "lng": 107.6008743802915
-            },
-            "southwest": {
-              "lat": -6.931801680291502,
-              "lng": 107.5981764197085
-            }
-          }
-        },
-        "international_phone_number": "+62 22 5221401",
-        "name": "Vihara Giritoba/ Sioe Sian Tong (Yayasan Giritoba)",
-        "place_id": "ChIJE0jiDCDmaC4RFN_H8Cq_KZc",
-        "url": "https://maps.google.com/?cid=10892447364921417492",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNc3IQ0qAUd19PLtE3hiQT-mEvb5JPaUyR4gRaT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPnrq6hIqLXBjMjfdodBDsx-4d6I_RYzVPpM0W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_nwEhw4NNgCBgNRikKyJQPqJLSShwhyH1QJ2S=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVhPLF8w-L1tLDRizWbPsGg6iIybOjMTWHAOj3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_Lo62TYj-CtlaIOQ-cqd1hUR-8WBs7Q9_wx94=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8uLaYQmfcJSLQzusxAcfCb9KG9zxCTG4ZGvI-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGmJ54WT-YKyk1_YpbxaeURc-viVop2muGsCPg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-WhJD-D6p9U_JbU0uUlc_HbaeBWHt2EYc8dVm=s1600-w800-h800"
-        ]
+      "name": "Vihara Giritoba/ Sioe Sian Tong (Yayasan Giritoba)",
+      "location": {
+        "lat": -6.930453200000001,
+        "lng": 107.5994862
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Bojongloa No.70, Panjunan, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40242, Indonesia",
+      "phone": "+62 22 5221401",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNc3IQ0qAUd19PLtE3hiQT-mEvb5JPaUyR4gRaT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPnrq6hIqLXBjMjfdodBDsx-4d6I_RYzVPpM0W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_nwEhw4NNgCBgNRikKyJQPqJLSShwhyH1QJ2S=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVhPLF8w-L1tLDRizWbPsGg6iIybOjMTWHAOj3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_Lo62TYj-CtlaIOQ-cqd1hUR-8WBs7Q9_wx94=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8uLaYQmfcJSLQzusxAcfCb9KG9zxCTG4ZGvI-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGmJ54WT-YKyk1_YpbxaeURc-viVop2muGsCPg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-WhJD-D6p9U_JbU0uUlc_HbaeBWHt2EYc8dVm=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJE0jiDCDmaC4RFN_H8Cq_KZc",
+      "google_maps_url": "https://maps.google.com/?cid=10892447364921417492",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "23A, Jl. Kelenteng No.10, Ciroyom, Kec. Andir, Kota Bandung, Jawa Barat 40182, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.9178889,
-            "lng": 107.5927448
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.916445469708498,
-              "lng": 107.5942588302915
-            },
-            "southwest": {
-              "lat": -6.919143430291503,
-              "lng": 107.5915608697085
-            }
-          }
-        },
-        "international_phone_number": "+62 22 6015847",
-        "name": "Satya Budhi Temple",
-        "place_id": "ChIJ_____3bmaC4RoPzZUq5D9Z8",
-        "url": "https://maps.google.com/?cid=11526193237318040736",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN75yrRwigzkPORrImdcL8V6fZkFaii769h0Y9v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMCvOPahI9OG-b5oiDOjicEQ07ym8_oXWMRjEgi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN2DMxx2wJH93HU62W7_2nd0KzgfHe3GYTMoSEM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIClR1v2QYrwvXTfIjffViBejTvogV5BiX8szK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFkbdeokvAbE-Ie09PjIND63C22243fAGYH4uY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNfYU9qyGFI3rrsP6lKUz0XMDz-VnkpbZ1zJhRI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHKY8WY39SjRmTbhePIGyiVCLtKVLTBtf0zjzJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJXwGlDrbuyeRdGl33EIu2Qk-gOw4oHMDreAF1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM13S6jr6cAniounHBvvhxOmstNhwFi1gjWmIJq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNoIOCJQ1t8AOCXGEmuUT88NowNTeGsGBgu6hR=s1600-w800-h800"
-        ]
+      "name": "Satya Budhi Temple",
+      "location": {
+        "lat": -6.9178889,
+        "lng": 107.5927448
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "23A, Jl. Kelenteng No.10, Ciroyom, Kec. Andir, Kota Bandung, Jawa Barat 40182, Indonesia",
+      "phone": "+62 22 6015847",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN75yrRwigzkPORrImdcL8V6fZkFaii769h0Y9v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMCvOPahI9OG-b5oiDOjicEQ07ym8_oXWMRjEgi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN2DMxx2wJH93HU62W7_2nd0KzgfHe3GYTMoSEM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIClR1v2QYrwvXTfIjffViBejTvogV5BiX8szK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFkbdeokvAbE-Ie09PjIND63C22243fAGYH4uY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNfYU9qyGFI3rrsP6lKUz0XMDz-VnkpbZ1zJhRI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHKY8WY39SjRmTbhePIGyiVCLtKVLTBtf0zjzJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJXwGlDrbuyeRdGl33EIu2Qk-gOw4oHMDreAF1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM13S6jr6cAniounHBvvhxOmstNhwFi1gjWmIJq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNoIOCJQ1t8AOCXGEmuUT88NowNTeGsGBgu6hR=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_____3bmaC4RoPzZUq5D9Z8",
+      "google_maps_url": "https://maps.google.com/?cid=11526193237318040736",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jl. Cibadak No.281, Karanganyar, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.9208753,
-            "lng": 107.5928036
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.919462519708497,
-              "lng": 107.5941678302915
-            },
-            "southwest": {
-              "lat": -6.922160480291502,
-              "lng": 107.5914698697085
-            }
-          }
-        },
-        "name": "Vihara Budhi",
-        "place_id": "ChIJ_-iSYyLmaC4RMxw6_j-ewmY",
-        "url": "https://maps.google.com/?cid=7404654735035866163",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNN0dzOqR42UH-JJ2dJTZIkGBxEVTMba0rXJ8wI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPqF8JNqWKDytcf4H2-aUDopPQMCGgpGiW3yB34=s1600-w800-h800"
-        ]
+      "name": "Vihara Budhi",
+      "location": {
+        "lat": -6.9208753,
+        "lng": 107.5928036
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jl. Cibadak No.281, Karanganyar, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNN0dzOqR42UH-JJ2dJTZIkGBxEVTMba0rXJ8wI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPqF8JNqWKDytcf4H2-aUDopPQMCGgpGiW3yB34=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_-iSYyLmaC4RMxw6_j-ewmY",
+      "google_maps_url": "https://maps.google.com/?cid=7404654735035866163",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Gg. Ibu Aisah No.18/9A, Jamika, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40241, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.921124199999999,
-            "lng": 107.5924031
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.919769669708498,
-              "lng": 107.5937385802915
-            },
-            "southwest": {
-              "lat": -6.922467630291503,
-              "lng": 107.5910406197085
-            }
-          }
-        },
-        "name": "Vihara Dharma Ramsi - Lingguansi Bandung",
-        "place_id": "ChIJ1T0YhRPnaC4RXcpLYMSL20A",
-        "url": "https://maps.google.com/?cid=4673482713872452189",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPRP-BWKoNjSNg-p0Sg5MocirVXJMyC8ODo2vwO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSGJ06suG6VgP1eetuJe-yKiskMizox9nB88Pt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2dRfXdXLfkGqLSMW41FD2R-GHNzN78cRMhtBf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2jqZp3XR8Hfq7VsUubhKWnEiW-jPzdZC_LnMV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9ZFWWCwb7YohcFfii2yK_cpnm4mFzpydmOFfz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAaDffj5Xjm_o8GVpMA4O0VkM-osjLm01wHS0V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUYJve0tia_swdlvokd5-tYm63Q0AGxoQdIUQi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2b_t5CrNSGK45nUEUiEW-ytPuYx4abP1vW0Mf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgB2e9FyQXTAZkaS_HDY5xQBLKXTSCo5klLTwK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQ6NOjGlxMbOYpCTrdopty3OG7FET13_Jqjrnk=s1600-w800-h800"
-        ]
+      "name": "Vihara Dharma Ramsi - Lingguansi Bandung",
+      "location": {
+        "lat": -6.921124199999999,
+        "lng": 107.5924031
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Gg. Ibu Aisah No.18/9A, Jamika, Kec. Bojongloa Kaler, Kota Bandung, Jawa Barat 40241, Indonesia",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPRP-BWKoNjSNg-p0Sg5MocirVXJMyC8ODo2vwO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSGJ06suG6VgP1eetuJe-yKiskMizox9nB88Pt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2dRfXdXLfkGqLSMW41FD2R-GHNzN78cRMhtBf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2jqZp3XR8Hfq7VsUubhKWnEiW-jPzdZC_LnMV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9ZFWWCwb7YohcFfii2yK_cpnm4mFzpydmOFfz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAaDffj5Xjm_o8GVpMA4O0VkM-osjLm01wHS0V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUYJve0tia_swdlvokd5-tYm63Q0AGxoQdIUQi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2b_t5CrNSGK45nUEUiEW-ytPuYx4abP1vW0Mf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgB2e9FyQXTAZkaS_HDY5xQBLKXTSCo5klLTwK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQ6NOjGlxMbOYpCTrdopty3OG7FET13_Jqjrnk=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1T0YhRPnaC4RXcpLYMSL20A",
+      "google_maps_url": "https://maps.google.com/?cid=4673482713872452189",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "87 Geylang East Ave 2, Singapore 389753",
-        "geometry": {
-          "location": {
-            "lat": 1.3179102,
-            "lng": 103.8883998
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 1.319203030291502,
-              "lng": 103.8899679802915
-            },
-            "southwest": {
-              "lat": 1.316505069708498,
-              "lng": 103.8872700197085
-            }
-          }
-        },
-        "international_phone_number": "+65 6748 6676",
-        "name": "Foo Hai Ch'an Monastery",
-        "place_id": "ChIJAYGP5yIY2jERCu0mhtVxZxk",
-        "url": "https://maps.google.com/?cid=1830556935442066698",
-        "website": "http://www.foohai.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPP8SPmGQuEzqznEVQ3OeGX5oiL-cWY-Y-_oqqT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNphFVL2tU984QRb6XXpTu67GtXbHrQD5U12_3J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqvC3nb66-u9-Ds09Y0AfegcUaLvlO1Xj5JnV8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkD67djCYhEV4pDMwK5nQZb4TH7WJNrRL5JId9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHzNxqLb-E4HFaiAMX57JpWtkz-SgKg4Ikari9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMocmSnd4vF7S3YxJU03phF7VDgjX5y_k-hMvP9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjH55PIoQBffei99FWvlA8_BNfm8DEAxZMn1C2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2WVvzdUvphZmZcuGxfqhyP4arQ89QV3vIRip6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZsWVnfMFhFY5ui3mQRAMSGuOd2nCJO_d1DBMm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNP5cqtU1BAHJ3GjkyeGKjW7RFs8fJ6kboCJuNf=s1600-w800-h800"
-        ]
+      "name": "Foo Hai Ch'an Monastery",
+      "location": {
+        "lat": 1.3179102,
+        "lng": 103.8883998
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "87 Geylang East Ave 2, Singapore 389753",
+      "phone": "+65 6748 6676",
+      "website": "http://www.foohai.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPP8SPmGQuEzqznEVQ3OeGX5oiL-cWY-Y-_oqqT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNphFVL2tU984QRb6XXpTu67GtXbHrQD5U12_3J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqvC3nb66-u9-Ds09Y0AfegcUaLvlO1Xj5JnV8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkD67djCYhEV4pDMwK5nQZb4TH7WJNrRL5JId9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHzNxqLb-E4HFaiAMX57JpWtkz-SgKg4Ikari9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMocmSnd4vF7S3YxJU03phF7VDgjX5y_k-hMvP9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjH55PIoQBffei99FWvlA8_BNfm8DEAxZMn1C2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2WVvzdUvphZmZcuGxfqhyP4arQ89QV3vIRip6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZsWVnfMFhFY5ui3mQRAMSGuOd2nCJO_d1DBMm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNP5cqtU1BAHJ3GjkyeGKjW7RFs8fJ6kboCJuNf=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJAYGP5yIY2jERCu0mhtVxZxk",
+      "google_maps_url": "https://maps.google.com/?cid=1830556935442066698",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jalan Terusan Lembang Blok D No. 59 RT. 11 / RW. 7, Menteng, RT.11/RW.7, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.203826599999999,
-            "lng": 106.8364067
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.2024681197085,
-              "lng": 106.8377536302915
-            },
-            "southwest": {
-              "lat": -6.205166080291504,
-              "lng": 106.8350556697085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 31931961",
-        "name": "Buddha Metta Arama Temple",
-        "place_id": "ChIJWZ4s0BP0aS4RjppbGsNUhSw",
-        "url": "https://maps.google.com/?cid=3208063506508913294",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPFkEEgtGsclA1jCPAQOUhyMrDknZZ5BgvzlkLg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOgY8bveqUjNNDFOIRQ-KJNcthsHQ2NxQljTwa_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhAxmDkafMHn-BI9fbSl3GCfcrG_qgvEO3L9yz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdQxljkTloxC9hthXwPijenpeFa1QheZq9pzcP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPF3h6atLlnYkoZref52XaQbZaAuqjQsizevxmm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMX6g3LSU0r5aN4D8gMynqE8kwk6DTnuyykMsyE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOT5cjqbFo6pS853c8euIt3fFeRF1_1ZcAtNUdP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXsJ7_YLa9O6nUhRwwMsG5H_FqTrBzFFA4wc0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGfPDyGReMlwu5vSaapKVwUdA6QEpX-LK5D_RL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-6WvoIyPvPQmN6Xb0ybmKA8fN92_RIWvgV-59=s1600-w800-h800"
-        ]
+      "name": "Buddha Metta Arama Temple",
+      "location": {
+        "lat": -6.203826599999999,
+        "lng": 106.8364067
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jalan Terusan Lembang Blok D No. 59 RT. 11 / RW. 7, Menteng, RT.11/RW.7, Menteng, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
+      "phone": "+62 21 31931961",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPFkEEgtGsclA1jCPAQOUhyMrDknZZ5BgvzlkLg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOgY8bveqUjNNDFOIRQ-KJNcthsHQ2NxQljTwa_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhAxmDkafMHn-BI9fbSl3GCfcrG_qgvEO3L9yz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdQxljkTloxC9hthXwPijenpeFa1QheZq9pzcP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPF3h6atLlnYkoZref52XaQbZaAuqjQsizevxmm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMX6g3LSU0r5aN4D8gMynqE8kwk6DTnuyykMsyE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOT5cjqbFo6pS853c8euIt3fFeRF1_1ZcAtNUdP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXsJ7_YLa9O6nUhRwwMsG5H_FqTrBzFFA4wc0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGfPDyGReMlwu5vSaapKVwUdA6QEpX-LK5D_RL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-6WvoIyPvPQmN6Xb0ybmKA8fN92_RIWvgV-59=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJWZ4s0BP0aS4RjppbGsNUhSw",
+      "google_maps_url": "https://maps.google.com/?cid=3208063506508913294",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "No12-B, Jl. Walet Elok 7, RT.13/RW.6, Kapuk Muara, Penjaringan, North Jakarta City, Jakarta 14460, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.127912200000001,
-            "lng": 106.7648963
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.126531119708498,
-              "lng": 106.7662422302915
-            },
-            "southwest": {
-              "lat": -6.129229080291503,
-              "lng": 106.7635442697085
-            }
-          }
-        },
-        "international_phone_number": "+62 811-633-152",
-        "name": "Vihara Arya Bodhi",
-        "place_id": "ChIJE9zT4n0dai4RdRzeHNBvPUA",
-        "url": "https://maps.google.com/?cid=4628978931634936949",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM--pIPIK87UAoooaf3wJLPuhcAXkLIIT2sN1Lz=s1600-w700-h340",
-          "https://lh3.googleusercontent.com/p/AF1QipOt9LuaCWCLnUrBO7_eKX0jSKFV0SZg6nJw2ebD=s1600-w534-h663"
-        ]
+      "name": "Vihara Arya Bodhi",
+      "location": {
+        "lat": -6.127912200000001,
+        "lng": 106.7648963
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "No12-B, Jl. Walet Elok 7, RT.13/RW.6, Kapuk Muara, Penjaringan, North Jakarta City, Jakarta 14460, Indonesia",
+      "phone": "+62 811-633-152",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM--pIPIK87UAoooaf3wJLPuhcAXkLIIT2sN1Lz=s1600-w700-h340",
+        "https://lh3.googleusercontent.com/p/AF1QipOt9LuaCWCLnUrBO7_eKX0jSKFV0SZg6nJw2ebD=s1600-w534-h663"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJE9zT4n0dai4RdRzeHNBvPUA",
+      "google_maps_url": "https://maps.google.com/?cid=4628978931634936949",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tonjong, Tajur Halang, Bogor, West Java 16320, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.479899800000001,
-            "lng": 106.7504778
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.478590669708498,
-              "lng": 106.7518901302915
-            },
-            "southwest": {
-              "lat": -6.481288630291503,
-              "lng": 106.7491921697085
-            }
-          }
-        },
-        "name": "Vihara Sangha Metta Arama",
-        "place_id": "ChIJ23_yj5bCaS4RObzRueqTGuw",
-        "url": "https://maps.google.com/?cid=17013073178694630457",
-        "website": "http://sanghamettaarama.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPXrGKUEsm1pZPJJ1d2TbPr7L6O-UUPstH2gmWa=s1600-w800-h770",
-          "https://lh3.googleusercontent.com/p/AF1QipNkrBHY-VJqQOBWmUW3Wu6o1pJy9m0QYgOQJhES=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtZHRw-ZelaMZszgRERGlOpEEHP0Cnc7BlqB63=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWBNM4srZgdXO65I1Y1M4ZjFRitEy533iuMzG8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJUso2la3dWZCU3uuPZCy9yqySpI5Ggd1qtaFF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSSU_o6Ks-DsDypTLIuaKyaOy8ej7wqUNIwIbT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjKq6M_BL26Ba1BVnVICTsEEkYfZJtCfjC1VEI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfCN0BOxUqArnH1ZVbI3Zpi1BhfzGQHMUOHBTp=s1600-w493-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgs7AjbiXuUuvh71dENnWlDtQN7Z3xuwN46vbE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4Av3QYj0mYfPtWcC3gtAordXs31lGoeLWIPC5=s1600-w800-h800"
-        ]
+      "name": "Vihara Sangha Metta Arama",
+      "location": {
+        "lat": -6.479899800000001,
+        "lng": 106.7504778
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Tonjong, Tajur Halang, Bogor, West Java 16320, Indonesia",
+      "website": "http://sanghamettaarama.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPXrGKUEsm1pZPJJ1d2TbPr7L6O-UUPstH2gmWa=s1600-w800-h770",
+        "https://lh3.googleusercontent.com/p/AF1QipNkrBHY-VJqQOBWmUW3Wu6o1pJy9m0QYgOQJhES=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtZHRw-ZelaMZszgRERGlOpEEHP0Cnc7BlqB63=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWBNM4srZgdXO65I1Y1M4ZjFRitEy533iuMzG8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJUso2la3dWZCU3uuPZCy9yqySpI5Ggd1qtaFF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSSU_o6Ks-DsDypTLIuaKyaOy8ej7wqUNIwIbT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjKq6M_BL26Ba1BVnVICTsEEkYfZJtCfjC1VEI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfCN0BOxUqArnH1ZVbI3Zpi1BhfzGQHMUOHBTp=s1600-w493-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgs7AjbiXuUuvh71dENnWlDtQN7Z3xuwN46vbE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4Av3QYj0mYfPtWcC3gtAordXs31lGoeLWIPC5=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ23_yj5bCaS4RObzRueqTGuw",
+      "google_maps_url": "https://maps.google.com/?cid=17013073178694630457",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Jln. Kelapa Nias X Blok PE2 No. 17, Kelapa Gading Permai, Pegangsaan Dua, RT.8/RW.18, Pegangsaan Dua, Kec. Klp. Gading, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14250, Indonesia",
-        "geometry": {
-          "location": {
-            "lat": -6.150240300000001,
-            "lng": 106.9127934
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -6.148889369708498,
-              "lng": 106.9141002302915
-            },
-            "southwest": {
-              "lat": -6.151587330291503,
-              "lng": 106.9114022697085
-            }
-          }
-        },
-        "international_phone_number": "+62 21 4514805",
-        "name": "Vihara Theravada Buddha Sasana (VTBS)",
-        "place_id": "ChIJy0uq0LSKaS4RfTzPP8K7VZ0",
-        "url": "https://maps.google.com/?cid=11337174079943687293",
-        "website": "https://www.vtbsonline.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNwDHnieyobrSYXe6VyUn49zVUZQLI9yBQJWNKD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMntGiOAvqbewqkhAuGDL5AHRCkSKSgk4Ln0bdi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOsN-IoVGY-dwIboNEl2NxnPWz8qV-pf8_9KrEq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3mfXo87kfs5TU9uXEaxF_Sn7GDZWxCQbIUtcM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5iWXFIdfvsGcDSeMh_1bmji6EW2zVXGCV3-Nb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNihEpjvRsBFZFbUtt_-YvXIyV5ukqr-quBwNpw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPXN2tvTFnRZ8FxKmae1NXuVu-BSr1gFk1EzZj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkhaoKP8Szy4f0gg74m9DovbhI2rKluOxyTdlw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMPw6SAlkkYcXnL4-aseEHxS_rQPVBaVXmuJDix=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_31xfsA3au3Hs084w5lUrIjVb2w3yXf84j4Y=s1600-w800-h800"
-        ]
+      "name": "Vihara Theravada Buddha Sasana (VTBS)",
+      "location": {
+        "lat": -6.150240300000001,
+        "lng": 106.9127934
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T11:59:17.369Z"
-      }
+      "address": "Jln. Kelapa Nias X Blok PE2 No. 17, Kelapa Gading Permai, Pegangsaan Dua, RT.8/RW.18, Pegangsaan Dua, Kec. Klp. Gading, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14250, Indonesia",
+      "phone": "+62 21 4514805",
+      "website": "https://www.vtbsonline.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNwDHnieyobrSYXe6VyUn49zVUZQLI9yBQJWNKD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMntGiOAvqbewqkhAuGDL5AHRCkSKSgk4Ln0bdi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOsN-IoVGY-dwIboNEl2NxnPWz8qV-pf8_9KrEq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3mfXo87kfs5TU9uXEaxF_Sn7GDZWxCQbIUtcM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5iWXFIdfvsGcDSeMh_1bmji6EW2zVXGCV3-Nb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNihEpjvRsBFZFbUtt_-YvXIyV5ukqr-quBwNpw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPXN2tvTFnRZ8FxKmae1NXuVu-BSr1gFk1EzZj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkhaoKP8Szy4f0gg74m9DovbhI2rKluOxyTdlw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMPw6SAlkkYcXnL4-aseEHxS_rQPVBaVXmuJDix=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_31xfsA3au3Hs084w5lUrIjVb2w3yXf84j4Y=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJy0uq0LSKaS4RfTzPP8K7VZ0",
+      "google_maps_url": "https://maps.google.com/?cid=11337174079943687293",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

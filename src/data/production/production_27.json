@@ -1,2153 +1,1698 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "679 Lower Flat Creek Rd, Alexander, NC 28701, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.7295548,
-            "lng": -82.6167625
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.73150613029151,
-              "lng": -82.6159210697085
-            },
-            "southwest": {
-              "lat": 35.72880816970851,
-              "lng": -82.61861903029151
-            }
-          }
-        },
-        "international_phone_number": "+1 828-645-2085",
-        "name": "Great Tree Zen Women's Temple",
-        "place_id": "ChIJg9a9J-MgWogR7vEGYQxPKEM",
-        "url": "https://maps.google.com/?cid=4839204714195644910",
-        "website": "http://www.greattreetemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMZK3eHjxDyII_pPF5pDpiFkytOsp6n5W5MNAy-=s1600-w800-h591",
-          "https://lh3.googleusercontent.com/p/AF1QipO3YsNrxQS8t7D1n2FM06hSknP3tCgCtjigHYN0=s1600-w431-h432",
-          "https://lh3.googleusercontent.com/p/AF1QipNeuJf7x1inxg1JstPlv_qhIxicKQAbQEplSSV-=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipP4em8vBjsj6K4vAnO_UGa_6MBr9mDcpzLowFSd=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipPMStMzgJrmMkE5Hmpnme7-F_DbfbsVpe9dOkmj=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipPkHeJtAqiwaFBShgTYNBe0QVGJogPIrM-pEcTr=s1600-w800-h315"
-        ]
+      "name": "Great Tree Zen Women's Temple",
+      "location": {
+        "lat": 35.7295548,
+        "lng": -82.6167625
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "679 Lower Flat Creek Rd, Alexander, NC 28701, USA",
+      "phone": "+1 828-645-2085",
+      "website": "http://www.greattreetemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMZK3eHjxDyII_pPF5pDpiFkytOsp6n5W5MNAy-=s1600-w800-h591",
+        "https://lh3.googleusercontent.com/p/AF1QipO3YsNrxQS8t7D1n2FM06hSknP3tCgCtjigHYN0=s1600-w431-h432",
+        "https://lh3.googleusercontent.com/p/AF1QipNeuJf7x1inxg1JstPlv_qhIxicKQAbQEplSSV-=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipP4em8vBjsj6K4vAnO_UGa_6MBr9mDcpzLowFSd=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipPMStMzgJrmMkE5Hmpnme7-F_DbfbsVpe9dOkmj=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipPkHeJtAqiwaFBShgTYNBe0QVGJogPIrM-pEcTr=s1600-w800-h315"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJg9a9J-MgWogR7vEGYQxPKEM",
+      "google_maps_url": "https://maps.google.com/?cid=4839204714195644910",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "95 Mount Soma Blvd, Clyde, NC 28721, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.657424,
-            "lng": -82.866338
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.65884043029149,
-              "lng": -82.86487411970849
-            },
-            "southwest": {
-              "lat": 35.6561424697085,
-              "lng": -82.86757208029151
-            }
-          }
-        },
-        "international_phone_number": "+1 828-531-9945",
-        "name": "Sri Somesvara Temple",
-        "place_id": "ChIJuQdoUaqBWYgRWKO8ohia1KI",
-        "url": "https://maps.google.com/?cid=11733172359807148888",
-        "website": "https://srisomesvara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOVSoeI20kK-Lkl3hG7K3Zo-H_gBgVekO8wn3oG=s1600-w800-h608",
-          "https://lh3.googleusercontent.com/p/AF1QipMx6Kbp_0gG7GVbF6D6ZB3Zn4LqBdEkO1JiXs7P=s1600-w778-h518",
-          "https://lh3.googleusercontent.com/p/AF1QipMGl_4A_7AqiBfK-szHIThPopLbv5LPJiuSqJf_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdMJnq9XazMBBO67D3zTLg7GUsbo-26Xqy_UfG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuMqTKOryCWuaF7vrtCv4YMc7-G-tglcGb09VS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMf9unbwGXAe9CtaePtB6DoL3MfwfDWVL9mKCkA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMV5HZO0eod-BY3Ipbb3Vkv6j724w82HX7v7JKR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMz1rQmLmmq-8aWZK3kpy94QY7oYq2WmlZuxjH9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhqGAxKA2Qv94UNANW7izLfw2BL2ToZWcZ7696=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO950r7a9xoy2QAr9hapNnKKXYKDPkrFpAkrvp0=s1600-w800-h800"
-        ]
+      "name": "Sri Somesvara Temple",
+      "location": {
+        "lat": 35.657424,
+        "lng": -82.866338
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "95 Mount Soma Blvd, Clyde, NC 28721, USA",
+      "phone": "+1 828-531-9945",
+      "website": "https://srisomesvara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOVSoeI20kK-Lkl3hG7K3Zo-H_gBgVekO8wn3oG=s1600-w800-h608",
+        "https://lh3.googleusercontent.com/p/AF1QipMx6Kbp_0gG7GVbF6D6ZB3Zn4LqBdEkO1JiXs7P=s1600-w778-h518",
+        "https://lh3.googleusercontent.com/p/AF1QipMGl_4A_7AqiBfK-szHIThPopLbv5LPJiuSqJf_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdMJnq9XazMBBO67D3zTLg7GUsbo-26Xqy_UfG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuMqTKOryCWuaF7vrtCv4YMc7-G-tglcGb09VS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMf9unbwGXAe9CtaePtB6DoL3MfwfDWVL9mKCkA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMV5HZO0eod-BY3Ipbb3Vkv6j724w82HX7v7JKR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMz1rQmLmmq-8aWZK3kpy94QY7oYq2WmlZuxjH9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhqGAxKA2Qv94UNANW7izLfw2BL2ToZWcZ7696=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO950r7a9xoy2QAr9hapNnKKXYKDPkrFpAkrvp0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJuQdoUaqBWYgRWKO8ohia1KI",
+      "google_maps_url": "https://maps.google.com/?cid=11733172359807148888",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5800 S Anderson Rd, Oklahoma City, OK 73150, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.407686,
-            "lng": -97.3166849
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.40918268029149,
-              "lng": -97.31533661970849
-            },
-            "southwest": {
-              "lat": 35.40648471970849,
-              "lng": -97.31803458029151
-            }
-          }
-        },
-        "international_phone_number": "+1 405-869-0501",
-        "name": "Buddha Mind Monastery",
-        "place_id": "ChIJYdlUdQ05socR72vxpNunBhQ",
-        "url": "https://maps.google.com/?cid=1443025292425784303",
-        "website": "http://www.ctbuddhamind.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNXpho3gA3OaBzWEnYGAcKUiuQjfwySOLrmbVNX=s1600-w800-h530",
-          "https://lh3.googleusercontent.com/p/AF1QipPXOhepS4oAWSDULUvIT6tFne94s-gHw1NO-wdk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeqANRh5XobqJqWLBK35zEAaVhxZE8QiZH994x=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNcMV1P4NkBTCtqpCn3VnzEvaBA1INpKnStRrwc=s1600-w500-h333",
-          "https://lh3.googleusercontent.com/p/AF1QipOP5YyJ9btLgpsXIeUJ_y_eWYas-481ZOLC_cNu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvUPhaS0U7sggmCt7JNL2y24QQJR_zC6Mm8CZD=s1600-w540-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2rjFIUiULpSGR9yNvxFNr4Hq8xrHBHjGGuFwK=s1600-w707-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhNIRizVpJx7281OdZG-NcyFDpGy89U-mVQF-9=s1600-w470-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNyxzWOqBrR2keQOjhA4arW-eJCoprQmgW0goBt=s1600-w296-h394",
-          "https://lh3.googleusercontent.com/p/AF1QipNRQwQ97Rs25B-z31qlmGLR6ypA9q0tLi-wYEiO=s1600-w800-h800"
-        ]
+      "name": "Buddha Mind Monastery",
+      "location": {
+        "lat": 35.407686,
+        "lng": -97.3166849
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "5800 S Anderson Rd, Oklahoma City, OK 73150, USA",
+      "phone": "+1 405-869-0501",
+      "website": "http://www.ctbuddhamind.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNXpho3gA3OaBzWEnYGAcKUiuQjfwySOLrmbVNX=s1600-w800-h530",
+        "https://lh3.googleusercontent.com/p/AF1QipPXOhepS4oAWSDULUvIT6tFne94s-gHw1NO-wdk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeqANRh5XobqJqWLBK35zEAaVhxZE8QiZH994x=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNcMV1P4NkBTCtqpCn3VnzEvaBA1INpKnStRrwc=s1600-w500-h333",
+        "https://lh3.googleusercontent.com/p/AF1QipOP5YyJ9btLgpsXIeUJ_y_eWYas-481ZOLC_cNu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvUPhaS0U7sggmCt7JNL2y24QQJR_zC6Mm8CZD=s1600-w540-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2rjFIUiULpSGR9yNvxFNr4Hq8xrHBHjGGuFwK=s1600-w707-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhNIRizVpJx7281OdZG-NcyFDpGy89U-mVQF-9=s1600-w470-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNyxzWOqBrR2keQOjhA4arW-eJCoprQmgW0goBt=s1600-w296-h394",
+        "https://lh3.googleusercontent.com/p/AF1QipNRQwQ97Rs25B-z31qlmGLR6ypA9q0tLi-wYEiO=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJYdlUdQ05socR72vxpNunBhQ",
+      "google_maps_url": "https://maps.google.com/?cid=1443025292425784303",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4100 SE 106th St, Moore, OK 73160, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.3618143,
-            "lng": -97.4444179
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.3631618302915,
-              "lng": -97.44308866970849
-            },
-            "southwest": {
-              "lat": 35.3604638697085,
-              "lng": -97.4457866302915
-            }
-          }
-        },
-        "international_phone_number": "+1 405-237-1670",
-        "name": "Buddhist Temple-Shin Heung Sa",
-        "place_id": "ChIJ6SQk22YVsocRE-pbMGTLZjA",
-        "url": "https://maps.google.com/?cid=3487698592613526035",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddhist Temple-Shin Heung Sa",
+      "location": {
+        "lat": 35.3618143,
+        "lng": -97.4444179
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "4100 SE 106th St, Moore, OK 73160, USA",
+      "phone": "+1 405-237-1670",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ6SQk22YVsocRE-pbMGTLZjA",
+      "google_maps_url": "https://maps.google.com/?cid=3487698592613526035",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2625 SE 44th St, Oklahoma City, OK 73129, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.42093549999999,
-            "lng": -97.46475500000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.4222265802915,
-              "lng": -97.4634057697085
-            },
-            "southwest": {
-              "lat": 35.4195286197085,
-              "lng": -97.46610373029152
-            }
-          }
-        },
-        "international_phone_number": "+1 405-672-8262",
-        "name": "Giac Quang Buddhist Temple",
-        "place_id": "ChIJ81EYX9gVsocR3lgeIGr4_AM",
-        "url": "https://maps.google.com/?cid=287377610933950686",
-        "website": "http://www.giacquangtempleokc.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOqP_GRAV2cuVfiP8nmsWYCMulf79M7PJrIA0jt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzHxuaHhuc46819zLCXR-4Oq___4weSEjJyRTi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgXWBUObw0E__Fu-vkC8ELd_mNuTRvJWHW3i8O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMi-dO5rH52GeIlvDPrKXLir8WhPgnlJqT_Yn0p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMfdTJjn0co2SGf4Qesp07qxLGyl9U2Lkzxd2Pg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3_t7S34Yluma7WYyukC0-Wkuv4-ZwZCtE2Kd_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwnhWyaJHTjcK0Tqi8Z3azMtDjw_SzT9sQskN3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYTxVpGvIGMlcUdVKsiYt6GIQBIb70uhAUc1H4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJnGULZFA3F6VVidB5rngUkpdzJLPkypY5RBLz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7REPxESqvFuvwc_FTPXHAddP_-zPCRlvQrzJp=s1600-w800-h800"
-        ]
+      "name": "Giac Quang Buddhist Temple",
+      "location": {
+        "lat": 35.42093549999999,
+        "lng": -97.46475500000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "2625 SE 44th St, Oklahoma City, OK 73129, USA",
+      "phone": "+1 405-672-8262",
+      "website": "http://www.giacquangtempleokc.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOqP_GRAV2cuVfiP8nmsWYCMulf79M7PJrIA0jt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzHxuaHhuc46819zLCXR-4Oq___4weSEjJyRTi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgXWBUObw0E__Fu-vkC8ELd_mNuTRvJWHW3i8O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMi-dO5rH52GeIlvDPrKXLir8WhPgnlJqT_Yn0p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMfdTJjn0co2SGf4Qesp07qxLGyl9U2Lkzxd2Pg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3_t7S34Yluma7WYyukC0-Wkuv4-ZwZCtE2Kd_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwnhWyaJHTjcK0Tqi8Z3azMtDjw_SzT9sQskN3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYTxVpGvIGMlcUdVKsiYt6GIQBIb70uhAUc1H4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJnGULZFA3F6VVidB5rngUkpdzJLPkypY5RBLz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7REPxESqvFuvwc_FTPXHAddP_-zPCRlvQrzJp=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ81EYX9gVsocR3lgeIGr4_AM",
+      "google_maps_url": "https://maps.google.com/?cid=287377610933950686",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "829 Avenue A, Council Bluffs, IA 51503, USA",
-        "geometry": {
-          "location": {
-            "lat": 41.2625421,
-            "lng": -95.8572078
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.26397173029149,
-              "lng": -95.8558627197085
-            },
-            "southwest": {
-              "lat": 41.2612737697085,
-              "lng": -95.8585606802915
-            }
-          }
-        },
-        "international_phone_number": "+1 712-828-1976",
-        "name": "Lotus Monastery - Ni Vien Lien Hoa",
-        "place_id": "ChIJ_amLrZaFk4cRIuKzkZhlP8I",
-        "url": "https://maps.google.com/?cid=13997017872844710434",
-        "website": "https://lotus-monastery-ni-vien-lien-hoa.business.site/?utm_source=gmb&utm_medium=referral",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOu_luQmJ0oiB1gFtzHLXoke7MWAJog5aYqSOg=s1600-w640-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipN3oqgEgEjmBZ2CV7tX_zIsAEJpIrB-zXVDpYQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNt4dAG046ZVz-VpRdqF7bUkkcIWESaLH6UFic=s1600-w640-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipO1VXkoA3_6aTnKink61-9E4KxspmZUUqkfNVg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvGnx4kWItb-v0bcIFAWTzHYqrev4yjt6vG10=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeQjTsupK7qgb3GzQIPlPi7bD5mEVnqC1YQIM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPw10W8iTj8eD4FPfH3Ou7GjhWc6h9VoVg7XaM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMuMdtr3WBacy9s8z2hVsSG8UWQLlEcXiprlkg=s1600-w480-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipM3emEIUjBf_4wPe6bAIW4gtAT49wBAPJAgrRA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNR_Eaomwb8hUthiG_bXvwU50t5tDwSP3zQ0YY=s1600-w800-h800"
-        ]
+      "name": "Lotus Monastery - Ni Vien Lien Hoa",
+      "location": {
+        "lat": 41.2625421,
+        "lng": -95.8572078
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "829 Avenue A, Council Bluffs, IA 51503, USA",
+      "phone": "+1 712-828-1976",
+      "website": "https://lotus-monastery-ni-vien-lien-hoa.business.site/?utm_source=gmb&utm_medium=referral",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOu_luQmJ0oiB1gFtzHLXoke7MWAJog5aYqSOg=s1600-w640-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipN3oqgEgEjmBZ2CV7tX_zIsAEJpIrB-zXVDpYQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNt4dAG046ZVz-VpRdqF7bUkkcIWESaLH6UFic=s1600-w640-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipO1VXkoA3_6aTnKink61-9E4KxspmZUUqkfNVg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvGnx4kWItb-v0bcIFAWTzHYqrev4yjt6vG10=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeQjTsupK7qgb3GzQIPlPi7bD5mEVnqC1YQIM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPw10W8iTj8eD4FPfH3Ou7GjhWc6h9VoVg7XaM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMuMdtr3WBacy9s8z2hVsSG8UWQLlEcXiprlkg=s1600-w480-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipM3emEIUjBf_4wPe6bAIW4gtAT49wBAPJAgrRA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNR_Eaomwb8hUthiG_bXvwU50t5tDwSP3zQ0YY=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_amLrZaFk4cRIuKzkZhlP8I",
+      "google_maps_url": "https://maps.google.com/?cid=13997017872844710434",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "10436 NE 63rd St, Spencer, OK 73084, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.5350247,
-            "lng": -97.345662
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.53716505,
-              "lng": -97.3443245697085
-            },
-            "southwest": {
-              "lat": 35.53431124999999,
-              "lng": -97.34702253029151
-            }
-          }
-        },
-        "international_phone_number": "+1 405-771-4452",
-        "name": "Holy Land Temple",
-        "place_id": "ChIJ32NvSqIksocRHNmjuI7yX0Y",
-        "url": "https://maps.google.com/?cid=5071038400239491356",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP3TAnClw1fpdNJ7Moj4G-iJZpevvmSYzbvb5S5=s1600-w800-h800"
-        ]
+      "name": "Holy Land Temple",
+      "location": {
+        "lat": 35.5350247,
+        "lng": -97.345662
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "10436 NE 63rd St, Spencer, OK 73084, USA",
+      "phone": "+1 405-771-4452",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP3TAnClw1fpdNJ7Moj4G-iJZpevvmSYzbvb5S5=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ32NvSqIksocRHNmjuI7yX0Y",
+      "google_maps_url": "https://maps.google.com/?cid=5071038400239491356",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "370 Co Rd 198, Cañones, NM 87516, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.1637052,
-            "lng": -106.4433742
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.16497913029149,
-              "lng": -106.4419378197085
-            },
-            "southwest": {
-              "lat": 36.1622811697085,
-              "lng": -106.4446357802915
-            }
-          }
-        },
-        "international_phone_number": "+1 575-638-5690",
-        "name": "The Monastery of The Holy Archangel Michael",
-        "place_id": "ChIJLZvuAU3_F4cRyDIuVUaSqS8",
-        "url": "https://maps.google.com/?cid=3434437021621170888",
-        "website": "http://www.holyarchangelmichael.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPGXjFt8q-wWs71i72oM_-mKXzuiLn6t9PRTJMw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFVNFXcXZi9MIyVt1E7osklGy-n2j105aWHTAv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPn4TItvgVLbDcwHoOrJbdJezwBPw8NHLTNtic_=s1600-w640-h479",
-          "https://lh3.googleusercontent.com/p/AF1QipMGeh_h9cvJ3uGGnGc1QASLJAbQjMIia53iJcMP=s1600-w479-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOUHYGkoYJHV1byDp4p0EzVtWpmj1wx4A5A8Sve=s1600-w640-h480",
-          "https://lh3.googleusercontent.com/p/AF1QipPojmyaDF_CyNZ4tvPmlV0wLlGM-M5HzwDsKGCD=s1600-w480-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipN91wDy6iz1-095XK-5MH7fh2DbJgRjMLWvuQbq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPb2G_EkZ-2qEqIu4Sy2qQMZNNY31Q5Qzvn7R4Q=s1600-w640-h474"
-        ]
+      "name": "The Monastery of The Holy Archangel Michael",
+      "location": {
+        "lat": 36.1637052,
+        "lng": -106.4433742
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "370 Co Rd 198, Cañones, NM 87516, USA",
+      "phone": "+1 575-638-5690",
+      "website": "http://www.holyarchangelmichael.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPGXjFt8q-wWs71i72oM_-mKXzuiLn6t9PRTJMw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFVNFXcXZi9MIyVt1E7osklGy-n2j105aWHTAv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPn4TItvgVLbDcwHoOrJbdJezwBPw8NHLTNtic_=s1600-w640-h479",
+        "https://lh3.googleusercontent.com/p/AF1QipMGeh_h9cvJ3uGGnGc1QASLJAbQjMIia53iJcMP=s1600-w479-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOUHYGkoYJHV1byDp4p0EzVtWpmj1wx4A5A8Sve=s1600-w640-h480",
+        "https://lh3.googleusercontent.com/p/AF1QipPojmyaDF_CyNZ4tvPmlV0wLlGM-M5HzwDsKGCD=s1600-w480-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipN91wDy6iz1-095XK-5MH7fh2DbJgRjMLWvuQbq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPb2G_EkZ-2qEqIu4Sy2qQMZNNY31Q5Qzvn7R4Q=s1600-w640-h474"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJLZvuAU3_F4cRyDIuVUaSqS8",
+      "google_maps_url": "https://maps.google.com/?cid=3434437021621170888",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "104 Glenmont Dr, Nashville, TN 37210, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.114839,
-            "lng": -86.72179369999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.1162316802915,
-              "lng": -86.72058096970848
-            },
-            "southwest": {
-              "lat": 36.1135337197085,
-              "lng": -86.72327893029149
-            }
-          }
-        },
-        "international_phone_number": "+1 615-730-8014",
-        "name": "Wat Lao Buddhapathip",
-        "place_id": "ChIJl0BFrkBvZIgRdrSM37z2u6o",
-        "url": "https://maps.google.com/?cid=12302698098157466742",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOmXt1niuT6t951e5H-W83kCF_ghdzz0fC-XOQQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNjuMNTYPtK1qRIAwSrPIl5PhQBd702tOTCVijO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWL5v1CkQo70liL39IPhPskiRcRQXDKQYeUL4C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMMkML4kzBk5sZMVcwbob3qmusgYVnK-DN14-gx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPCSjdCl3kPEcgGXg2kXFpqbpb2Fk2wHEziQmn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNiONT6LGNShXuyh0QFuweu-k9JQPiCzf_1oAQ-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNB3sdYftlUPVhbB19onggEE-GqhCJ2uulGfY9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNKHkGP-yDMXnCr-CgW5EaQGeWHtTQnjjtZzUyp=s1600-w800-h800"
-        ]
+      "name": "Wat Lao Buddhapathip",
+      "location": {
+        "lat": 36.114839,
+        "lng": -86.72179369999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "104 Glenmont Dr, Nashville, TN 37210, USA",
+      "phone": "+1 615-730-8014",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOmXt1niuT6t951e5H-W83kCF_ghdzz0fC-XOQQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNjuMNTYPtK1qRIAwSrPIl5PhQBd702tOTCVijO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWL5v1CkQo70liL39IPhPskiRcRQXDKQYeUL4C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMMkML4kzBk5sZMVcwbob3qmusgYVnK-DN14-gx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPCSjdCl3kPEcgGXg2kXFpqbpb2Fk2wHEziQmn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNiONT6LGNShXuyh0QFuweu-k9JQPiCzf_1oAQ-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNB3sdYftlUPVhbB19onggEE-GqhCJ2uulGfY9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNKHkGP-yDMXnCr-CgW5EaQGeWHtTQnjjtZzUyp=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJl0BFrkBvZIgRdrSM37z2u6o",
+      "google_maps_url": "https://maps.google.com/?cid=12302698098157466742",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4880 Barfield Crescent Rd, Murfreesboro, TN 37128, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.7422573,
-            "lng": -86.453682
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.7435686802915,
-              "lng": -86.45221926970851
-            },
-            "southwest": {
-              "lat": 35.7408707197085,
-              "lng": -86.45491723029151
-            }
-          }
-        },
-        "international_phone_number": "+1 615-895-9325",
-        "name": "Wat Amphawan of America",
-        "place_id": "ChIJl8zDQvvwY4gR9pHlD0b2KiE",
-        "url": "https://maps.google.com/?cid=2389993333048316406",
-        "website": "http://wat-amphawan-of.edan.io/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOxwZ2vGS7ZAEChZbas5-Oru99NPphu1usKItFt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJ39WlkCOa2j7Q9A0x48TDrE2V2qCFAYSQvpuP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMi6OHcmZfsXZGU9xjLYDnmPp0vZE728c7w-JpG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdcuikfsGDgGgTmncuOzsxnJAoPI0J2nUb5F6b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8seRCdBo9LK816LZezxotvJ3iwNdsxC2Ypp8B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM11FOQW_3UMtd4QkijQPiQ63yLphoK2iuTKWUD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNl27iwLm73RdR4Yclkr2HSC3YUJs58j-_OiukO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-J9HhmM0zaUtYgUjiZ83Z-ncKRSLcNj9Pt1ig=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZ9OWsLWWTGT-iPcBHG_LLbEfnGt5ONby8sav3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDoqyfVp_M_CsX8DqIT7jRjdSuNux9jak1bpc2=s1600-w800-h800"
-        ]
+      "name": "Wat Amphawan of America",
+      "location": {
+        "lat": 35.7422573,
+        "lng": -86.453682
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "4880 Barfield Crescent Rd, Murfreesboro, TN 37128, USA",
+      "phone": "+1 615-895-9325",
+      "website": "http://wat-amphawan-of.edan.io/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOxwZ2vGS7ZAEChZbas5-Oru99NPphu1usKItFt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJ39WlkCOa2j7Q9A0x48TDrE2V2qCFAYSQvpuP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMi6OHcmZfsXZGU9xjLYDnmPp0vZE728c7w-JpG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdcuikfsGDgGgTmncuOzsxnJAoPI0J2nUb5F6b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8seRCdBo9LK816LZezxotvJ3iwNdsxC2Ypp8B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM11FOQW_3UMtd4QkijQPiQ63yLphoK2iuTKWUD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNl27iwLm73RdR4Yclkr2HSC3YUJs58j-_OiukO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-J9HhmM0zaUtYgUjiZ83Z-ncKRSLcNj9Pt1ig=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZ9OWsLWWTGT-iPcBHG_LLbEfnGt5ONby8sav3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDoqyfVp_M_CsX8DqIT7jRjdSuNux9jak1bpc2=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJl8zDQvvwY4gR9pHlD0b2KiE",
+      "google_maps_url": "https://maps.google.com/?cid=2389993333048316406",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "131 Dellway Dr, Nashville, TN 37207, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.21516629999999,
-            "lng": -86.7609611
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.21628493029149,
-              "lng": -86.7596825197085
-            },
-            "southwest": {
-              "lat": 36.21358696970849,
-              "lng": -86.76238048029151
-            }
-          }
-        },
-        "international_phone_number": "+1 615-964-0060",
-        "name": "Cambodian International Buddhist Temple",
-        "place_id": "ChIJP3vYu_RnZIgRRfF6DrR37j4",
-        "url": "https://maps.google.com/?cid=4534693490029424965",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMhXFZhNGvmKSB8HxWlxxdXjIiwX-Uy9x8Jj-eg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPhImwR0MeEP3Rgi4gWcyd0B0MlA7NKpsHxRIxL=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOJgHqfYRaGEB13LP1KE_FArBgRA7Dbir3C9Rfk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9gMmQorQtowcld3lr7owVDACy_7kh9qxu9gbj=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipO0a8UeWavEEPWCyQK2chKdmxWJacnm5UYbH3Qe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlwJquVXv3KpdVI9YygcAyklonMVXf2bu7T63G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN30pO3CEwGeRvc5f9K_GnYbUPG8fUmdPuEvaHf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP140RlDWmeSSOLDwOnyni_Ra7iYgIh0-ZRXGR2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjmWhyLw-cNJmVjzHy9Qk8f5Y8A_GgGqg81mmv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNw4QtoSG9pdcHzd6hwT3pWO55woEdDNa7fcufK=s1600-w800-h800"
-        ]
+      "name": "Cambodian International Buddhist Temple",
+      "location": {
+        "lat": 36.21516629999999,
+        "lng": -86.7609611
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "131 Dellway Dr, Nashville, TN 37207, USA",
+      "phone": "+1 615-964-0060",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMhXFZhNGvmKSB8HxWlxxdXjIiwX-Uy9x8Jj-eg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPhImwR0MeEP3Rgi4gWcyd0B0MlA7NKpsHxRIxL=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOJgHqfYRaGEB13LP1KE_FArBgRA7Dbir3C9Rfk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9gMmQorQtowcld3lr7owVDACy_7kh9qxu9gbj=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipO0a8UeWavEEPWCyQK2chKdmxWJacnm5UYbH3Qe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlwJquVXv3KpdVI9YygcAyklonMVXf2bu7T63G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN30pO3CEwGeRvc5f9K_GnYbUPG8fUmdPuEvaHf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP140RlDWmeSSOLDwOnyni_Ra7iYgIh0-ZRXGR2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjmWhyLw-cNJmVjzHy9Qk8f5Y8A_GgGqg81mmv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNw4QtoSG9pdcHzd6hwT3pWO55woEdDNa7fcufK=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJP3vYu_RnZIgRRfF6DrR37j4",
+      "google_maps_url": "https://maps.google.com/?cid=4534693490029424965",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "419 E Iris Dr, Nashville, TN 37204, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.1138335,
-            "lng": -86.7629013
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.1151780302915,
-              "lng": -86.76142031970849
-            },
-            "southwest": {
-              "lat": 36.1124800697085,
-              "lng": -86.7641182802915
-            }
-          }
-        },
-        "name": "Yeshe Tsogyal Temple",
-        "place_id": "ChIJR3j3ysFlZIgRgkdf_nmtPeM",
-        "url": "https://maps.google.com/?cid=16374434559659296642",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Yeshe Tsogyal Temple",
+      "location": {
+        "lat": 36.1138335,
+        "lng": -86.7629013
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "419 E Iris Dr, Nashville, TN 37204, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJR3j3ysFlZIgRgkdf_nmtPeM",
+      "google_maps_url": "https://maps.google.com/?cid=16374434559659296642",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "14131 Old Hickory Blvd, Antioch, TN 37013, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.01294850000001,
-            "lng": -86.6728491
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.0143863802915,
-              "lng": -86.67132761970849
-            },
-            "southwest": {
-              "lat": 36.01168841970851,
-              "lng": -86.6740255802915
-            }
-          }
-        },
-        "international_phone_number": "+1 615-941-8652",
-        "name": "Wat Lao Xaoput",
-        "place_id": "ChIJTefhTpBxZIgRooT4UqckQw0",
-        "url": "https://maps.google.com/?cid=955647847002834082",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNAai43VMcagjfcz9FPG7nsCNyEQ_vZjvcMyg1C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoa6py2KCarLC9a9uCZwtUL1xUg0--AxucSgKr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUd2n0mJToWq48Y4hdobBhJO9eMz5tMOPiIXlz=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOguR_VpUvz21OQ0pSbEKwR8gawZ3lWaLtEO8eW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMyqHi01p6K4rPh9B-isTMxopIfF1cujK9CLHwh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOa6k1eK3lnn_4Bw1IfTpiyygU_J8S8CTdK18AS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_F-YehRsEcDM36BwFCijytiJCB8k_AeyNqzWX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7KfExo43ODjClJOYBDxZjNLmnQnfT7YvOnGlm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipObg0WnDTjD-zVjaTPV1tsFlUUz_k-uRM5p3y64=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9HP00akXZ4kBxXdBAcbKf1WTV-VP02-zl1-m4=s1600-w800-h800"
-        ]
+      "name": "Wat Lao Xaoput",
+      "location": {
+        "lat": 36.01294850000001,
+        "lng": -86.6728491
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "14131 Old Hickory Blvd, Antioch, TN 37013, USA",
+      "phone": "+1 615-941-8652",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNAai43VMcagjfcz9FPG7nsCNyEQ_vZjvcMyg1C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoa6py2KCarLC9a9uCZwtUL1xUg0--AxucSgKr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUd2n0mJToWq48Y4hdobBhJO9eMz5tMOPiIXlz=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOguR_VpUvz21OQ0pSbEKwR8gawZ3lWaLtEO8eW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMyqHi01p6K4rPh9B-isTMxopIfF1cujK9CLHwh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOa6k1eK3lnn_4Bw1IfTpiyygU_J8S8CTdK18AS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_F-YehRsEcDM36BwFCijytiJCB8k_AeyNqzWX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7KfExo43ODjClJOYBDxZjNLmnQnfT7YvOnGlm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipObg0WnDTjD-zVjaTPV1tsFlUUz_k-uRM5p3y64=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9HP00akXZ4kBxXdBAcbKf1WTV-VP02-zl1-m4=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTefhTpBxZIgRooT4UqckQw0",
+      "google_maps_url": "https://maps.google.com/?cid=955647847002834082",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1730 Stewart Creek Rd, Murfreesboro, TN 37129, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.887719,
-            "lng": -86.546633
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.89108665000001,
-              "lng": -86.54469800000001
-            },
-            "southwest": {
-              "lat": 35.88659644999999,
-              "lng": -86.55243799999998
-            }
-          }
-        },
-        "international_phone_number": "+1 615-462-1649",
-        "name": "Wat Lao PhaThatLuang of TN",
-        "place_id": "ChIJM65mNPMKZIgRI0jnWpNm-zg",
-        "url": "https://maps.google.com/?cid=4105988268349671459",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMkpFlhy-oBFgArz7Q-JKmf8SjT0pdK8P47bFL0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqd33B6xfqwDH6xLf0pqOg6sn5iNSz4wc5PBT6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5hJr-5jtbXH8nRwY70PdQclagQXMm45lhjF85=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLugS_dScuiHq6rzq2bJUNHsHYjbF_ruvucFPg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtYgB24rZL3DlQMBeYr4IpH9hiNXyP5Jq4aUhP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjFCJf2cbv6N48Mv_yMJoAeWSm0gDYOERCInVK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9kCJa_IQi2nKEUSjSpHEon9gvd_8p5uw18FsU=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMbGy-lzXzlReX_GIramU-IICLz83RXl4ybiMZC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNS5mEZRwPplqWlfCO0QkavvgqrrfNc15DO1v5k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5RLUmASjmAoPLpWQSvjjDQzb3pclIwXDsmORT=s1600-w800-h800"
-        ]
+      "name": "Wat Lao PhaThatLuang of TN",
+      "location": {
+        "lat": 35.887719,
+        "lng": -86.546633
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "1730 Stewart Creek Rd, Murfreesboro, TN 37129, USA",
+      "phone": "+1 615-462-1649",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMkpFlhy-oBFgArz7Q-JKmf8SjT0pdK8P47bFL0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqd33B6xfqwDH6xLf0pqOg6sn5iNSz4wc5PBT6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5hJr-5jtbXH8nRwY70PdQclagQXMm45lhjF85=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLugS_dScuiHq6rzq2bJUNHsHYjbF_ruvucFPg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtYgB24rZL3DlQMBeYr4IpH9hiNXyP5Jq4aUhP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjFCJf2cbv6N48Mv_yMJoAeWSm0gDYOERCInVK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9kCJa_IQi2nKEUSjSpHEon9gvd_8p5uw18FsU=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMbGy-lzXzlReX_GIramU-IICLz83RXl4ybiMZC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNS5mEZRwPplqWlfCO0QkavvgqrrfNc15DO1v5k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5RLUmASjmAoPLpWQSvjjDQzb3pclIwXDsmORT=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJM65mNPMKZIgRI0jnWpNm-zg",
+      "google_maps_url": "https://maps.google.com/?cid=4105988268349671459",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "14780 Beardslee Rd, Perry, MI 48872, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.78238640000001,
-            "lng": -84.2762799
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.7836649302915,
-              "lng": -84.2745966697085
-            },
-            "southwest": {
-              "lat": 42.7809669697085,
-              "lng": -84.27729463029151
-            }
-          }
-        },
-        "international_phone_number": "+1 517-675-1010",
-        "name": "Wat Dhammasala Forest Monastery",
-        "place_id": "ChIJWTLlkd3hIogRNxfB-_0uXuY",
-        "url": "https://maps.google.com/?cid=16599756944919566135",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN3jIfBZUusRTb1KfdwmkA_13sEYC5BHeKyhrLz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8LmtMUizd2_snLUDt_p1wo-B2ILW6BCo798NE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4wlsa44nHtbN13hZG3GwsQm2j7PIls4heqwll=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWfPqBF3KhVrd9DeTf_z3GjhzoFfgnfqMsu9Oq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOO3WAIl3_yK9WGP2VP6-hFP4PC5bLr7F1-0KsB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdkHaSkXBBgRgQTbj3Jd3A7gyRXNaePUYWzOzP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPxcAZIccNobW478eGgNUpGPNtpxJN0OOKkpS_k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpe-Ndr3ByT0-e9gk8I_vNkSmU6HtD72VMvQ4v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYvv89w7Mm5Q1Orkou6t_tMoqzCk8IfzOUVTF5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDoegV4dybA64qeeXTF4wrcY8O6Hwthj3g3OL-=s1600-w800-h800"
-        ]
+      "name": "Wat Dhammasala Forest Monastery",
+      "location": {
+        "lat": 42.78238640000001,
+        "lng": -84.2762799
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "14780 Beardslee Rd, Perry, MI 48872, USA",
+      "phone": "+1 517-675-1010",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN3jIfBZUusRTb1KfdwmkA_13sEYC5BHeKyhrLz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8LmtMUizd2_snLUDt_p1wo-B2ILW6BCo798NE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4wlsa44nHtbN13hZG3GwsQm2j7PIls4heqwll=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWfPqBF3KhVrd9DeTf_z3GjhzoFfgnfqMsu9Oq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOO3WAIl3_yK9WGP2VP6-hFP4PC5bLr7F1-0KsB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdkHaSkXBBgRgQTbj3Jd3A7gyRXNaePUYWzOzP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPxcAZIccNobW478eGgNUpGPNtpxJN0OOKkpS_k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpe-Ndr3ByT0-e9gk8I_vNkSmU6HtD72VMvQ4v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYvv89w7Mm5Q1Orkou6t_tMoqzCk8IfzOUVTF5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDoegV4dybA64qeeXTF4wrcY8O6Hwthj3g3OL-=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJWTLlkd3hIogRNxfB-_0uXuY",
+      "google_maps_url": "https://maps.google.com/?cid=16599756944919566135",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "527 Old Hickory Blvd, Nashville, TN 37209, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.1013028,
-            "lng": -86.9249236
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.1026255302915,
-              "lng": -86.92331781970849
-            },
-            "southwest": {
-              "lat": 36.0999275697085,
-              "lng": -86.92601578029151
-            }
-          }
-        },
-        "international_phone_number": "+1 615-356-7207",
-        "name": "Sri Ganesha Temple in Nashville",
-        "place_id": "ChIJ4UIcV7aJZIgRVvGdCgro_qs",
-        "url": "https://maps.google.com/?cid=12393598354395623766",
-        "website": "http://www.ganeshatemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOjvd3JOC59ZZ_dHEDVytP2fnW_ZILMPmpi1Rk2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3OZCDAWorJdKpdBSyFjB5ms5UaG06LspA973M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPW27OeNBwu0cnucnnFeS1CsqeJifRRAippep20=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2vW0HL0PjlZCXheHC7TAwQREasEj0ud-dLKQc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSPIc8Q1Rt4UBO5So1BXzBg5F8Ymp4NQ5uVx_g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGtQIhoJ2NdxQUlKm2lvknDW_xhrNZzdKi3xMj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-2NSGKrgtPk93A3UlP5NB56SFKUzc0psuPU_-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPDF6VF0CqEsg3gc6I9vd7UZuXR_ZGvOii28u5t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNCFdTBCieOl0kfcpWOHRc1ndfTUSEDMIlyuu3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9fx46Srzizc_LPTqmwm0ksIMlQbgv1qy_YfJq=s1600-w800-h800"
-        ]
+      "name": "Sri Ganesha Temple in Nashville",
+      "location": {
+        "lat": 36.1013028,
+        "lng": -86.9249236
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "527 Old Hickory Blvd, Nashville, TN 37209, USA",
+      "phone": "+1 615-356-7207",
+      "website": "http://www.ganeshatemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOjvd3JOC59ZZ_dHEDVytP2fnW_ZILMPmpi1Rk2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3OZCDAWorJdKpdBSyFjB5ms5UaG06LspA973M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPW27OeNBwu0cnucnnFeS1CsqeJifRRAippep20=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2vW0HL0PjlZCXheHC7TAwQREasEj0ud-dLKQc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSPIc8Q1Rt4UBO5So1BXzBg5F8Ymp4NQ5uVx_g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGtQIhoJ2NdxQUlKm2lvknDW_xhrNZzdKi3xMj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-2NSGKrgtPk93A3UlP5NB56SFKUzc0psuPU_-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPDF6VF0CqEsg3gc6I9vd7UZuXR_ZGvOii28u5t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNCFdTBCieOl0kfcpWOHRc1ndfTUSEDMIlyuu3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9fx46Srzizc_LPTqmwm0ksIMlQbgv1qy_YfJq=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ4UIcV7aJZIgRVvGdCgro_qs",
+      "google_maps_url": "https://maps.google.com/?cid=12393598354395623766",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1710 W Cornelia Ave, Chicago, IL 60657, USA",
-        "geometry": {
-          "location": {
-            "lat": 41.94539,
-            "lng": -87.67173
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.94673898029149,
-              "lng": -87.6703810197085
-            },
-            "southwest": {
-              "lat": 41.94404101970849,
-              "lng": -87.6730789802915
-            }
-          }
-        },
-        "international_phone_number": "+1 773-528-8685",
-        "name": "Zen Buddhist Temple",
-        "place_id": "ChIJURUDSFvSD4gRr9ISoTw6dIY",
-        "url": "https://maps.google.com/?cid=9688432730455593647",
-        "website": "http://www.zenbuddhisttemple.org/chicago",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPc2RxjYiTE7vmhdrqDJIAX93hHtVdZl616AG_c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQ_9c8H0e40P7-khrQqXYrVsK0Pp2HAWcSe3k-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzN3XypRd1f4BmT0gWs6vDnt--nbBwiK1-Hm5s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM8omtB3nSyS-5k9spp39ohJQI_T4NOr5lWL6j3=s1600-w800-h725",
-          "https://lh3.googleusercontent.com/p/AF1QipPG4e9OfKE5964JGOA8q01LNzrMts4v1R82RaPC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpPk405iahWlSIehSOmEiuyndpS2rjGv73Mo3S=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXrOrz3ByQ92vPojxOnLXlzzks-_Cpw7ToYmYV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvalFhZXr3BSpc0--CvCU23ES2WKYisxAozOug=s1600-w800-h800"
-        ]
+      "name": "Zen Buddhist Temple",
+      "location": {
+        "lat": 41.94539,
+        "lng": -87.67173
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "1710 W Cornelia Ave, Chicago, IL 60657, USA",
+      "phone": "+1 773-528-8685",
+      "website": "http://www.zenbuddhisttemple.org/chicago",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPc2RxjYiTE7vmhdrqDJIAX93hHtVdZl616AG_c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQ_9c8H0e40P7-khrQqXYrVsK0Pp2HAWcSe3k-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzN3XypRd1f4BmT0gWs6vDnt--nbBwiK1-Hm5s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM8omtB3nSyS-5k9spp39ohJQI_T4NOr5lWL6j3=s1600-w800-h725",
+        "https://lh3.googleusercontent.com/p/AF1QipPG4e9OfKE5964JGOA8q01LNzrMts4v1R82RaPC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpPk405iahWlSIehSOmEiuyndpS2rjGv73Mo3S=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXrOrz3ByQ92vPojxOnLXlzzks-_Cpw7ToYmYV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvalFhZXr3BSpc0--CvCU23ES2WKYisxAozOug=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJURUDSFvSD4gRr9ISoTw6dIY",
+      "google_maps_url": "https://maps.google.com/?cid=9688432730455593647",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "21491 Beech Rd, Southfield, MI 48033, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.44877199999999,
-            "lng": -83.29831879999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.4502086302915,
-              "lng": -83.29687106970849
-            },
-            "southwest": {
-              "lat": 42.4475106697085,
-              "lng": -83.2995690302915
-            }
-          }
-        },
-        "international_phone_number": "+1 248-353-8155",
-        "name": "Great lakes buddhist vihara",
-        "place_id": "ChIJzcPQ-ou2JIgRk2CpVIu0YhI",
-        "url": "https://maps.google.com/?cid=1324819750914187411",
-        "website": "http://www.glbvihara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipODXwwo4JypyZNJJqL24_PC9WH4TXlvb7dASvNB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOsTSUGMtwmqJsoyZYoVwismNKudoz3rfdQaz3k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNk65KOYB0gMVJDoi625ptMpJ4vsG4BB7TiUeNv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPlpALPxs7Gdhk8LaF8z_L6P-3KkEAlmF0kmNJ7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzKRrMz_2JMv7-8xBpAzXdy2mzZ6YijywvfghQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOa8ft4DYj74qVkKYLkbIn4m9zZTxrWTwAh-vG4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTl7DjpIhODwtBgpIaFlXi5qsmeXjqBBlzuzGX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6keZ628ueczWYGJqDutD9wqsQhnLx5R0FMnQs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMiR4KdlE5FBNnZSpr56GKS8TuMKBD7g3NdFkFn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2lu4FLq006OSyAEFAwMMVcMEhx0hUg_9OW-F5=s1600-w800-h800"
-        ]
+      "name": "Great lakes buddhist vihara",
+      "location": {
+        "lat": 42.44877199999999,
+        "lng": -83.29831879999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "21491 Beech Rd, Southfield, MI 48033, USA",
+      "phone": "+1 248-353-8155",
+      "website": "http://www.glbvihara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipODXwwo4JypyZNJJqL24_PC9WH4TXlvb7dASvNB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOsTSUGMtwmqJsoyZYoVwismNKudoz3rfdQaz3k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNk65KOYB0gMVJDoi625ptMpJ4vsG4BB7TiUeNv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPlpALPxs7Gdhk8LaF8z_L6P-3KkEAlmF0kmNJ7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzKRrMz_2JMv7-8xBpAzXdy2mzZ6YijywvfghQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOa8ft4DYj74qVkKYLkbIn4m9zZTxrWTwAh-vG4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTl7DjpIhODwtBgpIaFlXi5qsmeXjqBBlzuzGX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6keZ628ueczWYGJqDutD9wqsQhnLx5R0FMnQs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMiR4KdlE5FBNnZSpr56GKS8TuMKBD7g3NdFkFn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2lu4FLq006OSyAEFAwMMVcMEhx0hUg_9OW-F5=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzcPQ-ou2JIgRk2CpVIu0YhI",
+      "google_maps_url": "https://maps.google.com/?cid=1324819750914187411",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2959 W Gowan Rd, North Las Vegas, NV 89032, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.2241577,
-            "lng": -115.1803201
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.2255950802915,
-              "lng": -115.1789750697085
-            },
-            "southwest": {
-              "lat": 36.2228971197085,
-              "lng": -115.1816730302915
-            }
-          }
-        },
-        "international_phone_number": "+1 702-648-9975",
-        "name": "Wat Buddha Pavana",
-        "place_id": "ChIJzxSGvf3pyIARXZIGmoWVMbI",
-        "url": "https://maps.google.com/?cid=12840208413657305693",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPO4IBzqdDWwlvmmBNIghQcvSFUI7dztzHqYBlT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUqGOmZxWeF5UsYaTYYNinD9otwNG67t1eEZFq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPhuPu-JyO2wzE8nlB8ML4oGHdUQ8LJI6k3w1QI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMb6ZDBwFX0N63ZYJIF2A6sMStFuhztbK1CDYQH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfJt6LTmLFexXaI-Kca_dcejTN0flGSJZPNBCS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6k3WSQ83HKU9Jpu-pG7UaJ7T1XI9VNEZTmyB5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZgiN_MSXzAc_it3X-GurCfhuIgDsBkEYzm9El=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtVaBgEWAvYOtAahRUpKAcRNRnyHysZ10Tjnyt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzF14fkMKjhdU2_eB4iupv4S4D8nPcfPbQzNWq=s1600-w800-h720"
-        ]
+      "name": "Wat Buddha Pavana",
+      "location": {
+        "lat": 36.2241577,
+        "lng": -115.1803201
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "2959 W Gowan Rd, North Las Vegas, NV 89032, USA",
+      "phone": "+1 702-648-9975",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPO4IBzqdDWwlvmmBNIghQcvSFUI7dztzHqYBlT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUqGOmZxWeF5UsYaTYYNinD9otwNG67t1eEZFq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPhuPu-JyO2wzE8nlB8ML4oGHdUQ8LJI6k3w1QI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMb6ZDBwFX0N63ZYJIF2A6sMStFuhztbK1CDYQH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfJt6LTmLFexXaI-Kca_dcejTN0flGSJZPNBCS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6k3WSQ83HKU9Jpu-pG7UaJ7T1XI9VNEZTmyB5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZgiN_MSXzAc_it3X-GurCfhuIgDsBkEYzm9El=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtVaBgEWAvYOtAahRUpKAcRNRnyHysZ10Tjnyt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzF14fkMKjhdU2_eB4iupv4S4D8nPcfPbQzNWq=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzxSGvf3pyIARXZIGmoWVMbI",
+      "google_maps_url": "https://maps.google.com/?cid=12840208413657305693",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2040 Abels Ln, Las Vegas, NV 89115, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.1966987,
-            "lng": -115.077439
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.1979029302915,
-              "lng": -115.0761948697085
-            },
-            "southwest": {
-              "lat": 36.1952049697085,
-              "lng": -115.0788928302915
-            }
-          }
-        },
-        "international_phone_number": "+1 702-457-7938",
-        "name": "Nevada Buddhist Temple",
-        "place_id": "ChIJ509JatvcyIARFRAcO102fqc",
-        "url": "https://maps.google.com/?cid=12069143825451061269",
-        "website": "http://nevadabuddhisttemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOU3OGRh-XA7ICTQU9rL2M_KQyHqAfUCWv9L2YY=s1600-w800-h800"
-        ]
+      "name": "Nevada Buddhist Temple",
+      "location": {
+        "lat": 36.1966987,
+        "lng": -115.077439
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "2040 Abels Ln, Las Vegas, NV 89115, USA",
+      "phone": "+1 702-457-7938",
+      "website": "http://nevadabuddhisttemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOU3OGRh-XA7ICTQU9rL2M_KQyHqAfUCWv9L2YY=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ509JatvcyIARFRAcO102fqc",
+      "google_maps_url": "https://maps.google.com/?cid=12069143825451061269",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "503 Sellers Pl, Henderson, NV 89011, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.0563104,
-            "lng": -114.9969104
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.0575894302915,
-              "lng": -114.9955600697085
-            },
-            "southwest": {
-              "lat": 36.0548914697085,
-              "lng": -114.9982580302915
-            }
-          }
-        },
-        "international_phone_number": "+1 702-514-0357",
-        "name": "Padma Rigdzin Ling Buddhist Temple",
-        "place_id": "ChIJET1V2FfXyIARWbQGZmWNUwU",
-        "url": "https://maps.google.com/?cid=383805859899552857",
-        "website": "https://padmarigdzinling.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP-RAVtkdStr3H7X0wTiyZaufhzp3_sqI0LWZq_=s1600-w720-h386",
-          "https://lh3.googleusercontent.com/p/AF1QipNEPMurUoX1lN74gwVRHjiHfKnkkgr31Iz5r-CJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWatRRouHekgPL13ZjUcmH4Blkm-P4cOEvETHC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfOVZIi3EGmp7-pOZPYgvhtFuDO3epYMhsQ86H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwupUCJrFEXkJoE--trO63Dl-_Gwv29N4N14t-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzXO2hrkEjzjXa7JUP7uohfxvMo8B1d4Z-AJK-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMlN6ERI7PvYXPRNW6ElVsNXGagyN9kGiq057Kx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsr3ap_Sm-Lt-dHREpMTtmMQPKQL7Lb7zv1uG_=s1600-w605-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-eko-TfKTlBMGdL5bmfBx3t-q3c_ylYF5wcGA=s1600-w800-h800"
-        ]
+      "name": "Padma Rigdzin Ling Buddhist Temple",
+      "location": {
+        "lat": 36.0563104,
+        "lng": -114.9969104
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "503 Sellers Pl, Henderson, NV 89011, USA",
+      "phone": "+1 702-514-0357",
+      "website": "https://padmarigdzinling.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP-RAVtkdStr3H7X0wTiyZaufhzp3_sqI0LWZq_=s1600-w720-h386",
+        "https://lh3.googleusercontent.com/p/AF1QipNEPMurUoX1lN74gwVRHjiHfKnkkgr31Iz5r-CJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWatRRouHekgPL13ZjUcmH4Blkm-P4cOEvETHC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfOVZIi3EGmp7-pOZPYgvhtFuDO3epYMhsQ86H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwupUCJrFEXkJoE--trO63Dl-_Gwv29N4N14t-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzXO2hrkEjzjXa7JUP7uohfxvMo8B1d4Z-AJK-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMlN6ERI7PvYXPRNW6ElVsNXGagyN9kGiq057Kx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsr3ap_Sm-Lt-dHREpMTtmMQPKQL7Lb7zv1uG_=s1600-w605-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-eko-TfKTlBMGdL5bmfBx3t-q3c_ylYF5wcGA=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJET1V2FfXyIARWbQGZmWNUwU",
+      "google_maps_url": "https://maps.google.com/?cid=383805859899552857",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4189 S Jones Blvd, Las Vegas, NV 89103, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.1128756,
-            "lng": -115.2254868
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.11422123029149,
-              "lng": -115.2240147197085
-            },
-            "southwest": {
-              "lat": 36.1115232697085,
-              "lng": -115.2267126802915
-            }
-          }
-        },
-        "international_phone_number": "+1 702-252-7339",
-        "name": "Nevada Lotus Temple",
-        "place_id": "ChIJib1hOd3GyIARMnJuZlTKvc0",
-        "url": "https://maps.google.com/?cid=14825228012218118706",
-        "website": "https://www.fgs.org.tw/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Nevada Lotus Temple",
+      "location": {
+        "lat": 36.1128756,
+        "lng": -115.2254868
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "4189 S Jones Blvd, Las Vegas, NV 89103, USA",
+      "phone": "+1 702-252-7339",
+      "website": "https://www.fgs.org.tw/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJib1hOd3GyIARMnJuZlTKvc0",
+      "google_maps_url": "https://maps.google.com/?cid=14825228012218118706",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1600 E Sahara Ave, Las Vegas, NV 89104, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.1446574,
-            "lng": -115.1299018
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.14588988029151,
-              "lng": -115.1285497197085
-            },
-            "southwest": {
-              "lat": 36.14319191970851,
-              "lng": -115.1312476802915
-            }
-          }
-        },
-        "international_phone_number": "+1 702-866-5956",
-        "name": "Kannon Temple of Las Vegas",
-        "place_id": "ChIJlcFDMoXEyIARzhFu71-Eo98",
-        "url": "https://maps.google.com/?cid=16114869439235494350",
-        "website": "http://www.nichiren-shu.org/LasVegas2/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Kannon Temple of Las Vegas",
+      "location": {
+        "lat": 36.1446574,
+        "lng": -115.1299018
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "1600 E Sahara Ave, Las Vegas, NV 89104, USA",
+      "phone": "+1 702-866-5956",
+      "website": "http://www.nichiren-shu.org/LasVegas2/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJlcFDMoXEyIARzhFu71-Eo98",
+      "google_maps_url": "https://maps.google.com/?cid=16114869439235494350",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "12970 Gilespie St, Henderson, NV 89044, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.9541889,
-            "lng": -115.1628827
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.9555378302915,
-              "lng": -115.1618361197085
-            },
-            "southwest": {
-              "lat": 35.9528398697085,
-              "lng": -115.1645340802915
-            }
-          }
-        },
-        "international_phone_number": "+1 702-558-6156",
-        "name": "Wat Nevada Dhammaram",
-        "place_id": "ChIJ3bX3-kLMyIARC5sGdLna-64",
-        "url": "https://maps.google.com/?cid=12608912071804230411",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPbwY6cc0hWsg8FRcDGpGf7brhlqDeT4M6xEfM3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPU5jCetHuyX4wClrVHONlS2pQrrXl0A5ka9oPn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXx_KONQmYamvrpOA02gxUjj3tsa6qMj7cix4d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9Na6gT4gV3NqaYQt6FwlFp-CETTO3j0sJjylH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNN-ACyAkVlSa0GXm7PKSVamdGkCQCUy32iRCKL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZ3XnBSr0TXZxjdsX4ISWEsUyMegF88r_s59te=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUK-wjE14nzkAmYgNsv1p4YDlWUvm1VBb1m2GW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFCFDunnlCqD1tTXH8ub201Y-CyPWQ6y2ULyjD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMvwPiIGGs4qEXKKJJYilkD9ozHbTxJ1ZgtvtZh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjF38Paj-Am_0Vm3sp_-sLG5v2egdInFNkVdSu=s1600-w800-h800"
-        ]
+      "name": "Wat Nevada Dhammaram",
+      "location": {
+        "lat": 35.9541889,
+        "lng": -115.1628827
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "12970 Gilespie St, Henderson, NV 89044, USA",
+      "phone": "+1 702-558-6156",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPbwY6cc0hWsg8FRcDGpGf7brhlqDeT4M6xEfM3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPU5jCetHuyX4wClrVHONlS2pQrrXl0A5ka9oPn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXx_KONQmYamvrpOA02gxUjj3tsa6qMj7cix4d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9Na6gT4gV3NqaYQt6FwlFp-CETTO3j0sJjylH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNN-ACyAkVlSa0GXm7PKSVamdGkCQCUy32iRCKL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZ3XnBSr0TXZxjdsX4ISWEsUyMegF88r_s59te=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUK-wjE14nzkAmYgNsv1p4YDlWUvm1VBb1m2GW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFCFDunnlCqD1tTXH8ub201Y-CyPWQ6y2ULyjD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMvwPiIGGs4qEXKKJJYilkD9ozHbTxJ1ZgtvtZh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjF38Paj-Am_0Vm3sp_-sLG5v2egdInFNkVdSu=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ3bX3-kLMyIARC5sGdLna-64",
+      "google_maps_url": "https://maps.google.com/?cid=12608912071804230411",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5320 Kell Ln, Las Vegas, NV 89156, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.1931999,
-            "lng": -115.0569718
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.19455508029149,
-              "lng": -115.0557903197085
-            },
-            "southwest": {
-              "lat": 36.1918571197085,
-              "lng": -115.0584882802915
-            }
-          }
-        },
-        "international_phone_number": "+1 702-437-3320",
-        "name": "Buddhaya Nandharam Temple",
-        "place_id": "ChIJK10KQvLcyIARvc8DGpyR2-4",
-        "url": "https://maps.google.com/?cid=17211510500563865533",
-        "website": "http://buddhaya-temple.jany.io/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNSjM61byL8AHMX55JwTOcE4dqP2e5gLfLk_r9c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQ8l4ad4h8a_Nc6GT8Ih6Zm_AU_PiQL_0-0la_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPH-Wh2tWpW4MT5XLf5gXkNx0fi8-f9UTPC34Wa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDKfIwk-VT4x6pk7yMSabT_vMH77exLizpdvPL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkTxL-byAK5SYv3OIMyUHpxp3pcY67r_6PhmEj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-UCFd5kE4r_uoyjoy6bo8Ir0VxhDUkUzwU61y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNu_JtPV-CV1IqXSwWjgUOzD1_Jlpei1lo-y0LF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzekmMLbhm-5QGloI7wZC8HSDhzHAEE99X8abU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1-mUU8JcU70qXfOLPSr9Zf-OCyxAwNQkTP9zn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPMvkxRYDcE3tqkevDj68rM6ZvsarXCt5Uq-D0U=s1600-w800-h800"
-        ]
+      "name": "Buddhaya Nandharam Temple",
+      "location": {
+        "lat": 36.1931999,
+        "lng": -115.0569718
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "5320 Kell Ln, Las Vegas, NV 89156, USA",
+      "phone": "+1 702-437-3320",
+      "website": "http://buddhaya-temple.jany.io/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNSjM61byL8AHMX55JwTOcE4dqP2e5gLfLk_r9c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQ8l4ad4h8a_Nc6GT8Ih6Zm_AU_PiQL_0-0la_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPH-Wh2tWpW4MT5XLf5gXkNx0fi8-f9UTPC34Wa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDKfIwk-VT4x6pk7yMSabT_vMH77exLizpdvPL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkTxL-byAK5SYv3OIMyUHpxp3pcY67r_6PhmEj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-UCFd5kE4r_uoyjoy6bo8Ir0VxhDUkUzwU61y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNu_JtPV-CV1IqXSwWjgUOzD1_Jlpei1lo-y0LF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzekmMLbhm-5QGloI7wZC8HSDhzHAEE99X8abU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1-mUU8JcU70qXfOLPSr9Zf-OCyxAwNQkTP9zn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPMvkxRYDcE3tqkevDj68rM6ZvsarXCt5Uq-D0U=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJK10KQvLcyIARvc8DGpyR2-4",
+      "google_maps_url": "https://maps.google.com/?cid=17211510500563865533",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4243 Judson Ave, Las Vegas, NV 89115, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.1990731,
-            "lng": -115.0815142
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.2005596302915,
-              "lng": -115.0801638197085
-            },
-            "southwest": {
-              "lat": 36.1978616697085,
-              "lng": -115.0828617802915
-            }
-          }
-        },
-        "international_phone_number": "+1 702-642-3237",
-        "name": "Wat Lao Khandhidramaram",
-        "place_id": "ChIJ9RZDBdrcyIARjaWWl-8p4P0",
-        "url": "https://maps.google.com/?cid=18293667795396109709",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMx3b_iqzHzBkymuShoCIh2WReGjKDo9X1TjjD9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWKXQeKIUyTOf0Mstywmcqg39BmvGSrcGIr-9A=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPtXr1Ps8vd9bRAqQHL9BHY6VlUxYdVfUinXy1d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1CELYAjJluqoVdlecRzpNbRiOZuQOISd0yGzW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVlSR2TVVRpwSSQRyau2jk0oi4cfXQ_jBY3bxU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNEPU_1YAvPt-3-q3_TuSbbukGZmDhvI2phG-Td=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNS_yPILt0slwhHdfNTahZIlUCpnAnv-YJIEgfi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHhpKE9Slo3BVRe0A1sA8JbuyEvUikW1ojtjTg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYfOpkZlNzr4ACv4VhlkehHX-9LO7BxM4n7Ezw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpMNMYj5cr9eOZqOaMTy6riEE4UgpCkDU1_HG-=s1600-w800-h800"
-        ]
+      "name": "Wat Lao Khandhidramaram",
+      "location": {
+        "lat": 36.1990731,
+        "lng": -115.0815142
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "4243 Judson Ave, Las Vegas, NV 89115, USA",
+      "phone": "+1 702-642-3237",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMx3b_iqzHzBkymuShoCIh2WReGjKDo9X1TjjD9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWKXQeKIUyTOf0Mstywmcqg39BmvGSrcGIr-9A=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPtXr1Ps8vd9bRAqQHL9BHY6VlUxYdVfUinXy1d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1CELYAjJluqoVdlecRzpNbRiOZuQOISd0yGzW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVlSR2TVVRpwSSQRyau2jk0oi4cfXQ_jBY3bxU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNEPU_1YAvPt-3-q3_TuSbbukGZmDhvI2phG-Td=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNS_yPILt0slwhHdfNTahZIlUCpnAnv-YJIEgfi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHhpKE9Slo3BVRe0A1sA8JbuyEvUikW1ojtjTg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYfOpkZlNzr4ACv4VhlkehHX-9LO7BxM4n7Ezw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpMNMYj5cr9eOZqOaMTy6riEE4UgpCkDU1_HG-=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9RZDBdrcyIARjaWWl-8p4P0",
+      "google_maps_url": "https://maps.google.com/?cid=18293667795396109709",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4660 S Eastern Ave, Las Vegas, NV 89119, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.1044247,
-            "lng": -115.1187382
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.1058679802915,
-              "lng": -115.1172931697085
-            },
-            "southwest": {
-              "lat": 36.1031700197085,
-              "lng": -115.1199911302915
-            }
-          }
-        },
-        "name": "ZEN TEMPLE LAS VEGAS",
-        "place_id": "ChIJ42hFgiLFyIARF3DJq3iJEwI",
-        "url": "https://maps.google.com/?cid=149614364004544535",
-        "website": "http://www.zentemplelv.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOql1gM0z5r_30_2LpaYvfiq7AWXqtm7oUI1HW8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpz2QnEN41DOYSu55SkdVsddoo6W6TBgwsyTFC=s1600-w600-h450",
-          "https://lh3.googleusercontent.com/p/AF1QipMEkS6nRBdkqFmX-VCHC795lhjKctqnp8anixTl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPMISVpdJ5nyct0jqCqqVviBNkU8OHgTh19uTZm=s1600-w643-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmKGdj6AfCKZC8ozrw_Lnu7pgWOeJrs4_MFxcI=s1600-w375-h252",
-          "https://lh3.googleusercontent.com/p/AF1QipNugWrTsc2wVgAo8IQOnQST7iT601jD6jxiXXWi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuGsadRUfERFG8gsJYbz5QvQyS_MJWz-Db8jrJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_NOvA9fqww8M5upxx4LXmzsYR_W-Zzsuv0cRI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoZN_ZICiA0HE2LmHDsJSZ2M5Funldfp3bGPoe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMihbTSjsSOEnB_6rO2EZu8sN52gDH8GcN6KCul=s1600-w800-h800"
-        ]
+      "name": "ZEN TEMPLE LAS VEGAS",
+      "location": {
+        "lat": 36.1044247,
+        "lng": -115.1187382
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "4660 S Eastern Ave, Las Vegas, NV 89119, USA",
+      "website": "http://www.zentemplelv.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOql1gM0z5r_30_2LpaYvfiq7AWXqtm7oUI1HW8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpz2QnEN41DOYSu55SkdVsddoo6W6TBgwsyTFC=s1600-w600-h450",
+        "https://lh3.googleusercontent.com/p/AF1QipMEkS6nRBdkqFmX-VCHC795lhjKctqnp8anixTl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPMISVpdJ5nyct0jqCqqVviBNkU8OHgTh19uTZm=s1600-w643-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmKGdj6AfCKZC8ozrw_Lnu7pgWOeJrs4_MFxcI=s1600-w375-h252",
+        "https://lh3.googleusercontent.com/p/AF1QipNugWrTsc2wVgAo8IQOnQST7iT601jD6jxiXXWi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuGsadRUfERFG8gsJYbz5QvQyS_MJWz-Db8jrJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_NOvA9fqww8M5upxx4LXmzsYR_W-Zzsuv0cRI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoZN_ZICiA0HE2LmHDsJSZ2M5Funldfp3bGPoe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMihbTSjsSOEnB_6rO2EZu8sN52gDH8GcN6KCul=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ42hFgiLFyIARF3DJq3iJEwI",
+      "google_maps_url": "https://maps.google.com/?cid=149614364004544535",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3844 Schiff Dr, Las Vegas, NV 89103, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.1249325,
-            "lng": -115.1909328
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.1262814802915,
-              "lng": -115.1895838197085
-            },
-            "southwest": {
-              "lat": 36.1235835197085,
-              "lng": -115.1922817802915
-            }
-          }
-        },
-        "international_phone_number": "+1 702-659-6507",
-        "name": "Lohan Temple",
-        "place_id": "ChIJ-bgnO6fGyIAReHb6Ao4uO_Q",
-        "url": "https://maps.google.com/?cid=17598711156350547576",
-        "website": "https://lohanscc.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMHWGdhzvpKMJ9CfLyQTTJVOtTBrlZ1G0SUugUo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxAFUtOdnghMuC6eA561FiWAaxlSMTvW4uaNHk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYAUDZkmUaqMJmQdwCuhfCq5U7t3Qze4b5yhQk=s1600-w800-h683"
-        ]
+      "name": "Lohan Temple",
+      "location": {
+        "lat": 36.1249325,
+        "lng": -115.1909328
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "3844 Schiff Dr, Las Vegas, NV 89103, USA",
+      "phone": "+1 702-659-6507",
+      "website": "https://lohanscc.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMHWGdhzvpKMJ9CfLyQTTJVOtTBrlZ1G0SUugUo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxAFUtOdnghMuC6eA561FiWAaxlSMTvW4uaNHk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYAUDZkmUaqMJmQdwCuhfCq5U7t3Qze4b5yhQk=s1600-w800-h683"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ-bgnO6fGyIAReHb6Ao4uO_Q",
+      "google_maps_url": "https://maps.google.com/?cid=17598711156350547576",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "800 Sacramento St, San Francisco, CA 94108, USA",
-        "geometry": {
-          "location": {
-            "lat": 37.79344409999999,
-            "lng": -122.4064626
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.79474673029149,
-              "lng": -122.4051057697085
-            },
-            "southwest": {
-              "lat": 37.7920487697085,
-              "lng": -122.4078037302915
-            }
-          }
-        },
-        "international_phone_number": "+1 415-421-6117",
-        "name": "Gold Mountain Monastery",
-        "place_id": "ChIJQ2bcb4uAhYAR_tJbmhESpRM",
-        "url": "https://maps.google.com/?cid=1415557524691342078",
-        "website": "http://www.goldmountainmonastery.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOuEoRRGouNMpOH1Pcef2R3On0dN4Oau59-3pdR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipME7rxeV_N-ncD1C9PPqJqMjZQkAKElNuOeDmHv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCz38l7_JW88SFU_UWRWFEy46_yToIt5LoptE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMPciYdFuUw0NsoDmknxQzXJeYykZ-S9d55zkGN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtbSt5JRIZbMbgfkqc1Qw3FiEv6RRpuit9eXQL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM88dulBGvOrIvHea6beNl6vcbR7fKO7VZN-5Xx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHeq5o0maTIZbI_LXO57Pn4LgrxBk_ep1fmTRD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAMgnZn76f4nc_nk4XR_oSq62bzV1vKXq9wBz3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_jpO1wyvLTdSD2cjULup1R2DQ8rwsZ6ZXkly0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORW2P_DfDQkg3uBlV9rP6nrshdFIT1KRA9CkI=s1600-w800-h800"
-        ]
+      "name": "Gold Mountain Monastery",
+      "location": {
+        "lat": 37.79344409999999,
+        "lng": -122.4064626
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "800 Sacramento St, San Francisco, CA 94108, USA",
+      "phone": "+1 415-421-6117",
+      "website": "http://www.goldmountainmonastery.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOuEoRRGouNMpOH1Pcef2R3On0dN4Oau59-3pdR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipME7rxeV_N-ncD1C9PPqJqMjZQkAKElNuOeDmHv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCz38l7_JW88SFU_UWRWFEy46_yToIt5LoptE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMPciYdFuUw0NsoDmknxQzXJeYykZ-S9d55zkGN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtbSt5JRIZbMbgfkqc1Qw3FiEv6RRpuit9eXQL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM88dulBGvOrIvHea6beNl6vcbR7fKO7VZN-5Xx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHeq5o0maTIZbI_LXO57Pn4LgrxBk_ep1fmTRD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAMgnZn76f4nc_nk4XR_oSq62bzV1vKXq9wBz3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_jpO1wyvLTdSD2cjULup1R2DQ8rwsZ6ZXkly0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORW2P_DfDQkg3uBlV9rP6nrshdFIT1KRA9CkI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJQ2bcb4uAhYAR_tJbmhESpRM",
+      "google_maps_url": "https://maps.google.com/?cid=1415557524691342078",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1251 Orchid Dr, Santa Barbara, CA 93111, USA",
-        "geometry": {
-          "location": {
-            "lat": 34.4207863,
-            "lng": -119.8058119
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 34.4221256302915,
-              "lng": -119.8042163697085
-            },
-            "southwest": {
-              "lat": 34.4194276697085,
-              "lng": -119.8069143302915
-            }
-          }
-        },
-        "international_phone_number": "+1 805-680-9794",
-        "name": "American Buddhist Meditation temple",
-        "place_id": "ChIJ0XxJeek_6YARdlt07UGcQnA",
-        "url": "https://maps.google.com/?cid=8089199687681465206",
-        "website": "http://www.abuddhisttemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOmlFk4Shf2i7rTeBSxwRy9mwjmOZ3TGr6rHjWz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipObBWE_6zSOeRfSlioBnsec8l0UQjjbyauApK6P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOgdc_pDycq3yTkB38U0beh2582QfjKS58C3QN0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPC7v7gMAEqbRlh6t_aLhy6zkvdNvyDXfo8e_T0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWBeu6Umj9DjGrHiFWecQfMEMGYoeiwQQZPzVI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLlN6dTkgyiO-VwdkmH7ZbG2mcYDJfMdfXUtc=s1600-w800-h800"
-        ]
+      "name": "American Buddhist Meditation temple",
+      "location": {
+        "lat": 34.4207863,
+        "lng": -119.8058119
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "1251 Orchid Dr, Santa Barbara, CA 93111, USA",
+      "phone": "+1 805-680-9794",
+      "website": "http://www.abuddhisttemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOmlFk4Shf2i7rTeBSxwRy9mwjmOZ3TGr6rHjWz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipObBWE_6zSOeRfSlioBnsec8l0UQjjbyauApK6P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOgdc_pDycq3yTkB38U0beh2582QfjKS58C3QN0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPC7v7gMAEqbRlh6t_aLhy6zkvdNvyDXfo8e_T0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWBeu6Umj9DjGrHiFWecQfMEMGYoeiwQQZPzVI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLlN6dTkgyiO-VwdkmH7ZbG2mcYDJfMdfXUtc=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ0XxJeek_6YARdlt07UGcQnA",
+      "google_maps_url": "https://maps.google.com/?cid=8089199687681465206",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4485 S Orange Ave, Fresno, CA 93725, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.6680234,
-            "lng": -119.7640722
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.66937188029149,
-              "lng": -119.7625640197085
-            },
-            "southwest": {
-              "lat": 36.66667391970849,
-              "lng": -119.7652619802915
-            }
-          }
-        },
-        "international_phone_number": "+1 559-264-5644",
-        "name": "Wat Brahmacariyakaram",
-        "place_id": "ChIJA0rruWn1lIARInIajTLnLpE",
-        "url": "https://maps.google.com/?cid=10461553188729942562",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOxPLrXiRyhlDdoQVOGdaN-ixcxqmP19_B1UgiZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNyhhRW1VCCvlWV-1QjnWKI_QJknlHSKbfL95vp=s1600-w540-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMs_YfvuIQew-CHXfDuWwvO2YPx10H5gR98A-Mf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOxChL5RgmUT0eal58YYnZ2KVozOy2CAdmegWWb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOItXtHOFoum6kArFyi1Hy7e0YjzqlQl98UQFRF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOj0AtD_H6zpwxtyVdqIvmIlcJFMlE4z5GjlabK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeC3geZ1oBygVSpEXf0r47MmC-liYTW7aj6McJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-ePfEhuINpr5iomcm9aPcBw25lo04yoWAeXD3=s1600-w800-h680",
-          "https://lh3.googleusercontent.com/p/AF1QipPJf4BXUrhOVCQmm1OgtY10NVs4gqlkNowuAnio=s1600-w800-h680",
-          "https://lh3.googleusercontent.com/p/AF1QipNTq_M6ZFEI1X8brT2jk4RgQIo4GWAyVqWCOG7T=s1600-w800-h800"
-        ]
+      "name": "Wat Brahmacariyakaram",
+      "location": {
+        "lat": 36.6680234,
+        "lng": -119.7640722
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "4485 S Orange Ave, Fresno, CA 93725, USA",
+      "phone": "+1 559-264-5644",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOxPLrXiRyhlDdoQVOGdaN-ixcxqmP19_B1UgiZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNyhhRW1VCCvlWV-1QjnWKI_QJknlHSKbfL95vp=s1600-w540-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMs_YfvuIQew-CHXfDuWwvO2YPx10H5gR98A-Mf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOxChL5RgmUT0eal58YYnZ2KVozOy2CAdmegWWb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOItXtHOFoum6kArFyi1Hy7e0YjzqlQl98UQFRF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOj0AtD_H6zpwxtyVdqIvmIlcJFMlE4z5GjlabK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeC3geZ1oBygVSpEXf0r47MmC-liYTW7aj6McJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-ePfEhuINpr5iomcm9aPcBw25lo04yoWAeXD3=s1600-w800-h680",
+        "https://lh3.googleusercontent.com/p/AF1QipPJf4BXUrhOVCQmm1OgtY10NVs4gqlkNowuAnio=s1600-w800-h680",
+        "https://lh3.googleusercontent.com/p/AF1QipNTq_M6ZFEI1X8brT2jk4RgQIo4GWAyVqWCOG7T=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA0rruWn1lIARInIajTLnLpE",
+      "google_maps_url": "https://maps.google.com/?cid=10461553188729942562",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2690 E Alluvial Ave, Fresno, CA 93720, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.8469673,
-            "lng": -119.7346732
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.8484431302915,
-              "lng": -119.7332896697085
-            },
-            "southwest": {
-              "lat": 36.8457451697085,
-              "lng": -119.7359876302915
-            }
-          }
-        },
-        "international_phone_number": "+1 559-442-4054",
-        "name": "Fresno Betsuin Buddhist Temple",
-        "place_id": "ChIJzWcg7JtglIARAb03kFBPVp4",
-        "url": "https://maps.google.com/?cid=11409393913425280257",
-        "website": "http://www.fresnobuddhisttemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMASPWnjIe87xq5Avy2TVjvv3N5VdDJiJi70764=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipObOpK3lGmrBX_HIkFIPsE9GSC9Hb6iAO0gM9pZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN7FF_Xl3rNxI33eZsJ0ktTGGQgagqZJZpvONQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCtPBsSvQekLOm8RMOaiEOvT4F0sX0Vzslh3L2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhC7bqXt5n0qOETk7NYGNIly8Gkmvv-6OGzWa8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhQ0bCby28bCIdftbYhraBnnPlmp6nFexqd7o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHv5cRwtgjfdAqh-1K3okUX8AjU2lzVtCgYzQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmP2pwb5QEvdpqM3uXiewXMQ7lOHUxsG59fZTZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsCoIDVc_QFUEISGJvozX4bEUDBvmQWk6kR_Wy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMFDc2MWYmYlnb3YLaPg7fEt0M0FKjgfd_VLlqe=s1600-w800-h800"
-        ]
+      "name": "Fresno Betsuin Buddhist Temple",
+      "location": {
+        "lat": 36.8469673,
+        "lng": -119.7346732
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "2690 E Alluvial Ave, Fresno, CA 93720, USA",
+      "phone": "+1 559-442-4054",
+      "website": "http://www.fresnobuddhisttemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMASPWnjIe87xq5Avy2TVjvv3N5VdDJiJi70764=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipObOpK3lGmrBX_HIkFIPsE9GSC9Hb6iAO0gM9pZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN7FF_Xl3rNxI33eZsJ0ktTGGQgagqZJZpvONQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCtPBsSvQekLOm8RMOaiEOvT4F0sX0Vzslh3L2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhC7bqXt5n0qOETk7NYGNIly8Gkmvv-6OGzWa8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhQ0bCby28bCIdftbYhraBnnPlmp6nFexqd7o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHv5cRwtgjfdAqh-1K3okUX8AjU2lzVtCgYzQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmP2pwb5QEvdpqM3uXiewXMQ7lOHUxsG59fZTZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsCoIDVc_QFUEISGJvozX4bEUDBvmQWk6kR_Wy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMFDc2MWYmYlnb3YLaPg7fEt0M0FKjgfd_VLlqe=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzWcg7JtglIARAb03kFBPVp4",
+      "google_maps_url": "https://maps.google.com/?cid=11409393913425280257",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "16013 Avenue 296, Visalia, CA 93292, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.3263961,
-            "lng": -119.2154098
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.32786023029149,
-              "lng": -119.2140585697085
-            },
-            "southwest": {
-              "lat": 36.32516226970849,
-              "lng": -119.2167565302915
-            }
-          }
-        },
-        "international_phone_number": "+1 559-636-3922",
-        "name": "Lao Buddhist Temple of Visalia",
-        "place_id": "ChIJ1Z43ATAwlYARoYZnW-_W3Cw",
-        "url": "https://maps.google.com/?cid=3232694956064212641",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNX6_XcyVeXERvY_sm6RD8Xpa-4VJ7zB7A1mGHo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNHqTcyKjy6Tq4Vnm-5pj_QPPV57h_0WOByfPm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGtHWkfF57fMUEMytIbfDCDIVTMPhqVh-orElZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAjZBOs6U2kNDExgbIxfEqIblz3DlDttD8b0r4=s1600-w800-h800"
-        ]
+      "name": "Lao Buddhist Temple of Visalia",
+      "location": {
+        "lat": 36.3263961,
+        "lng": -119.2154098
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "16013 Avenue 296, Visalia, CA 93292, USA",
+      "phone": "+1 559-636-3922",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNX6_XcyVeXERvY_sm6RD8Xpa-4VJ7zB7A1mGHo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNHqTcyKjy6Tq4Vnm-5pj_QPPV57h_0WOByfPm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGtHWkfF57fMUEMytIbfDCDIVTMPhqVh-orElZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAjZBOs6U2kNDExgbIxfEqIblz3DlDttD8b0r4=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1Z43ATAwlYARoYZnW-_W3Cw",
+      "google_maps_url": "https://maps.google.com/?cid=3232694956064212641",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2001 S K St, Bakersfield, CA 93304, USA",
-        "geometry": {
-          "location": {
-            "lat": 35.3364746,
-            "lng": -119.017942
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.3378249302915,
-              "lng": -119.0163877197085
-            },
-            "southwest": {
-              "lat": 35.3351269697085,
-              "lng": -119.0190856802915
-            }
-          }
-        },
-        "international_phone_number": "+1 661-397-0470",
-        "name": "Bo De Monastery - Tu Viện Bồ Đề",
-        "place_id": "ChIJVVUFpF5q6oARSP7uo6izUvo",
-        "url": "https://maps.google.com/?cid=18037676994458484296",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN_K4cndXjwHPsy_rzyumXVEY6A4A_EB3BrC8qe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYW5gJBgicpNfpAOk9k94C3NnA82ttQucqQEDJ=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipOeFbylmARDTyBCHPKWRpgxAIZJeUzqexrCl0Po=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtNLjwfqurZiQl7eVkfUg-mD7UFrFI3a1IC40t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdqKQ6JVrS6sykQyHPRa9OSWXa-YB--vvDoSem=s1600-w800-h641",
-          "https://lh3.googleusercontent.com/p/AF1QipPEK784BCjTDh8HZ6Sbzpb3C1kYxw1kOfb3PFrL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdVmUOIuu_tbAuYv_1XctdyuLNvPROYHZj_mFv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKc2Bbhw1canjAb-9piuK9JEteQNofreIV3Ajq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPypxUUNXiu9yjVLGM0_peU3OR4rKQa8TNao1mO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwWtm7-6crFnOodeojiHYZ8spm2fCo5h9jKIVf=s1600-w800-h800"
-        ]
+      "name": "Bo De Monastery - Tu Viện Bồ Đề",
+      "location": {
+        "lat": 35.3364746,
+        "lng": -119.017942
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "2001 S K St, Bakersfield, CA 93304, USA",
+      "phone": "+1 661-397-0470",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN_K4cndXjwHPsy_rzyumXVEY6A4A_EB3BrC8qe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYW5gJBgicpNfpAOk9k94C3NnA82ttQucqQEDJ=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipOeFbylmARDTyBCHPKWRpgxAIZJeUzqexrCl0Po=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtNLjwfqurZiQl7eVkfUg-mD7UFrFI3a1IC40t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdqKQ6JVrS6sykQyHPRa9OSWXa-YB--vvDoSem=s1600-w800-h641",
+        "https://lh3.googleusercontent.com/p/AF1QipPEK784BCjTDh8HZ6Sbzpb3C1kYxw1kOfb3PFrL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdVmUOIuu_tbAuYv_1XctdyuLNvPROYHZj_mFv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKc2Bbhw1canjAb-9piuK9JEteQNofreIV3Ajq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPypxUUNXiu9yjVLGM0_peU3OR4rKQa8TNao1mO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwWtm7-6crFnOodeojiHYZ8spm2fCo5h9jKIVf=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVVUFpF5q6oARSP7uo6izUvo",
+      "google_maps_url": "https://maps.google.com/?cid=18037676994458484296",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2304 McKinley Ave, Berkeley, CA 94703, USA",
-        "geometry": {
-          "location": {
-            "lat": 37.8665926,
-            "lng": -122.2738847
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.86792133029149,
-              "lng": -122.2723979197085
-            },
-            "southwest": {
-              "lat": 37.8652233697085,
-              "lng": -122.2750958802915
-            }
-          }
-        },
-        "international_phone_number": "+1 510-848-3440",
-        "name": "Berkeley Buddhist Monastery",
-        "place_id": "ChIJW7TPAZt-hYARLKKvbYchXpg",
-        "url": "https://maps.google.com/?cid=10979249807120376364",
-        "website": "http://www.berkeleymonastery.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN8VsYHnwTSqzekukHgKzxJvlJ_b8G0qfyIQ2qE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP-Qz1P42mnoywVuHwSJ-qe79sZxMn6K8dyeZ_P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhuNu2dfiYbpHYsHVZl5oMTrGblVwShhLdvfii=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMl4e4SBNIty1SmgY2hzUO6TTXthwA3z-6J0ivB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNCZ_3lxxm7sA44yRw4mhm9FOP65AaPosaM_7D=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXOOy7MW0YmjmBLW-nNHB3Y4BKKsjecPl-01RM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMiBv1E6E8WtDdstv0MtryiN_WEykTFXI0VyqD2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAJvMpu5hmAbXEATnWuiOm3BYNTj76dutvM7_d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOG9ld4iICB96NrQyDwVWAeP-VwL3s0shrKEFWs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJUjYHIZgdsd83v1er0CjweHsacUOCP8pR3IGM=s1600-w800-h800"
-        ]
+      "name": "Berkeley Buddhist Monastery",
+      "location": {
+        "lat": 37.8665926,
+        "lng": -122.2738847
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "2304 McKinley Ave, Berkeley, CA 94703, USA",
+      "phone": "+1 510-848-3440",
+      "website": "http://www.berkeleymonastery.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN8VsYHnwTSqzekukHgKzxJvlJ_b8G0qfyIQ2qE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP-Qz1P42mnoywVuHwSJ-qe79sZxMn6K8dyeZ_P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhuNu2dfiYbpHYsHVZl5oMTrGblVwShhLdvfii=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMl4e4SBNIty1SmgY2hzUO6TTXthwA3z-6J0ivB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNCZ_3lxxm7sA44yRw4mhm9FOP65AaPosaM_7D=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXOOy7MW0YmjmBLW-nNHB3Y4BKKsjecPl-01RM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMiBv1E6E8WtDdstv0MtryiN_WEykTFXI0VyqD2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAJvMpu5hmAbXEATnWuiOm3BYNTj76dutvM7_d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOG9ld4iICB96NrQyDwVWAeP-VwL3s0shrKEFWs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJUjYHIZgdsd83v1er0CjweHsacUOCP8pR3IGM=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJW7TPAZt-hYARLKKvbYchXpg",
+      "google_maps_url": "https://maps.google.com/?cid=10979249807120376364",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2503 Del Rio Dr, Stockton, CA 95204, USA",
-        "geometry": {
-          "location": {
-            "lat": 37.97634,
-            "lng": -121.338161
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.9775788802915,
-              "lng": -121.3367670197085
-            },
-            "southwest": {
-              "lat": 37.9748809197085,
-              "lng": -121.3394649802915
-            }
-          }
-        },
-        "international_phone_number": "+1 209-462-9384",
-        "name": "Middlebar Buddhist Monastery",
-        "place_id": "ChIJ14-p2M4NkIAReUQYYJDvXqs",
-        "url": "https://maps.google.com/?cid=12348570631663010937",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Middlebar Buddhist Monastery",
+      "location": {
+        "lat": 37.97634,
+        "lng": -121.338161
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "2503 Del Rio Dr, Stockton, CA 95204, USA",
+      "phone": "+1 209-462-9384",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ14-p2M4NkIAReUQYYJDvXqs",
+      "google_maps_url": "https://maps.google.com/?cid=12348570631663010937",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1910 Wagner Heights Rd, Stockton, CA 95209, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.0352354,
-            "lng": -121.336851
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.03674263029151,
-              "lng": -121.3355014197085
-            },
-            "southwest": {
-              "lat": 38.03404466970851,
-              "lng": -121.3381993802915
-            }
-          }
-        },
-        "international_phone_number": "+1 209-490-4580",
-        "name": "Paramita Buddhist Monastery (Chua Ba La Mat Da)",
-        "place_id": "ChIJm-JKUZ0LkIAR80o6mgWRBa4",
-        "url": "https://maps.google.com/?cid=12539588190731389683",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMQERNlBct-N7oq_gWGSXTU2jbdavGaQJqO_aqF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN839UfI5nEE6Eu7H4JvEV62xvSNgd9a_6-vAI1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAiNi0bCzhuCavxtA8EBrOGSlLZss0h4vXlgn_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLlWLvMKecmDyWwmRjGGSCetbYyuzvLW7wG62M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWgfU-IMqfEGAXMtW59zAJYvBGfKLK5d1zZbQk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNM5ICEar0Bjd02ihgkAfk99wzHPlkZJlY0Ua9N=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsk4CDW-MGVbZKGwrmBqIp4wOgjpi4MVowuGGT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPR30FsVe2ipDI53IoJE0PKXw916Y9mPoB50yS3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXB0WDvtv7j6yzPIQu6c8K3ex0WsWTqw2z4nGM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmSFGD7U65HL5yldxdLWw_4btMRVYQ_rc5o_TI=s1600-w800-h800"
-        ]
+      "name": "Paramita Buddhist Monastery (Chua Ba La Mat Da)",
+      "location": {
+        "lat": 38.0352354,
+        "lng": -121.336851
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "1910 Wagner Heights Rd, Stockton, CA 95209, USA",
+      "phone": "+1 209-490-4580",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMQERNlBct-N7oq_gWGSXTU2jbdavGaQJqO_aqF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN839UfI5nEE6Eu7H4JvEV62xvSNgd9a_6-vAI1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAiNi0bCzhuCavxtA8EBrOGSlLZss0h4vXlgn_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLlWLvMKecmDyWwmRjGGSCetbYyuzvLW7wG62M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWgfU-IMqfEGAXMtW59zAJYvBGfKLK5d1zZbQk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNM5ICEar0Bjd02ihgkAfk99wzHPlkZJlY0Ua9N=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsk4CDW-MGVbZKGwrmBqIp4wOgjpi4MVowuGGT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPR30FsVe2ipDI53IoJE0PKXw916Y9mPoB50yS3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXB0WDvtv7j6yzPIQu6c8K3ex0WsWTqw2z4nGM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmSFGD7U65HL5yldxdLWw_4btMRVYQ_rc5o_TI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJm-JKUZ0LkIAR80o6mgWRBa4",
+      "google_maps_url": "https://maps.google.com/?cid=12539588190731389683",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "14335 Story Rd, San Jose, CA 95127, USA",
-        "geometry": {
-          "location": {
-            "lat": 37.3593741,
-            "lng": -121.8148368
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.36063108029149,
-              "lng": -121.8133895697085
-            },
-            "southwest": {
-              "lat": 37.3579331197085,
-              "lng": -121.8160875302915
-            }
-          }
-        },
-        "international_phone_number": "+1 408-824-5696",
-        "name": "Huyen Khong Monastery",
-        "place_id": "ChIJSwSFX17Nj4AR32h54Hpv0FU",
-        "url": "https://maps.google.com/?cid=6183564861922437343",
-        "website": "http://huyenkhong.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP5QtiQj9puW_hZC1D_Brzvypu31xnKKzAkMSBj=s1600-w720-h576",
-          "https://lh3.googleusercontent.com/p/AF1QipODfr-lLcHiQn7wveHjd3lW6YOcuYRHt9KlXzMR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNEbJFWWSttle-SwbmdyqlrNe-nmZONNe9IO46V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNs6PLc83VMQKqWCgT_YYMhc13BxRHbIuG8wjP9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXd_9gMMiKJ8ZPt7oS3hlqEzYjL9W0-I9G6eLF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUHxg6fRD3PdV6xPGWjJvgByP-vd9_P-Q6-7Fm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzrUdUfhnjM2tAdm6Lh2g9Oc-okG4NBvlwKhHb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKQx6JmizxDT8z44RLd-Dgtel4BZTPKR6wLGjp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOO-_om9JRQz-cb_n6qh8ALKA-X6tiK_-6rTqiD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGg_HcxY4JRHxyYQVrhI_lza3ZsKf9nnFSZ3A2=s1600-w800-h800"
-        ]
+      "name": "Huyen Khong Monastery",
+      "location": {
+        "lat": 37.3593741,
+        "lng": -121.8148368
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "14335 Story Rd, San Jose, CA 95127, USA",
+      "phone": "+1 408-824-5696",
+      "website": "http://huyenkhong.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP5QtiQj9puW_hZC1D_Brzvypu31xnKKzAkMSBj=s1600-w720-h576",
+        "https://lh3.googleusercontent.com/p/AF1QipODfr-lLcHiQn7wveHjd3lW6YOcuYRHt9KlXzMR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNEbJFWWSttle-SwbmdyqlrNe-nmZONNe9IO46V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNs6PLc83VMQKqWCgT_YYMhc13BxRHbIuG8wjP9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXd_9gMMiKJ8ZPt7oS3hlqEzYjL9W0-I9G6eLF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUHxg6fRD3PdV6xPGWjJvgByP-vd9_P-Q6-7Fm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzrUdUfhnjM2tAdm6Lh2g9Oc-okG4NBvlwKhHb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKQx6JmizxDT8z44RLd-Dgtel4BZTPKR6wLGjp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOO-_om9JRQz-cb_n6qh8ALKA-X6tiK_-6rTqiD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGg_HcxY4JRHxyYQVrhI_lza3ZsKf9nnFSZ3A2=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJSwSFX17Nj4AR32h54Hpv0FU",
+      "google_maps_url": "https://maps.google.com/?cid=6183564861922437343",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2946 McKee Rd, San Jose, CA 95127, USA",
-        "geometry": {
-          "location": {
-            "lat": 37.3728676,
-            "lng": -121.8379364
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.3743912802915,
-              "lng": -121.8368155197085
-            },
-            "southwest": {
-              "lat": 37.3716933197085,
-              "lng": -121.8395134802915
-            }
-          }
-        },
-        "international_phone_number": "+1 408-259-8888",
-        "name": "Pao Hua Buddhist Temple",
-        "place_id": "ChIJ30uaFQrNj4ARLS72VCkCprw",
-        "url": "https://maps.google.com/?cid=13593554901806755373",
-        "website": "http://www.paohuatemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMYyELqQtqLzBbGWcYf-PbLzLs3fsZg7LBfIaWo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvzt7ZUgoEOCvqo3UE4Ak9koyXA5MvinaqR0gi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOuzriJpwZD206uidYD6mdFw1_Leff9s7h8VlX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOFrGb2_x6xjc6X2ArnZp-pDKGsngrNO6Th1Hzy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNyWl52nHR2yxTp6_rfSqZ-CHqX4BwJzhUMUZbH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWTCG1kE3NMBbFRyk4O6pN2Hgj2FwIP4EZfrQE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGf_wakdypxsoFmKcsv6MGvUPNc6325O2pZ3TC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAyHhR833csX3COyer7S6vX1LTLgC75iyQU7dx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-4NH0zeo5CTxgTQf8mJWv6gDx_HAyAFn19eDh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCaSFQDQkzhhgj-6U1nM8dqlVatBZIAjsMvAZp=s1600-w800-h800"
-        ]
+      "name": "Pao Hua Buddhist Temple",
+      "location": {
+        "lat": 37.3728676,
+        "lng": -121.8379364
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "2946 McKee Rd, San Jose, CA 95127, USA",
+      "phone": "+1 408-259-8888",
+      "website": "http://www.paohuatemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMYyELqQtqLzBbGWcYf-PbLzLs3fsZg7LBfIaWo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvzt7ZUgoEOCvqo3UE4Ak9koyXA5MvinaqR0gi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOuzriJpwZD206uidYD6mdFw1_Leff9s7h8VlX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOFrGb2_x6xjc6X2ArnZp-pDKGsngrNO6Th1Hzy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNyWl52nHR2yxTp6_rfSqZ-CHqX4BwJzhUMUZbH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWTCG1kE3NMBbFRyk4O6pN2Hgj2FwIP4EZfrQE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGf_wakdypxsoFmKcsv6MGvUPNc6325O2pZ3TC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAyHhR833csX3COyer7S6vX1LTLgC75iyQU7dx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-4NH0zeo5CTxgTQf8mJWv6gDx_HAyAFn19eDh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCaSFQDQkzhhgj-6U1nM8dqlVatBZIAjsMvAZp=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ30uaFQrNj4ARLS72VCkCprw",
+      "google_maps_url": "https://maps.google.com/?cid=13593554901806755373",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "10049 Ernst Rd, Coulterville, CA 95311, USA",
-        "geometry": {
-          "location": {
-            "lat": 37.72710499999999,
-            "lng": -120.129307
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.72799209999999,
-              "lng": -120.1272526
-            },
-            "southwest": {
-              "lat": 37.7244437,
-              "lng": -120.1299918
-            }
-          }
-        },
-        "international_phone_number": "+1 209-878-3398",
-        "name": "Vichara Monastery",
-        "place_id": "ChIJ49dz2hDTloAROa54EDd6erc",
-        "url": "https://maps.google.com/?cid=13221014033017646649",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Vichara Monastery",
+      "location": {
+        "lat": 37.72710499999999,
+        "lng": -120.129307
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "10049 Ernst Rd, Coulterville, CA 95311, USA",
+      "phone": "+1 209-878-3398",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ49dz2hDTloAROa54EDd6erc",
+      "google_maps_url": "https://maps.google.com/?cid=13221014033017646649",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "36054 Niles Blvd, Fremont, CA 94536, USA",
-        "geometry": {
-          "location": {
-            "lat": 37.58149169999999,
-            "lng": -121.9956944
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.5827525302915,
-              "lng": -121.9942782197085
-            },
-            "southwest": {
-              "lat": 37.5800545697085,
-              "lng": -121.9969761802915
-            }
-          }
-        },
-        "international_phone_number": "+1 510-790-2294",
-        "name": "Wat Buddhanusorn",
-        "place_id": "ChIJdyTpgPa_j4ARgbTNFg_i0BQ",
-        "url": "https://maps.google.com/?cid=1499947230349341825",
-        "website": "http://www.watbuddha.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPV_sydBvs0pDyvsqXW-CETWqfSHTwnUlrgMvtH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOrzNxgasur0rzgtSJ-UyvmuU4CfNUoT3Ea_mmm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPZKDfBReGJ1vKeM1_RrZhGoT7WAfaFlcD6KYj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBceLYvzSd6-3fCoieNsZKpQIDs_CmcEhlwQtF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJo5wbKPqTE6QBTTBBdoRsi38yMF7JekDAdqhA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEVrWxDyhvHb7-0dRnyy8AlqttKzROppiTmSSA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcK5vZVHgdrY8jaN-em5iiMhhxRFN5wkC3JJFS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM8Gdg_OUyMgNsZNZvwdhT0DJofH0qHq60Aw7OK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAXeBMWBfSKoSmc5ey5iUWvvufPiRml4B2AQze=s1600-w400-h300",
-          "https://lh3.googleusercontent.com/p/AF1QipMvyS3ZGhZbnzLFWmHk1_1QjUvnRTtwhy983IG3=s1600-w800-h720"
-        ]
+      "name": "Wat Buddhanusorn",
+      "location": {
+        "lat": 37.58149169999999,
+        "lng": -121.9956944
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "36054 Niles Blvd, Fremont, CA 94536, USA",
+      "phone": "+1 510-790-2294",
+      "website": "http://www.watbuddha.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPV_sydBvs0pDyvsqXW-CETWqfSHTwnUlrgMvtH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOrzNxgasur0rzgtSJ-UyvmuU4CfNUoT3Ea_mmm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPZKDfBReGJ1vKeM1_RrZhGoT7WAfaFlcD6KYj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBceLYvzSd6-3fCoieNsZKpQIDs_CmcEhlwQtF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJo5wbKPqTE6QBTTBBdoRsi38yMF7JekDAdqhA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEVrWxDyhvHb7-0dRnyy8AlqttKzROppiTmSSA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcK5vZVHgdrY8jaN-em5iiMhhxRFN5wkC3JJFS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM8Gdg_OUyMgNsZNZvwdhT0DJofH0qHq60Aw7OK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAXeBMWBfSKoSmc5ey5iUWvvufPiRml4B2AQze=s1600-w400-h300",
+        "https://lh3.googleusercontent.com/p/AF1QipMvyS3ZGhZbnzLFWmHk1_1QjUvnRTtwhy983IG3=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJdyTpgPa_j4ARgbTNFg_i0BQ",
+      "google_maps_url": "https://maps.google.com/?cid=1499947230349341825",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "200 San Bruno Ave W, San Bruno, CA 94066, USA",
-        "geometry": {
-          "location": {
-            "lat": 37.6306421,
-            "lng": -122.4128003
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.6318731302915,
-              "lng": -122.4113681697085
-            },
-            "southwest": {
-              "lat": 37.6291751697085,
-              "lng": -122.4140661302915
-            }
-          }
-        },
-        "international_phone_number": "+1 650-588-8449",
-        "name": "Yeo Lai Sah Buddhist Temple",
-        "place_id": "ChIJ1Xrvpdp5j4ARr2Afs54CRwA",
-        "url": "https://maps.google.com/?cid=19987603979722927",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNP9aHTKUhw9JrhaVE2F3xwX8n2-KLF1tZUZe8S=s1600-w800-h800"
-        ]
+      "name": "Yeo Lai Sah Buddhist Temple",
+      "location": {
+        "lat": 37.6306421,
+        "lng": -122.4128003
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "200 San Bruno Ave W, San Bruno, CA 94066, USA",
+      "phone": "+1 650-588-8449",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNP9aHTKUhw9JrhaVE2F3xwX8n2-KLF1tZUZe8S=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1Xrvpdp5j4ARr2Afs54CRwA",
+      "google_maps_url": "https://maps.google.com/?cid=19987603979722927",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "14 California St, Salinas, CA 93901, USA",
-        "geometry": {
-          "location": {
-            "lat": 36.6791227,
-            "lng": -121.6517496
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.6805022302915,
-              "lng": -121.6501874197085
-            },
-            "southwest": {
-              "lat": 36.6778042697085,
-              "lng": -121.6528853802915
-            }
-          }
-        },
-        "international_phone_number": "+1 831-424-4105",
-        "name": "Buddhist Temple of Salinas",
-        "place_id": "ChIJfdBSoMD4jYARM2LCNg3BUlE",
-        "url": "https://maps.google.com/?cid=5859958327659881011",
-        "website": "http://btsalinas.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNsWD_pCKSCsT8GXznSgZh6g7Bp3aBCV59d9gNF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOp-XeWbgOr-_Y-BKv-tlvqs02BJjhup7gO8cHy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOP26R7OTKnjjqJF0AKE6rsv4FiYtGrxIguym0V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMp06TTF5Lx73Ge-FsVd-jejzOl8gGzUpOFQuI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeeN0gMJCk992yPFSjRwrZBYjZ00t_QWMEOkgb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPf43irFe2a1L7IgJsOsoXlszZrPk12JmX8Ex6c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMg1Y5mpE5ArYHnMPExGm_-_S9apcZ6xiK5igQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2wdUGbIpc-gOxTezpNxVKyai3V9TBasEbQ1E3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkoIyO6v1b85HY3kiT1QyUfSZIVtvi12XyaNqY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMw1RIBaCCWlh6z0JMiHTTkm4Jj7_q38Ko1WW4=s1600-w800-h800"
-        ]
+      "name": "Buddhist Temple of Salinas",
+      "location": {
+        "lat": 36.6791227,
+        "lng": -121.6517496
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:38:50.926Z"
-      }
+      "address": "14 California St, Salinas, CA 93901, USA",
+      "phone": "+1 831-424-4105",
+      "website": "http://btsalinas.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNsWD_pCKSCsT8GXznSgZh6g7Bp3aBCV59d9gNF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOp-XeWbgOr-_Y-BKv-tlvqs02BJjhup7gO8cHy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOP26R7OTKnjjqJF0AKE6rsv4FiYtGrxIguym0V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMp06TTF5Lx73Ge-FsVd-jejzOl8gGzUpOFQuI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeeN0gMJCk992yPFSjRwrZBYjZ00t_QWMEOkgb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPf43irFe2a1L7IgJsOsoXlszZrPk12JmX8Ex6c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMg1Y5mpE5ArYHnMPExGm_-_S9apcZ6xiK5igQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2wdUGbIpc-gOxTezpNxVKyai3V9TBasEbQ1E3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkoIyO6v1b85HY3kiT1QyUfSZIVtvi12XyaNqY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMw1RIBaCCWlh6z0JMiHTTkm4Jj7_q38Ko1WW4=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJfdBSoMD4jYARM2LCNg3BUlE",
+      "google_maps_url": "https://maps.google.com/?cid=5859958327659881011",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

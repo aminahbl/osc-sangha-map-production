@@ -1,1603 +1,1261 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "6138 S Gallup St, Littleton, CO 80120, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.6039707,
-            "lng": -105.0013017
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.6053249802915,
-              "lng": -105.0003946197085
-            },
-            "southwest": {
-              "lat": 39.6026270197085,
-              "lng": -105.0030925802915
-            }
-          }
-        },
-        "international_phone_number": "+1 303-798-4176",
-        "name": "Carmelite Monastery- Discalced Carmelite Nuns of Colorado",
-        "place_id": "ChIJRRd2XLqBbIcRLzU04h9x_KQ",
-        "url": "https://maps.google.com/?cid=11888501498104263983",
-        "website": "https://carmelites.denverparish.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOdhSKAL0vY15seIXUwiO7vxfjolkqOOUbnKVyB=s1600-w540-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOoXZHO1caaLwtr9O78FYsE5th_ILAIZfrcnFwq=s1600-w540-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMWA-_WE2CsstTIP5nxKXGiNER4vr83dZVVH7Ey=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZZJqtY6Hxf8M4obKIHaJKBMHN7I7u08drx6JY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIwYeUeaGPapz7e0gkhWWSQuehUabA8D2hHebT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5SpUOXPBTmNqNcCW37nVpKfS4k8YGQz4MrdSv=s1600-w540-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPqRfNKOoym3vO8CvecoipX-7bB2PpHS6eQLZjt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMPZYO2ZkJS1WQC-wYVIqCC_JdrvhadGJ0e6BXA=s1600-w800-h800"
-        ]
+      "name": "Carmelite Monastery- Discalced Carmelite Nuns of Colorado",
+      "location": {
+        "lat": 39.6039707,
+        "lng": -105.0013017
       },
-      "meta": {
-        "category": "remove",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "6138 S Gallup St, Littleton, CO 80120, USA",
+      "phone": "+1 303-798-4176",
+      "website": "https://carmelites.denverparish.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOdhSKAL0vY15seIXUwiO7vxfjolkqOOUbnKVyB=s1600-w540-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOoXZHO1caaLwtr9O78FYsE5th_ILAIZfrcnFwq=s1600-w540-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMWA-_WE2CsstTIP5nxKXGiNER4vr83dZVVH7Ey=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZZJqtY6Hxf8M4obKIHaJKBMHN7I7u08drx6JY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIwYeUeaGPapz7e0gkhWWSQuehUabA8D2hHebT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5SpUOXPBTmNqNcCW37nVpKfS4k8YGQz4MrdSv=s1600-w540-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPqRfNKOoym3vO8CvecoipX-7bB2PpHS6eQLZjt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMPZYO2ZkJS1WQC-wYVIqCC_JdrvhadGJ0e6BXA=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJRRd2XLqBbIcRLzU04h9x_KQ",
+      "google_maps_url": "https://maps.google.com/?cid=11888501498104263983",
+      "category": "remove",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1495 S Ridge Rd, Castle Rock, CO 80104, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.340666,
-            "lng": -104.817064
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.3419803802915,
-              "lng": -104.8143784
-            },
-            "southwest": {
-              "lat": 39.3392824197085,
-              "lng": -104.8179592
-            }
-          }
-        },
-        "international_phone_number": "+1 303-898-5514",
-        "name": "Sri Venkateswara Swamy Temple of Colorado (SV Temple of Colorado)",
-        "place_id": "ChIJTeuaM76ZbIcRcbYMw4-Cd0M",
-        "url": "https://maps.google.com/?cid=4861497876734064241",
-        "website": "http://www.svtempleco.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO9flovNVL1rCvOTvN-OmlHaW5XGF-yK1UfIVGy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNL8qQe6MmF59NspCBuByD2Op1AK4Z-ho0TKMCw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqLs1P4G2HVL2LZ5IsSxRzK2rvyk6RaVWjgNa5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMz8wca-70Vybgq5xU1WfrTNVVVlUtH7CkCGAQi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwpKa1FARK5GWJP1YH7i5Aula08RvYii86fWOC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwn3t1_40ZEVB_MCDRlA8AP-SeC-bH_ALq2Awp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQnc5pddmFeE6CDfbWoa3kZLPGVqzjAgCobrLK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNU0zAkdH3KQFyTDqfu3Jtrmf-uhd9xIvKCqjhe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPU9N0wPZKb4aA3pvY7Desze-tKM-zMtFIRsowI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMajHOQGA_yZx2HKes71xw8FB5esm7nx7AqXI7I=s1600-w800-h800"
-        ]
+      "name": "Sri Venkateswara Swamy Temple of Colorado (SV Temple of Colorado)",
+      "location": {
+        "lat": 39.340666,
+        "lng": -104.817064
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "1495 S Ridge Rd, Castle Rock, CO 80104, USA",
+      "phone": "+1 303-898-5514",
+      "website": "http://www.svtempleco.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO9flovNVL1rCvOTvN-OmlHaW5XGF-yK1UfIVGy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNL8qQe6MmF59NspCBuByD2Op1AK4Z-ho0TKMCw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqLs1P4G2HVL2LZ5IsSxRzK2rvyk6RaVWjgNa5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMz8wca-70Vybgq5xU1WfrTNVVVlUtH7CkCGAQi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwpKa1FARK5GWJP1YH7i5Aula08RvYii86fWOC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwn3t1_40ZEVB_MCDRlA8AP-SeC-bH_ALq2Awp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQnc5pddmFeE6CDfbWoa3kZLPGVqzjAgCobrLK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNU0zAkdH3KQFyTDqfu3Jtrmf-uhd9xIvKCqjhe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPU9N0wPZKb4aA3pvY7Desze-tKM-zMtFIRsowI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMajHOQGA_yZx2HKes71xw8FB5esm7nx7AqXI7I=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTeuaM76ZbIcRcbYMw4-Cd0M",
+      "google_maps_url": "https://maps.google.com/?cid=4861497876734064241",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "707 W 47th St, Kansas City, MO 64112, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.0420863,
-            "lng": -94.5952439
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.0435639302915,
-              "lng": -94.5938194197085
-            },
-            "southwest": {
-              "lat": 39.04086596970851,
-              "lng": -94.5965173802915
-            }
-          }
-        },
-        "international_phone_number": "+1 816-994-8015",
-        "name": "Temple Buddhist Center",
-        "place_id": "ChIJB3i6x7fvwIcRAY4KRc5hRLo",
-        "url": "https://maps.google.com/?cid=13421960328020397569",
-        "website": "http://www.templebuddhistcenter.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO_gLZVr1wQ9q-IAaXLEPOsQchDH54-56lTIkqk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPF6vtPEdq3ZZivMV1xEeFnpvl5865BZRQoHYxg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGm3QEhKACilw41FGqp_V7Y9kP3--buIsJlDu2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmpB6lBK0MAhcgPHSKcDOR6nJwGFs4cbDBgTz7=s1600-w674-h405",
-          "https://lh3.googleusercontent.com/p/AF1QipPo5UoH6YE1DJ76IjMIyvRXe4QLocRtUaQ7GtmB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMe8ePtHmFyvT4rUYxqGdFu5XUHKqi_hBU0JOZ_=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORGhGn8_U18LvtC3j2CBJCRAPI1bkZy4RHdg1M=s1600-w800-h474",
-          "https://lh3.googleusercontent.com/p/AF1QipO60NVAn8VFr16WR757-W1i4RA7Jk9AOsjXd7x6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZpkdRg-W07nvSTIbEE2v0Q5Vi08DuggbtF78i=s1600-w800-h502",
-          "https://lh3.googleusercontent.com/p/AF1QipMnAZVy5trhj47Fev4xTdnKj7EJv6bjW6DF7uEM=s1600-w800-h800"
-        ]
+      "name": "Temple Buddhist Center",
+      "location": {
+        "lat": 39.0420863,
+        "lng": -94.5952439
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "707 W 47th St, Kansas City, MO 64112, USA",
+      "phone": "+1 816-994-8015",
+      "website": "http://www.templebuddhistcenter.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO_gLZVr1wQ9q-IAaXLEPOsQchDH54-56lTIkqk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPF6vtPEdq3ZZivMV1xEeFnpvl5865BZRQoHYxg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGm3QEhKACilw41FGqp_V7Y9kP3--buIsJlDu2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmpB6lBK0MAhcgPHSKcDOR6nJwGFs4cbDBgTz7=s1600-w674-h405",
+        "https://lh3.googleusercontent.com/p/AF1QipPo5UoH6YE1DJ76IjMIyvRXe4QLocRtUaQ7GtmB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMe8ePtHmFyvT4rUYxqGdFu5XUHKqi_hBU0JOZ_=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORGhGn8_U18LvtC3j2CBJCRAPI1bkZy4RHdg1M=s1600-w800-h474",
+        "https://lh3.googleusercontent.com/p/AF1QipO60NVAn8VFr16WR757-W1i4RA7Jk9AOsjXd7x6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZpkdRg-W07nvSTIbEE2v0Q5Vi08DuggbtF78i=s1600-w800-h502",
+        "https://lh3.googleusercontent.com/p/AF1QipMnAZVy5trhj47Fev4xTdnKj7EJv6bjW6DF7uEM=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJB3i6x7fvwIcRAY4KRc5hRLo",
+      "google_maps_url": "https://maps.google.com/?cid=13421960328020397569",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "13850 State Ave, Bonner Springs, KS 66012, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.1189285,
-            "lng": -94.90046290000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.1199999802915,
-              "lng": -94.8997080197085
-            },
-            "southwest": {
-              "lat": 39.1173020197085,
-              "lng": -94.90240598029152
-            }
-          }
-        },
-        "international_phone_number": "+1 913-220-9043",
-        "name": "Wat Lao of Kansas City",
-        "place_id": "ChIJhc9n2fOFwIcR_fLX_wwIrl0",
-        "url": "https://maps.google.com/?cid=6750341743399924477",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNt8GhIMW7_V9F6lO_Ge_RNLmsPLunx0PiqS-Bb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO78bgI-B9YiLPyIY1Tb4HIobYCXDIxw0SKrJoW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBZyd3dpnQcvoV8Gfnck7o7yj14oPaaPKpEVuc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcTcV4c243iswhxqMcSunNDICy4SFUuVyIV9qp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeP2_zlEWNIA8qH-GVlhUv8d-jhWIL-WfxYBNo=s1600-w800-h800"
-        ]
+      "name": "Wat Lao of Kansas City",
+      "location": {
+        "lat": 39.1189285,
+        "lng": -94.90046290000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "13850 State Ave, Bonner Springs, KS 66012, USA",
+      "phone": "+1 913-220-9043",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNt8GhIMW7_V9F6lO_Ge_RNLmsPLunx0PiqS-Bb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO78bgI-B9YiLPyIY1Tb4HIobYCXDIxw0SKrJoW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBZyd3dpnQcvoV8Gfnck7o7yj14oPaaPKpEVuc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcTcV4c243iswhxqMcSunNDICy4SFUuVyIV9qp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeP2_zlEWNIA8qH-GVlhUv8d-jhWIL-WfxYBNo=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJhc9n2fOFwIcR_fLX_wwIrl0",
+      "google_maps_url": "https://maps.google.com/?cid=6750341743399924477",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5090 NE Chouteau Dr, Kansas City, MO 64119, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.1855433,
-            "lng": -94.5432419
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.1866866802915,
-              "lng": -94.54188096970849
-            },
-            "southwest": {
-              "lat": 39.1839887197085,
-              "lng": -94.54457893029151
-            }
-          }
-        },
-        "international_phone_number": "+1 816-454-4996",
-        "name": "Pho Hien Temple",
-        "place_id": "ChIJFXjaJsr5wIcRIqSjfAtvAUk",
-        "url": "https://maps.google.com/?cid=5260607934871872546",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN8eu0nexHX-PKNNCT4SIzDHWI1GrFUGwsZeek5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPl_OPgEe-cS-A1J5XSjAUrSLuc6Eb7knFKeIXV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN7cCkda9KWbpYrtS_X1zERNZEZiWwGCyFl7olV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJeyHZowbnr868iQFFk4Z-XqhcfAFmt1Hx_-LD=s1600-w800-h800"
-        ]
+      "name": "Pho Hien Temple",
+      "location": {
+        "lat": 39.1855433,
+        "lng": -94.5432419
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "5090 NE Chouteau Dr, Kansas City, MO 64119, USA",
+      "phone": "+1 816-454-4996",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN8eu0nexHX-PKNNCT4SIzDHWI1GrFUGwsZeek5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPl_OPgEe-cS-A1J5XSjAUrSLuc6Eb7knFKeIXV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN7cCkda9KWbpYrtS_X1zERNZEZiWwGCyFl7olV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJeyHZowbnr868iQFFk4Z-XqhcfAFmt1Hx_-LD=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJFXjaJsr5wIcRIqSjfAtvAUk",
+      "google_maps_url": "https://maps.google.com/?cid=5260607934871872546",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3812 Fort St, Omaha, NE 68111, USA",
-        "geometry": {
-          "location": {
-            "lat": 41.307147,
-            "lng": -95.96975599999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.3082531302915,
-              "lng": -95.96839331970848
-            },
-            "southwest": {
-              "lat": 41.30555516970851,
-              "lng": -95.97109128029149
-            }
-          }
-        },
-        "international_phone_number": "+1 402-290-9852",
-        "name": "Quoc An Buddhist Temple",
-        "place_id": "ChIJy_I6KZORk4cRd2O6ahpQq20",
-        "url": "https://maps.google.com/?cid=7902498045541639031",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNNAESdCiV2fze4omP_-UMtstveJxkwGfxhoEfx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMO6Uu4vxYemtz-6ooOZ0RDPuisqfmyuSqD-wLo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRtyDyU-4wCR1SzEyyLSRX4VWRgzYIjl_vmKtX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0FTlkFZ5nZH_t-ku7tAWEXGHjwG1nyYW0bjA1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBk6g5UOgHXRsaI-gqenGptbUrtRo5kuSqujhz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNQ2duIhicFJFvdsaLVUqUdUjM61TcTA03piH_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3cKsheDn2jJmtN8dMN58SNilAPJKxaV66vZy9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqNa0qaItLJIok0bMDqPqdztvES78mtJ1kV2B_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNxMnximfAs73NHK94U_qjczEPl_WHy__Tk3QH5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZvP0uVBLHQomC4hoNoamzPYs-RpkfY2A6fSTl=s1600-w800-h800"
-        ]
+      "name": "Quoc An Buddhist Temple",
+      "location": {
+        "lat": 41.307147,
+        "lng": -95.96975599999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "3812 Fort St, Omaha, NE 68111, USA",
+      "phone": "+1 402-290-9852",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNNAESdCiV2fze4omP_-UMtstveJxkwGfxhoEfx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMO6Uu4vxYemtz-6ooOZ0RDPuisqfmyuSqD-wLo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRtyDyU-4wCR1SzEyyLSRX4VWRgzYIjl_vmKtX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0FTlkFZ5nZH_t-ku7tAWEXGHjwG1nyYW0bjA1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBk6g5UOgHXRsaI-gqenGptbUrtRo5kuSqujhz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNQ2duIhicFJFvdsaLVUqUdUjM61TcTA03piH_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3cKsheDn2jJmtN8dMN58SNilAPJKxaV66vZy9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqNa0qaItLJIok0bMDqPqdztvES78mtJ1kV2B_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNxMnximfAs73NHK94U_qjczEPl_WHy__Tk3QH5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZvP0uVBLHQomC4hoNoamzPYs-RpkfY2A6fSTl=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJy_I6KZORk4cRd2O6ahpQq20",
+      "google_maps_url": "https://maps.google.com/?cid=7902498045541639031",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "707 W 47th St, Kansas City, MO 64112, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.0421855,
-            "lng": -94.59507699999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.04361353029149,
-              "lng": -94.59373911970849
-            },
-            "southwest": {
-              "lat": 39.0409155697085,
-              "lng": -94.59643708029151
-            }
-          }
-        },
-        "international_phone_number": "+1 816-561-4466",
-        "name": "Unity Temple on the Plaza",
-        "place_id": "ChIJB3i6x7fvwIcRLNmZIqpWC_o",
-        "url": "https://maps.google.com/?cid=18017590022950738220",
-        "website": "http://www.unitytemple.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPRd3SadcYPbE_45H7KV-5YZzQrIuU4tz-Q242h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWJ5WOvT7jbZcK4CN3t4NnFvylUzBA7ljJQgQi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6hNd2iP3HLbz4IySiBiP71zHayaJh9yhNoHPN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1_FJSiwdQjoz93J6h1o_La5W9ESVN7lxUkI0X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWcNzWrVUp9jS50Gfumg8chCCejboQUw8uhWHN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMD1EU7PSg-WxU8RkQuAgFOBZPNl712wskUsBSj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNknufvYt3qkm9rDlYZgkCmFqbNLQpDkj7zwyL-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvcDpPQRc6to1P4bDF_cTV-Jp-U9dfhadeoXMt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0XtXcxPhBYFzgqMTAp1glCi-4Vt2Rapg0A0mE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcpUSSSB_HtrcEH1VH9p9hdm7CAuuZyv0wLs-m=s1600-w800-h800"
-        ]
+      "name": "Unity Temple on the Plaza",
+      "location": {
+        "lat": 39.0421855,
+        "lng": -94.59507699999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "707 W 47th St, Kansas City, MO 64112, USA",
+      "phone": "+1 816-561-4466",
+      "website": "http://www.unitytemple.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPRd3SadcYPbE_45H7KV-5YZzQrIuU4tz-Q242h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWJ5WOvT7jbZcK4CN3t4NnFvylUzBA7ljJQgQi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6hNd2iP3HLbz4IySiBiP71zHayaJh9yhNoHPN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1_FJSiwdQjoz93J6h1o_La5W9ESVN7lxUkI0X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWcNzWrVUp9jS50Gfumg8chCCejboQUw8uhWHN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMD1EU7PSg-WxU8RkQuAgFOBZPNl712wskUsBSj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNknufvYt3qkm9rDlYZgkCmFqbNLQpDkj7zwyL-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvcDpPQRc6to1P4bDF_cTV-Jp-U9dfhadeoXMt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0XtXcxPhBYFzgqMTAp1glCi-4Vt2Rapg0A0mE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcpUSSSB_HtrcEH1VH9p9hdm7CAuuZyv0wLs-m=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJB3i6x7fvwIcRLNmZIqpWC_o",
+      "google_maps_url": "https://maps.google.com/?cid=18017590022950738220",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "871 Plank Rd, Mt Tremper, NY 12457, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.048224,
-            "lng": -74.277209
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.0494927302915,
-              "lng": -74.2761179197085
-            },
-            "southwest": {
-              "lat": 42.04679476970851,
-              "lng": -74.27881588029152
-            }
-          }
-        },
-        "international_phone_number": "+1 845-688-2228",
-        "name": "Zen Mountain Monastery",
-        "place_id": "ChIJBSMlrOL-3IkRoyqIEFESFwc",
-        "url": "https://maps.google.com/?cid=510897222108850851",
-        "website": "http://zmm.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN5H59qCEL5pFRo0hn5lAhGGZnE515eWOV-egZl=s1600-w500-h333",
-          "https://lh3.googleusercontent.com/p/AF1QipN04_DxUmpScj8zpyJe3G8HwcooCm9BHQV4njjb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPbz9wJrkPySXp_8DV3tPoZvDT1VUCwp9TPx0J_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMogvRFhjyR3CEObRN0tBjTjovMSRQS_QVoe558=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOB8Pmg39z3tJKzOijtW6zNUwFqBIPCieIUEOz9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMo6RSuGueu6MLCr7WME2QOyBSzmkmvcLvRfYZZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHiqHYDVV2L2ED5cTxI8IYaYq37HrDjlhftwCj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM5e8zNbM1Y8n0dg6QaTuCh9SnjOlE0DLsFqPHa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNHks8MMOhWrD1q0PYgrdGzjKcSP2q9-yePPRvB=s1600-w800-h800"
-        ]
+      "name": "Zen Mountain Monastery",
+      "location": {
+        "lat": 42.048224,
+        "lng": -74.277209
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "871 Plank Rd, Mt Tremper, NY 12457, USA",
+      "phone": "+1 845-688-2228",
+      "website": "http://zmm.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN5H59qCEL5pFRo0hn5lAhGGZnE515eWOV-egZl=s1600-w500-h333",
+        "https://lh3.googleusercontent.com/p/AF1QipN04_DxUmpScj8zpyJe3G8HwcooCm9BHQV4njjb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPbz9wJrkPySXp_8DV3tPoZvDT1VUCwp9TPx0J_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMogvRFhjyR3CEObRN0tBjTjovMSRQS_QVoe558=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOB8Pmg39z3tJKzOijtW6zNUwFqBIPCieIUEOz9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMo6RSuGueu6MLCr7WME2QOyBSzmkmvcLvRfYZZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHiqHYDVV2L2ED5cTxI8IYaYq37HrDjlhftwCj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM5e8zNbM1Y8n0dg6QaTuCh9SnjOlE0DLsFqPHa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNHks8MMOhWrD1q0PYgrdGzjKcSP2q9-yePPRvB=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJBSMlrOL-3IkRoyqIEFESFwc",
+      "google_maps_url": "https://maps.google.com/?cid=510897222108850851",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "9601 Seven Locks Rd, Bethesda, MD 20817, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.0138212,
-            "lng": -77.1598145
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.0151647302915,
-              "lng": -77.15856856970849
-            },
-            "southwest": {
-              "lat": 39.0124667697085,
-              "lng": -77.1612665302915
-            }
-          }
-        },
-        "name": "Avatamsaka Vihara Buddhist Monastery",
-        "place_id": "ChIJ_bp4ynrLt4kRl8tXF5d7vjw",
-        "url": "https://maps.google.com/?cid=4377071776712608663",
-        "website": "http://www.avatamsakavihara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Avatamsaka Vihara Buddhist Monastery",
+      "location": {
+        "lat": 39.0138212,
+        "lng": -77.1598145
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "9601 Seven Locks Rd, Bethesda, MD 20817, USA",
+      "website": "http://www.avatamsakavihara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_bp4ynrLt4kRl8tXF5d7vjw",
+      "google_maps_url": "https://maps.google.com/?cid=4377071776712608663",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "9601 Seven Locks Rd, Bethesda, MD 20817, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.0137876,
-            "lng": -77.1596878
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.0151278302915,
-              "lng": -77.15850346970848
-            },
-            "southwest": {
-              "lat": 39.0124298697085,
-              "lng": -77.1612014302915
-            }
-          }
-        },
-        "international_phone_number": "+1 301-469-8300",
-        "name": "Avatamsaka Vihara",
-        "place_id": "ChIJDer2tXrLt4kRnFX3-esYeK0",
-        "url": "https://maps.google.com/?cid=12499768167556928924",
-        "website": "http://www.avatamsakavihara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPIDh1rB_M4Tyt7kVSb0LEesK56_oQ7aTV8mdxe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNg5xUU3msRh05DXyGX0P-_xb5Yd0E3ECtyIorY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPr8VhrRuqxOwa94ucC4PMxFbYK8mMJbPjEGGOQ=s1600-w800-h800"
-        ]
+      "name": "Avatamsaka Vihara",
+      "location": {
+        "lat": 39.0137876,
+        "lng": -77.1596878
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "9601 Seven Locks Rd, Bethesda, MD 20817, USA",
+      "phone": "+1 301-469-8300",
+      "website": "http://www.avatamsakavihara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPIDh1rB_M4Tyt7kVSb0LEesK56_oQ7aTV8mdxe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNg5xUU3msRh05DXyGX0P-_xb5Yd0E3ECtyIorY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPr8VhrRuqxOwa94ucC4PMxFbYK8mMJbPjEGGOQ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJDer2tXrLt4kRnFX3-esYeK0",
+      "google_maps_url": "https://maps.google.com/?cid=12499768167556928924",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2101 James Madison Hwy, Haymarket, VA 20169, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.914669,
-            "lng": -77.6264648
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.91609048029149,
-              "lng": -77.6257371
-            },
-            "southwest": {
-              "lat": 38.9133925197085,
-              "lng": -77.6286479
-            }
-          }
-        },
-        "international_phone_number": "+1 571-261-2408",
-        "name": "Auspicious Cloud Monastery",
-        "place_id": "ChIJ_3pfKtxrtokRNcLvr59c0TE",
-        "url": "https://maps.google.com/?cid=3589752218912277045",
-        "website": "http://tuongvan.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNktwZLGD4cIG_Oh11HdpSSck0tl_riW1o-vzTK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMb_IFiukB3hi_LW1Juz6O3fgCxa7u8jB3b2Ksl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOk-GBTcUWA37jmkV14YhXld3_VyqqdTRGQKjHv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNLi8FB8Q6XxVtUwCL4ebjad8STydpua1LosXHp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTwex-5fN5BnWvsKiZD6SYYOfO25NlXpRSjTMU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNpB54u7iGuOXXI_SsZYps2GlLNFF0zanwdWHXX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUG70Mi0kGJtrH2J_85BNStm-7VB4pkeMCukXX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWojwVUdvNzh94cmgvF1WTkY9pYi_BaQ8yhjtS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONuNCgwyusASED0TFDhkDfFDNJa54xoSAniOwC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNfTxg48V513FHvdxMsE6o8dC08hCNQ3knPPXla=s1600-w800-h800"
-        ]
+      "name": "Auspicious Cloud Monastery",
+      "location": {
+        "lat": 38.914669,
+        "lng": -77.6264648
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "2101 James Madison Hwy, Haymarket, VA 20169, USA",
+      "phone": "+1 571-261-2408",
+      "website": "http://tuongvan.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNktwZLGD4cIG_Oh11HdpSSck0tl_riW1o-vzTK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMb_IFiukB3hi_LW1Juz6O3fgCxa7u8jB3b2Ksl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOk-GBTcUWA37jmkV14YhXld3_VyqqdTRGQKjHv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNLi8FB8Q6XxVtUwCL4ebjad8STydpua1LosXHp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTwex-5fN5BnWvsKiZD6SYYOfO25NlXpRSjTMU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNpB54u7iGuOXXI_SsZYps2GlLNFF0zanwdWHXX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUG70Mi0kGJtrH2J_85BNStm-7VB4pkeMCukXX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWojwVUdvNzh94cmgvF1WTkY9pYi_BaQ8yhjtS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONuNCgwyusASED0TFDhkDfFDNJa54xoSAniOwC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNfTxg48V513FHvdxMsE6o8dC08hCNQ3knPPXla=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_3pfKtxrtokRNcLvr59c0TE",
+      "google_maps_url": "https://maps.google.com/?cid=3589752218912277045",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "24121 Old Hundred Rd, Dickerson, MD 20842, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.2527344,
-            "lng": -77.3445246
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.2541189302915,
-              "lng": -77.34362684999999
-            },
-            "southwest": {
-              "lat": 39.25142096970851,
-              "lng": -77.34721784999999
-            }
-          }
-        },
-        "name": "Buddhist Meditation Center, Maryland - Yadana Aung Monastery",
-        "place_id": "ChIJP3-GEQkptokRx26R9c0FKZw",
-        "url": "https://maps.google.com/?cid=11252531526108278471",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN-RiD3V_XmWxlfY6xhzl4C36RONXo0KPXdinZr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOSch6HaIdHbhkSE37Xhds0spyN4P7-2YhtRnfN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwogJz9a4DOqRXCvom0qExshW_eFZFOsrIyYq_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNh5mJkDDwH6kB1oZZ08CTCoAfvlz_QYAvWf-SQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXyCIV0EpVjeg0Z-IBwamtr_loqeW63FKfW38e=s1600-w800-h800"
-        ]
+      "name": "Buddhist Meditation Center, Maryland - Yadana Aung Monastery",
+      "location": {
+        "lat": 39.2527344,
+        "lng": -77.3445246
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "24121 Old Hundred Rd, Dickerson, MD 20842, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN-RiD3V_XmWxlfY6xhzl4C36RONXo0KPXdinZr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOSch6HaIdHbhkSE37Xhds0spyN4P7-2YhtRnfN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwogJz9a4DOqRXCvom0qExshW_eFZFOsrIyYq_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNh5mJkDDwH6kB1oZZ08CTCoAfvlz_QYAvWf-SQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXyCIV0EpVjeg0Z-IBwamtr_loqeW63FKfW38e=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJP3-GEQkptokRx26R9c0FKZw",
+      "google_maps_url": "https://maps.google.com/?cid=11252531526108278471",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3043 Catlett Rd, Catlett, VA 20119, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.67772599999999,
-            "lng": -77.62186899999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.6789573802915,
-              "lng": -77.62028206970848
-            },
-            "southwest": {
-              "lat": 38.67625941970851,
-              "lng": -77.6229800302915
-            }
-          }
-        },
-        "international_phone_number": "+1 540-788-4968",
-        "name": "Wat Lao Buddhavong",
-        "place_id": "ChIJKz7Tg8ZhtokRqLQDHMfQWrs",
-        "url": "https://maps.google.com/?cid=13500332386583557288",
-        "website": "http://wat-lao-buddhavong.poi.place/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPFmaRE3j2ADERLGWlzYPMGfsKndg7_Vao6AKuP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN7TprsIBCFlaa6etPbMyo0VQ8fkNveRiJfRSPF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9LPQ54f_3aPRr6ae_H93QR7dg07m2la753_BQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPP_X6MWyQRIX5-Hr3e3FT8JSjmzuNhIcf1fL8h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOsx_ZgvQGSbvniyxJHxggnrxWOqXUrmFLyQS-7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeUFIPEQnhpK9-hjgPnOzdGEASWSQmaeKEQSii=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4CSG8xHldMNXEk3l5YCB3KLllPJ9-OWeRUNir=s1600-w800-h533",
-          "https://lh3.googleusercontent.com/p/AF1QipM4hUPk2Bly6Bv4YLtJJVC17LROYhFz9eata-1A=s1600-w800-h533",
-          "https://lh3.googleusercontent.com/p/AF1QipOB2ccI6J8oS7dvpbEQ-8Mc4MQGPcV1ixTLpO8B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpKf-s2EqgMC5LSAzuEUQvAAq78MBFuZvB1bly=s1600-w800-h800"
-        ]
+      "name": "Wat Lao Buddhavong",
+      "location": {
+        "lat": 38.67772599999999,
+        "lng": -77.62186899999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "3043 Catlett Rd, Catlett, VA 20119, USA",
+      "phone": "+1 540-788-4968",
+      "website": "http://wat-lao-buddhavong.poi.place/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPFmaRE3j2ADERLGWlzYPMGfsKndg7_Vao6AKuP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN7TprsIBCFlaa6etPbMyo0VQ8fkNveRiJfRSPF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9LPQ54f_3aPRr6ae_H93QR7dg07m2la753_BQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPP_X6MWyQRIX5-Hr3e3FT8JSjmzuNhIcf1fL8h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOsx_ZgvQGSbvniyxJHxggnrxWOqXUrmFLyQS-7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeUFIPEQnhpK9-hjgPnOzdGEASWSQmaeKEQSii=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4CSG8xHldMNXEk3l5YCB3KLllPJ9-OWeRUNir=s1600-w800-h533",
+        "https://lh3.googleusercontent.com/p/AF1QipM4hUPk2Bly6Bv4YLtJJVC17LROYhFz9eata-1A=s1600-w800-h533",
+        "https://lh3.googleusercontent.com/p/AF1QipOB2ccI6J8oS7dvpbEQ-8Mc4MQGPcV1ixTLpO8B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpKf-s2EqgMC5LSAzuEUQvAAq78MBFuZvB1bly=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJKz7Tg8ZhtokRqLQDHMfQWrs",
+      "google_maps_url": "https://maps.google.com/?cid=13500332386583557288",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "6310 Manor Woods Rd, Frederick, MD 21703, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.3362239,
-            "lng": -77.43961929999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.33756773029149,
-              "lng": -77.43823376970849
-            },
-            "southwest": {
-              "lat": 39.3348697697085,
-              "lng": -77.4409317302915
-            }
-          }
-        },
-        "international_phone_number": "+1 301-792-1095",
-        "name": "​Xá Lợi Temple",
-        "place_id": "ChIJjUrm3-PYyYkRdczk6G_pQ9Q",
-        "url": "https://maps.google.com/?cid=15295325426338286709",
-        "website": "http://www.chuaxaloi.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMgx8Q-paKUvI8ESoPBf98C7A0N1-UJDaoRr9I6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN68L4-L8X7MOt72VZaiHNwwTS-85dPOPgKaVFk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgYkF0kNN_yRNnTANxcFzMMSHF9G6i6M76Yt7v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBNRUN3Xv2lU4LKwLHmu_YVaKHL1pMDivaihRT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOO3r-Couj9OnamOtIMoBLyvr5bXdR74h3zhziY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUGAFp9yEfhwklJZTS1n87H4HV7b9pR8jiOWxP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJJnIJz3ICRD02GDvam0ongdtsKP9DUV2Tyw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOPUo9F9HSjVf6PdUbQWujjVOn5WIbNXEC45H1w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMTS1msbzrUitj8oFvJIzX6cLNw-0kzVheFhTE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9M1BIVJqK71fO9pU8lprTqchP6ZmvshU9DqP9=s1600-w800-h800"
-        ]
+      "name": "​Xá Lợi Temple",
+      "location": {
+        "lat": 39.3362239,
+        "lng": -77.43961929999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "6310 Manor Woods Rd, Frederick, MD 21703, USA",
+      "phone": "+1 301-792-1095",
+      "website": "http://www.chuaxaloi.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMgx8Q-paKUvI8ESoPBf98C7A0N1-UJDaoRr9I6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN68L4-L8X7MOt72VZaiHNwwTS-85dPOPgKaVFk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgYkF0kNN_yRNnTANxcFzMMSHF9G6i6M76Yt7v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBNRUN3Xv2lU4LKwLHmu_YVaKHL1pMDivaihRT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOO3r-Couj9OnamOtIMoBLyvr5bXdR74h3zhziY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUGAFp9yEfhwklJZTS1n87H4HV7b9pR8jiOWxP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJJnIJz3ICRD02GDvam0ongdtsKP9DUV2Tyw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOPUo9F9HSjVf6PdUbQWujjVOn5WIbNXEC45H1w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMTS1msbzrUitj8oFvJIzX6cLNw-0kzVheFhTE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9M1BIVJqK71fO9pU8lprTqchP6ZmvshU9DqP9=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJjUrm3-PYyYkRdczk6G_pQ9Q",
+      "google_maps_url": "https://maps.google.com/?cid=15295325426338286709",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "6500 Lakehaven Ln, Fairfax Station, VA 22039, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.77417599999999,
-            "lng": -77.300896
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.77549273029149,
-              "lng": -77.29932381970849
-            },
-            "southwest": {
-              "lat": 38.77279476970849,
-              "lng": -77.3020217802915
-            }
-          }
-        },
-        "international_phone_number": "+1 703-239-0500",
-        "name": "Ekoji Buddhist Temple",
-        "place_id": "ChIJoz_lqu1RtokRW2geat6Amx8",
-        "url": "https://maps.google.com/?cid=2277555729317390427",
-        "website": "http://www.ekoji.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN2kNCshatot8wo_xEJaOVkZxZIEz-2VINCEetx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkNjrLSh3gJ-xcVGqfVv56LcnnMNWBbYg8Jaqs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEUTXIxtAgLlMKjJykrxbkyFC6yqX0YKxWGlLv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_Ptf7YPRrudFK35a00dT7REiruCNB90Kug2ga=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYIWZgNbHIfrdks0GW34CmrdvuPw5JhvttIv7L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPMe0JMJwUhkoPDzlbmsybThovpr2Ngm-3spnfx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqXdL_ihCC8jpDy_bs8jSKHRaCYV7Ly7zY2pIk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMb9Fiv_ZnfSCUetRXfGccB-lBKz6Kai2cemo-6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMd8AWBNv7uVAD6vful6WEVLEodtYOxZweX8tS7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNpxphl9Wr9oNTbMouI_c9gu-1pCOqKjpPtx5LH=s1600-w800-h800"
-        ]
+      "name": "Ekoji Buddhist Temple",
+      "location": {
+        "lat": 38.77417599999999,
+        "lng": -77.300896
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "6500 Lakehaven Ln, Fairfax Station, VA 22039, USA",
+      "phone": "+1 703-239-0500",
+      "website": "http://www.ekoji.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN2kNCshatot8wo_xEJaOVkZxZIEz-2VINCEetx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkNjrLSh3gJ-xcVGqfVv56LcnnMNWBbYg8Jaqs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEUTXIxtAgLlMKjJykrxbkyFC6yqX0YKxWGlLv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_Ptf7YPRrudFK35a00dT7REiruCNB90Kug2ga=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYIWZgNbHIfrdks0GW34CmrdvuPw5JhvttIv7L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPMe0JMJwUhkoPDzlbmsybThovpr2Ngm-3spnfx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqXdL_ihCC8jpDy_bs8jSKHRaCYV7Ly7zY2pIk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMb9Fiv_ZnfSCUetRXfGccB-lBKz6Kai2cemo-6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMd8AWBNv7uVAD6vful6WEVLEodtYOxZweX8tS7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNpxphl9Wr9oNTbMouI_c9gu-1pCOqKjpPtx5LH=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJoz_lqu1RtokRW2geat6Amx8",
+      "google_maps_url": "https://maps.google.com/?cid=2277555729317390427",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5300 Ox Rd, Fairfax, VA 22030, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.81577299999999,
-            "lng": -77.322186
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.81721213029149,
-              "lng": -77.32072296970851
-            },
-            "southwest": {
-              "lat": 38.81451416970849,
-              "lng": -77.32342093029152
-            }
-          }
-        },
-        "international_phone_number": "+1 703-273-5189",
-        "name": "Drikung Dharma Surya - Buddhist Temple",
-        "place_id": "ChIJ2ZZuFEhOtokR_5gFquiY4GY",
-        "url": "https://maps.google.com/?cid=7413093111704164607",
-        "website": "http://drikungdharmasurya.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP07x-a5u45ZMKefG1wBZDM5OBzUMydQ2hAFLdo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOG01DwkRBwwFyYtQovnMfj5xeEu2Zqj1WevSRF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPA_3xb4PMed5UqML637P4ouNUwllPeFcc8xNyR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMT66G4wgpCmVsfpjMhEcYmgJLlpr5vWrPXHPym=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGSjIaqyrn55xzjPx41SeArRG6HVwVkaMPVy0U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYByTG5g0q3mjP7EO8FoBzTNoHkpjMWrArxGnQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPz157RUM8Qlw76lSYcLOo8R809eCDbsz0brfLH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwFcks0trhrNV4OJHNv63StazkghacLReRpEEm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNohSfruyCxvC4OWqDcy9PE3c82E0P2Qmy9cI2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlHc27dj4tG0MMCBnjssF6BlhJk9fH6gt2wDom=s1600-w800-h800"
-        ]
+      "name": "Drikung Dharma Surya - Buddhist Temple",
+      "location": {
+        "lat": 38.81577299999999,
+        "lng": -77.322186
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "5300 Ox Rd, Fairfax, VA 22030, USA",
+      "phone": "+1 703-273-5189",
+      "website": "http://drikungdharmasurya.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP07x-a5u45ZMKefG1wBZDM5OBzUMydQ2hAFLdo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOG01DwkRBwwFyYtQovnMfj5xeEu2Zqj1WevSRF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPA_3xb4PMed5UqML637P4ouNUwllPeFcc8xNyR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMT66G4wgpCmVsfpjMhEcYmgJLlpr5vWrPXHPym=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGSjIaqyrn55xzjPx41SeArRG6HVwVkaMPVy0U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYByTG5g0q3mjP7EO8FoBzTNoHkpjMWrArxGnQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPz157RUM8Qlw76lSYcLOo8R809eCDbsz0brfLH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwFcks0trhrNV4OJHNv63StazkghacLReRpEEm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNohSfruyCxvC4OWqDcy9PE3c82E0P2Qmy9cI2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlHc27dj4tG0MMCBnjssF6BlhJk9fH6gt2wDom=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ2ZZuFEhOtokR_5gFquiY4GY",
+      "google_maps_url": "https://maps.google.com/?cid=7413093111704164607",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "36 Farmington Rd W, Accokeek, MD 20607, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.6845875,
-            "lng": -76.9994735
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.6865761802915,
-              "lng": -76.99796271970848
-            },
-            "southwest": {
-              "lat": 38.68387821970851,
-              "lng": -77.00066068029149
-            }
-          }
-        },
-        "international_phone_number": "+1 301-203-9500",
-        "name": "Wat Tummaprateip Washington DC",
-        "place_id": "ChIJcyQzpvqlt4kR0yQncGh1on4",
-        "url": "https://maps.google.com/?cid=9124984886424708307",
-        "website": "http://wat-tummaprateip.jany.io/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOQIQRdDhzBfU3bn2gA9JR6aFKeNRtLe1weDL0n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNI-M-DENCtg5wjVJ1T6ioxhMZfwfyMke3a7DYT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0-BFT4k8c1ilV4pdXstY71nn4VCYaGZAQjB37=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPRbg7R16Tstw08_GsOGRqAI3yKR8OP-6OwsYUq=s1600-w720-h405",
-          "https://lh3.googleusercontent.com/p/AF1QipO3mKGcG_ZGMESkmjkW043iTDYwW3YAFK9-NxfQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipML2aMwrzDlh-7Cv615gX0DMod0vCTYE99PbxY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2Q2yhptuNVV5Qi6u6hj0klp5NsEN7mRr-Z7o=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM52JiSBhdu4oCXG1O8PxE3KvlJ0FDDuWBdzgEs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBu-ilvYZrWtOepCnZbpddggX1isyEysT1w3wT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN21_bnAsGaL9wSOuccv-dr1v5wTxaawawsnnfI=s1600-w800-h800"
-        ]
+      "name": "Wat Tummaprateip Washington DC",
+      "location": {
+        "lat": 38.6845875,
+        "lng": -76.9994735
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "36 Farmington Rd W, Accokeek, MD 20607, USA",
+      "phone": "+1 301-203-9500",
+      "website": "http://wat-tummaprateip.jany.io/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOQIQRdDhzBfU3bn2gA9JR6aFKeNRtLe1weDL0n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNI-M-DENCtg5wjVJ1T6ioxhMZfwfyMke3a7DYT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0-BFT4k8c1ilV4pdXstY71nn4VCYaGZAQjB37=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPRbg7R16Tstw08_GsOGRqAI3yKR8OP-6OwsYUq=s1600-w720-h405",
+        "https://lh3.googleusercontent.com/p/AF1QipO3mKGcG_ZGMESkmjkW043iTDYwW3YAFK9-NxfQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipML2aMwrzDlh-7Cv615gX0DMod0vCTYE99PbxY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2Q2yhptuNVV5Qi6u6hj0klp5NsEN7mRr-Z7o=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM52JiSBhdu4oCXG1O8PxE3KvlJ0FDDuWBdzgEs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBu-ilvYZrWtOepCnZbpddggX1isyEysT1w3wT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN21_bnAsGaL9wSOuccv-dr1v5wTxaawawsnnfI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJcyQzpvqlt4kR0yQncGh1on4",
+      "google_maps_url": "https://maps.google.com/?cid=9124984886424708307",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "310 University Blvd W, Silver Spring, MD 20901, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.0230413,
-            "lng": -77.01750200000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.0245063302915,
-              "lng": -77.01598301970851
-            },
-            "southwest": {
-              "lat": 39.0218083697085,
-              "lng": -77.01868098029152
-            }
-          }
-        },
-        "international_phone_number": "+1 301-593-9397",
-        "name": "Nichiren Shoshu Myosenji Buddhist Temple",
-        "place_id": "ChIJx22IElzPt4kRpQni2pKkuec",
-        "url": "https://maps.google.com/?cid=16697558044097251749",
-        "website": "https://nstmyosenji.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOnCOxVJC4VZc7do2jCWrARbzXIDdjG8qGqZGZ0=s1600-w800-h543",
-          "https://lh3.googleusercontent.com/p/AF1QipNAJU1mGJ9YR3qpcLMeHSKN3e_nWZ5AOJ-mUdAG=s1600-w766-h510",
-          "https://lh3.googleusercontent.com/p/AF1QipO_CVESz1kaqRUVRM3gWYu8ZMJX_E0CTmYGbsYL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMk2HXL2aIWEJUH7PcYxKXnlIVLGojQGa5w0_6a=s1600-w800-h518",
-          "https://lh3.googleusercontent.com/p/AF1QipMwpKrtrSbedP3OTQUh0odSXo9fnOBRB9L6hTXs=s1600-w800-h505",
-          "https://lh3.googleusercontent.com/p/AF1QipPKNzlLNx5ctrWYY6IR_CxtDATsjHgygJBz58eN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwwuFQL48zEzmJjesMXJ5EgM7d2htlwvmEWeiU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoxXDCjvb6ztAxOBUnsjl9MgXswvqOsvUdU1B4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6ySoL5cAuBUfOLDOuI-_5Zs66UT_z-o8XTyfN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPatFQLxyycNb_waGC3xlkhmZVOGPaDG34JnFPU=s1600-w800-h800"
-        ]
+      "name": "Nichiren Shoshu Myosenji Buddhist Temple",
+      "location": {
+        "lat": 39.0230413,
+        "lng": -77.01750200000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "310 University Blvd W, Silver Spring, MD 20901, USA",
+      "phone": "+1 301-593-9397",
+      "website": "https://nstmyosenji.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOnCOxVJC4VZc7do2jCWrARbzXIDdjG8qGqZGZ0=s1600-w800-h543",
+        "https://lh3.googleusercontent.com/p/AF1QipNAJU1mGJ9YR3qpcLMeHSKN3e_nWZ5AOJ-mUdAG=s1600-w766-h510",
+        "https://lh3.googleusercontent.com/p/AF1QipO_CVESz1kaqRUVRM3gWYu8ZMJX_E0CTmYGbsYL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMk2HXL2aIWEJUH7PcYxKXnlIVLGojQGa5w0_6a=s1600-w800-h518",
+        "https://lh3.googleusercontent.com/p/AF1QipMwpKrtrSbedP3OTQUh0odSXo9fnOBRB9L6hTXs=s1600-w800-h505",
+        "https://lh3.googleusercontent.com/p/AF1QipPKNzlLNx5ctrWYY6IR_CxtDATsjHgygJBz58eN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwwuFQL48zEzmJjesMXJ5EgM7d2htlwvmEWeiU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoxXDCjvb6ztAxOBUnsjl9MgXswvqOsvUdU1B4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6ySoL5cAuBUfOLDOuI-_5Zs66UT_z-o8XTyfN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPatFQLxyycNb_waGC3xlkhmZVOGPaDG34JnFPU=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJx22IElzPt4kRpQni2pKkuec",
+      "google_maps_url": "https://maps.google.com/?cid=16697558044097251749",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "40539 John Mosby Hwy, Aldie, VA 20105, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.96048749999999,
-            "lng": -77.6021011
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.9622861802915,
-              "lng": -77.6005129697085
-            },
-            "southwest": {
-              "lat": 38.9595882197085,
-              "lng": -77.60321093029151
-            }
-          }
-        },
-        "international_phone_number": "+1 703-327-7618",
-        "name": "Wat Pa Nanachart",
-        "place_id": "ChIJt66ug-RqtokRpT_4kHkGntA",
-        "url": "https://maps.google.com/?cid=15032459725402292133",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOb1rmXrkHLpRcOUw83tbdxNSYxzJ7gJO_07hxt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOdlGW8bPmF-AflZfixufR3CUAandA4kGXjyjDG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOU-xpnwLtfSKSTOtCNJjf12d2-hYHK9CPwCcaZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMz0-NThCixowHx8b62tUECRsFStJ0sJPnXDoxQ=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOihuR5QJ1UfTusuRBkoBL4-do5GJ4BMw_Vh8KD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7Sv82aH-twy3Mvz20-VBNYv17tTj-c3KZty6L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPZi7m8LDhXWeLwA9rvpP5USS0sO6J3gAWUfor=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQuKGEdtKwTZH74yuR6ZU0TlaYSToWSRgKVkAn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvskE4JLrg36DGAY4E4GC-0u9WSi8i34TpZeoz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNi1XFodjfEKJdHg3M3KRXejgGHH7UPIN7NP7K=s1600-w800-h720"
-        ]
+      "name": "Wat Pa Nanachart",
+      "location": {
+        "lat": 38.96048749999999,
+        "lng": -77.6021011
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "40539 John Mosby Hwy, Aldie, VA 20105, USA",
+      "phone": "+1 703-327-7618",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOb1rmXrkHLpRcOUw83tbdxNSYxzJ7gJO_07hxt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOdlGW8bPmF-AflZfixufR3CUAandA4kGXjyjDG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOU-xpnwLtfSKSTOtCNJjf12d2-hYHK9CPwCcaZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMz0-NThCixowHx8b62tUECRsFStJ0sJPnXDoxQ=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOihuR5QJ1UfTusuRBkoBL4-do5GJ4BMw_Vh8KD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7Sv82aH-twy3Mvz20-VBNYv17tTj-c3KZty6L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPZi7m8LDhXWeLwA9rvpP5USS0sO6J3gAWUfor=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQuKGEdtKwTZH74yuR6ZU0TlaYSToWSRgKVkAn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvskE4JLrg36DGAY4E4GC-0u9WSi8i34TpZeoz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNi1XFodjfEKJdHg3M3KRXejgGHH7UPIN7NP7K=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJt66ug-RqtokRpT_4kHkGntA",
+      "google_maps_url": "https://maps.google.com/?cid=15032459725402292133",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "9711 Old Court Rd, Windsor Mill, MD 21244, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.3439111,
-            "lng": -76.8186194
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.3452673802915,
-              "lng": -76.8174050697085
-            },
-            "southwest": {
-              "lat": 39.3425694197085,
-              "lng": -76.8201030302915
-            }
-          }
-        },
-        "international_phone_number": "+1 410-922-2227",
-        "name": "Ashin Kelatha Vihara",
-        "place_id": "ChIJR7Uyk4QYyIkR9YrQPNPXEFw",
-        "url": "https://maps.google.com/?cid=6634039553375111925",
-        "website": "http://kelathavihara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPjFwNTT9cif3HDkyS2CZIkhBUh7-dEbiDcZ1XD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsyMNjnLmfqJGg5xKQttkrN5bebz9gYIo-HbLf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEOVRQN8XljzAqpjBRZ_2iPLY3YrLowPEG3pfS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTSQWzd61SCl8uI-3skstI28D4mxWdp-Akjw9N=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZNzjxzhU3ZzXsFGONCxOYNOsMdp7eOusPW4lt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-DURMT7B_BLo193MWcyT86Oe3RW20tfMSGOrA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPo8fuvEy_cR_G086tnlapQ5qkY1s75w4VLAXBs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkYHsw_6zNS0lEbQOaaoPqGR9jPB4cCQlMQ-kF=s1600-w800-h800"
-        ]
+      "name": "Ashin Kelatha Vihara",
+      "location": {
+        "lat": 39.3439111,
+        "lng": -76.8186194
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "9711 Old Court Rd, Windsor Mill, MD 21244, USA",
+      "phone": "+1 410-922-2227",
+      "website": "http://kelathavihara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPjFwNTT9cif3HDkyS2CZIkhBUh7-dEbiDcZ1XD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsyMNjnLmfqJGg5xKQttkrN5bebz9gYIo-HbLf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEOVRQN8XljzAqpjBRZ_2iPLY3YrLowPEG3pfS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTSQWzd61SCl8uI-3skstI28D4mxWdp-Akjw9N=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZNzjxzhU3ZzXsFGONCxOYNOsMdp7eOusPW4lt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-DURMT7B_BLo193MWcyT86Oe3RW20tfMSGOrA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPo8fuvEy_cR_G086tnlapQ5qkY1s75w4VLAXBs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkYHsw_6zNS0lEbQOaaoPqGR9jPB4cCQlMQ-kF=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJR7Uyk4QYyIkR9YrQPNPXEFw",
+      "google_maps_url": "https://maps.google.com/?cid=6634039553375111925",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "13440 Layhill Rd, Silver Spring, MD 20906, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.07698329999999,
-            "lng": -77.0469056
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.0783646302915,
-              "lng": -77.0457020697085
-            },
-            "southwest": {
-              "lat": 39.0756666697085,
-              "lng": -77.0484000302915
-            }
-          }
-        },
-        "international_phone_number": "+1 301-871-8660",
-        "name": "Wat Thai Washington, D.C.",
-        "place_id": "ChIJS58qNc_Pt4kRFqfekfb-Bdc",
-        "url": "https://maps.google.com/?cid=15494070428000757526",
-        "website": "https://www.watthaidc.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOfiyldEBOChNFQ1H32Jbd8PVCx125wC2FrGNjd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxHhwU_FxJ2zuvmmAlrud7E43uGny0s9r0QWvf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBlkIUuBE4uCc48dfvaOlhEEhuczL38HP-u7dQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1NXHyTwo587VLj70kRoagoGo8T8gPYMgiXfw2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPo1PSxcIDBNhRCDpjVtSegTdXAZ1mlIXuFcEeN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMbv1jv0y55zHErF4ipxfD-RVAc11aRf3Jl0Ce9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMe6AMtj74ZIGzEmaeGwgK1cTjhdKyyTAdLWeXH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUjy3IK51httvNjbZ3QF0mBVzKdM7hqX1TGaGl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMyIMuBOh1h7dxTzBoNmSeeynXbEsGi5jcKoUZ2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQiVuYDYUHvH6tsb0quuzTpwyKIADkhM5wWhjS=s1600-w800-h800"
-        ]
+      "name": "Wat Thai Washington, D.C.",
+      "location": {
+        "lat": 39.07698329999999,
+        "lng": -77.0469056
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "13440 Layhill Rd, Silver Spring, MD 20906, USA",
+      "phone": "+1 301-871-8660",
+      "website": "https://www.watthaidc.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOfiyldEBOChNFQ1H32Jbd8PVCx125wC2FrGNjd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxHhwU_FxJ2zuvmmAlrud7E43uGny0s9r0QWvf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBlkIUuBE4uCc48dfvaOlhEEhuczL38HP-u7dQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1NXHyTwo587VLj70kRoagoGo8T8gPYMgiXfw2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPo1PSxcIDBNhRCDpjVtSegTdXAZ1mlIXuFcEeN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMbv1jv0y55zHErF4ipxfD-RVAc11aRf3Jl0Ce9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMe6AMtj74ZIGzEmaeGwgK1cTjhdKyyTAdLWeXH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUjy3IK51httvNjbZ3QF0mBVzKdM7hqX1TGaGl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMyIMuBOh1h7dxTzBoNmSeeynXbEsGi5jcKoUZ2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQiVuYDYUHvH6tsb0quuzTpwyKIADkhM5wWhjS=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJS58qNc_Pt4kRFqfekfb-Bdc",
+      "google_maps_url": "https://maps.google.com/?cid=15494070428000757526",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3200 Norbeck Rd, Silver Spring, MD 20906, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.1119299,
-            "lng": -77.06462789999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.1132835302915,
-              "lng": -77.0632640197085
-            },
-            "southwest": {
-              "lat": 39.1105855697085,
-              "lng": -77.0659619802915
-            }
-          }
-        },
-        "international_phone_number": "+1 240-350-3574",
-        "name": "登寶雷藏寺 True Buddha Temple Maryland",
-        "place_id": "ChIJH8yXAMnRt4kRQ90pMEkakxI",
-        "url": "https://maps.google.com/?cid=1338442415902154051",
-        "website": "https://truebuddha-md.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNnBmgr0eI2JDU_kxCPrYsK-R5LKISmuAF_RRqC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMULa2J4pcpw4d0q5D6J57pngQx3a_NBbK2fRWB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEkP8Mexn0GHPOuYwHTPrabhD_aUBavKbCrHFl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNe2tK2x49xyYPovptEWTRnnl-6qRWfeeYqQ8iv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXUk__72fSye-wl8fp-mU0eBIGWCPT0RbIueU1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAOUcAvb4thTciQ850Kl-FvtBd0VOMFs7Tr0Xb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM96W8wDuq8VbpE_7az9j24pzadEwSBYdH7YhBC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNT2Sc7ElFkiq8tTuL0R-SMVkUcxlxJHPKEyckY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNfIzqlPolU3w2b2ZZA93SY54csxN5YPXk_iGR2=s1600-w800-h800"
-        ]
+      "name": "登寶雷藏寺 True Buddha Temple Maryland",
+      "location": {
+        "lat": 39.1119299,
+        "lng": -77.06462789999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "3200 Norbeck Rd, Silver Spring, MD 20906, USA",
+      "phone": "+1 240-350-3574",
+      "website": "https://truebuddha-md.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNnBmgr0eI2JDU_kxCPrYsK-R5LKISmuAF_RRqC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMULa2J4pcpw4d0q5D6J57pngQx3a_NBbK2fRWB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEkP8Mexn0GHPOuYwHTPrabhD_aUBavKbCrHFl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNe2tK2x49xyYPovptEWTRnnl-6qRWfeeYqQ8iv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXUk__72fSye-wl8fp-mU0eBIGWCPT0RbIueU1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAOUcAvb4thTciQ850Kl-FvtBd0VOMFs7Tr0Xb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM96W8wDuq8VbpE_7az9j24pzadEwSBYdH7YhBC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNT2Sc7ElFkiq8tTuL0R-SMVkUcxlxJHPKEyckY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNfIzqlPolU3w2b2ZZA93SY54csxN5YPXk_iGR2=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJH8yXAMnRt4kRQ90pMEkakxI",
+      "google_maps_url": "https://maps.google.com/?cid=1338442415902154051",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "314 Victory Dr, Herndon, VA 20170, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.9583651,
-            "lng": -77.3785536
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.9596337802915,
-              "lng": -77.3772527197085
-            },
-            "southwest": {
-              "lat": 38.95693581970851,
-              "lng": -77.3799506802915
-            }
-          }
-        },
-        "international_phone_number": "+1 703-338-0189",
-        "name": "Shaolin Temple USA",
-        "place_id": "ChIJ-XZs9P1HtokR5o5RxIm4krY",
-        "url": "https://maps.google.com/?cid=13155780363346349798",
-        "website": "http://www.shaolinusa.us/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP63KxY4oRSGO9ncpssoAEJ2_YvSjrdML1uXIbr=s1600-w391-h261",
-          "https://lh3.googleusercontent.com/p/AF1QipOgch3EFqLaFNVBYu1OqkR49AKY_Iwp6NKayULd=s1600-w640-h427",
-          "https://lh3.googleusercontent.com/p/AF1QipNNXzIYviVPmf3oJybfiZraTXR3qa2yeEhVWd5N=s1600-w605-h404",
-          "https://lh3.googleusercontent.com/p/AF1QipMSe816WxJJvTeXUJLLOJz8QKzVTlptPfjwsfLr=s1600-w800-h712"
-        ]
+      "name": "Shaolin Temple USA",
+      "location": {
+        "lat": 38.9583651,
+        "lng": -77.3785536
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "314 Victory Dr, Herndon, VA 20170, USA",
+      "phone": "+1 703-338-0189",
+      "website": "http://www.shaolinusa.us/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP63KxY4oRSGO9ncpssoAEJ2_YvSjrdML1uXIbr=s1600-w391-h261",
+        "https://lh3.googleusercontent.com/p/AF1QipOgch3EFqLaFNVBYu1OqkR49AKY_Iwp6NKayULd=s1600-w640-h427",
+        "https://lh3.googleusercontent.com/p/AF1QipNNXzIYviVPmf3oJybfiZraTXR3qa2yeEhVWd5N=s1600-w605-h404",
+        "https://lh3.googleusercontent.com/p/AF1QipMSe816WxJJvTeXUJLLOJz8QKzVTlptPfjwsfLr=s1600-w800-h712"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ-XZs9P1HtokR5o5RxIm4krY",
+      "google_maps_url": "https://maps.google.com/?cid=13155780363346349798",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4478 Free State Rd, Marshall, VA 20115, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.85183670000001,
-            "lng": -77.87841870000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.8532913802915,
-              "lng": -77.87706591970849
-            },
-            "southwest": {
-              "lat": 38.85059341970851,
-              "lng": -77.8797638802915
-            }
-          }
-        },
-        "international_phone_number": "+1 540-364-0088",
-        "name": "Nine Valleys Buddhist Temple",
-        "place_id": "ChIJF3TXudV5tokRC2UboNBi4hE",
-        "url": "https://maps.google.com/?cid=1288701091560252683",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Nine Valleys Buddhist Temple",
+      "location": {
+        "lat": 38.85183670000001,
+        "lng": -77.87841870000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "4478 Free State Rd, Marshall, VA 20115, USA",
+      "phone": "+1 540-364-0088",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJF3TXudV5tokRC2UboNBi4hE",
+      "google_maps_url": "https://maps.google.com/?cid=1288701091560252683",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "805 6th St NW, Washington, DC 20001, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.9000616,
-            "lng": -77.01973
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.9014105802915,
-              "lng": -77.01838101970849
-            },
-            "southwest": {
-              "lat": 38.8987126197085,
-              "lng": -77.0210789802915
-            }
-          }
-        },
-        "international_phone_number": "+1 202-347-8688",
-        "name": "Temple of Cun Yum",
-        "place_id": "ChIJuzGYz423t4kRw0D1PIXTV8Q",
-        "url": "https://maps.google.com/?cid=14148009323614519491",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMNM8EUHsgiSRsPrBasMc5zonxqRGNYvQ8bM3vV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmjdvVTVcq2JbbA2m5sZmyHlR_sU-AgI9I0102=s1600-w800-h800"
-        ]
+      "name": "Temple of Cun Yum",
+      "location": {
+        "lat": 38.9000616,
+        "lng": -77.01973
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "805 6th St NW, Washington, DC 20001, USA",
+      "phone": "+1 202-347-8688",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMNM8EUHsgiSRsPrBasMc5zonxqRGNYvQ8bM3vV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmjdvVTVcq2JbbA2m5sZmyHlR_sU-AgI9I0102=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJuzGYz423t4kRw0D1PIXTV8Q",
+      "google_maps_url": "https://maps.google.com/?cid=14148009323614519491",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1708 Powder Mill Rd, Silver Spring, MD 20903, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.02340239999999,
-            "lng": -76.9760299
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.02467608029149,
-              "lng": -76.9746350697085
-            },
-            "southwest": {
-              "lat": 39.02197811970849,
-              "lng": -76.9773330302915
-            }
-          }
-        },
-        "international_phone_number": "+1 301-439-4035",
-        "name": "Mingalarama Temple",
-        "place_id": "ChIJVVXhHLjFt4kRCFSryuU_7so",
-        "url": "https://maps.google.com/?cid=14622695296298865672",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mingalarama Temple",
+      "location": {
+        "lat": 39.02340239999999,
+        "lng": -76.9760299
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "1708 Powder Mill Rd, Silver Spring, MD 20903, USA",
+      "phone": "+1 301-439-4035",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVVXhHLjFt4kRCFSryuU_7so",
+      "google_maps_url": "https://maps.google.com/?cid=14622695296298865672",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "11801 Laurel Bowie Rd, Laurel, MD 20708, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.0523838,
-            "lng": -76.8361098
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.0536532802915,
-              "lng": -76.8348746197085
-            },
-            "southwest": {
-              "lat": 39.0509553197085,
-              "lng": -76.8375725802915
-            }
-          }
-        },
-        "international_phone_number": "+1 240-360-7454",
-        "name": "Giac Son Buddhist Temple",
-        "place_id": "ChIJGSk7XKPCt4kRTosZ6pLSnts",
-        "url": "https://maps.google.com/?cid=15825317669061102414",
-        "website": "http://chuagiacson.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOUmXgm5W7N9SnUNO-S2g57uu1Tpq_Pq9mPQZ0l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVbyin_sIQiZXDgueXLpADO3yvauzYOSB_ef9D=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNzjJPKXPs-mnQt7gF9j0tBmYjTiBU3yTqiKvrx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGhHLvgE0BSsS28BAE5NQh7l3TbCrkYDoKNpfS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPV7EES1x1dY8TInrhJZmGereuK0zdtqIBvIgdm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtsSzyC6JumdekmjH5Sgv_4akAGgT6n7Hgwj8-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOojSXeNMANVE3r--il9LgtQwIz6-N3ixYSWHmS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7QTdQKydMSA9lCSCWyWbrqFjcm1XxzePK-hWc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNltvvLQZFm_aEUgid71oFCCzGJL7cMhefB1gOv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6BT89Wpzn8KdxZi1XgpikYAmchyCjncJsqVSF=s1600-w800-h800"
-        ]
+      "name": "Giac Son Buddhist Temple",
+      "location": {
+        "lat": 39.0523838,
+        "lng": -76.8361098
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "11801 Laurel Bowie Rd, Laurel, MD 20708, USA",
+      "phone": "+1 240-360-7454",
+      "website": "http://chuagiacson.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOUmXgm5W7N9SnUNO-S2g57uu1Tpq_Pq9mPQZ0l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVbyin_sIQiZXDgueXLpADO3yvauzYOSB_ef9D=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNzjJPKXPs-mnQt7gF9j0tBmYjTiBU3yTqiKvrx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGhHLvgE0BSsS28BAE5NQh7l3TbCrkYDoKNpfS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPV7EES1x1dY8TInrhJZmGereuK0zdtqIBvIgdm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtsSzyC6JumdekmjH5Sgv_4akAGgT6n7Hgwj8-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOojSXeNMANVE3r--il9LgtQwIz6-N3ixYSWHmS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7QTdQKydMSA9lCSCWyWbrqFjcm1XxzePK-hWc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNltvvLQZFm_aEUgid71oFCCzGJL7cMhefB1gOv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6BT89Wpzn8KdxZi1XgpikYAmchyCjncJsqVSF=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGSk7XKPCt4kRTosZ6pLSnts",
+      "google_maps_url": "https://maps.google.com/?cid=15825317669061102414",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5415 Rising Sun Ave, Philadelphia, PA 19120, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.0321167,
-            "lng": -75.11655669999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.0335195802915,
-              "lng": -75.11531696970849
-            },
-            "southwest": {
-              "lat": 40.0308216197085,
-              "lng": -75.1180149302915
-            }
-          }
-        },
-        "international_phone_number": "+1 215-329-4264",
-        "name": "Khmer Krom Buddhist Monastery",
-        "place_id": "ChIJ3-Ajtam3xokRaiDvPLrjF_E",
-        "url": "https://maps.google.com/?cid=17372604476630704234",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMVq8KpeTyv4G0m_sjNRxgGs3mZ0qOT5TyvLTIw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrYgirr07_YU-xYJd440OcDlsORQIvshCWbfOp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzQ7L7SUt2hJrqgDica1Uc-Se6NFKk-JlV0W2C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXlj2t7MUXRlWThdqbmlWkQmGaIBnwVjEOYL82=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2gfxGBsuxVgBbh5FVrY8eAXZwfV3zFZHHVJXQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQ_VG7NvFhqe1ChZfl-aY8y7ymTHRDjnPAZpEf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTk49jm1tsT2EeaIO4F6dat0ektVnT6yqQ9WOz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPhQvmVCsWkrdRsh_v60R2Aj2E6Uq44sFvM3Bby=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoyB5-6WgoliWPDBa9V9wGkElyyl-8LQNnBhMC=s1600-w800-h316",
-          "https://lh3.googleusercontent.com/p/AF1QipPLMWyArsqv5dQaEtAzoGKf0nw-InFN_bM61f7P=s1600-w800-h800"
-        ]
+      "name": "Khmer Krom Buddhist Monastery",
+      "location": {
+        "lat": 40.0321167,
+        "lng": -75.11655669999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "5415 Rising Sun Ave, Philadelphia, PA 19120, USA",
+      "phone": "+1 215-329-4264",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMVq8KpeTyv4G0m_sjNRxgGs3mZ0qOT5TyvLTIw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrYgirr07_YU-xYJd440OcDlsORQIvshCWbfOp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzQ7L7SUt2hJrqgDica1Uc-Se6NFKk-JlV0W2C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXlj2t7MUXRlWThdqbmlWkQmGaIBnwVjEOYL82=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2gfxGBsuxVgBbh5FVrY8eAXZwfV3zFZHHVJXQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQ_VG7NvFhqe1ChZfl-aY8y7ymTHRDjnPAZpEf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTk49jm1tsT2EeaIO4F6dat0ektVnT6yqQ9WOz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPhQvmVCsWkrdRsh_v60R2Aj2E6Uq44sFvM3Bby=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoyB5-6WgoliWPDBa9V9wGkElyyl-8LQNnBhMC=s1600-w800-h316",
+        "https://lh3.googleusercontent.com/p/AF1QipPLMWyArsqv5dQaEtAzoGKf0nw-InFN_bM61f7P=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ3-Ajtam3xokRaiDvPLrjF_E",
+      "google_maps_url": "https://maps.google.com/?cid=17372604476630704234",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8704 Marye Rd, Partlow, VA 22534, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.0609022,
-            "lng": -77.6385584
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.06240143029149,
-              "lng": -77.6373550197085
-            },
-            "southwest": {
-              "lat": 38.0597034697085,
-              "lng": -77.6400529802915
-            }
-          }
-        },
-        "international_phone_number": "+1 540-582-3572",
-        "name": "Watpa Buddharam",
-        "place_id": "ChIJ53hEWhO0tokRgcnNkHBsChY",
-        "url": "https://maps.google.com/?cid=1588201049323063681",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPriWNlafnZVzW7-Hx4swd8zYM7ONz9RRfZu-QD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUBhdz-tOrH_YFT2bZ8g7u7rWdFMGFUC_eyRKJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6OrADQ3P6P7h8eyzGjxn0epn2abB2M-dlzo2l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMAKJ-fe46RvNa78SJn9JC-_1r-szo8kek-zlMf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvD1cf3_7N8xPJMY2l3CyVN8HNApFJDhbHGGWy=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMyz_SC4CbrnqD-LsoJrzG-75KupM0KCl4bMxsX=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipM4b1Nil7pJ12gLvv7JtvH9BJIXUnfZwuT6m0TS=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNjpGOhFLLX921rZVJRP7tHvx_KQU8b17UvDOOp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZ_h2tLSB5RaskMk5grVQ4JWgSwj2NIZOJO19k=s1600-w800-h720"
-        ]
+      "name": "Watpa Buddharam",
+      "location": {
+        "lat": 38.0609022,
+        "lng": -77.6385584
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "8704 Marye Rd, Partlow, VA 22534, USA",
+      "phone": "+1 540-582-3572",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPriWNlafnZVzW7-Hx4swd8zYM7ONz9RRfZu-QD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUBhdz-tOrH_YFT2bZ8g7u7rWdFMGFUC_eyRKJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6OrADQ3P6P7h8eyzGjxn0epn2abB2M-dlzo2l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMAKJ-fe46RvNa78SJn9JC-_1r-szo8kek-zlMf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvD1cf3_7N8xPJMY2l3CyVN8HNApFJDhbHGGWy=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMyz_SC4CbrnqD-LsoJrzG-75KupM0KCl4bMxsX=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipM4b1Nil7pJ12gLvv7JtvH9BJIXUnfZwuT6m0TS=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNjpGOhFLLX921rZVJRP7tHvx_KQU8b17UvDOOp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZ_h2tLSB5RaskMk5grVQ4JWgSwj2NIZOJO19k=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ53hEWhO0tokRgcnNkHBsChY",
+      "google_maps_url": "https://maps.google.com/?cid=1588201049323063681",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1810 Nuttal Ave, Edgewood, MD 21040, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.4128176,
-            "lng": -76.30457369999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.4143036802915,
-              "lng": -76.30292196970849
-            },
-            "southwest": {
-              "lat": 39.4116057197085,
-              "lng": -76.3056199302915
-            }
-          }
-        },
-        "name": "Dao Vien Monastery",
-        "place_id": "ChIJg3W30Zjlx4kRRUPYUu_IzxE",
-        "url": "https://maps.google.com/?cid=1283465349036524357",
-        "website": "http://tuviendaovien.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPmqc5zBxAJLWK5bB1tKoNDJX1Agt12zmp3oGq2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOyJP820MI_2zPqCv0Z2tdC0FxQsIRLfkaje_8E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPll-Px0t03drQj4JBxe9a1nvR-v_2RX01nqiQL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5eiB7x7UlNojgOgiS04iayKqxD1DvOpEL49p0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXujkpv7QedlUwNHBrjI3P7gKcfzFgz2-6ehqC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHFFsm9NvjQD5UNoTTG4ECEKCI7Diz4RVRk4cf=s1600-w800-h800"
-        ]
+      "name": "Dao Vien Monastery",
+      "location": {
+        "lat": 39.4128176,
+        "lng": -76.30457369999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "1810 Nuttal Ave, Edgewood, MD 21040, USA",
+      "website": "http://tuviendaovien.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPmqc5zBxAJLWK5bB1tKoNDJX1Agt12zmp3oGq2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOyJP820MI_2zPqCv0Z2tdC0FxQsIRLfkaje_8E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPll-Px0t03drQj4JBxe9a1nvR-v_2RX01nqiQL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5eiB7x7UlNojgOgiS04iayKqxD1DvOpEL49p0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXujkpv7QedlUwNHBrjI3P7gKcfzFgz2-6ehqC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHFFsm9NvjQD5UNoTTG4ECEKCI7Diz4RVRk4cf=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJg3W30Zjlx4kRRUPYUu_IzxE",
+      "google_maps_url": "https://maps.google.com/?cid=1283465349036524357",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4299 NJ-27, Princeton, NJ 08540, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.3999314,
-            "lng": -74.58924619999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.40119233029149,
-              "lng": -74.5873712197085
-            },
-            "southwest": {
-              "lat": 40.39849436970849,
-              "lng": -74.59006918029151
-            }
-          }
-        },
-        "international_phone_number": "+1 732-821-9346",
-        "name": "New Jersey Buddhist Vihara",
-        "place_id": "ChIJJQhhZlTdw4kRwQpR4J7UtI8",
-        "url": "https://maps.google.com/?cid=10355135222064941761",
-        "website": "http://www.njbv.org",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPwabYc_Rmknu6kMWpZkSPqsAnLCeyjaKWQfF4L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNzhquGCCUcTXxrZTW1O3WksZIOu7g_u0dyluN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4f8sCizB6qzWL6j9TJO0V42i1B9ORwqlSirho=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpWI6UUYKPvKChvy4x_UPZahNLliOVvblYt9c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmgTbQ_eOzFF-ROWQhqxR58fSgAuXs8jOe_IA7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjHRwS4wuYjgmHZpX-oEH1WkzTGj6YUASGYDzv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMoiak5JwIOBO6XnLbZ4syfT6ZwMe9i7VCm7-mW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYThhb1e51BpYo9jXiLKQphcCIUksKXI5jD1tl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpTVmp56SCB39prV8tt6fSUUSP6qNrYoKvvafy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-59ehuWI-lGLe2tEoYknfcI8zOtA_mJ8CMHc=s1600-w800-h800"
-        ]
+      "name": "New Jersey Buddhist Vihara",
+      "location": {
+        "lat": 40.3999314,
+        "lng": -74.58924619999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:43:09.729Z"
-      }
+      "address": "4299 NJ-27, Princeton, NJ 08540, USA",
+      "phone": "+1 732-821-9346",
+      "website": "http://www.njbv.org",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPwabYc_Rmknu6kMWpZkSPqsAnLCeyjaKWQfF4L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNzhquGCCUcTXxrZTW1O3WksZIOu7g_u0dyluN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4f8sCizB6qzWL6j9TJO0V42i1B9ORwqlSirho=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpWI6UUYKPvKChvy4x_UPZahNLliOVvblYt9c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmgTbQ_eOzFF-ROWQhqxR58fSgAuXs8jOe_IA7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjHRwS4wuYjgmHZpX-oEH1WkzTGj6YUASGYDzv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMoiak5JwIOBO6XnLbZ4syfT6ZwMe9i7VCm7-mW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYThhb1e51BpYo9jXiLKQphcCIUksKXI5jD1tl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpTVmp56SCB39prV8tt6fSUUSP6qNrYoKvvafy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-59ehuWI-lGLe2tEoYknfcI8zOtA_mJ8CMHc=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJJQhhZlTdw4kRwQpR4J7UtI8",
+      "google_maps_url": "https://maps.google.com/?cid=10355135222064941761",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8016 State Line Rd, Prairie Village, KS 66208, USA",
-        "geometry": {
-          "location": {
-            "lat": 38.9835583,
-            "lng": -94.609813
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 38.9850052302915,
-              "lng": -94.60846601970849
-            },
-            "southwest": {
-              "lat": 38.9823072697085,
-              "lng": -94.61116398029151
-            }
-          }
-        },
-        "international_phone_number": "+1 913-707-9970",
-        "name": "Urban Monastery",
-        "place_id": "ChIJq6q6kNPuwIcRtRLEa1XaUcM",
-        "url": "https://maps.google.com/?cid=14074270370924597941",
-        "website": "https://www.urbanmonastery.org/contact/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Urban Monastery",
+      "location": {
+        "lat": 38.9835583,
+        "lng": -94.609813
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "8016 State Line Rd, Prairie Village, KS 66208, USA",
+      "phone": "+1 913-707-9970",
+      "website": "https://www.urbanmonastery.org/contact/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJq6q6kNPuwIcRtRLEa1XaUcM",
+      "google_maps_url": "https://maps.google.com/?cid=14074270370924597941",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

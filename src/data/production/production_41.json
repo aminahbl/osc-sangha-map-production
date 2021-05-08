@@ -1,655 +1,514 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Schönfeld, 01744 Dippoldiswalde, Germany",
-        "geometry": {
-          "location": {
-            "lat": 50.7805735,
-            "lng": 13.6335163
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.7818625302915,
-              "lng": 13.6347715802915
-            },
-            "southwest": {
-              "lat": 50.7791645697085,
-              "lng": 13.6320736197085
-            }
-          }
-        },
-        "international_phone_number": "+49 35052 292235",
-        "name": "Buddhist Retreat Monastery Amitayus",
-        "place_id": "ChIJEfXzZKDuCUcRvAN3oh5nVvI",
-        "url": "https://maps.google.com/?cid=17462257986448065468",
-        "website": "http://amitayus.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddhist Retreat Monastery Amitayus",
+      "location": {
+        "lat": 50.7805735,
+        "lng": 13.6335163
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Schönfeld, 01744 Dippoldiswalde, Germany",
+      "phone": "+49 35052 292235",
+      "website": "http://amitayus.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJEfXzZKDuCUcRvAN3oh5nVvI",
+      "google_maps_url": "https://maps.google.com/?cid=17462257986448065468",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Engreux 49g, 6663 Engreux, Belgium",
-        "geometry": {
-          "location": {
-            "lat": 50.1246383,
-            "lng": 5.7027844
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.1260139802915,
-              "lng": 5.704130330291502
-            },
-            "southwest": {
-              "lat": 50.1233160197085,
-              "lng": 5.701432369708497
-            }
-          }
-        },
-        "international_phone_number": "+32 493 41 28 85",
-        "name": "Tilorien Monastery",
-        "place_id": "ChIJDWxLFkAXwEcR6wTHbE4WxJI",
-        "url": "https://maps.google.com/?cid=10575602351061009643",
-        "website": "http://tilorien.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMaVstCMxYZFRZ4bXPoPmcS3Qfa6n9hvhCfZW3g=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNFvUhEvv3JnyZqIKE8qfJ3fyRHWDwi2WfQiLd4=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNSwhhx8ApXsGZpkiN4oSqanx35cpdahPgam0hv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_PJNpgRHyiUKGzyvTyTaoKm85lXeMiro3CWaE=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOCAZDl8NEd5gh0JQzP3gMT2fkoOgf8zIDUVQQn=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipO_GYu0H3g6-U_K0Jc_WSGRIHTxLOsqYaQlnXlo=s1600-w800-h800"
-        ]
+      "name": "Tilorien Monastery",
+      "location": {
+        "lat": 50.1246383,
+        "lng": 5.7027844
       },
-      "meta": {
-        "category": "vinaya-based, accepts lay guests",
-        "last_updated": "2021-05-03T12:55:50.374Z"
-      }
+      "address": "Engreux 49g, 6663 Engreux, Belgium",
+      "phone": "+32 493 41 28 85",
+      "website": "http://tilorien.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMaVstCMxYZFRZ4bXPoPmcS3Qfa6n9hvhCfZW3g=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNFvUhEvv3JnyZqIKE8qfJ3fyRHWDwi2WfQiLd4=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNSwhhx8ApXsGZpkiN4oSqanx35cpdahPgam0hv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_PJNpgRHyiUKGzyvTyTaoKm85lXeMiro3CWaE=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOCAZDl8NEd5gh0JQzP3gMT2fkoOgf8zIDUVQQn=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipO_GYu0H3g6-U_K0Jc_WSGRIHTxLOsqYaQlnXlo=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJDWxLFkAXwEcR6wTHbE4WxJI",
+      "google_maps_url": "https://maps.google.com/?cid=10575602351061009643",
+      "category": "vinaya-based, accepts lay guests",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Chaussée de Louvain 71, 1410 Waterloo, Belgium",
-        "geometry": {
-          "location": {
-            "lat": 50.6917091,
-            "lng": 4.4117852
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.6929725802915,
-              "lng": 4.413201480291502
-            },
-            "southwest": {
-              "lat": 50.6902746197085,
-              "lng": 4.410503519708498
-            }
-          }
-        },
-        "name": "Wat Thaï Dhammaram",
-        "place_id": "ChIJxwxW95LRw0cR3dWaKky1YlU",
-        "url": "https://maps.google.com/?cid=6152679379678451165",
-        "website": "http://www.watthaidhammaram.be/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMNXqx0JII4mS_-P9ELpnXnlaOb0CjcxBxai3Lc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfdGMyrxMytD2WK-iW3M_Te4gn5r-3Pk0gzoNj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoG4gIGYDBsNbZCidqVv2aiVHssrMp65DLlX8H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSJFpnstUzD048Bp0Rwl2jNyoiiciYdGMhwbZM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNHCQfugRdvS4VIJTkZBCC7QaPNR-3ZXSVs8rj1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_dK6xw8DcoSrWFKL4Kr6PqvEByaCygb1OEGU7=s1600-w800-h768",
-          "https://lh3.googleusercontent.com/p/AF1QipOUVAV3V7dwttvnTYFRtcNsY2osqJfSa-O7qKkD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN913Xu4XG3NHo2gzil6Ze78aIJIrF9CC5BpSOC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNK3Jh7h1bWPg2qMJabDQNRmo27q5VPPYPEPts=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNvOiClSR1MjQjGQSBwFKQhAhDeiisl8cQ3jsA=s1600-w800-h800"
-        ]
+      "name": "Wat Thaï Dhammaram",
+      "location": {
+        "lat": 50.6917091,
+        "lng": 4.4117852
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:50.374Z"
-      }
+      "address": "Chaussée de Louvain 71, 1410 Waterloo, Belgium",
+      "website": "http://www.watthaidhammaram.be/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMNXqx0JII4mS_-P9ELpnXnlaOb0CjcxBxai3Lc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfdGMyrxMytD2WK-iW3M_Te4gn5r-3Pk0gzoNj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoG4gIGYDBsNbZCidqVv2aiVHssrMp65DLlX8H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSJFpnstUzD048Bp0Rwl2jNyoiiciYdGMhwbZM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNHCQfugRdvS4VIJTkZBCC7QaPNR-3ZXSVs8rj1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_dK6xw8DcoSrWFKL4Kr6PqvEByaCygb1OEGU7=s1600-w800-h768",
+        "https://lh3.googleusercontent.com/p/AF1QipOUVAV3V7dwttvnTYFRtcNsY2osqJfSa-O7qKkD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN913Xu4XG3NHo2gzil6Ze78aIJIrF9CC5BpSOC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNK3Jh7h1bWPg2qMJabDQNRmo27q5VPPYPEPts=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNvOiClSR1MjQjGQSBwFKQhAhDeiisl8cQ3jsA=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJxwxW95LRw0cR3dWaKky1YlU",
+      "google_maps_url": "https://maps.google.com/?cid=6152679379678451165",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Gentstraat 90, 9111 Sint-Niklaas, Belgium",
-        "geometry": {
-          "location": {
-            "lat": 51.17217180000001,
-            "lng": 4.0969224
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 51.17353263029151,
-              "lng": 4.098376480291503
-            },
-            "southwest": {
-              "lat": 51.17083466970851,
-              "lng": 4.095678519708499
-            }
-          }
-        },
-        "name": "The Buddharama Temple Meditation Center",
-        "place_id": "ChIJf84GrRuPw0cRKYf73QL6qOY",
-        "url": "https://maps.google.com/?cid=16620809315031942953",
-        "website": "https://www.facebook.com/TheBuddharamaTemple/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN22jtDt9ZYN1x5sVKCvWOAfUudXXs2Rco-A8YP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJ8Ay4GKVDvh2P_cbRKK83fYNAi8TZ8JyjzM1w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOdoXcdOi0XHGSUyjZ4Ojn3SUwTsfN4lAitS--M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMQjzuR_y5N7QXn0zWvDhQPm3BwWwOAQP-V4jN4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCpPrDM1SmjS-BAAnplxOhkx-i4Wh5RFteDx8g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMr_EXDXAT4ulJMRWAmy5_wISK6rkFwTIAupMeP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7TsUvat5i_VGH2XGEcu_rZVjUbnUHk4NCIq76=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCMgbQPfMo7fkD8qLAxl6v5qoCZhw0nFk02j01=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPlBS7vN5nfoZm2bYK_QZqFojTX-kxVZKav8kJh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNOeY8nt0jfFvw5v58ky20Xbs-q5DBmcnyUqLt=s1600-w800-h800"
-        ]
+      "name": "The Buddharama Temple Meditation Center",
+      "location": {
+        "lat": 51.17217180000001,
+        "lng": 4.0969224
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:50.374Z"
-      }
+      "address": "Gentstraat 90, 9111 Sint-Niklaas, Belgium",
+      "website": "https://www.facebook.com/TheBuddharamaTemple/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN22jtDt9ZYN1x5sVKCvWOAfUudXXs2Rco-A8YP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJ8Ay4GKVDvh2P_cbRKK83fYNAi8TZ8JyjzM1w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOdoXcdOi0XHGSUyjZ4Ojn3SUwTsfN4lAitS--M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMQjzuR_y5N7QXn0zWvDhQPm3BwWwOAQP-V4jN4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCpPrDM1SmjS-BAAnplxOhkx-i4Wh5RFteDx8g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMr_EXDXAT4ulJMRWAmy5_wISK6rkFwTIAupMeP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7TsUvat5i_VGH2XGEcu_rZVjUbnUHk4NCIq76=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCMgbQPfMo7fkD8qLAxl6v5qoCZhw0nFk02j01=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPlBS7vN5nfoZm2bYK_QZqFojTX-kxVZKav8kJh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNOeY8nt0jfFvw5v58ky20Xbs-q5DBmcnyUqLt=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJf84GrRuPw0cRKYf73QL6qOY",
+      "google_maps_url": "https://maps.google.com/?cid=16620809315031942953",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "39 Tecumseh St, Winnipeg, MB R3E 0J8, Canada",
-        "geometry": {
-          "location": {
-            "lat": 49.9039677,
-            "lng": -97.16416629999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.9053457802915,
-              "lng": -97.1629110697085
-            },
-            "southwest": {
-              "lat": 49.90264781970851,
-              "lng": -97.1656090302915
-            }
-          }
-        },
-        "international_phone_number": "+1 204-774-9267",
-        "name": "Manitoba Buddhist Temple",
-        "place_id": "ChIJs3hCMcNz6lIRL3p53ogBjNI",
-        "url": "https://maps.google.com/?cid=15171502932064041519",
-        "website": "https://www.manitobabuddhistchurch.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNh7Xi0HylzSIDbZmYSbSCunszhsPVnktNULw2U=s1600-w800-h800"
-        ]
+      "name": "Manitoba Buddhist Temple",
+      "location": {
+        "lat": 49.9039677,
+        "lng": -97.16416629999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:50.374Z"
-      }
+      "address": "39 Tecumseh St, Winnipeg, MB R3E 0J8, Canada",
+      "phone": "+1 204-774-9267",
+      "website": "https://www.manitobabuddhistchurch.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNh7Xi0HylzSIDbZmYSbSCunszhsPVnktNULw2U=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJs3hCMcNz6lIRL3p53ogBjNI",
+      "google_maps_url": "https://maps.google.com/?cid=15171502932064041519",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "88 Cadboro Rd, Winnipeg, MB R3Y 1R7, Canada",
-        "geometry": {
-          "location": {
-            "lat": 49.8003013,
-            "lng": -97.1778942
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.8018608802915,
-              "lng": -97.1767236197085
-            },
-            "southwest": {
-              "lat": 49.79916291970851,
-              "lng": -97.1794215802915
-            }
-          }
-        },
-        "international_phone_number": "+1 204-269-6026",
-        "name": "Manitoba Buddhist Vihara - MBVCA",
-        "place_id": "ChIJTWi1yudz6lIRrPmyLRTQ4Fs",
-        "url": "https://maps.google.com/?cid=6620520237319256492",
-        "website": "https://mbvca.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPIHoJ5PfOgaJNj_0rPJ5zrK1dYbuAkyvpaRvcn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYxe1bk3M2txL_TRFW8pz-6R-dmtR_lGXbKjAh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZwyOCV9oJC9fBytU0TeRGDpqPzdcjvY43Qtjf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-ryyOTWRbrFEFaDU-c3Yb-ss4mryS_6eL4vDQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORNqM1rYrxqcVYY8fmR-jUcMc9HJZxEX2tRaQ2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9SrOSeRgftWJ_sQ9kj9LuLczCbLxTxr-d1T3e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBmaKNXWQEnoFphu0J8oPXV4rwDLUur9iPLG0U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODJOZtRw_wxniUgEqtd-0b5Tidpzzd5EXMxdcO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNil3ecDEz_4uDnUh-HD2jwmdHQp2R9m0V7sedU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWcr2hyI9ohKChsTszloq4pAC_FPORPfhPgqSn=s1600-w800-h800"
-        ]
+      "name": "Manitoba Buddhist Vihara - MBVCA",
+      "location": {
+        "lat": 49.8003013,
+        "lng": -97.1778942
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:50.374Z"
-      }
+      "address": "88 Cadboro Rd, Winnipeg, MB R3Y 1R7, Canada",
+      "phone": "+1 204-269-6026",
+      "website": "https://mbvca.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPIHoJ5PfOgaJNj_0rPJ5zrK1dYbuAkyvpaRvcn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYxe1bk3M2txL_TRFW8pz-6R-dmtR_lGXbKjAh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZwyOCV9oJC9fBytU0TeRGDpqPzdcjvY43Qtjf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-ryyOTWRbrFEFaDU-c3Yb-ss4mryS_6eL4vDQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORNqM1rYrxqcVYY8fmR-jUcMc9HJZxEX2tRaQ2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9SrOSeRgftWJ_sQ9kj9LuLczCbLxTxr-d1T3e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBmaKNXWQEnoFphu0J8oPXV4rwDLUur9iPLG0U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODJOZtRw_wxniUgEqtd-0b5Tidpzzd5EXMxdcO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNil3ecDEz_4uDnUh-HD2jwmdHQp2R9m0V7sedU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWcr2hyI9ohKChsTszloq4pAC_FPORPfhPgqSn=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTWi1yudz6lIRrPmyLRTQ4Fs",
+      "google_maps_url": "https://maps.google.com/?cid=6620520237319256492",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "80 Rue des Ruines du Monastere, Winnipeg, MB R3V 0B1, Canada",
-        "geometry": {
-          "location": {
-            "lat": 49.7571149,
-            "lng": -97.15443549999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.7586921802915,
-              "lng": -97.15335226970849
-            },
-            "southwest": {
-              "lat": 49.7559942197085,
-              "lng": -97.1560502302915
-            }
-          }
-        },
-        "international_phone_number": "+1 204-945-6784",
-        "name": "Trappist Monastery Provincial Heritage Park",
-        "place_id": "ChIJBaxcFQLfwVIRVQVebmwg-8c",
-        "url": "https://maps.google.com/?cid=14410147082782246229",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO0OwWgIB4YoMYKIl2gj-GTKaTIEsd5o1x84u-e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWus7eOgrpvk-qM6DSlAxk46QZUgR3r3stq4wc=s1600-w800-h598",
-          "https://lh3.googleusercontent.com/p/AF1QipOwuvxNiYJJNLacfUaJ-Jxz7ZCoGJsGs3HkQu3Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdKUW3BKQGXSeyoETv-Or-l79sIUzgBfFiD64E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNd3ZTBmUf0iaKKtR8JDWudQUS-5vAT9P3ygGe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNnZeBbYQYNci8uDAa8Gg4ymkE04go5_aUYxYN4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_YVRPrQ8l-o163p2VDJuKgr6UgJWWKphsXGm-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPD_aLNcCJyqogqLzh0nNdyr6V2nzaTFmICreQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPTZMVncwHTabs4eMNEprvbuaEboSDZjgexAll=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCo8U8fDgvvB4v8xWCxE7LADq6ED4JesIM5GT0=s1600-w800-h800"
-        ]
+      "name": "Trappist Monastery Provincial Heritage Park",
+      "location": {
+        "lat": 49.7571149,
+        "lng": -97.15443549999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:50.374Z"
-      }
+      "address": "80 Rue des Ruines du Monastere, Winnipeg, MB R3V 0B1, Canada",
+      "phone": "+1 204-945-6784",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO0OwWgIB4YoMYKIl2gj-GTKaTIEsd5o1x84u-e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWus7eOgrpvk-qM6DSlAxk46QZUgR3r3stq4wc=s1600-w800-h598",
+        "https://lh3.googleusercontent.com/p/AF1QipOwuvxNiYJJNLacfUaJ-Jxz7ZCoGJsGs3HkQu3Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdKUW3BKQGXSeyoETv-Or-l79sIUzgBfFiD64E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNd3ZTBmUf0iaKKtR8JDWudQUS-5vAT9P3ygGe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNnZeBbYQYNci8uDAa8Gg4ymkE04go5_aUYxYN4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_YVRPrQ8l-o163p2VDJuKgr6UgJWWKphsXGm-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPD_aLNcCJyqogqLzh0nNdyr6V2nzaTFmICreQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPTZMVncwHTabs4eMNEprvbuaEboSDZjgexAll=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCo8U8fDgvvB4v8xWCxE7LADq6ED4JesIM5GT0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJBaxcFQLfwVIRVQVebmwg-8c",
+      "google_maps_url": "https://maps.google.com/?cid=14410147082782246229",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Corman Park No. 344, SK S0K 1V0, Canada",
-        "geometry": {
-          "location": {
-            "lat": 52.03385209999999,
-            "lng": -106.7203894
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.03571703029149,
-              "lng": -106.71824185
-            },
-            "southwest": {
-              "lat": 52.03301906970849,
-              "lng": -106.72683205
-            }
-          }
-        },
-        "international_phone_number": "+1 306-374-2840",
-        "name": "Mahamevnawa Buddhist Monastery and Buddha Meditation Centre Saskatoon",
-        "place_id": "ChIJF9qMkwv7BFMRwTpZoZZQZv0",
-        "url": "https://maps.google.com/?cid=18259370347102550721",
-        "website": "https://www.mahamevnawasaskatoon.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO7-cDZxnabZgxGPD5wqxsWJLpExDl0nOpoefzc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNO_g12LjNgpDjmEx0kYDtNW_AaW1omutNm97EQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN7YUXK3acgQHiMhLK2i8jasGZnuifXRg7ZzQzj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOaqUiPFsS41YgY-xNbn2DaIfwoGNI_3XYdB2mC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPqW_zFUS5BaAtCAfVSjdCu07aneY8aAHClCdi2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWbAY63v_bLdQrhYN3rowo0LQEgzxhNv78UppH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtle7wxduYCFE4JnUooyrIeMZ-MOcJJK9it1oF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPu0I3fbB9LhqQ3vg22aCLNGtIkXzz9F2Eh_6F3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNRqoLNtgZbGnGrimdiKivQswcgvf081-xWP-_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM23sk03bxRcazpzjomNQF1Up2BWJrVtx5Bjp3k=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Buddhist Monastery and Buddha Meditation Centre Saskatoon",
+      "location": {
+        "lat": 52.03385209999999,
+        "lng": -106.7203894
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:50.374Z"
-      }
+      "address": "Corman Park No. 344, SK S0K 1V0, Canada",
+      "phone": "+1 306-374-2840",
+      "website": "https://www.mahamevnawasaskatoon.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO7-cDZxnabZgxGPD5wqxsWJLpExDl0nOpoefzc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNO_g12LjNgpDjmEx0kYDtNW_AaW1omutNm97EQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN7YUXK3acgQHiMhLK2i8jasGZnuifXRg7ZzQzj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOaqUiPFsS41YgY-xNbn2DaIfwoGNI_3XYdB2mC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPqW_zFUS5BaAtCAfVSjdCu07aneY8aAHClCdi2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWbAY63v_bLdQrhYN3rowo0LQEgzxhNv78UppH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtle7wxduYCFE4JnUooyrIeMZ-MOcJJK9it1oF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPu0I3fbB9LhqQ3vg22aCLNGtIkXzz9F2Eh_6F3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNRqoLNtgZbGnGrimdiKivQswcgvf081-xWP-_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM23sk03bxRcazpzjomNQF1Up2BWJrVtx5Bjp3k=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJF9qMkwv7BFMRwTpZoZZQZv0",
+      "google_maps_url": "https://maps.google.com/?cid=18259370347102550721",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tränkweg 7, 63699 Kefenrod, Germany",
-        "geometry": {
-          "location": {
-            "lat": 50.34324,
-            "lng": 9.21208
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.3446600302915,
-              "lng": 9.213559930291504
-            },
-            "southwest": {
-              "lat": 50.34196206970851,
-              "lng": 9.2108619697085
-            }
-          }
-        },
-        "international_phone_number": "+49 6049 9521978",
-        "name": "Wat Buddhametta Mahamongkol Buddhistisches Kloster",
-        "place_id": "ChIJv5XBk8UivUcRGgA0XEz-2HE",
-        "url": "https://maps.google.com/?cid=8203586325173239834",
-        "website": "http://www.wat-p.de/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOFkmOFxFKmQ2P5yJA6jIYvfTk5FI0pcHtSDshQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNkCpWpyU9SFBQYmSXVsDi_BHbnkpcnZs3XzTi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPK24aqYuTFE6OY_E5kSWc1lzZuRfKBLu58Ms53=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM5Uw6r8URVF9RN_g45DC5DZzgimEQn4FeOHHh6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlxhlgtGtC6F8jpDHSkwzBUIdzd9qc9uUfd_6M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBTJ01Oi-SlS5Tp15gfVIpPylelYMkTo839USs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZ4OitKY7ZnsjZnJP3WbfWck_1MxMfQYQONj7m=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQ6Zb-Bym7_Zjh7021aNIhtxhVwRXLLN3l9rMQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUm8x_PZsPnzz6RRiY8h2MRN5ey_eMU_9BF0FY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGCL0Sd4KYoBsA8CzOMnEutkNAnm3wUfwCUKl1=s1600-w800-h800"
-        ]
+      "name": "Wat Buddhametta Mahamongkol Buddhistisches Kloster",
+      "location": {
+        "lat": 50.34324,
+        "lng": 9.21208
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:50.374Z"
-      }
+      "address": "Tränkweg 7, 63699 Kefenrod, Germany",
+      "phone": "+49 6049 9521978",
+      "website": "http://www.wat-p.de/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOFkmOFxFKmQ2P5yJA6jIYvfTk5FI0pcHtSDshQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNkCpWpyU9SFBQYmSXVsDi_BHbnkpcnZs3XzTi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPK24aqYuTFE6OY_E5kSWc1lzZuRfKBLu58Ms53=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM5Uw6r8URVF9RN_g45DC5DZzgimEQn4FeOHHh6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlxhlgtGtC6F8jpDHSkwzBUIdzd9qc9uUfd_6M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBTJ01Oi-SlS5Tp15gfVIpPylelYMkTo839USs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZ4OitKY7ZnsjZnJP3WbfWck_1MxMfQYQONj7m=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQ6Zb-Bym7_Zjh7021aNIhtxhVwRXLLN3l9rMQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUm8x_PZsPnzz6RRiY8h2MRN5ey_eMU_9BF0FY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGCL0Sd4KYoBsA8CzOMnEutkNAnm3wUfwCUKl1=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJv5XBk8UivUcRGgA0XEz-2HE",
+      "google_maps_url": "https://maps.google.com/?cid=8203586325173239834",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Frankfurter Str. 63, 63067 Offenbach am Main, Germany",
-        "geometry": {
-          "location": {
-            "lat": 50.1049042,
-            "lng": 8.757341900000002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.1061132802915,
-              "lng": 8.758779130291506
-            },
-            "southwest": {
-              "lat": 50.1034153197085,
-              "lng": 8.756081169708501
-            }
-          }
-        },
-        "international_phone_number": "+49 69 85096004",
-        "name": "Mahamevnawa Meditation Monastery Germany",
-        "place_id": "ChIJt1jNuwgOvUcRmZueIqr5kGg",
-        "url": "https://maps.google.com/?cid=7534796685711416217",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mahamevnawa Meditation Monastery Germany",
+      "location": {
+        "lat": 50.1049042,
+        "lng": 8.757341900000002
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Frankfurter Str. 63, 63067 Offenbach am Main, Germany",
+      "phone": "+49 69 85096004",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJt1jNuwgOvUcRmZueIqr5kGg",
+      "google_maps_url": "https://maps.google.com/?cid=7534796685711416217",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Dietzenbacher Str. 6, 63303 Dreieich, Germany",
-        "geometry": {
-          "location": {
-            "lat": 49.99805560000001,
-            "lng": 8.733888900000002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.99933238029151,
-              "lng": 8.735269180291505
-            },
-            "southwest": {
-              "lat": 49.99663441970851,
-              "lng": 8.7325712197085
-            }
-          }
-        },
-        "name": "WatBuddhapiyawararam",
-        "place_id": "ChIJI75Ybp9yvUcR9l42Z1anT38",
-        "url": "https://maps.google.com/?cid=9173734955517632246",
-        "website": "https://watthaigoetzenhain.hpage.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM4if8RHfyj8G_oVkpHy0TPvylTj87iMqBMstpq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeoDzzFhC5hbMgZIBmM4-2_TBRGuTvXwcDoL3P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJXwKB8fQgJThZrMOs_5YfIxsiN4DFORff7nz8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPJgmYObHojkh6oIrihehQqHitR1o5_ck4DJ0tE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUU8gvAiXWopQeM7E2yCeuTIu09SfKqXXwukFB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUrtkB0RWBLnTMlbfVmhpyc3zeQZRJRRN4Z-OC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1Atc0saaHDwrOix1X963Nh5FbHYCik8ZBKQC5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOlaOZZ6isne5xqoMtSz52vHpUXqaqBk-Se-cA-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhSS3laDftcm_AXzYi5UJzObQ6LKR1VUZHTn9T=s1600-w800-h800"
-        ]
+      "name": "WatBuddhapiyawararam",
+      "location": {
+        "lat": 49.99805560000001,
+        "lng": 8.733888900000002
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:50.374Z"
-      }
+      "address": "Dietzenbacher Str. 6, 63303 Dreieich, Germany",
+      "website": "https://watthaigoetzenhain.hpage.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM4if8RHfyj8G_oVkpHy0TPvylTj87iMqBMstpq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeoDzzFhC5hbMgZIBmM4-2_TBRGuTvXwcDoL3P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJXwKB8fQgJThZrMOs_5YfIxsiN4DFORff7nz8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPJgmYObHojkh6oIrihehQqHitR1o5_ck4DJ0tE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUU8gvAiXWopQeM7E2yCeuTIu09SfKqXXwukFB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUrtkB0RWBLnTMlbfVmhpyc3zeQZRJRRN4Z-OC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1Atc0saaHDwrOix1X963Nh5FbHYCik8ZBKQC5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOlaOZZ6isne5xqoMtSz52vHpUXqaqBk-Se-cA-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhSS3laDftcm_AXzYi5UJzObQ6LKR1VUZHTn9T=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJI75Ybp9yvUcR9l42Z1anT38",
+      "google_maps_url": "https://maps.google.com/?cid=9173734955517632246",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Melchiorstraße 9, 65929 Frankfurt am Main, Germany",
-        "geometry": {
-          "location": {
-            "lat": 50.1007137,
-            "lng": 8.548142699999998
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.1020626802915,
-              "lng": 8.5494916802915
-            },
-            "southwest": {
-              "lat": 50.0993647197085,
-              "lng": 8.546793719708495
-            }
-          }
-        },
-        "international_phone_number": "+49 69 30066768",
-        "name": "Wat Bodhi-Dhamm - Buddistischer Verein e.V.",
-        "place_id": "ChIJJyBhgqSgvUcR3FdBhjAl3lQ",
-        "url": "https://maps.google.com/?cid=6115366234356799452",
-        "website": "https://wat-bodhi-dhamm.business.site/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPLHh2P-jX8OBPnKkUYe5db3aYL8R40Dh-vaH4S=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZgcycLjCTvhCf8LapWdkBIJfGCKqjixtX-Mp9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQD2USZuUv7ZsQcpS5zgaxliF1yQF2-j3-yl1t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGR0rdvBnAaXlXvLajosTd71cV7frCMtPuCU3C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrX1GSaX0hGPr0vLmpaehyvSE79eQJyl8Emt99=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPh88mlzc-c17HkcDXbI2_CEPg54XOi0JOdTs3f=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNbst-4uSywNnzIiymdLzNoY-eNXUHWM666_7sw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNiLiGw-gxQkMNW5BqXFnRhKXEKA_bt5DNjgdv0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyPRroO7x1TcbTWj1uvdufC_cg9TVdyYmGsfMj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6yQmHOlGEhiDIO_N82E6cA6BxZxRqvtERPuON=s1600-w800-h800"
-        ]
+      "name": "Wat Bodhi-Dhamm - Buddistischer Verein e.V.",
+      "location": {
+        "lat": 50.1007137,
+        "lng": 8.548142699999998
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:50.374Z"
-      }
+      "address": "Melchiorstraße 9, 65929 Frankfurt am Main, Germany",
+      "phone": "+49 69 30066768",
+      "website": "https://wat-bodhi-dhamm.business.site/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPLHh2P-jX8OBPnKkUYe5db3aYL8R40Dh-vaH4S=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZgcycLjCTvhCf8LapWdkBIJfGCKqjixtX-Mp9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQD2USZuUv7ZsQcpS5zgaxliF1yQF2-j3-yl1t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGR0rdvBnAaXlXvLajosTd71cV7frCMtPuCU3C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrX1GSaX0hGPr0vLmpaehyvSE79eQJyl8Emt99=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPh88mlzc-c17HkcDXbI2_CEPg54XOi0JOdTs3f=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNbst-4uSywNnzIiymdLzNoY-eNXUHWM666_7sw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNiLiGw-gxQkMNW5BqXFnRhKXEKA_bt5DNjgdv0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyPRroO7x1TcbTWj1uvdufC_cg9TVdyYmGsfMj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6yQmHOlGEhiDIO_N82E6cA6BxZxRqvtERPuON=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJJyBhgqSgvUcR3FdBhjAl3lQ",
+      "google_maps_url": "https://maps.google.com/?cid=6115366234356799452",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Michelsberg 10, 96049 Bamberg, Germany",
-        "geometry": {
-          "location": {
-            "lat": 49.8937031,
-            "lng": 10.8769477
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.8950291302915,
-              "lng": 10.8781757302915
-            },
-            "southwest": {
-              "lat": 49.8923311697085,
-              "lng": 10.8754777697085
-            }
-          }
-        },
-        "name": "Michelsberg monastery",
-        "place_id": "ChIJWwpEYj4jokcRSo2FDCLLHR0",
-        "url": "https://maps.google.com/?cid=2098056348523924810",
-        "website": "http://www.bamberg.de/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMOmYLXLuMAkq0B0SmhdVSSuxCdn2LlCcoJy9Kg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXv2pYTvbU73iw8nqzUzeaovHIvdrg3_HBJl7w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPbwUkGnABjljHwPDIHcK39qAbhGlamw-bbivCm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3HU5PWyhjZQ0us3htMoSTNX47yUwpujewqQLe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLb83c_-lhH_n13l3lzt47R0iLG-tvTp6b3mbK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_YE82nk04-eZyV7evVFJNKcDQmqFel3rTXDfL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsoj0Q2Kr42BTvqJcHI-m5-gtfYaAVZx5k96lt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNLeHTj5Jv3zw-L0rLMncjYEJkLdGAoUwHmONBL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLw7O8caLZUw-A4pCjKVp56YuQTYCc_bcmt2OW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsInpPPUJJHtrLDJ4fu5Mm8kbKnbYHw8UwhlKk=s1600-w800-h800"
-        ]
+      "name": "Michelsberg monastery",
+      "location": {
+        "lat": 49.8937031,
+        "lng": 10.8769477
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:50.374Z"
-      }
+      "address": "Michelsberg 10, 96049 Bamberg, Germany",
+      "website": "http://www.bamberg.de/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMOmYLXLuMAkq0B0SmhdVSSuxCdn2LlCcoJy9Kg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXv2pYTvbU73iw8nqzUzeaovHIvdrg3_HBJl7w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPbwUkGnABjljHwPDIHcK39qAbhGlamw-bbivCm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3HU5PWyhjZQ0us3htMoSTNX47yUwpujewqQLe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLb83c_-lhH_n13l3lzt47R0iLG-tvTp6b3mbK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_YE82nk04-eZyV7evVFJNKcDQmqFel3rTXDfL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsoj0Q2Kr42BTvqJcHI-m5-gtfYaAVZx5k96lt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNLeHTj5Jv3zw-L0rLMncjYEJkLdGAoUwHmONBL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLw7O8caLZUw-A4pCjKVp56YuQTYCc_bcmt2OW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsInpPPUJJHtrLDJ4fu5Mm8kbKnbYHw8UwhlKk=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJWwpEYj4jokcRSo2FDCLLHR0",
+      "google_maps_url": "https://maps.google.com/?cid=2098056348523924810",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

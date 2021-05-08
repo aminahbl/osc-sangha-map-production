@@ -1,2448 +1,1922 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "162 Old Upton Rd, Grafton, MA 01519, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.1893225,
-            "lng": -71.6585992
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.19075178029149,
-              "lng": -71.6572079697085
-            },
-            "southwest": {
-              "lat": 42.18805381970849,
-              "lng": -71.65990593029152
-            }
-          }
-        },
-        "international_phone_number": "+1 508-839-5038",
-        "name": "New England Buddhist Vihara & Meditation Center (Boston Buddhist Vihara)",
-        "place_id": "ChIJL9eS9ywM5IkRKoaalMaoGsA",
-        "url": "https://maps.google.com/?cid=13842561975526786602",
-        "website": "http://www.nebvmc.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNGf8KYe7wQtlkzfytgVbnugYzW498EMYgAbv6t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPiNw82ptinOW5xL0KGfx2ulYi5ngOwYMuHXhZq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvxiBOeKxZo7OChP_suSovAZIviUyNoa2LOCJL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAi0tcV6TlpYJlhCZb1_WH7vOxJgxyHGS2CLLg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMvhGGMhqzO0iOZiV8jarxetrasNZdtCG6YI4q1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOi0cGme6yeb-gVfPtU5tHOrB4nnaUSHrtP9_Of=s1600-w540-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvKIl94mceGxa4hUZ9d7Fzjo9AdZj-M8UpJr-e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOOJeGei5iXiwhimfriuBegjQc9Hi2V8aqQJLI6=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipOYij78n6cMJnpbVNk5y6w-wOdyUqGmws3N2MqX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPFvyPtKBy4g2cVvVgEeAohicCJnAUthLGfakGQ=s1600-w800-h800"
-        ]
+      "name": "New England Buddhist Vihara & Meditation Center (Boston Buddhist Vihara)",
+      "location": {
+        "lat": 42.1893225,
+        "lng": -71.6585992
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "162 Old Upton Rd, Grafton, MA 01519, USA",
+      "phone": "+1 508-839-5038",
+      "website": "http://www.nebvmc.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNGf8KYe7wQtlkzfytgVbnugYzW498EMYgAbv6t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPiNw82ptinOW5xL0KGfx2ulYi5ngOwYMuHXhZq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvxiBOeKxZo7OChP_suSovAZIviUyNoa2LOCJL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAi0tcV6TlpYJlhCZb1_WH7vOxJgxyHGS2CLLg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMvhGGMhqzO0iOZiV8jarxetrasNZdtCG6YI4q1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOi0cGme6yeb-gVfPtU5tHOrB4nnaUSHrtP9_Of=s1600-w540-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvKIl94mceGxa4hUZ9d7Fzjo9AdZj-M8UpJr-e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOOJeGei5iXiwhimfriuBegjQc9Hi2V8aqQJLI6=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipOYij78n6cMJnpbVNk5y6w-wOdyUqGmws3N2MqX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPFvyPtKBy4g2cVvVgEeAohicCJnAUthLGfakGQ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJL9eS9ywM5IkRKoaalMaoGsA",
+      "google_maps_url": "https://maps.google.com/?cid=13842561975526786602",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "25 Milot Rd, Westford, MA 01886, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.5890968,
-            "lng": -71.4741054
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.59044198029149,
-              "lng": -71.47293861970849
-            },
-            "southwest": {
-              "lat": 42.5877440197085,
-              "lng": -71.47563658029149
-            }
-          }
-        },
-        "international_phone_number": "+1 978-692-3120",
-        "name": "Wat Buddhabhavana",
-        "place_id": "ChIJCXgHJ-K944kR5T9rauIv02c",
-        "url": "https://maps.google.com/?cid=7481376055487053797",
-        "website": "https://pluralism.org/wat-buddhabhavana-great-wisdom-center",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPw7TmhuV93lxyZOHwoK7VQ4Z5R-ov2xKsEAa8h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmv2F86UoMb44EwyxJUiic2pYEKthkwOjSymKI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOHOYWA5e-9fDBp9LXUtM6UTm6tQDt2HnqV9z1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOPB70gx-_Bvtc6NbykQ9vi1K4cH_7NCDElz6LB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYbSIMO6Bo18zs_EuKhte1Wsl52SlYjATZP4nc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAxMWAZE6B8HPa00qkGwwN9CA_YHvwTArXGyDE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMbjah0x8nl9gP3TXfoWQXAchEaRrTksKBe1ZBB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNp-HInTXz0xCl5Jgpq6gy3KLNyCSZHf6z8Rsau=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMiUT3urp63XR1tj3DZV2krGG3pyofLYrv1B1MM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6M2LmeIwj1hcuYADkl_6UgRfz5HUV9-pf5Y8=s1600-w800-h800"
-        ]
+      "name": "Wat Buddhabhavana",
+      "location": {
+        "lat": 42.5890968,
+        "lng": -71.4741054
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "25 Milot Rd, Westford, MA 01886, USA",
+      "phone": "+1 978-692-3120",
+      "website": "https://pluralism.org/wat-buddhabhavana-great-wisdom-center",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPw7TmhuV93lxyZOHwoK7VQ4Z5R-ov2xKsEAa8h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmv2F86UoMb44EwyxJUiic2pYEKthkwOjSymKI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOHOYWA5e-9fDBp9LXUtM6UTm6tQDt2HnqV9z1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOPB70gx-_Bvtc6NbykQ9vi1K4cH_7NCDElz6LB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYbSIMO6Bo18zs_EuKhte1Wsl52SlYjATZP4nc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAxMWAZE6B8HPa00qkGwwN9CA_YHvwTArXGyDE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMbjah0x8nl9gP3TXfoWQXAchEaRrTksKBe1ZBB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNp-HInTXz0xCl5Jgpq6gy3KLNyCSZHf6z8Rsau=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMiUT3urp63XR1tj3DZV2krGG3pyofLYrv1B1MM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6M2LmeIwj1hcuYADkl_6UgRfz5HUV9-pf5Y8=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJCXgHJ-K944kR5T9rauIv02c",
+      "google_maps_url": "https://maps.google.com/?cid=7481376055487053797",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "53 Massachusetts Ave, Quincy, MA 02169, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.2485595,
-            "lng": -70.9872791
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.2499325802915,
-              "lng": -70.98611481970849
-            },
-            "southwest": {
-              "lat": 42.2472346197085,
-              "lng": -70.98881278029151
-            }
-          }
-        },
-        "international_phone_number": "+1 617-773-1688",
-        "name": "Massachusetts Budhi Siksa Society - Thousand Buddha Temple",
-        "place_id": "ChIJX3aH9UZj44kR0okU_boxE3U",
-        "url": "https://maps.google.com/?cid=8436141206174730706",
-        "website": "http://thethousandbuddhatemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOrOCY84tnbh1fAzroODMcSgXNk4TLcw_oIVX44=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3QBZlBKA6_N5rVD0jPUcyMwSLS8VgywLjRgji=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNKL-zLIRpLbHLx0DNF-HDU8JHLEqtLX6VKs31K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMemY5J3oKKNNsRemaLlAf3YhwwXYs8XTLtPNyC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgJFjtscywCuXHV6FNO6a_vv9Fv8le3IOeveI1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfTpwPuWU3scEAsidPM8kSTziM_OBm-AtJfaWL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNJDpUcHHropd4O38vUOj3HJGssrwQqR-ihJYX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMA3BIRY2iyAEMDTUYWgzQj2JLgd-CaKNzcQ2hB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMIDvPqa84VS09SMy_qT_UTMaf3xIealaGvjFUw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVSVlIzi3tKmmgOlOYDKr-Nh9kKa56YWTJgTuW=s1600-w800-h800"
-        ]
+      "name": "Massachusetts Budhi Siksa Society - Thousand Buddha Temple",
+      "location": {
+        "lat": 42.2485595,
+        "lng": -70.9872791
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "53 Massachusetts Ave, Quincy, MA 02169, USA",
+      "phone": "+1 617-773-1688",
+      "website": "http://thethousandbuddhatemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOrOCY84tnbh1fAzroODMcSgXNk4TLcw_oIVX44=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3QBZlBKA6_N5rVD0jPUcyMwSLS8VgywLjRgji=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNKL-zLIRpLbHLx0DNF-HDU8JHLEqtLX6VKs31K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMemY5J3oKKNNsRemaLlAf3YhwwXYs8XTLtPNyC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgJFjtscywCuXHV6FNO6a_vv9Fv8le3IOeveI1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfTpwPuWU3scEAsidPM8kSTziM_OBm-AtJfaWL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNJDpUcHHropd4O38vUOj3HJGssrwQqR-ihJYX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMA3BIRY2iyAEMDTUYWgzQj2JLgd-CaKNzcQ2hB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMIDvPqa84VS09SMy_qT_UTMaf3xIealaGvjFUw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVSVlIzi3tKmmgOlOYDKr-Nh9kKa56YWTJgTuW=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJX3aH9UZj44kR0okU_boxE3U",
+      "google_maps_url": "https://maps.google.com/?cid=8436141206174730706",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "24 Cambridge St, Lowell, MA 01851, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.63294499999999,
-            "lng": -71.3177518
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.63425563029149,
-              "lng": -71.31646401970849
-            },
-            "southwest": {
-              "lat": 42.6315576697085,
-              "lng": -71.3191619802915
-            }
-          }
-        },
-        "name": "The Glory Buddhist Temple",
-        "place_id": "ChIJ_dzm-nGk44kRAS0v_K656dM",
-        "url": "https://maps.google.com/?cid=15269940172782775553",
-        "website": "http://glorybuddhisttemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "The Glory Buddhist Temple",
+      "location": {
+        "lat": 42.63294499999999,
+        "lng": -71.3177518
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "24 Cambridge St, Lowell, MA 01851, USA",
+      "website": "http://glorybuddhisttemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_dzm-nGk44kRAS0v_K656dM",
+      "google_maps_url": "https://maps.google.com/?cid=15269940172782775553",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "125 North Rd, Bedford, MA 01730, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.5010063,
-            "lng": -71.28221049999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.5023290802915,
-              "lng": -71.28098786970848
-            },
-            "southwest": {
-              "lat": 42.4996311197085,
-              "lng": -71.28368583029149
-            }
-          }
-        },
-        "international_phone_number": "+1 781-271-0989",
-        "name": "Boston Buddha Vararam Temple",
-        "place_id": "ChIJx8dCB9We44kRVds0KPlxrhc",
-        "url": "https://maps.google.com/?cid=1706426623755344725",
-        "website": "http://www.watboston.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN6nND3txAHukjv_sPwKtUW3MngPGqOiYTMnLL8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOR56IV_94Irq_aUOZaBSpQY00FglVj28SyyVgP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdpPmZnGn6CblYAXDKplus4sKNAqSnnF0_ziv4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7_knoTgFbOHzfFGMkivKpcIs2JdL7y6AIMKvp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMaq1lKL-kaJUwhWiaTp_mtX032DiyuuplUj7IM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9sq4V1Ysp0ifrRwJHxOKWiHcOvJM16csiJsIo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPblo_ri7vW5Jq_2T26obKDZELV0iHF7_FBJ39A=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfuaP8JmeUdt3UrD7_w9Q0jjjYwhFPvu79zjbw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOBkPnjYmJQVyVqhCz6ClL6ZCt53YNe6oLJbddq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfdq9ONOt_6_PdAIS3UJ0Xj6j4ne61DKBdJAtP=s1600-w800-h800"
-        ]
+      "name": "Boston Buddha Vararam Temple",
+      "location": {
+        "lat": 42.5010063,
+        "lng": -71.28221049999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "125 North Rd, Bedford, MA 01730, USA",
+      "phone": "+1 781-271-0989",
+      "website": "http://www.watboston.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN6nND3txAHukjv_sPwKtUW3MngPGqOiYTMnLL8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOR56IV_94Irq_aUOZaBSpQY00FglVj28SyyVgP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdpPmZnGn6CblYAXDKplus4sKNAqSnnF0_ziv4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7_knoTgFbOHzfFGMkivKpcIs2JdL7y6AIMKvp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMaq1lKL-kaJUwhWiaTp_mtX032DiyuuplUj7IM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9sq4V1Ysp0ifrRwJHxOKWiHcOvJM16csiJsIo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPblo_ri7vW5Jq_2T26obKDZELV0iHF7_FBJ39A=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfuaP8JmeUdt3UrD7_w9Q0jjjYwhFPvu79zjbw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOBkPnjYmJQVyVqhCz6ClL6ZCt53YNe6oLJbddq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfdq9ONOt_6_PdAIS3UJ0Xj6j4ne61DKBdJAtP=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJx8dCB9We44kRVds0KPlxrhc",
+      "google_maps_url": "https://maps.google.com/?cid=1706426623755344725",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1030 Pleasant St, Worcester, MA 01602, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.2784757,
-            "lng": -71.845989
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.2799923802915,
-              "lng": -71.8446746197085
-            },
-            "southwest": {
-              "lat": 42.2772944197085,
-              "lng": -71.84737258029152
-            }
-          }
-        },
-        "name": "Boundless Way Temple/Worcester Zen Center",
-        "place_id": "ChIJCSzNpMgG5IkRDYXK_J0j61c",
-        "url": "https://maps.google.com/?cid=6335196462284702989",
-        "website": "http://www.worcesterzen.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPTYCZ3eLIE0oho_7-mR88B__CXjnG4FpMg1Vzw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVdYMRxLmqYKn8kt8UVxFpmWWUrm_jlQj78SA6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMbon6UM74d8Ew1H_nPm4Bt8dticwCkfaUfzq-T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLd0drVDMfEMAYoXK2B0MzRCT7NyJ8iBCP1Cs0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOh-h9pgGgga6sQerRftnOMbPHqB3TH711kiG23=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPMxsgJuK093h11MzX8TtijrlDOf_5c3PvMfbYx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPRbCzznH7NTbQ28izQYSQmcmaMYHMkg4ll8QW3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMIOEKtcr4GnZ0z2JHjoiCWM-905mkgV07aasYR=s1600-w800-h800"
-        ]
+      "name": "Boundless Way Temple/Worcester Zen Center",
+      "location": {
+        "lat": 42.2784757,
+        "lng": -71.845989
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "1030 Pleasant St, Worcester, MA 01602, USA",
+      "website": "http://www.worcesterzen.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPTYCZ3eLIE0oho_7-mR88B__CXjnG4FpMg1Vzw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVdYMRxLmqYKn8kt8UVxFpmWWUrm_jlQj78SA6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMbon6UM74d8Ew1H_nPm4Bt8dticwCkfaUfzq-T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLd0drVDMfEMAYoXK2B0MzRCT7NyJ8iBCP1Cs0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOh-h9pgGgga6sQerRftnOMbPHqB3TH711kiG23=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPMxsgJuK093h11MzX8TtijrlDOf_5c3PvMfbYx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPRbCzznH7NTbQ28izQYSQmcmaMYHMkg4ll8QW3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMIOEKtcr4GnZ0z2JHjoiCWM-905mkgV07aasYR=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJCSzNpMgG5IkRDYXK_J0j61c",
+      "google_maps_url": "https://maps.google.com/?cid=6335196462284702989",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "711 Concord Ave, Cambridge, MA 02138, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.390605,
-            "lng": -71.151783
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.3917983302915,
-              "lng": -71.15047061970849
-            },
-            "southwest": {
-              "lat": 42.3891003697085,
-              "lng": -71.15316858029149
-            }
-          }
-        },
-        "international_phone_number": "+1 617-547-6670",
-        "name": "Fo Guang Buddhist Temple Boston佛光山波士頓三佛中心",
-        "place_id": "ChIJt86xhVp344kRfAhMoNb3Qrw",
-        "url": "https://maps.google.com/?cid=13565677528777754748",
-        "website": "http://fgsbtboston.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNsIV1djnHUpPtBmT0T4Q9YTGPdCaV56WbIDHJt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWV_CE0Hwr3-1kpmATRRB8BPwMxtix5ab2FdBy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRvJzfu2vjHyKpkM5vOO5OnKvxZERT618mpr9g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWftIbUsZIh0EEfLCO3-p6Eze5o0n1F6ZJgUMF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQ8zVEX6gTrKjTRieEsVDGB8qGqrXf1EgSCiSc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO425NC2pZ8O--94vaMZfkFMLiSepm9wD0Cn3lK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWtPwkqmVFPexb9XwnXfz1qBp536U6cNX1_Kf6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMIY4FOwfvSsEXZeymKyc1jriUwgkSG82cemWCg=s1600-w800-h800"
-        ]
+      "name": "Fo Guang Buddhist Temple Boston佛光山波士頓三佛中心",
+      "location": {
+        "lat": 42.390605,
+        "lng": -71.151783
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "711 Concord Ave, Cambridge, MA 02138, USA",
+      "phone": "+1 617-547-6670",
+      "website": "http://fgsbtboston.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNsIV1djnHUpPtBmT0T4Q9YTGPdCaV56WbIDHJt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWV_CE0Hwr3-1kpmATRRB8BPwMxtix5ab2FdBy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRvJzfu2vjHyKpkM5vOO5OnKvxZERT618mpr9g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWftIbUsZIh0EEfLCO3-p6Eze5o0n1F6ZJgUMF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQ8zVEX6gTrKjTRieEsVDGB8qGqrXf1EgSCiSc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO425NC2pZ8O--94vaMZfkFMLiSepm9wD0Cn3lK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWtPwkqmVFPexb9XwnXfz1qBp536U6cNX1_Kf6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMIY4FOwfvSsEXZeymKyc1jriUwgkSG82cemWCg=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJt86xhVp344kRfAhMoNb3Qrw",
+      "google_maps_url": "https://maps.google.com/?cid=13565677528777754748",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "382 S St E, Raynham, MA 02767, USA",
-        "geometry": {
-          "location": {
-            "lat": 41.89487799999999,
-            "lng": -71.0339683
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.89637913029149,
-              "lng": -71.03276691970848
-            },
-            "southwest": {
-              "lat": 41.8936811697085,
-              "lng": -71.0354648802915
-            }
-          }
-        },
-        "international_phone_number": "+1 508-823-1800",
-        "name": "Wat Nawamintararachutis Meditation Center",
-        "place_id": "ChIJ1yiXQzGN5IkRTx0jwW5OhvE",
-        "url": "https://maps.google.com/?cid=17403684047613533519",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNnD3jGns5JlKMVX2h9CtDMwlR0np2Apt1cGleZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPlPHIfDfkc_dtvg0MdlKMHt-aDB-H3Eset8A0s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMmVOqLHXD-Lq-wyhqS86toq8YDkD1yX-kywsoa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPXpecpHIN992yiB9iUKNzllE3xWRwaQYKBbaiH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtVMI36XWnVjuC5yLwea5zR59G0BoYp7kvF3SU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXOwRVTNulMG1bv7OBzXhoGEFdubLVD286OcJq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYo7EeyRwqHmgks3DEj4M1PB5d9RnQ0vhIkPoH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2g3kwBbDy6RnDRj9cjllu_6mKgnT5zOpkqeqE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZSfr2eoXMuC8uj130Dyi70fZMrimrgkDcn-0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKF1KCWWXHxxbVgPYN9ONwiJRQ0vCsf6Gj0WL4=s1600-w800-h800"
-        ]
+      "name": "Wat Nawamintararachutis Meditation Center",
+      "location": {
+        "lat": 41.89487799999999,
+        "lng": -71.0339683
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "382 S St E, Raynham, MA 02767, USA",
+      "phone": "+1 508-823-1800",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNnD3jGns5JlKMVX2h9CtDMwlR0np2Apt1cGleZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPlPHIfDfkc_dtvg0MdlKMHt-aDB-H3Eset8A0s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMmVOqLHXD-Lq-wyhqS86toq8YDkD1yX-kywsoa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPXpecpHIN992yiB9iUKNzllE3xWRwaQYKBbaiH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtVMI36XWnVjuC5yLwea5zR59G0BoYp7kvF3SU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXOwRVTNulMG1bv7OBzXhoGEFdubLVD286OcJq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYo7EeyRwqHmgks3DEj4M1PB5d9RnQ0vhIkPoH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2g3kwBbDy6RnDRj9cjllu_6mKgnT5zOpkqeqE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZSfr2eoXMuC8uj130Dyi70fZMrimrgkDcn-0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKF1KCWWXHxxbVgPYN9ONwiJRQ0vCsf6Gj0WL4=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1yiXQzGN5IkRTx0jwW5OhvE",
+      "google_maps_url": "https://maps.google.com/?cid=17403684047613533519",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "85 Tyngsboro Rd, North Chelmsford, MA 01863, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.6437312,
-            "lng": -71.3897899
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.6450212302915,
-              "lng": -71.3885100697085
-            },
-            "southwest": {
-              "lat": 42.6423232697085,
-              "lng": -71.39120803029151
-            }
-          }
-        },
-        "name": "Wat Khmer Samaki Santikaram",
-        "place_id": "ChIJZQuCCDW744kRPl78wRMFGIo",
-        "url": "https://maps.google.com/?cid=9950708959092170302",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP-HEcLdASVCCtqx7IeNRPaLRYWW0QiH43bx7GE=s1600-w800-h800"
-        ]
+      "name": "Wat Khmer Samaki Santikaram",
+      "location": {
+        "lat": 42.6437312,
+        "lng": -71.3897899
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "85 Tyngsboro Rd, North Chelmsford, MA 01863, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP-HEcLdASVCCtqx7IeNRPaLRYWW0QiH43bx7GE=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZQuCCDW744kRPl78wRMFGIo",
+      "google_maps_url": "https://maps.google.com/?cid=9950708959092170302",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2870 Plainfield Pike, Cranston, RI 02921, USA",
-        "geometry": {
-          "location": {
-            "lat": 41.7920297,
-            "lng": -71.5456147
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.7935186302915,
-              "lng": -71.5442931697085
-            },
-            "southwest": {
-              "lat": 41.7908206697085,
-              "lng": -71.54699113029152
-            }
-          }
-        },
-        "international_phone_number": "+1 401-942-2084",
-        "name": "Dhamagosnaram Buddhist Temple",
-        "place_id": "ChIJZ2y790hI5IkRBLsjFLnWsYU",
-        "url": "https://maps.google.com/?cid=9633717168317381380",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPXyaDcleOfSYGlZxQoPtsDl5DhrZCaro_Qoe4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5r4lEwiUfBLSV7UkZ4Gqe9DUKaNR3OOH0xFF8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPS9-1i5dJu-WqVKESObyE_LFFTTn-rN5iuxLA7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHPEWLbrbUL9LW173M78mgjAPCevf4bfutpy2_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFkLvYNGdOdMMqAIssub8Oe-_78jqw7YlI0Ls=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5DDleXbbWQwFjqSlyLxns0WPDf8HN3cooQirA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeeYj7-INRDL8J00fw7ecQakmG7WivSTuIuKhx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0NA_N1u25lho5gyeX4ueRCfmrqf1B-dQMr1CF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNTNaZtZ0BjgsBdnyYvcrbsDfnaapjLWMrPMF6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODlAWylrL6G7duKlQCjvTovRbnSoEzS2knGK9-=s1600-w800-h800"
-        ]
+      "name": "Dhamagosnaram Buddhist Temple",
+      "location": {
+        "lat": 41.7920297,
+        "lng": -71.5456147
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "2870 Plainfield Pike, Cranston, RI 02921, USA",
+      "phone": "+1 401-942-2084",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPXyaDcleOfSYGlZxQoPtsDl5DhrZCaro_Qoe4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5r4lEwiUfBLSV7UkZ4Gqe9DUKaNR3OOH0xFF8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPS9-1i5dJu-WqVKESObyE_LFFTTn-rN5iuxLA7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHPEWLbrbUL9LW173M78mgjAPCevf4bfutpy2_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFkLvYNGdOdMMqAIssub8Oe-_78jqw7YlI0Ls=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5DDleXbbWQwFjqSlyLxns0WPDf8HN3cooQirA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeeYj7-INRDL8J00fw7ecQakmG7WivSTuIuKhx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0NA_N1u25lho5gyeX4ueRCfmrqf1B-dQMr1CF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNTNaZtZ0BjgsBdnyYvcrbsDfnaapjLWMrPMF6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODlAWylrL6G7duKlQCjvTovRbnSoEzS2knGK9-=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZ2y790hI5IkRBLsjFLnWsYU",
+      "google_maps_url": "https://maps.google.com/?cid=9633717168317381380",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "88 Limerock Rd, Smithfield, RI 02917, USA",
-        "geometry": {
-          "location": {
-            "lat": 41.9091011,
-            "lng": -71.4964822
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.9100119802915,
-              "lng": -71.4947693197085
-            },
-            "southwest": {
-              "lat": 41.9073140197085,
-              "lng": -71.49746728029152
-            }
-          }
-        },
-        "international_phone_number": "+1 401-231-5381",
-        "name": "Wat Lao Buddhovath of Rhode Island Inc",
-        "place_id": "ChIJ03U4lEFB5IkRIBByB6MXifM",
-        "url": "https://maps.google.com/?cid=17548583411997872160",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPW07wf8k3CRUVlTJWD0Zva8Ef3UgG1_iqb2DcO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMTSfLUkE6tJddOGSEHJYb6IJ9pUHCZZy6rbPlk=s1600-w800-h747",
-          "https://lh3.googleusercontent.com/p/AF1QipNuWFSUukNZvfK6tMH7PItYhF19qskHyso3O2Au=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqHZto4nHNzvpT-CNpHXjt0SziH6DfjGp35rFk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_bYL6O7qj54zhQMrFL2qUfzhvvDvv9nGSI0DJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMeNSP0z3RYU2YPHpS3Lh6__3JPfEO7s6qxFNbA=s1600-w800-h747",
-          "https://lh3.googleusercontent.com/p/AF1QipN2nRI9cP7JOL1TeiEM_sSPrM8p5kSbv9BURd4x=s1600-w800-h747",
-          "https://lh3.googleusercontent.com/p/AF1QipMLD8FEHC4--7URkX_2n7bY64KptUcbRvA7Vp24=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGkR0vaOXuPa1k36fM9McC9HMIIXLBXkN_EkJ2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZX4TyeDWcUVH9-NXkIJ_C6MRzboxWW723XJsh=s1600-w800-h800"
-        ]
+      "name": "Wat Lao Buddhovath of Rhode Island Inc",
+      "location": {
+        "lat": 41.9091011,
+        "lng": -71.4964822
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "88 Limerock Rd, Smithfield, RI 02917, USA",
+      "phone": "+1 401-231-5381",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPW07wf8k3CRUVlTJWD0Zva8Ef3UgG1_iqb2DcO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMTSfLUkE6tJddOGSEHJYb6IJ9pUHCZZy6rbPlk=s1600-w800-h747",
+        "https://lh3.googleusercontent.com/p/AF1QipNuWFSUukNZvfK6tMH7PItYhF19qskHyso3O2Au=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqHZto4nHNzvpT-CNpHXjt0SziH6DfjGp35rFk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_bYL6O7qj54zhQMrFL2qUfzhvvDvv9nGSI0DJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMeNSP0z3RYU2YPHpS3Lh6__3JPfEO7s6qxFNbA=s1600-w800-h747",
+        "https://lh3.googleusercontent.com/p/AF1QipN2nRI9cP7JOL1TeiEM_sSPrM8p5kSbv9BURd4x=s1600-w800-h747",
+        "https://lh3.googleusercontent.com/p/AF1QipMLD8FEHC4--7URkX_2n7bY64KptUcbRvA7Vp24=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGkR0vaOXuPa1k36fM9McC9HMIIXLBXkN_EkJ2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZX4TyeDWcUVH9-NXkIJ_C6MRzboxWW723XJsh=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ03U4lEFB5IkRIBByB6MXifM",
+      "google_maps_url": "https://maps.google.com/?cid=17548583411997872160",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "96 Dewey St, Worcester, MA 01610, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.2593953,
-            "lng": -71.82096419999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.2607203302915,
-              "lng": -71.81952686970848
-            },
-            "southwest": {
-              "lat": 42.2580223697085,
-              "lng": -71.8222248302915
-            }
-          }
-        },
-        "international_phone_number": "+1 508-755-7817",
-        "name": "Pho Hien Buddhist Meditation Temple",
-        "place_id": "ChIJffvwNoUG5IkRuee1ECNtsqQ",
-        "url": "https://maps.google.com/?cid=11867667965446318009",
-        "website": "https://m.facebook.com/pages/Chua-Pho-Hien/199059130162460",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNVzHbkBEv3XZAMgUSb_CP9s_c6w9Bvhp75Yeg0=s1600-w800-h800"
-        ]
+      "name": "Pho Hien Buddhist Meditation Temple",
+      "location": {
+        "lat": 42.2593953,
+        "lng": -71.82096419999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "96 Dewey St, Worcester, MA 01610, USA",
+      "phone": "+1 508-755-7817",
+      "website": "https://m.facebook.com/pages/Chua-Pho-Hien/199059130162460",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNVzHbkBEv3XZAMgUSb_CP9s_c6w9Bvhp75Yeg0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJffvwNoUG5IkRuee1ECNtsqQ",
+      "google_maps_url": "https://maps.google.com/?cid=11867667965446318009",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "16 Ruthven Ave, Worcester, MA 01606, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.2899482,
-            "lng": -71.80402509999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.2913064802915,
-              "lng": -71.8026995697085
-            },
-            "southwest": {
-              "lat": 42.2886085197085,
-              "lng": -71.8053975302915
-            }
-          }
-        },
-        "international_phone_number": "+1 508-853-8120",
-        "name": "Temple Linh Son",
-        "place_id": "ChIJGWrSjKsH5IkRp511l3XFTiE",
-        "url": "https://maps.google.com/?cid=2400072760277966247",
-        "website": "http://linhsonmass.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Temple Linh Son",
+      "location": {
+        "lat": 42.2899482,
+        "lng": -71.80402509999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "16 Ruthven Ave, Worcester, MA 01606, USA",
+      "phone": "+1 508-853-8120",
+      "website": "http://linhsonmass.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGWrSjKsH5IkRp511l3XFTiE",
+      "google_maps_url": "https://maps.google.com/?cid=2400072760277966247",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "231 Salem St, Wakefield, MA 01880, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.5135271,
-            "lng": -71.0563993
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.5146781802915,
-              "lng": -71.0549754697085
-            },
-            "southwest": {
-              "lat": 42.5119802197085,
-              "lng": -71.05767343029152
-            }
-          }
-        },
-        "international_phone_number": "+1 781-224-0670",
-        "name": "Mun Su Sa Buddhist Temple",
-        "place_id": "ChIJzVsXkNAM44kRvrfmNBq9wT4",
-        "url": "https://maps.google.com/?cid=4522103421111023550",
-        "website": "http://www.munsusa.org/index_1.php",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOfA7N3aVidOGghsDJmDrDoT1eo7iZypBsYjvqy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOu_hzWIUCjQNPBnR5om5ZYGHMQ8k_cnfwmed5L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWS7J5UYPIbV9ey7O6RFhu6MdkgqOdnrRLEuCj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEnrWiqSqtwxpZZMO_X7780wGll7-p36ZBBq_u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMY2uK3F4d1Aq6UUw-BG5iy7OmStNwwJ-0Adftt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnoB96A_-CgsMkYMErpCWwMZUA9n66jz4PeCPU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOY28kH3mnn4blrKFHPP_F7fF_mhRcTfEtHKwh4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5jyL2OdrxvmxQPPNX3BaV72nqP0ZkmaRsDK8A=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwEZH-SSZJBq0BHkmSzHdMru07SN6s9VsjiQcd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFttFWcoB--KBZM-dZ5szpccYooC03VtC4SsQm=s1600-w800-h800"
-        ]
+      "name": "Mun Su Sa Buddhist Temple",
+      "location": {
+        "lat": 42.5135271,
+        "lng": -71.0563993
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "231 Salem St, Wakefield, MA 01880, USA",
+      "phone": "+1 781-224-0670",
+      "website": "http://www.munsusa.org/index_1.php",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOfA7N3aVidOGghsDJmDrDoT1eo7iZypBsYjvqy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOu_hzWIUCjQNPBnR5om5ZYGHMQ8k_cnfwmed5L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWS7J5UYPIbV9ey7O6RFhu6MdkgqOdnrRLEuCj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEnrWiqSqtwxpZZMO_X7780wGll7-p36ZBBq_u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMY2uK3F4d1Aq6UUw-BG5iy7OmStNwwJ-0Adftt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnoB96A_-CgsMkYMErpCWwMZUA9n66jz4PeCPU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOY28kH3mnn4blrKFHPP_F7fF_mhRcTfEtHKwh4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5jyL2OdrxvmxQPPNX3BaV72nqP0ZkmaRsDK8A=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwEZH-SSZJBq0BHkmSzHdMru07SN6s9VsjiQcd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFttFWcoB--KBZM-dZ5szpccYooC03VtC4SsQm=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzVsXkNAM44kRvrfmNBq9wT4",
+      "google_maps_url": "https://maps.google.com/?cid=4522103421111023550",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "729 Wilton Rd, Peterborough, NH 03458, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.8493566,
-            "lng": -71.8902354
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.85119073029149,
-              "lng": -71.88836221970848
-            },
-            "southwest": {
-              "lat": 42.84849276970849,
-              "lng": -71.8910601802915
-            }
-          }
-        },
-        "international_phone_number": "+1 603-784-5244",
-        "name": "Bao Chon Zen Temple",
-        "place_id": "ChIJnVZWSu3W44kRZASEfkDZ23Y",
-        "url": "https://maps.google.com/?cid=8564677987398845540",
-        "website": "http://tvbaochon.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMQDxz2sFYav4r6CJvwyibf0zGtdwzBVuyYWvzf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNaKVSQRcfXA-al37BQ8lPKRmZ5SkZOCzznXM_P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBKBvlFbIkGM3J4yPa1m3KPB9JZZeqot7KoPnp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDM76FEgIvapCfcs_72OAQvZ0Gm1AytDX9vq5F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPMeXKH1JPONSe-8TfLxB2IzWMgom9Lfvas6I02=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOQvniwvQQufS1C-QB1HCczXWgQClZkgUvopgZs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3F0mYuzJN44GvCTyvbL8TIWKJ3ili6I7NZn1H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUmQzZyQC6Ux0rdcYfwYarmvNj68j5uNB06aVh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-QdT-au3grQjcqJEwdFJ8xA5OpXA3HKhPXsHU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVp4rA0rTXQC4PF5qnnhcm50OE6YMBPH3runEI=s1600-w800-h800"
-        ]
+      "name": "Bao Chon Zen Temple",
+      "location": {
+        "lat": 42.8493566,
+        "lng": -71.8902354
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "729 Wilton Rd, Peterborough, NH 03458, USA",
+      "phone": "+1 603-784-5244",
+      "website": "http://tvbaochon.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMQDxz2sFYav4r6CJvwyibf0zGtdwzBVuyYWvzf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNaKVSQRcfXA-al37BQ8lPKRmZ5SkZOCzznXM_P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBKBvlFbIkGM3J4yPa1m3KPB9JZZeqot7KoPnp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDM76FEgIvapCfcs_72OAQvZ0Gm1AytDX9vq5F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPMeXKH1JPONSe-8TfLxB2IzWMgom9Lfvas6I02=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOQvniwvQQufS1C-QB1HCczXWgQClZkgUvopgZs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3F0mYuzJN44GvCTyvbL8TIWKJ3ili6I7NZn1H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUmQzZyQC6Ux0rdcYfwYarmvNj68j5uNB06aVh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-QdT-au3grQjcqJEwdFJ8xA5OpXA3HKhPXsHU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVp4rA0rTXQC4PF5qnnhcm50OE6YMBPH3runEI=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJnVZWSu3W44kRZASEfkDZ23Y",
+      "google_maps_url": "https://maps.google.com/?cid=8564677987398845540",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "684 State St, Springfield, MA 01109, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.11043209999999,
-            "lng": -72.56980539999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.11174603029149,
-              "lng": -72.56859201970849
-            },
-            "southwest": {
-              "lat": 42.10904806970849,
-              "lng": -72.57128998029151
-            }
-          }
-        },
-        "international_phone_number": "+1 413-788-0515",
-        "name": "Shaolin Meditation Temple",
-        "place_id": "ChIJ10nPpAfn5okR7Xikaj6EZP8",
-        "url": "https://maps.google.com/?cid=18402979380954691821",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Shaolin Meditation Temple",
+      "location": {
+        "lat": 42.11043209999999,
+        "lng": -72.56980539999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "684 State St, Springfield, MA 01109, USA",
+      "phone": "+1 413-788-0515",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ10nPpAfn5okR7Xikaj6EZP8",
+      "google_maps_url": "https://maps.google.com/?cid=18402979380954691821",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "79 Margin St, Lawrence, MA 01841, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.7038835,
-            "lng": -71.1736304
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.7051985302915,
-              "lng": -71.17236216970849
-            },
-            "southwest": {
-              "lat": 42.7025005697085,
-              "lng": -71.17506013029151
-            }
-          }
-        },
-        "international_phone_number": "+1 978-975-3874",
-        "name": "Lumbini Buddhist Temple - Chua Lam Ty Ni",
-        "place_id": "ChIJv4s9-5kH44kRW525SQNaMJM",
-        "url": "https://maps.google.com/?cid=10606076092625821019",
-        "website": "http://facebook.com/lamtynitu",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOiD1iZSDrM-z81A9Pqrix7N99B6UMIwQSQKqlc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUashP5IHoFiVfXpmft2knJdgy6v0c1YcM_K8z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLwP71p4VUymfnoT5SnG_jL8qo0SGOHOpyJpJ7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNuNGIRQA4EH0aiDjmajPBdHW3uG6y-iiiWc01G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP-KfznOO0P76YC1OOxcbvEkIpBKco-ciWEbZil=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAUU5AUlPkS8tZDZO8yaNugdOX9L89GZ8W2yQi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDhY2Kwuic3V8Y9WB54rv8oAxEQTE-68FmhsAT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPweuAFscTuooAswenRB3BatXO1SqGu6y2vb5Cf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZ8tSdp6dIXxTj89hcC8JjZq007cqo_-8Ot2lv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwHcgy5msxqXv7I_n4EBCor_Z8Lz5dJO2i7C7x=s1600-w800-h800"
-        ]
+      "name": "Lumbini Buddhist Temple - Chua Lam Ty Ni",
+      "location": {
+        "lat": 42.7038835,
+        "lng": -71.1736304
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "79 Margin St, Lawrence, MA 01841, USA",
+      "phone": "+1 978-975-3874",
+      "website": "http://facebook.com/lamtynitu",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOiD1iZSDrM-z81A9Pqrix7N99B6UMIwQSQKqlc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUashP5IHoFiVfXpmft2knJdgy6v0c1YcM_K8z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLwP71p4VUymfnoT5SnG_jL8qo0SGOHOpyJpJ7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNuNGIRQA4EH0aiDjmajPBdHW3uG6y-iiiWc01G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP-KfznOO0P76YC1OOxcbvEkIpBKco-ciWEbZil=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAUU5AUlPkS8tZDZO8yaNugdOX9L89GZ8W2yQi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDhY2Kwuic3V8Y9WB54rv8oAxEQTE-68FmhsAT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPweuAFscTuooAswenRB3BatXO1SqGu6y2vb5Cf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZ8tSdp6dIXxTj89hcC8JjZq007cqo_-8Ot2lv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwHcgy5msxqXv7I_n4EBCor_Z8Lz5dJO2i7C7x=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJv4s9-5kH44kRW525SQNaMJM",
+      "google_maps_url": "https://maps.google.com/?cid=10606076092625821019",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "7665 Werkner Rd, Chelsea, MI 48118, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.3496327,
-            "lng": -84.0237942
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.3509796802915,
-              "lng": -84.02304511970848
-            },
-            "southwest": {
-              "lat": 42.3482817197085,
-              "lng": -84.0257430802915
-            }
-          }
-        },
-        "international_phone_number": "+1 734-757-8567",
-        "name": "Triple Crane Monastery",
-        "place_id": "ChIJW_tMunvMPIgRheeUai4Nc-0",
-        "url": "https://maps.google.com/?cid=17110033902318446469",
-        "website": "https://www.huayenworld.org/usa/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOqOSdbEWmAbnAeEdKufwOE8aXI9VIWWEzRoX8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0QRdDLjcDBZzDvcQkmLVXyVcYN0fK9Yu4F56s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEBoHUTZFLb1xFkXHbp0H5XBzTzEii6XJ9znQH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2swElDERtm3mIeYDpPdxe6zP3nDKDiU1bhTeM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMis8bep-vo4oFkRPD_L8F4JBCkJTP10v9m4-JO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODbIcWzHXHN4O7Hi8vonTaj5A6aT0OsNxLBJF2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMJ-S0I66KRMjzOrFjonNxLOHsIo-VyxU1wNm4n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7H8JMYvuLpiM4QwWr2WC4SNT1QkcLoAyaW-qc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNb9p7b_IwKwMXzZaZ_0-fmBv7v2h2qJWj7hI3w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3xLF7yFGQHzOM5nihcO6SFLQ5vCBIHMkLID23=s1600-w800-h800"
-        ]
+      "name": "Triple Crane Monastery",
+      "location": {
+        "lat": 42.3496327,
+        "lng": -84.0237942
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "7665 Werkner Rd, Chelsea, MI 48118, USA",
+      "phone": "+1 734-757-8567",
+      "website": "https://www.huayenworld.org/usa/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOqOSdbEWmAbnAeEdKufwOE8aXI9VIWWEzRoX8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0QRdDLjcDBZzDvcQkmLVXyVcYN0fK9Yu4F56s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEBoHUTZFLb1xFkXHbp0H5XBzTzEii6XJ9znQH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2swElDERtm3mIeYDpPdxe6zP3nDKDiU1bhTeM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMis8bep-vo4oFkRPD_L8F4JBCkJTP10v9m4-JO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODbIcWzHXHN4O7Hi8vonTaj5A6aT0OsNxLBJF2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMJ-S0I66KRMjzOrFjonNxLOHsIo-VyxU1wNm4n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7H8JMYvuLpiM4QwWr2WC4SNT1QkcLoAyaW-qc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNb9p7b_IwKwMXzZaZ_0-fmBv7v2h2qJWj7hI3w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3xLF7yFGQHzOM5nihcO6SFLQ5vCBIHMkLID23=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJW_tMunvMPIgRheeUai4Nc-0",
+      "google_maps_url": "https://maps.google.com/?cid=17110033902318446469",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4345 Trumbull, Detroit, MI 48208, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.34785790000001,
-            "lng": -83.07654430000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.34925203029151,
-              "lng": -83.0750905197085
-            },
-            "southwest": {
-              "lat": 42.34655406970851,
-              "lng": -83.0777884802915
-            }
-          }
-        },
-        "international_phone_number": "+1 313-831-1005",
-        "name": "Still Point Zen Buddhist Temple",
-        "place_id": "ChIJZ7JPnKnSJIgRpmOfAPdVEQA",
-        "url": "https://maps.google.com/?cid=4879593959809958",
-        "website": "http://www.stillpointzenbuddhisttemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOpIQn4oPjRMFu_4eoYgHGPAqcBfFHGMrAC-ngO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8w4HzhRf_PpYPPRDzC7XVCWgQCsfeEWW42v1J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAiIGhT7CVtmjwUVW6HEvFAPiigI8psQXFbOCG=s1600-w800-h800"
-        ]
+      "name": "Still Point Zen Buddhist Temple",
+      "location": {
+        "lat": 42.34785790000001,
+        "lng": -83.07654430000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "4345 Trumbull, Detroit, MI 48208, USA",
+      "phone": "+1 313-831-1005",
+      "website": "http://www.stillpointzenbuddhisttemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOpIQn4oPjRMFu_4eoYgHGPAqcBfFHGMrAC-ngO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8w4HzhRf_PpYPPRDzC7XVCWgQCsfeEWW42v1J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAiIGhT7CVtmjwUVW6HEvFAPiigI8psQXFbOCG=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZ7JPnKnSJIgRpmOfAPdVEQA",
+      "google_maps_url": "https://maps.google.com/?cid=4879593959809958",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "4820 E 9 Mile Rd, Warren, MI 48091, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.4619751,
-            "lng": -83.0560608
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.4634735302915,
-              "lng": -83.0547062197085
-            },
-            "southwest": {
-              "lat": 42.4607755697085,
-              "lng": -83.05740418029151
-            }
-          }
-        },
-        "international_phone_number": "+1 586-427-6888",
-        "name": "Linh Son Tu Buddhist Temple",
-        "place_id": "ChIJC8bURkrQJIgR29SNzRFwft8",
-        "url": "https://maps.google.com/?cid=16104432539288851675",
-        "website": "http://linhsondetroit.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPKM4BOTz-vcXVyPLLE04I9J4BU6t8YU4fW10AG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPC4Dp1-HLnaghPOabh5Imj0XYouMQ6_05uuwPQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0-28mpHUVdyKv7jpTx7BphKXEzF86DDd0lGRl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwC-MxYEAJwBM27CV7x8iMDaIroPqDjXISflXx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNZvDCnfTvlazA2lok_b__iCIvPrZ4OTJTBNUb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkORkJYnFja_cjFTfhsuh3lUtO-zWGdHYkqXz5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPskC1cV3wmzgi7Vy70gnxpD0-vph-TFuSqnphn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAZipDp7t5s8dqYwocpYRZlgF4f9jsjX0df_tF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPL676wERlLtQMSulQB87cFIWL8zXD2qH7QmG2y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP806WZOlrAXwHfJSWtaflFVFZpgGGRqNtFia7A=s1600-w800-h800"
-        ]
+      "name": "Linh Son Tu Buddhist Temple",
+      "location": {
+        "lat": 42.4619751,
+        "lng": -83.0560608
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "4820 E 9 Mile Rd, Warren, MI 48091, USA",
+      "phone": "+1 586-427-6888",
+      "website": "http://linhsondetroit.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPKM4BOTz-vcXVyPLLE04I9J4BU6t8YU4fW10AG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPC4Dp1-HLnaghPOabh5Imj0XYouMQ6_05uuwPQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0-28mpHUVdyKv7jpTx7BphKXEzF86DDd0lGRl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwC-MxYEAJwBM27CV7x8iMDaIroPqDjXISflXx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNZvDCnfTvlazA2lok_b__iCIvPrZ4OTJTBNUb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkORkJYnFja_cjFTfhsuh3lUtO-zWGdHYkqXz5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPskC1cV3wmzgi7Vy70gnxpD0-vph-TFuSqnphn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAZipDp7t5s8dqYwocpYRZlgF4f9jsjX0df_tF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPL676wERlLtQMSulQB87cFIWL8zXD2qH7QmG2y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP806WZOlrAXwHfJSWtaflFVFZpgGGRqNtFia7A=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJC8bURkrQJIgR29SNzRFwft8",
+      "google_maps_url": "https://maps.google.com/?cid=16104432539288851675",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1840 College Rd, Mason, MI 48854, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.63568099999999,
-            "lng": -84.480942
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.63703033029149,
-              "lng": -84.4795245
-            },
-            "southwest": {
-              "lat": 42.6343323697085,
-              "lng": -84.48519449999998
-            }
-          }
-        },
-        "international_phone_number": "+1 517-699-3696",
-        "name": "Quan Am Temple Lansing Michigan",
-        "place_id": "ChIJPbYGMmDEIogRHzX-fxiI6M4",
-        "url": "https://maps.google.com/?cid=14909316205217985823",
-        "website": "https://www.facebook.com/pages/Quan-AM-Temple/116382328389910",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMWR-9HZ11mczOIQIuS-F6Z2Sz1WjD2jgjoNmoj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxCTUPmfYKz10gG6wG0tKpgTfu_TTitpxPZ7F8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8_gyOZ_g2msALIQbf8PdHD10EB2KH7TUwPCxu=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTVXir7hWV1_tZXwp0FRC3k0jt1CorlzPOrWER=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPM5v4HZ0W2O55r8g4CoGZki6vme9qmnq9h_0XL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNARwFqnGJNdOrZFJn4OR0d3arPZXpiuuwEugrh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMyrzMfcJl2QUg3PQ96G_QQnNctGuDESxCFQrF_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMr4Kl1PSnSt1IsI-x8CBd2tQk-dURTHhzuR2es=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdRQ2UhfsTrenyjYi0BYR5Rafolzpufs9ES0lB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPu6eWUdibs3h0CfXnWUj1r5VSlaL_ua6xi8Z13=s1600-w800-h800"
-        ]
+      "name": "Quan Am Temple Lansing Michigan",
+      "location": {
+        "lat": 42.63568099999999,
+        "lng": -84.480942
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "1840 College Rd, Mason, MI 48854, USA",
+      "phone": "+1 517-699-3696",
+      "website": "https://www.facebook.com/pages/Quan-AM-Temple/116382328389910",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMWR-9HZ11mczOIQIuS-F6Z2Sz1WjD2jgjoNmoj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxCTUPmfYKz10gG6wG0tKpgTfu_TTitpxPZ7F8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8_gyOZ_g2msALIQbf8PdHD10EB2KH7TUwPCxu=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTVXir7hWV1_tZXwp0FRC3k0jt1CorlzPOrWER=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPM5v4HZ0W2O55r8g4CoGZki6vme9qmnq9h_0XL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNARwFqnGJNdOrZFJn4OR0d3arPZXpiuuwEugrh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMyrzMfcJl2QUg3PQ96G_QQnNctGuDESxCFQrF_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMr4Kl1PSnSt1IsI-x8CBd2tQk-dURTHhzuR2es=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdRQ2UhfsTrenyjYi0BYR5Rafolzpufs9ES0lB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPu6eWUdibs3h0CfXnWUj1r5VSlaL_ua6xi8Z13=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJPbYGMmDEIogRHzX-fxiI6M4",
+      "google_maps_url": "https://maps.google.com/?cid=14909316205217985823",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "691 Campbell Ave, Windsor, ON N9B 2H6, Canada",
-        "geometry": {
-          "location": {
-            "lat": 42.3060355,
-            "lng": -83.0555814
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.3074276802915,
-              "lng": -83.05410976970849
-            },
-            "southwest": {
-              "lat": 42.3047297197085,
-              "lng": -83.05680773029151
-            }
-          }
-        },
-        "international_phone_number": "+1 519-256-4223",
-        "name": "Windsor Buddhist Vihara - Center for Meditation and Leaning & Practice",
-        "place_id": "ChIJ9x6NfAstO4gR5hB97ogOhjE",
-        "url": "https://maps.google.com/?cid=3568555736017211622",
-        "website": "http://www.windsorbuddhistvihara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Windsor Buddhist Vihara - Center for Meditation and Leaning & Practice",
+      "location": {
+        "lat": 42.3060355,
+        "lng": -83.0555814
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "691 Campbell Ave, Windsor, ON N9B 2H6, Canada",
+      "phone": "+1 519-256-4223",
+      "website": "http://www.windsorbuddhistvihara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9x6NfAstO4gR5hB97ogOhjE",
+      "google_maps_url": "https://maps.google.com/?cid=3568555736017211622",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5260 Howard Ave, Oldcastle, ON N0R 1L0, Canada",
-        "geometry": {
-          "location": {
-            "lat": 42.2230435,
-            "lng": -82.9973997
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.2244010302915,
-              "lng": -82.9962733197085
-            },
-            "southwest": {
-              "lat": 42.2217030697085,
-              "lng": -82.9989712802915
-            }
-          }
-        },
-        "international_phone_number": "+1 226-975-3085",
-        "name": "Khemara Buddhist Temple",
-        "place_id": "ChIJ6dcIF4ovO4gRHEZm9tqN9f8",
-        "url": "https://maps.google.com/?cid=18443803820542019100",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPVlnZrGC1jZ_cHeWeX4S0hV0RLCfrgxS4UkyoB=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMQZ8AMtfOVqEeT6Z-12dadn8zxvSU2Bwqzr_Ol=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfwXvjCzcqqyqx4xKDOhGE2DmV8bAbpdeaKsnN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQt8oUxgPsTUCXjdGZVxkJdZJq8CmZkpSjF3YY=s1600-w800-h800"
-        ]
+      "name": "Khemara Buddhist Temple",
+      "location": {
+        "lat": 42.2230435,
+        "lng": -82.9973997
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "5260 Howard Ave, Oldcastle, ON N0R 1L0, Canada",
+      "phone": "+1 226-975-3085",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPVlnZrGC1jZ_cHeWeX4S0hV0RLCfrgxS4UkyoB=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMQZ8AMtfOVqEeT6Z-12dadn8zxvSU2Bwqzr_Ol=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfwXvjCzcqqyqx4xKDOhGE2DmV8bAbpdeaKsnN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQt8oUxgPsTUCXjdGZVxkJdZJq8CmZkpSjF3YY=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ6dcIF4ovO4gRHEZm9tqN9f8",
+      "google_maps_url": "https://maps.google.com/?cid=18443803820542019100",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2001 DIVISION RD N, Kingsville, ON N9Y 2Z3, Canada",
-        "geometry": {
-          "location": {
-            "lat": 42.058703,
-            "lng": -82.737876
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.0600545302915,
-              "lng": -82.7365909697085
-            },
-            "southwest": {
-              "lat": 42.0573565697085,
-              "lng": -82.73928893029151
-            }
-          }
-        },
-        "international_phone_number": "+1 519-733-5880",
-        "name": "Lao Buddhist Temple Pudphrathammaram",
-        "place_id": "ChIJi1V9UczcOogRIsD99wTKW7k",
-        "url": "https://maps.google.com/?cid=13356491242586619938",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Lao Buddhist Temple Pudphrathammaram",
+      "location": {
+        "lat": 42.058703,
+        "lng": -82.737876
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "2001 DIVISION RD N, Kingsville, ON N9Y 2Z3, Canada",
+      "phone": "+1 519-733-5880",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJi1V9UczcOogRIsD99wTKW7k",
+      "google_maps_url": "https://maps.google.com/?cid=13356491242586619938",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "11175 Kennedy Rd, Markham, ON L6C 1P2, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.92656340000001,
-            "lng": -79.32477589999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.9278076802915,
-              "lng": -79.3234379697085
-            },
-            "southwest": {
-              "lat": 43.9251097197085,
-              "lng": -79.3261359302915
-            }
-          }
-        },
-        "international_phone_number": "+1 905-927-7117",
-        "name": "Mahamevnawa Buddhist Monastery and Buddha Meditation Centre of Greater Toronto",
-        "place_id": "ChIJE01dhFoq1YkRZgv-eHwsDRg",
-        "url": "https://maps.google.com/?cid=1733090344724990822",
-        "website": "http://www.mahamevnawa.ca/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP-ZksyDJrUdyjSNgs0OcYrKFxYMX-x5iFWwMUp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPce1OoVnWjhI5JPmzPdAlk9qDLd4zCQRvTHmc2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmHD0NvIUWkpU5ofsz4uIEAD-fXmGjKmUUc_6H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnDXjRhlFYFedQeCtgI3Y_43C83fbG1-NrJ0R5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWs8fVX2IkKmJwVWDaqAJyktS1t5Vtujnr2QkW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsIjSUbMzp1P9MeH0HNz7dW_oFzP1_WiZjWrfJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYX94DlnIyya6y2s7-GBktGvqiWPjqSd01XdOC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1_5S01toyOfTshBmo7ejny-3i3sOEpMGJNAxv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMTjbrnL8qSnCF-pCNYeyHsHyxDhReMHhxXVT3s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVexLHDMp2QlAEzzP-6uQ_GFNM0ptWM87V6prh=s1600-w800-h800"
-        ]
+      "name": "Mahamevnawa Buddhist Monastery and Buddha Meditation Centre of Greater Toronto",
+      "location": {
+        "lat": 43.92656340000001,
+        "lng": -79.32477589999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "11175 Kennedy Rd, Markham, ON L6C 1P2, Canada",
+      "phone": "+1 905-927-7117",
+      "website": "http://www.mahamevnawa.ca/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP-ZksyDJrUdyjSNgs0OcYrKFxYMX-x5iFWwMUp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPce1OoVnWjhI5JPmzPdAlk9qDLd4zCQRvTHmc2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmHD0NvIUWkpU5ofsz4uIEAD-fXmGjKmUUc_6H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnDXjRhlFYFedQeCtgI3Y_43C83fbG1-NrJ0R5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWs8fVX2IkKmJwVWDaqAJyktS1t5Vtujnr2QkW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsIjSUbMzp1P9MeH0HNz7dW_oFzP1_WiZjWrfJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYX94DlnIyya6y2s7-GBktGvqiWPjqSd01XdOC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1_5S01toyOfTshBmo7ejny-3i3sOEpMGJNAxv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMTjbrnL8qSnCF-pCNYeyHsHyxDhReMHhxXVT3s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVexLHDMp2QlAEzzP-6uQ_GFNM0ptWM87V6prh=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJE01dhFoq1YkRZgv-eHwsDRg",
+      "google_maps_url": "https://maps.google.com/?cid=1733090344724990822",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5300 ON-3, Maidstone, ON N0R 1K0, Canada",
-        "geometry": {
-          "location": {
-            "lat": 42.2213746,
-            "lng": -82.9370308
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.2226242302915,
-              "lng": -82.9357248197085
-            },
-            "southwest": {
-              "lat": 42.2199262697085,
-              "lng": -82.93842278029152
-            }
-          }
-        },
-        "international_phone_number": "+1 519-737-8940",
-        "name": "Wat Khmer Santivanaram of Windsor",
-        "place_id": "ChIJ2Yr6WnMpO4gRxijB0rxC_oI",
-        "url": "https://maps.google.com/?cid=9439055247772297414",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Wat Khmer Santivanaram of Windsor",
+      "location": {
+        "lat": 42.2213746,
+        "lng": -82.9370308
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "5300 ON-3, Maidstone, ON N0R 1K0, Canada",
+      "phone": "+1 519-737-8940",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ2Yr6WnMpO4gRxijB0rxC_oI",
+      "google_maps_url": "https://maps.google.com/?cid=9439055247772297414",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1015 129th Ave, Wayland, MI 49348, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.6306796,
-            "lng": -85.64368329999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.63190318029149,
-              "lng": -85.64233346970849
-            },
-            "southwest": {
-              "lat": 42.6292052197085,
-              "lng": -85.64503143029151
-            }
-          }
-        },
-        "international_phone_number": "+1 269-792-2992",
-        "name": "Tam Quang Temple",
-        "place_id": "ChIJ0zTyB4LNGYgRAOZYTPcID0w",
-        "url": "https://maps.google.com/?cid=5480609129764021760",
-        "website": "http://www.michiganbuddhist.com/bradley/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMsHTsPQBjmpOSKKhWL9MLgLDZ4ECt8tBWZaOzm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPtU2jYqiFO-TjAIDr4uTj06oukxWB1bcQmNbLu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNV99T6eshp_P1-u2FZV3nLzam_Lyw3Z63A5T5H=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRhSy2weQz_y1WRTpuXpDP79CT8-sZivOpYnik=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhp2lfjjyfmz687C3aCFMsxTl-9iCGaLGWNA1G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOY2-kyzmAMAoJC3XGp84wpZheJCGoPMP9vT4tA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOoxlivGUnY4v2KISqT60pTnHRQBy8Vx70bPr5E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXM6FIZcQiNqTbEQEi9dkzixqwKogcjlqyMj5X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkidWpiX9ZSQKwV-jaX2TFfe6Vt7YjrLa18prP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvE84edrQ-qTR1ZRGho7iRtMqTGcRI1Et_9N6_=s1600-w800-h800"
-        ]
+      "name": "Tam Quang Temple",
+      "location": {
+        "lat": 42.6306796,
+        "lng": -85.64368329999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "1015 129th Ave, Wayland, MI 49348, USA",
+      "phone": "+1 269-792-2992",
+      "website": "http://www.michiganbuddhist.com/bradley/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMsHTsPQBjmpOSKKhWL9MLgLDZ4ECt8tBWZaOzm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPtU2jYqiFO-TjAIDr4uTj06oukxWB1bcQmNbLu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNV99T6eshp_P1-u2FZV3nLzam_Lyw3Z63A5T5H=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRhSy2weQz_y1WRTpuXpDP79CT8-sZivOpYnik=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhp2lfjjyfmz687C3aCFMsxTl-9iCGaLGWNA1G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOY2-kyzmAMAoJC3XGp84wpZheJCGoPMP9vT4tA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOoxlivGUnY4v2KISqT60pTnHRQBy8Vx70bPr5E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXM6FIZcQiNqTbEQEi9dkzixqwKogcjlqyMj5X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkidWpiX9ZSQKwV-jaX2TFfe6Vt7YjrLa18prP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvE84edrQ-qTR1ZRGho7iRtMqTGcRI1Et_9N6_=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ0zTyB4LNGYgRAOZYTPcID0w",
+      "google_maps_url": "https://maps.google.com/?cid=5480609129764021760",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "7528 Thompson Rd, Hoagland, IN 46745, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.99018319999999,
-            "lng": -85.03994569999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.99178353029149,
-              "lng": -85.03860176970849
-            },
-            "southwest": {
-              "lat": 40.98908556970849,
-              "lng": -85.0412997302915
-            }
-          }
-        },
-        "international_phone_number": "+1 260-447-5269",
-        "name": "Indiana Buddhist Temple",
-        "place_id": "ChIJ_zk1JcHwFYgRGnlS8NGgC_M",
-        "url": "https://maps.google.com/?cid=17513268399500851482",
-        "website": "http://www.indianabuddhistvihara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO0R9ebGvpSUzRgzRITAgpzjsxPL5Z1zHJ2asg_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAVccmKBNngJm3cjvbiEdnxohxJph1y42GVXdZ=s1600-w800-h572",
-          "https://lh3.googleusercontent.com/p/AF1QipPB0wstVLz9RBqOoSO7XaJfYQKbaF0RvMx4jK6U=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPn0tA5mTh7ahi_kNWK7ELwYhOeobo0AavSreOt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8LWMMYy85GarzNb0nf5Zrr8iJ2_WnIx6hJ8jN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOCoTpfbHyNlqD1uhb8GksUQh2DcnwbCPVYq_IA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5Yd0RNzAjTp07nh-cl1pKmfm5R1tHIAKp_M-l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPhO4hXEKlbP84aHh48y4mxXWym3t58ZvCwb8As=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPq-_PtQeG1DC7oiNhG0WWxhyBDoWW7DT7oYsGE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9aOkmmaMZqhuYPpweMNxpOYg3cGdJluiLgweN=s1600-w800-h800"
-        ]
+      "name": "Indiana Buddhist Temple",
+      "location": {
+        "lat": 40.99018319999999,
+        "lng": -85.03994569999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "7528 Thompson Rd, Hoagland, IN 46745, USA",
+      "phone": "+1 260-447-5269",
+      "website": "http://www.indianabuddhistvihara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO0R9ebGvpSUzRgzRITAgpzjsxPL5Z1zHJ2asg_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAVccmKBNngJm3cjvbiEdnxohxJph1y42GVXdZ=s1600-w800-h572",
+        "https://lh3.googleusercontent.com/p/AF1QipPB0wstVLz9RBqOoSO7XaJfYQKbaF0RvMx4jK6U=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPn0tA5mTh7ahi_kNWK7ELwYhOeobo0AavSreOt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8LWMMYy85GarzNb0nf5Zrr8iJ2_WnIx6hJ8jN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOCoTpfbHyNlqD1uhb8GksUQh2DcnwbCPVYq_IA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5Yd0RNzAjTp07nh-cl1pKmfm5R1tHIAKp_M-l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPhO4hXEKlbP84aHh48y4mxXWym3t58ZvCwb8As=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPq-_PtQeG1DC7oiNhG0WWxhyBDoWW7DT7oYsGE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9aOkmmaMZqhuYPpweMNxpOYg3cGdJluiLgweN=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_zk1JcHwFYgRGnlS8NGgC_M",
+      "google_maps_url": "https://maps.google.com/?cid=17513268399500851482",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "262 Main St, Amsterdam, NY 12010, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.932275,
-            "lng": -74.18115499999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.93349743029149,
-              "lng": -74.1799017697085
-            },
-            "southwest": {
-              "lat": 42.9307994697085,
-              "lng": -74.1825997302915
-            }
-          }
-        },
-        "international_phone_number": "+1 518-853-1873",
-        "name": "Five World Buddhas Temple",
-        "place_id": "ChIJ2S_6yplh3okRIJBcXBqJHJY",
-        "url": "https://maps.google.com/?cid=10816671151348813856",
-        "website": "http://www.guanghuanmizong.info/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOuogRRoDHOFgmDdR3UNSSO7K4eRILD9I5gHvEW=s1600-w800-h750",
-          "https://lh3.googleusercontent.com/p/AF1QipM195paq_q_S2dc7XycHFs932NAyO82Er8oymQN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODaQcg0pBgmUDcfoklu6AVsBaHDkt6Lst1e39R=s1600-w800-h590",
-          "https://lh3.googleusercontent.com/p/AF1QipOcSGuFudebWHIu3hydg5RucTSlO_Kb6e76nvlR=s1600-w800-h750",
-          "https://lh3.googleusercontent.com/p/AF1QipNF_CKA8jn-pLsigaBPqtTE-t0nzAub2x-VR9od=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBmzx216c3ub1qul5DE6KzCMeOnXPckueKC3uk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQXkjAeo25Z1letywmWek1ABCe-1S8uj455a43=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMR_7nu_bxP4B3-n-KOdk27sI5D2nZsJC44rLkJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLyDvJqbLromnGumjA9STLPPQ-vxLPJSoaxB1L=s1600-w800-h667",
-          "https://lh3.googleusercontent.com/p/AF1QipOUO4BWUqLwAn1k8FyYrmQnt__3YPvVokfKidXe=s1600-w800-h800"
-        ]
+      "name": "Five World Buddhas Temple",
+      "location": {
+        "lat": 42.932275,
+        "lng": -74.18115499999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "262 Main St, Amsterdam, NY 12010, USA",
+      "phone": "+1 518-853-1873",
+      "website": "http://www.guanghuanmizong.info/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOuogRRoDHOFgmDdR3UNSSO7K4eRILD9I5gHvEW=s1600-w800-h750",
+        "https://lh3.googleusercontent.com/p/AF1QipM195paq_q_S2dc7XycHFs932NAyO82Er8oymQN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODaQcg0pBgmUDcfoklu6AVsBaHDkt6Lst1e39R=s1600-w800-h590",
+        "https://lh3.googleusercontent.com/p/AF1QipOcSGuFudebWHIu3hydg5RucTSlO_Kb6e76nvlR=s1600-w800-h750",
+        "https://lh3.googleusercontent.com/p/AF1QipNF_CKA8jn-pLsigaBPqtTE-t0nzAub2x-VR9od=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBmzx216c3ub1qul5DE6KzCMeOnXPckueKC3uk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQXkjAeo25Z1letywmWek1ABCe-1S8uj455a43=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMR_7nu_bxP4B3-n-KOdk27sI5D2nZsJC44rLkJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLyDvJqbLromnGumjA9STLPPQ-vxLPJSoaxB1L=s1600-w800-h667",
+        "https://lh3.googleusercontent.com/p/AF1QipOUO4BWUqLwAn1k8FyYrmQnt__3YPvVokfKidXe=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ2S_6yplh3okRIJBcXBqJHJY",
+      "google_maps_url": "https://maps.google.com/?cid=10816671151348813856",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "273 New Skete Rd, Cambridge, NY 12816, USA",
-        "geometry": {
-          "location": {
-            "lat": 43.0346908,
-            "lng": -73.3022613
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.0360108302915,
-              "lng": -73.30063371970849
-            },
-            "southwest": {
-              "lat": 43.0333128697085,
-              "lng": -73.30333168029149
-            }
-          }
-        },
-        "international_phone_number": "+1 518-677-3928",
-        "name": "New Skete Monastery - Monks",
-        "place_id": "ChIJ9R5K3j-F4IkR9dt0rQy47F8",
-        "url": "https://maps.google.com/?cid=6912101892696103925",
-        "website": "http://newskete.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPwKk6qpOCOLrauULFGn4epBogCXLbKXOYseemF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxcO3kSKd2vKrTPJ3Ht6I_GslqohYd_YPaZlWn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSyuQ40MbBYDw01OLv_7hejpY6WGvD5xxULymr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOyO2dvPc8J4Pp1Uf9xWGdAmB0lF-1HhbVr9Y5p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGqAxi-YuBy3K_FEkU1-SyxdveCXaXVuqnxDue=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPN3LpCvbhXw0f_OvgW2FMcGYDwmSn7lqBVUPm-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZaPbJDBP2I1_0xIGNgSyON0igCj5Wg2w5Vm9u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzE7uyWBQrchTw-lSz-lvtFb5a0VTTJB2dpQ0B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM89AvWu09heRZtvG78ejV6IeOAHRWMuPfhJ_cq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-MZRgEyii8WrFHx885b_pVr7Filv9QDpDi10r=s1600-w800-h800"
-        ]
+      "name": "New Skete Monastery - Monks",
+      "location": {
+        "lat": 43.0346908,
+        "lng": -73.3022613
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "273 New Skete Rd, Cambridge, NY 12816, USA",
+      "phone": "+1 518-677-3928",
+      "website": "http://newskete.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPwKk6qpOCOLrauULFGn4epBogCXLbKXOYseemF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxcO3kSKd2vKrTPJ3Ht6I_GslqohYd_YPaZlWn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSyuQ40MbBYDw01OLv_7hejpY6WGvD5xxULymr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOyO2dvPc8J4Pp1Uf9xWGdAmB0lF-1HhbVr9Y5p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGqAxi-YuBy3K_FEkU1-SyxdveCXaXVuqnxDue=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPN3LpCvbhXw0f_OvgW2FMcGYDwmSn7lqBVUPm-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZaPbJDBP2I1_0xIGNgSyON0igCj5Wg2w5Vm9u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzE7uyWBQrchTw-lSz-lvtFb5a0VTTJB2dpQ0B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM89AvWu09heRZtvG78ejV6IeOAHRWMuPfhJ_cq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-MZRgEyii8WrFHx885b_pVr7Filv9QDpDi10r=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9R5K3j-F4IkR9dt0rQy47F8",
+      "google_maps_url": "https://maps.google.com/?cid=6912101892696103925",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3133 Cawthra Rd, Mississauga, ON L5A 2X4, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.59749999999999,
-            "lng": -79.6033333
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.59884898029149,
-              "lng": -79.60198431970849
-            },
-            "southwest": {
-              "lat": 43.59615101970849,
-              "lng": -79.60468228029151
-            }
-          }
-        },
-        "international_phone_number": "+1 905-891-8412",
-        "name": "West End Buddhist Temple and Meditation Centre",
-        "place_id": "ChIJNRjtQKdHK4gRbdPrdQnth_Q",
-        "url": "https://maps.google.com/?cid=17620312691999232877",
-        "website": "https://westendbuddhist.com/standby4/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOwxr18jpDFc7m3FuJqcgvXEfxU4kjCsuJTebBY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2nCKjkHJmx7Gv7Y2CiuYLfbieirdue6MKvCel=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwEqb_5Sr9HdKrh8OoG5HyqY1XOmp7Pg4ocp3e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7Lo0-4Uxi-mgDD7NaDTjZrKqv5quK5c2RAAwK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJ8ADLtLb9AEfgDj18nb6pXYacSNXr8fYqDIMU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMvCtasHiiqKKd3v-UWW0mCUhPCXFi-JFhmJMd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOBX-VtcgUCtI-MufRXZ2hgdbaettAcrAX5YhC_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNB3oKmqi5BDAi3ofnHIsDlaWfhRIydn9QtwpFc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1QxBovdZuQOxpurbfISUzS9CloTq1_wwK48ko=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPz7CHj3olthMZcv66MEEuP1m1_eRGgNwp2dOOt=s1600-w800-h800"
-        ]
+      "name": "West End Buddhist Temple and Meditation Centre",
+      "location": {
+        "lat": 43.59749999999999,
+        "lng": -79.6033333
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "3133 Cawthra Rd, Mississauga, ON L5A 2X4, Canada",
+      "phone": "+1 905-891-8412",
+      "website": "https://westendbuddhist.com/standby4/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOwxr18jpDFc7m3FuJqcgvXEfxU4kjCsuJTebBY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2nCKjkHJmx7Gv7Y2CiuYLfbieirdue6MKvCel=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwEqb_5Sr9HdKrh8OoG5HyqY1XOmp7Pg4ocp3e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7Lo0-4Uxi-mgDD7NaDTjZrKqv5quK5c2RAAwK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJ8ADLtLb9AEfgDj18nb6pXYacSNXr8fYqDIMU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMvCtasHiiqKKd3v-UWW0mCUhPCXFi-JFhmJMd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOBX-VtcgUCtI-MufRXZ2hgdbaettAcrAX5YhC_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNB3oKmqi5BDAi3ofnHIsDlaWfhRIydn9QtwpFc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1QxBovdZuQOxpurbfISUzS9CloTq1_wwK48ko=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPz7CHj3olthMZcv66MEEuP1m1_eRGgNwp2dOOt=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJNRjtQKdHK4gRbdPrdQnth_Q",
+      "google_maps_url": "https://maps.google.com/?cid=17620312691999232877",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "861 Military Rd, Buffalo, NY 14217, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.96069929999999,
-            "lng": -78.8885435
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.96206358029149,
-              "lng": -78.8873643697085
-            },
-            "southwest": {
-              "lat": 42.95936561970849,
-              "lng": -78.8900623302915
-            }
-          }
-        },
-        "name": "Sāsanasukha Buddhist Temple",
-        "place_id": "ChIJqWMl7ZFt04kR17M6m5KMxL0",
-        "url": "https://maps.google.com/?cid=13674208929901097943",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMPuOCDR8zwx4tqeHdW_eimMOKz34mAwct4YQhk=s1600-w800-h800"
-        ]
+      "name": "Sāsanasukha Buddhist Temple",
+      "location": {
+        "lat": 42.96069929999999,
+        "lng": -78.8885435
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "861 Military Rd, Buffalo, NY 14217, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMPuOCDR8zwx4tqeHdW_eimMOKz34mAwct4YQhk=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqWMl7ZFt04kR17M6m5KMxL0",
+      "google_maps_url": "https://maps.google.com/?cid=13674208929901097943",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2660, 2630 Bedell Rd, Grand Island, NY 14072, USA",
-        "geometry": {
-          "location": {
-            "lat": 43.0355564,
-            "lng": -78.9918689
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.03705128029149,
-              "lng": -78.99052566970849
-            },
-            "southwest": {
-              "lat": 43.0343533197085,
-              "lng": -78.99322363029151
-            }
-          }
-        },
-        "international_phone_number": "+1 716-775-5446",
-        "name": "Wat Prodketchettharam of America",
-        "place_id": "ChIJRafIIkBp04kRRWsbyC6LUm4",
-        "url": "https://maps.google.com/?cid=7949569325304343365",
-        "website": "http://www.watprodketamerica.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM0WzDfmt0RfFKBiYX5CO60SLUC5ZuaZCi12fWc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO60GzJT4fhExSmUQu5066YCqze52v04P_EZ_x0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpLjxsMVczrHJDbi_s10M_fNfxiGmEOgDR1Fmp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYNSEuxjIAsyxp73CYSFNH5SzNw-rU3RYygdL-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1rxa_Q5uko1bZMxmvy-U6eMZlyPvj6LS5wmRr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6boN_4jDTSzKGyBMDAO5qQqdjrmlYnKm9v2EN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNCyCTa7lAGV9p-D7d2Ipez2JU0U3nXYP8f_Y0Y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvM6c08J8nUlIgL1__Jw9TVIS60LPnUDEBPOFZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNrX6LTRaQIE_CHKrA5RV-ResEFqJxBTsa31Aki=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNKF837Opt9og7P__5iqtJ6tg2LInGMfpXEUi4M=s1600-w800-h800"
-        ]
+      "name": "Wat Prodketchettharam of America",
+      "location": {
+        "lat": 43.0355564,
+        "lng": -78.9918689
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "2660, 2630 Bedell Rd, Grand Island, NY 14072, USA",
+      "phone": "+1 716-775-5446",
+      "website": "http://www.watprodketamerica.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM0WzDfmt0RfFKBiYX5CO60SLUC5ZuaZCi12fWc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO60GzJT4fhExSmUQu5066YCqze52v04P_EZ_x0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpLjxsMVczrHJDbi_s10M_fNfxiGmEOgDR1Fmp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYNSEuxjIAsyxp73CYSFNH5SzNw-rU3RYygdL-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1rxa_Q5uko1bZMxmvy-U6eMZlyPvj6LS5wmRr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6boN_4jDTSzKGyBMDAO5qQqdjrmlYnKm9v2EN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNCyCTa7lAGV9p-D7d2Ipez2JU0U3nXYP8f_Y0Y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvM6c08J8nUlIgL1__Jw9TVIS60LPnUDEBPOFZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNrX6LTRaQIE_CHKrA5RV-ResEFqJxBTsa31Aki=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNKF837Opt9og7P__5iqtJ6tg2LInGMfpXEUi4M=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJRafIIkBp04kRRWsbyC6LUm4",
+      "google_maps_url": "https://maps.google.com/?cid=7949569325304343365",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "74 Alpine Ave, Hamilton, ON L9A 1A6, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.2426106,
-            "lng": -79.85605749999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.2440485302915,
-              "lng": -79.85466721970849
-            },
-            "southwest": {
-              "lat": 43.2413505697085,
-              "lng": -79.85736518029151
-            }
-          }
-        },
-        "international_phone_number": "+1 905-575-5976",
-        "name": "Little Heron Zen Hermitage",
-        "place_id": "ChIJM7QxQ76bLIgR8I4DD_4DqQA",
-        "url": "https://maps.google.com/?cid=47573660772568816",
-        "website": "http://www.zenbuddhistnun.blogspot.ca/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO3T2db17Uf0yAxr5hLNZyX2shHl15ScRN21mf-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0Dn9YQveIJ5f9j9peYDxYrSc_lEIXRkM82B79=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8Apa2YG99B8xkJjncj8kA8AY1Xkxh7G4PJzoV=s1600-w800-h800"
-        ]
+      "name": "Little Heron Zen Hermitage",
+      "location": {
+        "lat": 43.2426106,
+        "lng": -79.85605749999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "74 Alpine Ave, Hamilton, ON L9A 1A6, Canada",
+      "phone": "+1 905-575-5976",
+      "website": "http://www.zenbuddhistnun.blogspot.ca/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO3T2db17Uf0yAxr5hLNZyX2shHl15ScRN21mf-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0Dn9YQveIJ5f9j9peYDxYrSc_lEIXRkM82B79=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8Apa2YG99B8xkJjncj8kA8AY1Xkxh7G4PJzoV=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJM7QxQ76bLIgR8I4DD_4DqQA",
+      "google_maps_url": "https://maps.google.com/?cid=47573660772568816",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "185 Niagara St, Toronto, ON M5V 1C9, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.6421108,
-            "lng": -79.4069217
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.6434597802915,
-              "lng": -79.40557271970849
-            },
-            "southwest": {
-              "lat": 43.6407618197085,
-              "lng": -79.4082706802915
-            }
-          }
-        },
-        "international_phone_number": "+1 416-504-4486",
-        "name": "Fu Sien Tong Buddhist Temple",
-        "place_id": "ChIJ-2eJ3eE0K4gR9MJFOPga0lU",
-        "url": "https://maps.google.com/?cid=6184034891731419892",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMbn-0iKbe9dlmGv4BHgMrEOoiGyin8T619qSvH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPb-wbh21YhYPuf8vYV0-O8V8A9hKg-LLPPxkSG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKz8sRWne1iwUZPlKWaA57M3LWWh8sGDCE0rIW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4SSbqXK8xU46iLwDvt-bzVZmZYcG5pcV7B_s3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOUKo0RPIDpvQXW8SDguoZjF6c96ifQVs_TY73=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUxqLmBPpzdJC9xuclrjp1brsnohqiX7w4a2qh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOyTZa8itzubiy_VSCs1L49TaE1QXdaJ7B9KYwC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQ_3QXttxMpsUjepnPV4BPFO9ywubFaNozXz1m=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOinVVGipJtggSANwHDXEbbl2Kz-mqhv-gUA2sB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOuTufRJk2CmgkIXjzhdHzFyQgnmVSv4boVTNl-=s1600-w800-h800"
-        ]
+      "name": "Fu Sien Tong Buddhist Temple",
+      "location": {
+        "lat": 43.6421108,
+        "lng": -79.4069217
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "185 Niagara St, Toronto, ON M5V 1C9, Canada",
+      "phone": "+1 416-504-4486",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMbn-0iKbe9dlmGv4BHgMrEOoiGyin8T619qSvH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPb-wbh21YhYPuf8vYV0-O8V8A9hKg-LLPPxkSG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKz8sRWne1iwUZPlKWaA57M3LWWh8sGDCE0rIW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4SSbqXK8xU46iLwDvt-bzVZmZYcG5pcV7B_s3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOUKo0RPIDpvQXW8SDguoZjF6c96ifQVs_TY73=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUxqLmBPpzdJC9xuclrjp1brsnohqiX7w4a2qh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOyTZa8itzubiy_VSCs1L49TaE1QXdaJ7B9KYwC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQ_3QXttxMpsUjepnPV4BPFO9ywubFaNozXz1m=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOinVVGipJtggSANwHDXEbbl2Kz-mqhv-gUA2sB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOuTufRJk2CmgkIXjzhdHzFyQgnmVSv4boVTNl-=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ-2eJ3eE0K4gR9MJFOPga0lU",
+      "google_maps_url": "https://maps.google.com/?cid=6184034891731419892",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "17969 Airport Rd, Caledon East, ON L7K 2K1, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.9094925,
-            "lng": -79.9183884
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.9107687802915,
-              "lng": -79.9170989197085
-            },
-            "southwest": {
-              "lat": 43.9080708197085,
-              "lng": -79.9197968802915
-            }
-          }
-        },
-        "international_phone_number": "+1 905-584-6886",
-        "name": "Wat Lao Veluwanaram Of Ontario",
-        "place_id": "ChIJd7qx338cK4gRx8fyMN5xvX8",
-        "url": "https://maps.google.com/?cid=9204638412533057479",
-        "website": "https://www.watlao-veluwanh.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMl-XFU4yLHxvbFzYSeJLSHTZ-TAzPMCoCgfAp3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8uqeQs5Dl0_6NRmamYwZ9znuOyNe6YjXiZBL7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9MKp8ClCU0budivfXE9DgOb6iGWy1_AgFgBo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMFmyRbNIrTcF6dKPP1jNMtkxMgdNniXylR4L_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0BN23aKRKrHvc6GtN1DL5LObgGZ0KO6OB4lFP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUxgwoO_YddGqZi_rozDgT1_ib1YOKYKQPcqQH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNlrFbcUxUH9BDVxkRkqwNJZNk4eyM1spfDGIzz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpNXn5JGNwfOn16wu21Q_0Y9xv9esEggm0Uyou=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPh933qCacp_TCmzUwTdgk3qe3MJxg-XtyLedza=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPL6fbeXUqmaqGDLc-KVI7ETodZPdgeifzfqzpa=s1600-w800-h800"
-        ]
+      "name": "Wat Lao Veluwanaram Of Ontario",
+      "location": {
+        "lat": 43.9094925,
+        "lng": -79.9183884
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "17969 Airport Rd, Caledon East, ON L7K 2K1, Canada",
+      "phone": "+1 905-584-6886",
+      "website": "https://www.watlao-veluwanh.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMl-XFU4yLHxvbFzYSeJLSHTZ-TAzPMCoCgfAp3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8uqeQs5Dl0_6NRmamYwZ9znuOyNe6YjXiZBL7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9MKp8ClCU0budivfXE9DgOb6iGWy1_AgFgBo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMFmyRbNIrTcF6dKPP1jNMtkxMgdNniXylR4L_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0BN23aKRKrHvc6GtN1DL5LObgGZ0KO6OB4lFP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUxgwoO_YddGqZi_rozDgT1_ib1YOKYKQPcqQH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNlrFbcUxUH9BDVxkRkqwNJZNk4eyM1spfDGIzz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpNXn5JGNwfOn16wu21Q_0Y9xv9esEggm0Uyou=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPh933qCacp_TCmzUwTdgk3qe3MJxg-XtyLedza=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPL6fbeXUqmaqGDLc-KVI7ETodZPdgeifzfqzpa=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJd7qx338cK4gRx8fyMN5xvX8",
+      "google_maps_url": "https://maps.google.com/?cid=9204638412533057479",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5686 Lewis Ave, Niagara Falls, ON L2G 3S1, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.09314399999999,
-            "lng": -79.079803
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.09458868029149,
-              "lng": -79.07857651970849
-            },
-            "southwest": {
-              "lat": 43.09189071970849,
-              "lng": -79.08127448029151
-            }
-          }
-        },
-        "international_phone_number": "+1 905-358-8044",
-        "name": "International Buddhist Zen Temple",
-        "place_id": "ChIJO0O7mRZD04kRnlUUtYJW3Sc",
-        "url": "https://maps.google.com/?cid=2872547256715990430",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP0VxATjgk9YVpvQeBU9ZmpNZNGmO2_IvQqmWTh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKPd2oAZwdm5cfdsTOJuMPa6PJeIDss11LMjzX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOw3-tyiQZjU__IEM1R4xe6Y5btC8nWrGHQhl0c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOOXFsZEmDjd9XETpbTMRZ_-oxaQoDPBOsZ8eE9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMT-xCaVZjduhaagjCUAB9mhrVZzaAKqbgszLOC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjT-Yj-ns4vGxCPEYWeMfqR_cvCdZgt5whLiSn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVquLbfjFTAw7SxLS0h1RrzWOVQ7Rn9d2e0JfV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOt8EKQPXL6wSWTnwJAJRPmIJAL0-WR2KsLi_JR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN20R6sx4tJEN8u1lLiXB0-k-CL3x_4o_xvHwIw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJupUTEqyW_mVI29SHEfIcs2faCb88xIf4SNBa=s1600-w800-h800"
-        ]
+      "name": "International Buddhist Zen Temple",
+      "location": {
+        "lat": 43.09314399999999,
+        "lng": -79.079803
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "5686 Lewis Ave, Niagara Falls, ON L2G 3S1, Canada",
+      "phone": "+1 905-358-8044",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP0VxATjgk9YVpvQeBU9ZmpNZNGmO2_IvQqmWTh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKPd2oAZwdm5cfdsTOJuMPa6PJeIDss11LMjzX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOw3-tyiQZjU__IEM1R4xe6Y5btC8nWrGHQhl0c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOOXFsZEmDjd9XETpbTMRZ_-oxaQoDPBOsZ8eE9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMT-xCaVZjduhaagjCUAB9mhrVZzaAKqbgszLOC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjT-Yj-ns4vGxCPEYWeMfqR_cvCdZgt5whLiSn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVquLbfjFTAw7SxLS0h1RrzWOVQ7Rn9d2e0JfV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOt8EKQPXL6wSWTnwJAJRPmIJAL0-WR2KsLi_JR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN20R6sx4tJEN8u1lLiXB0-k-CL3x_4o_xvHwIw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJupUTEqyW_mVI29SHEfIcs2faCb88xIf4SNBa=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJO0O7mRZD04kRnlUUtYJW3Sc",
+      "google_maps_url": "https://maps.google.com/?cid=2872547256715990430",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "25 Lawrence Pl, Buffalo, NY 14213, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.9129879,
-            "lng": -78.8892467
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.9142604302915,
-              "lng": -78.88804826970849
-            },
-            "southwest": {
-              "lat": 42.9115624697085,
-              "lng": -78.8907462302915
-            }
-          }
-        },
-        "international_phone_number": "+1 716-885-5091",
-        "name": "wat buddha kunaram",
-        "place_id": "ChIJ6besoAQT04kR-t0H1ISx_Yc",
-        "url": "https://maps.google.com/?cid=9799183548279152122",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "wat buddha kunaram",
+      "location": {
+        "lat": 42.9129879,
+        "lng": -78.8892467
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "25 Lawrence Pl, Buffalo, NY 14213, USA",
+      "phone": "+1 716-885-5091",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ6besoAQT04kR-t0H1ISx_Yc",
+      "google_maps_url": "https://maps.google.com/?cid=9799183548279152122",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "516 Barton St, Stoney Creek, ON L8E 2L6, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.2245384,
-            "lng": -79.7100275
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.2259548802915,
-              "lng": -79.7086180197085
-            },
-            "southwest": {
-              "lat": 43.2232569197085,
-              "lng": -79.7113159802915
-            }
-          }
-        },
-        "international_phone_number": "+1 905-664-5547",
-        "name": "Wat Khmer Krom Hamilton",
-        "place_id": "ChIJ40VKRUSiLIgR3klRs7nYVho",
-        "url": "https://maps.google.com/?cid=1897942585072241118",
-        "website": "http://www.watkhmerkrom.ca/contact",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNf-79KJhAL5csi1vf13WBccRMsqvrXybMoOh1V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwIV5ryF6ePdzSHr69pIBJfJdin8grFefQ7H-X=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7KWCX11GIQAz1h_eBrdBzwtI-Y5cw0vyvemaB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM6sA-6iw3pyr2sQY22kAnJPHaa7zqCE0-e2u_F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwKaEZ49ClT_oSfpoOA_jCD4TSR43iOBnbFhob=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSDtNgACDGN9xWuDkx60oJFTjDco3Tf8XsASLU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOdInEVjbIvViiOx-eQBhLIfwBVOWXjjTyXfABY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMvMEokpvu0SAs--3ZjEyaiD7N_TiJlnIqpGyvn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPflKS-XHrySg4REHTZ08GhrZ4W6CDByi4O3QYy=s1600-w800-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipPuw9uIa5cu8oumwQo_ZjEB5DFpBki2_W3GA5-T=s1600-w800-h800"
-        ]
+      "name": "Wat Khmer Krom Hamilton",
+      "location": {
+        "lat": 43.2245384,
+        "lng": -79.7100275
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "516 Barton St, Stoney Creek, ON L8E 2L6, Canada",
+      "phone": "+1 905-664-5547",
+      "website": "http://www.watkhmerkrom.ca/contact",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNf-79KJhAL5csi1vf13WBccRMsqvrXybMoOh1V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwIV5ryF6ePdzSHr69pIBJfJdin8grFefQ7H-X=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7KWCX11GIQAz1h_eBrdBzwtI-Y5cw0vyvemaB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM6sA-6iw3pyr2sQY22kAnJPHaa7zqCE0-e2u_F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwKaEZ49ClT_oSfpoOA_jCD4TSR43iOBnbFhob=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSDtNgACDGN9xWuDkx60oJFTjDco3Tf8XsASLU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOdInEVjbIvViiOx-eQBhLIfwBVOWXjjTyXfABY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMvMEokpvu0SAs--3ZjEyaiD7N_TiJlnIqpGyvn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPflKS-XHrySg4REHTZ08GhrZ4W6CDByi4O3QYy=s1600-w800-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipPuw9uIa5cu8oumwQo_ZjEB5DFpBki2_W3GA5-T=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ40VKRUSiLIgR3klRs7nYVho",
+      "google_maps_url": "https://maps.google.com/?cid=1897942585072241118",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "300 Bathurst St, Toronto, ON M5T 2S3, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.65076579999999,
-            "lng": -79.4055795
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.6521556302915,
-              "lng": -79.4041580197085
-            },
-            "southwest": {
-              "lat": 43.6494576697085,
-              "lng": -79.40685598029151
-            }
-          }
-        },
-        "international_phone_number": "+1 416-603-8889",
-        "name": "Ching Kwok Buddhist Temple 正覺寺",
-        "place_id": "ChIJ2do80-c0K4gRUAmxGGOiqZ8",
-        "url": "https://maps.google.com/?cid=11504905269594360144",
-        "website": "https://www.cktemple.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP42CVc-De6LW4sgD6kh4lKzF3uptH8Oe9kf6z2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEZkRe_68og7_OB-qB_SBuwjPpsUPCYPiXUe95=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUUloeaDTTRHlO8bQeGBTKelzu_n4jRj0OJiMA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPeiXqbNkZNQjqlVMN6pNUDP23HvlxJyUn9Ep0w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPbfJ-EwC6Eah1Ez1_ZTCGfkEwSZ1DrrDAkB-qG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhhyDljwdTILJPhJ79bxmNBRNbLl-0XYWPNB9w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM8tozNzl_QctNpQXCMqc810ZHGiU-fJ9vOCwqy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5hjQe4D4m8F0UvTV2-VZMnXQIR6TfVLHobBTS=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPEKrsZttSOPcYTZaiqXC2cP2LS1liHVDZKScPR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_SLDdwuT-Td4hTGDC4TmnEBRq4VI5rRUpxxNC=s1600-w800-h800"
-        ]
+      "name": "Ching Kwok Buddhist Temple 正覺寺",
+      "location": {
+        "lat": 43.65076579999999,
+        "lng": -79.4055795
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "300 Bathurst St, Toronto, ON M5T 2S3, Canada",
+      "phone": "+1 416-603-8889",
+      "website": "https://www.cktemple.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP42CVc-De6LW4sgD6kh4lKzF3uptH8Oe9kf6z2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEZkRe_68og7_OB-qB_SBuwjPpsUPCYPiXUe95=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUUloeaDTTRHlO8bQeGBTKelzu_n4jRj0OJiMA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPeiXqbNkZNQjqlVMN6pNUDP23HvlxJyUn9Ep0w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPbfJ-EwC6Eah1Ez1_ZTCGfkEwSZ1DrrDAkB-qG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhhyDljwdTILJPhJ79bxmNBRNbLl-0XYWPNB9w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM8tozNzl_QctNpQXCMqc810ZHGiU-fJ9vOCwqy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5hjQe4D4m8F0UvTV2-VZMnXQIR6TfVLHobBTS=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPEKrsZttSOPcYTZaiqXC2cP2LS1liHVDZKScPR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_SLDdwuT-Td4hTGDC4TmnEBRq4VI5rRUpxxNC=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ2do80-c0K4gRUAmxGGOiqZ8",
+      "google_maps_url": "https://maps.google.com/?cid=11504905269594360144",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "45 Hempstead Dr, Hamilton, ON L8W 2Y6, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.1953798,
-            "lng": -79.84009429999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.19665568029149,
-              "lng": -79.83842006970849
-            },
-            "southwest": {
-              "lat": 43.1939577197085,
-              "lng": -79.8411180302915
-            }
-          }
-        },
-        "international_phone_number": "+1 905-549-4816",
-        "name": "Hamilton Buddhist Temple",
-        "place_id": "ChIJT1rtsRqaLIgRZLpxEWwC5BY",
-        "url": "https://maps.google.com/?cid=1649446026696833636",
-        "website": "https://hamiltonbuddhisttemple.wordpress.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Hamilton Buddhist Temple",
+      "location": {
+        "lat": 43.1953798,
+        "lng": -79.84009429999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "45 Hempstead Dr, Hamilton, ON L8W 2Y6, Canada",
+      "phone": "+1 905-549-4816",
+      "website": "https://hamiltonbuddhisttemple.wordpress.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJT1rtsRqaLIgRZLpxEWwC5BY",
+      "google_maps_url": "https://maps.google.com/?cid=1649446026696833636",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "516 Barton St, Stoney Creek, ON L8E 5B5, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.2245475,
-            "lng": -79.710076
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.2259665302915,
-              "lng": -79.7086553697085
-            },
-            "southwest": {
-              "lat": 43.2232685697085,
-              "lng": -79.7113533302915
-            }
-          }
-        },
-        "international_phone_number": "+1 905-664-5547",
-        "name": "Kmer Kampuchea Krom Buddhist Temple",
-        "place_id": "ChIJewSgWkSiLIgRaJ1RD-26XP4",
-        "url": "https://maps.google.com/?cid=18328730110818098536",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMAeO_vrQuMCQjr9Rj6zR_OG9beccAKTDRgWoE6=s1600-w800-h648",
-          "https://lh3.googleusercontent.com/p/AF1QipOcQmeohnfKiQkKUN93kjHhMwh88LfaXEYJ_CMB=s1600-w800-h648",
-          "https://lh3.googleusercontent.com/p/AF1QipP5BhtPZmh2AO_tPN9MNxkejxd_cmQhAXYZ4fxI=s1600-w648-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipML6yO3uCbC4gtOlfcoTgr2VoVcFbx4GMRpnYeD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQzWCbdwPaAvAXjqAitWk7xxVhBnig01Oo6pkU=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipM0UZWjlGbW6xuqgoBkUZVUNPU52R8bvoYa4TXB=s1600-w800-h720"
-        ]
+      "name": "Kmer Kampuchea Krom Buddhist Temple",
+      "location": {
+        "lat": 43.2245475,
+        "lng": -79.710076
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "516 Barton St, Stoney Creek, ON L8E 5B5, Canada",
+      "phone": "+1 905-664-5547",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMAeO_vrQuMCQjr9Rj6zR_OG9beccAKTDRgWoE6=s1600-w800-h648",
+        "https://lh3.googleusercontent.com/p/AF1QipOcQmeohnfKiQkKUN93kjHhMwh88LfaXEYJ_CMB=s1600-w800-h648",
+        "https://lh3.googleusercontent.com/p/AF1QipP5BhtPZmh2AO_tPN9MNxkejxd_cmQhAXYZ4fxI=s1600-w648-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipML6yO3uCbC4gtOlfcoTgr2VoVcFbx4GMRpnYeD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQzWCbdwPaAvAXjqAitWk7xxVhBnig01Oo6pkU=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipM0UZWjlGbW6xuqgoBkUZVUNPU52R8bvoYa4TXB=s1600-w800-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJewSgWkSiLIgRaJ1RD-26XP4",
+      "google_maps_url": "https://maps.google.com/?cid=18328730110818098536",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "7254 Bayview Ave, Thornhill, ON L3T 2R6, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.80894079999999,
-            "lng": -79.3993828
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.81028978029149,
-              "lng": -79.3980338197085
-            },
-            "southwest": {
-              "lat": 43.80759181970849,
-              "lng": -79.40073178029151
-            }
-          }
-        },
-        "international_phone_number": "+1 905-886-1522 ext. 234",
-        "name": "Cham Shan Temple",
-        "place_id": "ChIJFWvY48AsK4gRI_xPYFD_VM4",
-        "url": "https://maps.google.com/?cid=14867788990535171107",
-        "website": "http://www.chamshantemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP5vrsqV7mXK5TWEuOkbJYNoqOkt1U9V4GpL6TH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmlxDSLAB6K048zLx3IIyEVZdLRC6ri0oUx8sR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcwy0BmArE4NrDnyrNXwyMsXoGGIBUnmK5T9J2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORnIr6u-O6ysv3i546fRzqRQ940KmjBSvjH4Za=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqxDwbWAXCTL1S2jxg9a9b5H0i2pEO0gqbTi7a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOD5fjeUhVS7R61An32uRrXKI9_29NnF2k6xuRt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOa8m71NfFTRt3M5avCmvEeIPMBheJa_3vxZBi4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPsvsKQDD2f9GXazWv0LXRANjaWMf83Kj4VWAn9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUP2rW1hTQOy__PJF9VdSi0xZYi-jSHlnDpC2t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7EGeZdfr2SRN0lA0JTairWAGtnsi1qdery9PJ=s1600-w800-h540"
-        ]
+      "name": "Cham Shan Temple",
+      "location": {
+        "lat": 43.80894079999999,
+        "lng": -79.3993828
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "7254 Bayview Ave, Thornhill, ON L3T 2R6, Canada",
+      "phone": "+1 905-886-1522 ext. 234",
+      "website": "http://www.chamshantemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP5vrsqV7mXK5TWEuOkbJYNoqOkt1U9V4GpL6TH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmlxDSLAB6K048zLx3IIyEVZdLRC6ri0oUx8sR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcwy0BmArE4NrDnyrNXwyMsXoGGIBUnmK5T9J2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORnIr6u-O6ysv3i546fRzqRQ940KmjBSvjH4Za=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqxDwbWAXCTL1S2jxg9a9b5H0i2pEO0gqbTi7a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOD5fjeUhVS7R61An32uRrXKI9_29NnF2k6xuRt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOa8m71NfFTRt3M5avCmvEeIPMBheJa_3vxZBi4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPsvsKQDD2f9GXazWv0LXRANjaWMf83Kj4VWAn9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUP2rW1hTQOy__PJF9VdSi0xZYi-jSHlnDpC2t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7EGeZdfr2SRN0lA0JTairWAGtnsi1qdery9PJ=s1600-w800-h540"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJFWvY48AsK4gRI_xPYFD_VM4",
+      "google_maps_url": "https://maps.google.com/?cid=14867788990535171107",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "7020 Stanley Ave, Niagara Falls, ON L2G 7B7, Canada",
-        "geometry": {
-          "location": {
-            "lat": 43.0738596,
-            "lng": -79.0828063
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.0752679302915,
-              "lng": -79.08134876970851
-            },
-            "southwest": {
-              "lat": 43.0725699697085,
-              "lng": -79.08404673029152
-            }
-          }
-        },
-        "international_phone_number": "+1 905-356-4113",
-        "name": "Monastery of Mount Carmel Spiritual Retreat and Conference Centre",
-        "place_id": "ChIJE_hiBaFD04kRfzKk-26ez4Y",
-        "url": "https://maps.google.com/?cid=9714157120766882431",
-        "website": "https://www.store.carmelniagara.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMbMxKaYtJsp73RsNDncD9wbaW_e876pIfrB6_L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3_TCDUDiyjpK7oQil2EsX4Xc2QlRazfPyyD1I=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPc0jiOZJ_W1_7JvGneCm5PQQwAi-uZHIGzigaP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBDHR2qd_4_69o7I8G51FMrSQg47samas6yfcH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrVTXLC3NX5JnsfTBSAKqmpnTGmjNfEqgm5pfv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvSh4DUvNa6rc_lcjZIGTB74p6-Zy2vLPWI2Ik=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNLSPY729hAnu-K19qoSqnMopc3cwvQbJU_Od1p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOMZQXIv1RHOxNUsomWjG5r2NtfJMcc9DHmyjRl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMjI2dORHIHI5sStJErfQdXQC-N-zFrJnH2ynN-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPl6xmt-H5tn_VU5kw6Vh3-PwliwT5mHmWTDVu7=s1600-w800-h800"
-        ]
+      "name": "Monastery of Mount Carmel Spiritual Retreat and Conference Centre",
+      "location": {
+        "lat": 43.0738596,
+        "lng": -79.0828063
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "7020 Stanley Ave, Niagara Falls, ON L2G 7B7, Canada",
+      "phone": "+1 905-356-4113",
+      "website": "https://www.store.carmelniagara.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMbMxKaYtJsp73RsNDncD9wbaW_e876pIfrB6_L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3_TCDUDiyjpK7oQil2EsX4Xc2QlRazfPyyD1I=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPc0jiOZJ_W1_7JvGneCm5PQQwAi-uZHIGzigaP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBDHR2qd_4_69o7I8G51FMrSQg47samas6yfcH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrVTXLC3NX5JnsfTBSAKqmpnTGmjNfEqgm5pfv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvSh4DUvNa6rc_lcjZIGTB74p6-Zy2vLPWI2Ik=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNLSPY729hAnu-K19qoSqnMopc3cwvQbJU_Od1p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOMZQXIv1RHOxNUsomWjG5r2NtfJMcc9DHmyjRl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMjI2dORHIHI5sStJErfQdXQC-N-zFrJnH2ynN-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPl6xmt-H5tn_VU5kw6Vh3-PwliwT5mHmWTDVu7=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJE_hiBaFD04kRfzKk-26ez4Y",
+      "google_maps_url": "https://maps.google.com/?cid=9714157120766882431",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1115 East Main St. Box 6, Suite 436, 4th floor, Rochester, NY 14609, USA",
-        "geometry": {
-          "location": {
-            "lat": 43.1612099,
-            "lng": -77.5829746
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.1626308302915,
-              "lng": -77.5816956197085
-            },
-            "southwest": {
-              "lat": 43.15993286970851,
-              "lng": -77.58439358029152
-            }
-          }
-        },
-        "international_phone_number": "+1 585-820-2638",
-        "name": "Shoeizan Enkyoji Buddhist Temple of Rochester",
-        "place_id": "ChIJPwohJJi11okRQh-77bXZgpQ",
-        "url": "https://maps.google.com/?cid=10701355039986491202",
-        "website": "http://www.rochesterbuddhist.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPiNtjkQSNPhmbx1vClsmIWmtziaJFpf9HqEi17=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwFgaKJUF6vr0rXsc-f5gT97lpiCQtn8joGGBU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPp3wilTps_wek31qz82cTc5CiLSYcvaZPSMHTr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmn0CCSc3zRnuOk3V2O1ripsIe3HlBqWsB_5BW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNxZDykphMSiqXj4fg3aWMe_MdpntaA_qGuNbmn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHDUD1Kbl9KqMvi3s088uC9lCVtqwdwNZ13LAS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8gDbScKtMMd7SETzR_xSTL7UWU1Z4CKtTjMpL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNVZOWmnLMsRmKkmwZ5UPck3vY3QKR4onUWXQPK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOj6htiAu_r9ayet3dpnmjTWx42oJA0ihsj2C_M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOg0jl7fJ-VlRA7qyEVsbmyfbX45FTCTR_uf7Of=s1600-w800-h800"
-        ]
+      "name": "Shoeizan Enkyoji Buddhist Temple of Rochester",
+      "location": {
+        "lat": 43.1612099,
+        "lng": -77.5829746
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "1115 East Main St. Box 6, Suite 436, 4th floor, Rochester, NY 14609, USA",
+      "phone": "+1 585-820-2638",
+      "website": "http://www.rochesterbuddhist.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPiNtjkQSNPhmbx1vClsmIWmtziaJFpf9HqEi17=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwFgaKJUF6vr0rXsc-f5gT97lpiCQtn8joGGBU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPp3wilTps_wek31qz82cTc5CiLSYcvaZPSMHTr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmn0CCSc3zRnuOk3V2O1ripsIe3HlBqWsB_5BW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNxZDykphMSiqXj4fg3aWMe_MdpntaA_qGuNbmn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHDUD1Kbl9KqMvi3s088uC9lCVtqwdwNZ13LAS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8gDbScKtMMd7SETzR_xSTL7UWU1Z4CKtTjMpL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNVZOWmnLMsRmKkmwZ5UPck3vY3QKR4onUWXQPK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOj6htiAu_r9ayet3dpnmjTWx42oJA0ihsj2C_M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOg0jl7fJ-VlRA7qyEVsbmyfbX45FTCTR_uf7Of=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJPwohJJi11okRQh-77bXZgpQ",
+      "google_maps_url": "https://maps.google.com/?cid=10701355039986491202",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1755 Lingham Lake Rd, Madoc, ON K0K 2K0, Canada",
-        "geometry": {
-          "location": {
-            "lat": 44.6942403,
-            "lng": -77.4084365
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.69509599999999,
-              "lng": -77.40654136970849
-            },
-            "southwest": {
-              "lat": 44.6916732,
-              "lng": -77.40923933029151
-            }
-          }
-        },
-        "international_phone_number": "+1 613-967-7432",
-        "name": "Orgyan Osal Cho Dzong Buddhist Temple",
-        "place_id": "ChIJ40hQbbps00wRGH4bFzEF8q8",
-        "url": "https://maps.google.com/?cid=12678201609400581656",
-        "website": "http://www.palyulcanada.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO04sfIbgPuditfAgfDaultZTsm57tXrfP1GBs2=s1600-w800-h601",
-          "https://lh3.googleusercontent.com/p/AF1QipNOp10G3lbw8kojL-I5QaNs4dc1XwBHVtOEB3K0=s1600-w800-h697"
-        ]
+      "name": "Orgyan Osal Cho Dzong Buddhist Temple",
+      "location": {
+        "lat": 44.6942403,
+        "lng": -77.4084365
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "1755 Lingham Lake Rd, Madoc, ON K0K 2K0, Canada",
+      "phone": "+1 613-967-7432",
+      "website": "http://www.palyulcanada.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO04sfIbgPuditfAgfDaultZTsm57tXrfP1GBs2=s1600-w800-h601",
+        "https://lh3.googleusercontent.com/p/AF1QipNOp10G3lbw8kojL-I5QaNs4dc1XwBHVtOEB3K0=s1600-w800-h697"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ40hQbbps00wRGH4bFzEF8q8",
+      "google_maps_url": "https://maps.google.com/?cid=12678201609400581656",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "135 Martin Rd, West Henrietta, NY 14586, USA",
-        "geometry": {
-          "location": {
-            "lat": 43.0246696,
-            "lng": -77.7101974
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 43.0265302802915,
-              "lng": -77.70887326970849
-            },
-            "southwest": {
-              "lat": 43.0238323197085,
-              "lng": -77.7115712302915
-            }
-          }
-        },
-        "name": "Wat Pa Lao Buddhadham",
-        "place_id": "ChIJA6Q8zVpO0YkRpGRe6oK7Duw",
-        "url": "https://maps.google.com/?cid=17009739013577139364",
-        "website": "https://www.watpalaorochester.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP1yoMR8ZrO-oQJOR8h_KoX3Su4bKaMczGkINfT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMK3t4WI8dee1DekqEvBJIIOdzDjY7sTFOnpXkl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUWG1Vhol6w4lcR7irJ5ltk9nMN4-2A6srBda_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOPpQyUtKxfCcoTQ2nC0O1vn7RYC81mqKuQqRfM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOli087fYu1U6t2y2gpewp7rjv9i1yiJCh344M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1Q_eKNeJjhNuWQp9c8mPBqf0oeFgfA0VG-U9S=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPUM8vKJfRwsX8GtAXt233wX0FQtEpAp4YKmv1s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOgPceP1DExpZGFxehJCLovE749hHB-qNy4nhgI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN79LqSdhcq74H0F-loVSnfI5cPxKO3vxdHC4mu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMa0V0hbbMCI2Ntoc5U35RdVq4Avv31IweIa474=s1600-w800-h800"
-        ]
+      "name": "Wat Pa Lao Buddhadham",
+      "location": {
+        "lat": 43.0246696,
+        "lng": -77.7101974
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "135 Martin Rd, West Henrietta, NY 14586, USA",
+      "website": "https://www.watpalaorochester.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP1yoMR8ZrO-oQJOR8h_KoX3Su4bKaMczGkINfT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMK3t4WI8dee1DekqEvBJIIOdzDjY7sTFOnpXkl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUWG1Vhol6w4lcR7irJ5ltk9nMN4-2A6srBda_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOPpQyUtKxfCcoTQ2nC0O1vn7RYC81mqKuQqRfM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOli087fYu1U6t2y2gpewp7rjv9i1yiJCh344M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1Q_eKNeJjhNuWQp9c8mPBqf0oeFgfA0VG-U9S=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPUM8vKJfRwsX8GtAXt233wX0FQtEpAp4YKmv1s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOgPceP1DExpZGFxehJCLovE749hHB-qNy4nhgI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN79LqSdhcq74H0F-loVSnfI5cPxKO3vxdHC4mu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMa0V0hbbMCI2Ntoc5U35RdVq4Avv31IweIa474=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA6Q8zVpO0YkRpGRe6oK7Duw",
+      "google_maps_url": "https://maps.google.com/?cid=17009739013577139364",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1153 St Pierre St, Orléans, ON K1C 1L4, Canada",
-        "geometry": {
-          "location": {
-            "lat": 45.4742349,
-            "lng": -75.52111049999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 45.4755186302915,
-              "lng": -75.51988616970849
-            },
-            "southwest": {
-              "lat": 45.4728206697085,
-              "lng": -75.52258413029149
-            }
-          }
-        },
-        "international_phone_number": "+1 613-424-4482",
-        "name": "Ottawa Theravada Buddhist Vihara and Cultural Center",
-        "place_id": "ChIJo0G1f4ERzkwRfBTZWLmd5GQ",
-        "url": "https://maps.google.com/?cid=7270109117867955324",
-        "website": "https://ottawabuddhist.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN3FyuAbD23WSltDmyyx9xjE8pUG6l8Z_5Gycwy=s1600-w800-h568",
-          "https://lh3.googleusercontent.com/p/AF1QipN7IxBFBGwWL1AKomGVQrvlqnsp5gdzQ6PWFvCE=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipNFhfa-_JV3bMVlb1MRmcm2ltv-mj6FrRgh_G81=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMt7dQewqPjCKjNFDYkiWOfzgr_7WlBze3TFx3z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyL5AbFVI8tT_mX5QdAII1mLNqoepPyxHxCip7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkXeU1M54OObOiQN2iWwayE9praGjyYkhpw0Rm=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPwURD8pH08dgBpkKfzOYrgawQaJGdFGEFX0V-a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPOuzRRbQIq4NnWjVeMXAC0NbQlFyZeLIHIJ8bD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMi87SPSB6UkJbR1Na1DyOqZxXMgVXKjSEiLM1S=s1600-w800-h608",
-          "https://lh3.googleusercontent.com/p/AF1QipPotgBiLhsKB7YBQIPew76oipUrSntC5PQt33Km=s1600-w800-h800"
-        ]
+      "name": "Ottawa Theravada Buddhist Vihara and Cultural Center",
+      "location": {
+        "lat": 45.4742349,
+        "lng": -75.52111049999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "1153 St Pierre St, Orléans, ON K1C 1L4, Canada",
+      "phone": "+1 613-424-4482",
+      "website": "https://ottawabuddhist.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN3FyuAbD23WSltDmyyx9xjE8pUG6l8Z_5Gycwy=s1600-w800-h568",
+        "https://lh3.googleusercontent.com/p/AF1QipN7IxBFBGwWL1AKomGVQrvlqnsp5gdzQ6PWFvCE=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipNFhfa-_JV3bMVlb1MRmcm2ltv-mj6FrRgh_G81=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMt7dQewqPjCKjNFDYkiWOfzgr_7WlBze3TFx3z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyL5AbFVI8tT_mX5QdAII1mLNqoepPyxHxCip7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkXeU1M54OObOiQN2iWwayE9praGjyYkhpw0Rm=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPwURD8pH08dgBpkKfzOYrgawQaJGdFGEFX0V-a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPOuzRRbQIq4NnWjVeMXAC0NbQlFyZeLIHIJ8bD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMi87SPSB6UkJbR1Na1DyOqZxXMgVXKjSEiLM1S=s1600-w800-h608",
+        "https://lh3.googleusercontent.com/p/AF1QipPotgBiLhsKB7YBQIPew76oipUrSntC5PQt33Km=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJo0G1f4ERzkwRfBTZWLmd5GQ",
+      "google_maps_url": "https://maps.google.com/?cid=7270109117867955324",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1702 McVeigh Rd, Perth, ON K7H 3C9, Canada",
-        "geometry": {
-          "location": {
-            "lat": 44.86695169999999,
-            "lng": -76.4422704
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 44.8682572302915,
-              "lng": -76.44087066970849
-            },
-            "southwest": {
-              "lat": 44.8655592697085,
-              "lng": -76.44356863029151
-            }
-          }
-        },
-        "international_phone_number": "+1 613-326-0039",
-        "name": "Sati Saraniya Hermitage",
-        "place_id": "ChIJO3VKm7Jm0kwRm7CRjI8Q86c",
-        "url": "https://maps.google.com/?cid=12102034832399380635",
-        "website": "https://satisaraniya.ca/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMIUpKVQKuH4wTxzr8ASJDaHt5LGtPA1SMjDK_4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBNUboeI7qBfBNjNp1sBhenfcvts_0RCvVExyC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNz_KF7eXlWfzCDAhYdDI9AYSkYwR3m2_r50F-P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5V-0fx8L6RZFBG57RuzQ9sNANpbBF7gTSadcR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOADnH9Sm9t0JD5rZBhMkxOixkz0B7PjJzSIT2J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO5owKzvCoXiM51hQh5Cn4uiTDkOxkb-9c8GVbq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzVGYbvvcBWc9qWLzjs4qSGyrZiDvavaTkvc6V=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM00oC3gJq-WdDh9VC7jfd-H8AWtTS8DCf1DOYl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1DKTfd-8OsUVzxiH-GI4vPxAlUuJXgRJz9nKI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5a7zGf0HnE0NdNB-jPMoPZAHOEz08euNgtXNk=s1600-w800-h800"
-        ]
+      "name": "Sati Saraniya Hermitage",
+      "location": {
+        "lat": 44.86695169999999,
+        "lng": -76.4422704
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:50:24.738Z"
-      }
+      "address": "1702 McVeigh Rd, Perth, ON K7H 3C9, Canada",
+      "phone": "+1 613-326-0039",
+      "website": "https://satisaraniya.ca/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMIUpKVQKuH4wTxzr8ASJDaHt5LGtPA1SMjDK_4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBNUboeI7qBfBNjNp1sBhenfcvts_0RCvVExyC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNz_KF7eXlWfzCDAhYdDI9AYSkYwR3m2_r50F-P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5V-0fx8L6RZFBG57RuzQ9sNANpbBF7gTSadcR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOADnH9Sm9t0JD5rZBhMkxOixkz0B7PjJzSIT2J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO5owKzvCoXiM51hQh5Cn4uiTDkOxkb-9c8GVbq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzVGYbvvcBWc9qWLzjs4qSGyrZiDvavaTkvc6V=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM00oC3gJq-WdDh9VC7jfd-H8AWtTS8DCf1DOYl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1DKTfd-8OsUVzxiH-GI4vPxAlUuJXgRJz9nKI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5a7zGf0HnE0NdNB-jPMoPZAHOEz08euNgtXNk=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJO3VKm7Jm0kwRm7CRjI8Q86c",
+      "google_maps_url": "https://maps.google.com/?cid=12102034832399380635",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

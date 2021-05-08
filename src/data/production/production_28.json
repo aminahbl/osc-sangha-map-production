@@ -1,816 +1,651 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "345 Buseoksa-ro, Buseok-myeon, Yeongju, Gyeongsangbuk-do, South Korea",
-        "geometry": {
-          "location": {
-            "lat": 36.9979242,
-            "lng": 128.6872054
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.9992731802915,
-              "lng": 128.6885543802915
-            },
-            "southwest": {
-              "lat": 36.9965752197085,
-              "lng": 128.6858564197085
-            }
-          }
-        },
-        "international_phone_number": "+82 54-633-3464",
-        "name": "Buseoksa Temple",
-        "place_id": "ChIJsVPuGPtYYTURQkcVAAT8wwA",
-        "url": "https://maps.google.com/?cid=55164714570041154",
-        "website": "http://www.pusoksa.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPyqVMVPoXCs7XcE8gc0iY_VxLVHmhunD6nPIYe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhuqeVaiLwTW5x6Ix4pWrKyS_w7VFJVZ34EyhN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO93obmDZueADoeqd_EW6SXEd3Tdxuw0utKcrE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCnkFyIbdPwR4OeRokIkfVvGKKce16u9eUKMo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9C3id4Xf4i3VR8a2a-YyniPYKo4SMChA4GZBQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyNBL2Jsf8Pi5JOTJj8Cz7iLc-RTPNslufyWb5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMXrx5ZMslrhBbUwIsrHrlBFHd89dxPGS5d-Sd8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwW6twQzD0sUCyRGy9d0JpMMWpDGPACnVtSOeV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGvE7zkB9rM0TejQMYLWM_y6mWsWwH4kERUeY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqQhWIynsNeGZMRCChEK8SjWXQfSORgKwmpkc5=s1600-w800-h800"
-        ]
+      "name": "Buseoksa Temple",
+      "location": {
+        "lat": 36.9979242,
+        "lng": 128.6872054
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "345 Buseoksa-ro, Buseok-myeon, Yeongju, Gyeongsangbuk-do, South Korea",
+      "phone": "+82 54-633-3464",
+      "website": "http://www.pusoksa.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPyqVMVPoXCs7XcE8gc0iY_VxLVHmhunD6nPIYe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhuqeVaiLwTW5x6Ix4pWrKyS_w7VFJVZ34EyhN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO93obmDZueADoeqd_EW6SXEd3Tdxuw0utKcrE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCnkFyIbdPwR4OeRokIkfVvGKKce16u9eUKMo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9C3id4Xf4i3VR8a2a-YyniPYKo4SMChA4GZBQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyNBL2Jsf8Pi5JOTJj8Cz7iLc-RTPNslufyWb5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMXrx5ZMslrhBbUwIsrHrlBFHd89dxPGS5d-Sd8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwW6twQzD0sUCyRGy9d0JpMMWpDGPACnVtSOeV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGvE7zkB9rM0TejQMYLWM_y6mWsWwH4kERUeY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqQhWIynsNeGZMRCChEK8SjWXQfSORgKwmpkc5=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJsVPuGPtYYTURQkcVAAT8wwA",
+      "google_maps_url": "https://maps.google.com/?cid=55164714570041154",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2-chōme-27-18 Niikura, Wako, Saitama 351-0115, Japan",
-        "geometry": {
-          "location": {
-            "lat": 35.79548460000001,
-            "lng": 139.6225822
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 35.7967622802915,
-              "lng": 139.6239411302915
-            },
-            "southwest": {
-              "lat": 35.7940643197085,
-              "lng": 139.6212431697085
-            }
-          }
-        },
-        "international_phone_number": "+81 48-424-4264",
-        "name": "ミャンマーお寺 THERAVADA MONASTERY",
-        "place_id": "ChIJ2ejRmIDrGGARkLwjVd9IkUk",
-        "url": "https://maps.google.com/?cid=5301098360435096720",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNXKnCT0yWTUEJIjr2anjrBUjhNphase7koOBGT=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOZE7aacIAdIyA8i9v1BaYgp9EHt0RjOxjKdJOq=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipP1liAx1aUBSAHT6dIYhlZz6hjTyhFT2TYweIMD=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMcXgmgiijLLruVThIpoi_0PJiyg3oRQBb14_S-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsx8cLky00R0aCVCsbnDSD1QCokCUwT27S-zNw=s1600-w800-h800"
-        ]
+      "name": "ミャンマーお寺 THERAVADA MONASTERY",
+      "location": {
+        "lat": 35.79548460000001,
+        "lng": 139.6225822
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "2-chōme-27-18 Niikura, Wako, Saitama 351-0115, Japan",
+      "phone": "+81 48-424-4264",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNXKnCT0yWTUEJIjr2anjrBUjhNphase7koOBGT=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOZE7aacIAdIyA8i9v1BaYgp9EHt0RjOxjKdJOq=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipP1liAx1aUBSAHT6dIYhlZz6hjTyhFT2TYweIMD=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMcXgmgiijLLruVThIpoi_0PJiyg3oRQBb14_S-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsx8cLky00R0aCVCsbnDSD1QCokCUwT27S-zNw=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ2ejRmIDrGGARkLwjVd9IkUk",
+      "google_maps_url": "https://maps.google.com/?cid=5301098360435096720",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Daimai-1764 Shōjō, Yugawa, Kawanuma District, Fukushima 969-3556, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.5635217,
-            "lng": 139.8700271
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.5646738802915,
-              "lng": 139.8712302802915
-            },
-            "southwest": {
-              "lat": 37.5619759197085,
-              "lng": 139.8685323197085
-            }
-          }
-        },
-        "international_phone_number": "+81 241-27-4566",
-        "name": "Shojoji Temple",
-        "place_id": "ChIJuyKyncCyil8RRdhkWWhZmQo",
-        "url": "https://maps.google.com/?cid=763739916527261765",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNIpmtekb-T3JmCQ_eL1hxFpkwBbXkFab8mjlob=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIW_OB5FsDky4IX5fnZFqlpqpjzmQt4dDiBwAc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOsb6WYY-Ln7FkKPQf1FPIqwNBgS8AXa-PRekqJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGO-d2oLSDhpi6Dm2ZTikIqzo5WLx2505kqLXc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPL1yQoUqIhzeSKPqjdKG-8uEwzUPvhBg7Apqrq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUUAk-cIhY-JbBFl58-Lom1Vk0Jt5uP_ImJJ92=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3dGiXaRVeQhzQcx_IzG66eaV1VeDYFE5KrOTY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOijM4aLzv8cXoXUr4stuEnmdCc4kxJvb4brGFQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUO3UfCTxZlX0tt6LVbjyskTYzMUQQpWqglSB9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLvfUL-KVkZ-tIyjMzItQvMTonBOnvx-STp3Ou=s1600-w800-h800"
-        ]
+      "name": "Shojoji Temple",
+      "location": {
+        "lat": 37.5635217,
+        "lng": 139.8700271
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "Daimai-1764 Shōjō, Yugawa, Kawanuma District, Fukushima 969-3556, Japan",
+      "phone": "+81 241-27-4566",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNIpmtekb-T3JmCQ_eL1hxFpkwBbXkFab8mjlob=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIW_OB5FsDky4IX5fnZFqlpqpjzmQt4dDiBwAc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOsb6WYY-Ln7FkKPQf1FPIqwNBgS8AXa-PRekqJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGO-d2oLSDhpi6Dm2ZTikIqzo5WLx2505kqLXc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPL1yQoUqIhzeSKPqjdKG-8uEwzUPvhBg7Apqrq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUUAk-cIhY-JbBFl58-Lom1Vk0Jt5uP_ImJJ92=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3dGiXaRVeQhzQcx_IzG66eaV1VeDYFE5KrOTY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOijM4aLzv8cXoXUr4stuEnmdCc4kxJvb4brGFQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUO3UfCTxZlX0tt6LVbjyskTYzMUQQpWqglSB9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLvfUL-KVkZ-tIyjMzItQvMTonBOnvx-STp3Ou=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJuyKyncCyil8RRdhkWWhZmQo",
+      "google_maps_url": "https://maps.google.com/?cid=763739916527261765",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2300 Sannai, Nikko, Tochigi 321-1431, Japan",
-        "geometry": {
-          "location": {
-            "lat": 36.7549375,
-            "lng": 139.6006404
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 36.7562864802915,
-              "lng": 139.6019893802915
-            },
-            "southwest": {
-              "lat": 36.7535885197085,
-              "lng": 139.5992914197085
-            }
-          }
-        },
-        "international_phone_number": "+81 288-54-0531",
-        "name": "Nikkozan Rinnoji Temple",
-        "place_id": "ChIJWdmAw9amH2ARqD-s8qCx3hU",
-        "url": "https://maps.google.com/?cid=1575892224450510760",
-        "website": "https://www.rinnoji.or.jp/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOPXsLalKSu3SDP6UMAAINT2QClgBwo2V0FYUpp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvgTmH4N0jW_FaUEbGGpsEM6MY1hq5gjUFpcOA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGT99xNxLtSVcHXBsaKg9kSJlKS-WX1-rWVwPA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOUkB1KiOopa6UQ8xxCt_XKKqNFj0Ohc3_XaYI-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-ulL5EyfDGIqK7TeqSXzdDjZYIPSFKIqtN_g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPDEtysbxH5q5kTeb1Tl0SYsMBHIikUQ_ktZ7RW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZXtmKJHL_ZCiZol-gvaRhxsowpcaH0Mvdh9N5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMNQrpcH7cgIbtpfO_dSuh6f3OA-kkwWlKueH5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN7zH7iq4oScZ7ZvhTSNgICtZWMfZ0YrdhihShb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPW-4qfkHszW0cuSkrPT9oaCr61qSKqOgsvr51M=s1600-w800-h800"
-        ]
+      "name": "Nikkozan Rinnoji Temple",
+      "location": {
+        "lat": 36.7549375,
+        "lng": 139.6006404
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "2300 Sannai, Nikko, Tochigi 321-1431, Japan",
+      "phone": "+81 288-54-0531",
+      "website": "https://www.rinnoji.or.jp/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOPXsLalKSu3SDP6UMAAINT2QClgBwo2V0FYUpp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvgTmH4N0jW_FaUEbGGpsEM6MY1hq5gjUFpcOA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGT99xNxLtSVcHXBsaKg9kSJlKS-WX1-rWVwPA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOUkB1KiOopa6UQ8xxCt_XKKqNFj0Ohc3_XaYI-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-ulL5EyfDGIqK7TeqSXzdDjZYIPSFKIqtN_g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPDEtysbxH5q5kTeb1Tl0SYsMBHIikUQ_ktZ7RW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZXtmKJHL_ZCiZol-gvaRhxsowpcaH0Mvdh9N5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMNQrpcH7cgIbtpfO_dSuh6f3OA-kkwWlKueH5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN7zH7iq4oScZ7ZvhTSNgICtZWMfZ0YrdhihShb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPW-4qfkHszW0cuSkrPT9oaCr61qSKqOgsvr51M=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJWdmAw9amH2ARqD-s8qCx3hU",
+      "google_maps_url": "https://maps.google.com/?cid=1575892224450510760",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Japan, 〒969-4406 Fukushima, Yama District, Nishiaizu, Nozawa, Nyohōjiotsu−３５３３ 字",
-        "geometry": {
-          "location": {
-            "lat": 37.5755341,
-            "lng": 139.6412898
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.5770453302915,
-              "lng": 139.6425660302915
-            },
-            "southwest": {
-              "lat": 37.5743473697085,
-              "lng": 139.6398680697085
-            }
-          }
-        },
-        "international_phone_number": "+81 241-45-2061",
-        "name": "Nyohoji Temple (Torioi Kanon)",
-        "place_id": "ChIJKWRAzb9J9V8RIteKrHJj4IA",
-        "url": "https://maps.google.com/?cid=9286531775810164514",
-        "website": "http://www.torioi.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPtDo0JJs1lNZigBDRULcWqAsi6hWdMrEDzU20n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOBkJSKNU8J98IttZZwg9Dgivqsl3c73kx5d0cd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0U51u-0cEV_7LtNb0CZPpCb7UoGE-KtF9B-BC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1b1Askf4lCXqFLDuq5UPp8HXZrfyvy5yKMPAj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMro199pS31Ikf06CdiAB9utmma30eMHuIvGdgv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6zWILDvH7ZeDku2ydoL3wmCvEkJRsuVWhmFjW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUQHuvkjPqUVCM4WFMqHXe1fg023yG0bpcrEao=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjl61SUH9ZsbIbcCbmh7tLZh0IHt98E1N-fT2Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM5oH9tG_UbbrUAyUsQmEvHzn2FICMZPTpD87hk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvbX-q8rzmYRFcU7UtJtbdnV_vFJinIMVtwtIi=s1600-w800-h800"
-        ]
+      "name": "Nyohoji Temple (Torioi Kanon)",
+      "location": {
+        "lat": 37.5755341,
+        "lng": 139.6412898
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "Japan, 〒969-4406 Fukushima, Yama District, Nishiaizu, Nozawa, Nyohōjiotsu−３５３３ 字",
+      "phone": "+81 241-45-2061",
+      "website": "http://www.torioi.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPtDo0JJs1lNZigBDRULcWqAsi6hWdMrEDzU20n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOBkJSKNU8J98IttZZwg9Dgivqsl3c73kx5d0cd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0U51u-0cEV_7LtNb0CZPpCb7UoGE-KtF9B-BC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1b1Askf4lCXqFLDuq5UPp8HXZrfyvy5yKMPAj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMro199pS31Ikf06CdiAB9utmma30eMHuIvGdgv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6zWILDvH7ZeDku2ydoL3wmCvEkJRsuVWhmFjW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUQHuvkjPqUVCM4WFMqHXe1fg023yG0bpcrEao=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjl61SUH9ZsbIbcCbmh7tLZh0IHt98E1N-fT2Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM5oH9tG_UbbrUAyUsQmEvHzn2FICMZPTpD87hk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvbX-q8rzmYRFcU7UtJtbdnV_vFJinIMVtwtIi=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJKWRAzb9J9V8RIteKrHJj4IA",
+      "google_maps_url": "https://maps.google.com/?cid=9286531775810164514",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "101 Ikegamichō, Sukagawa, Fukushima 962-0843, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.28882269999999,
-            "lng": 140.3774864
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.29008423029149,
-              "lng": 140.3788243302915
-            },
-            "southwest": {
-              "lat": 37.2873862697085,
-              "lng": 140.3761263697085
-            }
-          }
-        },
-        "international_phone_number": "+81 248-73-2216",
-        "name": "Junenji Temple",
-        "place_id": "ChIJ63rKt1pAIGARmmiGJ3S_DHo",
-        "url": "https://maps.google.com/?cid=8794614677947967642",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNNntlk3pcS_N66GY47WQLQQCCyqZUTbDq79QI9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-vwsLD74_bBuDRFq9D_TwZuAtLAnHtIp6LnYx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOITxo516IT56YocDbENmjkPjBSfBC80_jQ_I8b=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3ckblYywCYzlNCj9Mg6b6oT9AiNgh97PN03WN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOOxmWLYfYEze1eiSZpGraLPo0c2QKGgy08abqq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPfPcKvyOmf5CHwY5nkb3A_W836LK0OJQkaXNlk=s1600-w772-h579",
-          "https://lh3.googleusercontent.com/p/AF1QipM-OcVPE5WcrwAB9N-R2pdKbpM59vaX9hvek2hT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgewsj6deHJo6E_iqeTzRDFR6q0bsK5OqcPHwa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNES5DiVrlpj8esf7DtQuLaXyM_iuBMJmDrTYPK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcgRo1rgwFe814R_HwcMPeudoNkHR5v2M3WTAE=s1600-w800-h800"
-        ]
+      "name": "Junenji Temple",
+      "location": {
+        "lat": 37.28882269999999,
+        "lng": 140.3774864
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "101 Ikegamichō, Sukagawa, Fukushima 962-0843, Japan",
+      "phone": "+81 248-73-2216",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNNntlk3pcS_N66GY47WQLQQCCyqZUTbDq79QI9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-vwsLD74_bBuDRFq9D_TwZuAtLAnHtIp6LnYx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOITxo516IT56YocDbENmjkPjBSfBC80_jQ_I8b=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3ckblYywCYzlNCj9Mg6b6oT9AiNgh97PN03WN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOOxmWLYfYEze1eiSZpGraLPo0c2QKGgy08abqq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPfPcKvyOmf5CHwY5nkb3A_W836LK0OJQkaXNlk=s1600-w772-h579",
+        "https://lh3.googleusercontent.com/p/AF1QipM-OcVPE5WcrwAB9N-R2pdKbpM59vaX9hvek2hT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgewsj6deHJo6E_iqeTzRDFR6q0bsK5OqcPHwa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNES5DiVrlpj8esf7DtQuLaXyM_iuBMJmDrTYPK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcgRo1rgwFe814R_HwcMPeudoNkHR5v2M3WTAE=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ63rKt1pAIGARmmiGJ3S_DHo",
+      "google_maps_url": "https://maps.google.com/?cid=8794614677947967642",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "157 Aramachi, Miharu, Tamura District, Fukushima 963-7765, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.444497,
-            "lng": 140.486713
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.4457755802915,
-              "lng": 140.4881976302915
-            },
-            "southwest": {
-              "lat": 37.4430776197085,
-              "lng": 140.4854996697085
-            }
-          }
-        },
-        "international_phone_number": "+81 247-62-3778",
-        "name": "Kozenji Temple",
-        "place_id": "ChIJBQgAxjtvIGARZ-xgAw5YYdo",
-        "url": "https://maps.google.com/?cid=15735955390218693735",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPCnG899a95osAlRgJ8rleXEAa2wMOhXxId7xiS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJEHE34rLY38xkhjYw-ouBjbBvRpCJCOb8lrq6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0EYGlZiZwjtg9rYzTTa-ndyRlxdEDSl5lEf0i=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhEUIdymp5R8C7KHDNaAiVYk38F1-pGzjvDPpd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMnZKGHHz604LUgc8Q7BnkbAQ_QPv7Fx-djc9xZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjTx1NSeNIQvNh8btgm9JhgYpxrAMDqpoI5UBY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcNZBUv-mp-hNHyI9lTb-91MRLs52QQHj6a_JC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1DOA0v7S-ngZKvcDAEOpIHY84YpPwUI6Rs6f5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOEWT6v2SeTBHSGWts16XPWM-fE3pJMvRIVkRYf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLgXMM7tKAZIw1QbYYE7CypQR4ksr9SQN456s2=s1600-w800-h800"
-        ]
+      "name": "Kozenji Temple",
+      "location": {
+        "lat": 37.444497,
+        "lng": 140.486713
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "157 Aramachi, Miharu, Tamura District, Fukushima 963-7765, Japan",
+      "phone": "+81 247-62-3778",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPCnG899a95osAlRgJ8rleXEAa2wMOhXxId7xiS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJEHE34rLY38xkhjYw-ouBjbBvRpCJCOb8lrq6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0EYGlZiZwjtg9rYzTTa-ndyRlxdEDSl5lEf0i=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhEUIdymp5R8C7KHDNaAiVYk38F1-pGzjvDPpd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMnZKGHHz604LUgc8Q7BnkbAQ_QPv7Fx-djc9xZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjTx1NSeNIQvNh8btgm9JhgYpxrAMDqpoI5UBY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcNZBUv-mp-hNHyI9lTb-91MRLs52QQHj6a_JC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1DOA0v7S-ngZKvcDAEOpIHY84YpPwUI6Rs6f5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOEWT6v2SeTBHSGWts16XPWM-fE3pJMvRIVkRYf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLgXMM7tKAZIw1QbYYE7CypQR4ksr9SQN456s2=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJBQgAxjtvIGARZ-xgAw5YYdo",
+      "google_maps_url": "https://maps.google.com/?cid=15735955390218693735",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Teranomae-1 Konanmachi Miyo, Koriyama, Fukushima 963-1522, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.37895,
-            "lng": 140.113511
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.3803299302915,
-              "lng": 140.1149294802915
-            },
-            "southwest": {
-              "lat": 37.3776319697085,
-              "lng": 140.1122315197085
-            }
-          }
-        },
-        "international_phone_number": "+81 24-982-2655",
-        "name": "Shofukuji Temple",
-        "place_id": "ChIJYQxx3pAEIGART5GDuRHNjRg",
-        "url": "https://maps.google.com/?cid=1769295704637018447",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPiFuE6oljXQPFYxAoKvLXKL_7Q7sa6gexwpW4X=s1600-w800-h800"
-        ]
+      "name": "Shofukuji Temple",
+      "location": {
+        "lat": 37.37895,
+        "lng": 140.113511
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "Teranomae-1 Konanmachi Miyo, Koriyama, Fukushima 963-1522, Japan",
+      "phone": "+81 24-982-2655",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPiFuE6oljXQPFYxAoKvLXKL_7Q7sa6gexwpW4X=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJYQxx3pAEIGART5GDuRHNjRg",
+      "google_maps_url": "https://maps.google.com/?cid=1769295704637018447",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Teranomae-14 Nishitamachi Kimura, Koriyama, Fukushima 963-0914, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.44454549999999,
-            "lng": 140.4417967
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.4455722302915,
-              "lng": 140.4435027302915
-            },
-            "southwest": {
-              "lat": 37.4428742697085,
-              "lng": 140.4408047697085
-            }
-          }
-        },
-        "international_phone_number": "+81 24-972-2911",
-        "name": "Kenpukuji Temple",
-        "place_id": "ChIJf94AcI9uIGARGhl6WEiV5go",
-        "url": "https://maps.google.com/?cid=785479322977311002",
-        "website": "http://www.kenpukuji.jp/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPMkcisKMtRH6KF5GMxe-BvV-nVHcxz_BPK7AvZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNKchl_dgd6L-N0u-6TMjzEZJ4iM3p2-yPvmbfZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBj_ZVlHSrpEW4AZ79ehxYASDNYoZB2kUIYDb6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWVj5S7l9qI09uRU30tChiAYPRZqSq8L0VeACf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNqXIh0lhTlnf7Aj-WgnM59YvuQkwF8S0VdzFqf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGTjRSVwEBObjiDcrcb_ZBRCpwOKVJL1F-34vC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYRUOFYWV_e3wQasQxwrMEYfXxua_15zB5CssQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4ZwECGppJGEQMj8q7Jrgy6rl0qxYRXMVt1V_7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGqGVv-Ur5IdwXGsQes4BTY3YhsTT7BTb3_l0v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNg1xNDTO9c4T59-PsTMx0dQfF27n47nBR4yd0j=s1600-w800-h800"
-        ]
+      "name": "Kenpukuji Temple",
+      "location": {
+        "lat": 37.44454549999999,
+        "lng": 140.4417967
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "Teranomae-14 Nishitamachi Kimura, Koriyama, Fukushima 963-0914, Japan",
+      "phone": "+81 24-972-2911",
+      "website": "http://www.kenpukuji.jp/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPMkcisKMtRH6KF5GMxe-BvV-nVHcxz_BPK7AvZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNKchl_dgd6L-N0u-6TMjzEZJ4iM3p2-yPvmbfZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBj_ZVlHSrpEW4AZ79ehxYASDNYoZB2kUIYDb6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWVj5S7l9qI09uRU30tChiAYPRZqSq8L0VeACf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNqXIh0lhTlnf7Aj-WgnM59YvuQkwF8S0VdzFqf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGTjRSVwEBObjiDcrcb_ZBRCpwOKVJL1F-34vC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYRUOFYWV_e3wQasQxwrMEYfXxua_15zB5CssQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4ZwECGppJGEQMj8q7Jrgy6rl0qxYRXMVt1V_7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGqGVv-Ur5IdwXGsQes4BTY3YhsTT7BTb3_l0v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNg1xNDTO9c4T59-PsTMx0dQfF27n47nBR4yd0j=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJf94AcI9uIGARGhl6WEiV5go",
+      "google_maps_url": "https://maps.google.com/?cid=785479322977311002",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3-chōme-13-14 Kaisei, Koriyama, Fukushima 963-8851, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.392716,
-            "lng": 140.35034
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.3939038302915,
-              "lng": 140.3515983302915
-            },
-            "southwest": {
-              "lat": 37.3912058697085,
-              "lng": 140.3489003697085
-            }
-          }
-        },
-        "international_phone_number": "+81 24-932-3031",
-        "name": "Doinji Temple",
-        "place_id": "ChIJj2FdjLRsIGAR_ZyHuHV1y_8",
-        "url": "https://maps.google.com/?cid=18431955048411405565",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP2LR-sA6skncXVKOvXXLlC4Z7j5oexBQRMCgfC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-84q1FVh9xpto-sbRlePzg8FLOdIixHe7pRWi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPeUlmyFAzXwS8LXLJZRMOAnZrok5X3TH6FWkeg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPS3HTOcmGs7PKk2ynEGTETi5-ekTcB8F-wUHp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOKwwYCDJ0R1oT68x5L80SxT1PU9b8cu1atC0Nf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM65oBdKJwRdL1gonS-jBX0Lofb9dwpUbey1KV1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3QY7olklM52AKtpUjk3hcGwHMIWsaDur-8vmb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqkLE_zj4005hHtlerwT91gw53fkzINmMzbTsS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPb7Gshz5xyngBDeydBys7rU4_pQslwwcO_Pd3l=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPln_LGnUH5uRdZg-0Ryl6LUIf0pCAvf6388qcz=s1600-w800-h800"
-        ]
+      "name": "Doinji Temple",
+      "location": {
+        "lat": 37.392716,
+        "lng": 140.35034
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "3-chōme-13-14 Kaisei, Koriyama, Fukushima 963-8851, Japan",
+      "phone": "+81 24-932-3031",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP2LR-sA6skncXVKOvXXLlC4Z7j5oexBQRMCgfC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-84q1FVh9xpto-sbRlePzg8FLOdIixHe7pRWi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPeUlmyFAzXwS8LXLJZRMOAnZrok5X3TH6FWkeg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPS3HTOcmGs7PKk2ynEGTETi5-ekTcB8F-wUHp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOKwwYCDJ0R1oT68x5L80SxT1PU9b8cu1atC0Nf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM65oBdKJwRdL1gonS-jBX0Lofb9dwpUbey1KV1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3QY7olklM52AKtpUjk3hcGwHMIWsaDur-8vmb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqkLE_zj4005hHtlerwT91gw53fkzINmMzbTsS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPb7Gshz5xyngBDeydBys7rU4_pQslwwcO_Pd3l=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPln_LGnUH5uRdZg-0Ryl6LUIf0pCAvf6388qcz=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJj2FdjLRsIGAR_ZyHuHV1y_8",
+      "google_maps_url": "https://maps.google.com/?cid=18431955048411405565",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Terashita-34 Katahiramachi, Koriyama, Fukushima 963-0211, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.4239563,
-            "lng": 140.3031511
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.4249006302915,
-              "lng": 140.3046006802915
-            },
-            "southwest": {
-              "lat": 37.4222026697085,
-              "lng": 140.3019027197085
-            }
-          }
-        },
-        "international_phone_number": "+81 24-951-1237",
-        "name": "Koshuji Temple",
-        "place_id": "ChIJb3SX63wSIGARRRefem4u6Os",
-        "url": "https://maps.google.com/?cid=16998887845548463941",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNT9FTxgMbb_p4DxTZtTcTgWDltqTwzLZQz93W0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOW1C45EUJusZmf3JmCYxbZzy4kt3WelN8F0hjc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipON5s7Imz_aLsRfXDotb_HxrxGv-ooNKV9JIMRa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVkATt6-BSiEfEm6HdSjvzRK2ZxwJsa7tk0g3p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOzytoUCLd0gZHhHGImtWWa33rHK3RfP0JwnZx4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMJOBs_k5QlPXJYBOTabkgWaKVzPlIsTJS6Crv4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP99jmKtp9cQj_n2_f3XW7flXVerhGrsL_1gPSS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGgvlpIxxpVuI7rBmhYwFXUjRI9TOjIEdvy_Tw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMOFpk0aUKsfA-xPgq0xqnydWYKaWCdbnv5VkK4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNc-TUpjwUsk5y5uIp3FKLm5GLwcx-HmIvSAxgw=s1600-w800-h800"
-        ]
+      "name": "Koshuji Temple",
+      "location": {
+        "lat": 37.4239563,
+        "lng": 140.3031511
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "Terashita-34 Katahiramachi, Koriyama, Fukushima 963-0211, Japan",
+      "phone": "+81 24-951-1237",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNT9FTxgMbb_p4DxTZtTcTgWDltqTwzLZQz93W0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOW1C45EUJusZmf3JmCYxbZzy4kt3WelN8F0hjc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipON5s7Imz_aLsRfXDotb_HxrxGv-ooNKV9JIMRa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVkATt6-BSiEfEm6HdSjvzRK2ZxwJsa7tk0g3p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOzytoUCLd0gZHhHGImtWWa33rHK3RfP0JwnZx4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMJOBs_k5QlPXJYBOTabkgWaKVzPlIsTJS6Crv4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP99jmKtp9cQj_n2_f3XW7flXVerhGrsL_1gPSS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGgvlpIxxpVuI7rBmhYwFXUjRI9TOjIEdvy_Tw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMOFpk0aUKsfA-xPgq0xqnydWYKaWCdbnv5VkK4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNc-TUpjwUsk5y5uIp3FKLm5GLwcx-HmIvSAxgw=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJb3SX63wSIGARRRefem4u6Os",
+      "google_maps_url": "https://maps.google.com/?cid=16998887845548463941",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Tate-197 Nishitamachi Niida, Koriyama, Fukushima 963-0901, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.475893,
-            "lng": 140.465305
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.4771353802915,
-              "lng": 140.4667596302915
-            },
-            "southwest": {
-              "lat": 37.4744374197085,
-              "lng": 140.4640616697085
-            }
-          }
-        },
-        "international_phone_number": "+81 24-971-3376",
-        "name": "Shinpukuji Temple",
-        "place_id": "ChIJy3yeCUluIGARiNsZEhS4BP8",
-        "url": "https://maps.google.com/?cid=18376014775921007496",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNY_KJCKwoRJ37B3yEpgd32n_FdsoFw-qHWHI0t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1kaD2R9A7GvXcPm9LWLsVPO6I7D3OVJrDOUNB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWuyEGDIw048nvf6xls-xl-Pgac1XchjysDyTT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUvlynP1mv_4T_s9dpbZCIGRJbWLwLTciTPXvn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0j0JXMt53a24BYGmOXhDehNrrxKtJrC8NIZsN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPw6RVBdc1aG0xEV1oGese5bmXXsfFgyd_XR8pK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNCtEGf_vKHEokJfNbx76zemInIoGFqSFfCoV3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMU-Z8t5TnqKzWYmWjxggrSMJn78xmy1vPpKvS4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLq49SFjrrNMv6fG-kIF6xHo5pom9Js7TOyA5A=s1600-w800-h800"
-        ]
+      "name": "Shinpukuji Temple",
+      "location": {
+        "lat": 37.475893,
+        "lng": 140.465305
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "Tate-197 Nishitamachi Niida, Koriyama, Fukushima 963-0901, Japan",
+      "phone": "+81 24-971-3376",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNY_KJCKwoRJ37B3yEpgd32n_FdsoFw-qHWHI0t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1kaD2R9A7GvXcPm9LWLsVPO6I7D3OVJrDOUNB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWuyEGDIw048nvf6xls-xl-Pgac1XchjysDyTT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUvlynP1mv_4T_s9dpbZCIGRJbWLwLTciTPXvn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0j0JXMt53a24BYGmOXhDehNrrxKtJrC8NIZsN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPw6RVBdc1aG0xEV1oGese5bmXXsfFgyd_XR8pK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNCtEGf_vKHEokJfNbx76zemInIoGFqSFfCoV3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMU-Z8t5TnqKzWYmWjxggrSMJn78xmy1vPpKvS4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLq49SFjrrNMv6fG-kIF6xHo5pom9Js7TOyA5A=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJy3yeCUluIGARiNsZEhS4BP8",
+      "google_maps_url": "https://maps.google.com/?cid=18376014775921007496",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1-chōme-1-23 Shimizudai, Koriyama, Fukushima 963-8005, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.396963,
-            "lng": 140.381815
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.3981824802915,
-              "lng": 140.38323215
-            },
-            "southwest": {
-              "lat": 37.3954845197085,
-              "lng": 140.37978475
-            }
-          }
-        },
-        "international_phone_number": "+81 24-922-0517",
-        "name": "Zendoji Temple",
-        "place_id": "ChIJl-W_V4RsIGARn9vZMHaMrbY",
-        "url": "https://maps.google.com/?cid=13163331725127441311",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMaZFzxj9JMQgXB90rfTShOJpNaUMUPIN1zJDaD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0aXmkm2rgEiSpfvYj-Ot8DncGV4DxNm1xeoqL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNViLUSolBcdZtYCeNHOL99e_9qBdeA4ggnYHHz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkT0EzvNJlEYwDOJiXGsuegriLCvxSv_VZMK34=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcqXS-gSjBqycWDEEKYP3IbiTj4fJayznRkKiv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWVQTxjfXMARYcLNX4holpkEodhGBOC9rTtZO_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOOi4hWSJeI_qh-Gt158g6-XgYmnyvogX1ws38=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgyVvSGslehT3y06-JBH-QeV1SRT79jmfHxYWD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqGxvD5Blhx8MPE64cEPanhTJREtcNSsFjtvVz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNsFuhBdjdMtXoxMSy3ZelGWkYo2UOe3w-i3QhT=s1600-w800-h800"
-        ]
+      "name": "Zendoji Temple",
+      "location": {
+        "lat": 37.396963,
+        "lng": 140.381815
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "1-chōme-1-23 Shimizudai, Koriyama, Fukushima 963-8005, Japan",
+      "phone": "+81 24-922-0517",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMaZFzxj9JMQgXB90rfTShOJpNaUMUPIN1zJDaD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0aXmkm2rgEiSpfvYj-Ot8DncGV4DxNm1xeoqL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNViLUSolBcdZtYCeNHOL99e_9qBdeA4ggnYHHz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkT0EzvNJlEYwDOJiXGsuegriLCvxSv_VZMK34=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcqXS-gSjBqycWDEEKYP3IbiTj4fJayznRkKiv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWVQTxjfXMARYcLNX4holpkEodhGBOC9rTtZO_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOOi4hWSJeI_qh-Gt158g6-XgYmnyvogX1ws38=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgyVvSGslehT3y06-JBH-QeV1SRT79jmfHxYWD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqGxvD5Blhx8MPE64cEPanhTJREtcNSsFjtvVz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNsFuhBdjdMtXoxMSy3ZelGWkYo2UOe3w-i3QhT=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJl-W_V4RsIGARn9vZMHaMrbY",
+      "google_maps_url": "https://maps.google.com/?cid=13163331725127441311",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kiriyashiki-2 Hashirata, Sukagawa, Fukushima 962-0302, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.32278400000001,
-            "lng": 140.26653
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.3240998302915,
-              "lng": 140.2678619302915
-            },
-            "southwest": {
-              "lat": 37.3214018697085,
-              "lng": 140.2651639697085
-            }
-          }
-        },
-        "international_phone_number": "+81 248-65-2818",
-        "name": "Shokoji Temple",
-        "place_id": "ChIJq63IuyAUIGARcC-UOn_Aluw",
-        "url": "https://maps.google.com/?cid=17048025092133760880",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNZb7JdXCo_vqoSt2pmqX_gzOe9r_IJemBmkNfh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfGBwIJwwB904Sza0d7wzksTZJPNw4x0gc585u=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM4ahLabVyv94-Bf_4vRT-giXG3LcziQIMQZv8f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM_Y0-ym2TgV1xCdEK4wblm7MPbvuwOa73zHkju=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPlXZ_DiefyAF-JHKK2C9NyO78RL3xxKC4M7Nkl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPEA23KszUoO6FYoYF-og9eZx7sajkRj-HOikEI=s1600-w800-h558",
-          "https://lh3.googleusercontent.com/p/AF1QipNf7tGx-zlXysZLpNRm80lcHqAmqhEKgn0b7Yue=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZHRFPjqAglPFvhsJDYRoW5J0O-0EIxPwKAgaN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYFITbrHw3tGfQpLTNTk6PVYmH6mV4ViF5__RF=s1600-w800-h800"
-        ]
+      "name": "Shokoji Temple",
+      "location": {
+        "lat": 37.32278400000001,
+        "lng": 140.26653
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "Kiriyashiki-2 Hashirata, Sukagawa, Fukushima 962-0302, Japan",
+      "phone": "+81 248-65-2818",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNZb7JdXCo_vqoSt2pmqX_gzOe9r_IJemBmkNfh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfGBwIJwwB904Sza0d7wzksTZJPNw4x0gc585u=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM4ahLabVyv94-Bf_4vRT-giXG3LcziQIMQZv8f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM_Y0-ym2TgV1xCdEK4wblm7MPbvuwOa73zHkju=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPlXZ_DiefyAF-JHKK2C9NyO78RL3xxKC4M7Nkl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPEA23KszUoO6FYoYF-og9eZx7sajkRj-HOikEI=s1600-w800-h558",
+        "https://lh3.googleusercontent.com/p/AF1QipNf7tGx-zlXysZLpNRm80lcHqAmqhEKgn0b7Yue=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZHRFPjqAglPFvhsJDYRoW5J0O-0EIxPwKAgaN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYFITbrHw3tGfQpLTNTk6PVYmH6mV4ViF5__RF=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJq63IuyAUIGARcC-UOn_Aluw",
+      "google_maps_url": "https://maps.google.com/?cid=17048025092133760880",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "361 Shimizu, Miharu, Tamura District, Fukushima 963-7753, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.4380519,
-            "lng": 140.4996615
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.4395975302915,
-              "lng": 140.5010146802915
-            },
-            "southwest": {
-              "lat": 37.4368995697085,
-              "lng": 140.4983167197085
-            }
-          }
-        },
-        "international_phone_number": "+81 247-62-3304",
-        "name": "Tentakuji Temple",
-        "place_id": "ChIJbYMAzExvIGARHr-s4KeoDCU",
-        "url": "https://maps.google.com/?cid=2669694118106283806",
-        "website": "http://miharukoma.com/experience/134",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNaF3H0GFR7bRHsUw6lTf8F4BOHsnfd9smJDEWd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPnaL9WbcB3ksF_XvCJAuXdZOAGX4a28EJ6Vxw0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwAl8Yb1nQhRfYd8AknzfKa9yWUfQNryaOzJip=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLASMBKEnR4IV5O-jgd6YdUXdJlbVWxQ0HMU-M=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0AZM-NZBuZhrHd7171SZJA3qFvXUP8RTKJcRY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM21pTJhExfFN7NkEZiLf6yIxMvtAgE2wO_EUeM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMJFwpyNIqSzjDTZdBR8zscjgvwzzVyuMDrkDgp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMTXUMunYngM0vxNJEzN2M69dqdAcFACLOaXfK7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvNnuzgN72Bq4itPmSw5KFxX1RanuUfebIsaJm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMD169pYHTKq0yjYjdvPmEbJqPhOJwsxZ57cTYW=s1600-w800-h800"
-        ]
+      "name": "Tentakuji Temple",
+      "location": {
+        "lat": 37.4380519,
+        "lng": 140.4996615
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:40:12.696Z"
-      }
+      "address": "361 Shimizu, Miharu, Tamura District, Fukushima 963-7753, Japan",
+      "phone": "+81 247-62-3304",
+      "website": "http://miharukoma.com/experience/134",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNaF3H0GFR7bRHsUw6lTf8F4BOHsnfd9smJDEWd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPnaL9WbcB3ksF_XvCJAuXdZOAGX4a28EJ6Vxw0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwAl8Yb1nQhRfYd8AknzfKa9yWUfQNryaOzJip=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLASMBKEnR4IV5O-jgd6YdUXdJlbVWxQ0HMU-M=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0AZM-NZBuZhrHd7171SZJA3qFvXUP8RTKJcRY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM21pTJhExfFN7NkEZiLf6yIxMvtAgE2wO_EUeM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMJFwpyNIqSzjDTZdBR8zscjgvwzzVyuMDrkDgp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMTXUMunYngM0vxNJEzN2M69dqdAcFACLOaXfK7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvNnuzgN72Bq4itPmSw5KFxX1RanuUfebIsaJm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMD169pYHTKq0yjYjdvPmEbJqPhOJwsxZ57cTYW=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJbYMAzExvIGARHr-s4KeoDCU",
+      "google_maps_url": "https://maps.google.com/?cid=2669694118106283806",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Chikababa-41 Funehikimachi Sasayama, Tamura, Fukushima 963-4321, Japan",
-        "geometry": {
-          "location": {
-            "lat": 37.452525,
-            "lng": 140.53988
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 37.45382458029151,
-              "lng": 140.5413322302915
-            },
-            "southwest": {
-              "lat": 37.45112661970851,
-              "lng": 140.5386342697085
-            }
-          }
-        },
-        "international_phone_number": "+81 247-62-7014",
-        "name": "Manenji Temple",
-        "place_id": "ChIJrR86c3ZmIGARO1vScoEAwB0",
-        "url": "https://maps.google.com/?cid=2143713978605525819",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Manenji Temple",
+      "location": {
+        "lat": 37.452525,
+        "lng": 140.53988
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Chikababa-41 Funehikimachi Sasayama, Tamura, Fukushima 963-4321, Japan",
+      "phone": "+81 247-62-7014",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJrR86c3ZmIGARO1vScoEAwB0",
+      "google_maps_url": "https://maps.google.com/?cid=2143713978605525819",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

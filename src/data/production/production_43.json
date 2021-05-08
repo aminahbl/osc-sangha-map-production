@@ -1,510 +1,400 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Am Ahlemer Turm 3, 30453 Hannover, Germany",
-        "geometry": {
-          "location": {
-            "lat": 52.383157,
-            "lng": 9.657530000000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.3846295302915,
-              "lng": 9.658692180291503
-            },
-            "southwest": {
-              "lat": 52.3819315697085,
-              "lng": 9.655994219708498
-            }
-          }
-        },
-        "international_phone_number": "+49 511 7685746",
-        "name": "Wat Dhammavihara Buddhists Verein Hannover",
-        "place_id": "ChIJZ9eTg0Z0sEcRvkij6GGzgzU",
-        "url": "https://maps.google.com/?cid=3856122939055491262",
-        "website": "http://www.wathannover.de/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPfYj_VKVXNj48JTV1agWxlOgfrDhVSKb7YrMW4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKCvvkMdx9RnC5MGqc8x1t929gE4NLaqu-sTZq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgAmNP1i2iRIHF48xBKQLzKteb5FdGqwojRJ2J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP669QhqBrFKczdkRt59tKnd4uPVEIQxx_zh-Tw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcjkbb7wwo71GgVFP6MJ9LDKb7yAqshA4sZmQA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipONow5NrIhEqcFBoRTDgGwHOF-RHh7rIUWC8ts4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOyH4TdjKMzyovmIQlDiiok0xyr5ANMhon9260I=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN06f6LUKtHI66ASi7DcoKygJ_xvoJxuU6hfbvW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTwIf8tWpzLmb6FIXN6AQ8bq-o1tZ6SjEbEcX7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMk7TjMz2Q-MslkOug7h3JWio7gamA-Uxcq8pY2=s1600-w800-h800"
-        ]
+      "name": "Wat Dhammavihara Buddhists Verein Hannover",
+      "location": {
+        "lat": 52.383157,
+        "lng": 9.657530000000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:57:40.404Z"
-      }
+      "address": "Am Ahlemer Turm 3, 30453 Hannover, Germany",
+      "phone": "+49 511 7685746",
+      "website": "http://www.wathannover.de/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPfYj_VKVXNj48JTV1agWxlOgfrDhVSKb7YrMW4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKCvvkMdx9RnC5MGqc8x1t929gE4NLaqu-sTZq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgAmNP1i2iRIHF48xBKQLzKteb5FdGqwojRJ2J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP669QhqBrFKczdkRt59tKnd4uPVEIQxx_zh-Tw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcjkbb7wwo71GgVFP6MJ9LDKb7yAqshA4sZmQA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipONow5NrIhEqcFBoRTDgGwHOF-RHh7rIUWC8ts4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOyH4TdjKMzyovmIQlDiiok0xyr5ANMhon9260I=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN06f6LUKtHI66ASi7DcoKygJ_xvoJxuU6hfbvW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTwIf8tWpzLmb6FIXN6AQ8bq-o1tZ6SjEbEcX7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMk7TjMz2Q-MslkOug7h3JWio7gamA-Uxcq8pY2=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZ9eTg0Z0sEcRvkij6GGzgzU",
+      "google_maps_url": "https://maps.google.com/?cid=3856122939055491262",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Heidbergstraße 77, 28239 Bremen, Germany",
-        "geometry": {
-          "location": {
-            "lat": 53.1256838,
-            "lng": 8.751706499999997
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 53.12703278029149,
-              "lng": 8.7530554802915
-            },
-            "southwest": {
-              "lat": 53.12433481970849,
-              "lng": 8.750357519708496
-            }
-          }
-        },
-        "international_phone_number": "+49 421 68555614",
-        "name": "Wat Buddhamettaparami Bremen",
-        "place_id": "ChIJeYUgrW0psUcRjX6y5S3-4Lg",
-        "url": "https://maps.google.com/?cid=13321927170842590861",
-        "website": "https://www.facebook.com/wbm53",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPhyg3JpsyrCHlasDRCJhr-Bm2NFKvsDUX7SW3K=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXPXFLF01bwO1IvfpKdwb5M4AzwanFH4wkG4ec=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM2KgSqdbcdQUExsfI1czTKEDEWQS2pDNZEQhPH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8I_f41UEGmqh1QJI4eBn3A8hlTXp2ZVEM7Amn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNFIbwJsJ2ARiNlGhDBggfQyYG721tKys1q7dFE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMM-mVMtOzi-eARRryOwgHofde8kTe7mDx_JODJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmL1HKuhDspDjGumRYntaAAN2DVVrBtsQhqbjW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcVNqppd7zXgmjUDEutwzj0CkR4AWwAPvgeB8y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzUQGWMcXQN2uLYt4WRcd5Xtj4DTECGZYgpa87=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfwxrZv_IyygmMKc6sJwblkjQL6TzLA06ArLYv=s1600-w800-h800"
-        ]
+      "name": "Wat Buddhamettaparami Bremen",
+      "location": {
+        "lat": 53.1256838,
+        "lng": 8.751706499999997
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:57:40.404Z"
-      }
+      "address": "Heidbergstraße 77, 28239 Bremen, Germany",
+      "phone": "+49 421 68555614",
+      "website": "https://www.facebook.com/wbm53",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPhyg3JpsyrCHlasDRCJhr-Bm2NFKvsDUX7SW3K=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXPXFLF01bwO1IvfpKdwb5M4AzwanFH4wkG4ec=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM2KgSqdbcdQUExsfI1czTKEDEWQS2pDNZEQhPH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8I_f41UEGmqh1QJI4eBn3A8hlTXp2ZVEM7Amn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNFIbwJsJ2ARiNlGhDBggfQyYG721tKys1q7dFE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMM-mVMtOzi-eARRryOwgHofde8kTe7mDx_JODJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmL1HKuhDspDjGumRYntaAAN2DVVrBtsQhqbjW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcVNqppd7zXgmjUDEutwzj0CkR4AWwAPvgeB8y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzUQGWMcXQN2uLYt4WRcd5Xtj4DTECGZYgpa87=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfwxrZv_IyygmMKc6sJwblkjQL6TzLA06ArLYv=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJeYUgrW0psUcRjX6y5S3-4Lg",
+      "google_maps_url": "https://maps.google.com/?cid=13321927170842590861",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "540 Stretford Rd, Old Trafford, Stretford, Manchester M16 9AF, UK",
-        "geometry": {
-          "location": {
-            "lat": 53.4640026,
-            "lng": -2.2676126
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 53.46528448029149,
-              "lng": -2.266226669708498
-            },
-            "southwest": {
-              "lat": 53.46258651970849,
-              "lng": -2.268924630291502
-            }
-          }
-        },
-        "international_phone_number": "+44 161 872 3338",
-        "name": "Fo Guang Shan Manchester Temple",
-        "place_id": "ChIJIZnA_AKue0gR9QebPYFlfSM",
-        "url": "https://maps.google.com/?cid=2557311769175066613",
-        "website": "http://manchesterfgs.org.uk/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPEYNISK_lxBVzFzGbYn9u1p-QhCbc467olejDo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmFxIKH8milCzU485Rl4yW74ekES87lsf1rQnW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMv_meXpXt1_UJbmmlun7lh2jlVPqWjvqvfOOra=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP3k0XmDpkIaDj3xOZ8O0uglhxhvGeIC4zSRytH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPeyCOmDIMc_1RxE9ZkI9KAbmbICa8cH3PtN9UI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKnZGbijeMfFIYLpot7kG_68ML56l2UNXMtujP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNj-V0OveyZo7YrSMXzCJQjjAGJNzuRtJV5Yk94=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPdR5hLzkUDTJ6vCaPsz5jQTuqtiQBwpb6uDcC4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1nm96IOldgDyp__fN52dMfxhpx73oYPEGKKpC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOOlmKRi6tjFUk-YoOrZNnM9D9F2jv_BeLvl0yN=s1600-w800-h800"
-        ]
+      "name": "Fo Guang Shan Manchester Temple",
+      "location": {
+        "lat": 53.4640026,
+        "lng": -2.2676126
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:57:40.404Z"
-      }
+      "address": "540 Stretford Rd, Old Trafford, Stretford, Manchester M16 9AF, UK",
+      "phone": "+44 161 872 3338",
+      "website": "http://manchesterfgs.org.uk/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPEYNISK_lxBVzFzGbYn9u1p-QhCbc467olejDo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmFxIKH8milCzU485Rl4yW74ekES87lsf1rQnW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMv_meXpXt1_UJbmmlun7lh2jlVPqWjvqvfOOra=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP3k0XmDpkIaDj3xOZ8O0uglhxhvGeIC4zSRytH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPeyCOmDIMc_1RxE9ZkI9KAbmbICa8cH3PtN9UI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKnZGbijeMfFIYLpot7kG_68ML56l2UNXMtujP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNj-V0OveyZo7YrSMXzCJQjjAGJNzuRtJV5Yk94=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPdR5hLzkUDTJ6vCaPsz5jQTuqtiQBwpb6uDcC4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1nm96IOldgDyp__fN52dMfxhpx73oYPEGKKpC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOOlmKRi6tjFUk-YoOrZNnM9D9F2jv_BeLvl0yN=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJIZnA_AKue0gR9QebPYFlfSM",
+      "google_maps_url": "https://maps.google.com/?cid=2557311769175066613",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "13 Hope St, Liverpool L1 9BH, UK",
-        "geometry": {
-          "location": {
-            "lat": 53.4027791,
-            "lng": -2.9695926
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 53.4041412302915,
-              "lng": -2.968311219708498
-            },
-            "southwest": {
-              "lat": 53.4014432697085,
-              "lng": -2.971009180291502
-            }
-          }
-        },
-        "name": "StoneWater Zen Sangha",
-        "place_id": "ChIJnaiuthghe0gRLFx0JjDEuwE",
-        "url": "https://maps.google.com/?cid=124909125765454892",
-        "website": "http://www.stonewaterzen.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMHCp6OPyCTMQQJJMgeyiq1tGcGFwPnKPRyQ_Jo=s1600-w481-h463",
-          "https://lh3.googleusercontent.com/p/AF1QipOafLCnLeHDsnz0BWPU55xzLVab5nP8ze0MFJox=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPykamAqzfrXH-0BPGV6Rctg_n7LKhgOSY3fcVu=s1600-w348-h339"
-        ]
+      "name": "StoneWater Zen Sangha",
+      "location": {
+        "lat": 53.4027791,
+        "lng": -2.9695926
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:57:40.404Z"
-      }
+      "address": "13 Hope St, Liverpool L1 9BH, UK",
+      "website": "http://www.stonewaterzen.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMHCp6OPyCTMQQJJMgeyiq1tGcGFwPnKPRyQ_Jo=s1600-w481-h463",
+        "https://lh3.googleusercontent.com/p/AF1QipOafLCnLeHDsnz0BWPU55xzLVab5nP8ze0MFJox=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPykamAqzfrXH-0BPGV6Rctg_n7LKhgOSY3fcVu=s1600-w348-h339"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJnaiuthghe0gRLFx0JjDEuwE",
+      "google_maps_url": "https://maps.google.com/?cid=124909125765454892",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Riethausen 22, 27305 Samtgemeinde Bruchhausen-Vilsen, Germany",
-        "geometry": {
-          "location": {
-            "lat": 52.8036368,
-            "lng": 9.064631099999998
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.8050173302915,
-              "lng": 9.0659495802915
-            },
-            "southwest": {
-              "lat": 52.8023193697085,
-              "lng": 9.063251619708495
-            }
-          }
-        },
-        "international_phone_number": "+49 4251 671716",
-        "name": "Bhavana Vihara",
-        "place_id": "ChIJ9wDbMEHpsEcRMsAgmzpjVls",
-        "url": "https://maps.google.com/?cid=6581557008810426418",
-        "website": "http://www.bhavana-vihara.de/Kontakt",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Bhavana Vihara",
+      "location": {
+        "lat": 52.8036368,
+        "lng": 9.064631099999998
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Riethausen 22, 27305 Samtgemeinde Bruchhausen-Vilsen, Germany",
+      "phone": "+49 4251 671716",
+      "website": "http://www.bhavana-vihara.de/Kontakt",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9wDbMEHpsEcRMsAgmzpjVls",
+      "google_maps_url": "https://maps.google.com/?cid=6581557008810426418",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Giltown, Beauparc, Gilltown, Navan, Co. Meath, Ireland",
-        "geometry": {
-          "location": {
-            "lat": 53.6854531,
-            "lng": -6.499386100000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 53.6868042302915,
-              "lng": -6.498003819708498
-            },
-            "southwest": {
-              "lat": 53.6841062697085,
-              "lng": -6.500701780291503
-            }
-          }
-        },
-        "international_phone_number": "+353 83 418 9881",
-        "name": "Shaolin Buddhist Temple",
-        "place_id": "ChIJ8eHb4RFHZ0gRWwA5abxwUe8",
-        "url": "https://maps.google.com/?cid=17244688402699845723",
-        "website": "https://www.kungfu.ie/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOUAP952QOygYaGH4Ry9nvzo7LFLV5JPKoUIEE=s1600-w800-h625",
-          "https://lh3.googleusercontent.com/p/AF1QipMa3bMxKHPZ8p3_2oRqyJcmLdVA3h8L_4RR4fc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPElibiSk0_Na3pIfZonY0Q6usU-hqqC4qrhsI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPko8q-xm7PUGtkReoxXibZenTuFy6DxM-zDoc=s1600-w582-h523",
-          "https://lh3.googleusercontent.com/p/AF1QipMEjzRVsdAN5pXtC-6Eog0oblhCbeBxUP7iJ0g=s1600-w800-h800"
-        ]
+      "name": "Shaolin Buddhist Temple",
+      "location": {
+        "lat": 53.6854531,
+        "lng": -6.499386100000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:57:40.404Z"
-      }
+      "address": "Giltown, Beauparc, Gilltown, Navan, Co. Meath, Ireland",
+      "phone": "+353 83 418 9881",
+      "website": "https://www.kungfu.ie/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOUAP952QOygYaGH4Ry9nvzo7LFLV5JPKoUIEE=s1600-w800-h625",
+        "https://lh3.googleusercontent.com/p/AF1QipMa3bMxKHPZ8p3_2oRqyJcmLdVA3h8L_4RR4fc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPElibiSk0_Na3pIfZonY0Q6usU-hqqC4qrhsI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPko8q-xm7PUGtkReoxXibZenTuFy6DxM-zDoc=s1600-w582-h523",
+        "https://lh3.googleusercontent.com/p/AF1QipMEjzRVsdAN5pXtC-6Eog0oblhCbeBxUP7iJ0g=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ8eHb4RFHZ0gRWwA5abxwUe8",
+      "google_maps_url": "https://maps.google.com/?cid=17244688402699845723",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Marktstraat 11-12, 9581 AA Musselkanaal, Netherlands",
-        "geometry": {
-          "location": {
-            "lat": 52.93607730000001,
-            "lng": 7.007523300000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 52.93731543029151,
-              "lng": 7.008609480291502
-            },
-            "southwest": {
-              "lat": 52.93461746970851,
-              "lng": 7.005911519708498
-            }
-          }
-        },
-        "international_phone_number": "+31 599 750 212",
-        "name": "Wat Buddha Parami Nederland วัดพุทธบารมีเนเธอร์แลนด์",
-        "place_id": "ChIJTy4YIYbEt0cRNzYnUT_dEU8",
-        "url": "https://maps.google.com/?cid=5697578267614590519",
-        "website": "http://watnl.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPRE3TSLxwSpRiCl8CqH5mz_7gNO37Azl3qPgke=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPcztw3yoH5crooL8i3C6uGQCqwFP55xS0zQWZx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPGoqIdYMBWUVu3quiFWVWGlDVQq3gWpVjidVnv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNwd9J_qpYgl0uPBEe--Du0HXSnh-_0urYJHQ_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4gjbLnxfVxBnoxuyJuPpFf3fnWRd9Pl7CnCiz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPB2qhGDoDoS0dTxDSBaPYyJWBUlUHb7JZBP1lA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIgvqMNvxwYd2xo4kMcKExyLi2Y7ktg0aDzDS3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipObrN9gZG13ekLNaO311t6sx4yUS_fyV5hxUKRD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNbxJOUVmjUeLJ--n4Twg7zkmnDDntXrOhTLnOa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMwxuklxkVrdOl-p9ozllxARVFHWsNjLi4GJN5V=s1600-w800-h800"
-        ]
+      "name": "Wat Buddha Parami Nederland วัดพุทธบารมีเนเธอร์แลนด์",
+      "location": {
+        "lat": 52.93607730000001,
+        "lng": 7.007523300000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:57:40.404Z"
-      }
+      "address": "Marktstraat 11-12, 9581 AA Musselkanaal, Netherlands",
+      "phone": "+31 599 750 212",
+      "website": "http://watnl.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPRE3TSLxwSpRiCl8CqH5mz_7gNO37Azl3qPgke=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPcztw3yoH5crooL8i3C6uGQCqwFP55xS0zQWZx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPGoqIdYMBWUVu3quiFWVWGlDVQq3gWpVjidVnv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNwd9J_qpYgl0uPBEe--Du0HXSnh-_0urYJHQ_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4gjbLnxfVxBnoxuyJuPpFf3fnWRd9Pl7CnCiz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPB2qhGDoDoS0dTxDSBaPYyJWBUlUHb7JZBP1lA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIgvqMNvxwYd2xo4kMcKExyLi2Y7ktg0aDzDS3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipObrN9gZG13ekLNaO311t6sx4yUS_fyV5hxUKRD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNbxJOUVmjUeLJ--n4Twg7zkmnDDntXrOhTLnOa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMwxuklxkVrdOl-p9ozllxARVFHWsNjLi4GJN5V=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJTy4YIYbEt0cRNzYnUT_dEU8",
+      "google_maps_url": "https://maps.google.com/?cid=5697578267614590519",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "80 Bodmin St, Middleton, Leeds LS10 4NF, UK",
-        "geometry": {
-          "location": {
-            "lat": 53.7445861,
-            "lng": -1.5566612
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 53.7460357302915,
-              "lng": -1.555303769708498
-            },
-            "southwest": {
-              "lat": 53.7433377697085,
-              "lng": -1.558001730291502
-            }
-          }
-        },
-        "international_phone_number": "+44 113 443 3488",
-        "name": "Leeds Buddhist Vihara",
-        "place_id": "ChIJw02fgFxZeUgR6eOVr4HAFRQ",
-        "url": "https://maps.google.com/?cid=1447274518498632681",
-        "website": "http://www.leedsbuddhistvihara.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMzwuUty83H-ESaxhoEMkKL8fZ10BpOg3ubczzE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMud5lfqkn-oKO1TQkvNRje8H2VKCBC0A9yqO2t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPESlqSyb8GF8_qkKXrtago48bZFn-tay4RO9eP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWG0Z9P629_lxM0aySguc6QF_E-QiM4O-zqtjF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMPJYAMAH3dedUS3k6UD9MRwcHAeX6gGBzJdYL6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYIRFip8_b8h6ebR9KF2uaOY9vYGvGcsS0uoSN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP52rjzFWSnnaA4pFOCB3JyUOV0ZXOeau5CVldQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO99g12QXyVHelFd-9UGNj1NeQvAlHDGwnFH-c5=s1600-w800-h800"
-        ]
+      "name": "Leeds Buddhist Vihara",
+      "location": {
+        "lat": 53.7445861,
+        "lng": -1.5566612
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:57:40.404Z"
-      }
+      "address": "80 Bodmin St, Middleton, Leeds LS10 4NF, UK",
+      "phone": "+44 113 443 3488",
+      "website": "http://www.leedsbuddhistvihara.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMzwuUty83H-ESaxhoEMkKL8fZ10BpOg3ubczzE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMud5lfqkn-oKO1TQkvNRje8H2VKCBC0A9yqO2t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPESlqSyb8GF8_qkKXrtago48bZFn-tay4RO9eP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWG0Z9P629_lxM0aySguc6QF_E-QiM4O-zqtjF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMPJYAMAH3dedUS3k6UD9MRwcHAeX6gGBzJdYL6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYIRFip8_b8h6ebR9KF2uaOY9vYGvGcsS0uoSN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP52rjzFWSnnaA4pFOCB3JyUOV0ZXOeau5CVldQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO99g12QXyVHelFd-9UGNj1NeQvAlHDGwnFH-c5=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJw02fgFxZeUgR6eOVr4HAFRQ",
+      "google_maps_url": "https://maps.google.com/?cid=1447274518498632681",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "88 High St, Runcorn WA7 1JH, UK",
-        "geometry": {
-          "location": {
-            "lat": 53.3407983,
-            "lng": -2.7376766
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 53.3421207302915,
-              "lng": -2.736320819708498
-            },
-            "southwest": {
-              "lat": 53.3394227697085,
-              "lng": -2.739018780291502
-            }
-          }
-        },
-        "international_phone_number": "+44 1928 575444",
-        "name": "Wat Phra Singh UK",
-        "place_id": "ChIJB7hpNmbiekgRGqhY8WSwshc",
-        "url": "https://maps.google.com/?cid=1707621156319176730",
-        "website": "http://www.watphrasinghuk.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOYDTnZVxjsAl_luojna0kbzF2Ys-SVCt62qyRy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNU14CnUMlE09JNw4i-EZdYvsrA-HT9nE-HOHFg=s1600-w800-h536",
-          "https://lh3.googleusercontent.com/p/AF1QipNJArAVykHnM6T2jf0L41EbbOe-uc2eLDaL9ASo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcN7nJBrAPk_DTPihp3VkGwI6LgK6kIQAB-3As=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOipPN9CWAdI8kWaPAdnHvmnyzBBNcN6XhKqHG-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZIfl_5lwohcwtocy6yTXpyZglv4RguI0fOifD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOU0RJE98IWEkJ5rTvtlR0KsjRWARfzsIZPI4h3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNThgm1MDUFct48MIBOeHbEsnOxFZpfrgWMe4oX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBQlOEiHPYkGE7Vmib-GQJwy4piGKJ3SmaKgrW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTWeH4d3nEoPJ6qcO8SUTerr74aaAZLRPDDYLd=s1600-w800-h800"
-        ]
+      "name": "Wat Phra Singh UK",
+      "location": {
+        "lat": 53.3407983,
+        "lng": -2.7376766
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:57:40.404Z"
-      }
+      "address": "88 High St, Runcorn WA7 1JH, UK",
+      "phone": "+44 1928 575444",
+      "website": "http://www.watphrasinghuk.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOYDTnZVxjsAl_luojna0kbzF2Ys-SVCt62qyRy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNU14CnUMlE09JNw4i-EZdYvsrA-HT9nE-HOHFg=s1600-w800-h536",
+        "https://lh3.googleusercontent.com/p/AF1QipNJArAVykHnM6T2jf0L41EbbOe-uc2eLDaL9ASo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcN7nJBrAPk_DTPihp3VkGwI6LgK6kIQAB-3As=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOipPN9CWAdI8kWaPAdnHvmnyzBBNcN6XhKqHG-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZIfl_5lwohcwtocy6yTXpyZglv4RguI0fOifD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOU0RJE98IWEkJ5rTvtlR0KsjRWARfzsIZPI4h3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNThgm1MDUFct48MIBOeHbEsnOxFZpfrgWMe4oX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBQlOEiHPYkGE7Vmib-GQJwy4piGKJ3SmaKgrW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTWeH4d3nEoPJ6qcO8SUTerr74aaAZLRPDDYLd=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJB7hpNmbiekgRGqhY8WSwshc",
+      "google_maps_url": "https://maps.google.com/?cid=1707621156319176730",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "45 Cliff Rd, Woodhouse, Leeds LS6 2ET, UK",
-        "geometry": {
-          "location": {
-            "lat": 53.81796580000001,
-            "lng": -1.5609151
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 53.81931478029151,
-              "lng": -1.559566119708498
-            },
-            "southwest": {
-              "lat": 53.81661681970851,
-              "lng": -1.562264080291502
-            }
-          }
-        },
-        "international_phone_number": "+44 7935 469995",
-        "name": "Wat Buddharam Leeds",
-        "place_id": "ChIJ625i6VNZeUgR3PVVMZvyQck",
-        "url": "https://maps.google.com/?cid=14502139023471277532",
-        "website": "http://www.watbuddharamleeds.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMCDsN3OOkZxazn0o_K2T1CtvKrUOSVHVT8IqEu=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipOXsFzEQxKT8eQFWSiBQqMvUWDv3aCEyphOnE9M=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWd5I6YwSIgdx6hs9nfBaK956dzfsczNlnkwuQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNyYOWtcGDWyJdrkBZ45e8LYNqoawvUO2AO9ici=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHRfUCbLSnDez8du4ILZKvS2XXSnzW-72pQbiY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwcQas5wtmTU-6Bs_fakZiJZCFrKEW3FOiQbO5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNu7x75N0qrlO2Wb57b9HTYxmrlEwE6wvbDmw5B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOyUctUEnuhLlCc5AYAdMyVGAB5c5hhr7F-NBSh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPK64nFB7ok0gKB9SW4YvqoyWAVNGUSYf_yXfFL=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWVoqd-_PWp3gSbCTFdlvpgMh1262Xj1KqS47d=s1600-w800-h800"
-        ]
+      "name": "Wat Buddharam Leeds",
+      "location": {
+        "lat": 53.81796580000001,
+        "lng": -1.5609151
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:57:40.404Z"
-      }
+      "address": "45 Cliff Rd, Woodhouse, Leeds LS6 2ET, UK",
+      "phone": "+44 7935 469995",
+      "website": "http://www.watbuddharamleeds.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMCDsN3OOkZxazn0o_K2T1CtvKrUOSVHVT8IqEu=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipOXsFzEQxKT8eQFWSiBQqMvUWDv3aCEyphOnE9M=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWd5I6YwSIgdx6hs9nfBaK956dzfsczNlnkwuQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNyYOWtcGDWyJdrkBZ45e8LYNqoawvUO2AO9ici=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHRfUCbLSnDez8du4ILZKvS2XXSnzW-72pQbiY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwcQas5wtmTU-6Bs_fakZiJZCFrKEW3FOiQbO5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNu7x75N0qrlO2Wb57b9HTYxmrlEwE6wvbDmw5B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOyUctUEnuhLlCc5AYAdMyVGAB5c5hhr7F-NBSh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPK64nFB7ok0gKB9SW4YvqoyWAVNGUSYf_yXfFL=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWVoqd-_PWp3gSbCTFdlvpgMh1262Xj1KqS47d=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ625i6VNZeUgR3PVVMZvyQck",
+      "google_maps_url": "https://maps.google.com/?cid=14502139023471277532",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

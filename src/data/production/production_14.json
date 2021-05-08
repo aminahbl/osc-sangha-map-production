@@ -1,1793 +1,1418 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "249 Soi Mu Ban Thana Chok, Tambon Nong Chom, Amphoe San Sai, Chang Wat Chiang Mai 50210, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.8234833,
-            "lng": 99.0225248
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.8247069302915,
-              "lng": 99.0238408802915
-            },
-            "southwest": {
-              "lat": 18.8220089697085,
-              "lng": 99.0211429197085
-            }
-          }
-        },
-        "name": "Ban Cho Buddhist Monastery",
-        "place_id": "ChIJ3U15Dikl2jAR0ZNfPS5n7Ws",
-        "url": "https://maps.google.com/?cid=7776985579834545105",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNAfIPEuK3pLP1o0D0q7urtrd3l94jVaZVeATQK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhKVJ6mYpkueNC8-2HbUeAAm-7Oh_0pkoEFzw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPyzBpB8YcPpRj5oqdnOXWtXZinpdX2ALY6Niq1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRtXEWEPXdhNvQAJDZ_HDAUxZXUjjfD-8Mibbv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgPVD8AzjUJDgXvwNA846l1M7zMtVjUEKUamEs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGDF38WcNKoUlzs38s4XT0M9pPmvWjY0L4va5c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPavC2v7d-vWbkoUPfC4C_Xj0viztp8xgFtr14=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkQWGp-Df0pQTfDMpheUIdaj_SSGDHkhBt9go=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipObyNABNc12yJwa5m0y0aiGPLNwOngOPfd1fsk4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRIvx_FTBRYKDI8j9XkC_-N2ZolCc7YQ6X4KAu=s1600-w800-h800"
-        ]
+      "name": "Ban Cho Buddhist Monastery",
+      "location": {
+        "lat": 18.8234833,
+        "lng": 99.0225248
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "249 Soi Mu Ban Thana Chok, Tambon Nong Chom, Amphoe San Sai, Chang Wat Chiang Mai 50210, Thailand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNAfIPEuK3pLP1o0D0q7urtrd3l94jVaZVeATQK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhKVJ6mYpkueNC8-2HbUeAAm-7Oh_0pkoEFzw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPyzBpB8YcPpRj5oqdnOXWtXZinpdX2ALY6Niq1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRtXEWEPXdhNvQAJDZ_HDAUxZXUjjfD-8Mibbv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgPVD8AzjUJDgXvwNA846l1M7zMtVjUEKUamEs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGDF38WcNKoUlzs38s4XT0M9pPmvWjY0L4va5c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPavC2v7d-vWbkoUPfC4C_Xj0viztp8xgFtr14=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkQWGp-Df0pQTfDMpheUIdaj_SSGDHkhBt9go=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipObyNABNc12yJwa5m0y0aiGPLNwOngOPfd1fsk4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRIvx_FTBRYKDI8j9XkC_-N2ZolCc7YQ6X4KAu=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ3U15Dikl2jAR0ZNfPS5n7Ws",
+      "google_maps_url": "https://maps.google.com/?cid=7776985579834545105",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "71 หมู่ 14 ซอย 4 Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7882943,
-            "lng": 98.9498069
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7895802802915,
-              "lng": 98.9511643802915
-            },
-            "southwest": {
-              "lat": 18.7868823197085,
-              "lng": 98.9484664197085
-            }
-          }
-        },
-        "name": "Wat Pa Daeng",
-        "place_id": "ChIJSfs_h3M62jARr8CdH5aQZYk",
-        "url": "https://maps.google.com/?cid=9900478330293829807",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPyFYP8xrpf-vt12Cm7ZbwCwwYVQMlYdsEDqK7S=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMydpruQucsqvHmhhm-kW8cRsGFABZNoWaRew4P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNzizlccvaJPU31az_S2uP8veysKSTB3gyEBSAL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTq9HaJvr4yRSWhUoLS1bNq1neTfLogoLEOvXE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPCw5JZVIy2ITRbZ9W0P1ddClG4yAg2TdwFZiTH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMi8Xz9D-f4rcwJjz4Or6qBANO_sXCQxdnvTmL5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOsfRgbJ6XSNdRkZyN6c7oWCFYhX49luNTOKIwT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhThXiWhAqtcSgdMfAwEhovWNsVMtqQ1tGM9Ie=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNmEPprwviJ-1xVO7EvTPHLycGTHZNkEp9rMyT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMgmsb6pg19tP7eULxyI82oxQxdhT_XP_Eannek=s1600-w800-h800"
-        ]
+      "name": "Wat Pa Daeng",
+      "location": {
+        "lat": 18.7882943,
+        "lng": 98.9498069
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "71 หมู่ 14 ซอย 4 Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPyFYP8xrpf-vt12Cm7ZbwCwwYVQMlYdsEDqK7S=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMydpruQucsqvHmhhm-kW8cRsGFABZNoWaRew4P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNzizlccvaJPU31az_S2uP8veysKSTB3gyEBSAL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTq9HaJvr4yRSWhUoLS1bNq1neTfLogoLEOvXE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPCw5JZVIy2ITRbZ9W0P1ddClG4yAg2TdwFZiTH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMi8Xz9D-f4rcwJjz4Or6qBANO_sXCQxdnvTmL5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOsfRgbJ6XSNdRkZyN6c7oWCFYhX49luNTOKIwT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhThXiWhAqtcSgdMfAwEhovWNsVMtqQ1tGM9Ie=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNmEPprwviJ-1xVO7EvTPHLycGTHZNkEp9rMyT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMgmsb6pg19tP7eULxyI82oxQxdhT_XP_Eannek=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJSfs_h3M62jARr8CdH5aQZYk",
+      "google_maps_url": "https://maps.google.com/?cid=9900478330293829807",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Suthep, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.8182568,
-            "lng": 98.88631140000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.8196058802915,
-              "lng": 98.8876622802915
-            },
-            "southwest": {
-              "lat": 18.8169079197085,
-              "lng": 98.88496431970849
-            }
-          }
-        },
-        "name": "Doi Pui Phu Phing Monastery, Luang Pu Phiroj",
-        "place_id": "ChIJ40vNg7E52jARs4f_Bb_QtqY",
-        "url": "https://maps.google.com/?cid=12013018574915340211",
-        "website": "https://sites.google.com/site/watdoipui/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOP0sOd2dmIb3ogYUnG3en66QeWQA6h89uY-RQ8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdrgV2UDe6XTGN4AzsnPKqj3wv7YWPMMqzR98O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSCGVvVfeuAoHrG3QkmPERRBs8jVV044U4rJ_J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMse6y938NYxSBwGVb_awrOuXch2YyFvwtvcpm_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOOZjjwmnTxVJxQuKBvSiVMroZn3mSfD5uTPHU4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkRKi3UqzBpFmRGTnstTmE_JapqxmwcCgqPez5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcwWHTdZY4NCgmVyi0nkizxqzCaQCJy2JXJCzf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpK7hZYTD1KL2SYEA_oShA-rZ68Vesh7DLHu_x=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMM__HqhAt44rFONl89C1FmjIcQGH5y3Z_UbAn1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPmp5nttUkmGmsODOPkpc0iWa_8DMhwc-InjtTi=s1600-w800-h800"
-        ]
+      "name": "Doi Pui Phu Phing Monastery, Luang Pu Phiroj",
+      "location": {
+        "lat": 18.8182568,
+        "lng": 98.88631140000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Suthep, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+      "website": "https://sites.google.com/site/watdoipui/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOP0sOd2dmIb3ogYUnG3en66QeWQA6h89uY-RQ8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdrgV2UDe6XTGN4AzsnPKqj3wv7YWPMMqzR98O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSCGVvVfeuAoHrG3QkmPERRBs8jVV044U4rJ_J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMse6y938NYxSBwGVb_awrOuXch2YyFvwtvcpm_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOOZjjwmnTxVJxQuKBvSiVMroZn3mSfD5uTPHU4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkRKi3UqzBpFmRGTnstTmE_JapqxmwcCgqPez5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcwWHTdZY4NCgmVyi0nkizxqzCaQCJy2JXJCzf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpK7hZYTD1KL2SYEA_oShA-rZ68Vesh7DLHu_x=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMM__HqhAt44rFONl89C1FmjIcQGH5y3Z_UbAn1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPmp5nttUkmGmsODOPkpc0iWa_8DMhwc-InjtTi=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ40vNg7E52jARs4f_Bb_QtqY",
+      "google_maps_url": "https://maps.google.com/?cid=12013018574915340211",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Moo 5, Mooban Mae Sa Pok, Tambon Mae Win, AmphoeMae Wang, Chiang Mai, 50360, ตำบล แม่วิน อำเภอ แม่วาง เชียงใหม่ 50360, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.6601986,
-            "lng": 98.6411239
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.66095525,
-              "lng": 98.64194060000001
-            },
-            "southwest": {
-              "lat": 18.65792865,
-              "lng": 98.63867379999999
-            }
-          }
-        },
-        "international_phone_number": "+66 53 106 885",
-        "name": "Wat Tham Doi Ton",
-        "place_id": "ChIJwaGEPWFS2jAR33VsEqyJfX4",
-        "url": "https://maps.google.com/?cid=9114592593004230111",
-        "website": "http://www.vimuttidhamma.net/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM9iX415V6sCsByWH61Fcdb8cOId_pK2FZioL7U=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsKxfdoelnSb8LAnuoiyKt6HYDkP1x4FAKLhFY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNt8cd4aG8bh9_Ox1vWk6cuBpyJULe-FX25ZsAU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6_Oq4xtZsFZgKbin00c_QTcMY3SydqnoFlCAL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcct0DE2GbpCnSB4hOJVZa018ySIijFcRV1s5d=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwM3ja7gSnRtVXWhK38_OiF0K-P4TbieuLO3-4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMw97aFGxdt6DodMZ-l3t69Bbu-2z_Gj1QWwkR8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjjA_3VqUjr-rcAz8m80T9tqSHNR0hwJzJSUON=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-Ze6GnTNZjkDKUvK0vTL7ys_ZrUzJNLaPsaMS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkYdbVWOQmkhRA0Vo2WhU1P919fqHVjsg8d4Tw=s1600-w800-h800"
-        ]
+      "name": "Wat Tham Doi Ton",
+      "location": {
+        "lat": 18.6601986,
+        "lng": 98.6411239
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Moo 5, Mooban Mae Sa Pok, Tambon Mae Win, AmphoeMae Wang, Chiang Mai, 50360, ตำบล แม่วิน อำเภอ แม่วาง เชียงใหม่ 50360, Thailand",
+      "phone": "+66 53 106 885",
+      "website": "http://www.vimuttidhamma.net/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM9iX415V6sCsByWH61Fcdb8cOId_pK2FZioL7U=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsKxfdoelnSb8LAnuoiyKt6HYDkP1x4FAKLhFY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNt8cd4aG8bh9_Ox1vWk6cuBpyJULe-FX25ZsAU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6_Oq4xtZsFZgKbin00c_QTcMY3SydqnoFlCAL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcct0DE2GbpCnSB4hOJVZa018ySIijFcRV1s5d=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwM3ja7gSnRtVXWhK38_OiF0K-P4TbieuLO3-4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMw97aFGxdt6DodMZ-l3t69Bbu-2z_Gj1QWwkR8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjjA_3VqUjr-rcAz8m80T9tqSHNR0hwJzJSUON=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-Ze6GnTNZjkDKUvK0vTL7ys_ZrUzJNLaPsaMS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkYdbVWOQmkhRA0Vo2WhU1P919fqHVjsg8d4Tw=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJwaGEPWFS2jAR33VsEqyJfX4",
+      "google_maps_url": "https://maps.google.com/?cid=9114592593004230111",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Unnamed Road Tambon Luang Nuea, Amphoe Doi Saket, Chang Wat Chiang Mai 50220, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.895201,
-            "lng": 99.14269469999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.8965478302915,
-              "lng": 99.1439872802915
-            },
-            "southwest": {
-              "lat": 18.8938498697085,
-              "lng": 99.14128931970849
-            }
-          }
-        },
-        "international_phone_number": "+66 83 020 3304",
-        "name": "Chitta Bhawanaram Forest Monastery",
-        "place_id": "ChIJk4LBhoIh2jARxThiJNMscf8",
-        "url": "https://maps.google.com/?cid=18406542437400066245",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPFdf6EjFQPGO6RsB6CxQEOJ9uGbFxeSLc5XA9p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP5MICUg7ArMkrJb8fpNJjcYuubD4IRXKR0qTzp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOr_ZNPb5ZyvIEtyTAUPdB8GbBL71fM19knB8bv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJ0BAKaYU26Uk9wgN6uaoRIfnm49CtKgsdqadq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOC52-MunF-1Jlgv-HnxMWbPq21oHxyl8PPPBe1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkXUyZ8BL988i04kR_jSgRC2Qd8bcToybXXCig=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRyguOQVkGOV4IftGlZsJto79nLReiyjCosT-c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPYg6Gv_3oBiJyuRchfohCZ8yh90UDNEAgmjXHH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLmt7BXIwix1Zc13FprR26ycS_1MZ6hI4G2PUy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeCi4wlsIHejj0mWklnT3nOZWeLt9zCCe3RB-b=s1600-w800-h800"
-        ]
+      "name": "Chitta Bhawanaram Forest Monastery",
+      "location": {
+        "lat": 18.895201,
+        "lng": 99.14269469999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Unnamed Road Tambon Luang Nuea, Amphoe Doi Saket, Chang Wat Chiang Mai 50220, Thailand",
+      "phone": "+66 83 020 3304",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPFdf6EjFQPGO6RsB6CxQEOJ9uGbFxeSLc5XA9p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP5MICUg7ArMkrJb8fpNJjcYuubD4IRXKR0qTzp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOr_ZNPb5ZyvIEtyTAUPdB8GbBL71fM19knB8bv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJ0BAKaYU26Uk9wgN6uaoRIfnm49CtKgsdqadq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOC52-MunF-1Jlgv-HnxMWbPq21oHxyl8PPPBe1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkXUyZ8BL988i04kR_jSgRC2Qd8bcToybXXCig=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRyguOQVkGOV4IftGlZsJto79nLReiyjCosT-c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPYg6Gv_3oBiJyuRchfohCZ8yh90UDNEAgmjXHH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLmt7BXIwix1Zc13FprR26ycS_1MZ6hI4G2PUy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeCi4wlsIHejj0mWklnT3nOZWeLt9zCCe3RB-b=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJk4LBhoIh2jARxThiJNMscf8",
+      "google_maps_url": "https://maps.google.com/?cid=18406542437400066245",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "143 Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7879706,
-            "lng": 98.9983347
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7894071802915,
-              "lng": 98.9996775802915
-            },
-            "southwest": {
-              "lat": 18.7867092197085,
-              "lng": 98.9969796197085
-            }
-          }
-        },
-        "name": "Wat Buppharam",
-        "place_id": "ChIJ7XkPRqQ62jAR-Bgie4zsrLE",
-        "url": "https://maps.google.com/?cid=12802867928812886264",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN3WA2iFpBGIQ13ZBtlubkgtAblJihPr6lOaODy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOJoFpGjWBEdHjh7522hrhnZbUmf0ESgu89-yAB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPP3h60nyhBC9MDuycdvy801Fc_8L3EdBiSdZy2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPd-uVN6GGoofUldsztO5EknRjEV9WAIKf7Wo1r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3oJrF-iFeMi21JvvktvizghRHsi9DnT1RAAPK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLz-NZU1e25VIa68-WnevvcIwB_nOsyVurDOAo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOZY6JsnX5I91bVhuEeVvRUjx-SC60rA26YKPLY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPV3Z8pj4Z_7b-QShX3wFEbMMByIvIgr0qEyVdN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJxrJb5Zj_H3lL-vCIGqj06k4j57H8439zeotc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMC_7Mv3DRwwuhRnGT2bPsWvgRETmzal8exg60k=s1600-w800-h800"
-        ]
+      "name": "Wat Buppharam",
+      "location": {
+        "lat": 18.7879706,
+        "lng": 98.9983347
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "143 Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN3WA2iFpBGIQ13ZBtlubkgtAblJihPr6lOaODy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOJoFpGjWBEdHjh7522hrhnZbUmf0ESgu89-yAB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPP3h60nyhBC9MDuycdvy801Fc_8L3EdBiSdZy2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPd-uVN6GGoofUldsztO5EknRjEV9WAIKf7Wo1r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3oJrF-iFeMi21JvvktvizghRHsi9DnT1RAAPK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLz-NZU1e25VIa68-WnevvcIwB_nOsyVurDOAo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOZY6JsnX5I91bVhuEeVvRUjx-SC60rA26YKPLY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPV3Z8pj4Z_7b-QShX3wFEbMMByIvIgr0qEyVdN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJxrJb5Zj_H3lL-vCIGqj06k4j57H8439zeotc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMC_7Mv3DRwwuhRnGT2bPsWvgRETmzal8exg60k=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ7XkPRqQ62jAR-Bgie4zsrLE",
+      "google_maps_url": "https://maps.google.com/?cid=12802867928812886264",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Myanmar (Burma)",
-        "geometry": {
-          "location": {
-            "lat": 20.0817656,
-            "lng": 98.1807281
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 20.0831145802915,
-              "lng": 98.1820770802915
-            },
-            "southwest": {
-              "lat": 20.0804166197085,
-              "lng": 98.1793791197085
-            }
-          }
-        },
-        "name": "Wat MayPole ၵျွင်းမႆႉပူၵ်ႇ buddhist Monastery",
-        "place_id": "ChIJG7f0HlVL0DARwcvyxIBldk4",
-        "url": "https://maps.google.com/?cid=5653817985944701889",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Wat MayPole ၵျွင်းမႆႉပူၵ်ႇ buddhist Monastery",
+      "location": {
+        "lat": 20.0817656,
+        "lng": 98.1807281
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Myanmar (Burma)",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJG7f0HlVL0DARwcvyxIBldk4",
+      "google_maps_url": "https://maps.google.com/?cid=5653817985944701889",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "135 หมู่ที่ 10 Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7833134,
-            "lng": 98.9511902
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7847251802915,
-              "lng": 98.95319598029153
-            },
-            "southwest": {
-              "lat": 18.7820272197085,
-              "lng": 98.9504980197085
-            }
-          }
-        },
-        "international_phone_number": "+66 85 033 3809",
-        "name": "Wat Umong",
-        "place_id": "ChIJnWhAb3A62jARWVBZnaOa7-0",
-        "url": "https://maps.google.com/?cid=17145092333932990553",
-        "website": "https://citystour.com/2019/08/16/wat-umong/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNAsnuvJMGdKlkQspFiSmjGO7NflUHBvbtLQTck=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYpyfWv1zOVYJPRD-btNFqyw92UpHjm-y0X2Bc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNouQxIZ74YD4LenXSCJOqiuskdlYUFRszafhpb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkfAvpvmaZ5Zd9tpiR7-1ohAk86l-k4sj0qg5D=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOYpq4SxKpLwobzCe9EiBUIpGj7sd7aaZMORYl8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPOTNJcvj_9YcXQi3_l3X2DrHqvLwQjJLF_ppTg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNoQbc8l7WKmeZJZNK6BBsh3nXjqv1VBACLEXc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTIEgKKeX69-a_a5RZdwVxDW9stErJpBGx3qb-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOz61NdcPI3np3gqSJ-9XmDBJ6hSktC3BYyjCW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHGtQq853kQDgXm6JtEuBuIt5NxDJ7v5g9MxP0=s1600-w800-h800"
-        ]
+      "name": "Wat Umong",
+      "location": {
+        "lat": 18.7833134,
+        "lng": 98.9511902
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "135 หมู่ที่ 10 Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+      "phone": "+66 85 033 3809",
+      "website": "https://citystour.com/2019/08/16/wat-umong/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNAsnuvJMGdKlkQspFiSmjGO7NflUHBvbtLQTck=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYpyfWv1zOVYJPRD-btNFqyw92UpHjm-y0X2Bc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNouQxIZ74YD4LenXSCJOqiuskdlYUFRszafhpb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkfAvpvmaZ5Zd9tpiR7-1ohAk86l-k4sj0qg5D=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOYpq4SxKpLwobzCe9EiBUIpGj7sd7aaZMORYl8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPOTNJcvj_9YcXQi3_l3X2DrHqvLwQjJLF_ppTg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNoQbc8l7WKmeZJZNK6BBsh3nXjqv1VBACLEXc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTIEgKKeX69-a_a5RZdwVxDW9stErJpBGx3qb-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOz61NdcPI3np3gqSJ-9XmDBJ6hSktC3BYyjCW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHGtQq853kQDgXm6JtEuBuIt5NxDJ7v5g9MxP0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJnWhAb3A62jARWVBZnaOa7-0",
+      "google_maps_url": "https://maps.google.com/?cid=17145092333932990553",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "171 Ratchapakhinai Rd, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7938126,
-            "lng": 98.9892703
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7951595802915,
-              "lng": 98.99089568029152
-            },
-            "southwest": {
-              "lat": 18.7924616197085,
-              "lng": 98.98819771970851
-            }
-          }
-        },
-        "name": "Wat Chiang Man",
-        "place_id": "ChIJ1zNhk5c62jAR3fJZxs2xM24",
-        "url": "https://maps.google.com/?cid=7940886065338512093",
-        "website": "https://citystour.com/2019/08/26/wat-chiang-man/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPuuqoBIalP-2x3UGDH0qNZ5xyiu-GDqgLPO2wi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOhNWZBpTB_9AD8X0gTt9gWwesru_LDmak2Drip=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBxzpve394ONwemB8cKblb-huFkpqLDtg9Ii4p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPbbNeLMSA3c07YEHmvWzTlsTWL8Km-ttOJgoI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVTZ4WYXHUV-Qtm93C-1qW8S6wx6Nq_0JdTQhF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNBsyhemds7YUfFIFjQsDrPfVrao8DSwBlFrRsI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqijRxNFcv-lu6h-lFYW5Tpa54Zmf_3q5daWux=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNuwYyNLY5KYxrROJsAoQCmMXA-tfw_849FuKux=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPBVj66rpUUhq2fF59ofPw0SErw4zmFbZNI7ryh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6Ct_yjniSMLGNfplg2yQQIKBmO__Xa-MqiVnk=s1600-w800-h800"
-        ]
+      "name": "Wat Chiang Man",
+      "location": {
+        "lat": 18.7938126,
+        "lng": 98.9892703
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "171 Ratchapakhinai Rd, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+      "website": "https://citystour.com/2019/08/26/wat-chiang-man/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPuuqoBIalP-2x3UGDH0qNZ5xyiu-GDqgLPO2wi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOhNWZBpTB_9AD8X0gTt9gWwesru_LDmak2Drip=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBxzpve394ONwemB8cKblb-huFkpqLDtg9Ii4p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPbbNeLMSA3c07YEHmvWzTlsTWL8Km-ttOJgoI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVTZ4WYXHUV-Qtm93C-1qW8S6wx6Nq_0JdTQhF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNBsyhemds7YUfFIFjQsDrPfVrao8DSwBlFrRsI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqijRxNFcv-lu6h-lFYW5Tpa54Zmf_3q5daWux=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNuwYyNLY5KYxrROJsAoQCmMXA-tfw_849FuKux=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPBVj66rpUUhq2fF59ofPw0SErw4zmFbZNI7ryh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6Ct_yjniSMLGNfplg2yQQIKBmO__Xa-MqiVnk=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ1zNhk5c62jAR3fJZxs2xM24",
+      "google_maps_url": "https://maps.google.com/?cid=7940886065338512093",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "103 Prapokkloa Rd, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7869693,
-            "lng": 98.9865804
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7883463302915,
-              "lng": 98.9888406
-            },
-            "southwest": {
-              "lat": 18.7856483697085,
-              "lng": 98.98582699999999
-            }
-          }
-        },
-        "name": "Wat Chedi Luang",
-        "place_id": "ChIJFRQRM5k62jARuqhLBJpw91w",
-        "url": "https://maps.google.com/?cid=6698946777536243898",
-        "website": "https://m.facebook.com/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3-%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-Wat-Chedi-Luang-Chiang-Mai-169527336941242/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM1T2-9ua-ZG6KSTU9ts6P7RxQJasq_A6VSzBZB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4H6Jr-WaRiXYJu-3FylwLG8poAX9kOsSxts6W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhp8yLTKw1_mob519hAOYmFz0YHEhoKwvDet5c=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO3Ob5V_kUG9zemhzra74K353Hnj0cVRaqR-cPT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOP5Sxa6OoWl7it-ISdlDITUV5hizAOQFaRzDEx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMguONWk45ofJhOjKD1q46kiCLTd-9tqkvK1Rvn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-dkFBEB5mMVTISPK3huPThXt5n9CExmfHhN6h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhYJBjSYP_p6AXvpm2XF4r722KIiyseRZmUrmV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPOviHqOezVPdqgZDRbMZG5KBzTn2SvLzxvlnc1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPTV6Xy0ePxhnr-JHO5fCjKdgsLoZJLhxVWfutn=s1600-w800-h800"
-        ]
+      "name": "Wat Chedi Luang",
+      "location": {
+        "lat": 18.7869693,
+        "lng": 98.9865804
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "103 Prapokkloa Rd, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+      "website": "https://m.facebook.com/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3-%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-Wat-Chedi-Luang-Chiang-Mai-169527336941242/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM1T2-9ua-ZG6KSTU9ts6P7RxQJasq_A6VSzBZB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4H6Jr-WaRiXYJu-3FylwLG8poAX9kOsSxts6W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhp8yLTKw1_mob519hAOYmFz0YHEhoKwvDet5c=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO3Ob5V_kUG9zemhzra74K353Hnj0cVRaqR-cPT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOP5Sxa6OoWl7it-ISdlDITUV5hizAOQFaRzDEx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMguONWk45ofJhOjKD1q46kiCLTd-9tqkvK1Rvn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-dkFBEB5mMVTISPK3huPThXt5n9CExmfHhN6h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhYJBjSYP_p6AXvpm2XF4r722KIiyseRZmUrmV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPOviHqOezVPdqgZDRbMZG5KBzTn2SvLzxvlnc1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPTV6Xy0ePxhnr-JHO5fCjKdgsLoZJLhxVWfutn=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJFRQRM5k62jARuqhLBJpw91w",
+      "google_maps_url": "https://maps.google.com/?cid=6698946777536243898",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "127/7 Prapokkloa Rd, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7875781,
-            "lng": 98.9874943
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7889594802915,
-              "lng": 98.9890924802915
-            },
-            "southwest": {
-              "lat": 18.78626151970849,
-              "lng": 98.9863945197085
-            }
-          }
-        },
-        "international_phone_number": "+66 53 814 689",
-        "name": "Wat Phantao",
-        "place_id": "ChIJzTkWKJk62jAR-rz3ByJYY4Y",
-        "url": "https://maps.google.com/?cid=9683680526962507002",
-        "website": "https://www.emagtravel.com/archive/wat-pantao.html",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMN-uQjvVc6se09q4Vedn99yte2CLax-BNOfikB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkmshUHIC_y-IWV7ZCgcklt4wxemUR8FxIBd6k=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeqbZLCgR6dpZQNqa1Ryf9d0v5iEgZC4zFlxvX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNoxj6XoNMlYOpIVdq5i-ZqZHQgghiZ_qSGi2Fd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPzjvKrY5CdZPWQK97snoPOj1myA67P4hOdfpXX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-1uo3p3i6OQZ70ipTWg6Ch3NYOlz0qusgoL0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPgCpyuaXXQHIczpJUh_EGm5T2q9xqtg4T4Bep2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNjnRGekaswabJXG3YiVGcrxWFkWVEA0FTt8M9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNRyN_9_mx0FcN_16PYrbX_gq-Vb9X-5NSf6XXR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkctw8sMNBVnXF_WApcgNQf9_BuvvCQIPOipQ0=s1600-w800-h800"
-        ]
+      "name": "Wat Phantao",
+      "location": {
+        "lat": 18.7875781,
+        "lng": 98.9874943
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "127/7 Prapokkloa Rd, Tambon Si Phum, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+      "phone": "+66 53 814 689",
+      "website": "https://www.emagtravel.com/archive/wat-pantao.html",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMN-uQjvVc6se09q4Vedn99yte2CLax-BNOfikB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkmshUHIC_y-IWV7ZCgcklt4wxemUR8FxIBd6k=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeqbZLCgR6dpZQNqa1Ryf9d0v5iEgZC4zFlxvX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNoxj6XoNMlYOpIVdq5i-ZqZHQgghiZ_qSGi2Fd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPzjvKrY5CdZPWQK97snoPOj1myA67P4hOdfpXX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-1uo3p3i6OQZ70ipTWg6Ch3NYOlz0qusgoL0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPgCpyuaXXQHIczpJUh_EGm5T2q9xqtg4T4Bep2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNjnRGekaswabJXG3YiVGcrxWFkWVEA0FTt8M9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNRyN_9_mx0FcN_16PYrbX_gq-Vb9X-5NSf6XXR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkctw8sMNBVnXF_WApcgNQf9_BuvvCQIPOipQ0=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzTkWKJk62jAR-rz3ByJYY4Y",
+      "google_maps_url": "https://maps.google.com/?cid=9683680526962507002",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "139 Suthep Rd, Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7882387,
-            "lng": 98.9677619
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7896584802915,
-              "lng": 98.96918033029151
-            },
-            "southwest": {
-              "lat": 18.7869605197085,
-              "lng": 98.9664823697085
-            }
-          }
-        },
-        "international_phone_number": "+66 53 278 304",
-        "name": "Wat Suan Dok",
-        "place_id": "ChIJ61iS53062jARdlXpw3EiusM",
-        "url": "https://maps.google.com/?cid=14103623055077627254",
-        "website": "http://www.watsuandok.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPsFgtkkrlUmcAhRYaphaXR45IC1GVxrQ8DEDie=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2XnmabArrQEe2-_MNKJkInx-_6yD-Gsam0lOQ=s1600-w800-h534",
-          "https://lh3.googleusercontent.com/p/AF1QipPJzIBZwmLBGmt9mXeWGUGBqXo-zZRXptcJ-iWG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODId-7hksUqSZNl0i1PzUBLcVgCSFIRC1IPsGd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-GY_yw3bvXvaB_Q674E-c9EkaaXxpxwikYhC6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNluDY2THfJk41MjMRs6UbkVKweTeuk0rRBVkqO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-rGpJwbSNxSd7cai93uYTv1G0P36LZFZRLVMA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOxhvy-gcUnmTF2YkC6VV9Zmul2bmfWrE8RD17h=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWGZfPgYDtv_JWTvp6goxRvXgiPyCqyUIWSZu8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO8Ba9_YlgpNQN5yecj004OPEUiElG4Y_bjzIhC=s1600-w800-h800"
-        ]
+      "name": "Wat Suan Dok",
+      "location": {
+        "lat": 18.7882387,
+        "lng": 98.9677619
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "139 Suthep Rd, Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+      "phone": "+66 53 278 304",
+      "website": "http://www.watsuandok.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPsFgtkkrlUmcAhRYaphaXR45IC1GVxrQ8DEDie=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2XnmabArrQEe2-_MNKJkInx-_6yD-Gsam0lOQ=s1600-w800-h534",
+        "https://lh3.googleusercontent.com/p/AF1QipPJzIBZwmLBGmt9mXeWGUGBqXo-zZRXptcJ-iWG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODId-7hksUqSZNl0i1PzUBLcVgCSFIRC1IPsGd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-GY_yw3bvXvaB_Q674E-c9EkaaXxpxwikYhC6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNluDY2THfJk41MjMRs6UbkVKweTeuk0rRBVkqO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-rGpJwbSNxSd7cai93uYTv1G0P36LZFZRLVMA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOxhvy-gcUnmTF2YkC6VV9Zmul2bmfWrE8RD17h=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWGZfPgYDtv_JWTvp6goxRvXgiPyCqyUIWSZu8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO8Ba9_YlgpNQN5yecj004OPEUiElG4Y_bjzIhC=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ61iS53062jARdlXpw3EiusM",
+      "google_maps_url": "https://maps.google.com/?cid=14103623055077627254",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "U Bwar Street, Pyinmana, Myanmar (Burma)",
-        "geometry": {
-          "location": {
-            "lat": 19.7180087,
-            "lng": 96.21490829999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 19.7193698302915,
-              "lng": 96.2163109802915
-            },
-            "southwest": {
-              "lat": 19.7166718697085,
-              "lng": 96.21361301970849
-            }
-          }
-        },
-        "name": "Buddhist Monastery, U-Mindin",
-        "place_id": "ChIJ45gGCb67yDARsZnL715xo0U",
-        "url": "https://maps.google.com/?cid=5017979062384826801",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPxYGUrqt1NG0BE8rcH1aBYqIft4tiJ0tSSTus1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkawgwQI1ZRwZbYK7XfxmHyGk-iqE79rMtDXtL=s1600-w450-h676",
-          "https://lh3.googleusercontent.com/p/AF1QipMnhrCkyiqqnuhJiRsR6TvVaJXtz0sxOYUfNcM-=s1600-w800-h800"
-        ]
+      "name": "Buddhist Monastery, U-Mindin",
+      "location": {
+        "lat": 19.7180087,
+        "lng": 96.21490829999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "U Bwar Street, Pyinmana, Myanmar (Burma)",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPxYGUrqt1NG0BE8rcH1aBYqIft4tiJ0tSSTus1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkawgwQI1ZRwZbYK7XfxmHyGk-iqE79rMtDXtL=s1600-w450-h676",
+        "https://lh3.googleusercontent.com/p/AF1QipMnhrCkyiqqnuhJiRsR6TvVaJXtz0sxOYUfNcM-=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ45gGCb67yDARsZnL715xo0U",
+      "google_maps_url": "https://maps.google.com/?cid=5017979062384826801",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Kun Seik, Myanmar (Burma)",
-        "geometry": {
-          "location": {
-            "lat": 17.6768893,
-            "lng": 96.89810829999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 17.6782382802915,
-              "lng": 96.8994572802915
-            },
-            "southwest": {
-              "lat": 17.6755403197085,
-              "lng": 96.8967593197085
-            }
-          }
-        },
-        "name": "Mingalaryarma monastery",
-        "place_id": "ChIJp6XudEiRwzARTJuEllYdDP4",
-        "url": "https://maps.google.com/?cid=18306038843083889484",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Mingalaryarma monastery",
+      "location": {
+        "lat": 17.6768893,
+        "lng": 96.89810829999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Kun Seik, Myanmar (Burma)",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJp6XudEiRwzARTJuEllYdDP4",
+      "google_maps_url": "https://maps.google.com/?cid=18306038843083889484",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2 Samlarn Rd, Tambon Phra Sing, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50280, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7885265,
-            "lng": 98.9819946
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7897671302915,
-              "lng": 98.98361365
-            },
-            "southwest": {
-              "lat": 18.7870691697085,
-              "lng": 98.97925024999998
-            }
-          }
-        },
-        "international_phone_number": "+66 53 416 027",
-        "name": "Wat Phra Singh Woramahawihan",
-        "place_id": "ChIJbyRKbps62jAR6VTNF-fZVpY",
-        "url": "https://maps.google.com/?cid=10833085540246312169",
-        "website": "http://www.วัดพระสิงห์เชียงใหม่.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPR0-N37sDeHIEewIHJDX8eQ1t0bNx2qJI4cHrN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNVShSw1ipJXAXhCB-UTd_ja8VTgBpetVuzHXYA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPre4PpE5IM7n8vbe9d5pWZ74T-lVM5lUeHZGAz=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipM6_2ACawkEgTFw1R_8niopjMIQOzFEkyDTh7UG=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMH52vLTG74jjCa-vmniEn2_Wj21EbgW3r_Eq8G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPB4X76xxD2qULd941GY_uB2mq53_ZHXbQPl66O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPB85p7FNf3G4ujGz1kijl6A55tzejojYJhQ_hD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMATWrdsltdHAHq_ES4csy_NlKz1MhTRO0tbfRn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOHDOeSfVW9BLTmEPpnzPJTpQBPQRWbfeqWkF8Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBK7jHPK1ED9yeSAU2Io5Lw8T13ErqR5pOinCn=s1600-w800-h800"
-        ]
+      "name": "Wat Phra Singh Woramahawihan",
+      "location": {
+        "lat": 18.7885265,
+        "lng": 98.9819946
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "2 Samlarn Rd, Tambon Phra Sing, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50280, Thailand",
+      "phone": "+66 53 416 027",
+      "website": "http://www.วัดพระสิงห์เชียงใหม่.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPR0-N37sDeHIEewIHJDX8eQ1t0bNx2qJI4cHrN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNVShSw1ipJXAXhCB-UTd_ja8VTgBpetVuzHXYA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPre4PpE5IM7n8vbe9d5pWZ74T-lVM5lUeHZGAz=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipM6_2ACawkEgTFw1R_8niopjMIQOzFEkyDTh7UG=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMH52vLTG74jjCa-vmniEn2_Wj21EbgW3r_Eq8G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPB4X76xxD2qULd941GY_uB2mq53_ZHXbQPl66O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPB85p7FNf3G4ujGz1kijl6A55tzejojYJhQ_hD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMATWrdsltdHAHq_ES4csy_NlKz1MhTRO0tbfRn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOHDOeSfVW9BLTmEPpnzPJTpQBPQRWbfeqWkF8Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBK7jHPK1ED9yeSAU2Io5Lw8T13ErqR5pOinCn=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJbyRKbps62jAR6VTNF-fZVpY",
+      "google_maps_url": "https://maps.google.com/?cid=10833085540246312169",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sint Win, Myanmar (Burma)",
-        "geometry": {
-          "location": {
-            "lat": 20.2653575,
-            "lng": 97.72400019999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 20.2667211302915,
-              "lng": 97.7252589802915
-            },
-            "southwest": {
-              "lat": 20.26402316970849,
-              "lng": 97.7225610197085
-            }
-          }
-        },
-        "name": "Pong Lao Monastery ဝတ်ႉပူင်းလၢဝ်း",
-        "place_id": "ChIJvckU7tkpzjARamQ0t-3nwm8",
-        "url": "https://maps.google.com/?cid=8053254091858797674",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Pong Lao Monastery ဝတ်ႉပူင်းလၢဝ်း",
+      "location": {
+        "lat": 20.2653575,
+        "lng": 97.72400019999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Sint Win, Myanmar (Burma)",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJvckU7tkpzjARamQ0t-3nwm8",
+      "google_maps_url": "https://maps.google.com/?cid=8053254091858797674",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Thanon Rop Mueang Nai, Tambon Nai Mueang, Amphoe Mueang Lamphun, Chang Wat Lamphun 51000, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.5771865,
-            "lng": 99.0082068
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.5784549302915,
-              "lng": 99.0097323802915
-            },
-            "southwest": {
-              "lat": 18.5757569697085,
-              "lng": 99.00703441970849
-            }
-          }
-        },
-        "international_phone_number": "+66 53 563 612",
-        "name": "Wat Phrathat Haripunchai Woramahawihan",
-        "place_id": "ChIJh2wJgVnN2zARI97T-HxC5l8",
-        "url": "https://maps.google.com/?cid=6910283782764617251",
-        "website": "https://www.facebook.com/watpratadhariphunchai/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPtoKVbQ-xWfTedLZn8a0wNn44d8pRJyr13pXRY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzYZXj-rdz8zEIuZlILyML50OWJFMptZs7eYMu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGTNYSGcEIfUKsnXDbpYPzrWwyvZmWbKouQBc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMCPHbyx8cu7kosvc7WVoBu7UrVT9TuSDqZ5xOX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjoWhCJKPlL7IRw1bMlwre9nvCjPQmn942pdph=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPl5IKy1DjjtYDNCqMV9-2iNOe_ekPZ7XjhiP_B=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNPnj9qdAwKX1C5nj8R5kE0_dxIMyWDqmy9zQRu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOr61HRXAFkP9ZaVD8OU9LfoNaO2eiyGz8wxkD0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVvgcFYTSlj8veZhPytqOgo7uea9uhENT0Y9D2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwenqkofwim1WYmN9vXC-X0nBxu2J7Jx7zWQe_=s1600-w800-h800"
-        ]
+      "name": "Wat Phrathat Haripunchai Woramahawihan",
+      "location": {
+        "lat": 18.5771865,
+        "lng": 99.0082068
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Thanon Rop Mueang Nai, Tambon Nai Mueang, Amphoe Mueang Lamphun, Chang Wat Lamphun 51000, Thailand",
+      "phone": "+66 53 563 612",
+      "website": "https://www.facebook.com/watpratadhariphunchai/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPtoKVbQ-xWfTedLZn8a0wNn44d8pRJyr13pXRY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzYZXj-rdz8zEIuZlILyML50OWJFMptZs7eYMu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGTNYSGcEIfUKsnXDbpYPzrWwyvZmWbKouQBc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMCPHbyx8cu7kosvc7WVoBu7UrVT9TuSDqZ5xOX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjoWhCJKPlL7IRw1bMlwre9nvCjPQmn942pdph=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPl5IKy1DjjtYDNCqMV9-2iNOe_ekPZ7XjhiP_B=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNPnj9qdAwKX1C5nj8R5kE0_dxIMyWDqmy9zQRu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOr61HRXAFkP9ZaVD8OU9LfoNaO2eiyGz8wxkD0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVvgcFYTSlj8veZhPytqOgo7uea9uhENT0Y9D2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwenqkofwim1WYmN9vXC-X0nBxu2J7Jx7zWQe_=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJh2wJgVnN2zARI97T-HxC5l8",
+      "google_maps_url": "https://maps.google.com/?cid=6910283782764617251",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "314 Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7886618,
-            "lng": 98.9956278
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7897195302915,
-              "lng": 98.9970140802915
-            },
-            "southwest": {
-              "lat": 18.7870215697085,
-              "lng": 98.9943161197085
-            }
-          }
-        },
-        "name": "Wat Chetawan",
-        "place_id": "ChIJFZXT8qM62jARqGGPpMblUws",
-        "url": "https://maps.google.com/?cid=816248598811337128",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOVriYVWR7if-WvBdJr7-kW-SmRS-OKAO_2C47O=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMt7_r52k_iJl9cQq4d0UGKyzfaTdwHmoD9PwkQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvtR6tQdT1vcSLQdSxJhT-KnvbcfFQ62yZrFTz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAJ_a0wAuQf52WoAQbg5Diy914DFyHfeCW5z1C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOA7ghoXXQUdeeyYlT26dyH87kp5TkBqfGugikn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKCXweqfYuF0LjVQLvlb-Oydp0PVJldmH-x8wO=s1600-w450-h674",
-          "https://lh3.googleusercontent.com/p/AF1QipPE7uMUw1wTcoR9eGMmT-bRRSx1zV5-GKtJ_7GD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOFGcC020Vmr7c_GXiKLKa3AS_9xuJIRLjBkShl=s1600-w450-h674",
-          "https://lh3.googleusercontent.com/p/AF1QipOp2uVdKVY_EXeA1_uzEmX1T8ITEfzPCdTMfXik=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOmAwlB1CGzi3iF3tt48ljpjVZKUEjiBrfLXbS=s1600-w746-h800"
-        ]
+      "name": "Wat Chetawan",
+      "location": {
+        "lat": 18.7886618,
+        "lng": 98.9956278
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "314 Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOVriYVWR7if-WvBdJr7-kW-SmRS-OKAO_2C47O=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMt7_r52k_iJl9cQq4d0UGKyzfaTdwHmoD9PwkQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvtR6tQdT1vcSLQdSxJhT-KnvbcfFQ62yZrFTz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAJ_a0wAuQf52WoAQbg5Diy914DFyHfeCW5z1C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOA7ghoXXQUdeeyYlT26dyH87kp5TkBqfGugikn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKCXweqfYuF0LjVQLvlb-Oydp0PVJldmH-x8wO=s1600-w450-h674",
+        "https://lh3.googleusercontent.com/p/AF1QipPE7uMUw1wTcoR9eGMmT-bRRSx1zV5-GKtJ_7GD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOFGcC020Vmr7c_GXiKLKa3AS_9xuJIRLjBkShl=s1600-w450-h674",
+        "https://lh3.googleusercontent.com/p/AF1QipOp2uVdKVY_EXeA1_uzEmX1T8ITEfzPCdTMfXik=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOmAwlB1CGzi3iF3tt48ljpjVZKUEjiBrfLXbS=s1600-w746-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJFZXT8qM62jARqGGPpMblUws",
+      "google_maps_url": "https://maps.google.com/?cid=816248598811337128",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Wua Lai Rd, Tambon Hai Ya, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.778762,
-            "lng": 98.983679
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7800994802915,
-              "lng": 98.9850277802915
-            },
-            "southwest": {
-              "lat": 18.7774015197085,
-              "lng": 98.9823298197085
-            }
-          }
-        },
-        "international_phone_number": "+66 53 274 705",
-        "name": "Wat Sri Suphan",
-        "place_id": "ChIJ81yeUHYw2jARY_cUFjY3Yxk",
-        "url": "https://maps.google.com/?cid=1829366579080787811",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNomGphyQQ9eoMh5bi68iPEoOn71e-Sb0Vf0-BZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAJ8HSiAaWYUL5fxdCt0KWFRaqsmX5w_M6E5V1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSWVlVE9lGQ8Q4WaHpiHKX-h53K2ap1a1adh7q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHEo54ghGyfHQuaC1Ujab2IaVWcpiaorYh6Tbz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM-xPETZMsrrDZ_H_F_kvdjYNWeGQub5lMCHwmX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTGATWk8UWjWewnhQcSDa8hl6xJPJWLFr9El11=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZldu8dlwaZKHa0Pn2vsMD3mpcU87bwNurohX8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNEvVo3e9Dl06k8QixRDFzh3hKQCnnKqyY93-ri=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMIoiU8MK-y2opGE4lJtTY9SCrQDUquvleZ8TLt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNgncpZGfrF5zR2VDVuWrJ9CzgRHGNlwCIKElYy=s1600-w800-h800"
-        ]
+      "name": "Wat Sri Suphan",
+      "location": {
+        "lat": 18.778762,
+        "lng": 98.983679
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Wua Lai Rd, Tambon Hai Ya, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100, Thailand",
+      "phone": "+66 53 274 705",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNomGphyQQ9eoMh5bi68iPEoOn71e-Sb0Vf0-BZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAJ8HSiAaWYUL5fxdCt0KWFRaqsmX5w_M6E5V1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSWVlVE9lGQ8Q4WaHpiHKX-h53K2ap1a1adh7q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHEo54ghGyfHQuaC1Ujab2IaVWcpiaorYh6Tbz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM-xPETZMsrrDZ_H_F_kvdjYNWeGQub5lMCHwmX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTGATWk8UWjWewnhQcSDa8hl6xJPJWLFr9El11=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZldu8dlwaZKHa0Pn2vsMD3mpcU87bwNurohX8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNEvVo3e9Dl06k8QixRDFzh3hKQCnnKqyY93-ri=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMIoiU8MK-y2opGE4lJtTY9SCrQDUquvleZ8TLt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNgncpZGfrF5zR2VDVuWrJ9CzgRHGNlwCIKElYy=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ81yeUHYw2jARY_cUFjY3Yxk",
+      "google_maps_url": "https://maps.google.com/?cid=1829366579080787811",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Nam Lut, Myanmar (Burma)",
-        "geometry": {
-          "location": {
-            "lat": 20.1639382,
-            "lng": 97.69100569999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 20.1652899302915,
-              "lng": 97.69224133029151
-            },
-            "southwest": {
-              "lat": 20.1625919697085,
-              "lng": 97.68954336970849
-            }
-          }
-        },
-        "name": "Nam Lot Monastery ဝတ်ႉၼမ်ႉလွတ်ႇ",
-        "place_id": "ChIJoxEDS1otzjARUlK1980Rfg4",
-        "url": "https://maps.google.com/?cid=1044291739918357074",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Nam Lot Monastery ဝတ်ႉၼမ်ႉလွတ်ႇ",
+      "location": {
+        "lat": 20.1639382,
+        "lng": 97.69100569999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Nam Lut, Myanmar (Burma)",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJoxEDS1otzjARUlK1980Rfg4",
+      "google_maps_url": "https://maps.google.com/?cid=1044291739918357074",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "ဘားအံ, Myanmar (Burma)",
-        "geometry": {
-          "location": {
-            "lat": 16.8586043,
-            "lng": 97.9971198
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 16.8600522802915,
-              "lng": 97.99842883029149
-            },
-            "southwest": {
-              "lat": 16.8573543197085,
-              "lng": 97.99573086970848
-            }
-          }
-        },
-        "international_phone_number": "+95 9 264 560 008",
-        "name": "Naung Mya Hlwe Monastery",
-        "place_id": "ChIJp0mHnC463TARYsyi0Q1mnm8",
-        "url": "https://maps.google.com/?cid=8042978194067999842",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO-cm7HnaJlGZHxEps0RJPxqICjIK2nmz1kovI2=s1600-w720-h540",
-          "https://lh3.googleusercontent.com/p/AF1QipNHX42vew1QzLE4z7-YGJGAd4t_gY2i0clg_XY6=s1600-w800-h800"
-        ]
+      "name": "Naung Mya Hlwe Monastery",
+      "location": {
+        "lat": 16.8586043,
+        "lng": 97.9971198
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "ဘားအံ, Myanmar (Burma)",
+      "phone": "+95 9 264 560 008",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO-cm7HnaJlGZHxEps0RJPxqICjIK2nmz1kovI2=s1600-w720-h540",
+        "https://lh3.googleusercontent.com/p/AF1QipNHX42vew1QzLE4z7-YGJGAd4t_gY2i0clg_XY6=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJp0mHnC463TARYsyi0Q1mnm8",
+      "google_maps_url": "https://maps.google.com/?cid=8042978194067999842",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Chang Moi Kao Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7895324,
-            "lng": 98.99460119999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7909224802915,
-              "lng": 98.9958473802915
-            },
-            "southwest": {
-              "lat": 18.7882245197085,
-              "lng": 98.99314941970849
-            }
-          }
-        },
-        "international_phone_number": "+66 53 234 210",
-        "name": "Wat Ou Sai Kham",
-        "place_id": "ChIJ6f2SD6M62jARLRi9QCMOCI0",
-        "url": "https://maps.google.com/?cid=10162388103734302765",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNsCVLWi9lsV7b7nW8kjXaRN7vZtrdmwfWQce8U=s1600-w657-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNIDfcktW0rnO2QMry_crjk_qtxDTz64iK-L2gZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOELOFPRoEchFfZNQT7wolf51TXUD61sqVVVZda=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOLoaad7SyOGXGSi4C05zzIAZ5SU1B0gY6lHLBr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN94T-HTgU8nzznSbLQcn9f9sMVL_WYIb87-pSb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNa45Yx-xyfnAL7Muw2RtiWaWoIU3kwJTVBsWr9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMWofeOhEpGNI-dRESKLH-I4BokrMK-17eoCuwB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtInyCp20AcokbcuLHs0Hp3Gzrsk770wNRvE00=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6yNyvMk0tkCHXKPzqcZxL00QAd6rpxAqXlnA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9vT0ClcVb_etsLsZkNBZlCFVlfzLvRMxf1HDL=s1600-w800-h800"
-        ]
+      "name": "Wat Ou Sai Kham",
+      "location": {
+        "lat": 18.7895324,
+        "lng": 98.99460119999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Chang Moi Kao Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand",
+      "phone": "+66 53 234 210",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNsCVLWi9lsV7b7nW8kjXaRN7vZtrdmwfWQce8U=s1600-w657-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNIDfcktW0rnO2QMry_crjk_qtxDTz64iK-L2gZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOELOFPRoEchFfZNQT7wolf51TXUD61sqVVVZda=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOLoaad7SyOGXGSi4C05zzIAZ5SU1B0gY6lHLBr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN94T-HTgU8nzznSbLQcn9f9sMVL_WYIb87-pSb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNa45Yx-xyfnAL7Muw2RtiWaWoIU3kwJTVBsWr9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMWofeOhEpGNI-dRESKLH-I4BokrMK-17eoCuwB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtInyCp20AcokbcuLHs0Hp3Gzrsk770wNRvE00=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6yNyvMk0tkCHXKPzqcZxL00QAd6rpxAqXlnA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9vT0ClcVb_etsLsZkNBZlCFVlfzLvRMxf1HDL=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ6f2SD6M62jARLRi9QCMOCI0",
+      "google_maps_url": "https://maps.google.com/?cid=10162388103734302765",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "188 Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7891161,
-            "lng": 98.9986917
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7903542302915,
-              "lng": 99.00002633029149
-            },
-            "southwest": {
-              "lat": 18.7876562697085,
-              "lng": 98.99732836970848
-            }
-          }
-        },
-        "international_phone_number": "+66 53 234 393",
-        "name": "Wat Saen Fang",
-        "place_id": "ChIJUfLCVKQ62jARngmMOYHugCA",
-        "url": "https://maps.google.com/?cid=2342134045016328606",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMHMVlbcYwylCFZjcQFy8Elp9YfqMHhTl4elndI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNLm5LoKX2Wq5MiyItSDrtvywKfu6Qeg0e9U_bd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNdgcu82WN-_zMvro2TDRdFh9tn0J49GAUzb1-I=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmN0vmkBxcR6ndWfxh3sgeFwYeYGPTlqmcUvvb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNK3QfZtnk4UKonQzLjVFanjAINhsCYta7BNTXu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPATnUTrmRcv8mqxphvvWlO2wPTNOyBiuUDZeus=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhYUPqoHS5QUvTL7d76FApBgq-HSo6-o5rRftR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0JlTs0W1hLd2Bfh4EiwwUrXSCJxQdI8kQcNDr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM24agllGoTblNClB0rcOW6rWZDHwc0K62UrTTX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNLIcgAeC24xGulBmMmkryZx27TpletZ_1P-rnJ=s1600-w800-h800"
-        ]
+      "name": "Wat Saen Fang",
+      "location": {
+        "lat": 18.7891161,
+        "lng": 98.9986917
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "188 Thapae Rd, Tambon Chang Moi, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50300, Thailand",
+      "phone": "+66 53 234 393",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMHMVlbcYwylCFZjcQFy8Elp9YfqMHhTl4elndI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNLm5LoKX2Wq5MiyItSDrtvywKfu6Qeg0e9U_bd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNdgcu82WN-_zMvro2TDRdFh9tn0J49GAUzb1-I=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmN0vmkBxcR6ndWfxh3sgeFwYeYGPTlqmcUvvb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNK3QfZtnk4UKonQzLjVFanjAINhsCYta7BNTXu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPATnUTrmRcv8mqxphvvWlO2wPTNOyBiuUDZeus=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhYUPqoHS5QUvTL7d76FApBgq-HSo6-o5rRftR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0JlTs0W1hLd2Bfh4EiwwUrXSCJxQdI8kQcNDr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM24agllGoTblNClB0rcOW6rWZDHwc0K62UrTTX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNLIcgAeC24xGulBmMmkryZx27TpletZ_1P-rnJ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJUfLCVKQ62jARngmMOYHugCA",
+      "google_maps_url": "https://maps.google.com/?cid=2342134045016328606",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Hpa-An, Myanmar (Burma)",
-        "geometry": {
-          "location": {
-            "lat": 16.7552698,
-            "lng": 97.59381520000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 16.7569293802915,
-              "lng": 97.5951436302915
-            },
-            "southwest": {
-              "lat": 16.7542314197085,
-              "lng": 97.5924456697085
-            }
-          }
-        },
-        "name": "Old Wep Gyi Monastery",
-        "place_id": "ChIJ_aLV8hO4wjARDpOaGR0751o",
-        "url": "https://maps.google.com/?cid=6550269179203326734",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPgPkwMtbTjbIsuKF9IVcDUeL3XhIgZfnzQPab4=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpDGPemm8o8AgHRMjJpltQMmTwxOiQ69YEeCvo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmSQ_RxrQkBJnB6e0GTNnBI_mC3He2kPhI5c4J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4gckDkhGY8llrq6xiQy8jPtf7FZ4S7JiiOqou=s1600-w540-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipMGq9qe11eBnJVs3cRq45H9aOAd7Z6FXlo-LaKR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHREwKnud40Wuz1CbbAI1l0xgbNNnYPvXVtZBk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMkH-4bAqzhEhzUH9b3dNg3rQcPWeF3i2NCAAuz=s1600-w540-h720"
-        ]
+      "name": "Old Wep Gyi Monastery",
+      "location": {
+        "lat": 16.7552698,
+        "lng": 97.59381520000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Hpa-An, Myanmar (Burma)",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPgPkwMtbTjbIsuKF9IVcDUeL3XhIgZfnzQPab4=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpDGPemm8o8AgHRMjJpltQMmTwxOiQ69YEeCvo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmSQ_RxrQkBJnB6e0GTNnBI_mC3He2kPhI5c4J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4gckDkhGY8llrq6xiQy8jPtf7FZ4S7JiiOqou=s1600-w540-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipMGq9qe11eBnJVs3cRq45H9aOAd7Z6FXlo-LaKR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHREwKnud40Wuz1CbbAI1l0xgbNNnYPvXVtZBk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMkH-4bAqzhEhzUH9b3dNg3rQcPWeF3i2NCAAuz=s1600-w540-h720"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ_aLV8hO4wjARDpOaGR0751o",
+      "google_maps_url": "https://maps.google.com/?cid=6550269179203326734",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Pitaka, Myanmar (Burma)",
-        "geometry": {
-          "location": {
-            "lat": 16.8749277,
-            "lng": 98.08832629999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 16.8762766802915,
-              "lng": 98.0896752802915
-            },
-            "southwest": {
-              "lat": 16.8735787197085,
-              "lng": 98.0869773197085
-            }
-          }
-        },
-        "name": "PitakaTarkara Monastery",
-        "place_id": "ChIJmcSQySw93TARWFs4hCXQmEs",
-        "url": "https://maps.google.com/?cid=5447332608855268184",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOGG0_SkrmWROdxKiGm_QM5lCG1MYJulHj7DMEq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMVt_xQ1zfpxdifOENrn7xDPYu__ri3TuFv8hFF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMrqrG9wbCJV8QTvXTsDzxyMuxvenjEpwD0UcLA=s1600-w800-h800"
-        ]
+      "name": "PitakaTarkara Monastery",
+      "location": {
+        "lat": 16.8749277,
+        "lng": 98.08832629999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Pitaka, Myanmar (Burma)",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOGG0_SkrmWROdxKiGm_QM5lCG1MYJulHj7DMEq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMVt_xQ1zfpxdifOENrn7xDPYu__ri3TuFv8hFF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMrqrG9wbCJV8QTvXTsDzxyMuxvenjEpwD0UcLA=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJmcSQySw93TARWFs4hCXQmEs",
+      "google_maps_url": "https://maps.google.com/?cid=5447332608855268184",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "199 19 moo 2 Baan luang Chom Tong Tambon Ban Luang, Amphoe Chom Thong, Chang Wat Chiang Mai 50160, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.4206328,
-            "lng": 98.68174599999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.42194913029151,
-              "lng": 98.68309548029151
-            },
-            "southwest": {
-              "lat": 18.4192511697085,
-              "lng": 98.68039751970849
-            }
-          }
-        },
-        "international_phone_number": "+66 89 700 7129",
-        "name": "International Vipassana Meditation Centre at Wat Phradat Sri Chomtong",
-        "place_id": "ChIJp98YzAqw2zARXZ6788Bgq2M",
-        "url": "https://maps.google.com/?cid=7181940412611534429",
-        "website": "https://www.northernvipassana.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNyhFz22MTnPUOAuY2qJ3qOW4rNw5CsoCWAr9aM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtaso7Bogv9o6cBnE1hBahGW0aVZnsm-MkGucr=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP__2eSt4xnh6ZOmDUIaBKlMf7KdCROqry__mRd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNkEzzSUOraD0ap9WtRbeuLjlQjxd-VvtXlVfpp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMb1IyzZfQ9EQoaeog7B0WrQl0UGW1KqGcxzltO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM35xeHo1r654IGnlV3hl7xKebQT6Iaipr0wFWE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPQXZZ-TuqzQ42JsYBhI9ugnQ9T0-6G9QYSNUyC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMRS1vNBQH9wu4pLLoRl5-aESSGgH6qwPCdmlpE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGiYP4n1fat-RNK17vIjE8sPAfS7fiH0ZXXd5r=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOrONxIbSeFb53JEhO-Pag1HvjNwP2FzyBsR5Px=s1600-w800-h800"
-        ]
+      "name": "International Vipassana Meditation Centre at Wat Phradat Sri Chomtong",
+      "location": {
+        "lat": 18.4206328,
+        "lng": 98.68174599999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "199 19 moo 2 Baan luang Chom Tong Tambon Ban Luang, Amphoe Chom Thong, Chang Wat Chiang Mai 50160, Thailand",
+      "phone": "+66 89 700 7129",
+      "website": "https://www.northernvipassana.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNyhFz22MTnPUOAuY2qJ3qOW4rNw5CsoCWAr9aM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtaso7Bogv9o6cBnE1hBahGW0aVZnsm-MkGucr=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP__2eSt4xnh6ZOmDUIaBKlMf7KdCROqry__mRd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNkEzzSUOraD0ap9WtRbeuLjlQjxd-VvtXlVfpp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMb1IyzZfQ9EQoaeog7B0WrQl0UGW1KqGcxzltO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM35xeHo1r654IGnlV3hl7xKebQT6Iaipr0wFWE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPQXZZ-TuqzQ42JsYBhI9ugnQ9T0-6G9QYSNUyC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMRS1vNBQH9wu4pLLoRl5-aESSGgH6qwPCdmlpE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGiYP4n1fat-RNK17vIjE8sPAfS7fiH0ZXXd5r=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOrONxIbSeFb53JEhO-Pag1HvjNwP2FzyBsR5Px=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJp98YzAqw2zARXZ6788Bgq2M",
+      "google_maps_url": "https://maps.google.com/?cid=7181940412611534429",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Moo 7, Tambon Chaiya Sathan, Amphoe Saraphi, Chiang Mai, 50140, ตำบล ไชยสถาน อำเภอ สารภี เชียงใหม่ 50130, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.750767,
-            "lng": 99.039801
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7521887302915,
-              "lng": 99.0411637802915
-            },
-            "southwest": {
-              "lat": 18.7494907697085,
-              "lng": 99.03846581970849
-            }
-          }
-        },
-        "international_phone_number": "+66 65 759 9534",
-        "name": "Wat Chiang Khang",
-        "place_id": "ChIJqwldl74v2jARSAB2t2v0rU8",
-        "url": "https://maps.google.com/?cid=5741513843443892296",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOzeTCW6PIK09FFDp3FKPDpVvXbUHOwV6ngwF1q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMODA5BIUrmeyGmo1TI_ujzrCJuBELa-hIII3q5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOO8_63tt7_9PwnpFXOqBxh7lOkfN4Z8qWIGzgk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtzpoA8dbuxwXmkuz6kTEvdnloyPh0COj4d0DJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMlA2uDCHBFu7WTjsxw3AAeuEusEV0_Zgnxf_jE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLbx9pEH9frc_IzTNB1R26xs9agLGPS73Vddkg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtpZz9jEy0G-RRyWkdPdUie3jtJB9wMYoburtD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOtq3Jr8aHPzmR5vSvzYoQyq1EgxS_z8Sna3h-R=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPz5k_0TYOaRv-TwHCvgGMWV3VDInmMo4E0K5-w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2zmHsnyB0cMlzLynEoMMeoBfgPGPf-k6vGRQV=s1600-w800-h800"
-        ]
+      "name": "Wat Chiang Khang",
+      "location": {
+        "lat": 18.750767,
+        "lng": 99.039801
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Moo 7, Tambon Chaiya Sathan, Amphoe Saraphi, Chiang Mai, 50140, ตำบล ไชยสถาน อำเภอ สารภี เชียงใหม่ 50130, Thailand",
+      "phone": "+66 65 759 9534",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOzeTCW6PIK09FFDp3FKPDpVvXbUHOwV6ngwF1q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMODA5BIUrmeyGmo1TI_ujzrCJuBELa-hIII3q5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOO8_63tt7_9PwnpFXOqBxh7lOkfN4Z8qWIGzgk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtzpoA8dbuxwXmkuz6kTEvdnloyPh0COj4d0DJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMlA2uDCHBFu7WTjsxw3AAeuEusEV0_Zgnxf_jE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLbx9pEH9frc_IzTNB1R26xs9agLGPS73Vddkg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtpZz9jEy0G-RRyWkdPdUie3jtJB9wMYoburtD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOtq3Jr8aHPzmR5vSvzYoQyq1EgxS_z8Sna3h-R=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPz5k_0TYOaRv-TwHCvgGMWV3VDInmMo4E0K5-w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2zmHsnyB0cMlzLynEoMMeoBfgPGPf-k6vGRQV=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqwldl74v2jARSAB2t2v0rU8",
+      "google_maps_url": "https://maps.google.com/?cid=5741513843443892296",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "บ้านห้วยผาลาด 101, ถนน ศรีวิชัย ตำบลสุเทพ อำเภอเมืองเชียงใหม่ เชียงใหม่ 50200, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7993968,
-            "lng": 98.9341468
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.8019111,
-              "lng": 98.93525398029152
-            },
-            "southwest": {
-              "lat": 18.7985587,
-              "lng": 98.93255601970851
-            }
-          }
-        },
-        "name": "Wat Pha Lat",
-        "place_id": "ChIJ66D0IBo62jARiGi7NFub710",
-        "url": "https://maps.google.com/?cid=6768799580990171272",
-        "website": "https://citystour.com/2019/08/15/wat-pha-lat/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOFxmPzeizetAtjfRMQRhXFHZgUaPBCRMZEwJm9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN396Hzuk-h_MCf5xLTTg6aGQoJvxnWwR5gbUC_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-Pz-TKENRwFBOmGXcb7YsRrlraA_zZq791En-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6M64Nfw-j_baD0J4tqy9l-IzAh5reEIHUiVsU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPICMPkeAh8Lh29qz8IdnXjzBmfoaBuFc6wm77y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM5avLGje0EnqmCKFOSyx-Pnzx8CfW9EDcrJyWj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxZa6lqu-jLqPQeLXWm4qJVVK7RTE-agYSXhtD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM7rWJd3vZo2qjBcPYPjyff_-LIHx6ICZUXPw90=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPAD_dqSHT4A-QM8mWRbgs4i63O90gq-yh0cddK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKOZgYDNpwPCqsEfrY2oqimC0o7xjdH4iFKKzT=s1600-w800-h800"
-        ]
+      "name": "Wat Pha Lat",
+      "location": {
+        "lat": 18.7993968,
+        "lng": 98.9341468
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "บ้านห้วยผาลาด 101, ถนน ศรีวิชัย ตำบลสุเทพ อำเภอเมืองเชียงใหม่ เชียงใหม่ 50200, Thailand",
+      "website": "https://citystour.com/2019/08/15/wat-pha-lat/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOFxmPzeizetAtjfRMQRhXFHZgUaPBCRMZEwJm9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN396Hzuk-h_MCf5xLTTg6aGQoJvxnWwR5gbUC_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-Pz-TKENRwFBOmGXcb7YsRrlraA_zZq791En-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6M64Nfw-j_baD0J4tqy9l-IzAh5reEIHUiVsU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPICMPkeAh8Lh29qz8IdnXjzBmfoaBuFc6wm77y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM5avLGje0EnqmCKFOSyx-Pnzx8CfW9EDcrJyWj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxZa6lqu-jLqPQeLXWm4qJVVK7RTE-agYSXhtD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM7rWJd3vZo2qjBcPYPjyff_-LIHx6ICZUXPw90=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPAD_dqSHT4A-QM8mWRbgs4i63O90gq-yh0cddK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKOZgYDNpwPCqsEfrY2oqimC0o7xjdH4iFKKzT=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ66D0IBo62jARiGi7NFub710",
+      "google_maps_url": "https://maps.google.com/?cid=6768799580990171272",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1 หมู่ 5 ถนนคัน ถนนคลองชลประทาน Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.77464,
-            "lng": 98.94855609999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7759353802915,
-              "lng": 98.95020663029149
-            },
-            "southwest": {
-              "lat": 18.77323741970849,
-              "lng": 98.94750866970848
-            }
-          }
-        },
-        "international_phone_number": "+66 53 278 620",
-        "name": "Wat Ram Poeng (Tapotaram)",
-        "place_id": "ChIJJSA3wJkw2jARDra7e8pAVN8",
-        "url": "https://maps.google.com/?cid=16092558606905095694",
-        "website": "http://www.watrampoeng.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNPxD9PypLHROzEofZRA-FWPvazuh9gZSR8p1sD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM5U-M3QgRF0nXjuK2ybaQOffCiPxUhJ8KpbY1-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9au-eBs8zofN2dGOSZ10IlITS4PkrwukPerFj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMCce4gVz6n02-BeoB8aR36MTESbyhBv9XPiP9p=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBmJZBzzQfBkZB67Ud0rjS64JQh_27z_X9sGxD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMMfdmvVLHtrEYpF4Ta8Kd3eABjJrR0a2uUwd2v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMpuJ4sHaZPMrde5x39HC2qv4t16wu2C6w0sYet=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM35DzTyNnR8UrDFBSHLIFY-sCRgxMintLrL7nS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPNSqTFw1O9uEnz0vps1M20CDXiIFo5VeOl2kxc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNI9mIWipGk4EmjL1Oz9wkJTcEJEMaYQ7DAaAxa=s1600-w800-h800"
-        ]
+      "name": "Wat Ram Poeng (Tapotaram)",
+      "location": {
+        "lat": 18.77464,
+        "lng": 98.94855609999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "1 หมู่ 5 ถนนคัน ถนนคลองชลประทาน Tambon Su Thep, Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50200, Thailand",
+      "phone": "+66 53 278 620",
+      "website": "http://www.watrampoeng.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNPxD9PypLHROzEofZRA-FWPvazuh9gZSR8p1sD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM5U-M3QgRF0nXjuK2ybaQOffCiPxUhJ8KpbY1-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9au-eBs8zofN2dGOSZ10IlITS4PkrwukPerFj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMCce4gVz6n02-BeoB8aR36MTESbyhBv9XPiP9p=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBmJZBzzQfBkZB67Ud0rjS64JQh_27z_X9sGxD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMMfdmvVLHtrEYpF4Ta8Kd3eABjJrR0a2uUwd2v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMpuJ4sHaZPMrde5x39HC2qv4t16wu2C6w0sYet=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM35DzTyNnR8UrDFBSHLIFY-sCRgxMintLrL7nS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPNSqTFw1O9uEnz0vps1M20CDXiIFo5VeOl2kxc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNI9mIWipGk4EmjL1Oz9wkJTcEJEMaYQ7DAaAxa=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJJSA3wJkw2jARDra7e8pAVN8",
+      "google_maps_url": "https://maps.google.com/?cid=16092558606905095694",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1/3 Singharat Rd, ตำบล ศรีภูมิ อำเภอ เมืองเชียงใหม่ Chang Wat Chiang Mai 50200, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.7896107,
-            "lng": 98.9822416
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.7909729802915,
-              "lng": 98.98369508029151
-            },
-            "southwest": {
-              "lat": 18.7882750197085,
-              "lng": 98.98099711970849
-            }
-          }
-        },
-        "international_phone_number": "+66 53 210 962",
-        "name": "Wat Pha Bong (Mank Kalaram)",
-        "place_id": "ChIJL-GiBps62jAR__o_sFJwUrY",
-        "url": "https://maps.google.com/?cid=13137686563439770367",
-        "website": "http://culture.mome.co/watphabong/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPbxzgopBuucvoaNreJtC2alsjFeatvXnhubBsz=s1600-w550-h367",
-          "https://lh3.googleusercontent.com/p/AF1QipP2sitZ_a1BTrpkFEMeR2idjh7Y3kzD4a77k-Rm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHgn6UgyeRxdaxrjqMsYpdQTBchCHnGMRZ5uJ9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSlhRbt-J02Ga8v8PVd8QK9lBOgt6FveKKCAGU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNbfjMxr6xrr0FhNV5hDafMxTJaqCRWY1ePU-SP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoJeeQXiE_6efG__ZGa7g6sTvAFK_W4-gt0oHj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNaEeUAs1pO1GG6AJYlxetpUgytTCflL_zy_uEz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOkAXjRrqqnOrjoRAFkK5XSpxQIP3DoETvAdb4F=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKHGIT4b2YEBQ3I2Hy5F-q5D-bWnQC5UtsSSfD=s1600-w768-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmIprPNqfTq4-9yeBCR8UX_OUqp2pAVPZ7W9ge=s1600-w800-h800"
-        ]
+      "name": "Wat Pha Bong (Mank Kalaram)",
+      "location": {
+        "lat": 18.7896107,
+        "lng": 98.9822416
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "1/3 Singharat Rd, ตำบล ศรีภูมิ อำเภอ เมืองเชียงใหม่ Chang Wat Chiang Mai 50200, Thailand",
+      "phone": "+66 53 210 962",
+      "website": "http://culture.mome.co/watphabong/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPbxzgopBuucvoaNreJtC2alsjFeatvXnhubBsz=s1600-w550-h367",
+        "https://lh3.googleusercontent.com/p/AF1QipP2sitZ_a1BTrpkFEMeR2idjh7Y3kzD4a77k-Rm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHgn6UgyeRxdaxrjqMsYpdQTBchCHnGMRZ5uJ9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSlhRbt-J02Ga8v8PVd8QK9lBOgt6FveKKCAGU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNbfjMxr6xrr0FhNV5hDafMxTJaqCRWY1ePU-SP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoJeeQXiE_6efG__ZGa7g6sTvAFK_W4-gt0oHj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNaEeUAs1pO1GG6AJYlxetpUgytTCflL_zy_uEz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOkAXjRrqqnOrjoRAFkK5XSpxQIP3DoETvAdb4F=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKHGIT4b2YEBQ3I2Hy5F-q5D-bWnQC5UtsSSfD=s1600-w768-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmIprPNqfTq4-9yeBCR8UX_OUqp2pAVPZ7W9ge=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJL-GiBps62jAR__o_sFJwUrY",
+      "google_maps_url": "https://maps.google.com/?cid=13137686563439770367",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "127 6 Tambon Doi Kaeo, Amphoe Chom Thong, Chang Wat Chiang Mai 50160, Thailand",
-        "geometry": {
-          "location": {
-            "lat": 18.4107902,
-            "lng": 98.65671499999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 18.4119425302915,
-              "lng": 98.6580408302915
-            },
-            "southwest": {
-              "lat": 18.40924456970849,
-              "lng": 98.65534286970849
-            }
-          }
-        },
-        "international_phone_number": "+66 95 656 0603",
-        "name": "Wat Nirotharam",
-        "place_id": "ChIJ9TjdT1Kl2zARPj7dSTu9R68",
-        "url": "https://maps.google.com/?cid=12630271742323801662",
-        "website": "http://www.nirotharam.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOGC9OhwIqActzjhj-ih3lVtrudz4mRuofHZUjy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdoXx3enYoYSrxDWGmAQMX7ySj7MRSx0mYFqo-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNeyNhzwWI4-b5GGifGlqibIe-WRE-XXutQcTwO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNKxuwBYrp9PWx1acq1OSMVHZByX_OO0ef33oVR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPjp2jfCoeDVXPb7jRm2v2Io5A5ldGmueH_UY2w=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPD-oYTUgxsesKx1l4nHLK3iUrHJm3SY3-tew1-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMIq9zoTrEJ5DlXzV50ZICkRVSMTIjgzoZ-bkBj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZsawbvKFdjkHqpaT-cpNDimgDzmfhBrA2zwY2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqMTCn766_ZXDDg7cNCjSEI2ms63waXGLpHCAv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpWG1T4Irc526ahg_R94cWfZsXuQFfx3B0v8XB=s1600-w800-h800"
-        ]
+      "name": "Wat Nirotharam",
+      "location": {
+        "lat": 18.4107902,
+        "lng": 98.65671499999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "127 6 Tambon Doi Kaeo, Amphoe Chom Thong, Chang Wat Chiang Mai 50160, Thailand",
+      "phone": "+66 95 656 0603",
+      "website": "http://www.nirotharam.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOGC9OhwIqActzjhj-ih3lVtrudz4mRuofHZUjy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdoXx3enYoYSrxDWGmAQMX7ySj7MRSx0mYFqo-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNeyNhzwWI4-b5GGifGlqibIe-WRE-XXutQcTwO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNKxuwBYrp9PWx1acq1OSMVHZByX_OO0ef33oVR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPjp2jfCoeDVXPb7jRm2v2Io5A5ldGmueH_UY2w=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPD-oYTUgxsesKx1l4nHLK3iUrHJm3SY3-tew1-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMIq9zoTrEJ5DlXzV50ZICkRVSMTIjgzoZ-bkBj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZsawbvKFdjkHqpaT-cpNDimgDzmfhBrA2zwY2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqMTCn766_ZXDDg7cNCjSEI2ms63waXGLpHCAv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpWG1T4Irc526ahg_R94cWfZsXuQFfx3B0v8XB=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ9TjdT1Kl2zARPj7dSTu9R68",
+      "google_maps_url": "https://maps.google.com/?cid=12630271742323801662",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Sunkidi, Tamsi, Telangana 504312, India",
-        "geometry": {
-          "location": {
-            "lat": 19.681715,
-            "lng": 78.4052517
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 19.6831000302915,
-              "lng": 78.4066233802915
-            },
-            "southwest": {
-              "lat": 19.6804020697085,
-              "lng": 78.4039254197085
-            }
-          }
-        },
-        "international_phone_number": "+91 93989 11933",
-        "name": "Maha dhyan bhumi mahavihar, Indosan Sogenji, Zen Buddhist Monastery",
-        "place_id": "ChIJZW1r1qhF0jsRmIjHgW7Y4q8",
-        "url": "https://maps.google.com/?cid=12673930270509336728",
-        "website": "http://onedropzen.org/community/india/indozan_sogenji",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPLi9pKYOkBudeWhhbyYKCxjR1EwN6eB4X04CTz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0J8M2G9ZR--pkw97cE-BIXCNQsfvibjXFScp6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM66AGSvheSnfX5N08JDS0FoinfLF9y3v1Ugqn9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOI_-B_HtfladqHklEnswL4HR9miQpjc_RqhLfJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN1DQWZLYWv8mU8SKQ1kcFqWy_xFar4DcGLtcnC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNI5GQTORQuSLYWz7uGVrFIc-Nug8yuQTM6-MC1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTG3cRMB_uh0ouV90EktRd1bXMfDUwX2mkjEwO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIXR3QEowYURvSs41-icJi2Me26uYD24SLX13i=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDP754TilJg7idipx2F1eS497MpwVY_jV9WKA2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOjeNG2-b8YU_zcoubEAgmS6T2NBtX7Nz4Pp68Z=s1600-w800-h800"
-        ]
+      "name": "Maha dhyan bhumi mahavihar, Indosan Sogenji, Zen Buddhist Monastery",
+      "location": {
+        "lat": 19.681715,
+        "lng": 78.4052517
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Sunkidi, Tamsi, Telangana 504312, India",
+      "phone": "+91 93989 11933",
+      "website": "http://onedropzen.org/community/india/indozan_sogenji",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPLi9pKYOkBudeWhhbyYKCxjR1EwN6eB4X04CTz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0J8M2G9ZR--pkw97cE-BIXCNQsfvibjXFScp6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM66AGSvheSnfX5N08JDS0FoinfLF9y3v1Ugqn9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOI_-B_HtfladqHklEnswL4HR9miQpjc_RqhLfJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN1DQWZLYWv8mU8SKQ1kcFqWy_xFar4DcGLtcnC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNI5GQTORQuSLYWz7uGVrFIc-Nug8yuQTM6-MC1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTG3cRMB_uh0ouV90EktRd1bXMfDUwX2mkjEwO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIXR3QEowYURvSs41-icJi2Me26uYD24SLX13i=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDP754TilJg7idipx2F1eS497MpwVY_jV9WKA2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOjeNG2-b8YU_zcoubEAgmS6T2NBtX7Nz4Pp68Z=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJZW1r1qhF0jsRmIjHgW7Y4q8",
+      "google_maps_url": "https://maps.google.com/?cid=12673930270509336728",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Umarsara, Yavatmal, Maharashtra 445002, India",
-        "geometry": {
-          "location": {
-            "lat": 20.3721355,
-            "lng": 78.1236563
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 20.3734875802915,
-              "lng": 78.12496513029151
-            },
-            "southwest": {
-              "lat": 20.3707896197085,
-              "lng": 78.12226716970851
-            }
-          }
-        },
-        "name": "Vishwashanti Buddhist Monastery",
-        "place_id": "ChIJhdqqcpfo0zsR4IbA2PUDUUg",
-        "url": "https://maps.google.com/?cid=5210950598282741472",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP7F6e9aouK96iBLRCmTonYbOfIDSbbenmNkcj5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPhqaqjrvPGA7TVmsH6iwbO2KJOmSTfJz4UXddF=s1600-w416-h738",
-          "https://lh3.googleusercontent.com/p/AF1QipN49sIjXauCPTwnIE3HYY9R2apoycGrZgHBD58-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrtbrcmIF5lc8Gd2vEqEQPHR6MMBCAlXJgiSnN=s1600-w452-h678",
-          "https://lh3.googleusercontent.com/p/AF1QipP0UVGZyqEZce2grxksxlx8FODkXBqIwrlFgbBV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN_49OgWw3YQFo8bo7LRaQcCwmXEsMj2JxnXuIT=s1600-w312-h442",
-          "https://lh3.googleusercontent.com/p/AF1QipNF6Y58Uou88lypD0cLasrg9TrQbDB2pH-jvfuU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO1l9Q37t81CpJNQ5Ybmo_RU7ft3zgJTFTg4sNl=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGEGNzqbQr_TMoP4-B76Qq8vzEbFKeOcCsA6fB=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6rWasSEVi_O2v0EqGw97tQ5RxaEklZJRmxMj_=s1600-w800-h800"
-        ]
+      "name": "Vishwashanti Buddhist Monastery",
+      "location": {
+        "lat": 20.3721355,
+        "lng": 78.1236563
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Umarsara, Yavatmal, Maharashtra 445002, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP7F6e9aouK96iBLRCmTonYbOfIDSbbenmNkcj5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPhqaqjrvPGA7TVmsH6iwbO2KJOmSTfJz4UXddF=s1600-w416-h738",
+        "https://lh3.googleusercontent.com/p/AF1QipN49sIjXauCPTwnIE3HYY9R2apoycGrZgHBD58-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrtbrcmIF5lc8Gd2vEqEQPHR6MMBCAlXJgiSnN=s1600-w452-h678",
+        "https://lh3.googleusercontent.com/p/AF1QipP0UVGZyqEZce2grxksxlx8FODkXBqIwrlFgbBV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN_49OgWw3YQFo8bo7LRaQcCwmXEsMj2JxnXuIT=s1600-w312-h442",
+        "https://lh3.googleusercontent.com/p/AF1QipNF6Y58Uou88lypD0cLasrg9TrQbDB2pH-jvfuU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO1l9Q37t81CpJNQ5Ybmo_RU7ft3zgJTFTg4sNl=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGEGNzqbQr_TMoP4-B76Qq8vzEbFKeOcCsA6fB=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6rWasSEVi_O2v0EqGw97tQ5RxaEklZJRmxMj_=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJhdqqcpfo0zsR4IbA2PUDUUg",
+      "google_maps_url": "https://maps.google.com/?cid=5210950598282741472",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "kishorsmruti ,ward no 4 , at post bhaurad, tq, Akola, Maharashtra 444002, India",
-        "geometry": {
-          "location": {
-            "lat": 20.7153565,
-            "lng": 76.9632574
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 20.7166796302915,
-              "lng": 76.96458223029151
-            },
-            "southwest": {
-              "lat": 20.7139816697085,
-              "lng": 76.96188426970849
-            }
-          }
-        },
-        "name": "Lumbini Buddhist monastery ( लुम्बिनी बौद्ध विहार )",
-        "place_id": "ChIJXX2tTAIx1zsR-xT7Xdz-VwI",
-        "url": "https://maps.google.com/?cid=168883733472679163",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Lumbini Buddhist monastery ( लुम्बिनी बौद्ध विहार )",
+      "location": {
+        "lat": 20.7153565,
+        "lng": 76.9632574
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "kishorsmruti ,ward no 4 , at post bhaurad, tq, Akola, Maharashtra 444002, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJXX2tTAIx1zsR-xT7Xdz-VwI",
+      "google_maps_url": "https://maps.google.com/?cid=168883733472679163",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Hivari, village, Yavatmal, Maharashtra 445105, India",
-        "geometry": {
-          "location": {
-            "lat": 20.2682275,
-            "lng": 78.0458833
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 20.2696105802915,
-              "lng": 78.0469872802915
-            },
-            "southwest": {
-              "lat": 20.26691261970849,
-              "lng": 78.0442893197085
-            }
-          }
-        },
-        "name": "Jetvan Buddha Vihara & Tourist Place",
-        "place_id": "ChIJ2RDjBbnd0zsR2MIVUUKi0s4",
-        "url": "https://maps.google.com/?cid=14903152522634314456",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNHAyTOsAcdwCUIMf7pblj2oCm15I_CNghubw96=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN8DLJoG3OQC4qxgY56QZRWGvTUWtTTeibd7f4E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN2iUyDTVkZ_UhagboJQMukTom-w4pyg1e_KO_L=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9GkZTvO8JKZ7y_XQ8aoG4vo6DYj0KZip5ZPty=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO4Xl1BGagXDG57NYZTMpkkaIdWTVRpnkoAvesN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-DsRGLEbSTISE8yhlcmYSZFrfxgeal9hxatM8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOh737XidUlc7VXkUiSOgDH6EXRYYXe2IMytTE2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP9GvGr8qiCA42JqWuBu1wT4EDCNdgndpEFRYVv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNC-Jd0_fGpwarKzDj-H3xgiZSJjbwWA0sWGmeO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOm0cvZYlT_1HvFkwam_U4SICtzQrRG124cad2G=s1600-w800-h800"
-        ]
+      "name": "Jetvan Buddha Vihara & Tourist Place",
+      "location": {
+        "lat": 20.2682275,
+        "lng": 78.0458833
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:17:33.388Z"
-      }
+      "address": "Hivari, village, Yavatmal, Maharashtra 445105, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNHAyTOsAcdwCUIMf7pblj2oCm15I_CNghubw96=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN8DLJoG3OQC4qxgY56QZRWGvTUWtTTeibd7f4E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN2iUyDTVkZ_UhagboJQMukTom-w4pyg1e_KO_L=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9GkZTvO8JKZ7y_XQ8aoG4vo6DYj0KZip5ZPty=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO4Xl1BGagXDG57NYZTMpkkaIdWTVRpnkoAvesN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-DsRGLEbSTISE8yhlcmYSZFrfxgeal9hxatM8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOh737XidUlc7VXkUiSOgDH6EXRYYXe2IMytTE2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP9GvGr8qiCA42JqWuBu1wT4EDCNdgndpEFRYVv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNC-Jd0_fGpwarKzDj-H3xgiZSJjbwWA0sWGmeO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOm0cvZYlT_1HvFkwam_U4SICtzQrRG124cad2G=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ2RDjBbnd0zsR2MIVUUKi0s4",
+      "google_maps_url": "https://maps.google.com/?cid=14903152522634314456",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Adarsh Colony, Bidar, Karnataka 585401, India",
-        "geometry": {
-          "location": {
-            "lat": 17.9148799,
-            "lng": 77.5046101
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 17.9161873302915,
-              "lng": 77.5059860802915
-            },
-            "southwest": {
-              "lat": 17.91348936970849,
-              "lng": 77.5032881197085
-            }
-          }
-        },
-        "name": "Buddha Vihara",
-        "place_id": "ChIJheta_ljHzjsRccbByXsO9fo",
-        "url": "https://maps.google.com/?cid=18083375803604780657",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Buddha Vihara",
+      "location": {
+        "lat": 17.9148799,
+        "lng": 77.5046101
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "Adarsh Colony, Bidar, Karnataka 585401, India",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJheta_ljHzjsRccbByXsO9fo",
+      "google_maps_url": "https://maps.google.com/?cid=18083375803604780657",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

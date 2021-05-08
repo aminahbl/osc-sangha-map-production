@@ -1,1418 +1,1113 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "13131 Old Hwy 63 N, Hallsville, MO 65255, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.107186,
-            "lng": -92.3326529
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.1084270302915,
-              "lng": -92.3305274
-            },
-            "southwest": {
-              "lat": 39.1057290697085,
-              "lng": -92.3333614
-            }
-          }
-        },
-        "international_phone_number": "+1 573-442-2103",
-        "name": "Wat Angkor Cambodian Buddhist Temple",
-        "place_id": "ChIJvw55cLfP3IcRVojWQJM-ixc",
-        "url": "https://maps.google.com/?cid=1696518486804039766",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipO1wJ2_r93WApc2T4l-TzSGgoOCKph_fkP_krHz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPcewpJ7Dtu-1VfVRnlX5yKAnghQQwKWSjhm0um=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPz5Uex9H8lhoJ4WB9-U0UEuqV1FJZsHUVaTboa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMN2Kg-TsaDodUPzDMoqKblmcWHDivRpqHg0vls=s1600-w800-h800"
-        ]
+      "name": "Wat Angkor Cambodian Buddhist Temple",
+      "location": {
+        "lat": 39.107186,
+        "lng": -92.3326529
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "13131 Old Hwy 63 N, Hallsville, MO 65255, USA",
+      "phone": "+1 573-442-2103",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipO1wJ2_r93WApc2T4l-TzSGgoOCKph_fkP_krHz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPcewpJ7Dtu-1VfVRnlX5yKAnghQQwKWSjhm0um=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPz5Uex9H8lhoJ4WB9-U0UEuqV1FJZsHUVaTboa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMN2Kg-TsaDodUPzDMoqKblmcWHDivRpqHg0vls=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJvw55cLfP3IcRVojWQJM-ixc",
+      "google_maps_url": "https://maps.google.com/?cid=1696518486804039766",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "819 Weyrauch St, West Chicago, IL 60185, USA",
-        "geometry": {
-          "location": {
-            "lat": 41.8719568,
-            "lng": -88.2064025
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.87330638029149,
-              "lng": -88.20511391970851
-            },
-            "southwest": {
-              "lat": 41.87060841970849,
-              "lng": -88.20781188029152
-            }
-          }
-        },
-        "international_phone_number": "+1 630-677-8840",
-        "name": "True Dhamma Buddhist Temple @ New Rahula Buddhavihara (NRB)",
-        "place_id": "ChIJm7Yt9-D_DogRfU1V7k3Z2oE",
-        "url": "https://maps.google.com/?cid=9357030104549903741",
-        "website": "https://www.facebook.com/truedhamma/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNxDGsq61suDEttEkydR4nTADKZ0g8OwnKKapff=s1600-w800-h800"
-        ]
+      "name": "True Dhamma Buddhist Temple @ New Rahula Buddhavihara (NRB)",
+      "location": {
+        "lat": 41.8719568,
+        "lng": -88.2064025
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "819 Weyrauch St, West Chicago, IL 60185, USA",
+      "phone": "+1 630-677-8840",
+      "website": "https://www.facebook.com/truedhamma/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNxDGsq61suDEttEkydR4nTADKZ0g8OwnKKapff=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJm7Yt9-D_DogRfU1V7k3Z2oE",
+      "google_maps_url": "https://maps.google.com/?cid=9357030104549903741",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "8500 Plumbrook Rd, Sterling Heights, MI 48313, USA",
-        "geometry": {
-          "location": {
-            "lat": 42.581528,
-            "lng": -83.02443699999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 42.5827302802915,
-              "lng": -83.02317971970848
-            },
-            "southwest": {
-              "lat": 42.5800323197085,
-              "lng": -83.0258776802915
-            }
-          }
-        },
-        "international_phone_number": "+1 586-979-3300",
-        "name": "Buddhist Meditation Center - Wat Paknam Michigan",
-        "place_id": "ChIJXz73ZXDcJIgRwE2EL9xJCpI",
-        "url": "https://maps.google.com/?cid=10523304689343417792",
-        "website": "https://www.facebook.com/BuddhistMeditationCenter/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPdmFqh3wtGGHfSg1bf2DoGf_hnH7npb0Y3787n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAiFH6mtB3jeH-9PBZN_Pwv1a5SEbeSZMyFcXt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZPdG7354Gb5O-gKdBie3UOJewW2VDwW4I3Wzn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNY-VTvo9JfSDNmxORXqZG2Rozhv4O8Z8tq0gxe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPThaC06s2wNcE1_YuUYCFiIbyCRCbT2bvi7ow9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNN5K2mYF72w1AhMLgAc_sZJ3-iyCVGoM0S9eKk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNOT6V-v0loe3bH_B3qNBZeGSRYLdAH2spq47FL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpabyt51Ekx8VwB_DG_9KM7i6FDULXEsO40Asb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1-jkxyJc7UspIavz1OqndG3vknqgsjNObKjFH=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKVLjTT92gD8oNWzpkfm4Ndns14_6Ek_4HRT4f=s1600-w800-h800"
-        ]
+      "name": "Buddhist Meditation Center - Wat Paknam Michigan",
+      "location": {
+        "lat": 42.581528,
+        "lng": -83.02443699999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "8500 Plumbrook Rd, Sterling Heights, MI 48313, USA",
+      "phone": "+1 586-979-3300",
+      "website": "https://www.facebook.com/BuddhistMeditationCenter/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPdmFqh3wtGGHfSg1bf2DoGf_hnH7npb0Y3787n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAiFH6mtB3jeH-9PBZN_Pwv1a5SEbeSZMyFcXt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZPdG7354Gb5O-gKdBie3UOJewW2VDwW4I3Wzn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNY-VTvo9JfSDNmxORXqZG2Rozhv4O8Z8tq0gxe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPThaC06s2wNcE1_YuUYCFiIbyCRCbT2bvi7ow9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNN5K2mYF72w1AhMLgAc_sZJ3-iyCVGoM0S9eKk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNOT6V-v0loe3bH_B3qNBZeGSRYLdAH2spq47FL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpabyt51Ekx8VwB_DG_9KM7i6FDULXEsO40Asb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1-jkxyJc7UspIavz1OqndG3vknqgsjNObKjFH=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKVLjTT92gD8oNWzpkfm4Ndns14_6Ek_4HRT4f=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJXz73ZXDcJIgRwE2EL9xJCpI",
+      "google_maps_url": "https://maps.google.com/?cid=10523304689343417792",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "500 State St, Brooklyn, NY 11217, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.685948,
-            "lng": -73.9807761
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.6873776802915,
-              "lng": -73.97937246970851
-            },
-            "southwest": {
-              "lat": 40.6846797197085,
-              "lng": -73.98207043029151
-            }
-          }
-        },
-        "international_phone_number": "+1 718-875-8229",
-        "name": "Zen Center of New York City - Fire Lotus Temple",
-        "place_id": "ChIJh0-snLJbwokRJTYXIlC7RRg",
-        "url": "https://maps.google.com/?cid=1749009983147030053",
-        "website": "http://zcnyc.mro.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNcfy2U4arbn6UdAL5f1CcPYYy25v3R4C2f6QOa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNWd2F4ktHO11SJdp5DcDLY1EHd77aWCDAZgvG2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWbFCo-pd5zYuMPwStzrOfV39WBZKTByeDZWou=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPp0CszDxW-biawmVzTDNtwwNNpZZLnFKT_a735=s1600-w800-h800"
-        ]
+      "name": "Zen Center of New York City - Fire Lotus Temple",
+      "location": {
+        "lat": 40.685948,
+        "lng": -73.9807761
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "500 State St, Brooklyn, NY 11217, USA",
+      "phone": "+1 718-875-8229",
+      "website": "http://zcnyc.mro.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNcfy2U4arbn6UdAL5f1CcPYYy25v3R4C2f6QOa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNWd2F4ktHO11SJdp5DcDLY1EHd77aWCDAZgvG2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWbFCo-pd5zYuMPwStzrOfV39WBZKTByeDZWou=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPp0CszDxW-biawmVzTDNtwwNNpZZLnFKT_a735=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJh0-snLJbwokRJTYXIlC7RRg",
+      "google_maps_url": "https://maps.google.com/?cid=1749009983147030053",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2530 W Alameda Ave, Denver, CO 80219, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.7109725,
-            "lng": -105.017617
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.71242283029149,
-              "lng": -105.0162701197085
-            },
-            "southwest": {
-              "lat": 39.7097248697085,
-              "lng": -105.0189680802915
-            }
-          }
-        },
-        "international_phone_number": "+1 303-935-3889",
-        "name": "Fo Guang Shan Denver Vihara",
-        "place_id": "ChIJAQDwAml_bIcRsuidVov3J6s",
-        "url": "https://maps.google.com/?cid=12333098282403096754",
-        "website": "https://www.fgs.org.tw/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMcm1c9Jz4KfK8eTnaebtyMYZ5mPupBRIYSsz3a=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOOcW8O7delyAf_YX9_4ItN9A7y4F1LidxEvkcI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvuwBI-MUAbVbWmXpqEObXJK5oPnQxe8GuY34v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMudZPuhS8BmtqbJUV2liLJZKQNrkpEiJtw4Wai=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN748mOJonuRMrY33qgSAnscqXuj80kTnxj_b5Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOIEr8ikMnkNa-_qUYxFloZ-Bjfhq8Ea5kkaWUz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDcCaKYieJYGKXkcYgcPueO7rlwHau7rM_HioP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP4pa0Yjk34EFVXKafhNp8LyULCMyupXQ_RvE09=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2QpMzMVQ3s47uXmoEj3pOD89nPgD0bdTZp012=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPm25fbg2PqMw7pnrmLDo_JtPWxndXVP9e5ozZa=s1600-w800-h800"
-        ]
+      "name": "Fo Guang Shan Denver Vihara",
+      "location": {
+        "lat": 39.7109725,
+        "lng": -105.017617
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "2530 W Alameda Ave, Denver, CO 80219, USA",
+      "phone": "+1 303-935-3889",
+      "website": "https://www.fgs.org.tw/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMcm1c9Jz4KfK8eTnaebtyMYZ5mPupBRIYSsz3a=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOOcW8O7delyAf_YX9_4ItN9A7y4F1LidxEvkcI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvuwBI-MUAbVbWmXpqEObXJK5oPnQxe8GuY34v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMudZPuhS8BmtqbJUV2liLJZKQNrkpEiJtw4Wai=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN748mOJonuRMrY33qgSAnscqXuj80kTnxj_b5Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOIEr8ikMnkNa-_qUYxFloZ-Bjfhq8Ea5kkaWUz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDcCaKYieJYGKXkcYgcPueO7rlwHau7rM_HioP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP4pa0Yjk34EFVXKafhNp8LyULCMyupXQ_RvE09=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2QpMzMVQ3s47uXmoEj3pOD89nPgD0bdTZp012=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPm25fbg2PqMw7pnrmLDo_JtPWxndXVP9e5ozZa=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJAQDwAml_bIcRsuidVov3J6s",
+      "google_maps_url": "https://maps.google.com/?cid=12333098282403096754",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "221 E 8th St, Greeley, CO 80631, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.42545560000001,
-            "lng": -104.6810938
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.4268059302915,
-              "lng": -104.6801012697085
-            },
-            "southwest": {
-              "lat": 40.4241079697085,
-              "lng": -104.6827992302915
-            }
-          }
-        },
-        "name": "Greeley Buddhist Temple",
-        "place_id": "ChIJiXogsRiibocRHQWdKOSb4ug",
-        "url": "https://maps.google.com/?cid=16781146565772117277",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOW5Y0b0-R73Vo_Ulee0jz_BBX9OFcNc9qp6oSn=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXWd7JzMi9B5dqqlaPdfiibdpEJGjB6iHfs-Jt=s1600-w800-h800"
-        ]
+      "name": "Greeley Buddhist Temple",
+      "location": {
+        "lat": 40.42545560000001,
+        "lng": -104.6810938
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "221 E 8th St, Greeley, CO 80631, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOW5Y0b0-R73Vo_Ulee0jz_BBX9OFcNc9qp6oSn=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXWd7JzMi9B5dqqlaPdfiibdpEJGjB6iHfs-Jt=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJiXogsRiibocRHQWdKOSb4ug",
+      "google_maps_url": "https://maps.google.com/?cid=16781146565772117277",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3304 Knights Rd, Bensalem, PA 19020, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.11011320000001,
-            "lng": -74.94676869999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.11139308029151,
-              "lng": -74.94546086970848
-            },
-            "southwest": {
-              "lat": 40.10869511970851,
-              "lng": -74.9481588302915
-            }
-          }
-        },
-        "international_phone_number": "+1 215-638-9755",
-        "name": "Wat Mongkoltepmunee",
-        "place_id": "ChIJ50qemD9NwYkRTr4yKKJbGME",
-        "url": "https://maps.google.com/?cid=13913971800778391118",
-        "website": "https://watmongkoltepmunee.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMVipD8y-XDLY-BCfYMwaGOwGlg28hEnZeWyDq3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHUhJy4MGyrqY2evX13bicr6nAgjDFMDt1Nhx1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMLFg1Wk_xowP7RVIhlYF9vObbMva6AbCceevzh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM9jQ1mUdPtpqr4jcDxJiyb6UgXvhpHB-SSazmD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM8_6xSkNuDdhpe-VtzOgEIrp0_TEYREU5W1aqm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMN9xOOdzKih1t6JNv_gTeszikjCx-ld9Ud7QaI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMU7dlTT4EPr4ZysBRp9AWg9QULJU4aHbQM2_Ma=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOW7Lr54V8XVe1eQBvNPv7ojlZzjiHxyP04T2BD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcnoJEBB6SeWKAoecOI8eSC6dAtZM2Gu9MLt0v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMPxafcptcv1Q19OurHMbqu7EutWCJwF_Anb5-A=s1600-w778-h578"
-        ]
+      "name": "Wat Mongkoltepmunee",
+      "location": {
+        "lat": 40.11011320000001,
+        "lng": -74.94676869999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "3304 Knights Rd, Bensalem, PA 19020, USA",
+      "phone": "+1 215-638-9755",
+      "website": "https://watmongkoltepmunee.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMVipD8y-XDLY-BCfYMwaGOwGlg28hEnZeWyDq3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHUhJy4MGyrqY2evX13bicr6nAgjDFMDt1Nhx1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMLFg1Wk_xowP7RVIhlYF9vObbMva6AbCceevzh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM9jQ1mUdPtpqr4jcDxJiyb6UgXvhpHB-SSazmD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM8_6xSkNuDdhpe-VtzOgEIrp0_TEYREU5W1aqm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMN9xOOdzKih1t6JNv_gTeszikjCx-ld9Ud7QaI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMU7dlTT4EPr4ZysBRp9AWg9QULJU4aHbQM2_Ma=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOW7Lr54V8XVe1eQBvNPv7ojlZzjiHxyP04T2BD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcnoJEBB6SeWKAoecOI8eSC6dAtZM2Gu9MLt0v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMPxafcptcv1Q19OurHMbqu7EutWCJwF_Anb5-A=s1600-w778-h578"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ50qemD9NwYkRTr4yKKJbGME",
+      "google_maps_url": "https://maps.google.com/?cid=13913971800778391118",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2651-2701 S 58th St, Philadelphia, PA 19143, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.9280268,
-            "lng": -75.2166689
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.9289481302915,
-              "lng": -75.2156135197085
-            },
-            "southwest": {
-              "lat": 39.9262501697085,
-              "lng": -75.2183114802915
-            }
-          }
-        },
-        "international_phone_number": "+1 215-687-3861",
-        "name": "Watt Khmer Palelai",
-        "place_id": "ChIJGQkPwJ3GxokR556uH4Yogs0",
-        "url": "https://maps.google.com/?cid=14808443081269878503",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMZWxW_M4glWpyaXS-XB_IMS0aCMefjRdORXkan=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZKKDFSQUYStSJXBpwnMvp7ktnw_RjkwuNrq5T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJ-d0JbXhd16Dk3p1Zt0bON9_IvrZbHR_d6CgR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvp2qYxk-blzaDXuu8EcFHcrZVqnUtt04MQnSJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOatcfuZTsVq9u07EIhjWFPm2h9_PtgmUPGJbRx=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMqyvCiBlltaqastlatEOhG92l26WsumcwCyvi0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMSIcCRO8Rnj3pyxtro1u80tBorTRxIa9aPYHLZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwWm2vEF9KSpNbQ163yNiFcMgQ9dmOOeaXcC6P=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoaLcw-H--9TUzGgTsGlHaOXyxPn9Qy79ll5Gb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMcUjugqtQ1q-jcKdevclqjf3CdvGfgfuGGzGsh=s1600-w800-h800"
-        ]
+      "name": "Watt Khmer Palelai",
+      "location": {
+        "lat": 39.9280268,
+        "lng": -75.2166689
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "2651-2701 S 58th St, Philadelphia, PA 19143, USA",
+      "phone": "+1 215-687-3861",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMZWxW_M4glWpyaXS-XB_IMS0aCMefjRdORXkan=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZKKDFSQUYStSJXBpwnMvp7ktnw_RjkwuNrq5T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJ-d0JbXhd16Dk3p1Zt0bON9_IvrZbHR_d6CgR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvp2qYxk-blzaDXuu8EcFHcrZVqnUtt04MQnSJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOatcfuZTsVq9u07EIhjWFPm2h9_PtgmUPGJbRx=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMqyvCiBlltaqastlatEOhG92l26WsumcwCyvi0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMSIcCRO8Rnj3pyxtro1u80tBorTRxIa9aPYHLZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwWm2vEF9KSpNbQ163yNiFcMgQ9dmOOeaXcC6P=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoaLcw-H--9TUzGgTsGlHaOXyxPn9Qy79ll5Gb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMcUjugqtQ1q-jcKdevclqjf3CdvGfgfuGGzGsh=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJGQkPwJ3GxokR556uH4Yogs0",
+      "google_maps_url": "https://maps.google.com/?cid=14808443081269878503",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5415 Rising Sun Ave, Philadelphia, PA 19120, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.03210809999999,
-            "lng": -75.1164318
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.0335340302915,
-              "lng": -75.1152387697085
-            },
-            "southwest": {
-              "lat": 40.0308360697085,
-              "lng": -75.1179367302915
-            }
-          }
-        },
-        "international_phone_number": "+1 215-329-4264",
-        "name": "Watt Khmer Soryarangsey",
-        "place_id": "ChIJ83cVM9q3xokRdp54upKQB3U",
-        "url": "https://maps.google.com/?cid=8432867787142635126",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Watt Khmer Soryarangsey",
+      "location": {
+        "lat": 40.03210809999999,
+        "lng": -75.1164318
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "5415 Rising Sun Ave, Philadelphia, PA 19120, USA",
+      "phone": "+1 215-329-4264",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ83cVM9q3xokRdp54upKQB3U",
+      "google_maps_url": "https://maps.google.com/?cid=8432867787142635126",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "208 S Allentown Rd, Telford, PA 18969, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.3347146,
-            "lng": -75.3807538
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.33619838029149,
-              "lng": -75.37796050000001
-            },
-            "southwest": {
-              "lat": 40.3335004197085,
-              "lng": -75.38168489999998
-            }
-          }
-        },
-        "name": "Minh Dang Quang Temple",
-        "place_id": "ChIJVZSCk86fxokRVe6OKVPYe2s",
-        "url": "https://maps.google.com/?cid=7745021835884818005",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipM01Xr0PJxH1l81_rHYwuMSeXl-mrhbudh-pj4C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMEHrpGxJdQg2Ph17LxpSxpuUPzoN1XMPrRT_li=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGyDDw4MILhUXJewuuCwW5KcCpQBNlIEG5N2br=s1600-w800-h800"
-        ]
+      "name": "Minh Dang Quang Temple",
+      "location": {
+        "lat": 40.3347146,
+        "lng": -75.3807538
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "208 S Allentown Rd, Telford, PA 18969, USA",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipM01Xr0PJxH1l81_rHYwuMSeXl-mrhbudh-pj4C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMEHrpGxJdQg2Ph17LxpSxpuUPzoN1XMPrRT_li=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGyDDw4MILhUXJewuuCwW5KcCpQBNlIEG5N2br=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVZSCk86fxokRVe6OKVPYe2s",
+      "google_maps_url": "https://maps.google.com/?cid=7745021835884818005",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1539 McKean St, Philadelphia, PA 19145, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.9261111,
-            "lng": -75.1722222
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.9274600802915,
-              "lng": -75.1708732197085
-            },
-            "southwest": {
-              "lat": 39.9247621197085,
-              "lng": -75.1735711802915
-            }
-          }
-        },
-        "international_phone_number": "+1 267-687-1904",
-        "name": "Lian Sheng True Buddha Temple",
-        "place_id": "ChIJhzIqHAzGxokRsfZTBoHFWWw",
-        "url": "https://maps.google.com/?cid=7807488586971084465",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP3mL9vCt92VTrRW10DKWZ8yq3Ytn__QEr-UoGe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4OgVPhHfcDB_-eEJ2gVcvSo4m58nvY1qAmhyK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNin1_ZBtn-0RXuZO6FXiKavVufJHRnC6AZlKeP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPY_i4elwmwpNeA5ghHyzD12vW5ZcJ_JOznTK1D=s1600-w800-h800"
-        ]
+      "name": "Lian Sheng True Buddha Temple",
+      "location": {
+        "lat": 39.9261111,
+        "lng": -75.1722222
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "1539 McKean St, Philadelphia, PA 19145, USA",
+      "phone": "+1 267-687-1904",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP3mL9vCt92VTrRW10DKWZ8yq3Ytn__QEr-UoGe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4OgVPhHfcDB_-eEJ2gVcvSo4m58nvY1qAmhyK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNin1_ZBtn-0RXuZO6FXiKavVufJHRnC6AZlKeP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPY_i4elwmwpNeA5ghHyzD12vW5ZcJ_JOznTK1D=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJhzIqHAzGxokRsfZTBoHFWWw",
+      "google_maps_url": "https://maps.google.com/?cid=7807488586971084465",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1122 Fulton St, Brooklyn, NY 11238, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.6809903,
-            "lng": -73.9562107
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.6824610802915,
-              "lng": -73.9548175197085
-            },
-            "southwest": {
-              "lat": 40.6797631197085,
-              "lng": -73.9575154802915
-            }
-          }
-        },
-        "name": "Sadhanananda International Buddhist Monastery",
-        "place_id": "ChIJVVUpyplbwokR2r_NOkRn-X4",
-        "url": "https://maps.google.com/?cid=9149457660721872858",
-        "website": "http://nysibmusa.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Sadhanananda International Buddhist Monastery",
+      "location": {
+        "lat": 40.6809903,
+        "lng": -73.9562107
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "1122 Fulton St, Brooklyn, NY 11238, USA",
+      "website": "http://nysibmusa.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJVVUpyplbwokR2r_NOkRn-X4",
+      "google_maps_url": "https://maps.google.com/?cid=9149457660721872858",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "47 E 5th St, Howell Township, NJ 07731, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.171354,
-            "lng": -74.235216
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.17230418029149,
-              "lng": -74.2336165697085
-            },
-            "southwest": {
-              "lat": 40.1696062197085,
-              "lng": -74.23631453029151
-            }
-          }
-        },
-        "international_phone_number": "+1 732-364-1824",
-        "name": "Rashi Gempil-Ling Buddhist Temple",
-        "place_id": "ChIJkWRIiZN_wYkRegZKuIe7PmI",
-        "url": "https://maps.google.com/?cid=7079301855859836538",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPch2q0hZRJ7nDDo1qZ-A5sjfrdTWb647ldfJgP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMHZzzlxy-cROoxtxFVX8rNJzoNqEFwbLv6fXWC=s1600-w800-h800"
-        ]
+      "name": "Rashi Gempil-Ling Buddhist Temple",
+      "location": {
+        "lat": 40.171354,
+        "lng": -74.235216
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "47 E 5th St, Howell Township, NJ 07731, USA",
+      "phone": "+1 732-364-1824",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPch2q0hZRJ7nDDo1qZ-A5sjfrdTWb647ldfJgP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMHZzzlxy-cROoxtxFVX8rNJzoNqEFwbLv6fXWC=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJkWRIiZN_wYkRegZKuIe7PmI",
+      "google_maps_url": "https://maps.google.com/?cid=7079301855859836538",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "115 John St, Staten Island, NY 10302, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.63606509999999,
-            "lng": -74.1431151
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.63744458029149,
-              "lng": -74.14188636970849
-            },
-            "southwest": {
-              "lat": 40.63474661970849,
-              "lng": -74.1445843302915
-            }
-          }
-        },
-        "international_phone_number": "+1 718-556-2051",
-        "name": "Staten Island Buddhist Vihara",
-        "place_id": "ChIJW9BbbcFNwokRInyvahRpRDs",
-        "url": "https://maps.google.com/?cid=4270653883064220706",
-        "website": "http://www.sibv.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNT_TIGowZNlTuSKLITPDXZd9EWRtDL5mGDbnx_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtYiBGiNv3O4oKkXqfYgnCBLpRkOFRIxKAjhm7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNHfLD18HCYUmzuIM3JcUvK8qsZJPhvHinAwlyP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO-11vwawUDaVrZSRrBXn_kwoF5QTPcgFLv8GEu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4dVjoO5vwBMpByDnHOG5kjtsKou54s28oq6zQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLHPPmZvcyPBWQihIXDiPYgR0DY8t4HUCiS-nN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNEfsC9GNzzNdmGXCMKOugaCYFyXxxsuBp8Cvxe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0CP4-yMUtsdDGWwGYXRXAESlsk7--ApW_Z6d1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDAb3U911Jsf5Xq0YTLleZ1HJ7uyV6NCb247sg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMuJ-vx7uJHeY7xFdz4OtUPZSBYG-o6F1hmxI0V=s1600-w800-h800"
-        ]
+      "name": "Staten Island Buddhist Vihara",
+      "location": {
+        "lat": 40.63606509999999,
+        "lng": -74.1431151
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "115 John St, Staten Island, NY 10302, USA",
+      "phone": "+1 718-556-2051",
+      "website": "http://www.sibv.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNT_TIGowZNlTuSKLITPDXZd9EWRtDL5mGDbnx_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtYiBGiNv3O4oKkXqfYgnCBLpRkOFRIxKAjhm7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNHfLD18HCYUmzuIM3JcUvK8qsZJPhvHinAwlyP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO-11vwawUDaVrZSRrBXn_kwoF5QTPcgFLv8GEu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4dVjoO5vwBMpByDnHOG5kjtsKou54s28oq6zQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLHPPmZvcyPBWQihIXDiPYgR0DY8t4HUCiS-nN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNEfsC9GNzzNdmGXCMKOugaCYFyXxxsuBp8Cvxe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0CP4-yMUtsdDGWwGYXRXAESlsk7--ApW_Z6d1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDAb3U911Jsf5Xq0YTLleZ1HJ7uyV6NCb247sg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMuJ-vx7uJHeY7xFdz4OtUPZSBYG-o6F1hmxI0V=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJW9BbbcFNwokRInyvahRpRDs",
+      "google_maps_url": "https://maps.google.com/?cid=4270653883064220706",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1234 Haddonfield-Berlin Rd, Voorhees Township, NJ 08043, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.8184186,
-            "lng": -74.9483479
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.8198269302915,
-              "lng": -74.9468483197085
-            },
-            "southwest": {
-              "lat": 39.8171289697085,
-              "lng": -74.9495462802915
-            }
-          }
-        },
-        "international_phone_number": "+1 215-336-9547",
-        "name": "Khmer Temple Voorhees",
-        "place_id": "ChIJz2bM1y3NxokRJ-I0ppUdyOI",
-        "url": "https://maps.google.com/?cid=16341343776489660967",
-        "website": "http://khmertemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMZ8BebNPIE9s3ShLjwOlN0hPTObyRb8LPrC2DE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMh45zaW1VS7iDynTW-Vvmz3fMF_yMzsWO-ukNm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO9S7SqwvXsgY6ugHw8sUTxN0tHDIWDY0a0p3r1=s1600-w720-h477",
-          "https://lh3.googleusercontent.com/p/AF1QipMC-T05TXx_j7A7QHU0h1kYofd9WSeLJ80s1-9-=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOyo1uPetzyJM2_Bxa6nzp0zCJJgvfD6Ll1prw1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMecWGHZXauVY9A-jyXPNNTCbVWKml1IoRhZrst=s1600-w720-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPPd95ZzVVhvgsZBSIa_F4aiVjgvld9qDeAr0Z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9-dBrqKlR0Z1VXp0909kYwKANaNEj54x2JVIg=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO597wLTtodAs874jZKA3QFCPCqqQHv7ez53P8y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP1Da_eBWlchJwiGOCsun9e9Ch_mCox-5oBsTc=s1600-w800-h800"
-        ]
+      "name": "Khmer Temple Voorhees",
+      "location": {
+        "lat": 39.8184186,
+        "lng": -74.9483479
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "1234 Haddonfield-Berlin Rd, Voorhees Township, NJ 08043, USA",
+      "phone": "+1 215-336-9547",
+      "website": "http://khmertemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMZ8BebNPIE9s3ShLjwOlN0hPTObyRb8LPrC2DE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMh45zaW1VS7iDynTW-Vvmz3fMF_yMzsWO-ukNm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO9S7SqwvXsgY6ugHw8sUTxN0tHDIWDY0a0p3r1=s1600-w720-h477",
+        "https://lh3.googleusercontent.com/p/AF1QipMC-T05TXx_j7A7QHU0h1kYofd9WSeLJ80s1-9-=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOyo1uPetzyJM2_Bxa6nzp0zCJJgvfD6Ll1prw1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMecWGHZXauVY9A-jyXPNNTCbVWKml1IoRhZrst=s1600-w720-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPPd95ZzVVhvgsZBSIa_F4aiVjgvld9qDeAr0Z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9-dBrqKlR0Z1VXp0909kYwKANaNEj54x2JVIg=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO597wLTtodAs874jZKA3QFCPCqqQHv7ez53P8y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP1Da_eBWlchJwiGOCsun9e9Ch_mCox-5oBsTc=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJz2bM1y3NxokRJ-I0ppUdyOI",
+      "google_maps_url": "https://maps.google.com/?cid=16341343776489660967",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "42-15 74th Street, Flushing, NY 11373, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.742643,
-            "lng": -73.890484
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.7439754802915,
-              "lng": -73.8892782697085
-            },
-            "southwest": {
-              "lat": 40.7412775197085,
-              "lng": -73.8919762302915
-            }
-          }
-        },
-        "international_phone_number": "+1 718-639-3834",
-        "name": "Burmese Monastery (သုံးပါးကျောင်း)",
-        "place_id": "ChIJlZVuPQBfwokRRADZP-Fn1yU",
-        "url": "https://maps.google.com/?cid=2726762316532613188",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOh5DHPJXeWQUqP5RPp5mPiadZ9l0Fo-QZ6AMeQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWWq5dDsTp4f8TcOOK6L-jDtOMd2T6HZwhpjwc=s1600-w800-h800"
-        ]
+      "name": "Burmese Monastery (သုံးပါးကျောင်း)",
+      "location": {
+        "lat": 40.742643,
+        "lng": -73.890484
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "42-15 74th Street, Flushing, NY 11373, USA",
+      "phone": "+1 718-639-3834",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOh5DHPJXeWQUqP5RPp5mPiadZ9l0Fo-QZ6AMeQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWWq5dDsTp4f8TcOOK6L-jDtOMd2T6HZwhpjwc=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJlZVuPQBfwokRRADZP-Fn1yU",
+      "google_maps_url": "https://maps.google.com/?cid=2726762316532613188",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1015 Cherry St, Philadelphia, PA 19107, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.9547499,
-            "lng": -75.15666
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.9559979302915,
-              "lng": -75.1553334697085
-            },
-            "southwest": {
-              "lat": 39.9532999697085,
-              "lng": -75.1580314302915
-            }
-          }
-        },
-        "international_phone_number": "+1 215-928-0592",
-        "name": "Fo Shou Temple 佛寿寺",
-        "place_id": "ChIJjVElRirGxokR29kkSTvuFSA",
-        "url": "https://maps.google.com/?cid=2312015922122250715",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMd8ydzFND8HrVrafXco4xVxlqBcu05OXkLGGvs=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3vhW0aufHK3cc7Xryaz0-2re8dAiQWbJD076m=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORySyZsCMXeUTqDlpTemWe5OxpsmTDPws-tzSt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO7lX6YqmP7TCToKVEKz5EeEVUZpmfbwjLSvh3x=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPKkjaL3IwMVtHriaR3pCjl7EVekA3uK2OF195e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMABZ6iqv7nf4Vh6K_C8f0k485ORDldsUfd7s5C=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP34a6kPA2PVcEfy_Umu7kZT9FPD4ZEZK3sKLtv=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4k55b-uZuTRlJPiuUBQ-oGALiyFL5KO71n75g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPVHgDbad_AAKvXLrTMpl8ozwQXkdwatCbXoV53=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMBThfV2sQhWctYoIwfRtjBHlwPakuu_SMhgv1P=s1600-w800-h800"
-        ]
+      "name": "Fo Shou Temple 佛寿寺",
+      "location": {
+        "lat": 39.9547499,
+        "lng": -75.15666
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "1015 Cherry St, Philadelphia, PA 19107, USA",
+      "phone": "+1 215-928-0592",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMd8ydzFND8HrVrafXco4xVxlqBcu05OXkLGGvs=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3vhW0aufHK3cc7Xryaz0-2re8dAiQWbJD076m=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORySyZsCMXeUTqDlpTemWe5OxpsmTDPws-tzSt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO7lX6YqmP7TCToKVEKz5EeEVUZpmfbwjLSvh3x=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPKkjaL3IwMVtHriaR3pCjl7EVekA3uK2OF195e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMABZ6iqv7nf4Vh6K_C8f0k485ORDldsUfd7s5C=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP34a6kPA2PVcEfy_Umu7kZT9FPD4ZEZK3sKLtv=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4k55b-uZuTRlJPiuUBQ-oGALiyFL5KO71n75g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPVHgDbad_AAKvXLrTMpl8ozwQXkdwatCbXoV53=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMBThfV2sQhWctYoIwfRtjBHlwPakuu_SMhgv1P=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJjVElRirGxokR29kkSTvuFSA",
+      "google_maps_url": "https://maps.google.com/?cid=2312015922122250715",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "335 E Chew Ave, Philadelphia, PA 19120, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.0364738,
-            "lng": -75.1151436
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.0376154802915,
-              "lng": -75.1138992197085
-            },
-            "southwest": {
-              "lat": 40.0349175197085,
-              "lng": -75.1165971802915
-            }
-          }
-        },
-        "international_phone_number": "+1 215-621-7133",
-        "name": "Lao Buddhist Temple",
-        "place_id": "ChIJ72Md6Aa3xokRg42_fo7fyiQ",
-        "url": "https://maps.google.com/?cid=2651177133765791107",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipORgQ-r9esqVlWfiZ10l_GPpUZ9_-5ErSXFTAkj=s1600-w800-h800"
-        ]
+      "name": "Lao Buddhist Temple",
+      "location": {
+        "lat": 40.0364738,
+        "lng": -75.1151436
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "335 E Chew Ave, Philadelphia, PA 19120, USA",
+      "phone": "+1 215-621-7133",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipORgQ-r9esqVlWfiZ10l_GPpUZ9_-5ErSXFTAkj=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ72Md6Aa3xokRg42_fo7fyiQ",
+      "google_maps_url": "https://maps.google.com/?cid=2651177133765791107",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "1001 S 4th St, Philadelphia, PA 19147, USA",
-        "geometry": {
-          "location": {
-            "lat": 39.935279,
-            "lng": -75.15014599999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 39.9366574802915,
-              "lng": -75.1490122197085
-            },
-            "southwest": {
-              "lat": 39.9339595197085,
-              "lng": -75.15171018029152
-            }
-          }
-        },
-        "international_phone_number": "+1 215-339-5121",
-        "name": "Chùa Phật Quan / Phat Quang Buddhist Temple",
-        "place_id": "ChIJmfKemKHIxokRcraGKNmB0ZE",
-        "url": "https://maps.google.com/?cid=10507322175319881330",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPv0eButpl8eNPZeZEtvHzVJ5MtVDJQJmIGr681=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMFGqUeuRA-w0V65kyfoAo93p5jic6Md73a0zH6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPoIaH0AUe5rL3yxBx0o70NcbHlpgbd-1DycrZQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMt6jE3TwjhGV74ADZXlAmxBPXGszfCIOfGbat=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO0axUuEdI-Z1g8EJyf_plVnsr0zFK7NtNQqYv_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOqPVZoURO0oK2IUE-4YJOwF9MdKljDCAMx0FJc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP-wvtiLX4nvksUnWCyj7sFTk1aHozWPB-Am98v=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMNhEVZ056IhoVq4s7Z43o9_gynKyJX1jjIXJt_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPeH6mn98GgpN5J_hdR8S9lKw6Ubb1Cmijgt5gO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNZFtby3SpkwC_6vxWS-VsylyYuhTeIjEAiMfz5=s1600-w800-h800"
-        ]
+      "name": "Chùa Phật Quan / Phat Quang Buddhist Temple",
+      "location": {
+        "lat": 39.935279,
+        "lng": -75.15014599999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "1001 S 4th St, Philadelphia, PA 19147, USA",
+      "phone": "+1 215-339-5121",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPv0eButpl8eNPZeZEtvHzVJ5MtVDJQJmIGr681=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMFGqUeuRA-w0V65kyfoAo93p5jic6Md73a0zH6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPoIaH0AUe5rL3yxBx0o70NcbHlpgbd-1DycrZQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMt6jE3TwjhGV74ADZXlAmxBPXGszfCIOfGbat=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO0axUuEdI-Z1g8EJyf_plVnsr0zFK7NtNQqYv_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOqPVZoURO0oK2IUE-4YJOwF9MdKljDCAMx0FJc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP-wvtiLX4nvksUnWCyj7sFTk1aHozWPB-Am98v=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMNhEVZ056IhoVq4s7Z43o9_gynKyJX1jjIXJt_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPeH6mn98GgpN5J_hdR8S9lKw6Ubb1Cmijgt5gO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNZFtby3SpkwC_6vxWS-VsylyYuhTeIjEAiMfz5=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJmfKemKHIxokRcraGKNmB0ZE",
+      "google_maps_url": "https://maps.google.com/?cid=10507322175319881330",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "337 Jericho Turnpike, Old Westbury, NY 11568, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.774366,
-            "lng": -73.57279799999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.77549373029149,
-              "lng": -73.5712505697085
-            },
-            "southwest": {
-              "lat": 40.7727957697085,
-              "lng": -73.5739485302915
-            }
-          }
-        },
-        "international_phone_number": "+1 516-338-5353",
-        "name": "Maha-zen Temple",
-        "place_id": "ChIJA2WSkieHwokRttFK30SHVQE",
-        "url": "https://maps.google.com/?cid=96131696932082102",
-        "website": "http://www.maha-zentemple.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNJpkY1avv9ePZn4R4NsKJbEBB-5P--_3Wb3iWu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPbDkKSzx5Wdncciwijmn9HjnyEi3u1QlpREmG2=s1600-w800-h800"
-        ]
+      "name": "Maha-zen Temple",
+      "location": {
+        "lat": 40.774366,
+        "lng": -73.57279799999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "337 Jericho Turnpike, Old Westbury, NY 11568, USA",
+      "phone": "+1 516-338-5353",
+      "website": "http://www.maha-zentemple.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNJpkY1avv9ePZn4R4NsKJbEBB-5P--_3Wb3iWu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPbDkKSzx5Wdncciwijmn9HjnyEi3u1QlpREmG2=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJA2WSkieHwokRttFK30SHVQE",
+      "google_maps_url": "https://maps.google.com/?cid=96131696932082102",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "76-16 46th Ave, Elmhurst, NY 11373, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.74015920000001,
-            "lng": -73.88765219999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.74148643029151,
-              "lng": -73.88622856970849
-            },
-            "southwest": {
-              "lat": 40.73878846970851,
-              "lng": -73.8889265302915
-            }
-          }
-        },
-        "international_phone_number": "+1 718-803-9881",
-        "name": "Wat Buddha Thai Thavorn Vanaram",
-        "place_id": "ChIJv5Uha1VewokR_lfh4SICe1E",
-        "url": "https://maps.google.com/?cid=5871288888049358846",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOqRsvgggZRJnYvNJ2hjqt33yAC8qlMIcp9-qPE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPWHQbwWUfxqTpe1X24q5341gEx7iWTdgwVWXIj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPt8Qe8K1o1-EG77XkNBwJXrZE0EVShFILa2mKa=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPIW_CLG4P92l3zUjIlUXpoJAgGjB_E5UGh7ZE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNTN2bQ-jh6y7QT9ozjPhZho1RbsrNg6RnPmBaY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOff38p5JLkMY4MJvAA8koD-TkwkG6mURSsSfuJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNU-bPikFqhOA7dpZszlE2XCtjS1rPLZNlTozX0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNhPaNryxL5NF7R_D3Qyn4lVpCdDzv3aini4IGf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO_8cRoV2zppVWvM_7C2VnT2Wgp5P3IQbX3BLM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMftCuVWecZb5JrIIHMjQ4-Rmncf6puQj6xfUrk=s1600-w800-h800"
-        ]
+      "name": "Wat Buddha Thai Thavorn Vanaram",
+      "location": {
+        "lat": 40.74015920000001,
+        "lng": -73.88765219999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "76-16 46th Ave, Elmhurst, NY 11373, USA",
+      "phone": "+1 718-803-9881",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOqRsvgggZRJnYvNJ2hjqt33yAC8qlMIcp9-qPE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPWHQbwWUfxqTpe1X24q5341gEx7iWTdgwVWXIj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPt8Qe8K1o1-EG77XkNBwJXrZE0EVShFILa2mKa=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPIW_CLG4P92l3zUjIlUXpoJAgGjB_E5UGh7ZE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNTN2bQ-jh6y7QT9ozjPhZho1RbsrNg6RnPmBaY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOff38p5JLkMY4MJvAA8koD-TkwkG6mURSsSfuJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNU-bPikFqhOA7dpZszlE2XCtjS1rPLZNlTozX0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNhPaNryxL5NF7R_D3Qyn4lVpCdDzv3aini4IGf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO_8cRoV2zppVWvM_7C2VnT2Wgp5P3IQbX3BLM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMftCuVWecZb5JrIIHMjQ4-Rmncf6puQj6xfUrk=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJv5Uha1VewokR_lfh4SICe1E",
+      "google_maps_url": "https://maps.google.com/?cid=5871288888049358846",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "29-30 Parsons Blvd, Flushing, NY 11354, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.771427,
-            "lng": -73.825013
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.7727756802915,
-              "lng": -73.8234957697085
-            },
-            "southwest": {
-              "lat": 40.7700777197085,
-              "lng": -73.82619373029151
-            }
-          }
-        },
-        "international_phone_number": "+1 718-321-0380",
-        "name": "Fan Yin Monastery 梵音净院",
-        "place_id": "ChIJhfH-7x1gwokRhdB-Z-b3ARs",
-        "url": "https://maps.google.com/?cid=1946109082951667845",
-        "website": "http://fanyintemple.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipN3cb24mWyfvsK1GqlBjJPe7jKwZeCWMn9VkBg3=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXvQjhP4B0UHYBzl9mlmLYo1-Sp1VbdsLV8wM2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPpcmC81dM63fLcR3FIDl8r4v3J2ejGeXvrp6Qz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNuki19mSWhyh35EEVInodwpf0tDSLMMQHmKyDJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPN9GviYK5wLVXOSJd_NBZ6Ukb2OJ8zm4MBn6XE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMUg51A0iQ2I8Ewd1lapXgac1wMe8qoQUuOVgF5=s1600-w800-h800"
-        ]
+      "name": "Fan Yin Monastery 梵音净院",
+      "location": {
+        "lat": 40.771427,
+        "lng": -73.825013
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "29-30 Parsons Blvd, Flushing, NY 11354, USA",
+      "phone": "+1 718-321-0380",
+      "website": "http://fanyintemple.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipN3cb24mWyfvsK1GqlBjJPe7jKwZeCWMn9VkBg3=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXvQjhP4B0UHYBzl9mlmLYo1-Sp1VbdsLV8wM2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPpcmC81dM63fLcR3FIDl8r4v3J2ejGeXvrp6Qz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNuki19mSWhyh35EEVInodwpf0tDSLMMQHmKyDJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPN9GviYK5wLVXOSJd_NBZ6Ukb2OJ8zm4MBn6XE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMUg51A0iQ2I8Ewd1lapXgac1wMe8qoQUuOVgF5=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJhfH-7x1gwokRhdB-Z-b3ARs",
+      "google_maps_url": "https://maps.google.com/?cid=1946109082951667845",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "133 Canal St, New York, NY 10002, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.7161406,
-            "lng": -73.9954181
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.71743988029149,
-              "lng": -73.99411036970848
-            },
-            "southwest": {
-              "lat": 40.71474191970849,
-              "lng": -73.9968083302915
-            }
-          }
-        },
-        "international_phone_number": "+1 212-925-8787",
-        "name": "Mahayana Temple Buddhist Association",
-        "place_id": "ChIJaelA7ydawokR6vB9d0K6BHo",
-        "url": "https://maps.google.com/?cid=8792357167169401066",
-        "website": "http://www.mahayana.us/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOt-IBu85Z6xK_jn-7VJLJ2AVMC2byXmjDwurY=s1600-w600-h350",
-          "https://lh3.googleusercontent.com/p/AF1QipNDjpWI-pcOT0kP3aK07v8oND3Ig9atjBr_DFXS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOaZY7-FZ4mjgCwDBgYm_c5DHdXwYMbjHCbo82s=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPKjCWXIA124TXmlMRxM3OBxgqp_z2vPBmAD1f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNLazLGnOGUk7Mh24f6Ij4EQ5Hy-Rq5pfrPvWLW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP44JaxpM4UhgITfgluzzmEkcOosEJVxA_j7ukm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxhaAlojEDYF6qMIx1p2oI8pUtccQJIcDZj0NA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPrRZdchz6p0DVsSrVgzske3WBiXnWiRwKrzLE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMY1n9Sg7m3A7ZHp_klH6_6O4gyyYL4l1Osu1LX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNAIeVA0i_V-FUNufVtk-SQ_6NRUTeDr6w9WHZG=s1600-w800-h800"
-        ]
+      "name": "Mahayana Temple Buddhist Association",
+      "location": {
+        "lat": 40.7161406,
+        "lng": -73.9954181
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "133 Canal St, New York, NY 10002, USA",
+      "phone": "+1 212-925-8787",
+      "website": "http://www.mahayana.us/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOt-IBu85Z6xK_jn-7VJLJ2AVMC2byXmjDwurY=s1600-w600-h350",
+        "https://lh3.googleusercontent.com/p/AF1QipNDjpWI-pcOT0kP3aK07v8oND3Ig9atjBr_DFXS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOaZY7-FZ4mjgCwDBgYm_c5DHdXwYMbjHCbo82s=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPKjCWXIA124TXmlMRxM3OBxgqp_z2vPBmAD1f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNLazLGnOGUk7Mh24f6Ij4EQ5Hy-Rq5pfrPvWLW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP44JaxpM4UhgITfgluzzmEkcOosEJVxA_j7ukm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxhaAlojEDYF6qMIx1p2oI8pUtccQJIcDZj0NA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPrRZdchz6p0DVsSrVgzske3WBiXnWiRwKrzLE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMY1n9Sg7m3A7ZHp_klH6_6O4gyyYL4l1Osu1LX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNAIeVA0i_V-FUNufVtk-SQ_6NRUTeDr6w9WHZG=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJaelA7ydawokR6vB9d0K6BHo",
+      "google_maps_url": "https://maps.google.com/?cid=8792357167169401066",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3 Mindfulness Rd, Pine Bush, NY 12566, USA",
-        "geometry": {
-          "location": {
-            "lat": 41.63698189999999,
-            "lng": -74.39505609999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 41.63865858029149,
-              "lng": -74.3942437697085
-            },
-            "southwest": {
-              "lat": 41.6359606197085,
-              "lng": -74.3969417302915
-            }
-          }
-        },
-        "international_phone_number": "+1 845-213-1785",
-        "name": "Blue Cliff Monastery",
-        "place_id": "ChIJMVBavana3IkR8Kz9Y7VMVEo",
-        "url": "https://maps.google.com/?cid=5355990198800723184",
-        "website": "http://www.bluecliffmonastery.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOActQLFv_nW9vcfVDzJoSK5MLOdnf5YrQOEsO0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOpyn66mVygG_yyO8wrUq0vE-WprI8ZIPJR-Gjo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN6VzrZhZwz3aC3O1rPLdoU6SOPFY77zI2pTcM9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOdXLtUvhWWdwLPhIvlSlIN7dOHe3z3h03ySnAU=s1600-w540-h405",
-          "https://lh3.googleusercontent.com/p/AF1QipM-CkHXQpYbHmTuS3mpa_mD0E2L4tbT3-J15s6T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPqshFQ7xw7dGg_QDsMqYkrop1TOLhvlpqHz9IL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNXuUWrRdjqTbLmhELIjxTQAGLp2iOnEXCIgIY0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNGkCm7UEZ0hQDEMfD8CbIPkt8oi6fOBWKXqG8t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsi714Ciuzfnpf8iWmTLiC0J7DAAn8j4U5fWSm=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN5-pootF6v0PlKC6LzuTm_MiyoQtHTm41ekU6d=s1600-w800-h800"
-        ]
+      "name": "Blue Cliff Monastery",
+      "location": {
+        "lat": 41.63698189999999,
+        "lng": -74.39505609999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "3 Mindfulness Rd, Pine Bush, NY 12566, USA",
+      "phone": "+1 845-213-1785",
+      "website": "http://www.bluecliffmonastery.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOActQLFv_nW9vcfVDzJoSK5MLOdnf5YrQOEsO0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOpyn66mVygG_yyO8wrUq0vE-WprI8ZIPJR-Gjo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN6VzrZhZwz3aC3O1rPLdoU6SOPFY77zI2pTcM9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOdXLtUvhWWdwLPhIvlSlIN7dOHe3z3h03ySnAU=s1600-w540-h405",
+        "https://lh3.googleusercontent.com/p/AF1QipM-CkHXQpYbHmTuS3mpa_mD0E2L4tbT3-J15s6T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPqshFQ7xw7dGg_QDsMqYkrop1TOLhvlpqHz9IL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNXuUWrRdjqTbLmhELIjxTQAGLp2iOnEXCIgIY0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNGkCm7UEZ0hQDEMfD8CbIPkt8oi6fOBWKXqG8t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsi714Ciuzfnpf8iWmTLiC0J7DAAn8j4U5fWSm=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN5-pootF6v0PlKC6LzuTm_MiyoQtHTm41ekU6d=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJMVBavana3IkR8Kz9Y7VMVEo",
+      "google_maps_url": "https://maps.google.com/?cid=5355990198800723184",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "186 W 6th St, Howell Township, NJ 07731, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.1660156,
-            "lng": -74.2446976
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.1671732302915,
-              "lng": -74.2432306197085
-            },
-            "southwest": {
-              "lat": 40.1644752697085,
-              "lng": -74.2459285802915
-            }
-          }
-        },
-        "international_phone_number": "+1 732-364-3873",
-        "name": "Nitsan Buddhist Temple",
-        "place_id": "ChIJ85WCLKN_wYkRA_EKVm7cpvk",
-        "url": "https://maps.google.com/?cid=17989308128026095875",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipP5kzTjCPzNxIUnLtCGQ45VyacGBAzgzGVHK_wS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQYFUxT69pRt0DwlctoCXZsWqYi5nMuH_WOFN9=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMbqKdiSYpjdNxg_17FbvKhCvueC2H9GBSu-8U1=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOfezI4aqqPG1jpDRhQRwI5EccQUC1YRzn4c4im=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOPCZp9WcdU_Ma4yUi1TD0d0eu16YPmSv8DKrHp=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMGBdQQToa6L9JAU3Bg8X17ZqRcNUoWzpjoHrQj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMFNCaZJqR_TAI8Bx5t-jzjvKOiQ8bYb2vgGzQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN4bznsRr_djnS6DUo-dLR5e1mc6r8gWzGxZmgb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOTqWJ8Os9wEr4ZEt_HvcyBeNFqmyV4cDi0pRuA=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOWqigu4E7fEPK0eBVr8RRZlVNgO25XgbMTnT1U=s1600-w800-h800"
-        ]
+      "name": "Nitsan Buddhist Temple",
+      "location": {
+        "lat": 40.1660156,
+        "lng": -74.2446976
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "186 W 6th St, Howell Township, NJ 07731, USA",
+      "phone": "+1 732-364-3873",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipP5kzTjCPzNxIUnLtCGQ45VyacGBAzgzGVHK_wS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQYFUxT69pRt0DwlctoCXZsWqYi5nMuH_WOFN9=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMbqKdiSYpjdNxg_17FbvKhCvueC2H9GBSu-8U1=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOfezI4aqqPG1jpDRhQRwI5EccQUC1YRzn4c4im=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOPCZp9WcdU_Ma4yUi1TD0d0eu16YPmSv8DKrHp=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMGBdQQToa6L9JAU3Bg8X17ZqRcNUoWzpjoHrQj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMFNCaZJqR_TAI8Bx5t-jzjvKOiQ8bYb2vgGzQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN4bznsRr_djnS6DUo-dLR5e1mc6r8gWzGxZmgb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOTqWJ8Os9wEr4ZEt_HvcyBeNFqmyV4cDi0pRuA=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOWqigu4E7fEPK0eBVr8RRZlVNgO25XgbMTnT1U=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ85WCLKN_wYkRA_EKVm7cpvk",
+      "google_maps_url": "https://maps.google.com/?cid=17989308128026095875",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "42 W 96th St #4, New York, NY 10025, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.7920413,
-            "lng": -73.9662554
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.7935022802915,
-              "lng": -73.96482436970848
-            },
-            "southwest": {
-              "lat": 40.7908043197085,
-              "lng": -73.9675223302915
-            }
-          }
-        },
-        "international_phone_number": "+1 212-665-3641",
-        "name": "Chogyesa Zen Temple of New York",
-        "place_id": "ChIJXy0c951YwokR4EMo2m9XWE4",
-        "url": "https://maps.google.com/?cid=5645358270821975008",
-        "website": "http://www.nychogyesa.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOj6K83gAsXgAZXblxG0VSYdeGWUu24-hxGW4rT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNLldFxSZlgCH9Nk1wGFh7c29zwFSKT5AJ5Z1G2=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP35x62p5vXSWf7HJ1Q2wvAO3e7PXAvtPhiu6_R=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtrHX9c2WsZLyV6-ByGvSKE8TqvhO7CFiLlZ6R=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMZsONYQxQ4hVlCY4vnk-xS8-vJ30hMdBktp1xV=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNSrcNrDUMj5B2uy2mqgRzMTr7bXUs2IrlhsPRX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNDfi6V0IABLP37pbY_8Qh2DOKddkc1KmYnU4D6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPphiEKeq2DDBFavOkMwChoZAuSUebZJIzyg_gY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPPDFE4MzerbUEkyVCV2aaQNFAZP3G_II2yw7xb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPiir0WTHXsiR6avXvQ4YGT5YdUzR4dnVmlrk7q=s1600-w800-h800"
-        ]
+      "name": "Chogyesa Zen Temple of New York",
+      "location": {
+        "lat": 40.7920413,
+        "lng": -73.9662554
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "42 W 96th St #4, New York, NY 10025, USA",
+      "phone": "+1 212-665-3641",
+      "website": "http://www.nychogyesa.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOj6K83gAsXgAZXblxG0VSYdeGWUu24-hxGW4rT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNLldFxSZlgCH9Nk1wGFh7c29zwFSKT5AJ5Z1G2=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP35x62p5vXSWf7HJ1Q2wvAO3e7PXAvtPhiu6_R=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtrHX9c2WsZLyV6-ByGvSKE8TqvhO7CFiLlZ6R=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMZsONYQxQ4hVlCY4vnk-xS8-vJ30hMdBktp1xV=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNSrcNrDUMj5B2uy2mqgRzMTr7bXUs2IrlhsPRX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNDfi6V0IABLP37pbY_8Qh2DOKddkc1KmYnU4D6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPphiEKeq2DDBFavOkMwChoZAuSUebZJIzyg_gY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPPDFE4MzerbUEkyVCV2aaQNFAZP3G_II2yw7xb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPiir0WTHXsiR6avXvQ4YGT5YdUzR4dnVmlrk7q=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJXy0c951YwokR4EMo2m9XWE4",
+      "google_maps_url": "https://maps.google.com/?cid=5645358270821975008",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "3332 148th St, Flushing, NY 11354, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.7680083,
-            "lng": -73.8183361
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.7693603302915,
-              "lng": -73.81689771970849
-            },
-            "southwest": {
-              "lat": 40.7666623697085,
-              "lng": -73.8195956802915
-            }
-          }
-        },
-        "international_phone_number": "+1 718-888-7919",
-        "name": "True Buddha Diamond Temple",
-        "place_id": "ChIJlzbq1yFgwokRvAEFIBjTltQ",
-        "url": "https://maps.google.com/?cid=15318663283117195708",
-        "website": "http://www.tbdtny.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMje7gm7osora1ubF8MH3kYLatZBfnQ-p46c1YF=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2HBEVqQZhnO1v92AZGwFi7Y19KVXEexka_CHP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMdmNNXoG4re_TGkcf-rvNqnXLw7EwR--u8oqFd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP0JSCJ3qtvSoIpTkRgaGl9CFy1bU101yADpMdf=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGOAQMaYNvH3xRCsrD3algk_c9mjXsMjC9Df75=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNMbt8eL5Rm_g4j2ldNjP9lWmTxC4e177j1omE_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPc0hA1BrG15hg-5TrwKenI0HteEa9jTGtEboCe=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzbGrHkWWPHrGCwDfuzYYAha92UcJObAPvVW-Q=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOcZXgFFLXQwjyShfIu5DpfeKy7wUF186_-ZGjN=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOV0KkdJYeJILJmwFVFNjZXOFQNoq9e67ZwYRtQ=s1600-w800-h800"
-        ]
+      "name": "True Buddha Diamond Temple",
+      "location": {
+        "lat": 40.7680083,
+        "lng": -73.8183361
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "3332 148th St, Flushing, NY 11354, USA",
+      "phone": "+1 718-888-7919",
+      "website": "http://www.tbdtny.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMje7gm7osora1ubF8MH3kYLatZBfnQ-p46c1YF=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2HBEVqQZhnO1v92AZGwFi7Y19KVXEexka_CHP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMdmNNXoG4re_TGkcf-rvNqnXLw7EwR--u8oqFd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP0JSCJ3qtvSoIpTkRgaGl9CFy1bU101yADpMdf=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGOAQMaYNvH3xRCsrD3algk_c9mjXsMjC9Df75=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNMbt8eL5Rm_g4j2ldNjP9lWmTxC4e177j1omE_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPc0hA1BrG15hg-5TrwKenI0HteEa9jTGtEboCe=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzbGrHkWWPHrGCwDfuzYYAha92UcJObAPvVW-Q=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOcZXgFFLXQwjyShfIu5DpfeKy7wUF186_-ZGjN=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOV0KkdJYeJILJmwFVFNjZXOFQNoq9e67ZwYRtQ=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJlzbq1yFgwokRvAEFIBjTltQ",
+      "google_maps_url": "https://maps.google.com/?cid=15318663283117195708",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "619 Bergen St, Brooklyn, NY 11238, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.6799067,
-            "lng": -73.96913649999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.6811160802915,
-              "lng": -73.96783826970848
-            },
-            "southwest": {
-              "lat": 40.6784181197085,
-              "lng": -73.9705362302915
-            }
-          }
-        },
-        "international_phone_number": "+1 718-622-8019",
-        "name": "Bergen Burmese Monastery",
-        "place_id": "ChIJe8w_xqVbwokRdOITzansqmw",
-        "url": "https://maps.google.com/?cid=7830331116171289204",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Bergen Burmese Monastery",
+      "location": {
+        "lat": 40.6799067,
+        "lng": -73.96913649999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "619 Bergen St, Brooklyn, NY 11238, USA",
+      "phone": "+1 718-622-8019",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJe8w_xqVbwokRdOITzansqmw",
+      "google_maps_url": "https://maps.google.com/?cid=7830331116171289204",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "64 Mott St, New York, NY 10013, USA",
-        "geometry": {
-          "location": {
-            "lat": 40.71601870000001,
-            "lng": -73.9980046
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 40.7174052802915,
-              "lng": -73.99676031970849
-            },
-            "southwest": {
-              "lat": 40.7147073197085,
-              "lng": -73.99945828029149
-            }
-          }
-        },
-        "international_phone_number": "+1 212-966-6229",
-        "name": "Eastern States Buddhist Temple",
-        "place_id": "ChIJ11bHDidawokRos3n1a6O6E4",
-        "url": "https://maps.google.com/?cid=5685951411119443362",
-        "website": "http://eastern-states.poi.place/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNZBz9xffGzpGITJ33US2TRrri56wHzks29nLdQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMtVjCdQ-SB3uObXj11HJf3s3fUEVo_Ip49mUvz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNQgAqL1HwmLXEMX8h_ersxvs_-so5pGjrsjIar=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOmMkbL8SeMadQLnLMymS2EzonpQTmgMjtvsLIC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPd5levufsyEXUx2GQARJ5IyOVHlRk3Na8iZV-Z=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHYdlzL_HeJcFndK7hTy-7SOtLQpIGUg3hRdj6=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPW2A3_h-yZBfWkH61vJpHfLV1Vx3fQpQgUhsOU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPV4r8vxFLt5Rnh8rW4oPYj5Y-k_S2DIGC9N3cY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN-1LUAk-i6x7iDUU7qhBdceCxHgpNK9RR8YhVJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPR0l4A8ltVMZeu1b6K0-DaoeDpJoM2bY6FOYYV=s1600-w800-h800"
-        ]
+      "name": "Eastern States Buddhist Temple",
+      "location": {
+        "lat": 40.71601870000001,
+        "lng": -73.9980046
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:44:12.553Z"
-      }
+      "address": "64 Mott St, New York, NY 10013, USA",
+      "phone": "+1 212-966-6229",
+      "website": "http://eastern-states.poi.place/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNZBz9xffGzpGITJ33US2TRrri56wHzks29nLdQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMtVjCdQ-SB3uObXj11HJf3s3fUEVo_Ip49mUvz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNQgAqL1HwmLXEMX8h_ersxvs_-so5pGjrsjIar=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOmMkbL8SeMadQLnLMymS2EzonpQTmgMjtvsLIC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPd5levufsyEXUx2GQARJ5IyOVHlRk3Na8iZV-Z=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHYdlzL_HeJcFndK7hTy-7SOtLQpIGUg3hRdj6=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPW2A3_h-yZBfWkH61vJpHfLV1Vx3fQpQgUhsOU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPV4r8vxFLt5Rnh8rW4oPYj5Y-k_S2DIGC9N3cY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN-1LUAk-i6x7iDUU7qhBdceCxHgpNK9RR8YhVJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPR0l4A8ltVMZeu1b6K0-DaoeDpJoM2bY6FOYYV=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ11bHDidawokRos3n1a6O6E4",
+      "google_maps_url": "https://maps.google.com/?cid=5685951411119443362",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }

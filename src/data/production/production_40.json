@@ -1,612 +1,483 @@
 {
   "places": [
     {
-      "properties": {
-        "formatted_address": "Bad-Dürkheimer-Straße 14, 81539 München, Germany",
-        "geometry": {
-          "location": {
-            "lat": 48.11247160000001,
-            "lng": 11.5985362
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 48.1138732302915,
-              "lng": 11.5998895302915
-            },
-            "southwest": {
-              "lat": 48.1111752697085,
-              "lng": 11.5971915697085
-            }
-          }
-        },
-        "international_phone_number": "+49 89 68019227",
-        "name": "Wat Thai Munchen",
-        "place_id": "ChIJFyAcppjfnUcRMddrqN648aY",
-        "url": "https://maps.google.com/?cid=12029599346131195697",
-        "website": "http://www.watthai-munich.de/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipMFFSJ0KsXu3yYS8NSkFnTG_82RapyValnoxY4E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMP5gTHdPP9kKcRb_jEyaE9jtCDluA4OCIG7Zdo=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNtESTLNAUEDxxs04mQrf5Pp_7Dd7ZpnUnc-vrW=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPMA2UNq3lqb9h7KYBayEcZd61VktDKNHFI5XEC=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOVGPSeumPZRq0pMyTmsU_32a1suUtOol2J-LbE=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP6mknkolq5kNHgJ8wHqtP1d46IWbLjBLktx4xM=s1600-w800-h800"
-        ]
+      "name": "Wat Thai Munchen",
+      "location": {
+        "lat": 48.11247160000001,
+        "lng": 11.5985362
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:03.365Z"
-      }
+      "address": "Bad-Dürkheimer-Straße 14, 81539 München, Germany",
+      "phone": "+49 89 68019227",
+      "website": "http://www.watthai-munich.de/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipMFFSJ0KsXu3yYS8NSkFnTG_82RapyValnoxY4E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMP5gTHdPP9kKcRb_jEyaE9jtCDluA4OCIG7Zdo=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNtESTLNAUEDxxs04mQrf5Pp_7Dd7ZpnUnc-vrW=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPMA2UNq3lqb9h7KYBayEcZd61VktDKNHFI5XEC=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOVGPSeumPZRq0pMyTmsU_32a1suUtOol2J-LbE=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP6mknkolq5kNHgJ8wHqtP1d46IWbLjBLktx4xM=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJFyAcppjfnUcRMddrqN648aY",
+      "google_maps_url": "https://maps.google.com/?cid=12029599346131195697",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "H P Hansensvej 3, 3660 Stenløse, Denmark",
-        "geometry": {
-          "location": {
-            "lat": 55.767599,
-            "lng": 12.1885253
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 55.7690268802915,
-              "lng": 12.18986333029151
-            },
-            "southwest": {
-              "lat": 55.7663289197085,
-              "lng": 12.1871653697085
-            }
-          }
-        },
-        "international_phone_number": "+45 47 17 11 80",
-        "name": "Wat Thai Denmark Brahmavihara Buddhist Monastery",
-        "place_id": "ChIJDXaQYChdUkYRB7DmB6d2gnA",
-        "url": "https://maps.google.com/?cid=8107172738984488967",
-        "website": "http://www.watthaidk.com/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOSLpW4NB1qIdledgro30zR3Ku3qTJ2yfmftHkI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM1u2AQV6x9xTs_N9gNivD7MzaRtQ4hpivlGYbQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOznkU_kJ8v5ldeL-juqx6lBId23RAFz_RcQX52=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNvuefYVc-33MtAvNRcewyW_J2PXOwTFWuAKDE5=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDGDGgjEx7VPLxtqwn7_FfOpidTg2ToyNCV__T=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNJ4GPA_uLQyrRaZFcWrpnVNlwS8-piDyScusfZ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO6R0QHxzKjawCo-FMdZpOB78chvx0tGaUuzSXc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP8IJ0pKjHabDo6tapZ6MmkOEWCJjMUQ5pnaPZc=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPF086KlYE3z9rZyZwcCoI0UvLzJt35ZOxGiyKt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUnKKRdTNsKHtr4_LgBTZaG284aO4NgLwn6liP=s1600-w800-h800"
-        ]
+      "name": "Wat Thai Denmark Brahmavihara Buddhist Monastery",
+      "location": {
+        "lat": 55.767599,
+        "lng": 12.1885253
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:03.365Z"
-      }
+      "address": "H P Hansensvej 3, 3660 Stenløse, Denmark",
+      "phone": "+45 47 17 11 80",
+      "website": "http://www.watthaidk.com/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOSLpW4NB1qIdledgro30zR3Ku3qTJ2yfmftHkI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM1u2AQV6x9xTs_N9gNivD7MzaRtQ4hpivlGYbQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOznkU_kJ8v5ldeL-juqx6lBId23RAFz_RcQX52=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNvuefYVc-33MtAvNRcewyW_J2PXOwTFWuAKDE5=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDGDGgjEx7VPLxtqwn7_FfOpidTg2ToyNCV__T=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNJ4GPA_uLQyrRaZFcWrpnVNlwS8-piDyScusfZ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO6R0QHxzKjawCo-FMdZpOB78chvx0tGaUuzSXc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP8IJ0pKjHabDo6tapZ6MmkOEWCJjMUQ5pnaPZc=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPF086KlYE3z9rZyZwcCoI0UvLzJt35ZOxGiyKt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUnKKRdTNsKHtr4_LgBTZaG284aO4NgLwn6liP=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJDXaQYChdUkYRB7DmB6d2gnA",
+      "google_maps_url": "https://maps.google.com/?cid=8107172738984488967",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Raitenhaslach 9, 84489 Burghausen, Germany",
-        "geometry": {
-          "location": {
-            "lat": 48.1277,
-            "lng": 12.78623
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 48.12897883029149,
-              "lng": 12.7876148302915
-            },
-            "southwest": {
-              "lat": 48.1262808697085,
-              "lng": 12.7849168697085
-            }
-          }
-        },
-        "name": "Raitenhaslach Monastery",
-        "place_id": "ChIJvZ4Lr6fRdUcR-aCMdB5ZmXs",
-        "url": "https://maps.google.com/?cid=8906247725441130745",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPqbWxI6I-NA29EnHuqS2SfT2hwxrzIur9zqhOK=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM0NHK9LgiwlpP_3aX2nR_pxUo4MPliD09jcqja=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipM3ql9JW7C3m86k6C_mbSiccM___H9B0Lfm5ozt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPvJpa3R38Txf10NeOgg5vusdV6yoRYE--vhQ8E=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOSSFLQh63aVJvNI0rqA6X3gFzcvr8Drd7ZmK0G=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipORO-mV8CMoXDhyVkXHV0BTKItKL9d--QrIkAuu=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMV9V-gQhO4WAFw_VG8jhyRybtvP4gjB1g5_26J=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP92HR6nOrkJmlBMJdPKkEDWq96vGuPnahUQIrb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipO2cGcIPZhyEee158Hkht1iahLvA35w4A725Pvy=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMOJuhzjhZIBT23OoM_tpSFv5PpVnyVg39Jr5D4=s1600-w800-h800"
-        ]
+      "name": "Raitenhaslach Monastery",
+      "location": {
+        "lat": 48.1277,
+        "lng": 12.78623
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:03.365Z"
-      }
+      "address": "Raitenhaslach 9, 84489 Burghausen, Germany",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPqbWxI6I-NA29EnHuqS2SfT2hwxrzIur9zqhOK=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM0NHK9LgiwlpP_3aX2nR_pxUo4MPliD09jcqja=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipM3ql9JW7C3m86k6C_mbSiccM___H9B0Lfm5ozt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPvJpa3R38Txf10NeOgg5vusdV6yoRYE--vhQ8E=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOSSFLQh63aVJvNI0rqA6X3gFzcvr8Drd7ZmK0G=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipORO-mV8CMoXDhyVkXHV0BTKItKL9d--QrIkAuu=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMV9V-gQhO4WAFw_VG8jhyRybtvP4gjB1g5_26J=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP92HR6nOrkJmlBMJdPKkEDWq96vGuPnahUQIrb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipO2cGcIPZhyEee158Hkht1iahLvA35w4A725Pvy=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMOJuhzjhZIBT23OoM_tpSFv5PpVnyVg39Jr5D4=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJvZ4Lr6fRdUcR-aCMdB5ZmXs",
+      "google_maps_url": "https://maps.google.com/?cid=8906247725441130745",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Benzstraße 5-11, 68804 Altlußheim, Germany",
-        "geometry": {
-          "location": {
-            "lat": 49.2950399,
-            "lng": 8.5088098
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.2963424802915,
-              "lng": 8.510281980291502
-            },
-            "southwest": {
-              "lat": 49.2936445197085,
-              "lng": 8.507584019708498
-            }
-          }
-        },
-        "international_phone_number": "+49 6205 100734",
-        "name": "Buddhistisches Kloster Wat Sibounheuang",
-        "place_id": "ChIJ708oorKwl0cRIa-laFpcRWw",
-        "url": "https://maps.google.com/?cid=7801743472861753121",
-        "website": "http://wat-lao.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipPy1NyK_9WSOUwt209Q9tadHuYBYun9B4Lohorj=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMbe3YfLRW_RAXkWl2lRVMSLMpxtcX7PSJ69FY7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNHz10kAAOUgrY3nzWvU3v103k3XJezU6zOFp0n=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOiNJNFmPLpm0N3_jBwdKIKxygZU4ephgWb-Qp7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPkowyH-mY1I01OZU9xKYIEM5jwgMQMDrzy9sCL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMegxfC-pBpAndJPINbFduPjV166N4b7tRGlWxL=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOXTcIwK8QaZrN_1gmLTcgJe7hm_MMjTqyWMinJ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNNSQpumDkCxEW48GgE3jrl901bK86G_5iz1rqw=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNwWlwUYOLGoSb89N1JCdKyi6mEIRz3iphsbFsd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMxRltKDYjYB221zIRqQUKA0hwYruGbFBMkPrc=s1600-w800-h800"
-        ]
+      "name": "Buddhistisches Kloster Wat Sibounheuang",
+      "location": {
+        "lat": 49.2950399,
+        "lng": 8.5088098
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:03.365Z"
-      }
+      "address": "Benzstraße 5-11, 68804 Altlußheim, Germany",
+      "phone": "+49 6205 100734",
+      "website": "http://wat-lao.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipPy1NyK_9WSOUwt209Q9tadHuYBYun9B4Lohorj=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMbe3YfLRW_RAXkWl2lRVMSLMpxtcX7PSJ69FY7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNHz10kAAOUgrY3nzWvU3v103k3XJezU6zOFp0n=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOiNJNFmPLpm0N3_jBwdKIKxygZU4ephgWb-Qp7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPkowyH-mY1I01OZU9xKYIEM5jwgMQMDrzy9sCL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMegxfC-pBpAndJPINbFduPjV166N4b7tRGlWxL=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOXTcIwK8QaZrN_1gmLTcgJe7hm_MMjTqyWMinJ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNNSQpumDkCxEW48GgE3jrl901bK86G_5iz1rqw=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNwWlwUYOLGoSb89N1JCdKyi6mEIRz3iphsbFsd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMxRltKDYjYB221zIRqQUKA0hwYruGbFBMkPrc=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ708oorKwl0cRIa-laFpcRWw",
+      "google_maps_url": "https://maps.google.com/?cid=7801743472861753121",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Schützenstraße 8, 08626 Adorf/Vogtland, Germany",
-        "geometry": {
-          "location": {
-            "lat": 50.32025999999999,
-            "lng": 12.25116
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 50.32160898029149,
-              "lng": 12.2525089802915
-            },
-            "southwest": {
-              "lat": 50.31891101970849,
-              "lng": 12.2498110197085
-            }
-          }
-        },
-        "name": "Tu viện An Tích Hương ( An Tich Huong Monastery )",
-        "place_id": "ChIJ7zZKDSnhoEcRgyud4KBVtBY",
-        "url": "https://maps.google.com/?cid=1636026714093857667",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOd24eccuy8BrPIBZjkhqSl13O8NMcaVUoaoe0N=s1600-w800-h720",
-          "https://lh3.googleusercontent.com/p/AF1QipPMxWOf7peK964VyDbge2KiIUa4Zvi336Uw0N5B=s1600-w720-h476",
-          "https://lh3.googleusercontent.com/p/AF1QipO5d23YzKmlHuTrlU_Ff4STW7bxjdGEgyuVpNOt=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNP9GHWMeUffma9fP0jHB06cT6dR6txwNm2eIDS=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPIsfgxvEJ8_hW7ii8uCM7KMDIJytn1JqBycyQR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMu_BWJN8VsUX_st8gXk2sOZjNh6W_7tIqfkCeb=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOwCOccAB74N5Rc0oShveYSkgtpeI3Bvpp6u_au=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN9G0PuZVt67p9ts5SEhaiXaYTTvkUuhpjH49u0=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPSOxTBuBSozH6pNkRIEc-YOx_oimiZmcHbLQj7=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPe7L3ufnNtz9uzObBqAbpOz7y2PzQGyX6C8tgA=s1600-w800-h800"
-        ]
+      "name": "Tu viện An Tích Hương ( An Tich Huong Monastery )",
+      "location": {
+        "lat": 50.32025999999999,
+        "lng": 12.25116
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:03.365Z"
-      }
+      "address": "Schützenstraße 8, 08626 Adorf/Vogtland, Germany",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOd24eccuy8BrPIBZjkhqSl13O8NMcaVUoaoe0N=s1600-w800-h720",
+        "https://lh3.googleusercontent.com/p/AF1QipPMxWOf7peK964VyDbge2KiIUa4Zvi336Uw0N5B=s1600-w720-h476",
+        "https://lh3.googleusercontent.com/p/AF1QipO5d23YzKmlHuTrlU_Ff4STW7bxjdGEgyuVpNOt=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNP9GHWMeUffma9fP0jHB06cT6dR6txwNm2eIDS=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPIsfgxvEJ8_hW7ii8uCM7KMDIJytn1JqBycyQR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMu_BWJN8VsUX_st8gXk2sOZjNh6W_7tIqfkCeb=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOwCOccAB74N5Rc0oShveYSkgtpeI3Bvpp6u_au=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN9G0PuZVt67p9ts5SEhaiXaYTTvkUuhpjH49u0=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPSOxTBuBSozH6pNkRIEc-YOx_oimiZmcHbLQj7=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPe7L3ufnNtz9uzObBqAbpOz7y2PzQGyX6C8tgA=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJ7zZKDSnhoEcRgyud4KBVtBY",
+      "google_maps_url": "https://maps.google.com/?cid=1636026714093857667",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "2 Rue Pascal Jardin, 77510 Verdelot, France",
-        "geometry": {
-          "location": {
-            "lat": 48.8765492,
-            "lng": 3.3625721
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 48.8778761302915,
-              "lng": 3.363955580291501
-            },
-            "southwest": {
-              "lat": 48.8751781697085,
-              "lng": 3.361257619708498
-            }
-          }
-        },
-        "name": "Healing Spring Monastery",
-        "place_id": "ChIJwc8OS9HE6EcRRpULu1eiMBc",
-        "url": "https://maps.google.com/?cid=1671013959438406982",
-        "website": "https://healingspringmonastery.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Healing Spring Monastery",
+      "location": {
+        "lat": 48.8765492,
+        "lng": 3.3625721
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "2 Rue Pascal Jardin, 77510 Verdelot, France",
+      "website": "https://healingspringmonastery.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJwc8OS9HE6EcRRpULu1eiMBc",
+      "google_maps_url": "https://maps.google.com/?cid=1671013959438406982",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5 Allée Madame de Montespan, 77600 Bussy-Saint-Georges, France",
-        "geometry": {
-          "location": {
-            "lat": 48.8380954,
-            "lng": 2.7277948
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 48.8393437802915,
-              "lng": 2.729170580291502
-            },
-            "southwest": {
-              "lat": 48.8366458197085,
-              "lng": 2.726472619708498
-            }
-          }
-        },
-        "international_phone_number": "+33 1 60 26 81 61",
-        "name": "Wat Vélouvanaram 紫法閣",
-        "place_id": "ChIJzy6sjFcD5kcRBnJoPuDmiSw",
-        "url": "https://maps.google.com/?cid=3209350060272284166",
-        "website": "http://watbussy.fr/mentions-legales/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOLxo2VN_CO7sTzpDp1rmtD84JPhwIAZmHlTETk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMKnvM2o6w2_aX-Tk0pP7MEwbjtXzXQ15NdS0Mh=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPLkjwukzhL2NlefG6KfOuvTj1-faR_DuEitS0t=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYl13JizPdVvyRsC2gIU0pqCfp8oZY0dbtBPny=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPuc--mxvnPalmhZMt2KWXHGJ9ysMtXIXDQGnOi=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNmEN1NTQLqSN7eFU8oOmSskJGhGMg38Zf9KpNq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOvdSPY6WUU6BfujBhUSWrr2S0CbGlxTtWJdvG_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMr876j-PzH7INMFiUIo3GiKChekCAEc6FFw83f=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOeY00rnC6Roiu3jU46RoAePpwyHqmvOB0xvCA8=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMDftHnhpJT9rUaNOD_B7SETG6ZTVJ92KHfqxj4=s1600-w800-h600"
-        ]
+      "name": "Wat Vélouvanaram 紫法閣",
+      "location": {
+        "lat": 48.8380954,
+        "lng": 2.7277948
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:03.365Z"
-      }
+      "address": "5 Allée Madame de Montespan, 77600 Bussy-Saint-Georges, France",
+      "phone": "+33 1 60 26 81 61",
+      "website": "http://watbussy.fr/mentions-legales/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOLxo2VN_CO7sTzpDp1rmtD84JPhwIAZmHlTETk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMKnvM2o6w2_aX-Tk0pP7MEwbjtXzXQ15NdS0Mh=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPLkjwukzhL2NlefG6KfOuvTj1-faR_DuEitS0t=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYl13JizPdVvyRsC2gIU0pqCfp8oZY0dbtBPny=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPuc--mxvnPalmhZMt2KWXHGJ9ysMtXIXDQGnOi=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNmEN1NTQLqSN7eFU8oOmSskJGhGMg38Zf9KpNq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOvdSPY6WUU6BfujBhUSWrr2S0CbGlxTtWJdvG_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMr876j-PzH7INMFiUIo3GiKChekCAEc6FFw83f=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOeY00rnC6Roiu3jU46RoAePpwyHqmvOB0xvCA8=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMDftHnhpJT9rUaNOD_B7SETG6ZTVJ92KHfqxj4=s1600-w800-h600"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzy6sjFcD5kcRBnJoPuDmiSw",
+      "google_maps_url": "https://maps.google.com/?cid=3209350060272284166",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Château de Lugny, 243 Rue des Marronniers, 77550 Moissy-Cramayel, France",
-        "geometry": {
-          "location": {
-            "lat": 48.6224843,
-            "lng": 2.5848763
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 48.6238451802915,
-              "lng": 2.585975230291502
-            },
-            "southwest": {
-              "lat": 48.6211472197085,
-              "lng": 2.583277269708498
-            }
-          }
-        },
-        "international_phone_number": "+33 1 60 60 74 65",
-        "name": "Wat Thammapathip International",
-        "place_id": "ChIJqclJq2_j5UcR3XBqX_nlVaM",
-        "url": "https://maps.google.com/?cid=11769566060413087965",
-        "website": "http://www.watthaiparis.org/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOYynmvuhHGotjjYqyScjxjLzgVW7FrEMvG37Mf=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipN_GwdMktV3b4qzBstHtaqxgshT63OQD9scGbXd=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMsFkUCNNwmEN5UJ9snQtVWY_KZX3ha-V_WqSRV=s1600-w800-h640",
-          "https://lh3.googleusercontent.com/p/AF1QipNvNLtydgnAFjimrkUv2ajN4PRC3fZjPm1NOpNI=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMhDrbmCWZnJjn9Qei0qp7ewI79PvUESI8et12e=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipODcT6M8XTZCm-j_EsbaSvkber6hjIfQVXhLDKQ=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOyyRSjVSlI5AjMrmUJn2OM7CkefPQIgzHGQm3y=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPr9g4629LFCTu5l21LcF0ULkGUlsJs8-L4ygLT=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPusb_KdpUFY9WfrQRYkaMKvvndDf1fmUGuEH5g=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPHM2aRPvAWwqd0Qa51u9vOtKDJvr_h9kbgHwKH=s1600-w800-h800"
-        ]
+      "name": "Wat Thammapathip International",
+      "location": {
+        "lat": 48.6224843,
+        "lng": 2.5848763
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:03.365Z"
-      }
+      "address": "Château de Lugny, 243 Rue des Marronniers, 77550 Moissy-Cramayel, France",
+      "phone": "+33 1 60 60 74 65",
+      "website": "http://www.watthaiparis.org/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOYynmvuhHGotjjYqyScjxjLzgVW7FrEMvG37Mf=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipN_GwdMktV3b4qzBstHtaqxgshT63OQD9scGbXd=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMsFkUCNNwmEN5UJ9snQtVWY_KZX3ha-V_WqSRV=s1600-w800-h640",
+        "https://lh3.googleusercontent.com/p/AF1QipNvNLtydgnAFjimrkUv2ajN4PRC3fZjPm1NOpNI=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMhDrbmCWZnJjn9Qei0qp7ewI79PvUESI8et12e=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipODcT6M8XTZCm-j_EsbaSvkber6hjIfQVXhLDKQ=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOyyRSjVSlI5AjMrmUJn2OM7CkefPQIgzHGQm3y=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPr9g4629LFCTu5l21LcF0ULkGUlsJs8-L4ygLT=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPusb_KdpUFY9WfrQRYkaMKvvndDf1fmUGuEH5g=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPHM2aRPvAWwqd0Qa51u9vOtKDJvr_h9kbgHwKH=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJqclJq2_j5UcR3XBqX_nlVaM",
+      "google_maps_url": "https://maps.google.com/?cid=11769566060413087965",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Weinbrunnerhof 4, 67697 Otterberg, Germany",
-        "geometry": {
-          "location": {
-            "lat": 49.49413999999999,
-            "lng": 7.807290000000001
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.4954889802915,
-              "lng": 7.808638980291503
-            },
-            "southwest": {
-              "lat": 49.4927910197085,
-              "lng": 7.805941019708499
-            }
-          }
-        },
-        "international_phone_number": "+49 6301 7982000",
-        "name": "Shaolin Temple Europe",
-        "place_id": "ChIJuT0LnTQSlkcRMZdK7SkDVPw",
-        "url": "https://maps.google.com/?cid=18182161074211166001",
-        "website": "http://www.shaolintemple.eu/",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipOPMN3JJ9yF_gURfPuJkyg2daUnO3QyM0su6Cjq=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMzLgGRz2yJ0nLhoB_ZRBwacDlFWqO2ZKp0UaQR=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOGCZnbV2wG4ZJG6G-rd5AGXWUyDxFYm4uYA6a2=s1600-w580-h386",
-          "https://lh3.googleusercontent.com/p/AF1QipPANu7kZx8FZvwc6NU9djFsflFUTjli2jRFe4Yo=s1600-w580-h386",
-          "https://lh3.googleusercontent.com/p/AF1QipM5GWS75VS-Tu5PnNWugu-zck9DyvVJjUbggR1j=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNYRQPuq0vX0UNWPKPoPBiTVAw18dJXbS-3Ni17=s1600-w580-h386",
-          "https://lh3.googleusercontent.com/p/AF1QipOkTbbIY46s8e3Iwv-5Mo6onr4wJMxm2t2g4MBb=s1600-w580-h386",
-          "https://lh3.googleusercontent.com/p/AF1QipNqfiQft8IiFeQLR2Jrg_MXsVMCkHlYw3WmK3gk=s1600-w580-h386",
-          "https://lh3.googleusercontent.com/p/AF1QipPOLVhzsF1WGaGJOQnEs7IfmegcQDPD7UdCDAII=s1600-w580-h386",
-          "https://lh3.googleusercontent.com/p/AF1QipOE8YS3xEXpmZ13cVKsAcgxo-fmRk8ZQOmAdeC1=s1600-w800-h800"
-        ]
+      "name": "Shaolin Temple Europe",
+      "location": {
+        "lat": 49.49413999999999,
+        "lng": 7.807290000000001
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:03.365Z"
-      }
+      "address": "Weinbrunnerhof 4, 67697 Otterberg, Germany",
+      "phone": "+49 6301 7982000",
+      "website": "http://www.shaolintemple.eu/",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipOPMN3JJ9yF_gURfPuJkyg2daUnO3QyM0su6Cjq=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMzLgGRz2yJ0nLhoB_ZRBwacDlFWqO2ZKp0UaQR=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOGCZnbV2wG4ZJG6G-rd5AGXWUyDxFYm4uYA6a2=s1600-w580-h386",
+        "https://lh3.googleusercontent.com/p/AF1QipPANu7kZx8FZvwc6NU9djFsflFUTjli2jRFe4Yo=s1600-w580-h386",
+        "https://lh3.googleusercontent.com/p/AF1QipM5GWS75VS-Tu5PnNWugu-zck9DyvVJjUbggR1j=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNYRQPuq0vX0UNWPKPoPBiTVAw18dJXbS-3Ni17=s1600-w580-h386",
+        "https://lh3.googleusercontent.com/p/AF1QipOkTbbIY46s8e3Iwv-5Mo6onr4wJMxm2t2g4MBb=s1600-w580-h386",
+        "https://lh3.googleusercontent.com/p/AF1QipNqfiQft8IiFeQLR2Jrg_MXsVMCkHlYw3WmK3gk=s1600-w580-h386",
+        "https://lh3.googleusercontent.com/p/AF1QipPOLVhzsF1WGaGJOQnEs7IfmegcQDPD7UdCDAII=s1600-w580-h386",
+        "https://lh3.googleusercontent.com/p/AF1QipOE8YS3xEXpmZ13cVKsAcgxo-fmRk8ZQOmAdeC1=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJuT0LnTQSlkcRMZdK7SkDVPw",
+      "google_maps_url": "https://maps.google.com/?cid=18182161074211166001",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "Klosterhof 5, 75433 Maulbronn, Germany",
-        "geometry": {
-          "location": {
-            "lat": 49.0010106,
-            "lng": 8.812183200000002
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.0021641802915,
-              "lng": 8.813761980291503
-            },
-            "southwest": {
-              "lat": 48.99946621970851,
-              "lng": 8.811064019708498
-            }
-          }
-        },
-        "international_phone_number": "+49 7043 926610",
-        "name": "Maulbronn Monastery",
-        "place_id": "ChIJkVvtXbx3l0cRul-H7CxRnAQ",
-        "url": "https://maps.google.com/?cid=332229725907279802",
-        "website": "https://www.kloster-maulbronn.de/start",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNA_xa3ejkqJoDGpEDT9L0_GcDBalYeX8jAq4Ve=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNY_KFuCgHWhZCHJp5Akx3fO2eXv0mVgsuAWSCM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP-57j3Jrua54vqneBG0pbvknnFmegsFVXmQdwD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMYfxnmbau3SZp0X8ldnTEbC3FOOOVIYcVTMRbP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPwQPUhzzwskXY__WLHdqdkTdl22O-gviHQiLBX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPq5S87FoYccXDimzMgcf8il4iZTCsfuoAHYzSM=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNUjSKWK6iTYdFwubq6R84K4mb12N-gunfqaSYU=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOl5qstZ2kLOCcbTrRm1QRt5NP3X68bFjZoC8eO=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP2b0y2Z9ijXLUNxWbDGI9M0zx2-cZR0lT3KAbz=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipNLXzgaKyxWpyWu13f4R6nBaWzD3e3PGBV9Ky6A=s1600-w800-h800"
-        ]
+      "name": "Maulbronn Monastery",
+      "location": {
+        "lat": 49.0010106,
+        "lng": 8.812183200000002
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:03.365Z"
-      }
+      "address": "Klosterhof 5, 75433 Maulbronn, Germany",
+      "phone": "+49 7043 926610",
+      "website": "https://www.kloster-maulbronn.de/start",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNA_xa3ejkqJoDGpEDT9L0_GcDBalYeX8jAq4Ve=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNY_KFuCgHWhZCHJp5Akx3fO2eXv0mVgsuAWSCM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP-57j3Jrua54vqneBG0pbvknnFmegsFVXmQdwD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMYfxnmbau3SZp0X8ldnTEbC3FOOOVIYcVTMRbP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPwQPUhzzwskXY__WLHdqdkTdl22O-gviHQiLBX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPq5S87FoYccXDimzMgcf8il4iZTCsfuoAHYzSM=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNUjSKWK6iTYdFwubq6R84K4mb12N-gunfqaSYU=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOl5qstZ2kLOCcbTrRm1QRt5NP3X68bFjZoC8eO=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP2b0y2Z9ijXLUNxWbDGI9M0zx2-cZR0lT3KAbz=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipNLXzgaKyxWpyWu13f4R6nBaWzD3e3PGBV9Ky6A=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJkVvtXbx3l0cRul-H7CxRnAQ",
+      "google_maps_url": "https://maps.google.com/?cid=332229725907279802",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "5 Rue du Château d'Eau, 67340 Weiterswiller, France",
-        "geometry": {
-          "location": {
-            "lat": 48.851114,
-            "lng": 7.408217699999999
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 48.8525501302915,
-              "lng": 7.409503880291501
-            },
-            "southwest": {
-              "lat": 48.84985216970851,
-              "lng": 7.406805919708496
-            }
-          }
-        },
-        "international_phone_number": "+33 3 88 89 26 02",
-        "name": "Association Temple Zen Weiterswiller",
-        "place_id": "ChIJrd6KhTaelkcRYZI0f0fxLMo",
-        "url": "https://maps.google.com/?cid=14568284184015835745",
-        "website": "http://www.zen-azi.org/en/node/444",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          "https://lh3.googleusercontent.com/p/AF1QipNFoaOK61nYfFjp1qC06gFbZftAB_41Rk2fHk4_=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN3lOzPmct-gkyCKOcKZJkLBlQOAOtGCxJaPgRD=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP_jtgyiIPQxG6DQQmMqlYImn2c9YDB6oDqMY8A=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP65-jsGkQvvlIF38jAuhiZ4EYg81IPhMsQuXY=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipN0KCcdMuE3_uGDoCDyIoSCSw-uobr1pwijodjX=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipMmIoWq01wOv3svIAyTiVQNga6IyZG_s2F7AU5W=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPiSBTVZEh-F7KvnyuPZdvxHvgg2dm3Xc-Te_VP=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipOf8r7P5v2T1VCs640tkxnJdopNVqbmgJzn31Ae=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipP7YmZkqhJe1X0Z1K_ZiZIM0veGYVQ10QjL-jk=s1600-w800-h800",
-          "https://lh3.googleusercontent.com/p/AF1QipPZHdcjYpPJcAcPLC2WnRDLKDZnRGAeARN8Y9XP=s1600-w800-h800"
-        ]
+      "name": "Association Temple Zen Weiterswiller",
+      "location": {
+        "lat": 48.851114,
+        "lng": 7.408217699999999
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-03T12:55:03.365Z"
-      }
+      "address": "5 Rue du Château d'Eau, 67340 Weiterswiller, France",
+      "phone": "+33 3 88 89 26 02",
+      "website": "http://www.zen-azi.org/en/node/444",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        "https://lh3.googleusercontent.com/p/AF1QipNFoaOK61nYfFjp1qC06gFbZftAB_41Rk2fHk4_=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN3lOzPmct-gkyCKOcKZJkLBlQOAOtGCxJaPgRD=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP_jtgyiIPQxG6DQQmMqlYImn2c9YDB6oDqMY8A=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP65-jsGkQvvlIF38jAuhiZ4EYg81IPhMsQuXY=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipN0KCcdMuE3_uGDoCDyIoSCSw-uobr1pwijodjX=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipMmIoWq01wOv3svIAyTiVQNga6IyZG_s2F7AU5W=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPiSBTVZEh-F7KvnyuPZdvxHvgg2dm3Xc-Te_VP=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipOf8r7P5v2T1VCs640tkxnJdopNVqbmgJzn31Ae=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipP7YmZkqhJe1X0Z1K_ZiZIM0veGYVQ10QjL-jk=s1600-w800-h800",
+        "https://lh3.googleusercontent.com/p/AF1QipPZHdcjYpPJcAcPLC2WnRDLKDZnRGAeARN8Y9XP=s1600-w800-h800"
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJrd6KhTaelkcRYZI0f0fxLMo",
+      "google_maps_url": "https://maps.google.com/?cid=14568284184015835745",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     },
     {
-      "properties": {
-        "formatted_address": "148 A, Dieburger Str., 64287 Darmstadt, Germany",
-        "geometry": {
-          "location": {
-            "lat": 49.88116,
-            "lng": 8.67513
-          },
-          "viewport": {
-            "northeast": {
-              "lat": 49.88241148029149,
-              "lng": 8.676571780291502
-            },
-            "southwest": {
-              "lat": 49.8797135197085,
-              "lng": 8.673873819708497
-            }
-          }
-        },
-        "international_phone_number": "+49 8323 9868740",
-        "name": "Swayambhu Monastery",
-        "place_id": "ChIJzRmVcEBwvUcRdAKDj4Rpwyg",
-        "url": "https://maps.google.com/?cid=2937307400040022644",
-        "description": "",
-        "tradition": "",
-        "monastics": [
-          ""
-        ],
-        "video": [
-          ""
-        ],
-        "audio": [
-          ""
-        ],
-        "images": [
-          ""
-        ]
+      "name": "Swayambhu Monastery",
+      "location": {
+        "lat": 49.88116,
+        "lng": 8.67513
       },
-      "meta": {
-        "category": "tentative",
-        "last_updated": "2021-05-02T09:27:11.709Z"
-      }
+      "address": "148 A, Dieburger Str., 64287 Darmstadt, Germany",
+      "phone": "+49 8323 9868740",
+      "website": "",
+      "tradition": "",
+      "monastics": [
+        ""
+      ],
+      "description": [
+        ""
+      ],
+      "images": [
+        ""
+      ],
+      "video": [
+        ""
+      ],
+      "audio": [
+        ""
+      ],
+      "google_place_id": "ChIJzRmVcEBwvUcRdAKDj4Rpwyg",
+      "google_maps_url": "https://maps.google.com/?cid=2937307400040022644",
+      "category": "tentative",
+      "last_updated": "2021-05-08T09:14:23.377Z",
+      "notes": [
+        ""
+      ]
     }
   ]
 }
