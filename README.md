@@ -37,7 +37,7 @@ Developed for the [Open Sangha Collective](https://opensanghacollective.org/); u
 
 ### Place Data
 
-See [data handling docs](https://github.com/aminahbl/osc-sangha-map-production/blob/data/docs/data-refining.md) for more info. 
+See [data handling docs](https://github.com/aminahbl/osc-sangha-map-production/blob/main/docs/data-refining.md) for more info. 
 
 The core critia for places to be shown on the map are:
 
@@ -54,11 +54,11 @@ The core critia for places to be shown on the map are:
 - 1760 places initially marked as tentatively verified (places with "vihara", "monastery", "wat", "temple", or "hermitage" in the place name)
 - 1731 places remain tentatively verified following first crude filter (marking names including "hindu", "christ", "benedictine", "orthodox", "saint" and "st" to be removed + a handful of manual verifications) 
 - Image retrieval
+- WP intergration
 
 ### Next Steps:
 
-- Refine data
-- WP intergration
+- Refine data 
 - UI/UX improvement (search, full data display, key, location url +)
 - design contribution & maintanence strategy
 
